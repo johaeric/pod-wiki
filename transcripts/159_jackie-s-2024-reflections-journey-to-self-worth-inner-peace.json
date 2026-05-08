@@ -1,0 +1,1283 @@
+{
+  "video_id": "_FWNsYE5nQw",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.16
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.32,
+      "duration": 11.559
+    },
+    {
+      "text": "go hello everyone and welcome to this",
+      "start": 55.44,
+      "duration": 7.599
+    },
+    {
+      "text": "extra special unexpected episode of The",
+      "start": 59.16,
+      "duration": 5.52
+    },
+    {
+      "text": "Long COV",
+      "start": 63.039,
+      "duration": 4.601
+    },
+    {
+      "text": "podcast so I was just smugly wrapping",
+      "start": 64.68,
+      "duration": 5.84
+    },
+    {
+      "text": "things up for Christmas presents bought",
+      "start": 67.64,
+      "duration": 6.0
+    },
+    {
+      "text": "tree decorated fairy lights up work",
+      "start": 70.52,
+      "duration": 6.12
+    },
+    {
+      "text": "finished auto reply on the email inbox",
+      "start": 73.64,
+      "duration": 7.6
+    },
+    {
+      "text": "and social posts scheduled done and",
+      "start": 76.64,
+      "duration": 8.0
+    },
+    {
+      "text": "dusted except it's not because there are",
+      "start": 81.24,
+      "duration": 6.199
+    },
+    {
+      "text": "things I keep remembering and isn't that",
+      "start": 84.64,
+      "duration": 4.68
+    },
+    {
+      "text": "a perfect reminder that it doesn't",
+      "start": 87.439,
+      "duration": 5.04
+    },
+    {
+      "text": "matter how much we plan how things are",
+      "start": 89.32,
+      "duration": 5.56
+    },
+    {
+      "text": "perfectly in place or what we think is",
+      "start": 92.479,
+      "duration": 5.32
+    },
+    {
+      "text": "perfectly in place life still has the",
+      "start": 94.88,
+      "duration": 7.0
+    },
+    {
+      "text": "ability to happen something will change",
+      "start": 97.799,
+      "duration": 6.0
+    },
+    {
+      "text": "and suddenly all those carefully laid",
+      "start": 101.88,
+      "duration": 4.519
+    },
+    {
+      "text": "plans are up in the",
+      "start": 103.799,
+      "duration": 6.561
+    },
+    {
+      "text": "air so it's a reminder to me that yes",
+      "start": 106.399,
+      "duration": 6.881
+    },
+    {
+      "text": "some level of planning is necessary",
+      "start": 110.36,
+      "duration": 5.119
+    },
+    {
+      "text": "thinking ahead rather than winging every",
+      "start": 113.28,
+      "duration": 5.759
+    },
+    {
+      "text": "moment is going to help but",
+      "start": 115.479,
+      "duration": 5.96
+    },
+    {
+      "text": "perfectionism planning every moment is",
+      "start": 119.039,
+      "duration": 3.801
+    },
+    {
+      "text": "not only",
+      "start": 121.439,
+      "duration": 4.241
+    },
+    {
+      "text": "impractical it also takes a lot of the",
+      "start": 122.84,
+      "duration": 5.759
+    },
+    {
+      "text": "fun out of life if we can allow",
+      "start": 125.68,
+      "duration": 5.079
+    },
+    {
+      "text": "ourselves to be a little more in the",
+      "start": 128.599,
+      "duration": 4.681
+    },
+    {
+      "text": "moment it will actually help our nervous",
+      "start": 130.759,
+      "duration": 4.76
+    },
+    {
+      "text": "systems by removing some of that",
+      "start": 133.28,
+      "duration": 4.84
+    },
+    {
+      "text": "pressure that we often unknowingly put",
+      "start": 135.519,
+      "duration": 4.44
+    },
+    {
+      "text": "on",
+      "start": 138.12,
+      "duration": 4.88
+    },
+    {
+      "text": "ourselves so I thought this would make",
+      "start": 139.959,
+      "duration": 7.521
+    },
+    {
+      "text": "an interesting little jaxter 2024",
+      "start": 143.0,
+      "duration": 6.28
+    },
+    {
+      "text": "Reflections and I've done this for the",
+      "start": 147.48,
+      "duration": 5.16
+    },
+    {
+      "text": "last couple of years um because I think",
+      "start": 149.28,
+      "duration": 5.039
+    },
+    {
+      "text": "it is a time for",
+      "start": 152.64,
+      "duration": 4.8
+    },
+    {
+      "text": "reflection and that's",
+      "start": 154.319,
+      "duration": 5.241
+    },
+    {
+      "text": "healthy one of the events that I've",
+      "start": 157.44,
+      "duration": 4.64
+    },
+    {
+      "text": "started running in the creativity group",
+      "start": 159.56,
+      "duration": 6.36
+    },
+    {
+      "text": "is a virtual art room we meet on zoom",
+      "start": 162.08,
+      "duration": 5.72
+    },
+    {
+      "text": "and each person brings something",
+      "start": 165.92,
+      "duration": 5.12
+    },
+    {
+      "text": "creative to work on then we sit and",
+      "start": 167.8,
+      "duration": 6.28
+    },
+    {
+      "text": "create for about 40 minutes or so and",
+      "start": 171.04,
+      "duration": 5.72
+    },
+    {
+      "text": "after that people can share if they wish",
+      "start": 174.08,
+      "duration": 5.2
+    },
+    {
+      "text": "or not um and the first of these",
+      "start": 176.76,
+      "duration": 5.24
+    },
+    {
+      "text": "sessions run ran just this",
+      "start": 179.28,
+      "duration": 5.16
+    },
+    {
+      "text": "week I had some writing that I'd been",
+      "start": 182.0,
+      "duration": 4.239
+    },
+    {
+      "text": "meaning to do for ages and had been",
+      "start": 184.44,
+      "duration": 4.32
+    },
+    {
+      "text": "putting off because I quote unquote",
+      "start": 186.239,
+      "duration": 4.56
+    },
+    {
+      "text": "never had",
+      "start": 188.76,
+      "duration": 5.16
+    },
+    {
+      "text": "time and you it wasn't that I hadn't got",
+      "start": 190.799,
+      "duration": 7.281
+    },
+    {
+      "text": "time it was that I hadn't made time so",
+      "start": 193.92,
+      "duration": 6.679
+    },
+    {
+      "text": "this was a perfect thing for me I would",
+      "start": 198.08,
+      "duration": 5.32
+    },
+    {
+      "text": "host it for others but also be able to",
+      "start": 200.599,
+      "duration": 5.441
+    },
+    {
+      "text": "benefit",
+      "start": 203.4,
+      "duration": 5.32
+    },
+    {
+      "text": "myself and one of the things I had been",
+      "start": 206.04,
+      "duration": 4.96
+    },
+    {
+      "text": "planning to do during December was a",
+      "start": 208.72,
+      "duration": 3.84
+    },
+    {
+      "text": "daily journaling",
+      "start": 211.0,
+      "duration": 4.599
+    },
+    {
+      "text": "prompt I even downloaded them onto my",
+      "start": 212.56,
+      "duration": 5.84
+    },
+    {
+      "text": "laptop I just never actually sat down",
+      "start": 215.599,
+      "duration": 6.481
+    },
+    {
+      "text": "and engaged but during the session I did",
+      "start": 218.4,
+      "duration": 6.16
+    },
+    {
+      "text": "I did that day prompt and it was what",
+      "start": 222.08,
+      "duration": 4.159
+    },
+    {
+      "text": "gave me the idea for this short end of",
+      "start": 224.56,
+      "duration": 3.48
+    },
+    {
+      "text": "term Reflections",
+      "start": 226.239,
+      "duration": 5.36
+    },
+    {
+      "text": "episode prompt said if you could tell",
+      "start": 228.04,
+      "duration": 6.8
+    },
+    {
+      "text": "yourself from one year ago something",
+      "start": 231.599,
+      "duration": 5.36
+    },
+    {
+      "text": "what would it",
+      "start": 234.84,
+      "duration": 4.399
+    },
+    {
+      "text": "be and I thought this was really",
+      "start": 236.959,
+      "duration": 4.521
+    },
+    {
+      "text": "interesting",
+      "start": 239.239,
+      "duration": 6.08
+    },
+    {
+      "text": "one of the questions I always ask people",
+      "start": 241.48,
+      "duration": 5.08
+    },
+    {
+      "text": "when they're sharing their recovery",
+      "start": 245.319,
+      "duration": 4.48
+    },
+    {
+      "text": "story is what advice would you give",
+      "start": 246.56,
+      "duration": 6.679
+    },
+    {
+      "text": "yourself back when you were unwell or",
+      "start": 249.799,
+      "duration": 6.321
+    },
+    {
+      "text": "what would you have liked to have been",
+      "start": 253.239,
+      "duration": 5.72
+    },
+    {
+      "text": "told and I ask this because when we are",
+      "start": 256.12,
+      "duration": 4.56
+    },
+    {
+      "text": "in the middle of something like long",
+      "start": 258.959,
+      "duration": 5.201
+    },
+    {
+      "text": "covid we often don't know what we",
+      "start": 260.68,
+      "duration": 6.04
+    },
+    {
+      "text": "need we're struggling and we're still",
+      "start": 264.16,
+      "duration": 5.08
+    },
+    {
+      "text": "trying to engage with that it's a",
+      "start": 266.72,
+      "duration": 3.88
+    },
+    {
+      "text": "process",
+      "start": 269.24,
+      "duration": 3.519
+    },
+    {
+      "text": "it took a long time for me to start to",
+      "start": 270.6,
+      "duration": 4.36
+    },
+    {
+      "text": "understand my body enough to be able to",
+      "start": 272.759,
+      "duration": 3.921
+    },
+    {
+      "text": "start to think about what it might",
+      "start": 274.96,
+      "duration": 2.72
+    },
+    {
+      "text": "actually",
+      "start": 276.68,
+      "duration": 3.76
+    },
+    {
+      "text": "need we might know what we",
+      "start": 277.68,
+      "duration": 7.76
+    },
+    {
+      "text": "want but do we actually know what we",
+      "start": 280.44,
+      "duration": 5.0
+    },
+    {
+      "text": "need so someone who's recovered has come",
+      "start": 285.84,
+      "duration": 6.359
+    },
+    {
+      "text": "out the other side they have this unique",
+      "start": 288.919,
+      "duration": 5.72
+    },
+    {
+      "text": "perspective because they have been there",
+      "start": 292.199,
+      "duration": 6.0
+    },
+    {
+      "text": "in the M of illness they've experienced",
+      "start": 294.639,
+      "duration": 7.0
+    },
+    {
+      "text": "some of the difficulties your currently",
+      "start": 298.199,
+      "duration": 5.56
+    },
+    {
+      "text": "experiencing but they also have that",
+      "start": 301.639,
+      "duration": 3.761
+    },
+    {
+      "text": "benefit of",
+      "start": 303.759,
+      "duration": 4.0
+    },
+    {
+      "text": "hindsight what would I have been better",
+      "start": 305.4,
+      "duration": 5.92
+    },
+    {
+      "text": "to do to think to work on what might",
+      "start": 307.759,
+      "duration": 5.88
+    },
+    {
+      "text": "have helped that",
+      "start": 311.32,
+      "duration": 5.48
+    },
+    {
+      "text": "experience maybe what should I have done",
+      "start": 313.639,
+      "duration": 5.961
+    },
+    {
+      "text": "in certain experiences that maybe wasn't",
+      "start": 316.8,
+      "duration": 4.519
+    },
+    {
+      "text": "obvious at the time in fact it almost",
+      "start": 319.6,
+      "duration": 3.96
+    },
+    {
+      "text": "certainly wasn't obvious at the",
+      "start": 321.319,
+      "duration": 5.32
+    },
+    {
+      "text": "time but maybe a little a little clearer",
+      "start": 323.56,
+      "duration": 4.479
+    },
+    {
+      "text": "maybe even a lot",
+      "start": 326.639,
+      "duration": 5.081
+    },
+    {
+      "text": "clearer with that benefit of",
+      "start": 328.039,
+      "duration": 6.321
+    },
+    {
+      "text": "hindsight now not everyone is the",
+      "start": 331.72,
+      "duration": 6.0
+    },
+    {
+      "text": "same but so many people give quite",
+      "start": 334.36,
+      "duration": 6.6
+    },
+    {
+      "text": "similar answers to that question which I",
+      "start": 337.72,
+      "duration": 6.24
+    },
+    {
+      "text": "think is important to",
+      "start": 340.96,
+      "duration": 5.6
+    },
+    {
+      "text": "note so back to my journal",
+      "start": 343.96,
+      "duration": 5.6
+    },
+    {
+      "text": "prompt I think reflection is",
+      "start": 346.56,
+      "duration": 5.56
+    },
+    {
+      "text": "important in the moment we can get swept",
+      "start": 349.56,
+      "duration": 5.96
+    },
+    {
+      "text": "up in things we can ignore our bodies we",
+      "start": 352.12,
+      "duration": 6.04
+    },
+    {
+      "text": "can push ourselves more than feels",
+      "start": 355.52,
+      "duration": 4.92
+    },
+    {
+      "text": "good when we have something like long",
+      "start": 358.16,
+      "duration": 3.879
+    },
+    {
+      "text": "covid that can have some pretty",
+      "start": 360.44,
+      "duration": 3.879
+    },
+    {
+      "text": "unpleasant",
+      "start": 362.039,
+      "duration": 4.521
+    },
+    {
+      "text": "effects when you're a quote unquote",
+      "start": 364.319,
+      "duration": 6.361
+    },
+    {
+      "text": "regular person the effects are much more",
+      "start": 366.56,
+      "duration": 7.24
+    },
+    {
+      "text": "normal whatever that means we push",
+      "start": 370.68,
+      "duration": 5.0
+    },
+    {
+      "text": "ourselves a bit too much we feel a",
+      "start": 373.8,
+      "duration": 4.76
+    },
+    {
+      "text": "little tired we get a bit",
+      "start": 375.68,
+      "duration": 5.48
+    },
+    {
+      "text": "grumpy but we can also fall into the",
+      "start": 378.56,
+      "duration": 5.52
+    },
+    {
+      "text": "habit of ignoring it for longer allowing",
+      "start": 381.16,
+      "duration": 5.36
+    },
+    {
+      "text": "things to build up and up and then the",
+      "start": 384.08,
+      "duration": 5.679
+    },
+    {
+      "text": "body screaming before we listen",
+      "start": 386.52,
+      "duration": 5.76
+    },
+    {
+      "text": "and that's what I used to",
+      "start": 389.759,
+      "duration": 5.641
+    },
+    {
+      "text": "do and that greater awareness helps me",
+      "start": 392.28,
+      "duration": 6.12
+    },
+    {
+      "text": "to not do it now or not to the extent",
+      "start": 395.4,
+      "duration": 4.4
+    },
+    {
+      "text": "that I used",
+      "start": 398.4,
+      "duration": 4.079
+    },
+    {
+      "text": "to but I think we can all fall into that",
+      "start": 399.8,
+      "duration": 5.08
+    },
+    {
+      "text": "trap if we're not careful and for me",
+      "start": 402.479,
+      "duration": 4.241
+    },
+    {
+      "text": "that's one of the greatest lessons of",
+      "start": 404.88,
+      "duration": 3.159
+    },
+    {
+      "text": "long",
+      "start": 406.72,
+      "duration": 5.479
+    },
+    {
+      "text": "Co is that awareness that understanding",
+      "start": 408.039,
+      "duration": 6.641
+    },
+    {
+      "text": "and that respect for my",
+      "start": 412.199,
+      "duration": 5.801
+    },
+    {
+      "text": "body but really",
+      "start": 414.68,
+      "duration": 6.04
+    },
+    {
+      "text": "listening I think it's so important to",
+      "start": 418.0,
+      "duration": 4.68
+    },
+    {
+      "text": "understand as well that we're always",
+      "start": 420.72,
+      "duration": 4.36
+    },
+    {
+      "text": "learning that self-improvement and",
+      "start": 422.68,
+      "duration": 5.28
+    },
+    {
+      "text": "healing is a lifelong",
+      "start": 425.08,
+      "duration": 5.519
+    },
+    {
+      "text": "process and I think that takes the",
+      "start": 427.96,
+      "duration": 4.639
+    },
+    {
+      "text": "pressure off us as",
+      "start": 430.599,
+      "duration": 5.16
+    },
+    {
+      "text": "well for me the greater awareness that I",
+      "start": 432.599,
+      "duration": 5.841
+    },
+    {
+      "text": "had to gain during long covid and the",
+      "start": 435.759,
+      "duration": 5.481
+    },
+    {
+      "text": "things that I found that helped me",
+      "start": 438.44,
+      "duration": 3.759
+    },
+    {
+      "text": "through",
+      "start": 441.24,
+      "duration": 4.679
+    },
+    {
+      "text": "necessity have Now Set Me On A New Path",
+      "start": 442.199,
+      "duration": 6.12
+    },
+    {
+      "text": "and that path didn't end with recovery",
+      "start": 445.919,
+      "duration": 5.441
+    },
+    {
+      "text": "of course it was a maj Maj milestone in",
+      "start": 448.319,
+      "duration": 5.761
+    },
+    {
+      "text": "fact it was all I wanted for so long and",
+      "start": 451.36,
+      "duration": 4.239
+    },
+    {
+      "text": "it's the best thing",
+      "start": 454.08,
+      "duration": 4.28
+    },
+    {
+      "text": "ever but I'm continuing that Journey",
+      "start": 455.599,
+      "duration": 5.72
+    },
+    {
+      "text": "continuing to learn to experience to get",
+      "start": 458.36,
+      "duration": 6.04
+    },
+    {
+      "text": "things wrong sometimes recovery was the",
+      "start": 461.319,
+      "duration": 5.241
+    },
+    {
+      "text": "end of one Journey but it was the",
+      "start": 464.4,
+      "duration": 6.239
+    },
+    {
+      "text": "beginning of another and isn't that",
+      "start": 466.56,
+      "duration": 6.199
+    },
+    {
+      "text": "wonderful so I'm going to finish this",
+      "start": 470.639,
+      "duration": 4.441
+    },
+    {
+      "text": "year on the podcast by reading out what",
+      "start": 472.759,
+      "duration": 6.0
+    },
+    {
+      "text": "I wrote word for word raw and vulnerable",
+      "start": 475.08,
+      "duration": 5.16
+    },
+    {
+      "text": "and",
+      "start": 478.759,
+      "duration": 4.081
+    },
+    {
+      "text": "edited because I think that's",
+      "start": 480.24,
+      "duration": 4.679
+    },
+    {
+      "text": "important it doesn't mean that it's your",
+      "start": 482.84,
+      "duration": 5.28
+    },
+    {
+      "text": "story right now but it may be useful for",
+      "start": 484.919,
+      "duration": 5.321
+    },
+    {
+      "text": "you in the",
+      "start": 488.12,
+      "duration": 4.479
+    },
+    {
+      "text": "future I think it's important to show",
+      "start": 490.24,
+      "duration": 5.56
+    },
+    {
+      "text": "life beyond long CO as possible it's",
+      "start": 492.599,
+      "duration": 6.56
+    },
+    {
+      "text": "wonderful it's also flawed it's full of",
+      "start": 495.8,
+      "duration": 6.92
+    },
+    {
+      "text": "failures and learnings ups and downs",
+      "start": 499.159,
+      "duration": 7.04
+    },
+    {
+      "text": "stresses moments of sadness and",
+      "start": 502.72,
+      "duration": 6.12
+    },
+    {
+      "text": "difficulty and despite that it is the",
+      "start": 506.199,
+      "duration": 5.56
+    },
+    {
+      "text": "most beautiful thing and it is worth the",
+      "start": 508.84,
+      "duration": 5.36
+    },
+    {
+      "text": "trials that it takes to get here it",
+      "start": 511.759,
+      "duration": 4.28
+    },
+    {
+      "text": "really",
+      "start": 514.2,
+      "duration": 7.0
+    },
+    {
+      "text": "is so I wish you all a peaceful",
+      "start": 516.039,
+      "duration": 7.88
+    },
+    {
+      "text": "holiday I encourage you to find joy in",
+      "start": 521.2,
+      "duration": 5.96
+    },
+    {
+      "text": "any way you can whatever you are doing",
+      "start": 523.919,
+      "duration": 6.04
+    },
+    {
+      "text": "and whoever you are",
+      "start": 527.16,
+      "duration": 6.6
+    },
+    {
+      "text": "with I will be back in January 2025 and",
+      "start": 529.959,
+      "duration": 6.32
+    },
+    {
+      "text": "I hope to see you there",
+      "start": 533.76,
+      "duration": 6.199
+    },
+    {
+      "text": "too so here we go if you you could tell",
+      "start": 536.279,
+      "duration": 6.721
+    },
+    {
+      "text": "yourself from one year ago something",
+      "start": 539.959,
+      "duration": 5.56
+    },
+    {
+      "text": "what would it",
+      "start": 543.0,
+      "duration": 2.519
+    },
+    {
+      "text": "be remember those lessons you",
+      "start": 545.6,
+      "duration": 6.12
+    },
+    {
+      "text": "learned prevention is better than cure",
+      "start": 548.839,
+      "duration": 6.041
+    },
+    {
+      "text": "take care of yourself that's",
+      "start": 551.72,
+      "duration": 6.64
+    },
+    {
+      "text": "underlined love every moment don't take",
+      "start": 554.88,
+      "duration": 4.76
+    },
+    {
+      "text": "anything for",
+      "start": 558.36,
+      "duration": 4.4
+    },
+    {
+      "text": "granted things pass both the good and",
+      "start": 559.64,
+      "duration": 4.04
+    },
+    {
+      "text": "the",
+      "start": 562.76,
+      "duration": 7.12
+    },
+    {
+      "text": "bad worry less love more live more",
+      "start": 563.68,
+      "duration": 9.12
+    },
+    {
+      "text": "every experience is valid allow yourself",
+      "start": 569.88,
+      "duration": 3.76
+    },
+    {
+      "text": "to be",
+      "start": 572.8,
+      "duration": 3.84
+    },
+    {
+      "text": "heard you are precious you are a",
+      "start": 573.64,
+      "duration": 5.72
+    },
+    {
+      "text": "resource that needs to be protected you",
+      "start": 576.64,
+      "duration": 4.879
+    },
+    {
+      "text": "want to give so much of yourself and the",
+      "start": 579.36,
+      "duration": 5.12
+    },
+    {
+      "text": "world needs that but you can't pour from",
+      "start": 581.519,
+      "duration": 5.961
+    },
+    {
+      "text": "an empty cup and no one will look after",
+      "start": 584.48,
+      "duration": 5.72
+    },
+    {
+      "text": "you if you don't look after",
+      "start": 587.48,
+      "duration": 4.919
+    },
+    {
+      "text": "yourself your health is the most",
+      "start": 590.2,
+      "duration": 4.4
+    },
+    {
+      "text": "valuable thing you have and you must",
+      "start": 592.399,
+      "duration": 4.281
+    },
+    {
+      "text": "guard it with the same tenacity with",
+      "start": 594.6,
+      "duration": 5.04
+    },
+    {
+      "text": "which you reclaimed it",
+      "start": 596.68,
+      "duration": 4.599
+    },
+    {
+      "text": "we must treasure",
+      "start": 599.64,
+      "duration": 4.92
+    },
+    {
+      "text": "ourselves and that is one of the most",
+      "start": 601.279,
+      "duration": 6.56
+    },
+    {
+      "text": "important lessons of this",
+      "start": 604.56,
+      "duration": 5.8
+    },
+    {
+      "text": "experience give back to yourself",
+      "start": 607.839,
+      "duration": 5.041
+    },
+    {
+      "text": "treasure yourself respect",
+      "start": 610.36,
+      "duration": 6.159
+    },
+    {
+      "text": "yourself you are worthy whatever you do",
+      "start": 612.88,
+      "duration": 6.84
+    },
+    {
+      "text": "or don't do you are enough you are",
+      "start": 616.519,
+      "duration": 5.961
+    },
+    {
+      "text": "strength you are wisdom you are Joy you",
+      "start": 619.72,
+      "duration": 4.96
+    },
+    {
+      "text": "are everything you need to be and more",
+      "start": 622.48,
+      "duration": 4.84
+    },
+    {
+      "text": "and you have got this I have absolute",
+      "start": 624.68,
+      "duration": 6.0
+    },
+    {
+      "text": "faith in you because I am you",
+      "start": 627.32,
+      "duration": 5.32
+    },
+    {
+      "text": "and I know you have it within you to be",
+      "start": 630.68,
+      "duration": 4.36
+    },
+    {
+      "text": "your wonderful authentic",
+      "start": 632.64,
+      "duration": 6.199
+    },
+    {
+      "text": "self go now be happy and be",
+      "start": 635.04,
+      "duration": 6.32
+    },
+    {
+      "text": "free you know now what your body and",
+      "start": 638.839,
+      "duration": 5.0
+    },
+    {
+      "text": "soul desire and you have it within you",
+      "start": 641.36,
+      "duration": 4.68
+    },
+    {
+      "text": "to",
+      "start": 643.839,
+      "duration": 2.201
+    },
+    {
+      "text": "be thank you so much to all of my guests",
+      "start": 647.48,
+      "duration": 5.32
+    },
+    {
+      "text": "and to you for listening I hope you've",
+      "start": 650.56,
+      "duration": 5.44
+    },
+    {
+      "text": "enjoyed it or at least found it useful",
+      "start": 652.8,
+      "duration": 5.12
+    },
+    {
+      "text": "the long Co podcast is entirely",
+      "start": 656.0,
+      "duration": 3.8
+    },
+    {
+      "text": "self-produced and self",
+      "start": 657.92,
+      "duration": 3.44
+    },
+    {
+      "text": "I'm doing all of this",
+      "start": 659.8,
+      "duration": 4.4
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 661.36,
+      "duration": 4.279
+    },
+    {
+      "text": "buy meac",
+      "start": 664.2,
+      "duration": 4.639
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 665.639,
+      "duration": 5.161
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 668.839,
+      "duration": 4.0
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 670.8,
+      "duration": 4.159
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 672.839,
+      "duration": 4.201
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 674.959,
+      "duration": 5.161
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 677.04,
+      "duration": 6.56
+    },
+    {
+      "text": "love to hear from",
+      "start": 680.12,
+      "duration": 3.48
+    },
+    {
+      "text": "[Music]",
+      "start": 688.03,
+      "duration": 2.06
+    }
+  ],
+  "metadata": {
+    "title": "159 - Jackie's 2024 Reflections - Journey to self-worth & inner peace",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/_FWNsYE5nQw/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 159,
+    "title": "159 - Jackie's 2024 Reflections - Journey to self-worth & inner peace",
+    "videoId": "_FWNsYE5nQw",
+    "lengthText": "11:29"
+  }
+}

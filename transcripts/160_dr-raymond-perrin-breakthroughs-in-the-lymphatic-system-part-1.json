@@ -1,0 +1,4663 @@
+{
+  "video_id": "P1jAGvC_RVE",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.16
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.32,
+      "duration": 11.559
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 54.96,
+      "duration": 6.32
+    },
+    {
+      "text": "The Long Co podcast I'm delighted to be",
+      "start": 58.32,
+      "duration": 5.119
+    },
+    {
+      "text": "joined this afternoon by Dr Raymond",
+      "start": 61.28,
+      "duration": 4.92
+    },
+    {
+      "text": "parin who is an osteopath and",
+      "start": 63.439,
+      "duration": 5.841
+    },
+    {
+      "text": "neuroscientist and also has developed",
+      "start": 66.2,
+      "duration": 5.559
+    },
+    {
+      "text": "the parent technique so we're going to",
+      "start": 69.28,
+      "duration": 4.44
+    },
+    {
+      "text": "take a bit of a dive into what what is",
+      "start": 71.759,
+      "duration": 4.561
+    },
+    {
+      "text": "this and how is it relevant to people",
+      "start": 73.72,
+      "duration": 4.12
+    },
+    {
+      "text": "with long covid and",
+      "start": 76.32,
+      "duration": 3.72
+    },
+    {
+      "text": "mecfs thank you so much for joining me",
+      "start": 77.84,
+      "duration": 4.239
+    },
+    {
+      "text": "this afternoon it's lovely to have you",
+      "start": 80.04,
+      "duration": 6.079
+    },
+    {
+      "text": "here um happy to be here Jackie yes so",
+      "start": 82.079,
+      "duration": 6.521
+    },
+    {
+      "text": "um yeah before we start talking about",
+      "start": 86.119,
+      "duration": 3.801
+    },
+    {
+      "text": "all of this can you just say a little a",
+      "start": 88.6,
+      "duration": 4.04
+    },
+    {
+      "text": "little bit about yourself and sort of",
+      "start": 89.92,
+      "duration": 5.28
+    },
+    {
+      "text": "largely what it is that you do right",
+      "start": 92.64,
+      "duration": 6.439
+    },
+    {
+      "text": "okay so I'm an osteopath by um training",
+      "start": 95.2,
+      "duration": 6.64
+    },
+    {
+      "text": "uh at the British School of osteopathy I",
+      "start": 99.079,
+      "duration": 6.4
+    },
+    {
+      "text": "learned my trade between 1980 and",
+      "start": 101.84,
+      "duration": 7.4
+    },
+    {
+      "text": "84 um uh in London at the British school",
+      "start": 105.479,
+      "duration": 6.121
+    },
+    {
+      "text": "which was the first school of osteopathy",
+      "start": 109.24,
+      "duration": 6.28
+    },
+    {
+      "text": "outside America so um osteopathy itself",
+      "start": 111.6,
+      "duration": 6.6
+    },
+    {
+      "text": "is about is is actually 150 years old",
+      "start": 115.52,
+      "duration": 6.72
+    },
+    {
+      "text": "the profession and um so I'm not that",
+      "start": 118.2,
+      "duration": 7.959
+    },
+    {
+      "text": "old and um I trained and qualified 40",
+      "start": 122.24,
+      "duration": 8.48
+    },
+    {
+      "text": "years ago and then went on to do um work",
+      "start": 126.159,
+      "duration": 6.921
+    },
+    {
+      "text": "with sports injuries in Manchester where",
+      "start": 130.72,
+      "duration": 5.159
+    },
+    {
+      "text": "I was brought up I'm originally from",
+      "start": 133.08,
+      "duration": 4.2
+    },
+    {
+      "text": "London but I was brought up in",
+      "start": 135.879,
+      "duration": 3.041
+    },
+    {
+      "text": "Manchester and I went back to Manchester",
+      "start": 137.28,
+      "duration": 5.92
+    },
+    {
+      "text": "to to set up my clinic and specialize as",
+      "start": 138.92,
+      "duration": 6.24
+    },
+    {
+      "text": "Manchester as most people know maner is",
+      "start": 143.2,
+      "duration": 6.039
+    },
+    {
+      "text": "famous for two things vein and sports um",
+      "start": 145.16,
+      "duration": 7.88
+    },
+    {
+      "text": "so I want to make um Sports my my main",
+      "start": 149.239,
+      "duration": 6.841
+    },
+    {
+      "text": "modus Opera in sports medicine so I",
+      "start": 153.04,
+      "duration": 5.64
+    },
+    {
+      "text": "started treating a lot of footballers I",
+      "start": 156.08,
+      "duration": 4.2
+    },
+    {
+      "text": "was treating different people from",
+      "start": 158.68,
+      "duration": 4.88
+    },
+    {
+      "text": "different sporting events and um one of",
+      "start": 160.28,
+      "duration": 5.08
+    },
+    {
+      "text": "the things that uh Manchester excelled",
+      "start": 163.56,
+      "duration": 5.679
+    },
+    {
+      "text": "at uh we still do is cycling and we had",
+      "start": 165.36,
+      "duration": 6.08
+    },
+    {
+      "text": "uh you know the rally banana team was",
+      "start": 169.239,
+      "duration": 4.441
+    },
+    {
+      "text": "the rally banana team was the precursor",
+      "start": 171.44,
+      "duration": 5.719
+    },
+    {
+      "text": "for the sky team bridg Sky team and uh I",
+      "start": 173.68,
+      "duration": 5.479
+    },
+    {
+      "text": "was treating quite a few members of the",
+      "start": 177.159,
+      "duration": 4.36
+    },
+    {
+      "text": "valy banana team when one of them came",
+      "start": 179.159,
+      "duration": 3.881
+    },
+    {
+      "text": "in in",
+      "start": 181.519,
+      "duration": 6.321
+    },
+    {
+      "text": "1989 with Emy uh what we call now me CFS",
+      "start": 183.04,
+      "duration": 6.72
+    },
+    {
+      "text": "em mogic and",
+      "start": 187.84,
+      "duration": 4.88
+    },
+    {
+      "text": "citis in those days in the 80s it was",
+      "start": 189.76,
+      "duration": 5.36
+    },
+    {
+      "text": "called Yuppy flu the dreaded Yuppy flu",
+      "start": 192.72,
+      "duration": 4.72
+    },
+    {
+      "text": "that it's in just these young",
+      "start": 195.12,
+      "duration": 4.679
+    },
+    {
+      "text": "professionals who are working flat out",
+      "start": 197.44,
+      "duration": 4.359
+    },
+    {
+      "text": "in the office they just need to get out",
+      "start": 199.799,
+      "duration": 4.0
+    },
+    {
+      "text": "do some exercise and then they'll be",
+      "start": 201.799,
+      "duration": 4.921
+    },
+    {
+      "text": "fine um but it wasn't that sort of",
+      "start": 203.799,
+      "duration": 5.121
+    },
+    {
+      "text": "illness and most of these patients got",
+      "start": 206.72,
+      "duration": 3.719
+    },
+    {
+      "text": "worse and worse andse",
+      "start": 208.92,
+      "duration": 3.72
+    },
+    {
+      "text": "anyway this guy was a psychist before he",
+      "start": 210.439,
+      "duration": 4.72
+    },
+    {
+      "text": "got me but he also had back problems and",
+      "start": 212.64,
+      "duration": 4.239
+    },
+    {
+      "text": "that's why he came to me as an osteopath",
+      "start": 215.159,
+      "duration": 4.08
+    },
+    {
+      "text": "working in Manchester so I treated him",
+      "start": 216.879,
+      "duration": 5.28
+    },
+    {
+      "text": "for um as I treated his colleagues I",
+      "start": 219.239,
+      "duration": 5.36
+    },
+    {
+      "text": "treated him for back problems a lot of",
+      "start": 222.159,
+      "duration": 6.521
+    },
+    {
+      "text": "spinal problems with cyclist and um I",
+      "start": 224.599,
+      "duration": 6.28
+    },
+    {
+      "text": "said I can't really help you me because",
+      "start": 228.68,
+      "duration": 3.639
+    },
+    {
+      "text": "in those days we thought it very very",
+      "start": 230.879,
+      "duration": 3.521
+    },
+    {
+      "text": "much in the mind and just smile at the",
+      "start": 232.319,
+      "duration": 4.2
+    },
+    {
+      "text": "patient tender loving care but we",
+      "start": 234.4,
+      "duration": 4.119
+    },
+    {
+      "text": "couldn't really do anything but with the",
+      "start": 236.519,
+      "duration": 4.36
+    },
+    {
+      "text": "treatment I did on his in his head",
+      "start": 238.519,
+      "duration": 4.161
+    },
+    {
+      "text": "because I was always used cranial",
+      "start": 240.879,
+      "duration": 5.08
+    },
+    {
+      "text": "techniques which working on the head um",
+      "start": 242.68,
+      "duration": 6.32
+    },
+    {
+      "text": "then his symptoms starting to improve",
+      "start": 245.959,
+      "duration": 5.92
+    },
+    {
+      "text": "and within a few weeks his symptoms were",
+      "start": 249.0,
+      "duration": 4.4
+    },
+    {
+      "text": "definitely improving in a few months he",
+      "start": 251.879,
+      "duration": 4.281
+    },
+    {
+      "text": "was symptom free so he came to me with a",
+      "start": 253.4,
+      "duration": 5.76
+    },
+    {
+      "text": "whole pile of notes and research data he",
+      "start": 256.16,
+      "duration": 5.96
+    },
+    {
+      "text": "said read this because nobody's able to",
+      "start": 259.16,
+      "duration": 4.599
+    },
+    {
+      "text": "work out what's wrong with me and why",
+      "start": 262.12,
+      "duration": 4.48
+    },
+    {
+      "text": "I've got M me and you have and you've",
+      "start": 263.759,
+      "duration": 6.28
+    },
+    {
+      "text": "treated me and um your treatment got me",
+      "start": 266.6,
+      "duration": 5.28
+    },
+    {
+      "text": "better and I said well I don't know how",
+      "start": 270.039,
+      "duration": 4.281
+    },
+    {
+      "text": "but I'll look into it so it was really",
+      "start": 271.88,
+      "duration": 4.759
+    },
+    {
+      "text": "bad chance that I actually helped this",
+      "start": 274.32,
+      "duration": 4.439
+    },
+    {
+      "text": "patient but then I thought what did I do",
+      "start": 276.639,
+      "duration": 3.961
+    },
+    {
+      "text": "and I worked on his spine and the",
+      "start": 278.759,
+      "duration": 3.601
+    },
+    {
+      "text": "thoracic spine was the main area that's",
+      "start": 280.6,
+      "duration": 5.28
+    },
+    {
+      "text": "the mid part of the spine and that's",
+      "start": 282.36,
+      "duration": 5.0
+    },
+    {
+      "text": "when I started thinking hey wait a",
+      "start": 285.88,
+      "duration": 5.2
+    },
+    {
+      "text": "second all these this notes about me um",
+      "start": 287.36,
+      "duration": 6.72
+    },
+    {
+      "text": "and patients with it all have symptoms",
+      "start": 291.08,
+      "duration": 5.88
+    },
+    {
+      "text": "of what now we call dis",
+      "start": 294.08,
+      "duration": 5.959
+    },
+    {
+      "text": "autonomia so um what we we call in the",
+      "start": 296.96,
+      "duration": 5.519
+    },
+    {
+      "text": "osteopathic World sympathetic conia that",
+      "start": 300.039,
+      "duration": 4.841
+    },
+    {
+      "text": "the sympathetic nervous system was being",
+      "start": 302.479,
+      "duration": 5.321
+    },
+    {
+      "text": "overloaded and was not was working in a",
+      "start": 304.88,
+      "duration": 6.44
+    },
+    {
+      "text": "dysfunctional way and the sympathetic",
+      "start": 307.8,
+      "duration": 5.6
+    },
+    {
+      "text": "nerves comes from the spine in the",
+      "start": 311.32,
+      "duration": 4.04
+    },
+    {
+      "text": "thoracic area from the top of the",
+      "start": 313.4,
+      "duration": 4.799
+    },
+    {
+      "text": "thoracic to the bottom it is mostly",
+      "start": 315.36,
+      "duration": 5.36
+    },
+    {
+      "text": "coming from the spine in that area to",
+      "start": 318.199,
+      "duration": 5.12
+    },
+    {
+      "text": "travel around the body and it the",
+      "start": 320.72,
+      "duration": 4.36
+    },
+    {
+      "text": "sympathetic nerve is there nervous",
+      "start": 323.319,
+      "duration": 3.281
+    },
+    {
+      "text": "system it's known as the fear fight and",
+      "start": 325.08,
+      "duration": 3.8
+    },
+    {
+      "text": "flight system but it's much more than",
+      "start": 326.6,
+      "duration": 5.159
+    },
+    {
+      "text": "just for for uh for danger and for when",
+      "start": 328.88,
+      "duration": 5.48
+    },
+    {
+      "text": "the body's under stress it's there to",
+      "start": 331.759,
+      "duration": 5.28
+    },
+    {
+      "text": "keep everything moving",
+      "start": 334.36,
+      "duration": 4.559
+    },
+    {
+      "text": "automatically um it's there to help the",
+      "start": 337.039,
+      "duration": 3.641
+    },
+    {
+      "text": "blood flow it's there to help the organs",
+      "start": 338.919,
+      "duration": 4.481
+    },
+    {
+      "text": "work the heart the lungs the kidneys the",
+      "start": 340.68,
+      "duration": 5.12
+    },
+    {
+      "text": "bowels the sympathetic nervous system is",
+      "start": 343.4,
+      "duration": 4.239
+    },
+    {
+      "text": "is is the main stay for all the",
+      "start": 345.8,
+      "duration": 4.119
+    },
+    {
+      "text": "automatic functions of the body we also",
+      "start": 347.639,
+      "duration": 4.081
+    },
+    {
+      "text": "have the parasympathetic nervous system",
+      "start": 349.919,
+      "duration": 4.12
+    },
+    {
+      "text": "the vagus nerve mainly coming from the",
+      "start": 351.72,
+      "duration": 4.4
+    },
+    {
+      "text": "head and there some from the from the",
+      "start": 354.039,
+      "duration": 4.72
+    },
+    {
+      "text": "sacrum at the bottom which also",
+      "start": 356.12,
+      "duration": 4.88
+    },
+    {
+      "text": "parallels the sympathetic and it and it",
+      "start": 358.759,
+      "duration": 4.761
+    },
+    {
+      "text": "it sort of helps balance the system out",
+      "start": 361.0,
+      "duration": 4.919
+    },
+    {
+      "text": "it's no known more for calming the",
+      "start": 363.52,
+      "duration": 5.56
+    },
+    {
+      "text": "system than aggravating the system but",
+      "start": 365.919,
+      "duration": 4.921
+    },
+    {
+      "text": "this this is all part of the autonomic",
+      "start": 369.08,
+      "duration": 4.64
+    },
+    {
+      "text": "nervous system and I thought well what",
+      "start": 370.84,
+      "duration": 4.919
+    },
+    {
+      "text": "I've done is by working on his spine and",
+      "start": 373.72,
+      "duration": 4.0
+    },
+    {
+      "text": "working his body and working his head",
+      "start": 375.759,
+      "duration": 3.56
+    },
+    {
+      "text": "I've helped the sympathetic nervous",
+      "start": 377.72,
+      "duration": 4.0
+    },
+    {
+      "text": "system probably also the par",
+      "start": 379.319,
+      "duration": 4.801
+    },
+    {
+      "text": "sympathetics the autonomics to balance",
+      "start": 381.72,
+      "duration": 4.24
+    },
+    {
+      "text": "down so then we have to look at what's",
+      "start": 384.12,
+      "duration": 3.479
+    },
+    {
+      "text": "going on in the body why that's",
+      "start": 385.96,
+      "duration": 4.519
+    },
+    {
+      "text": "happening so then I came up with uh my",
+      "start": 387.599,
+      "duration": 6.121
+    },
+    {
+      "text": "theories and so that's the background to",
+      "start": 390.479,
+      "duration": 6.081
+    },
+    {
+      "text": "how it all started and from that one",
+      "start": 393.72,
+      "duration": 5.319
+    },
+    {
+      "text": "patient and then I decided to do",
+      "start": 396.56,
+      "duration": 5.28
+    },
+    {
+      "text": "research and I got into University of",
+      "start": 399.039,
+      "duration": 5.921
+    },
+    {
+      "text": "Sul when I did uh when I spent the next",
+      "start": 401.84,
+      "duration": 4.0
+    },
+    {
+      "text": "11",
+      "start": 404.96,
+      "duration": 4.48
+    },
+    {
+      "text": "years uh conducting two clinical trials",
+      "start": 405.84,
+      "duration": 6.4
+    },
+    {
+      "text": "for a masters and upgraded to a PhD and",
+      "start": 409.44,
+      "duration": 4.96
+    },
+    {
+      "text": "I got my doctorate in",
+      "start": 412.24,
+      "duration": 4.44
+    },
+    {
+      "text": "2005 and my",
+      "start": 414.4,
+      "duration": 5.479
+    },
+    {
+      "text": "doctorate after that I went um",
+      "start": 416.68,
+      "duration": 5.44
+    },
+    {
+      "text": "interesting because uh at the my",
+      "start": 419.879,
+      "duration": 4.72
+    },
+    {
+      "text": "graduation in 2005 which is almost 20",
+      "start": 422.12,
+      "duration": 5.28
+    },
+    {
+      "text": "years ago now um my wife cried because",
+      "start": 424.599,
+      "duration": 5.6
+    },
+    {
+      "text": "she realized how much hard work I've",
+      "start": 427.4,
+      "duration": 6.079
+    },
+    {
+      "text": "been to to get to the stage but then she",
+      "start": 430.199,
+      "duration": 7.0
+    },
+    {
+      "text": "cries now because I carried on doing",
+      "start": 433.479,
+      "duration": 6.041
+    },
+    {
+      "text": "postgrad research and I carried on doing",
+      "start": 437.199,
+      "duration": 5.241
+    },
+    {
+      "text": "more and more so I carried on and then",
+      "start": 439.52,
+      "duration": 4.92
+    },
+    {
+      "text": "now at the University of Manchester I",
+      "start": 442.44,
+      "duration": 3.319
+    },
+    {
+      "text": "was at the University of Central",
+      "start": 444.44,
+      "duration": 3.28
+    },
+    {
+      "text": "Lancashire doing research I'm now",
+      "start": 445.759,
+      "duration": 4.241
+    },
+    {
+      "text": "attached to the University of Manchester",
+      "start": 447.72,
+      "duration": 5.4
+    },
+    {
+      "text": "our um honory clinical research fellow",
+      "start": 450.0,
+      "duration": 5.759
+    },
+    {
+      "text": "and carried on and on you don't stop",
+      "start": 453.12,
+      "duration": 4.16
+    },
+    {
+      "text": "with research there's always new things",
+      "start": 455.759,
+      "duration": 4.681
+    },
+    {
+      "text": "to learn but um my the what I tell",
+      "start": 457.28,
+      "duration": 5.24
+    },
+    {
+      "text": "people is that when I started my",
+      "start": 460.44,
+      "duration": 5.439
+    },
+    {
+      "text": "research work and when I finished my PhD",
+      "start": 462.52,
+      "duration": 7.28
+    },
+    {
+      "text": "in 2005 it was a PhD on the involvement",
+      "start": 465.879,
+      "duration": 6.961
+    },
+    {
+      "text": "of the lymphatic system of the brain the",
+      "start": 469.8,
+      "duration": 5.92
+    },
+    {
+      "text": "sympathetic nervous system in",
+      "start": 472.84,
+      "duration": 7.039
+    },
+    {
+      "text": "me and me in those days still in the s",
+      "start": 475.72,
+      "duration": 7.12
+    },
+    {
+      "text": "were still disbelieved by many doctors",
+      "start": 479.879,
+      "duration": 5.04
+    },
+    {
+      "text": "as an actual illness even now they're",
+      "start": 482.84,
+      "duration": 4.199
+    },
+    {
+      "text": "still fighting the battle to try and get",
+      "start": 484.919,
+      "duration": 3.041
+    },
+    {
+      "text": "it",
+      "start": 487.039,
+      "duration": 4.681
+    },
+    {
+      "text": "recognized in some places",
+      "start": 487.96,
+      "duration": 7.56
+    },
+    {
+      "text": "and so I did a research on PhD at",
+      "start": 491.72,
+      "duration": 5.72
+    },
+    {
+      "text": "University of Sul in a disease that",
+      "start": 495.52,
+      "duration": 4.44
+    },
+    {
+      "text": "officially didn't exist in many people's",
+      "start": 497.44,
+      "duration": 5.719
+    },
+    {
+      "text": "books and then the process I said was",
+      "start": 499.96,
+      "duration": 6.359
+    },
+    {
+      "text": "going wrong of that the drainage of the",
+      "start": 503.159,
+      "duration": 5.801
+    },
+    {
+      "text": "brain into lymphatics was was was being",
+      "start": 506.319,
+      "duration": 4.641
+    },
+    {
+      "text": "affected because the nervous system was",
+      "start": 508.96,
+      "duration": 5.079
+    },
+    {
+      "text": "being affected was completely against",
+      "start": 510.96,
+      "duration": 5.879
+    },
+    {
+      "text": "medical thinking at the time completely",
+      "start": 514.039,
+      "duration": 4.761
+    },
+    {
+      "text": "the opposite and we'll explain that",
+      "start": 516.839,
+      "duration": 4.601
+    },
+    {
+      "text": "obviously today but I was fighting the",
+      "start": 518.8,
+      "duration": 5.239
+    },
+    {
+      "text": "battle but as I always say I got a PhD",
+      "start": 521.44,
+      "duration": 4.48
+    },
+    {
+      "text": "at sford University on a disease that",
+      "start": 524.039,
+      "duration": 4.36
+    },
+    {
+      "text": "didn't exist on a process that didn't",
+      "start": 525.92,
+      "duration": 4.32
+    },
+    {
+      "text": "didn't exist and it still gave me a",
+      "start": 528.399,
+      "duration": 5.041
+    },
+    {
+      "text": "doctorate out of it so you miracles do",
+      "start": 530.24,
+      "duration": 6.44
+    },
+    {
+      "text": "happen you know I I love how you it set",
+      "start": 533.44,
+      "duration": 5.36
+    },
+    {
+      "text": "out to to help this this man with his",
+      "start": 536.68,
+      "duration": 5.8
+    },
+    {
+      "text": "back and and sort of ended up completely",
+      "start": 538.8,
+      "duration": 6.68
+    },
+    {
+      "text": "by accident almost you know curing",
+      "start": 542.48,
+      "duration": 4.84
+    },
+    {
+      "text": "something else which is amazing",
+      "start": 545.48,
+      "duration": 3.84
+    },
+    {
+      "text": "obviously amazing for him um but you",
+      "start": 547.32,
+      "duration": 3.639
+    },
+    {
+      "text": "know for you to kind of realize that and",
+      "start": 549.32,
+      "duration": 5.12
+    },
+    {
+      "text": "then go huh there's something here I",
+      "start": 550.959,
+      "duration": 7.44
+    },
+    {
+      "text": "think um that's that's really cool um",
+      "start": 554.44,
+      "duration": 5.6
+    },
+    {
+      "text": "but yeah I mean you know it's so",
+      "start": 558.399,
+      "duration": 3.281
+    },
+    {
+      "text": "difficult certainly for so many people",
+      "start": 560.04,
+      "duration": 4.2
+    },
+    {
+      "text": "to get recognition of an illness that",
+      "start": 561.68,
+      "duration": 5.56
+    },
+    {
+      "text": "you know even though Long Co is",
+      "start": 564.24,
+      "duration": 5.64
+    },
+    {
+      "text": "recognized sort of officially",
+      "start": 567.24,
+      "duration": 4.24
+    },
+    {
+      "text": "you know the definition of it keeps",
+      "start": 569.88,
+      "duration": 4.44
+    },
+    {
+      "text": "changing depending on who you ask um",
+      "start": 571.48,
+      "duration": 5.599
+    },
+    {
+      "text": "know in terms of you know doctors many",
+      "start": 574.32,
+      "duration": 4.8
+    },
+    {
+      "text": "of them don't know what to do many of",
+      "start": 577.079,
+      "duration": 3.641
+    },
+    {
+      "text": "whom will then dismiss it because they",
+      "start": 579.12,
+      "duration": 4.159
+    },
+    {
+      "text": "don't know what to do um people all over",
+      "start": 580.72,
+      "duration": 5.2
+    },
+    {
+      "text": "are getting treated really badly and I",
+      "start": 583.279,
+      "duration": 4.68
+    },
+    {
+      "text": "think this is common within the me",
+      "start": 585.92,
+      "duration": 4.64
+    },
+    {
+      "text": "community over the many many years but I",
+      "start": 587.959,
+      "duration": 4.56
+    },
+    {
+      "text": "think you know on on top of that to be",
+      "start": 590.56,
+      "duration": 5.16
+    },
+    {
+      "text": "you know also able to say well you know",
+      "start": 592.519,
+      "duration": 5.681
+    },
+    {
+      "text": "this is a real illness it does exist you",
+      "start": 595.72,
+      "duration": 4.2
+    },
+    {
+      "text": "know you're not experiencing something",
+      "start": 598.2,
+      "duration": 5.48
+    },
+    {
+      "text": "that's made up you're not lazy but also",
+      "start": 599.92,
+      "duration": 6.44
+    },
+    {
+      "text": "there are lots of things that can help",
+      "start": 603.68,
+      "duration": 4.279
+    },
+    {
+      "text": "um you know maybe it's not the same",
+      "start": 606.36,
+      "duration": 4.28
+    },
+    {
+      "text": "thing in the same way for every person",
+      "start": 607.959,
+      "duration": 4.44
+    },
+    {
+      "text": "but there are a lot of things out there",
+      "start": 610.64,
+      "duration": 4.639
+    },
+    {
+      "text": "that are helping maybe for your cyclist",
+      "start": 612.399,
+      "duration": 5.0
+    },
+    {
+      "text": "it might have been kind of one thing for",
+      "start": 615.279,
+      "duration": 3.881
+    },
+    {
+      "text": "other people maybe it's a couple of",
+      "start": 617.399,
+      "duration": 3.961
+    },
+    {
+      "text": "different things like understanding",
+      "start": 619.16,
+      "duration": 5.56
+    },
+    {
+      "text": "what's going on okay now what can we do",
+      "start": 621.36,
+      "duration": 5.0
+    },
+    {
+      "text": "and I I love that you just kind of like",
+      "start": 624.72,
+      "duration": 3.28
+    },
+    {
+      "text": "did that and you know I get the",
+      "start": 626.36,
+      "duration": 3.0
+    },
+    {
+      "text": "impression that you were a bit ahead of",
+      "start": 628.0,
+      "duration": 3.92
+    },
+    {
+      "text": "the trend",
+      "start": 629.36,
+      "duration": 2.56
+    },
+    {
+      "text": "there we'll be right",
+      "start": 632.279,
+      "duration": 5.281
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 635.32,
+      "duration": 4.36
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 637.56,
+      "duration": 4.399
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 639.68,
+      "duration": 3.719
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 641.959,
+      "duration": 3.521
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 643.399,
+      "duration": 4.12
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 645.48,
+      "duration": 3.88
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 647.519,
+      "duration": 4.481
+    },
+    {
+      "text": "that can be with lung Co we've worked",
+      "start": 649.36,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 652.0,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with lung",
+      "start": 653.48,
+      "duration": 4.599
+    },
+    {
+      "text": "covid it's a 6-e course with 12 sessions",
+      "start": 655.24,
+      "duration": 4.68
+    },
+    {
+      "text": "all delivered online",
+      "start": 658.079,
+      "duration": 3.2
+    },
+    {
+      "text": "the community feel and learning that",
+      "start": 659.92,
+      "duration": 3.479
+    },
+    {
+      "text": "we're all sharing is such a joy to find",
+      "start": 661.279,
+      "duration": 3.641
+    },
+    {
+      "text": "out more information and to sign up for",
+      "start": 663.399,
+      "duration": 3.321
+    },
+    {
+      "text": "our courses workshops and other shorter",
+      "start": 664.92,
+      "duration": 4.2
+    },
+    {
+      "text": "sessions please check out the link below",
+      "start": 666.72,
+      "duration": 5.96
+    },
+    {
+      "text": "lco breathing.com or email lco breathing",
+      "start": 669.12,
+      "duration": 5.32
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 672.68,
+      "duration": 2.42
+    },
+    {
+      "text": "Journey with",
+      "start": 674.44,
+      "duration": 4.27
+    },
+    {
+      "text": "[Music]",
+      "start": 675.1,
+      "duration": 3.61
+    },
+    {
+      "text": "us yeah I I drew on some of the research",
+      "start": 679.8,
+      "duration": 6.52
+    },
+    {
+      "text": "uh that had been done before which",
+      "start": 684.399,
+      "duration": 3.761
+    },
+    {
+      "text": "hadn't proven anything but had come up",
+      "start": 686.32,
+      "duration": 3.6
+    },
+    {
+      "text": "with similar theories there must be a",
+      "start": 688.16,
+      "duration": 4.28
+    },
+    {
+      "text": "drainage system of the brain in fact",
+      "start": 689.92,
+      "duration": 5.4
+    },
+    {
+      "text": "osteopathy was founded by Andrew Taylor",
+      "start": 692.44,
+      "duration": 5.639
+    },
+    {
+      "text": "still in America 150 years ago and he",
+      "start": 695.32,
+      "duration": 4.759
+    },
+    {
+      "text": "talked about the the drainage of the",
+      "start": 698.079,
+      "duration": 3.401
+    },
+    {
+      "text": "brain he talked about the Waters of the",
+      "start": 700.079,
+      "duration": 4.361
+    },
+    {
+      "text": "brain draining into lymphatics so he",
+      "start": 701.48,
+      "duration": 5.44
+    },
+    {
+      "text": "knew something instinctively he knew",
+      "start": 704.44,
+      "duration": 4.92
+    },
+    {
+      "text": "something that that must be there and",
+      "start": 706.92,
+      "duration": 4.56
+    },
+    {
+      "text": "quite there's been a few it's go right",
+      "start": 709.36,
+      "duration": 5.039
+    },
+    {
+      "text": "back you're Scottish so uh in Scotland",
+      "start": 711.48,
+      "duration": 4.28
+    },
+    {
+      "text": "there was William krook shank in",
+      "start": 714.399,
+      "duration": 4.0
+    },
+    {
+      "text": "Scotland in in the 1800s who came up",
+      "start": 715.76,
+      "duration": 5.04
+    },
+    {
+      "text": "with a very similar idea of drainage of",
+      "start": 718.399,
+      "duration": 6.321
+    },
+    {
+      "text": "the brain being a very important part of",
+      "start": 720.8,
+      "duration": 8.44
+    },
+    {
+      "text": "the lymphatic system but most of the",
+      "start": 724.72,
+      "duration": 7.679
+    },
+    {
+      "text": "world of medicine and science said no",
+      "start": 729.24,
+      "duration": 7.12
+    },
+    {
+      "text": "there's no such thing and why did they",
+      "start": 732.399,
+      "duration": 6.041
+    },
+    {
+      "text": "say there's no such drainage system even",
+      "start": 736.36,
+      "duration": 5.0
+    },
+    {
+      "text": "when I was doing my PhD and even after I",
+      "start": 738.44,
+      "duration": 5.8
+    },
+    {
+      "text": "published and even publishing many",
+      "start": 741.36,
+      "duration": 7.039
+    },
+    {
+      "text": "papers it was only uh only till recently",
+      "start": 744.24,
+      "duration": 7.92
+    },
+    {
+      "text": "and uh explain that now um",
+      "start": 748.399,
+      "duration": 6.56
+    },
+    {
+      "text": "so what did I know that other people",
+      "start": 752.16,
+      "duration": 5.679
+    },
+    {
+      "text": "didn't and why was I so adamant that",
+      "start": 754.959,
+      "duration": 6.361
+    },
+    {
+      "text": "this was the way forward well as I say",
+      "start": 757.839,
+      "duration": 6.0
+    },
+    {
+      "text": "it's one it's part of the jigsaw puzzle",
+      "start": 761.32,
+      "duration": 5.24
+    },
+    {
+      "text": "of Health it's not the only thing and",
+      "start": 763.839,
+      "duration": 5.281
+    },
+    {
+      "text": "every single patient with me and every",
+      "start": 766.56,
+      "duration": 4.16
+    },
+    {
+      "text": "single patient with long covid is",
+      "start": 769.12,
+      "duration": 4.8
+    },
+    {
+      "text": "different there's not one the same and",
+      "start": 770.72,
+      "duration": 7.359
+    },
+    {
+      "text": "this baffles medicine and it also um",
+      "start": 773.92,
+      "duration": 6.64
+    },
+    {
+      "text": "it's goes against the way medicine is",
+      "start": 778.079,
+      "duration": 5.481
+    },
+    {
+      "text": "working where they want the one pill to",
+      "start": 780.56,
+      "duration": 5.519
+    },
+    {
+      "text": "cure the illness and if you can't find",
+      "start": 783.56,
+      "duration": 4.56
+    },
+    {
+      "text": "the pill it's not an illness worth",
+      "start": 786.079,
+      "duration": 4.721
+    },
+    {
+      "text": "treating or worth worth investing in",
+      "start": 788.12,
+      "duration": 5.279
+    },
+    {
+      "text": "because there's not big money to be made",
+      "start": 790.8,
+      "duration": 5.2
+    },
+    {
+      "text": "at the end of it uh that's a whole",
+      "start": 793.399,
+      "duration": 4.601
+    },
+    {
+      "text": "different subject what it one pill to",
+      "start": 796.0,
+      "duration": 2.959
+    },
+    {
+      "text": "cure them",
+      "start": 798.0,
+      "duration": 3.04
+    },
+    {
+      "text": "all but this is it that's what that's",
+      "start": 798.959,
+      "duration": 4.721
+    },
+    {
+      "text": "what the ultimate thing is and all the",
+      "start": 801.04,
+      "duration": 4.919
+    },
+    {
+      "text": "Amy associations for years have been",
+      "start": 803.68,
+      "duration": 3.959
+    },
+    {
+      "text": "looking for this one pill all the",
+      "start": 805.959,
+      "duration": 2.961
+    },
+    {
+      "text": "doctors involved in Amy have been",
+      "start": 807.639,
+      "duration": 3.601
+    },
+    {
+      "text": "looking for this one pill the one virus",
+      "start": 808.92,
+      "duration": 4.52
+    },
+    {
+      "text": "that causes illness and now we have the",
+      "start": 811.24,
+      "duration": 5.52
+    },
+    {
+      "text": "one virus that officially causes long Co",
+      "start": 813.44,
+      "duration": 6.32
+    },
+    {
+      "text": "is covid Corona virus we know what it is",
+      "start": 816.76,
+      "duration": 4.56
+    },
+    {
+      "text": "but it's not the",
+      "start": 819.76,
+      "duration": 5.079
+    },
+    {
+      "text": "cause and that's the key the key to the",
+      "start": 821.32,
+      "duration": 5.319
+    },
+    {
+      "text": "whole of the parent technique and what",
+      "start": 824.839,
+      "duration": 5.56
+    },
+    {
+      "text": "I've discovered these viruses are not",
+      "start": 826.639,
+      "duration": 5.32
+    },
+    {
+      "text": "the cause and people say what do you",
+      "start": 830.399,
+      "duration": 3.521
+    },
+    {
+      "text": "mean I know I had covid and then I got",
+      "start": 831.959,
+      "duration": 5.44
+    },
+    {
+      "text": "ill yes it was the",
+      "start": 833.92,
+      "duration": 5.68
+    },
+    {
+      "text": "trigger but the ca",
+      "start": 837.399,
+      "duration": 5.44
+    },
+    {
+      "text": "happened long time before",
+      "start": 839.6,
+      "duration": 6.599
+    },
+    {
+      "text": "basically what I discovered or what I",
+      "start": 842.839,
+      "duration": 7.041
+    },
+    {
+      "text": "theorized at the time was that there was",
+      "start": 846.199,
+      "duration": 6.32
+    },
+    {
+      "text": "a drainage system of the",
+      "start": 849.88,
+      "duration": 5.44
+    },
+    {
+      "text": "brain and this drainage system was not",
+      "start": 852.519,
+      "duration": 5.041
+    },
+    {
+      "text": "just blood we were taught in when I was",
+      "start": 855.32,
+      "duration": 3.959
+    },
+    {
+      "text": "in college that fluid in the brain",
+      "start": 857.56,
+      "duration": 5.079
+    },
+    {
+      "text": "cerebrospinal fluid and that drains",
+      "start": 859.279,
+      "duration": 7.641
+    },
+    {
+      "text": "away from the brain into the blood so",
+      "start": 862.639,
+      "duration": 6.521
+    },
+    {
+      "text": "it's produced in the blood and then it",
+      "start": 866.92,
+      "duration": 5.76
+    },
+    {
+      "text": "goes into the brain in an area called",
+      "start": 869.16,
+      "duration": 6.2
+    },
+    {
+      "text": "the Coro plexus and the fluid goes round",
+      "start": 872.68,
+      "duration": 6.279
+    },
+    {
+      "text": "the brain down the spine and then up the",
+      "start": 875.36,
+      "duration": 6.919
+    },
+    {
+      "text": "spine again and out of the blood into",
+      "start": 878.959,
+      "duration": 6.601
+    },
+    {
+      "text": "what's known as the Venus Venus plexus",
+      "start": 882.279,
+      "duration": 6.281
+    },
+    {
+      "text": "the Venus sinuses so you've got the",
+      "start": 885.56,
+      "duration": 6.399
+    },
+    {
+      "text": "corid plexus producing the the C spinal",
+      "start": 888.56,
+      "duration": 5.88
+    },
+    {
+      "text": "fluid and it goes around the brain and",
+      "start": 891.959,
+      "duration": 6.481
+    },
+    {
+      "text": "then out in the Venus sinuses in what's",
+      "start": 894.44,
+      "duration": 7.88
+    },
+    {
+      "text": "known as the aroid Villa now these is",
+      "start": 898.44,
+      "duration": 6.199
+    },
+    {
+      "text": "technical terms but basically it's",
+      "start": 902.32,
+      "duration": 3.879
+    },
+    {
+      "text": "produced by the blood goes back to the",
+      "start": 904.639,
+      "duration": 4.681
+    },
+    {
+      "text": "blood so in the brain itself subas",
+      "start": 906.199,
+      "duration": 5.601
+    },
+    {
+      "text": "spinal fluid moves following the heart",
+      "start": 909.32,
+      "duration": 5.12
+    },
+    {
+      "text": "rate and when we do scans on the sub",
+      "start": 911.8,
+      "duration": 4.68
+    },
+    {
+      "text": "spinal fluid we we put a heartmate",
+      "start": 914.44,
+      "duration": 5.44
+    },
+    {
+      "text": "monitor and it follows Cy D of the blood",
+      "start": 916.48,
+      "duration": 5.32
+    },
+    {
+      "text": "of the heart it",
+      "start": 919.88,
+      "duration": 5.0
+    },
+    {
+      "text": "starts dub at 50 to 100 beats a minute",
+      "start": 921.8,
+      "duration": 5.159
+    },
+    {
+      "text": "so in the brain super spinal fluid moves",
+      "start": 924.88,
+      "duration": 6.079
+    },
+    {
+      "text": "at 50 100 beats 50 to 100 beats",
+      "start": 926.959,
+      "duration": 4.0
+    },
+    {
+      "text": "what I've",
+      "start": 931.8,
+      "duration": 5.0
+    },
+    {
+      "text": "discovered is that this D this fluid",
+      "start": 933.319,
+      "duration": 6.921
+    },
+    {
+      "text": "doesn't just drain off into the blood",
+      "start": 936.8,
+      "duration": 5.32
+    },
+    {
+      "text": "and what's been now discovered around",
+      "start": 940.24,
+      "duration": 5.24
+    },
+    {
+      "text": "the body my theory was was it actually",
+      "start": 942.12,
+      "duration": 6.8
+    },
+    {
+      "text": "drains into the",
+      "start": 945.48,
+      "duration": 5.719
+    },
+    {
+      "text": "lymphatics so there is a lymphatic",
+      "start": 948.92,
+      "duration": 5.359
+    },
+    {
+      "text": "drainage system which is now called the",
+      "start": 951.199,
+      "duration": 4.801
+    },
+    {
+      "text": "glymphatic",
+      "start": 954.279,
+      "duration": 6.48
+    },
+    {
+      "text": "system but when I wrote my thesis this",
+      "start": 956.0,
+      "duration": 6.319
+    },
+    {
+      "text": "hadn't been",
+      "start": 960.759,
+      "duration": 4.801
+    },
+    {
+      "text": "discovered so why did I know that this",
+      "start": 962.319,
+      "duration": 4.88
+    },
+    {
+      "text": "system",
+      "start": 965.56,
+      "duration": 3.92
+    },
+    {
+      "text": "existed and why was there so much",
+      "start": 967.199,
+      "duration": 4.281
+    },
+    {
+      "text": "opposition against the idea that it did",
+      "start": 969.48,
+      "duration": 4.599
+    },
+    {
+      "text": "exist and then we have to go and study",
+      "start": 971.48,
+      "duration": 4.839
+    },
+    {
+      "text": "the lymphatics in detail which I have",
+      "start": 974.079,
+      "duration": 5.0
+    },
+    {
+      "text": "and I leure it around the world now the",
+      "start": 976.319,
+      "duration": 5.801
+    },
+    {
+      "text": "lymphatics is a drainage system of the",
+      "start": 979.079,
+      "duration": 5.921
+    },
+    {
+      "text": "body and the reason why scientists and",
+      "start": 982.12,
+      "duration": 5.0
+    },
+    {
+      "text": "doctors always said for years and years",
+      "start": 985.0,
+      "duration": 4.279
+    },
+    {
+      "text": "and years the drainage system where the",
+      "start": 987.12,
+      "duration": 4.68
+    },
+    {
+      "text": "brain doesn't exist and these people",
+      "start": 989.279,
+      "duration": 4.92
+    },
+    {
+      "text": "that say it does is nonsense because",
+      "start": 991.8,
+      "duration": 5.44
+    },
+    {
+      "text": "there's a barrier the blood brain",
+      "start": 994.199,
+      "duration": 5.08
+    },
+    {
+      "text": "barrier surrounding the brain and the",
+      "start": 997.24,
+      "duration": 3.959
+    },
+    {
+      "text": "spinal cord the spinal cords a",
+      "start": 999.279,
+      "duration": 4.321
+    },
+    {
+      "text": "continuation of the brain the central",
+      "start": 1001.199,
+      "duration": 4.401
+    },
+    {
+      "text": "nervous system continues on down the",
+      "start": 1003.6,
+      "duration": 4.799
+    },
+    {
+      "text": "spinal cord so this has a barrier",
+      "start": 1005.6,
+      "duration": 5.599
+    },
+    {
+      "text": "stopping any large molecules getting",
+      "start": 1008.399,
+      "duration": 5.56
+    },
+    {
+      "text": "into the brain this Blood brain barrier",
+      "start": 1011.199,
+      "duration": 5.76
+    },
+    {
+      "text": "only allows small molecules in and the",
+      "start": 1013.959,
+      "duration": 5.12
+    },
+    {
+      "text": "the The small molecules can be drained",
+      "start": 1016.959,
+      "duration": 5.0
+    },
+    {
+      "text": "away in the capillas of the blood they",
+      "start": 1019.079,
+      "duration": 5.24
+    },
+    {
+      "text": "can take small molecules away in through",
+      "start": 1021.959,
+      "duration": 5.201
+    },
+    {
+      "text": "the through their walls but larger",
+      "start": 1024.319,
+      "duration": 5.401
+    },
+    {
+      "text": "molecules can't get",
+      "start": 1027.16,
+      "duration": 7.12
+    },
+    {
+      "text": "in and therefore larger molecules need a",
+      "start": 1029.72,
+      "duration": 8.599
+    },
+    {
+      "text": "separate system and that's the",
+      "start": 1034.28,
+      "duration": 7.159
+    },
+    {
+      "text": "lymphatics their walls I've got like",
+      "start": 1038.319,
+      "duration": 5.681
+    },
+    {
+      "text": "gills of a fish opening and closing",
+      "start": 1041.439,
+      "duration": 6.0
+    },
+    {
+      "text": "allowing large molecules to get in so",
+      "start": 1044.0,
+      "duration": 4.96
+    },
+    {
+      "text": "these large molecules get into",
+      "start": 1047.439,
+      "duration": 4.441
+    },
+    {
+      "text": "lymphatics and drain away eventually",
+      "start": 1048.96,
+      "duration": 5.4
+    },
+    {
+      "text": "into the blood at the",
+      "start": 1051.88,
+      "duration": 4.919
+    },
+    {
+      "text": "collarbone underneath the collarbone",
+      "start": 1054.36,
+      "duration": 4.88
+    },
+    {
+      "text": "there's where there's a vein that comes",
+      "start": 1056.799,
+      "duration": 4.681
+    },
+    {
+      "text": "from the head the internal jugular and",
+      "start": 1059.24,
+      "duration": 3.4
+    },
+    {
+      "text": "there's a vein that comes from",
+      "start": 1061.48,
+      "duration": 2.36
+    },
+    {
+      "text": "underneath the collone called the",
+      "start": 1062.64,
+      "duration": 3.0
+    },
+    {
+      "text": "subclavian and where they joined",
+      "start": 1063.84,
+      "duration": 3.92
+    },
+    {
+      "text": "together these Venus angles there's a",
+      "start": 1065.64,
+      "duration": 4.6
+    },
+    {
+      "text": "drainage system of the lymph into the",
+      "start": 1067.76,
+      "duration": 5.0
+    },
+    {
+      "text": "blood where there's much larger vessels",
+      "start": 1070.24,
+      "duration": 3.92
+    },
+    {
+      "text": "and then eventually goes through the",
+      "start": 1072.76,
+      "duration": 3.399
+    },
+    {
+      "text": "heart into the liver and the liver",
+      "start": 1074.16,
+      "duration": 4.08
+    },
+    {
+      "text": "detoxifies this is how the lymphatics",
+      "start": 1076.159,
+      "duration": 3.241
+    },
+    {
+      "text": "work",
+      "start": 1078.24,
+      "duration": 3.52
+    },
+    {
+      "text": "but the brain doesn't need a lymphatic",
+      "start": 1079.4,
+      "duration": 5.88
+    },
+    {
+      "text": "because it has this barrier so large",
+      "start": 1081.76,
+      "duration": 7.48
+    },
+    {
+      "text": "molecules can't get into the brain okay",
+      "start": 1085.28,
+      "duration": 6.92
+    },
+    {
+      "text": "so I come along and say not only can it",
+      "start": 1089.24,
+      "duration": 5.16
+    },
+    {
+      "text": "get into the brain there's a problem",
+      "start": 1092.2,
+      "duration": 5.16
+    },
+    {
+      "text": "when it can't get out and this causes",
+      "start": 1094.4,
+      "duration": 7.159
+    },
+    {
+      "text": "major neurological diseases including me",
+      "start": 1097.36,
+      "duration": 6.6
+    },
+    {
+      "text": "and also there's a lot of research being",
+      "start": 1101.559,
+      "duration": 3.921
+    },
+    {
+      "text": "done on",
+      "start": 1103.96,
+      "duration": 3.92
+    },
+    {
+      "text": "Alzheimer's so is probably one of the",
+      "start": 1105.48,
+      "duration": 4.4
+    },
+    {
+      "text": "causes of Alzheimer if not the major",
+      "start": 1107.88,
+      "duration": 3.6
+    },
+    {
+      "text": "cause",
+      "start": 1109.88,
+      "duration": 6.679
+    },
+    {
+      "text": "so the B and fibromyalgia another one is",
+      "start": 1111.48,
+      "duration": 7.88
+    },
+    {
+      "text": "the same there what I call them",
+      "start": 1116.559,
+      "duration": 6.281
+    },
+    {
+      "text": "neurolymphatic disorders so I said that",
+      "start": 1119.36,
+      "duration": 5.52
+    },
+    {
+      "text": "that it's not draining away so how did I",
+      "start": 1122.84,
+      "duration": 4.28
+    },
+    {
+      "text": "know that there was a drainage system",
+      "start": 1124.88,
+      "duration": 4.919
+    },
+    {
+      "text": "and I thought there has to be because",
+      "start": 1127.12,
+      "duration": 6.48
+    },
+    {
+      "text": "every second of every day huge molecules",
+      "start": 1129.799,
+      "duration": 6.321
+    },
+    {
+      "text": "get into the brain so the idea of the",
+      "start": 1133.6,
+      "duration": 4.4
+    },
+    {
+      "text": "blood brain barrier stopping any large",
+      "start": 1136.12,
+      "duration": 3.2
+    },
+    {
+      "text": "molecules is n",
+      "start": 1138.0,
+      "duration": 4.679
+    },
+    {
+      "text": "Conant huge molecules and I'm talking",
+      "start": 1139.32,
+      "duration": 4.32
+    },
+    {
+      "text": "about",
+      "start": 1142.679,
+      "duration": 4.161
+    },
+    {
+      "text": "hormones hormones are massive molecules",
+      "start": 1143.64,
+      "duration": 6.08
+    },
+    {
+      "text": "now let's take the classic hormone that",
+      "start": 1146.84,
+      "duration": 6.24
+    },
+    {
+      "text": "we all should share and that's insulin",
+      "start": 1149.72,
+      "duration": 5.439
+    },
+    {
+      "text": "insulin is in both in male and female",
+      "start": 1153.08,
+      "duration": 3.56
+    },
+    {
+      "text": "it's produced by the",
+      "start": 1155.159,
+      "duration": 4.561
+    },
+    {
+      "text": "pancreas and it if you don't have enough",
+      "start": 1156.64,
+      "duration": 5.84
+    },
+    {
+      "text": "of it you end up with uh obviously with",
+      "start": 1159.72,
+      "duration": 5.52
+    },
+    {
+      "text": "diabetes so it controls the sugar levels",
+      "start": 1162.48,
+      "duration": 4.679
+    },
+    {
+      "text": "as it does more than that but the",
+      "start": 1165.24,
+      "duration": 4.0
+    },
+    {
+      "text": "insulin is produced in the pan pancreas",
+      "start": 1167.159,
+      "duration": 5.201
+    },
+    {
+      "text": "in the in the abdomen it travels into",
+      "start": 1169.24,
+      "duration": 5.319
+    },
+    {
+      "text": "the blood that's what hormones do and",
+      "start": 1172.36,
+      "duration": 5.199
+    },
+    {
+      "text": "then it goes up into the brain because",
+      "start": 1174.559,
+      "duration": 6.441
+    },
+    {
+      "text": "in the brain all hormones are controlled",
+      "start": 1177.559,
+      "duration": 6.201
+    },
+    {
+      "text": "by a small organ in the in the mid part",
+      "start": 1181.0,
+      "duration": 4.559
+    },
+    {
+      "text": "of the brain which is the size of an",
+      "start": 1183.76,
+      "duration": 3.88
+    },
+    {
+      "text": "Armond known as the",
+      "start": 1185.559,
+      "duration": 4.961
+    },
+    {
+      "text": "hypothalamus and that measures the",
+      "start": 1187.64,
+      "duration": 5.24
+    },
+    {
+      "text": "hormonal levels and then sends messages",
+      "start": 1190.52,
+      "duration": 5.96
+    },
+    {
+      "text": "via autonomic nervous system back to the",
+      "start": 1192.88,
+      "duration": 5.84
+    },
+    {
+      "text": "organs that in this case the the",
+      "start": 1196.48,
+      "duration": 5.8
+    },
+    {
+      "text": "pancreas to produce more or less inent",
+      "start": 1198.72,
+      "duration": 6.0
+    },
+    {
+      "text": "and this mechanism is known as biof",
+      "start": 1202.28,
+      "duration": 4.72
+    },
+    {
+      "text": "feedback and we were taught this right",
+      "start": 1204.72,
+      "duration": 4.16
+    },
+    {
+      "text": "from where go as when I was studying",
+      "start": 1207.0,
+      "duration": 3.36
+    },
+    {
+      "text": "physiology in the British School of",
+      "start": 1208.88,
+      "duration": 3.56
+    },
+    {
+      "text": "osteopathy we Tau about hormones and I",
+      "start": 1210.36,
+      "duration": 3.679
+    },
+    {
+      "text": "thought well wa hormones are huge",
+      "start": 1212.44,
+      "duration": 5.08
+    },
+    {
+      "text": "molecules small molecules the size of a",
+      "start": 1214.039,
+      "duration": 6.401
+    },
+    {
+      "text": "water molecule which is only 18 Daltons",
+      "start": 1217.52,
+      "duration": 5.36
+    },
+    {
+      "text": "doton the measurement of a molecule",
+      "start": 1220.44,
+      "duration": 4.96
+    },
+    {
+      "text": "named after John Dalton from Manchester",
+      "start": 1222.88,
+      "duration": 3.88
+    },
+    {
+      "text": "by the way might as well wave the",
+      "start": 1225.4,
+      "duration": 3.399
+    },
+    {
+      "text": "Manchester flag",
+      "start": 1226.76,
+      "duration": 3.399
+    },
+    {
+      "text": "molecule can get through the blood vein",
+      "start": 1228.799,
+      "duration": 4.281
+    },
+    {
+      "text": "Val that's 18 doton large it's only very",
+      "start": 1230.159,
+      "duration": 7.201
+    },
+    {
+      "text": "small but a molecule a polypeptide full",
+      "start": 1233.08,
+      "duration": 7.2
+    },
+    {
+      "text": "of different protein molecules like",
+      "start": 1237.36,
+      "duration": 4.6
+    },
+    {
+      "text": "insulin which is",
+      "start": 1240.28,
+      "duration": 6.0
+    },
+    {
+      "text": "5,808 doton so it's massive molecule",
+      "start": 1241.96,
+      "duration": 5.719
+    },
+    {
+      "text": "gets into the brain because we know the",
+      "start": 1246.28,
+      "duration": 3.8
+    },
+    {
+      "text": "hypothalamus has has insulin receptors",
+      "start": 1247.679,
+      "duration": 4.441
+    },
+    {
+      "text": "and they measure it so how does it get",
+      "start": 1250.08,
+      "duration": 5.24
+    },
+    {
+      "text": "in and now we know there are seven areas",
+      "start": 1252.12,
+      "duration": 6.039
+    },
+    {
+      "text": "in the brain called circum ventricular",
+      "start": 1255.32,
+      "duration": 4.0
+    },
+    {
+      "text": "areas",
+      "start": 1258.159,
+      "duration": 3.52
+    },
+    {
+      "text": "and these areas have a weakness in the",
+      "start": 1259.32,
+      "duration": 5.04
+    },
+    {
+      "text": "blood brain barrier so they allow large",
+      "start": 1261.679,
+      "duration": 5.48
+    },
+    {
+      "text": "molecules in and if they all large",
+      "start": 1264.36,
+      "duration": 6.36
+    },
+    {
+      "text": "molecules of hormones and also salts and",
+      "start": 1267.159,
+      "duration": 5.681
+    },
+    {
+      "text": "electrolytes lots of things get into the",
+      "start": 1270.72,
+      "duration": 6.72
+    },
+    {
+      "text": "brain so do",
+      "start": 1272.84,
+      "duration": 4.6
+    },
+    {
+      "text": "toxins we'll be right",
+      "start": 1278.559,
+      "duration": 5.921
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1281.96,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1284.48,
+      "duration": 4.52
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1286.44,
+      "duration": 3.96
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1289.0,
+      "duration": 3.64
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1290.4,
+      "duration": 4.72
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1292.64,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we' be able to get",
+      "start": 1295.12,
+      "duration": 3.559
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1296.88,
+      "duration": 4.24
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1298.679,
+      "duration": 3.961
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1301.12,
+      "duration": 3.439
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1302.64,
+      "duration": 5.32
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 1304.559,
+      "duration": 3.401
+    },
+    {
+      "text": "much big toxins that need the lymphatics",
+      "start": 1311.32,
+      "duration": 6.479
+    },
+    {
+      "text": "to drain away and therefore there had to",
+      "start": 1315.2,
+      "duration": 4.959
+    },
+    {
+      "text": "be a drainage system and it was",
+      "start": 1317.799,
+      "duration": 4.401
+    },
+    {
+      "text": "originally researched by a Russian guy",
+      "start": 1320.159,
+      "duration": 5.76
+    },
+    {
+      "text": "called spanski who looked at um animal",
+      "start": 1322.2,
+      "duration": 6.8
+    },
+    {
+      "text": "models and he's he injected into the",
+      "start": 1325.919,
+      "duration": 6.041
+    },
+    {
+      "text": "brain and he he hypothesized that the it",
+      "start": 1329.0,
+      "duration": 4.84
+    },
+    {
+      "text": "ended up what he injected ended up in",
+      "start": 1331.96,
+      "duration": 3.88
+    },
+    {
+      "text": "the lymph in the neck but he",
+      "start": 1333.84,
+      "duration": 4.04
+    },
+    {
+      "text": "hypothesized it went through different",
+      "start": 1335.84,
+      "duration": 4.52
+    },
+    {
+      "text": "channels and the main Channel it went",
+      "start": 1337.88,
+      "duration": 6.039
+    },
+    {
+      "text": "through he hypothesized was the CRI form",
+      "start": 1340.36,
+      "duration": 6.439
+    },
+    {
+      "text": "plate this is a plate part of the",
+      "start": 1343.919,
+      "duration": 6.0
+    },
+    {
+      "text": "ethmoid bone and the Etho bone is above",
+      "start": 1346.799,
+      "duration": 6.081
+    },
+    {
+      "text": "the nasal passages and in it are",
+      "start": 1349.919,
+      "duration": 6.681
+    },
+    {
+      "text": "olfactory nerves that come from the",
+      "start": 1352.88,
+      "duration": 6.48
+    },
+    {
+      "text": "brain through these through little",
+      "start": 1356.6,
+      "duration": 5.079
+    },
+    {
+      "text": "perforations and the Alfa nerves come",
+      "start": 1359.36,
+      "duration": 5.52
+    },
+    {
+      "text": "out and they they into the nasal cavity",
+      "start": 1361.679,
+      "duration": 5.281
+    },
+    {
+      "text": "and next to the alory nerve in these",
+      "start": 1364.88,
+      "duration": 4.08
+    },
+    {
+      "text": "perforations are blood vessels supplying",
+      "start": 1366.96,
+      "duration": 5.0
+    },
+    {
+      "text": "the nerve and around those blood vessels",
+      "start": 1368.96,
+      "duration": 5.959
+    },
+    {
+      "text": "are spaces perivascular spaces and",
+      "start": 1371.96,
+      "duration": 4.56
+    },
+    {
+      "text": "paravascular spaces different type",
+      "start": 1374.919,
+      "duration": 4.401
+    },
+    {
+      "text": "spaces but it's spaces that allow fluid",
+      "start": 1376.52,
+      "duration": 6.6
+    },
+    {
+      "text": "out of the brain and it's that drainage",
+      "start": 1379.32,
+      "duration": 6.68
+    },
+    {
+      "text": "system that speransky said is happening",
+      "start": 1383.12,
+      "duration": 5.12
+    },
+    {
+      "text": "taking the toxins away from the brain",
+      "start": 1386.0,
+      "duration": 4.64
+    },
+    {
+      "text": "into the lymphatics in the nose and then",
+      "start": 1388.24,
+      "duration": 4.88
+    },
+    {
+      "text": "down into eventually into the collar",
+      "start": 1390.64,
+      "duration": 5.32
+    },
+    {
+      "text": "bone area and into the blood",
+      "start": 1393.12,
+      "duration": 5.24
+    },
+    {
+      "text": "so they didn't have proof of this",
+      "start": 1395.96,
+      "duration": 4.0
+    },
+    {
+      "text": "because there was no scanning techniques",
+      "start": 1398.36,
+      "duration": 3.52
+    },
+    {
+      "text": "that could show these very small areas",
+      "start": 1399.96,
+      "duration": 4.12
+    },
+    {
+      "text": "right next to the blood so we just",
+      "start": 1401.88,
+      "duration": 5.279
+    },
+    {
+      "text": "theorized that that's where it was going",
+      "start": 1404.08,
+      "duration": 6.68
+    },
+    {
+      "text": "and this theory was repeated by",
+      "start": 1407.159,
+      "duration": 4.88
+    },
+    {
+      "text": "different people there's there's",
+      "start": 1410.76,
+      "duration": 3.2
+    },
+    {
+      "text": "Professor Weller in Southampton who did",
+      "start": 1412.039,
+      "duration": 4.841
+    },
+    {
+      "text": "a lot of work there was um there was",
+      "start": 1413.96,
+      "duration": 4.4
+    },
+    {
+      "text": "different people doing different",
+      "start": 1416.88,
+      "duration": 3.679
+    },
+    {
+      "text": "research work but nobody could prove it",
+      "start": 1418.36,
+      "duration": 4.84
+    },
+    {
+      "text": "and I was working on the hypothesis that",
+      "start": 1420.559,
+      "duration": 4.561
+    },
+    {
+      "text": "this was correct but I had no proof all",
+      "start": 1423.2,
+      "duration": 3.8
+    },
+    {
+      "text": "I could do was show a picture of a a",
+      "start": 1425.12,
+      "duration": 4.439
+    },
+    {
+      "text": "diagram I made of a perforation with",
+      "start": 1427.0,
+      "duration": 4.4
+    },
+    {
+      "text": "with an olfactory nerve and the blood",
+      "start": 1429.559,
+      "duration": 5.881
+    },
+    {
+      "text": "vessel next to it so this is the",
+      "start": 1431.4,
+      "duration": 5.8
+    },
+    {
+      "text": "drainage system that I felt was",
+      "start": 1435.44,
+      "duration": 3.76
+    },
+    {
+      "text": "happening but it also happens in eyes in",
+      "start": 1437.2,
+      "duration": 4.32
+    },
+    {
+      "text": "the cheeks and the in the trial in the",
+      "start": 1439.2,
+      "duration": 5.719
+    },
+    {
+      "text": "mouth uh the trinal nerves and the ears",
+      "start": 1441.52,
+      "duration": 6.08
+    },
+    {
+      "text": "uh those are the main drainage the the",
+      "start": 1444.919,
+      "duration": 5.76
+    },
+    {
+      "text": "the cocka vestibular nerves nerves that",
+      "start": 1447.6,
+      "duration": 6.28
+    },
+    {
+      "text": "control Hearing and Balance they have",
+      "start": 1450.679,
+      "duration": 5.281
+    },
+    {
+      "text": "these blood vessels but every cranial",
+      "start": 1453.88,
+      "duration": 4.76
+    },
+    {
+      "text": "nerve has blood vessels and they have",
+      "start": 1455.96,
+      "duration": 5.64
+    },
+    {
+      "text": "these spaces that drain away the toxins",
+      "start": 1458.64,
+      "duration": 4.6
+    },
+    {
+      "text": "but also in the",
+      "start": 1461.6,
+      "duration": 4.72
+    },
+    {
+      "text": "spine spinal nerves all have blood",
+      "start": 1463.24,
+      "duration": 5.559
+    },
+    {
+      "text": "vessels with these faes so I said it's",
+      "start": 1466.32,
+      "duration": 6.44
+    },
+    {
+      "text": "those faes that are not draining",
+      "start": 1468.799,
+      "duration": 6.441
+    },
+    {
+      "text": "off out of the brain they're draining",
+      "start": 1472.76,
+      "duration": 6.039
+    },
+    {
+      "text": "back in because the sympathetic nervous",
+      "start": 1475.24,
+      "duration": 7.159
+    },
+    {
+      "text": "system was shown many years ago to",
+      "start": 1478.799,
+      "duration": 6.441
+    },
+    {
+      "text": "control the Sy the lymphatic system and",
+      "start": 1482.399,
+      "duration": 4.041
+    },
+    {
+      "text": "we weren't taught that when I was in",
+      "start": 1485.24,
+      "duration": 2.48
+    },
+    {
+      "text": "college I wasn't taught that I was",
+      "start": 1486.44,
+      "duration": 2.56
+    },
+    {
+      "text": "taught there were just tubes that",
+      "start": 1487.72,
+      "duration": 4.199
+    },
+    {
+      "text": "squeeze Along by Blood and squeeze Along",
+      "start": 1489.0,
+      "duration": 6.279
+    },
+    {
+      "text": "by by muscles outside but not actually",
+      "start": 1491.919,
+      "duration": 5.76
+    },
+    {
+      "text": "controlled by any nerves but we know",
+      "start": 1495.279,
+      "duration": 5.241
+    },
+    {
+      "text": "even the small smallest lymph vessels",
+      "start": 1497.679,
+      "duration": 6.6
+    },
+    {
+      "text": "are controlled by so there's small lymph",
+      "start": 1500.52,
+      "duration": 5.72
+    },
+    {
+      "text": "vessels known as lymphangion and",
+      "start": 1504.279,
+      "duration": 4.241
+    },
+    {
+      "text": "underneath the surface of the skin that",
+      "start": 1506.24,
+      "duration": 5.88
+    },
+    {
+      "text": "minute they are about 1 half of a",
+      "start": 1508.52,
+      "duration": 6.519
+    },
+    {
+      "text": "millimeter in diameter in health and",
+      "start": 1512.12,
+      "duration": 5.12
+    },
+    {
+      "text": "they all have nerves attached to them",
+      "start": 1515.039,
+      "duration": 3.76
+    },
+    {
+      "text": "because they have smooth muscle walls",
+      "start": 1517.24,
+      "duration": 3.679
+    },
+    {
+      "text": "that contract and they push the lymph",
+      "start": 1518.799,
+      "duration": 5.161
+    },
+    {
+      "text": "along under control of the sympathetic",
+      "start": 1520.919,
+      "duration": 6.561
+    },
+    {
+      "text": "nerves which is under control of the",
+      "start": 1523.96,
+      "duration": 5.56
+    },
+    {
+      "text": "hypothalamus",
+      "start": 1527.48,
+      "duration": 4.96
+    },
+    {
+      "text": "hypothalamus also has a major effect on",
+      "start": 1529.52,
+      "duration": 5.879
+    },
+    {
+      "text": "balancing the autonomic nervous system",
+      "start": 1532.44,
+      "duration": 5.599
+    },
+    {
+      "text": "so when it gets poisoned if there's a",
+      "start": 1535.399,
+      "duration": 5.041
+    },
+    {
+      "text": "backf flow or there's damage to the",
+      "start": 1538.039,
+      "duration": 5.281
+    },
+    {
+      "text": "drainage and there's a buildup from from",
+      "start": 1540.44,
+      "duration": 5.04
+    },
+    {
+      "text": "damage in the head or damage in the",
+      "start": 1543.32,
+      "duration": 4.12
+    },
+    {
+      "text": "spine and you can damage in the head",
+      "start": 1545.48,
+      "duration": 4.28
+    },
+    {
+      "text": "from birth people can have damage in the",
+      "start": 1547.44,
+      "duration": 4.88
+    },
+    {
+      "text": "head if they had a long labor so we",
+      "start": 1549.76,
+      "duration": 5.039
+    },
+    {
+      "text": "seeing a lot more firstborn babies",
+      "start": 1552.32,
+      "duration": 6.2
+    },
+    {
+      "text": "having Emy and long Co but um we see are",
+      "start": 1554.799,
+      "duration": 6.641
+    },
+    {
+      "text": "lot of firstborn babies who or have had",
+      "start": 1558.52,
+      "duration": 5.039
+    },
+    {
+      "text": "difficult births or sometimes a very",
+      "start": 1561.44,
+      "duration": 3.56
+    },
+    {
+      "text": "quick birth if they're if they're not",
+      "start": 1563.559,
+      "duration": 4.24
+    },
+    {
+      "text": "firstborn they might be third or fourth",
+      "start": 1565.0,
+      "duration": 4.88
+    },
+    {
+      "text": "B baby and they can come out very",
+      "start": 1567.799,
+      "duration": 4.841
+    },
+    {
+      "text": "quickly a quick birth and a slow birth",
+      "start": 1569.88,
+      "duration": 5.36
+    },
+    {
+      "text": "can cause problems from day one without",
+      "start": 1572.64,
+      "duration": 5.759
+    },
+    {
+      "text": "any trauma but then we see trauma",
+      "start": 1575.24,
+      "duration": 5.72
+    },
+    {
+      "text": "happening lots of people have damage to",
+      "start": 1578.399,
+      "duration": 4.801
+    },
+    {
+      "text": "their head from different bumps and when",
+      "start": 1580.96,
+      "duration": 4.719
+    },
+    {
+      "text": "they're younger and we see maybe when",
+      "start": 1583.2,
+      "duration": 3.76
+    },
+    {
+      "text": "they're older they've had whip Rush",
+      "start": 1585.679,
+      "duration": 3.161
+    },
+    {
+      "text": "injuries or anything and they've had",
+      "start": 1586.96,
+      "duration": 3.56
+    },
+    {
+      "text": "spinal problems and they've had",
+      "start": 1588.84,
+      "duration": 4.719
+    },
+    {
+      "text": "inflammation there and now we have a",
+      "start": 1590.52,
+      "duration": 5.639
+    },
+    {
+      "text": "picture of a buildup of problems",
+      "start": 1593.559,
+      "duration": 4.761
+    },
+    {
+      "text": "affecting the drainage system that we",
+      "start": 1596.159,
+      "duration": 5.76
+    },
+    {
+      "text": "now know exists and we only know it is",
+      "start": 1598.32,
+      "duration": 8.8
+    },
+    {
+      "text": "existed um in animals in 2012 there's a",
+      "start": 1601.919,
+      "duration": 7.0
+    },
+    {
+      "text": "study done in Rochester University that",
+      "start": 1607.12,
+      "duration": 5.679
+    },
+    {
+      "text": "showed this drainage did exist so it was",
+      "start": 1608.919,
+      "duration": 6.561
+    },
+    {
+      "text": "the first Vindication of my hypothesis",
+      "start": 1612.799,
+      "duration": 4.401
+    },
+    {
+      "text": "that there was a drainage problem where",
+      "start": 1615.48,
+      "duration": 3.48
+    },
+    {
+      "text": "all doctors were out on my lecture",
+      "start": 1617.2,
+      "duration": 4.32
+    },
+    {
+      "text": "saying there's no such thing in 2012",
+      "start": 1618.96,
+      "duration": 4.719
+    },
+    {
+      "text": "they actually did a scan they produced",
+      "start": 1621.52,
+      "duration": 4.08
+    },
+    {
+      "text": "new scanning techniques Jewel Photon",
+      "start": 1623.679,
+      "duration": 4.24
+    },
+    {
+      "text": "emission tomography that could see the",
+      "start": 1625.6,
+      "duration": 5.959
+    },
+    {
+      "text": "spaces and see the drainage in mice and",
+      "start": 1627.919,
+      "duration": 7.601
+    },
+    {
+      "text": "then they saw further on in 2015 that",
+      "start": 1631.559,
+      "duration": 6.72
+    },
+    {
+      "text": "there was actually lymph vessels lining",
+      "start": 1635.52,
+      "duration": 5.96
+    },
+    {
+      "text": "the brain the meninas there was actually",
+      "start": 1638.279,
+      "duration": 5.28
+    },
+    {
+      "text": "in the JW outside of the brain there was",
+      "start": 1641.48,
+      "duration": 4.04
+    },
+    {
+      "text": "actually lymph vessels that people never",
+      "start": 1643.559,
+      "duration": 5.201
+    },
+    {
+      "text": "knew existed was there to be seen but in",
+      "start": 1645.52,
+      "duration": 5.84
+    },
+    {
+      "text": "animals and out to wait till",
+      "start": 1648.76,
+      "duration": 5.72
+    },
+    {
+      "text": "2017 before they showed this drainage",
+      "start": 1651.36,
+      "duration": 6.84
+    },
+    {
+      "text": "system and the lymph vessels existed in",
+      "start": 1654.48,
+      "duration": 7.0
+    },
+    {
+      "text": "humans but even then there was a flat",
+      "start": 1658.2,
+      "duration": 5.719
+    },
+    {
+      "text": "earthers who said no there's no drainage",
+      "start": 1661.48,
+      "duration": 4.52
+    },
+    {
+      "text": "system it's only in animals and the",
+      "start": 1663.919,
+      "duration": 4.401
+    },
+    {
+      "text": "human one you it's just interpretation",
+      "start": 1666.0,
+      "duration": 4.039
+    },
+    {
+      "text": "we don't believe it's actually draining",
+      "start": 1668.32,
+      "duration": 4.76
+    },
+    {
+      "text": "we need real time and believe it or not",
+      "start": 1670.039,
+      "duration": 6.321
+    },
+    {
+      "text": "just one month ago today the 7th of",
+      "start": 1673.08,
+      "duration": 5.28
+    },
+    {
+      "text": "October",
+      "start": 1676.36,
+      "duration": 5.199
+    },
+    {
+      "text": "in uh a paper came out from Oregon so",
+      "start": 1678.36,
+      "duration": 5.679
+    },
+    {
+      "text": "it's taken this long and my thesis was",
+      "start": 1681.559,
+      "duration": 3.881
+    },
+    {
+      "text": "published in",
+      "start": 1684.039,
+      "duration": 5.76
+    },
+    {
+      "text": "2005 so almost 20 years ago now and uh",
+      "start": 1685.44,
+      "duration": 7.239
+    },
+    {
+      "text": "my original hypothesis was in the",
+      "start": 1689.799,
+      "duration": 7.24
+    },
+    {
+      "text": "1989 35 years ago and just four weeks",
+      "start": 1692.679,
+      "duration": 8.12
+    },
+    {
+      "text": "ago in Oregon they took five patients",
+      "start": 1697.039,
+      "duration": 6.64
+    },
+    {
+      "text": "with brain surgery who are had brain",
+      "start": 1700.799,
+      "duration": 5.6
+    },
+    {
+      "text": "tumors and they gave permission the five",
+      "start": 1703.679,
+      "duration": 5.561
+    },
+    {
+      "text": "patients to have an inject ction put in",
+      "start": 1706.399,
+      "duration": 5.921
+    },
+    {
+      "text": "of a Dye into the fluid so when they did",
+      "start": 1709.24,
+      "duration": 5.4
+    },
+    {
+      "text": "the surgery on the people's veins they",
+      "start": 1712.32,
+      "duration": 5.4
+    },
+    {
+      "text": "took the the the fluid away and then",
+      "start": 1714.64,
+      "duration": 7.279
+    },
+    {
+      "text": "they pumped Pumped this dying galadini",
+      "start": 1717.72,
+      "duration": 7.079
+    },
+    {
+      "text": "into the brain and watched in real time",
+      "start": 1721.919,
+      "duration": 5.321
+    },
+    {
+      "text": "how it drains from one part that did",
+      "start": 1724.799,
+      "duration": 4.961
+    },
+    {
+      "text": "scanning and scanning and saw it go from",
+      "start": 1727.24,
+      "duration": 5.36
+    },
+    {
+      "text": "one area to the next to the next",
+      "start": 1729.76,
+      "duration": 4.96
+    },
+    {
+      "text": "following what is known now as the",
+      "start": 1732.6,
+      "duration": 5.52
+    },
+    {
+      "text": "glymphatic pathway the lymphatics is a",
+      "start": 1734.72,
+      "duration": 6.36
+    },
+    {
+      "text": "lymphatic system of the G cells and it's",
+      "start": 1738.12,
+      "duration": 5.96
+    },
+    {
+      "text": "just happened one month ago too late to",
+      "start": 1741.08,
+      "duration": 6.079
+    },
+    {
+      "text": "go in my book on long covid but enough",
+      "start": 1744.08,
+      "duration": 5.12
+    },
+    {
+      "text": "to be able to lecture and tell the world",
+      "start": 1747.159,
+      "duration": 5.24
+    },
+    {
+      "text": "about that we have actual hard evidence",
+      "start": 1749.2,
+      "duration": 6.959
+    },
+    {
+      "text": "and I was talking to um one of skeptical",
+      "start": 1752.399,
+      "duration": 5.841
+    },
+    {
+      "text": "professors I know he said we've got now",
+      "start": 1756.159,
+      "duration": 4.481
+    },
+    {
+      "text": "got the visible proof that this drainage",
+      "start": 1758.24,
+      "duration": 4.559
+    },
+    {
+      "text": "system exists you can see it and he said",
+      "start": 1760.64,
+      "duration": 3.639
+    },
+    {
+      "text": "no you can't say proof you can never say",
+      "start": 1762.799,
+      "duration": 3.321
+    },
+    {
+      "text": "proof in science you know it's there",
+      "start": 1764.279,
+      "duration": 5.28
+    },
+    {
+      "text": "evidence this is proof is a concept it's",
+      "start": 1766.12,
+      "duration": 5.64
+    },
+    {
+      "text": "proof of of concept the whole thing",
+      "start": 1769.559,
+      "duration": 4.921
+    },
+    {
+      "text": "because it shows it actually happening",
+      "start": 1771.76,
+      "duration": 4.919
+    },
+    {
+      "text": "and it's a bit like you know when when",
+      "start": 1774.48,
+      "duration": 4.6
+    },
+    {
+      "text": "when orille and Wilber were told that",
+      "start": 1776.679,
+      "duration": 4.641
+    },
+    {
+      "text": "man cannot fly and they got into a plane",
+      "start": 1779.08,
+      "duration": 3.24
+    },
+    {
+      "text": "and they",
+      "start": 1781.32,
+      "duration": 4.239
+    },
+    {
+      "text": "flew so yeah they proved you can fly in",
+      "start": 1782.32,
+      "duration": 6.92
+    },
+    {
+      "text": "a plane so you know this is a thing you",
+      "start": 1785.559,
+      "duration": 6.441
+    },
+    {
+      "text": "know in science you kind have strong",
+      "start": 1789.24,
+      "duration": 5.439
+    },
+    {
+      "text": "evidence that is it works out to be a",
+      "start": 1792.0,
+      "duration": 5.08
+    },
+    {
+      "text": "proof and they've proven that that there",
+      "start": 1794.679,
+      "duration": 5.0
+    },
+    {
+      "text": "is a drainage system of the vein so now",
+      "start": 1797.08,
+      "duration": 4.479
+    },
+    {
+      "text": "the scientists are going to working out",
+      "start": 1799.679,
+      "duration": 4.36
+    },
+    {
+      "text": "what happens when it goes wrong and I",
+      "start": 1801.559,
+      "duration": 6.561
+    },
+    {
+      "text": "started thinking this way 35 years ago",
+      "start": 1804.039,
+      "duration": 6.48
+    },
+    {
+      "text": "and I said what happens when it goes",
+      "start": 1808.12,
+      "duration": 6.12
+    },
+    {
+      "text": "wrong you end up with toxins building up",
+      "start": 1810.519,
+      "duration": 5.321
+    },
+    {
+      "text": "and if the sympathetic nervous system",
+      "start": 1814.24,
+      "duration": 3.559
+    },
+    {
+      "text": "pumps the wrong way which and right way",
+      "start": 1815.84,
+      "duration": 4.04
+    },
+    {
+      "text": "and wrong way dysfunctional more and",
+      "start": 1817.799,
+      "duration": 4.36
+    },
+    {
+      "text": "more toxins will build up in the brain",
+      "start": 1819.88,
+      "duration": 4.2
+    },
+    {
+      "text": "in the hypothalamus which is the",
+      "start": 1822.159,
+      "duration": 4.88
+    },
+    {
+      "text": "controlling mechanism to help this whole",
+      "start": 1824.08,
+      "duration": 4.479
+    },
+    {
+      "text": "drainage system",
+      "start": 1827.039,
+      "duration": 5.12
+    },
+    {
+      "text": "and I said the main control will be the",
+      "start": 1828.559,
+      "duration": 6.281
+    },
+    {
+      "text": "sympathetic nervous system and in the",
+      "start": 1832.159,
+      "duration": 5.481
+    },
+    {
+      "text": "brain it stimulates chemicals called",
+      "start": 1834.84,
+      "duration": 5.079
+    },
+    {
+      "text": "noradrenaline in for the American Market",
+      "start": 1837.64,
+      "duration": 4.879
+    },
+    {
+      "text": "nor epinephrine in an area of the brain",
+      "start": 1839.919,
+      "duration": 4.041
+    },
+    {
+      "text": "in the brain stem called the locus",
+      "start": 1842.519,
+      "duration": 4.841
+    },
+    {
+      "text": "Serius I wrote that in my thesis and it",
+      "start": 1843.96,
+      "duration": 4.68
+    },
+    {
+      "text": "was in",
+      "start": 1847.36,
+      "duration": 4.439
+    },
+    {
+      "text": "2013 it was shown that they looked at",
+      "start": 1848.64,
+      "duration": 4.759
+    },
+    {
+      "text": "when the drainage was occurring in the",
+      "start": 1851.799,
+      "duration": 3.24
+    },
+    {
+      "text": "mice and they found it happened during",
+      "start": 1853.399,
+      "duration": 4.721
+    },
+    {
+      "text": "Delta wave sleep during deep restor",
+      "start": 1855.039,
+      "duration": 4.921
+    },
+    {
+      "text": "ative sleep and the reason why it was",
+      "start": 1858.12,
+      "duration": 3.519
+    },
+    {
+      "text": "restorative while you woke up being",
+      "start": 1859.96,
+      "duration": 3.92
+    },
+    {
+      "text": "refreshed in health was because the",
+      "start": 1861.639,
+      "duration": 4.121
+    },
+    {
+      "text": "drainage of toxins occurred during that",
+      "start": 1863.88,
+      "duration": 3.72
+    },
+    {
+      "text": "time and they found out which part of",
+      "start": 1865.76,
+      "duration": 3.759
+    },
+    {
+      "text": "the brain was involved in that the",
+      "start": 1867.6,
+      "duration": 4.28
+    },
+    {
+      "text": "hypothalamus and the locus culus",
+      "start": 1869.519,
+      "duration": 4.321
+    },
+    {
+      "text": "Switched Off allowing the drainage to",
+      "start": 1871.88,
+      "duration": 6.0
+    },
+    {
+      "text": "occur and now we have the full picture",
+      "start": 1873.84,
+      "duration": 6.48
+    },
+    {
+      "text": "and the full picture is in my book",
+      "start": 1877.88,
+      "duration": 5.24
+    },
+    {
+      "text": "showing what's actually happening and we",
+      "start": 1880.32,
+      "duration": 4.76
+    },
+    {
+      "text": "now know from research done this year in",
+      "start": 1883.12,
+      "duration": 4.64
+    },
+    {
+      "text": "South Korea that the main drainage of",
+      "start": 1885.08,
+      "duration": 5.28
+    },
+    {
+      "text": "the the brain is into the lymphatics of",
+      "start": 1887.76,
+      "duration": 6.039
+    },
+    {
+      "text": "the neck via the cribiform plate via",
+      "start": 1890.36,
+      "duration": 5.199
+    },
+    {
+      "text": "this plate I was talking about in my",
+      "start": 1893.799,
+      "duration": 4.24
+    },
+    {
+      "text": "thesis 30 odd years",
+      "start": 1895.559,
+      "duration": 6.401
+    },
+    {
+      "text": "ago and we know that a lot more of the",
+      "start": 1898.039,
+      "duration": 6.12
+    },
+    {
+      "text": "drainage goes into the lymph in the",
+      "start": 1901.96,
+      "duration": 7.199
+    },
+    {
+      "text": "spine so hardly anything goes into the",
+      "start": 1904.159,
+      "duration": 8.201
+    },
+    {
+      "text": "blood so this gives us a reason why",
+      "start": 1909.159,
+      "duration": 5.921
+    },
+    {
+      "text": "cranial osteopathy what when we do the",
+      "start": 1912.36,
+      "duration": 4.799
+    },
+    {
+      "text": "cranial techniques as well as the manual",
+      "start": 1915.08,
+      "duration": 4.959
+    },
+    {
+      "text": "techniques to drain the lymph away we",
+      "start": 1917.159,
+      "duration": 5.721
+    },
+    {
+      "text": "use cranial techniques and why the",
+      "start": 1920.039,
+      "duration": 6.081
+    },
+    {
+      "text": "there's a cranial problem is because the",
+      "start": 1922.88,
+      "duration": 5.24
+    },
+    {
+      "text": "cranial Rhythm that we feel is around 8",
+      "start": 1926.12,
+      "duration": 4.439
+    },
+    {
+      "text": "to 12 beats a minute and I said at the",
+      "start": 1928.12,
+      "duration": 4.919
+    },
+    {
+      "text": "beginning the the cerebras spinal fluid",
+      "start": 1930.559,
+      "duration": 6.321
+    },
+    {
+      "text": "in the brain drains off from from the",
+      "start": 1933.039,
+      "duration": 5.441
+    },
+    {
+      "text": "blood it goes around the brain and goes",
+      "start": 1936.88,
+      "duration": 3.279
+    },
+    {
+      "text": "back to the blood but now we know most",
+      "start": 1938.48,
+      "duration": 4.52
+    },
+    {
+      "text": "of it goes to lymph and the lymph has a",
+      "start": 1940.159,
+      "duration": 4.041
+    },
+    {
+      "text": "pumping",
+      "start": 1943.0,
+      "duration": 3.32
+    },
+    {
+      "text": "mechanism all around the body but the",
+      "start": 1944.2,
+      "duration": 4.079
+    },
+    {
+      "text": "main pump the thoracic duct pump that's",
+      "start": 1946.32,
+      "duration": 4.839
+    },
+    {
+      "text": "the main duct of the lymph pumps at at",
+      "start": 1948.279,
+      "duration": 6.24
+    },
+    {
+      "text": "four beats a minute so it starts at 50",
+      "start": 1951.159,
+      "duration": 5.0
+    },
+    {
+      "text": "to 100 beats a minute and it goes into",
+      "start": 1954.519,
+      "duration": 3.841
+    },
+    {
+      "text": "the lymph that has a beat of four beatum",
+      "start": 1956.159,
+      "duration": 4.52
+    },
+    {
+      "text": "in it where and now we know it does",
+      "start": 1958.36,
+      "duration": 5.159
+    },
+    {
+      "text": "there's evidence to show this and then",
+      "start": 1960.679,
+      "duration": 5.921
+    },
+    {
+      "text": "we see a connection between the two",
+      "start": 1963.519,
+      "duration": 6.28
+    },
+    {
+      "text": "rhythms and when two waves come together",
+      "start": 1966.6,
+      "duration": 4.76
+    },
+    {
+      "text": "you don't need to be a physicist if",
+      "start": 1969.799,
+      "duration": 3.24
+    },
+    {
+      "text": "you're a physicist you'll say that's an",
+      "start": 1971.36,
+      "duration": 3.76
+    },
+    {
+      "text": "interference wave if you're not a",
+      "start": 1973.039,
+      "duration": 3.961
+    },
+    {
+      "text": "physicist you'll say I've seen that in",
+      "start": 1975.12,
+      "duration": 4.12
+    },
+    {
+      "text": "the beach you have a big wave coming in",
+      "start": 1977.0,
+      "duration": 4.159
+    },
+    {
+      "text": "small wave going out crashed together",
+      "start": 1979.24,
+      "duration": 3.799
+    },
+    {
+      "text": "they produce a third wave and in the",
+      "start": 1981.159,
+      "duration": 4.081
+    },
+    {
+      "text": "third wave in the brain and in the body",
+      "start": 1983.039,
+      "duration": 4.441
+    },
+    {
+      "text": "is the cranial Rhythm that we fill and",
+      "start": 1985.24,
+      "duration": 3.799
+    },
+    {
+      "text": "it's totally dysfunctional because it's",
+      "start": 1987.48,
+      "duration": 3.6
+    },
+    {
+      "text": "not draining properly there there's a",
+      "start": 1989.039,
+      "duration": 5.041
+    },
+    {
+      "text": "lot of disturbance lot of turbulence so",
+      "start": 1991.08,
+      "duration": 5.199
+    },
+    {
+      "text": "that is one of the physical signs that",
+      "start": 1994.08,
+      "duration": 5.079
+    },
+    {
+      "text": "we feel and there's a backflow of lymph",
+      "start": 1996.279,
+      "duration": 4.441
+    },
+    {
+      "text": "and we can feel that when we feel the",
+      "start": 1999.159,
+      "duration": 4.601
+    },
+    {
+      "text": "tissues the these lymph vessels because",
+      "start": 2000.72,
+      "duration": 4.439
+    },
+    {
+      "text": "they're back flowing they get bigger and",
+      "start": 2003.76,
+      "duration": 4.2
+    },
+    {
+      "text": "bigger become Mega lymphatics and I took",
+      "start": 2005.159,
+      "duration": 4.48
+    },
+    {
+      "text": "the first photos of Mega lymphatics in",
+      "start": 2007.96,
+      "duration": 3.959
+    },
+    {
+      "text": "the patient with Emy years ago that was",
+      "start": 2009.639,
+      "duration": 5.321
+    },
+    {
+      "text": "published in my thesis but we actually",
+      "start": 2011.919,
+      "duration": 5.88
+    },
+    {
+      "text": "uh have got further with a picture in my",
+      "start": 2014.96,
+      "duration": 4.959
+    },
+    {
+      "text": "new book of a patient with long covid",
+      "start": 2017.799,
+      "duration": 5.401
+    },
+    {
+      "text": "with masses amount of varicus lymphatics",
+      "start": 2019.919,
+      "duration": 7.201
+    },
+    {
+      "text": "in the chest and the varicus lymph are",
+      "start": 2023.2,
+      "duration": 6.28
+    },
+    {
+      "text": "just like varicus veins except they're",
+      "start": 2027.12,
+      "duration": 4.919
+    },
+    {
+      "text": "colorless because lymph doesn't contain",
+      "start": 2029.48,
+      "duration": 5.12
+    },
+    {
+      "text": "blood it contains the fluid lymph at the",
+      "start": 2032.039,
+      "duration": 5.52
+    },
+    {
+      "text": "surface which is colorless so we see",
+      "start": 2034.6,
+      "duration": 6.039
+    },
+    {
+      "text": "these colorless vessels bump bumps all",
+      "start": 2037.559,
+      "duration": 5.84
+    },
+    {
+      "text": "along the tissue but you don't usually",
+      "start": 2040.639,
+      "duration": 4.801
+    },
+    {
+      "text": "see it but you feel it and this is one",
+      "start": 2043.399,
+      "duration": 4.201
+    },
+    {
+      "text": "of the physical signs I discovered with",
+      "start": 2045.44,
+      "duration": 5.32
+    },
+    {
+      "text": "Emy and with long covid spinal problems",
+      "start": 2047.6,
+      "duration": 5.64
+    },
+    {
+      "text": "we see spinal problems in every single",
+      "start": 2050.76,
+      "duration": 6.0
+    },
+    {
+      "text": "person there's actually uh flatness of",
+      "start": 2053.24,
+      "duration": 6.48
+    },
+    {
+      "text": "the spine usually in the mid thoracics",
+      "start": 2056.76,
+      "duration": 5.76
+    },
+    {
+      "text": "and it's usually affects people are very",
+      "start": 2059.72,
+      "duration": 6.08
+    },
+    {
+      "text": "active before they grow and their spines",
+      "start": 2062.52,
+      "duration": 5.639
+    },
+    {
+      "text": "grow slightly wrongly and that could be",
+      "start": 2065.8,
+      "duration": 5.079
+    },
+    {
+      "text": "the main problem building up affecting",
+      "start": 2068.159,
+      "duration": 5.321
+    },
+    {
+      "text": "the drainage system so it's a buildup",
+      "start": 2070.879,
+      "duration": 4.321
+    },
+    {
+      "text": "affecting the main drainage system of",
+      "start": 2073.48,
+      "duration": 5.48
+    },
+    {
+      "text": "the brain and the spinal cord mechanical",
+      "start": 2075.2,
+      "duration": 6.56
+    },
+    {
+      "text": "drainage problems which then build up to",
+      "start": 2078.96,
+      "duration": 5.28
+    },
+    {
+      "text": "toxic overload and then once that",
+      "start": 2081.76,
+      "duration": 5.8
+    },
+    {
+      "text": "overload happens the hypothalamus starts",
+      "start": 2084.24,
+      "duration": 6.04
+    },
+    {
+      "text": "going completely dysfunctional pumping",
+      "start": 2087.56,
+      "duration": 5.279
+    },
+    {
+      "text": "the lymph more in the wrong direction",
+      "start": 2090.28,
+      "duration": 5.52
+    },
+    {
+      "text": "creating more toxins and more Toxin and",
+      "start": 2092.839,
+      "duration": 6.681
+    },
+    {
+      "text": "the final trauma usually a virus and in",
+      "start": 2095.8,
+      "duration": 6.44
+    },
+    {
+      "text": "this case with nonco it's the Corona",
+      "start": 2099.52,
+      "duration": 5.92
+    },
+    {
+      "text": "virus that hits the body and what's the",
+      "start": 2102.24,
+      "duration": 5.16
+    },
+    {
+      "text": "first symptom that people had with",
+      "start": 2105.44,
+      "duration": 5.0
+    },
+    {
+      "text": "Corona virus mostly loss of smell it",
+      "start": 2107.4,
+      "duration": 5.4
+    },
+    {
+      "text": "went up through the AL Factory",
+      "start": 2110.44,
+      "duration": 6.159
+    },
+    {
+      "text": "pathway causing nsmia loss of smell or",
+      "start": 2112.8,
+      "duration": 6.279
+    },
+    {
+      "text": "affected the smell then through the",
+      "start": 2116.599,
+      "duration": 5.641
+    },
+    {
+      "text": "copor plate the wrong way as I said what",
+      "start": 2119.079,
+      "duration": 6.04
+    },
+    {
+      "text": "happens in M wrong way into the",
+      "start": 2122.24,
+      "duration": 6.24
+    },
+    {
+      "text": "brain into the hypothalamus and in the",
+      "start": 2125.119,
+      "duration": 5.881
+    },
+    {
+      "text": "hypothalamus there's a little nucleus",
+      "start": 2128.48,
+      "duration": 6.16
+    },
+    {
+      "text": "that controls fever so you had",
+      "start": 2131.0,
+      "duration": 7.119
+    },
+    {
+      "text": "fever and that fever and anosmia were",
+      "start": 2134.64,
+      "duration": 6.52
+    },
+    {
+      "text": "the most common symptoms of people with",
+      "start": 2138.119,
+      "duration": 7.761
+    },
+    {
+      "text": "covid and that we knew from SARS one",
+      "start": 2141.16,
+      "duration": 7.64
+    },
+    {
+      "text": "that patients who had SARS one in 2003",
+      "start": 2145.88,
+      "duration": 5.719
+    },
+    {
+      "text": "in Canada because long Co covid was",
+      "start": 2148.8,
+      "duration": 7.44
+    },
+    {
+      "text": "known as SARS 2 but SARS one a lot of",
+      "start": 2151.599,
+      "duration": 7.041
+    },
+    {
+      "text": "developed me the ones who survived the",
+      "start": 2156.24,
+      "duration": 5.48
+    },
+    {
+      "text": "illness developed me symptoms and it was",
+      "start": 2158.64,
+      "duration": 6.679
+    },
+    {
+      "text": "found that the spike protein and the and",
+      "start": 2161.72,
+      "duration": 7.2
+    },
+    {
+      "text": "and the toxins had built up in the brain",
+      "start": 2165.319,
+      "duration": 6.28
+    },
+    {
+      "text": "and remember it's post viral Condition",
+      "start": 2168.92,
+      "duration": 5.84
+    },
+    {
+      "text": "it's postco we called this syndrome",
+      "start": 2171.599,
+      "duration": 6.48
+    },
+    {
+      "text": "postco in my paper because I predicted",
+      "start": 2174.76,
+      "duration": 6.28
+    },
+    {
+      "text": "that once we knew that covid was going",
+      "start": 2178.079,
+      "duration": 7.161
+    },
+    {
+      "text": "to happen we I predicted that long covid",
+      "start": 2181.04,
+      "duration": 6.079
+    },
+    {
+      "text": "was going to happen we called it postco",
+      "start": 2185.24,
+      "duration": 5.24
+    },
+    {
+      "text": "19 I wrote the paper on it on the day",
+      "start": 2187.119,
+      "duration": 5.881
+    },
+    {
+      "text": "that the pandemic was announced 11th of",
+      "start": 2190.48,
+      "duration": 3.639
+    },
+    {
+      "text": "March",
+      "start": 2193.0,
+      "duration": 4.28
+    },
+    {
+      "text": "2020 which was my wedding anniversary",
+      "start": 2194.119,
+      "duration": 7.081
+    },
+    {
+      "text": "and my wife puts up with me a lot and",
+      "start": 2197.28,
+      "duration": 5.64
+    },
+    {
+      "text": "she puts up with me staying up all night",
+      "start": 2201.2,
+      "duration": 4.08
+    },
+    {
+      "text": "writing this paper and we called it into",
+      "start": 2202.92,
+      "duration": 5.24
+    },
+    {
+      "text": "the Looking Glass because I knew that",
+      "start": 2205.28,
+      "duration": 5.52
+    },
+    {
+      "text": "covid 2 was going to do exactly the same",
+      "start": 2208.16,
+      "duration": 5.959
+    },
+    {
+      "text": "and go into the brain and cause",
+      "start": 2210.8,
+      "duration": 5.68
+    },
+    {
+      "text": "inflammatory toxins to build up in the",
+      "start": 2214.119,
+      "duration": 4.681
+    },
+    {
+      "text": "brain so wasn't just the virus or the",
+      "start": 2216.48,
+      "duration": 6.839
+    },
+    {
+      "text": "spike protein it was the cyto kindes in",
+      "start": 2218.8,
+      "duration": 6.6
+    },
+    {
+      "text": "the all the talks on television there",
+      "start": 2223.319,
+      "duration": 5.201
+    },
+    {
+      "text": "was saying about viral load and cyto",
+      "start": 2225.4,
+      "duration": 7.12
+    },
+    {
+      "text": "kind storm cyto kindes are big huge",
+      "start": 2228.52,
+      "duration": 5.28
+    },
+    {
+      "text": "molecules of",
+      "start": 2232.52,
+      "duration": 5.16
+    },
+    {
+      "text": "protein inter ferons inter lucans that",
+      "start": 2233.8,
+      "duration": 7.08
+    },
+    {
+      "text": "attach to the virus and are signaling",
+      "start": 2237.68,
+      "duration": 5.439
+    },
+    {
+      "text": "molecules for the antibodies saying cooy",
+      "start": 2240.88,
+      "duration": 4.88
+    },
+    {
+      "text": "we're here the antibodies come along and",
+      "start": 2243.119,
+      "duration": 5.161
+    },
+    {
+      "text": "then attack the virus",
+      "start": 2245.76,
+      "duration": 5.16
+    },
+    {
+      "text": "but afterwards those cyto kindes have to",
+      "start": 2248.28,
+      "duration": 5.64
+    },
+    {
+      "text": "be drained away and what drains those",
+      "start": 2250.92,
+      "duration": 5.84
+    },
+    {
+      "text": "cyto kindes away the lymphatics because",
+      "start": 2253.92,
+      "duration": 5.64
+    },
+    {
+      "text": "they're large protein molecules and that",
+      "start": 2256.76,
+      "duration": 6.92
+    },
+    {
+      "text": "drains away the cyto and then the cyto",
+      "start": 2259.56,
+      "duration": 6.16
+    },
+    {
+      "text": "and then you're back to health but if",
+      "start": 2263.68,
+      "duration": 4.04
+    },
+    {
+      "text": "there's a massive load and there's loads",
+      "start": 2265.72,
+      "duration": 5.16
+    },
+    {
+      "text": "of cyto building up and there's already",
+      "start": 2267.72,
+      "duration": 5.44
+    },
+    {
+      "text": "a back flow because you've had problems",
+      "start": 2270.88,
+      "duration": 3.52
+    },
+    {
+      "text": "in the past that you weren't really",
+      "start": 2273.16,
+      "duration": 3.76
+    },
+    {
+      "text": "aware of those cyto are going to go up",
+      "start": 2274.4,
+      "duration": 4.76
+    },
+    {
+      "text": "into the brain and stay in the brain and",
+      "start": 2276.92,
+      "duration": 5.08
+    },
+    {
+      "text": "not drain away so it's those patients",
+      "start": 2279.16,
+      "duration": 5.84
+    },
+    {
+      "text": "are billions of people got covid",
+      "start": 2282.0,
+      "duration": 4.72
+    },
+    {
+      "text": "millions of people have got long covid",
+      "start": 2285.0,
+      "duration": 4.8
+    },
+    {
+      "text": "now but you know many less have got long",
+      "start": 2286.72,
+      "duration": 4.96
+    },
+    {
+      "text": "Co it's the ones who've had a",
+      "start": 2289.8,
+      "duration": 4.16
+    },
+    {
+      "text": "neurolymphatic problem in the first",
+      "start": 2291.68,
+      "duration": 4.96
+    },
+    {
+      "text": "place the and this is the final straw",
+      "start": 2293.96,
+      "duration": 5.6
+    },
+    {
+      "text": "and it's CS this buildup and then you",
+      "start": 2296.64,
+      "duration": 5.24
+    },
+    {
+      "text": "have this buildup of cyto kindes and",
+      "start": 2299.56,
+      "duration": 4.559
+    },
+    {
+      "text": "it's been proven that that that causes",
+      "start": 2301.88,
+      "duration": 3.959
+    },
+    {
+      "text": "the neuroinflammation in the brain",
+      "start": 2304.119,
+      "duration": 3.561
+    },
+    {
+      "text": "causing the brain fog causing the",
+      "start": 2305.839,
+      "duration": 4.201
+    },
+    {
+      "text": "cognitive problems causing depression",
+      "start": 2307.68,
+      "duration": 5.32
+    },
+    {
+      "text": "and anxiety problems causing all the",
+      "start": 2310.04,
+      "duration": 6.079
+    },
+    {
+      "text": "symptoms we see in Long Co that",
+      "start": 2313.0,
+      "duration": 6.119
+    },
+    {
+      "text": "basically is the P technique the",
+      "start": 2316.119,
+      "duration": 6.2
+    },
+    {
+      "text": "diagnosis of it is we do the physical",
+      "start": 2319.119,
+      "duration": 5.96
+    },
+    {
+      "text": "and the treatment we actually drain it",
+      "start": 2322.319,
+      "duration": 4.28
+    },
+    {
+      "text": "away so that's the main thing the",
+      "start": 2325.079,
+      "duration": 3.52
+    },
+    {
+      "text": "treatment is the pent technique so this",
+      "start": 2326.599,
+      "duration": 4.041
+    },
+    {
+      "text": "is the I've given you the science behind",
+      "start": 2328.599,
+      "duration": 4.601
+    },
+    {
+      "text": "it did you did you follow me so far did",
+      "start": 2330.64,
+      "duration": 4.92
+    },
+    {
+      "text": "it make some yeah I I think so and you",
+      "start": 2333.2,
+      "duration": 4.52
+    },
+    {
+      "text": "know any listeners who are thinking I",
+      "start": 2335.56,
+      "duration": 4.64
+    },
+    {
+      "text": "feel a bit overwhelmed by all the",
+      "start": 2337.72,
+      "duration": 5.0
+    },
+    {
+      "text": "science what we're going to actually do",
+      "start": 2340.2,
+      "duration": 5.72
+    },
+    {
+      "text": "right now is uh split this interview",
+      "start": 2342.72,
+      "duration": 6.119
+    },
+    {
+      "text": "here allow us time to digest some of",
+      "start": 2345.92,
+      "duration": 4.48
+    },
+    {
+      "text": "that because to be honest I feel like I",
+      "start": 2348.839,
+      "duration": 2.961
+    },
+    {
+      "text": "need to do that as",
+      "start": 2350.4,
+      "duration": 5.12
+    },
+    {
+      "text": "well and we will come back next week to",
+      "start": 2351.8,
+      "duration": 7.16
+    },
+    {
+      "text": "hear Dr perin talk about what the",
+      "start": 2355.52,
+      "duration": 5.36
+    },
+    {
+      "text": "practicalities of this is how do we",
+      "start": 2358.96,
+      "duration": 5.08
+    },
+    {
+      "text": "actually do it we've got the science we",
+      "start": 2360.88,
+      "duration": 5.56
+    },
+    {
+      "text": "understand what's going on what do we do",
+      "start": 2364.04,
+      "duration": 5.64
+    },
+    {
+      "text": "about it so thank you so much Dr perin",
+      "start": 2366.44,
+      "duration": 6.76
+    },
+    {
+      "text": "uh we will be back next week with more",
+      "start": 2369.68,
+      "duration": 6.439
+    },
+    {
+      "text": "and I look forward to seeing you then",
+      "start": 2373.2,
+      "duration": 5.0
+    },
+    {
+      "text": "thank you so much to all of my guests",
+      "start": 2376.119,
+      "duration": 4.321
+    },
+    {
+      "text": "and to you for listening I hope you've",
+      "start": 2378.2,
+      "duration": 5.399
+    },
+    {
+      "text": "enjoyed it or at least found it useful",
+      "start": 2380.44,
+      "duration": 5.08
+    },
+    {
+      "text": "the long Co podcast is entirely",
+      "start": 2383.599,
+      "duration": 4.24
+    },
+    {
+      "text": "self-produced and self-funded I'm doing",
+      "start": 2385.52,
+      "duration": 3.44
+    },
+    {
+      "text": "all of this",
+      "start": 2387.839,
+      "duration": 3.961
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2388.96,
+      "duration": 4.28
+    },
+    {
+      "text": "buyme a",
+      "start": 2391.8,
+      "duration": 4.64
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2393.24,
+      "duration": 5.2
+    },
+    {
+      "text": "the costs of host in",
+      "start": 2396.44,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2398.44,
+      "duration": 4.2
+    },
+    {
+      "text": "episode of the one podcast it's",
+      "start": 2400.48,
+      "duration": 4.2
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2402.64,
+      "duration": 5.08
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 2404.68,
+      "duration": 6.76
+    },
+    {
+      "text": "love to hear from you",
+      "start": 2407.72,
+      "duration": 3.72
+    },
+    {
+      "text": "[Music]",
+      "start": 2415.67,
+      "duration": 2.049
+    }
+  ],
+  "metadata": {
+    "title": "160 - Dr. Raymond Perrin Breakthroughs in the Lymphatic System - part 1",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/P1jAGvC_RVE/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 160,
+    "title": "160 - Dr. Raymond Perrin Breakthroughs in the Lymphatic System - part 1",
+    "videoId": "P1jAGvC_RVE",
+    "lengthText": "40:17"
+  }
+}

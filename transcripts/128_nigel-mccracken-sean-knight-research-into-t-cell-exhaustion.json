@@ -1,0 +1,6658 @@
+{
+  "video_id": "vojQb8RemM0",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.16,
+      "duration": 6.239
+    },
+    {
+      "text": "The Long Co podcast I am delighted to be",
+      "start": 58.399,
+      "duration": 6.801
+    },
+    {
+      "text": "joined today by Nigel McCracken and Sean",
+      "start": 61.399,
+      "duration": 6.72
+    },
+    {
+      "text": "Knight and we are going to be diving a",
+      "start": 65.2,
+      "duration": 5.919
+    },
+    {
+      "text": "little bit into the research World um",
+      "start": 68.119,
+      "duration": 5.68
+    },
+    {
+      "text": "and I'm going to let them introduce",
+      "start": 71.119,
+      "duration": 5.0
+    },
+    {
+      "text": "themselves so very very warm welcome to",
+      "start": 73.799,
+      "duration": 3.481
+    },
+    {
+      "text": "the podcast",
+      "start": 76.119,
+      "duration": 5.0
+    },
+    {
+      "text": "today hello Jackie you very much um so",
+      "start": 77.28,
+      "duration": 6.44
+    },
+    {
+      "text": "this is n MRA um just a we bit of",
+      "start": 81.119,
+      "duration": 5.121
+    },
+    {
+      "text": "background about myself I'm actually",
+      "start": 83.72,
+      "duration": 4.719
+    },
+    {
+      "text": "Scottish and uh live in Edinburgh at the",
+      "start": 86.24,
+      "duration": 4.879
+    },
+    {
+      "text": "moment I sort of background in clinical",
+      "start": 88.439,
+      "duration": 4.081
+    },
+    {
+      "text": "pharmacology and I've worked in drug",
+      "start": 91.119,
+      "duration": 4.721
+    },
+    {
+      "text": "development for the last 30 years and",
+      "start": 92.52,
+      "duration": 5.599
+    },
+    {
+      "text": "recently has taken up a role at cheap",
+      "start": 95.84,
+      "duration": 4.44
+    },
+    {
+      "text": "Operating Officer for a company called",
+      "start": 98.119,
+      "duration": 4.32
+    },
+    {
+      "text": "uh vrax biolabs who are actually",
+      "start": 100.28,
+      "duration": 4.199
+    },
+    {
+      "text": "interested in developing immune",
+      "start": 102.439,
+      "duration": 5.241
+    },
+    {
+      "text": "profiling Solutions as well as t- cell",
+      "start": 104.479,
+      "duration": 6.761
+    },
+    {
+      "text": "Diagnostics hi Jackie so this is Sean n",
+      "start": 107.68,
+      "duration": 5.96
+    },
+    {
+      "text": "um I'm an academic clinician I grew up a",
+      "start": 111.24,
+      "duration": 4.479
+    },
+    {
+      "text": "long way from Scotland uh so I I",
+      "start": 113.64,
+      "duration": 4.119
+    },
+    {
+      "text": "actually grew up in Africa I'm an",
+      "start": 115.719,
+      "duration": 3.841
+    },
+    {
+      "text": "academic clinician so I do that means",
+      "start": 117.759,
+      "duration": 3.72
+    },
+    {
+      "text": "basically I spend half of my time doing",
+      "start": 119.56,
+      "duration": 4.0
+    },
+    {
+      "text": "research and half of my time looking",
+      "start": 121.479,
+      "duration": 4.841
+    },
+    {
+      "text": "after patients and my clinical specialty",
+      "start": 123.56,
+      "duration": 4.44
+    },
+    {
+      "text": "is respiratory medicine so that means",
+      "start": 126.32,
+      "duration": 3.12
+    },
+    {
+      "text": "looking after people who have lung",
+      "start": 128.0,
+      "duration": 3.48
+    },
+    {
+      "text": "diseases including people who have",
+      "start": 129.44,
+      "duration": 4.08
+    },
+    {
+      "text": "infections uh and a whole basically",
+      "start": 131.48,
+      "duration": 3.32
+    },
+    {
+      "text": "anything that's that's gone wrong with",
+      "start": 133.52,
+      "duration": 6.04
+    },
+    {
+      "text": "the lungs really perfect um and yeah we",
+      "start": 134.8,
+      "duration": 7.04
+    },
+    {
+      "text": "are kind of diving into the world of",
+      "start": 139.56,
+      "duration": 5.28
+    },
+    {
+      "text": "long covid research is it too soon a",
+      "start": 141.84,
+      "duration": 4.72
+    },
+    {
+      "text": "question to ask like what brought you",
+      "start": 144.84,
+      "duration": 3.72
+    },
+    {
+      "text": "guys together um or is that kind of",
+      "start": 146.56,
+      "duration": 4.72
+    },
+    {
+      "text": "further down the story",
+      "start": 148.56,
+      "duration": 5.56
+    },
+    {
+      "text": "well I can answer that one so as I said",
+      "start": 151.28,
+      "duration": 4.039
+    },
+    {
+      "text": "I've been doing drug development for a",
+      "start": 154.12,
+      "duration": 3.0
+    },
+    {
+      "text": "long time and worked across many",
+      "start": 155.319,
+      "duration": 3.601
+    },
+    {
+      "text": "indications and and certainly over the",
+      "start": 157.12,
+      "duration": 3.6
+    },
+    {
+      "text": "last 15 years or so I've been sort of",
+      "start": 158.92,
+      "duration": 3.12
+    },
+    {
+      "text": "heading up groups around translational",
+      "start": 160.72,
+      "duration": 3.48
+    },
+    {
+      "text": "medicine so um I've always been",
+      "start": 162.04,
+      "duration": 4.6
+    },
+    {
+      "text": "interested in in understanding the",
+      "start": 164.2,
+      "duration": 5.72
+    },
+    {
+      "text": "immune component of a lot of diseases",
+      "start": 166.64,
+      "duration": 5.48
+    },
+    {
+      "text": "and particularly infectious disease and",
+      "start": 169.92,
+      "duration": 6.239
+    },
+    {
+      "text": "oncology so actually my previous uh job",
+      "start": 172.12,
+      "duration": 6.68
+    },
+    {
+      "text": "as as a chief scientific officer we were",
+      "start": 176.159,
+      "duration": 5.08
+    },
+    {
+      "text": "actually had a you know a molecule that",
+      "start": 178.8,
+      "duration": 5.28
+    },
+    {
+      "text": "was targeting a specific Target that for",
+      "start": 181.239,
+      "duration": 5.241
+    },
+    {
+      "text": "actually covid but as well as oncology",
+      "start": 184.08,
+      "duration": 5.12
+    },
+    {
+      "text": "because it was actually targeting that",
+      "start": 186.48,
+      "duration": 4.6
+    },
+    {
+      "text": "micro environment and we'll go on into",
+      "start": 189.2,
+      "duration": 4.44
+    },
+    {
+      "text": "that a little bit the importance of that",
+      "start": 191.08,
+      "duration": 5.56
+    },
+    {
+      "text": "so from my own background I we I did",
+      "start": 193.64,
+      "duration": 5.36
+    },
+    {
+      "text": "actually run a couple of Co studies and",
+      "start": 196.64,
+      "duration": 5.2
+    },
+    {
+      "text": "in doing so and came across uh the",
+      "start": 199.0,
+      "duration": 4.4
+    },
+    {
+      "text": "University of Manchester because we were",
+      "start": 201.84,
+      "duration": 3.64
+    },
+    {
+      "text": "doing an awful lot of research around",
+      "start": 203.4,
+      "duration": 4.32
+    },
+    {
+      "text": "that it just so happened that the the",
+      "start": 205.48,
+      "duration": 4.6
+    },
+    {
+      "text": "Target that I was looking at reduced the",
+      "start": 207.72,
+      "duration": 4.76
+    },
+    {
+      "text": "interfering gamma levels and we'll go",
+      "start": 210.08,
+      "duration": 4.28
+    },
+    {
+      "text": "into that around that the general",
+      "start": 212.48,
+      "duration": 4.119
+    },
+    {
+      "text": "chronic inflammation part and in doing",
+      "start": 214.36,
+      "duration": 5.079
+    },
+    {
+      "text": "so I was introduced to to um you know",
+      "start": 216.599,
+      "duration": 5.36
+    },
+    {
+      "text": "Professor um Tracy hustle who I know",
+      "start": 219.439,
+      "duration": 5.16
+    },
+    {
+      "text": "that Sean sort of works with so rolling",
+      "start": 221.959,
+      "duration": 5.56
+    },
+    {
+      "text": "on to the next sort of you know role",
+      "start": 224.599,
+      "duration": 6.121
+    },
+    {
+      "text": "which was more around Diagnostics and",
+      "start": 227.519,
+      "duration": 5.681
+    },
+    {
+      "text": "that early diagnosis all these",
+      "start": 230.72,
+      "duration": 3.64
+    },
+    {
+      "text": "conditions and whatever you know it was",
+      "start": 233.2,
+      "duration": 2.879
+    },
+    {
+      "text": "really quite nice we reached out to",
+      "start": 234.36,
+      "duration": 3.92
+    },
+    {
+      "text": "Tracy and then from Tracy we got",
+      "start": 236.079,
+      "duration": 4.201
+    },
+    {
+      "text": "introduced to Shan cuz sea had actually",
+      "start": 238.28,
+      "duration": 4.679
+    },
+    {
+      "text": "this ongoing study that he was involved",
+      "start": 240.28,
+      "duration": 5.92
+    },
+    {
+      "text": "in and I I'll hand that over to to Sean",
+      "start": 242.959,
+      "duration": 6.161
+    },
+    {
+      "text": "then yeah yes it it's it's been uh in",
+      "start": 246.2,
+      "duration": 4.599
+    },
+    {
+      "text": "fact like a lot of the co work I've been",
+      "start": 249.12,
+      "duration": 3.72
+    },
+    {
+      "text": "involved in it's all been sort of forus",
+      "start": 250.799,
+      "duration": 4.201
+    },
+    {
+      "text": "and chance encounters that have kind of",
+      "start": 252.84,
+      "duration": 4.04
+    },
+    {
+      "text": "um led to these interactions happening",
+      "start": 255.0,
+      "duration": 3.12
+    },
+    {
+      "text": "and driving a lot of the research",
+      "start": 256.88,
+      "duration": 4.12
+    },
+    {
+      "text": "forward so yes so actually much like",
+      "start": 258.12,
+      "duration": 4.68
+    },
+    {
+      "text": "Nigel underware sort of going further",
+      "start": 261.0,
+      "duration": 4.08
+    },
+    {
+      "text": "back I I was actually more interested in",
+      "start": 262.8,
+      "duration": 4.24
+    },
+    {
+      "text": "uh in lung cancer and the Immunology of",
+      "start": 265.08,
+      "duration": 5.04
+    },
+    {
+      "text": "lung cancer before the pandemic so I'd",
+      "start": 267.04,
+      "duration": 5.879
+    },
+    {
+      "text": "actually around sort of um late 2019",
+      "start": 270.12,
+      "duration": 4.919
+    },
+    {
+      "text": "early 2020 I'd taken time out of my",
+      "start": 272.919,
+      "duration": 4.481
+    },
+    {
+      "text": "clinical work to set up my laboratory",
+      "start": 275.039,
+      "duration": 4.201
+    },
+    {
+      "text": "with Tracy hustle over at the Lydia",
+      "start": 277.4,
+      "duration": 3.72
+    },
+    {
+      "text": "Becker Institute in",
+      "start": 279.24,
+      "duration": 4.679
+    },
+    {
+      "text": "Manchester um and it's amazing in",
+      "start": 281.12,
+      "duration": 4.68
+    },
+    {
+      "text": "hindsight um when you go back through",
+      "start": 283.919,
+      "duration": 3.84
+    },
+    {
+      "text": "the dates to see how quickly things",
+      "start": 285.8,
+      "duration": 4.16
+    },
+    {
+      "text": "changed with Co and how it went from",
+      "start": 287.759,
+      "duration": 4.481
+    },
+    {
+      "text": "sort of an esoteric thing that was in",
+      "start": 289.96,
+      "duration": 4.959
+    },
+    {
+      "text": "the news to you know rolling all the way",
+      "start": 292.24,
+      "duration": 4.08
+    },
+    {
+      "text": "uh out and realizing that it was going",
+      "start": 294.919,
+      "duration": 3.56
+    },
+    {
+      "text": "to have such a massive impact on on",
+      "start": 296.32,
+      "duration": 4.24
+    },
+    {
+      "text": "everyone sort of around the world",
+      "start": 298.479,
+      "duration": 4.0
+    },
+    {
+      "text": "uh so so we we were sort of very much in",
+      "start": 300.56,
+      "duration": 4.079
+    },
+    {
+      "text": "that that whole sort of stage of",
+      "start": 302.479,
+      "duration": 4.321
+    },
+    {
+      "text": "disbelief and then and then um working",
+      "start": 304.639,
+      "duration": 4.521
+    },
+    {
+      "text": "out what we could do to I guess to use",
+      "start": 306.8,
+      "duration": 4.399
+    },
+    {
+      "text": "the resources from you know the research",
+      "start": 309.16,
+      "duration": 4.36
+    },
+    {
+      "text": "perspective that we had to to try and um",
+      "start": 311.199,
+      "duration": 5.761
+    },
+    {
+      "text": "help people with Co so Tracy and I",
+      "start": 313.52,
+      "duration": 4.72
+    },
+    {
+      "text": "together with some other um",
+      "start": 316.96,
+      "duration": 3.72
+    },
+    {
+      "text": "investigators in Manchester uh set up",
+      "start": 318.24,
+      "duration": 5.64
+    },
+    {
+      "text": "this longitudinal covid-19 study and it",
+      "start": 320.68,
+      "duration": 5.92
+    },
+    {
+      "text": "had very broad objectives at the",
+      "start": 323.88,
+      "duration": 4.599
+    },
+    {
+      "text": "beginning in the sense that at that",
+      "start": 326.6,
+      "duration": 3.56
+    },
+    {
+      "text": "stage we knew nothing about virus and",
+      "start": 328.479,
+      "duration": 4.481
+    },
+    {
+      "text": "how it affected the immune system so",
+      "start": 330.16,
+      "duration": 5.479
+    },
+    {
+      "text": "what we planned to do was pretty much",
+      "start": 332.96,
+      "duration": 4.48
+    },
+    {
+      "text": "invite people to take part as they came",
+      "start": 335.639,
+      "duration": 5.241
+    },
+    {
+      "text": "into hospital with covid-19 and uh many",
+      "start": 337.44,
+      "duration": 5.96
+    },
+    {
+      "text": "patients donated their their blood um",
+      "start": 340.88,
+      "duration": 5.8
+    },
+    {
+      "text": "for our research and we basically looked",
+      "start": 343.4,
+      "duration": 5.88
+    },
+    {
+      "text": "at almost every immune cell and we tried",
+      "start": 346.68,
+      "duration": 4.519
+    },
+    {
+      "text": "to work out what they were doing in",
+      "start": 349.28,
+      "duration": 4.84
+    },
+    {
+      "text": "acute covid-19 so obviously that was",
+      "start": 351.199,
+      "duration": 5.601
+    },
+    {
+      "text": "before we knew what the natural sort of",
+      "start": 354.12,
+      "duration": 5.12
+    },
+    {
+      "text": "course of the infection would be and",
+      "start": 356.8,
+      "duration": 4.32
+    },
+    {
+      "text": "certainly at that stage we had no idea",
+      "start": 359.24,
+      "duration": 4.56
+    },
+    {
+      "text": "that long Co was going to be you know",
+      "start": 361.12,
+      "duration": 4.24
+    },
+    {
+      "text": "such a prominent thing coming out the",
+      "start": 363.8,
+      "duration": 4.44
+    },
+    {
+      "text": "other side so that study essentially",
+      "start": 365.36,
+      "duration": 5.279
+    },
+    {
+      "text": "involved into a long Co study because a",
+      "start": 368.24,
+      "duration": 4.04
+    },
+    {
+      "text": "lot of those patients that we recruited",
+      "start": 370.639,
+      "duration": 3.521
+    },
+    {
+      "text": "when they came into Hospital uh we",
+      "start": 372.28,
+      "duration": 4.4
+    },
+    {
+      "text": "followed up after they left hospital and",
+      "start": 374.16,
+      "duration": 4.4
+    },
+    {
+      "text": "they continued to donate samples for us",
+      "start": 376.68,
+      "duration": 3.959
+    },
+    {
+      "text": "and and I guess at that stage the group",
+      "start": 378.56,
+      "duration": 4.56
+    },
+    {
+      "text": "started to separate out and that some",
+      "start": 380.639,
+      "duration": 4.761
+    },
+    {
+      "text": "people made a full recovery and then it",
+      "start": 383.12,
+      "duration": 3.799
+    },
+    {
+      "text": "became clear that some people weren't",
+      "start": 385.4,
+      "duration": 3.799
+    },
+    {
+      "text": "making a full recovery and what was",
+      "start": 386.919,
+      "duration": 3.921
+    },
+    {
+      "text": "interesting about that was that it",
+      "start": 389.199,
+      "duration": 4.241
+    },
+    {
+      "text": "wasn't always driven by how severe their",
+      "start": 390.84,
+      "duration": 5.72
+    },
+    {
+      "text": "infection was so that was the thing that",
+      "start": 393.44,
+      "duration": 5.44
+    },
+    {
+      "text": "sort of I guess stood out for me really",
+      "start": 396.56,
+      "duration": 3.84
+    },
+    {
+      "text": "is I've met some people who were in",
+      "start": 398.88,
+      "duration": 3.12
+    },
+    {
+      "text": "intensive care with their",
+      "start": 400.4,
+      "duration": 4.0
+    },
+    {
+      "text": "covid-19 and when we saw them at our",
+      "start": 402.0,
+      "duration": 4.24
+    },
+    {
+      "text": "patients you know three months after",
+      "start": 404.4,
+      "duration": 3.239
+    },
+    {
+      "text": "they recovered they were pretty much",
+      "start": 406.24,
+      "duration": 4.16
+    },
+    {
+      "text": "back to normal um that wasn't everyone's",
+      "start": 407.639,
+      "duration": 4.161
+    },
+    {
+      "text": "story there was obviously lots of people",
+      "start": 410.4,
+      "duration": 3.239
+    },
+    {
+      "text": "who you know did have a very protected",
+      "start": 411.8,
+      "duration": 2.959
+    },
+    {
+      "text": "recovery and then there were other",
+      "start": 413.639,
+      "duration": 3.441
+    },
+    {
+      "text": "people you know who maybe hadn't been as",
+      "start": 414.759,
+      "duration": 4.321
+    },
+    {
+      "text": "as severely affected whilst they were in",
+      "start": 417.08,
+      "duration": 4.119
+    },
+    {
+      "text": "hospital but but had a much much more",
+      "start": 419.08,
+      "duration": 4.679
+    },
+    {
+      "text": "difficult trajectory in in the recovery",
+      "start": 421.199,
+      "duration": 6.641
+    },
+    {
+      "text": "phase so basically we we sort of adapted",
+      "start": 423.759,
+      "duration": 6.0
+    },
+    {
+      "text": "our research to look at that and that",
+      "start": 427.84,
+      "duration": 3.32
+    },
+    {
+      "text": "study sort of reached a natural",
+      "start": 429.759,
+      "duration": 3.521
+    },
+    {
+      "text": "conclusion that we're just about to",
+      "start": 431.16,
+      "duration": 5.039
+    },
+    {
+      "text": "publish and I guess our work with Nigel",
+      "start": 433.28,
+      "duration": 4.28
+    },
+    {
+      "text": "is sort of The Next Step where now what",
+      "start": 436.199,
+      "duration": 2.961
+    },
+    {
+      "text": "we're looking at is we're focusing on",
+      "start": 437.56,
+      "duration": 4.28
+    },
+    {
+      "text": "long covid and we're just about to start",
+      "start": 439.16,
+      "duration": 5.68
+    },
+    {
+      "text": "recruiting patients um to a new study",
+      "start": 441.84,
+      "duration": 4.32
+    },
+    {
+      "text": "that basically will follow those",
+      "start": 444.84,
+      "duration": 3.84
+    },
+    {
+      "text": "patients with long Co up over a course",
+      "start": 446.16,
+      "duration": 4.4
+    },
+    {
+      "text": "of um two years years and we'll be",
+      "start": 448.68,
+      "duration": 4.56
+    },
+    {
+      "text": "looking at their immune system changes",
+      "start": 450.56,
+      "duration": 4.12
+    },
+    {
+      "text": "uh and how that correlates to how their",
+      "start": 453.24,
+      "duration": 4.12
+    },
+    {
+      "text": "symptoms change so much like sort of",
+      "start": 454.68,
+      "duration": 4.72
+    },
+    {
+      "text": "here hearing um the story at the",
+      "start": 457.36,
+      "duration": 4.519
+    },
+    {
+      "text": "beginning about how many years it can",
+      "start": 459.4,
+      "duration": 5.04
+    },
+    {
+      "text": "take to recover from covid-19 the idea",
+      "start": 461.879,
+      "duration": 3.88
+    },
+    {
+      "text": "is if we catch people while they're",
+      "start": 464.44,
+      "duration": 2.92
+    },
+    {
+      "text": "symptomatic now and sort of see what",
+      "start": 465.759,
+      "duration": 3.241
+    },
+    {
+      "text": "changes as they get battered might give",
+      "start": 467.36,
+      "duration": 4.279
+    },
+    {
+      "text": "us a better idea of what I guess how we",
+      "start": 469.0,
+      "duration": 4.479
+    },
+    {
+      "text": "can sort of track the natural trajectory",
+      "start": 471.639,
+      "duration": 3.881
+    },
+    {
+      "text": "of long Co and you know identify things",
+      "start": 473.479,
+      "duration": 3.68
+    },
+    {
+      "text": "that we might be able to change to make",
+      "start": 475.52,
+      "duration": 4.04
+    },
+    {
+      "text": "things better for people and I guess",
+      "start": 477.159,
+      "duration": 4.16
+    },
+    {
+      "text": "what's cool about that original study",
+      "start": 479.56,
+      "duration": 3.44
+    },
+    {
+      "text": "and if you want to give me a link to",
+      "start": 481.319,
+      "duration": 3.401
+    },
+    {
+      "text": "that I can drop it in the show notes as",
+      "start": 483.0,
+      "duration": 5.56
+    },
+    {
+      "text": "well um is that you have that data right",
+      "start": 484.72,
+      "duration": 5.96
+    },
+    {
+      "text": "from the start because I think what a",
+      "start": 488.56,
+      "duration": 4.44
+    },
+    {
+      "text": "lot of studies and I suppose what your",
+      "start": 490.68,
+      "duration": 4.6
+    },
+    {
+      "text": "second study is going to be doing is",
+      "start": 493.0,
+      "duration": 4.759
+    },
+    {
+      "text": "picking up people sort of longer along",
+      "start": 495.28,
+      "duration": 5.28
+    },
+    {
+      "text": "the road so you know the co infection is",
+      "start": 497.759,
+      "duration": 5.321
+    },
+    {
+      "text": "in the past they've done the whole thing",
+      "start": 500.56,
+      "duration": 3.72
+    },
+    {
+      "text": "where they thought they were getting",
+      "start": 503.08,
+      "duration": 2.72
+    },
+    {
+      "text": "better and then they weren't getting",
+      "start": 504.28,
+      "duration": 2.919
+    },
+    {
+      "text": "better and then maybe they were getting",
+      "start": 505.8,
+      "duration": 2.799
+    },
+    {
+      "text": "oh no but then they weren't and that",
+      "start": 507.199,
+      "duration": 4.72
+    },
+    {
+      "text": "kind of start of the wiggle of long Co",
+      "start": 508.599,
+      "duration": 5.521
+    },
+    {
+      "text": "and then they start tracking their",
+      "start": 511.919,
+      "duration": 4.201
+    },
+    {
+      "text": "symptoms and they start logging things",
+      "start": 514.12,
+      "duration": 4.399
+    },
+    {
+      "text": "because that's kind of what you do um",
+      "start": 516.12,
+      "duration": 4.24
+    },
+    {
+      "text": "but your original study had that data",
+      "start": 518.519,
+      "duration": 3.281
+    },
+    {
+      "text": "right from the start whether they ended",
+      "start": 520.36,
+      "duration": 4.52
+    },
+    {
+      "text": "up having long Co or not um so I suppose",
+      "start": 521.8,
+      "duration": 6.56
+    },
+    {
+      "text": "that's very cool yeah so it was",
+      "start": 524.88,
+      "duration": 5.76
+    },
+    {
+      "text": "interesting I guess as as as ever withth",
+      "start": 528.36,
+      "duration": 4.24
+    },
+    {
+      "text": "research is when you look back at it",
+      "start": 530.64,
+      "duration": 3.44
+    },
+    {
+      "text": "there's always that inclination to think",
+      "start": 532.6,
+      "duration": 2.88
+    },
+    {
+      "text": "well what what didn't we have for that",
+      "start": 534.08,
+      "duration": 4.08
+    },
+    {
+      "text": "study as well so I think that the major",
+      "start": 535.48,
+      "duration": 3.76
+    },
+    {
+      "text": "question which is running through our",
+      "start": 538.16,
+      "duration": 2.48
+    },
+    {
+      "text": "mind but we haven't really had a way of",
+      "start": 539.24,
+      "duration": 3.64
+    },
+    {
+      "text": "answering as well is is a step before",
+      "start": 540.64,
+      "duration": 4.319
+    },
+    {
+      "text": "that is that we've seen some changes I",
+      "start": 542.88,
+      "duration": 3.28
+    },
+    {
+      "text": "guess in people who've ended up with",
+      "start": 544.959,
+      "duration": 4.521
+    },
+    {
+      "text": "long Co but were those people before",
+      "start": 546.16,
+      "duration": 4.64
+    },
+    {
+      "text": "they had infections were they different",
+      "start": 549.48,
+      "duration": 3.2
+    },
+    {
+      "text": "in some way so you know before the",
+      "start": 550.8,
+      "duration": 3.84
+    },
+    {
+      "text": "pandemic came around were they almost",
+      "start": 552.68,
+      "duration": 3.599
+    },
+    {
+      "text": "predetermined I guess that those people",
+      "start": 554.64,
+      "duration": 3.52
+    },
+    {
+      "text": "were going to end up with long covid and",
+      "start": 556.279,
+      "duration": 3.361
+    },
+    {
+      "text": "all that they were looking for was the",
+      "start": 558.16,
+      "duration": 3.2
+    },
+    {
+      "text": "right sort of stimulus if you like which",
+      "start": 559.64,
+      "duration": 5.879
+    },
+    {
+      "text": "happen to be the the covid-19 illness so",
+      "start": 561.36,
+      "duration": 6.2
+    },
+    {
+      "text": "yes so I guess in short um it has been",
+      "start": 565.519,
+      "duration": 3.641
+    },
+    {
+      "text": "really helpful to track you know all the",
+      "start": 567.56,
+      "duration": 3.8
+    },
+    {
+      "text": "way from acute infection to recovery but",
+      "start": 569.16,
+      "duration": 3.679
+    },
+    {
+      "text": "but I guess there's also some some",
+      "start": 571.36,
+      "duration": 3.64
+    },
+    {
+      "text": "unanswered questions that that I guess",
+      "start": 572.839,
+      "duration": 4.521
+    },
+    {
+      "text": "we we have ideas that we want to um sort",
+      "start": 575.0,
+      "duration": 4.16
+    },
+    {
+      "text": "of put into practice in the future but",
+      "start": 577.36,
+      "duration": 4.36
+    },
+    {
+      "text": "yeah I guess we we're having all of this",
+      "start": 579.16,
+      "duration": 5.88
+    },
+    {
+      "text": "is sort of um an ongoing piece of work I",
+      "start": 581.72,
+      "duration": 5.32
+    },
+    {
+      "text": "guess and I guess that's the thing with",
+      "start": 585.04,
+      "duration": 4.32
+    },
+    {
+      "text": "research isn't it you know you you find",
+      "start": 587.04,
+      "duration": 5.0
+    },
+    {
+      "text": "an thing and you get an answer and then",
+      "start": 589.36,
+      "duration": 3.8
+    },
+    {
+      "text": "you know that just leads to more",
+      "start": 592.04,
+      "duration": 2.799
+    },
+    {
+      "text": "questions which then gives you more",
+      "start": 593.16,
+      "duration": 3.08
+    },
+    {
+      "text": "answers which then leads to more",
+      "start": 594.839,
+      "duration": 3.56
+    },
+    {
+      "text": "questions so it's like the more you know",
+      "start": 596.24,
+      "duration": 3.64
+    },
+    {
+      "text": "what is it the thing that the more you",
+      "start": 598.399,
+      "duration": 3.361
+    },
+    {
+      "text": "know the more you realize you don't know",
+      "start": 599.88,
+      "duration": 3.28
+    },
+    {
+      "text": "is that the saying or did I just make",
+      "start": 601.76,
+      "duration": 3.36
+    },
+    {
+      "text": "that up it's something like that isn't",
+      "start": 603.16,
+      "duration": 5.04
+    },
+    {
+      "text": "it but it certainly feels like",
+      "start": 605.12,
+      "duration": 6.12
+    },
+    {
+      "text": "that it's a a complicated business you",
+      "start": 608.2,
+      "duration": 4.6
+    },
+    {
+      "text": "know when you think about the Adaptive",
+      "start": 611.24,
+      "duration": 5.279
+    },
+    {
+      "text": "immune system and the interplay um in",
+      "start": 612.8,
+      "duration": 5.88
+    },
+    {
+      "text": "different indications that now the",
+      "start": 616.519,
+      "duration": 4.56
+    },
+    {
+      "text": "interesting thing around viruses or even",
+      "start": 618.68,
+      "duration": 4.56
+    },
+    {
+      "text": "oncology because again I come from a an",
+      "start": 621.079,
+      "duration": 6.041
+    },
+    {
+      "text": "oncology background as well you know",
+      "start": 623.24,
+      "duration": 6.08
+    },
+    {
+      "text": "what viruses do very well as well as",
+      "start": 627.12,
+      "duration": 4.959
+    },
+    {
+      "text": "oncology they adapt the micro",
+      "start": 629.32,
+      "duration": 5.28
+    },
+    {
+      "text": "environment they adapt the you know the",
+      "start": 632.079,
+      "duration": 4.401
+    },
+    {
+      "text": "they want to keep growing so they they",
+      "start": 634.6,
+      "duration": 5.08
+    },
+    {
+      "text": "turn things on and they turn things off",
+      "start": 636.48,
+      "duration": 6.039
+    },
+    {
+      "text": "to allow them to grow and the and in",
+      "start": 639.68,
+      "duration": 4.68
+    },
+    {
+      "text": "this instance you know where we're",
+      "start": 642.519,
+      "duration": 3.681
+    },
+    {
+      "text": "coming at it you know with respect to",
+      "start": 644.36,
+      "duration": 5.32
+    },
+    {
+      "text": "the te- cells and in particular P cell",
+      "start": 646.2,
+      "duration": 6.72
+    },
+    {
+      "text": "exhaustion or P cell dysfunction it's a",
+      "start": 649.68,
+      "duration": 5.279
+    },
+    {
+      "text": "term that's been about in oncology for",
+      "start": 652.92,
+      "duration": 4.24
+    },
+    {
+      "text": "many years so you can imagine most of",
+      "start": 654.959,
+      "duration": 4.88
+    },
+    {
+      "text": "the Immunology compounds the big uh sort",
+      "start": 657.16,
+      "duration": 5.04
+    },
+    {
+      "text": "of sellers like pism app and stuff and",
+      "start": 659.839,
+      "duration": 3.68
+    },
+    {
+      "text": "things like that that's what they're",
+      "start": 662.2,
+      "duration": 4.0
+    },
+    {
+      "text": "doing they're targeting receptors that",
+      "start": 663.519,
+      "duration": 4.601
+    },
+    {
+      "text": "cause te- cell exhaustion and they're",
+      "start": 666.2,
+      "duration": 4.199
+    },
+    {
+      "text": "the same receptors that cause the t-",
+      "start": 668.12,
+      "duration": 5.36
+    },
+    {
+      "text": "cell exhaustion and viral syndromes so",
+      "start": 670.399,
+      "duration": 6.601
+    },
+    {
+      "text": "to the point why some people get along",
+      "start": 673.48,
+      "duration": 7.0
+    },
+    {
+      "text": "covid or an me it it could be that",
+      "start": 677.0,
+      "duration": 5.56
+    },
+    {
+      "text": "you've been exposed to certain viruses",
+      "start": 680.48,
+      "duration": 5.359
+    },
+    {
+      "text": "in the past like eping bar or you know",
+      "start": 682.56,
+      "duration": 7.6
+    },
+    {
+      "text": "CMV or or hapes and that that's C even",
+      "start": 685.839,
+      "duration": 7.041
+    },
+    {
+      "text": "though it might not be a really bad",
+      "start": 690.16,
+      "duration": 5.679
+    },
+    {
+      "text": "episode of is enough to tip the balance",
+      "start": 692.88,
+      "duration": 4.72
+    },
+    {
+      "text": "and it's enough to bring on this te-",
+      "start": 695.839,
+      "duration": 4.68
+    },
+    {
+      "text": "cell exhaustion and in doing so you know",
+      "start": 697.6,
+      "duration": 5.28
+    },
+    {
+      "text": "the symptoms sort of come from that",
+      "start": 700.519,
+      "duration": 4.161
+    },
+    {
+      "text": "which is super I mean it's very",
+      "start": 702.88,
+      "duration": 3.519
+    },
+    {
+      "text": "interesting but but as you said it's",
+      "start": 704.68,
+      "duration": 4.719
+    },
+    {
+      "text": "very complicated as well and and a lot",
+      "start": 706.399,
+      "duration": 5.041
+    },
+    {
+      "text": "of the research that's been done because",
+      "start": 709.399,
+      "duration": 3.88
+    },
+    {
+      "text": "there's been an awful lot of long covid",
+      "start": 711.44,
+      "duration": 3.839
+    },
+    {
+      "text": "studies that have been conducted and the",
+      "start": 713.279,
+      "duration": 5.12
+    },
+    {
+      "text": "data just starting to come out on that I",
+      "start": 715.279,
+      "duration": 4.321
+    },
+    {
+      "text": "think that we're you you know we're",
+      "start": 718.399,
+      "duration": 3.081
+    },
+    {
+      "text": "we're trying to be in a situation that",
+      "start": 719.6,
+      "duration": 5.919
+    },
+    {
+      "text": "we can react to that data but but also",
+      "start": 721.48,
+      "duration": 6.64
+    },
+    {
+      "text": "provide meaningful tests because as you",
+      "start": 725.519,
+      "duration": 5.361
+    },
+    {
+      "text": "know you know there is no diagnosis for",
+      "start": 728.12,
+      "duration": 5.2
+    },
+    {
+      "text": "long Co it's it's self diagnosis or",
+      "start": 730.88,
+      "duration": 4.199
+    },
+    {
+      "text": "there's a questionnaire and I think what",
+      "start": 733.32,
+      "duration": 4.28
+    },
+    {
+      "text": "we would like to do through the research",
+      "start": 735.079,
+      "duration": 4.481
+    },
+    {
+      "text": "you know with with Sean within the the",
+      "start": 737.6,
+      "duration": 4.16
+    },
+    {
+      "text": "respiratory stud that he's doing as well",
+      "start": 739.56,
+      "duration": 3.959
+    },
+    {
+      "text": "as the other work that we're doing is to",
+      "start": 741.76,
+      "duration": 4.36
+    },
+    {
+      "text": "hopefully provide you know tests that",
+      "start": 743.519,
+      "duration": 6.041
+    },
+    {
+      "text": "actually help with that early diagnosis",
+      "start": 746.12,
+      "duration": 6.0
+    },
+    {
+      "text": "of that in relation to that t- cell",
+      "start": 749.56,
+      "duration": 4.88
+    },
+    {
+      "text": "dysfunction or t- cell",
+      "start": 752.12,
+      "duration": 4.839
+    },
+    {
+      "text": "exhaustion yeah so it could be the sort",
+      "start": 754.44,
+      "duration": 4.0
+    },
+    {
+      "text": "of the straw that breaks the camel's",
+      "start": 756.959,
+      "duration": 3.521
+    },
+    {
+      "text": "back sort of thing you know a collection",
+      "start": 758.44,
+      "duration": 6.36
+    },
+    {
+      "text": "of viruses over time and then boom co",
+      "start": 760.48,
+      "duration": 7.64
+    },
+    {
+      "text": "happens to be the one I suppose the",
+      "start": 764.8,
+      "duration": 4.68
+    },
+    {
+      "text": "question I mean I'm going off in a",
+      "start": 768.12,
+      "duration": 3.839
+    },
+    {
+      "text": "tangent here which is totally not like",
+      "start": 769.48,
+      "duration": 7.159
+    },
+    {
+      "text": "me but why is it co for so many people",
+      "start": 771.959,
+      "duration": 6.521
+    },
+    {
+      "text": "is it just the share volume of",
+      "start": 776.639,
+      "duration": 4.481
+    },
+    {
+      "text": "infections all at once that you know",
+      "start": 778.48,
+      "duration": 4.24
+    },
+    {
+      "text": "there were a lot of people that were",
+      "start": 781.12,
+      "duration": 4.56
+    },
+    {
+      "text": "kind of primed for it so to speak or was",
+      "start": 782.72,
+      "duration": 4.88
+    },
+    {
+      "text": "there something special about that",
+      "start": 785.68,
+      "duration": 4.36
+    },
+    {
+      "text": "particular virus that added a particular",
+      "start": 787.6,
+      "duration": 5.84
+    },
+    {
+      "text": "load on that made so many people kind of",
+      "start": 790.04,
+      "duration": 5.96
+    },
+    {
+      "text": "topple over into this kind of",
+      "start": 793.44,
+      "duration": 5.04
+    },
+    {
+      "text": "state yeah well I guess we could both",
+      "start": 796.0,
+      "duration": 4.0
+    },
+    {
+      "text": "pick that up and probably give you",
+      "start": 798.48,
+      "duration": 3.56
+    },
+    {
+      "text": "slightly different variations on maybe a",
+      "start": 800.0,
+      "duration": 5.0
+    },
+    {
+      "text": "similar theme but um I guess my my",
+      "start": 802.04,
+      "duration": 5.599
+    },
+    {
+      "text": "impression of it is that I guess the the",
+      "start": 805.0,
+      "duration": 6.079
+    },
+    {
+      "text": "first few waves of the pandemic where",
+      "start": 807.639,
+      "duration": 5.32
+    },
+    {
+      "text": "sort of before we had a vaccination and",
+      "start": 811.079,
+      "duration": 4.041
+    },
+    {
+      "text": "before the Omicron variant sort of",
+      "start": 812.959,
+      "duration": 5.041
+    },
+    {
+      "text": "emerged the syndrome of at least in",
+      "start": 815.12,
+      "duration": 4.8
+    },
+    {
+      "text": "Hospital of the patients we were seeing",
+      "start": 818.0,
+      "duration": 4.24
+    },
+    {
+      "text": "was was uh quite different I guess what",
+      "start": 819.92,
+      "duration": 3.68
+    },
+    {
+      "text": "we usually see with a lot of other",
+      "start": 822.24,
+      "duration": 3.719
+    },
+    {
+      "text": "respiratory viral infections and the",
+      "start": 823.6,
+      "duration": 4.64
+    },
+    {
+      "text": "main difference really was the amount of",
+      "start": 825.959,
+      "duration": 4.281
+    },
+    {
+      "text": "inflammatory load and damage within the",
+      "start": 828.24,
+      "duration": 4.959
+    },
+    {
+      "text": "lungs and I guess in terms of the tools",
+      "start": 830.24,
+      "duration": 4.279
+    },
+    {
+      "text": "that we have to look at that in the",
+      "start": 833.199,
+      "duration": 3.56
+    },
+    {
+      "text": "hospital it's basically what you can see",
+      "start": 834.519,
+      "duration": 6.281
+    },
+    {
+      "text": "on a chest x-ray and even um so from our",
+      "start": 836.759,
+      "duration": 6.721
+    },
+    {
+      "text": "study and others like it um almost all",
+      "start": 840.8,
+      "duration": 5.24
+    },
+    {
+      "text": "the patients that came in regardless of",
+      "start": 843.48,
+      "duration": 5.76
+    },
+    {
+      "text": "the severity of their infection had some",
+      "start": 846.04,
+      "duration": 5.239
+    },
+    {
+      "text": "Visible Changes on their chest x-ray",
+      "start": 849.24,
+      "duration": 4.159
+    },
+    {
+      "text": "meaning that they had inflammation to a",
+      "start": 851.279,
+      "duration": 3.68
+    },
+    {
+      "text": "degree that there was you know",
+      "start": 853.399,
+      "duration": 3.8
+    },
+    {
+      "text": "collections of fluid within the lungs",
+      "start": 854.959,
+      "duration": 4.841
+    },
+    {
+      "text": "that we usually wouldn't see so you know",
+      "start": 857.199,
+      "duration": 4.76
+    },
+    {
+      "text": "with uh viruses I guess that commonly",
+      "start": 859.8,
+      "duration": 3.8
+    },
+    {
+      "text": "come in the winter periods like",
+      "start": 861.959,
+      "duration": 4.68
+    },
+    {
+      "text": "influenza and respiratory sensial virus",
+      "start": 863.6,
+      "duration": 4.88
+    },
+    {
+      "text": "um usually with those there's only a",
+      "start": 866.639,
+      "duration": 3.521
+    },
+    {
+      "text": "very small portion of patients where we",
+      "start": 868.48,
+      "duration": 4.039
+    },
+    {
+      "text": "see those changes but here those changes",
+      "start": 870.16,
+      "duration": 5.599
+    },
+    {
+      "text": "were just a lot more widespread and of",
+      "start": 872.519,
+      "duration": 4.76
+    },
+    {
+      "text": "course then there was the numers numbers",
+      "start": 875.759,
+      "duration": 3.481
+    },
+    {
+      "text": "of people coming in so what still",
+      "start": 877.279,
+      "duration": 4.12
+    },
+    {
+      "text": "puzzles puzzles me now is in the first",
+      "start": 879.24,
+      "duration": 3.68
+    },
+    {
+      "text": "wave how how we stopped seeing",
+      "start": 881.399,
+      "duration": 2.921
+    },
+    {
+      "text": "everything else for a while in the",
+      "start": 882.92,
+      "duration": 3.8
+    },
+    {
+      "text": "hospital so all the other presentations",
+      "start": 884.32,
+      "duration": 4.12
+    },
+    {
+      "text": "that we normally see you know people",
+      "start": 886.72,
+      "duration": 3.52
+    },
+    {
+      "text": "coming with heart attacks and Str",
+      "start": 888.44,
+      "duration": 3.079
+    },
+    {
+      "text": "everything just seemed to stop and we",
+      "start": 890.24,
+      "duration": 4.039
+    },
+    {
+      "text": "just got Co for a while so I I I think",
+      "start": 891.519,
+      "duration": 4.801
+    },
+    {
+      "text": "to answer your question I think it was",
+      "start": 894.279,
+      "duration": 4.8
+    },
+    {
+      "text": "sort of a new virus with perhaps very",
+      "start": 896.32,
+      "duration": 4.72
+    },
+    {
+      "text": "very little residual immunity in the",
+      "start": 899.079,
+      "duration": 4.2
+    },
+    {
+      "text": "population um and what that means is",
+      "start": 901.04,
+      "duration": 4.159
+    },
+    {
+      "text": "that the way that our immune systems",
+      "start": 903.279,
+      "duration": 3.721
+    },
+    {
+      "text": "handled that virus was probably quite",
+      "start": 905.199,
+      "duration": 3.401
+    },
+    {
+      "text": "different to how it usually would handle",
+      "start": 907.0,
+      "duration": 3.12
+    },
+    {
+      "text": "other viruses that it's more familiar",
+      "start": 908.6,
+      "duration": 4.479
+    },
+    {
+      "text": "with uh and that maybe led to um sort of",
+      "start": 910.12,
+      "duration": 6.44
+    },
+    {
+      "text": "more damage within the lungs and I guess",
+      "start": 913.079,
+      "duration": 5.68
+    },
+    {
+      "text": "leading on from that it could be that as",
+      "start": 916.56,
+      "duration": 4.399
+    },
+    {
+      "text": "a result of that damage and the longer",
+      "start": 918.759,
+      "duration": 4.44
+    },
+    {
+      "text": "process to heal that damage that that",
+      "start": 920.959,
+      "duration": 4.24
+    },
+    {
+      "text": "sort of changes the immune system and",
+      "start": 923.199,
+      "duration": 3.521
+    },
+    {
+      "text": "lots of other systems in the body as",
+      "start": 925.199,
+      "duration": 3.361
+    },
+    {
+      "text": "well in a certain way that gives someone",
+      "start": 926.72,
+      "duration": 2.76
+    },
+    {
+      "text": "a prote",
+      "start": 928.56,
+      "duration": 4.399
+    },
+    {
+      "text": "recovery yeah and just moving on from",
+      "start": 929.48,
+      "duration": 6.32
+    },
+    {
+      "text": "that and with that damage that that Sean",
+      "start": 932.959,
+      "duration": 4.921
+    },
+    {
+      "text": "had mentioned you know and when you get",
+      "start": 935.8,
+      "duration": 5.64
+    },
+    {
+      "text": "that acute inflammatory response what",
+      "start": 937.88,
+      "duration": 6.68
+    },
+    {
+      "text": "you do get is you get a lot of oxidative",
+      "start": 941.44,
+      "duration": 5.399
+    },
+    {
+      "text": "stress on the actual system and",
+      "start": 944.56,
+      "duration": 5.12
+    },
+    {
+      "text": "oxidative stress we'll know all",
+      "start": 946.839,
+      "duration": 5.68
+    },
+    {
+      "text": "about things like reactive oxygen",
+      "start": 949.68,
+      "duration": 4.92
+    },
+    {
+      "text": "species because they're that's the sort",
+      "start": 952.519,
+      "duration": 4.841
+    },
+    {
+      "text": "of thing that ages us but but it's also",
+      "start": 954.6,
+      "duration": 4.4
+    },
+    {
+      "text": "you know when we when we have an",
+      "start": 957.36,
+      "duration": 4.32
+    },
+    {
+      "text": "inflammatory response there is quite a",
+      "start": 959.0,
+      "duration": 5.279
+    },
+    {
+      "text": "lot of reactive oxygen species that's",
+      "start": 961.68,
+      "duration": 5.44
+    },
+    {
+      "text": "generated and the oxidative stress is",
+      "start": 964.279,
+      "duration": 5.441
+    },
+    {
+      "text": "itself as a balance between High RW as",
+      "start": 967.12,
+      "duration": 5.6
+    },
+    {
+      "text": "they as they call it and the antioxidant",
+      "start": 969.72,
+      "duration": 5.44
+    },
+    {
+      "text": "H sort of proteins that that keep it in",
+      "start": 972.72,
+      "duration": 5.64
+    },
+    {
+      "text": "balance and with that you know when you",
+      "start": 975.16,
+      "duration": 6.0
+    },
+    {
+      "text": "have high levels of oxidative stress it",
+      "start": 978.36,
+      "duration": 5.0
+    },
+    {
+      "text": "does actually have an effect on on the",
+      "start": 981.16,
+      "duration": 4.28
+    },
+    {
+      "text": "adaptive immunity as well as the",
+      "start": 983.36,
+      "duration": 4.88
+    },
+    {
+      "text": "cellular micro environment So to that",
+      "start": 985.44,
+      "duration": 4.72
+    },
+    {
+      "text": "point it actually gets to the point",
+      "start": 988.24,
+      "duration": 4.76
+    },
+    {
+      "text": "where your your adaptive immune system",
+      "start": 990.16,
+      "duration": 5.479
+    },
+    {
+      "text": "is not working properly but also and",
+      "start": 993.0,
+      "duration": 4.199
+    },
+    {
+      "text": "we'll most probably get on to this",
+      "start": 995.639,
+      "duration": 3.44
+    },
+    {
+      "text": "because you know around the commonality",
+      "start": 997.199,
+      "duration": 4.041
+    },
+    {
+      "text": "around the symptoms of something like",
+      "start": 999.079,
+      "duration": 4.921
+    },
+    {
+      "text": "long covid and something like me has",
+      "start": 1001.24,
+      "duration": 4.64
+    },
+    {
+      "text": "been about for an awful long time sort",
+      "start": 1004.0,
+      "duration": 4.319
+    },
+    {
+      "text": "of thing about that effect or that",
+      "start": 1005.88,
+      "duration": 5.319
+    },
+    {
+      "text": "Downstream effect on something like the",
+      "start": 1008.319,
+      "duration": 5.561
+    },
+    {
+      "text": "mitochondria which is the the main stay",
+      "start": 1011.199,
+      "duration": 4.56
+    },
+    {
+      "text": "of the energy you know that that",
+      "start": 1013.88,
+      "duration": 3.399
+    },
+    {
+      "text": "supplies you sort of thing or whatever",
+      "start": 1015.759,
+      "duration": 3.601
+    },
+    {
+      "text": "you know the effect on that so",
+      "start": 1017.279,
+      "duration": 4.521
+    },
+    {
+      "text": "it's not a simple thing and I think what",
+      "start": 1019.36,
+      "duration": 3.76
+    },
+    {
+      "text": "we're trying to do here with the",
+      "start": 1021.8,
+      "duration": 3.48
+    },
+    {
+      "text": "research within this study and in",
+      "start": 1023.12,
+      "duration": 4.079
+    },
+    {
+      "text": "general is to try and understand is",
+      "start": 1025.28,
+      "duration": 4.32
+    },
+    {
+      "text": "there some sort of signature from your",
+      "start": 1027.199,
+      "duration": 4.76
+    },
+    {
+      "text": "tea cells and your te- cells are things",
+      "start": 1029.6,
+      "duration": 4.68
+    },
+    {
+      "text": "that are are there to sort of help kill",
+      "start": 1031.959,
+      "duration": 3.96
+    },
+    {
+      "text": "the virus as part of your adaptive",
+      "start": 1034.28,
+      "duration": 3.799
+    },
+    {
+      "text": "immune is there some sort of signature",
+      "start": 1035.919,
+      "duration": 4.681
+    },
+    {
+      "text": "that you can actually look to see that",
+      "start": 1038.079,
+      "duration": 4.321
+    },
+    {
+      "text": "you know you've got either that early",
+      "start": 1040.6,
+      "duration": 4.4
+    },
+    {
+      "text": "diagnosis or you've got this te- cell",
+      "start": 1042.4,
+      "duration": 4.279
+    },
+    {
+      "text": "exhaustion and is there anything that",
+      "start": 1045.0,
+      "duration": 4.48
+    },
+    {
+      "text": "you can do whether that's a diet thing",
+      "start": 1046.679,
+      "duration": 5.081
+    },
+    {
+      "text": "or whether it's antioxidants or whether",
+      "start": 1049.48,
+      "duration": 4.16
+    },
+    {
+      "text": "there's some treatment that's coming up",
+      "start": 1051.76,
+      "duration": 3.6
+    },
+    {
+      "text": "that you can actually have that",
+      "start": 1053.64,
+      "duration": 5.44
+    },
+    {
+      "text": "intervention to help prevent getting to",
+      "start": 1055.36,
+      "duration": 5.76
+    },
+    {
+      "text": "the stage where maybe your adaptive",
+      "start": 1059.08,
+      "duration": 5.24
+    },
+    {
+      "text": "immune system rewires itself into a",
+      "start": 1061.12,
+      "duration": 5.2
+    },
+    {
+      "text": "different sort of stage and that's I",
+      "start": 1064.32,
+      "duration": 3.4
+    },
+    {
+      "text": "think where we would like to sort of",
+      "start": 1066.32,
+      "duration": 3.84
+    },
+    {
+      "text": "come at it from if I could just come in",
+      "start": 1067.72,
+      "duration": 4.16
+    },
+    {
+      "text": "on that as well because I think it's",
+      "start": 1070.16,
+      "duration": 5.24
+    },
+    {
+      "text": "probably useful um to to kind of also",
+      "start": 1071.88,
+      "duration": 5.4
+    },
+    {
+      "text": "discuss at the moment how I guess up",
+      "start": 1075.4,
+      "duration": 3.56
+    },
+    {
+      "text": "until now we've been talking about long",
+      "start": 1077.28,
+      "duration": 5.279
+    },
+    {
+      "text": "Co like it's one sort of thing um but",
+      "start": 1078.96,
+      "duration": 6.079
+    },
+    {
+      "text": "the other thing to to mention is that I",
+      "start": 1082.559,
+      "duration": 4.721
+    },
+    {
+      "text": "guess we still don't really know 100%",
+      "start": 1085.039,
+      "duration": 4.52
+    },
+    {
+      "text": "what long Co is and in truth it's",
+      "start": 1087.28,
+      "duration": 3.8
+    },
+    {
+      "text": "probably a couple of different things",
+      "start": 1089.559,
+      "duration": 3.321
+    },
+    {
+      "text": "coexisting in the same",
+      "start": 1091.08,
+      "duration": 3.88
+    },
+    {
+      "text": "space and the reason I think that's",
+      "start": 1092.88,
+      "duration": 3.64
+    },
+    {
+      "text": "important to say is I think one of the",
+      "start": 1094.96,
+      "duration": 3.599
+    },
+    {
+      "text": "reasons I was really Keen to work with n",
+      "start": 1096.52,
+      "duration": 4.76
+    },
+    {
+      "text": "and how sort of collaboration came about",
+      "start": 1098.559,
+      "duration": 5.36
+    },
+    {
+      "text": "was uh it would be really helpful for us",
+      "start": 1101.28,
+      "duration": 5.2
+    },
+    {
+      "text": "to have some diagnostic tests to maybe",
+      "start": 1103.919,
+      "duration": 5.321
+    },
+    {
+      "text": "identify particular people who may be",
+      "start": 1106.48,
+      "duration": 4.12
+    },
+    {
+      "text": "having a problem with their immune",
+      "start": 1109.24,
+      "duration": 4.2
+    },
+    {
+      "text": "system in Long Co which may be different",
+      "start": 1110.6,
+      "duration": 4.199
+    },
+    {
+      "text": "from other people who may be having",
+      "start": 1113.44,
+      "duration": 4.04
+    },
+    {
+      "text": "different problems and you know there's",
+      "start": 1114.799,
+      "duration": 3.841
+    },
+    {
+      "text": "lots of things that happened in the",
+      "start": 1117.48,
+      "duration": 3.96
+    },
+    {
+      "text": "pandemic we've spoken about how the",
+      "start": 1118.64,
+      "duration": 4.68
+    },
+    {
+      "text": "virus was different and how that that",
+      "start": 1121.44,
+      "duration": 4.119
+    },
+    {
+      "text": "sort of maybe changed the inflammation",
+      "start": 1123.32,
+      "duration": 3.68
+    },
+    {
+      "text": "that that people would have had compared",
+      "start": 1125.559,
+      "duration": 3.041
+    },
+    {
+      "text": "to other viruses that we're more",
+      "start": 1127.0,
+      "duration": 4.32
+    },
+    {
+      "text": "familiar with but on top of that there",
+      "start": 1128.6,
+      "duration": 4.28
+    },
+    {
+      "text": "were all the other changes that happened",
+      "start": 1131.32,
+      "duration": 2.96
+    },
+    {
+      "text": "around the pandemic in terms of the",
+      "start": 1132.88,
+      "duration": 3.4
+    },
+    {
+      "text": "lockdowns and the changes in social",
+      "start": 1134.28,
+      "duration": 3.72
+    },
+    {
+      "text": "situations and all of that and all of",
+      "start": 1136.28,
+      "duration": 3.36
+    },
+    {
+      "text": "those things would have impacted people",
+      "start": 1138.0,
+      "duration": 4.039
+    },
+    {
+      "text": "as well you know so I guess to put it",
+      "start": 1139.64,
+      "duration": 5.039
+    },
+    {
+      "text": "this way there probably is a subset of",
+      "start": 1142.039,
+      "duration": 4.321
+    },
+    {
+      "text": "people who have an issue with their",
+      "start": 1144.679,
+      "duration": 3.761
+    },
+    {
+      "text": "immune system that's sort of changed as",
+      "start": 1146.36,
+      "duration": 4.72
+    },
+    {
+      "text": "a result of SARS c 2",
+      "start": 1148.44,
+      "duration": 4.68
+    },
+    {
+      "text": "infection but then there may be other",
+      "start": 1151.08,
+      "duration": 3.92
+    },
+    {
+      "text": "people who've had other things that have",
+      "start": 1153.12,
+      "duration": 3.559
+    },
+    {
+      "text": "happened as well and I think at this",
+      "start": 1155.0,
+      "duration": 3.159
+    },
+    {
+      "text": "stage where we where we've just got one",
+      "start": 1156.679,
+      "duration": 3.961
+    },
+    {
+      "text": "sort of amorphous blog that we're",
+      "start": 1158.159,
+      "duration": 4.64
+    },
+    {
+      "text": "calling long Co it's really important to",
+      "start": 1160.64,
+      "duration": 3.84
+    },
+    {
+      "text": "try and tease those things apart and try",
+      "start": 1162.799,
+      "duration": 4.12
+    },
+    {
+      "text": "and identify patients who maybe have an",
+      "start": 1164.48,
+      "duration": 4.52
+    },
+    {
+      "text": "actionable thing that we can do to help",
+      "start": 1166.919,
+      "duration": 4.64
+    },
+    {
+      "text": "them along the",
+      "start": 1169.0,
+      "duration": 2.559
+    },
+    {
+      "text": "way we'll be right",
+      "start": 1172.52,
+      "duration": 5.279
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1175.6,
+      "duration": 4.319
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1177.799,
+      "duration": 4.401
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1179.919,
+      "duration": 3.76
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1182.2,
+      "duration": 3.479
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1183.679,
+      "duration": 4.081
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1185.679,
+      "duration": 3.921
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1187.76,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with lung Co we've worked",
+      "start": 1189.6,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1192.24,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with lung",
+      "start": 1193.72,
+      "duration": 4.079
+    },
+    {
+      "text": "covid it's a 6 we course with 12",
+      "start": 1195.48,
+      "duration": 4.84
+    },
+    {
+      "text": "sessions all delivered online the",
+      "start": 1197.799,
+      "duration": 3.841
+    },
+    {
+      "text": "community feel and learning that we're",
+      "start": 1200.32,
+      "duration": 3.52
+    },
+    {
+      "text": "all sharing is such a joy to find out",
+      "start": 1201.64,
+      "duration": 3.72
+    },
+    {
+      "text": "more information and to sign up for our",
+      "start": 1203.84,
+      "duration": 3.12
+    },
+    {
+      "text": "courses workshops and other shorter",
+      "start": 1205.36,
+      "duration": 3.96
+    },
+    {
+      "text": "sessions please check out the link below",
+      "start": 1206.96,
+      "duration": 5.959
+    },
+    {
+      "text": "lco breathing.com or email lco breathing",
+      "start": 1209.32,
+      "duration": 5.359
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 1212.919,
+      "duration": 2.411
+    },
+    {
+      "text": "Journey with",
+      "start": 1214.679,
+      "duration": 4.261
+    },
+    {
+      "text": "[Music]",
+      "start": 1215.33,
+      "duration": 3.61
+    },
+    {
+      "text": "us yeah absolutely I think that's a",
+      "start": 1220.72,
+      "duration": 4.4
+    },
+    {
+      "text": "really good point this sort of",
+      "start": 1223.28,
+      "duration": 4.2
+    },
+    {
+      "text": "underlying cause sort of Holy Grail",
+      "start": 1225.12,
+      "duration": 6.679
+    },
+    {
+      "text": "isn't it almost what is that um I think",
+      "start": 1227.48,
+      "duration": 5.96
+    },
+    {
+      "text": "what might be really useful I think",
+      "start": 1231.799,
+      "duration": 3.401
+    },
+    {
+      "text": "Nigel you've mentioned tea cells a",
+      "start": 1233.44,
+      "duration": 4.64
+    },
+    {
+      "text": "couple of times now would it be okay to",
+      "start": 1235.2,
+      "duration": 4.64
+    },
+    {
+      "text": "just take a dip into sort of science",
+      "start": 1238.08,
+      "duration": 3.959
+    },
+    {
+      "text": "lessons can you tell us what what are",
+      "start": 1239.84,
+      "duration": 5.199
+    },
+    {
+      "text": "te- cells and why are they",
+      "start": 1242.039,
+      "duration": 5.481
+    },
+    {
+      "text": "relevant when you talk about the immune",
+      "start": 1245.039,
+      "duration": 5.081
+    },
+    {
+      "text": "system you talk about the innate immune",
+      "start": 1247.52,
+      "duration": 4.72
+    },
+    {
+      "text": "system and the Adaptive immune system so",
+      "start": 1250.12,
+      "duration": 3.84
+    },
+    {
+      "text": "usually when you're exposed to some sort",
+      "start": 1252.24,
+      "duration": 4.28
+    },
+    {
+      "text": "of virus the innate system kicks in and",
+      "start": 1253.96,
+      "duration": 5.24
+    },
+    {
+      "text": "it and you we talk about white cells and",
+      "start": 1256.52,
+      "duration": 4.48
+    },
+    {
+      "text": "we've got lymphocytes and and mcroof",
+      "start": 1259.2,
+      "duration": 3.839
+    },
+    {
+      "text": "fages so what they do is they they",
+      "start": 1261.0,
+      "duration": 4.32
+    },
+    {
+      "text": "basically mop up things that they can do",
+      "start": 1263.039,
+      "duration": 4.88
+    },
+    {
+      "text": "they create these antigens that then",
+      "start": 1265.32,
+      "duration": 4.959
+    },
+    {
+      "text": "basically you know the the Adaptive",
+      "start": 1267.919,
+      "duration": 5.281
+    },
+    {
+      "text": "immune system utilizes because it",
+      "start": 1270.279,
+      "duration": 5.52
+    },
+    {
+      "text": "recognizes these antigens now when we",
+      "start": 1273.2,
+      "duration": 4.52
+    },
+    {
+      "text": "talk about the Adaptive immune system we",
+      "start": 1275.799,
+      "duration": 4.12
+    },
+    {
+      "text": "talk about B cells and T cells now B",
+      "start": 1277.72,
+      "duration": 5.8
+    },
+    {
+      "text": "cells tend to generate antibodies sort",
+      "start": 1279.919,
+      "duration": 7.081
+    },
+    {
+      "text": "of against that that neutralize but also",
+      "start": 1283.52,
+      "duration": 6.12
+    },
+    {
+      "text": "stimulate cyto kindes for the te- cells",
+      "start": 1287.0,
+      "duration": 4.159
+    },
+    {
+      "text": "now the tea cells i' mentioned to you",
+      "start": 1289.64,
+      "duration": 4.08
+    },
+    {
+      "text": "before are really sort of killer cells",
+      "start": 1291.159,
+      "duration": 4.681
+    },
+    {
+      "text": "so they're they're basically used you",
+      "start": 1293.72,
+      "duration": 4.559
+    },
+    {
+      "text": "know to to actually kill that virus so",
+      "start": 1295.84,
+      "duration": 4.439
+    },
+    {
+      "text": "what happens is when your body can't",
+      "start": 1298.279,
+      "duration": 3.961
+    },
+    {
+      "text": "deal with the initial virus then it'll",
+      "start": 1300.279,
+      "duration": 3.801
+    },
+    {
+      "text": "kick it'll kick the Adaptive immune",
+      "start": 1302.24,
+      "duration": 5.2
+    },
+    {
+      "text": "system in to deal with that now usually",
+      "start": 1304.08,
+      "duration": 5.079
+    },
+    {
+      "text": "with an infection you know a lot of",
+      "start": 1307.44,
+      "duration": 3.4
+    },
+    {
+      "text": "people tend to get a fever and stuff",
+      "start": 1309.159,
+      "duration": 3.88
+    },
+    {
+      "text": "like that 48 hours later and that's",
+      "start": 1310.84,
+      "duration": 4.8
+    },
+    {
+      "text": "because that inflammatory part is kicked",
+      "start": 1313.039,
+      "duration": 5.081
+    },
+    {
+      "text": "in and it starts to to kill those those",
+      "start": 1315.64,
+      "duration": 3.6
+    },
+    {
+      "text": "specific",
+      "start": 1318.12,
+      "duration": 3.52
+    },
+    {
+      "text": "that virus or or that pathogen and",
+      "start": 1319.24,
+      "duration": 3.96
+    },
+    {
+      "text": "whatever you so when we talk about the",
+      "start": 1321.64,
+      "duration": 5.0
+    },
+    {
+      "text": "Tea cells we're talking about you know",
+      "start": 1323.2,
+      "duration": 5.0
+    },
+    {
+      "text": "helper cells and there's regulatory",
+      "start": 1326.64,
+      "duration": 3.6
+    },
+    {
+      "text": "cells and there's memory cells so if you",
+      "start": 1328.2,
+      "duration": 3.88
+    },
+    {
+      "text": "remember sometimes and this is the whole",
+      "start": 1330.24,
+      "duration": 3.52
+    },
+    {
+      "text": "thing around the vaccination is that",
+      "start": 1332.08,
+      "duration": 3.76
+    },
+    {
+      "text": "you're vaccinated and then when you get",
+      "start": 1333.76,
+      "duration": 4.24
+    },
+    {
+      "text": "exposed later on you have these memory",
+      "start": 1335.84,
+      "duration": 4.56
+    },
+    {
+      "text": "te- cells that that they get really",
+      "start": 1338.0,
+      "duration": 5.6
+    },
+    {
+      "text": "targets it's more of a a targeted effect",
+      "start": 1340.4,
+      "duration": 5.6
+    },
+    {
+      "text": "on the actual immune system so that's",
+      "start": 1343.6,
+      "duration": 3.92
+    },
+    {
+      "text": "what we're we're talking about so",
+      "start": 1346.0,
+      "duration": 3.6
+    },
+    {
+      "text": "usually what happens",
+      "start": 1347.52,
+      "duration": 4.08
+    },
+    {
+      "text": "you know when somebody's exposed to a",
+      "start": 1349.6,
+      "duration": 3.959
+    },
+    {
+      "text": "virus the te- cells do a good job and",
+      "start": 1351.6,
+      "duration": 4.12
+    },
+    {
+      "text": "the immune system does a a good job of",
+      "start": 1353.559,
+      "duration": 4.161
+    },
+    {
+      "text": "getting rid of that now in some",
+      "start": 1355.72,
+      "duration": 4.52
+    },
+    {
+      "text": "instances the body just can't do that",
+      "start": 1357.72,
+      "duration": 4.079
+    },
+    {
+      "text": "now that could be because it's been",
+      "start": 1360.24,
+      "duration": 4.24
+    },
+    {
+      "text": "exposed to some previous virus and",
+      "start": 1361.799,
+      "duration": 4.681
+    },
+    {
+      "text": "because it doesn't want to remove it",
+      "start": 1364.48,
+      "duration": 4.64
+    },
+    {
+      "text": "because in removing it is going to have",
+      "start": 1366.48,
+      "duration": 6.0
+    },
+    {
+      "text": "to then attack its own tissues so in",
+      "start": 1369.12,
+      "duration": 5.88
+    },
+    {
+      "text": "many instances what will hen is and this",
+      "start": 1372.48,
+      "duration": 3.88
+    },
+    {
+      "text": "is where this thought around the",
+      "start": 1375.0,
+      "duration": 3.679
+    },
+    {
+      "text": "exhausted te- cell is the te- cell is",
+      "start": 1376.36,
+      "duration": 4.52
+    },
+    {
+      "text": "not efficiently working in doing what",
+      "start": 1378.679,
+      "duration": 3.921
+    },
+    {
+      "text": "it's supposed to do and it's what it's",
+      "start": 1380.88,
+      "duration": 4.159
+    },
+    {
+      "text": "doing is it's keeping at a level that",
+      "start": 1382.6,
+      "duration": 4.959
+    },
+    {
+      "text": "will keep it at B but it won't actually",
+      "start": 1385.039,
+      "duration": 4.361
+    },
+    {
+      "text": "get rid of it so maybe when you're",
+      "start": 1387.559,
+      "duration": 4.161
+    },
+    {
+      "text": "exposed to something else then it tips",
+      "start": 1389.4,
+      "duration": 4.32
+    },
+    {
+      "text": "it over the edge and that's what what",
+      "start": 1391.72,
+      "duration": 4.68
+    },
+    {
+      "text": "we're potentially sort of talking about",
+      "start": 1393.72,
+      "duration": 4.839
+    },
+    {
+      "text": "H here when we talk about that t- cell",
+      "start": 1396.4,
+      "duration": 4.399
+    },
+    {
+      "text": "exhaustion or that inefficiency of the",
+      "start": 1398.559,
+      "duration": 4.681
+    },
+    {
+      "text": "Adaptive immune system to get rid of",
+      "start": 1400.799,
+      "duration": 4.441
+    },
+    {
+      "text": "that virus so it means that you've got",
+      "start": 1403.24,
+      "duration": 4.6
+    },
+    {
+      "text": "this uh antigen presentation which is",
+      "start": 1405.24,
+      "duration": 5.2
+    },
+    {
+      "text": "just present and in doing so you've got",
+      "start": 1407.84,
+      "duration": 5.12
+    },
+    {
+      "text": "that more chronic inflammation and with",
+      "start": 1410.44,
+      "duration": 4.52
+    },
+    {
+      "text": "that chronic inflammation can have",
+      "start": 1412.96,
+      "duration": 4.28
+    },
+    {
+      "text": "repercussions on the cellular micro",
+      "start": 1414.96,
+      "duration": 4.199
+    },
+    {
+      "text": "environment and that also includes",
+      "start": 1417.24,
+      "duration": 4.679
+    },
+    {
+      "text": "something like oxidative stress that we",
+      "start": 1419.159,
+      "duration": 4.52
+    },
+    {
+      "text": "talked about and then when you think",
+      "start": 1421.919,
+      "duration": 3.961
+    },
+    {
+      "text": "about that how would that then affect",
+      "start": 1423.679,
+      "duration": 4.721
+    },
+    {
+      "text": "something like a symptom like chronic",
+      "start": 1425.88,
+      "duration": 4.2
+    },
+    {
+      "text": "fatigue or some of the symptoms that was",
+      "start": 1428.4,
+      "duration": 4.68
+    },
+    {
+      "text": "seen well that can cause dysfunction in",
+      "start": 1430.08,
+      "duration": 4.959
+    },
+    {
+      "text": "the likes of the mitochondria and as we",
+      "start": 1433.08,
+      "duration": 4.28
+    },
+    {
+      "text": "mentioned before something like that",
+      "start": 1435.039,
+      "duration": 5.561
+    },
+    {
+      "text": "because it's 19 95% of the energy you",
+      "start": 1437.36,
+      "duration": 5.6
+    },
+    {
+      "text": "know that we we require comes from there",
+      "start": 1440.6,
+      "duration": 4.48
+    },
+    {
+      "text": "you can then imagine it it manifest",
+      "start": 1442.96,
+      "duration": 4.12
+    },
+    {
+      "text": "itself in some sort of potentially in",
+      "start": 1445.08,
+      "duration": 5.0
+    },
+    {
+      "text": "some sort of symptoms now do we",
+      "start": 1447.08,
+      "duration": 5.28
+    },
+    {
+      "text": "understand that you know that that t-",
+      "start": 1450.08,
+      "duration": 4.4
+    },
+    {
+      "text": "cell exhaustion or that oxidative stress",
+      "start": 1452.36,
+      "duration": 4.36
+    },
+    {
+      "text": "with the symptoms of chronic fatigue",
+      "start": 1454.48,
+      "duration": 5.28
+    },
+    {
+      "text": "with brain fog and stuff not 100% but",
+      "start": 1456.72,
+      "duration": 5.68
+    },
+    {
+      "text": "certainly there's definitely links there",
+      "start": 1459.76,
+      "duration": 4.68
+    },
+    {
+      "text": "and I think you know te- cell",
+      "start": 1462.4,
+      "duration": 4.399
+    },
+    {
+      "text": "dysfunction and the link to to",
+      "start": 1464.44,
+      "duration": 4.56
+    },
+    {
+      "text": "mitochondrial dysfunction and some of",
+      "start": 1466.799,
+      "duration": 4.48
+    },
+    {
+      "text": "the symptoms that we see in these post",
+      "start": 1469.0,
+      "duration": 5.2
+    },
+    {
+      "text": "viral syndromes including you know long",
+      "start": 1471.279,
+      "duration": 4.561
+    },
+    {
+      "text": "covid you know I think they're quite",
+      "start": 1474.2,
+      "duration": 3.479
+    },
+    {
+      "text": "present and and quite relevant to",
+      "start": 1475.84,
+      "duration": 3.16
+    },
+    {
+      "text": "specifically look",
+      "start": 1477.679,
+      "duration": 4.281
+    },
+    {
+      "text": "at yeah and does this play into the sort",
+      "start": 1479.0,
+      "duration": 6.12
+    },
+    {
+      "text": "of biopersistence theory then so you say",
+      "start": 1481.96,
+      "duration": 5.959
+    },
+    {
+      "text": "if if the tea cells aren't working as",
+      "start": 1485.12,
+      "duration": 4.88
+    },
+    {
+      "text": "well as they should they might be sort",
+      "start": 1487.919,
+      "duration": 4.521
+    },
+    {
+      "text": "of knocking it down keeping it at Bay a",
+      "start": 1490.0,
+      "duration": 5.48
+    },
+    {
+      "text": "little bit but not properly eradicating",
+      "start": 1492.44,
+      "duration": 6.119
+    },
+    {
+      "text": "it so this is why some people clear",
+      "start": 1495.48,
+      "duration": 6.96
+    },
+    {
+      "text": "virus and some people don't exactly I",
+      "start": 1498.559,
+      "duration": 5.961
+    },
+    {
+      "text": "mean if you think about if you're",
+      "start": 1502.44,
+      "duration": 5.0
+    },
+    {
+      "text": "exposed to the virus you get this fever",
+      "start": 1504.52,
+      "duration": 4.92
+    },
+    {
+      "text": "maybe 48 hours later it's because you've",
+      "start": 1507.44,
+      "duration": 5.239
+    },
+    {
+      "text": "created this H there's an awful lot of",
+      "start": 1509.44,
+      "duration": 5.2
+    },
+    {
+      "text": "inflammation and that inflammation is",
+      "start": 1512.679,
+      "duration": 3.321
+    },
+    {
+      "text": "caused by the tea cells killing the",
+      "start": 1514.64,
+      "duration": 2.639
+    },
+    {
+      "text": "virus and stuff like that if for",
+      "start": 1516.0,
+      "duration": 3.799
+    },
+    {
+      "text": "instance it's not functioning that",
+      "start": 1517.279,
+      "duration": 4.12
+    },
+    {
+      "text": "properly you're not necessarily going to",
+      "start": 1519.799,
+      "duration": 4.12
+    },
+    {
+      "text": "get that same clearance of the actual",
+      "start": 1521.399,
+      "duration": 4.961
+    },
+    {
+      "text": "virus so again when something else comes",
+      "start": 1523.919,
+      "duration": 5.12
+    },
+    {
+      "text": "up you know H you know then it becomes a",
+      "start": 1526.36,
+      "duration": 5.48
+    },
+    {
+      "text": "problem because you've just got this",
+      "start": 1529.039,
+      "duration": 5.561
+    },
+    {
+      "text": "Persistence of a chronic inflammation",
+      "start": 1531.84,
+      "duration": 4.0
+    },
+    {
+      "text": "and whever you're in that chronic",
+      "start": 1534.6,
+      "duration": 3.92
+    },
+    {
+      "text": "inflammation is then manifesting itself",
+      "start": 1535.84,
+      "duration": 5.04
+    },
+    {
+      "text": "in some some Downstream things on",
+      "start": 1538.52,
+      "duration": 5.56
+    },
+    {
+      "text": "targets that might actually produce some",
+      "start": 1540.88,
+      "duration": 7.12
+    },
+    {
+      "text": "um immuno compromised environment so in",
+      "start": 1544.08,
+      "duration": 6.12
+    },
+    {
+      "text": "oncology they talk about a tumor micro",
+      "start": 1548.0,
+      "duration": 4.6
+    },
+    {
+      "text": "environment which is immunosuppressed",
+      "start": 1550.2,
+      "duration": 4.199
+    },
+    {
+      "text": "you know and and and it could be a",
+      "start": 1552.6,
+      "duration": 3.439
+    },
+    {
+      "text": "similar type of thing not in the tumor",
+      "start": 1554.399,
+      "duration": 4.201
+    },
+    {
+      "text": "but certainly within the cellular",
+      "start": 1556.039,
+      "duration": 4.441
+    },
+    {
+      "text": "environment I guess the other thing to",
+      "start": 1558.6,
+      "duration": 4.6
+    },
+    {
+      "text": "say with that is even if um eventually",
+      "start": 1560.48,
+      "duration": 6.36
+    },
+    {
+      "text": "your tea cells did clear the virus um so",
+      "start": 1563.2,
+      "duration": 5.719
+    },
+    {
+      "text": "let let's say that you had you had that",
+      "start": 1566.84,
+      "duration": 4.12
+    },
+    {
+      "text": "process that Nigel was uh was was",
+      "start": 1568.919,
+      "duration": 4.561
+    },
+    {
+      "text": "outlining there and that process took a",
+      "start": 1570.96,
+      "duration": 4.12
+    },
+    {
+      "text": "little bit longer than it would to sort",
+      "start": 1573.48,
+      "duration": 3.48
+    },
+    {
+      "text": "of clear say influenza or another virus",
+      "start": 1575.08,
+      "duration": 4.8
+    },
+    {
+      "text": "that maybe we're more familiar with um",
+      "start": 1576.96,
+      "duration": 5.68
+    },
+    {
+      "text": "what can happen then which which um",
+      "start": 1579.88,
+      "duration": 5.08
+    },
+    {
+      "text": "happens to lots of people is is actually",
+      "start": 1582.64,
+      "duration": 4.2
+    },
+    {
+      "text": "surprising how much function you can",
+      "start": 1584.96,
+      "duration": 4.36
+    },
+    {
+      "text": "lose from being in active for a short",
+      "start": 1586.84,
+      "duration": 4.36
+    },
+    {
+      "text": "period of time so if you have a",
+      "start": 1589.32,
+      "duration": 3.4
+    },
+    {
+      "text": "protracted illness even if you've",
+      "start": 1591.2,
+      "duration": 2.88
+    },
+    {
+      "text": "cleared the virus and you know your",
+      "start": 1592.72,
+      "duration": 3.0
+    },
+    {
+      "text": "immune system if you like has gone back",
+      "start": 1594.08,
+      "duration": 3.839
+    },
+    {
+      "text": "to normal but if that process has taken",
+      "start": 1595.72,
+      "duration": 4.319
+    },
+    {
+      "text": "too long then there's lots of changes in",
+      "start": 1597.919,
+      "duration": 3.921
+    },
+    {
+      "text": "your body that we call deconditioning",
+      "start": 1600.039,
+      "duration": 3.441
+    },
+    {
+      "text": "meaning that your your muscles are less",
+      "start": 1601.84,
+      "duration": 3.52
+    },
+    {
+      "text": "able to you know control how you walk",
+      "start": 1603.48,
+      "duration": 3.199
+    },
+    {
+      "text": "around and those sorts of things your",
+      "start": 1605.36,
+      "duration": 3.88
+    },
+    {
+      "text": "energy levels are lower um then that can",
+      "start": 1606.679,
+      "duration": 4.12
+    },
+    {
+      "text": "sometimes also lead to people getting",
+      "start": 1609.24,
+      "duration": 3.4
+    },
+    {
+      "text": "into a negative Loop so it might be that",
+      "start": 1610.799,
+      "duration": 3.721
+    },
+    {
+      "text": "actually you started with an",
+      "start": 1612.64,
+      "duration": 4.24
+    },
+    {
+      "text": "immunological problem that's since",
+      "start": 1614.52,
+      "duration": 3.84
+    },
+    {
+      "text": "resolved but then you're left with sort",
+      "start": 1616.88,
+      "duration": 3.64
+    },
+    {
+      "text": "of the functional deficit if you like",
+      "start": 1618.36,
+      "duration": 3.4
+    },
+    {
+      "text": "that that that having a protracted",
+      "start": 1620.52,
+      "duration": 3.759
+    },
+    {
+      "text": "illness has caused um so that that's",
+      "start": 1621.76,
+      "duration": 3.799
+    },
+    {
+      "text": "another thing that can kind of factor",
+      "start": 1624.279,
+      "duration": 2.921
+    },
+    {
+      "text": "into long covid which I think does make",
+      "start": 1625.559,
+      "duration": 3.281
+    },
+    {
+      "text": "it more complex because I guess you got",
+      "start": 1627.2,
+      "duration": 3.92
+    },
+    {
+      "text": "all these bits that are kind of meant to",
+      "start": 1628.84,
+      "duration": 3.92
+    },
+    {
+      "text": "work together that and if if one thing",
+      "start": 1631.12,
+      "duration": 3.12
+    },
+    {
+      "text": "isn't quite working then sometimes you",
+      "start": 1632.76,
+      "duration": 4.279
+    },
+    {
+      "text": "can have uh effects sort of beyond that",
+      "start": 1634.24,
+      "duration": 4.799
+    },
+    {
+      "text": "um beyond that organ beyond that sort of",
+      "start": 1637.039,
+      "duration": 5.12
+    },
+    {
+      "text": "system within the body so so so did sort",
+      "start": 1639.039,
+      "duration": 4.721
+    },
+    {
+      "text": "of building on that and then go back to",
+      "start": 1642.159,
+      "duration": 5.161
+    },
+    {
+      "text": "the sort of oncology um sort of um point",
+      "start": 1643.76,
+      "duration": 6.48
+    },
+    {
+      "text": "of view we we talk about pd1 pd1 is a",
+      "start": 1647.32,
+      "duration": 6.56
+    },
+    {
+      "text": "big thing um and targets like you know",
+      "start": 1650.24,
+      "duration": 6.0
+    },
+    {
+      "text": "ort PID and stuff they're all Targets",
+      "start": 1653.88,
+      "duration": 4.159
+    },
+    {
+      "text": "that a lot of oncology",
+      "start": 1656.24,
+      "duration": 5.48
+    },
+    {
+      "text": "immunological drugs Target now to to the",
+      "start": 1658.039,
+      "duration": 5.201
+    },
+    {
+      "text": "point what what Sean was sort of saying",
+      "start": 1661.72,
+      "duration": 3.4
+    },
+    {
+      "text": "say for instance you you have that",
+      "start": 1663.24,
+      "duration": 3.559
+    },
+    {
+      "text": "initial sort of insult would say",
+      "start": 1665.12,
+      "duration": 4.399
+    },
+    {
+      "text": "something like SARS kov those uh",
+      "start": 1666.799,
+      "duration": 6.161
+    },
+    {
+      "text": "expression levels are increased and then",
+      "start": 1669.519,
+      "duration": 5.121
+    },
+    {
+      "text": "you know when you increase the pd1",
+      "start": 1672.96,
+      "duration": 3.559
+    },
+    {
+      "text": "levels you know whether it's a in a",
+      "start": 1674.64,
+      "duration": 4.08
+    },
+    {
+      "text": "tumor or or within the ual sort of",
+      "start": 1676.519,
+      "duration": 3.841
+    },
+    {
+      "text": "system then what it's actually going to",
+      "start": 1678.72,
+      "duration": 4.28
+    },
+    {
+      "text": "do is actually going to have an effect",
+      "start": 1680.36,
+      "duration": 5.799
+    },
+    {
+      "text": "on these cytotoxic tea cells I they not",
+      "start": 1683.0,
+      "duration": 4.48
+    },
+    {
+      "text": "going to be able to do that so the",
+      "start": 1686.159,
+      "duration": 4.36
+    },
+    {
+      "text": "question is is once that virus is gone",
+      "start": 1687.48,
+      "duration": 6.079
+    },
+    {
+      "text": "do the expression levels of pd1 in those",
+      "start": 1690.519,
+      "duration": 5.561
+    },
+    {
+      "text": "receptors that are known to basically",
+      "start": 1693.559,
+      "duration": 5.161
+    },
+    {
+      "text": "affect T do they go back to a normal",
+      "start": 1696.08,
+      "duration": 4.76
+    },
+    {
+      "text": "state or do they stay within that",
+      "start": 1698.72,
+      "duration": 3.959
+    },
+    {
+      "text": "expression level and they don't go down",
+      "start": 1700.84,
+      "duration": 4.28
+    },
+    {
+      "text": "and because of that then you're going to",
+      "start": 1702.679,
+      "duration": 4.521
+    },
+    {
+      "text": "have this General problem moving forward",
+      "start": 1705.12,
+      "duration": 4.039
+    },
+    {
+      "text": "and that certainly something you know",
+      "start": 1707.2,
+      "duration": 3.319
+    },
+    {
+      "text": "that that we would want to to",
+      "start": 1709.159,
+      "duration": 3.921
+    },
+    {
+      "text": "specifically look at now of course you",
+      "start": 1710.519,
+      "duration": 5.201
+    },
+    {
+      "text": "know to use your Immunology drugs and",
+      "start": 1713.08,
+      "duration": 4.079
+    },
+    {
+      "text": "stuff and something like you know",
+      "start": 1715.72,
+      "duration": 3.28
+    },
+    {
+      "text": "viruses and stuff like that can be a we",
+      "start": 1717.159,
+      "duration": 4.041
+    },
+    {
+      "text": "bit extreme because obviously there have",
+      "start": 1719.0,
+      "duration": 4.279
+    },
+    {
+      "text": "the side effects associated with that",
+      "start": 1721.2,
+      "duration": 3.839
+    },
+    {
+      "text": "but there's certainly something you know",
+      "start": 1723.279,
+      "duration": 3.76
+    },
+    {
+      "text": "that we could potentially look at in",
+      "start": 1725.039,
+      "duration": 4.321
+    },
+    {
+      "text": "between and and certainly I know that",
+      "start": 1727.039,
+      "duration": 4.76
+    },
+    {
+      "text": "there's lots of cyto kindes that are",
+      "start": 1729.36,
+      "duration": 5.28
+    },
+    {
+      "text": "associated with long Co and there's also",
+      "start": 1731.799,
+      "duration": 5.521
+    },
+    {
+      "text": "cyto kindes that are associated with",
+      "start": 1734.64,
+      "duration": 4.919
+    },
+    {
+      "text": "exhausted tee cells and there's certain",
+      "start": 1737.32,
+      "duration": 5.04
+    },
+    {
+      "text": "things that we can do without",
+      "start": 1739.559,
+      "duration": 4.921
+    },
+    {
+      "text": "necessarily taking specific you know",
+      "start": 1742.36,
+      "duration": 4.12
+    },
+    {
+      "text": "drugs to potentially sort of you know",
+      "start": 1744.48,
+      "duration": 4.679
+    },
+    {
+      "text": "alleviate that to a certain extent but I",
+      "start": 1746.48,
+      "duration": 4.439
+    },
+    {
+      "text": "think when we think about you know",
+      "start": 1749.159,
+      "duration": 4.481
+    },
+    {
+      "text": "developing you know a diagnostic of",
+      "start": 1750.919,
+      "duration": 5.64
+    },
+    {
+      "text": "course we want to catch the diagnosis",
+      "start": 1753.64,
+      "duration": 4.639
+    },
+    {
+      "text": "early so you know because the later we",
+      "start": 1756.559,
+      "duration": 3.6
+    },
+    {
+      "text": "catch it the the chances are it might",
+      "start": 1758.279,
+      "duration": 3.801
+    },
+    {
+      "text": "take longer to get back to sort of a",
+      "start": 1760.159,
+      "duration": 4.4
+    },
+    {
+      "text": "normal state but what we also want to do",
+      "start": 1762.08,
+      "duration": 5.199
+    },
+    {
+      "text": "is is to provide you know insightful",
+      "start": 1764.559,
+      "duration": 5.24
+    },
+    {
+      "text": "research to to developers and drug",
+      "start": 1767.279,
+      "duration": 4.801
+    },
+    {
+      "text": "companies who are actually developing",
+      "start": 1769.799,
+      "duration": 4.921
+    },
+    {
+      "text": "therapies to Target those specific",
+      "start": 1772.08,
+      "duration": 4.479
+    },
+    {
+      "text": "whether it be ayine or whether be a",
+      "start": 1774.72,
+      "duration": 4.199
+    },
+    {
+      "text": "specific receptor that's",
+      "start": 1776.559,
+      "duration": 6.161
+    },
+    {
+      "text": "upregulated yeah this is fascinating um",
+      "start": 1778.919,
+      "duration": 6.0
+    },
+    {
+      "text": "now you just touched on that sort of",
+      "start": 1782.72,
+      "duration": 6.04
+    },
+    {
+      "text": "diagnosis and I think one of the sort of",
+      "start": 1784.919,
+      "duration": 6.12
+    },
+    {
+      "text": "many frustrations of long Co I was going",
+      "start": 1788.76,
+      "duration": 4.32
+    },
+    {
+      "text": "to say the the main and I'm not sure",
+      "start": 1791.039,
+      "duration": 4.76
+    },
+    {
+      "text": "that's true CU there are so many um but",
+      "start": 1793.08,
+      "duration": 5.0
+    },
+    {
+      "text": "one thing that is very difficult is that",
+      "start": 1795.799,
+      "duration": 4.561
+    },
+    {
+      "text": "it's kind of it's a clinical diagnosis",
+      "start": 1798.08,
+      "duration": 4.68
+    },
+    {
+      "text": "there's no biomarker you know you don't",
+      "start": 1800.36,
+      "duration": 4.199
+    },
+    {
+      "text": "go to your doctor and get a blood test",
+      "start": 1802.76,
+      "duration": 4.159
+    },
+    {
+      "text": "and they're like aha you have long covid",
+      "start": 1804.559,
+      "duration": 3.921
+    },
+    {
+      "text": "you know it's not that simple and you",
+      "start": 1806.919,
+      "duration": 3.64
+    },
+    {
+      "text": "know nowadays you know so few people are",
+      "start": 1808.48,
+      "duration": 4.4
+    },
+    {
+      "text": "actually taking tests that actually you",
+      "start": 1810.559,
+      "duration": 4.081
+    },
+    {
+      "text": "know people who might be developing long",
+      "start": 1812.88,
+      "duration": 5.639
+    },
+    {
+      "text": "covid sort of on from now may not even",
+      "start": 1814.64,
+      "duration": 5.639
+    },
+    {
+      "text": "know that they've had covid to start",
+      "start": 1818.519,
+      "duration": 4.801
+    },
+    {
+      "text": "with so I suppose this is where things",
+      "start": 1820.279,
+      "duration": 6.4
+    },
+    {
+      "text": "like this come really useful partly you",
+      "start": 1823.32,
+      "duration": 5.32
+    },
+    {
+      "text": "know we shouldn't need",
+      "start": 1826.679,
+      "duration": 5.081
+    },
+    {
+      "text": "to have some sort of diagnosis um some",
+      "start": 1828.64,
+      "duration": 5.08
+    },
+    {
+      "text": "sort of test in order for people to",
+      "start": 1831.76,
+      "duration": 4.44
+    },
+    {
+      "text": "believe that you have symptoms um but",
+      "start": 1833.72,
+      "duration": 5.28
+    },
+    {
+      "text": "unfortunately that is the case in some",
+      "start": 1836.2,
+      "duration": 4.64
+    },
+    {
+      "text": "circumstances that you will not be",
+      "start": 1839.0,
+      "duration": 3.72
+    },
+    {
+      "text": "believed unless you actually have that",
+      "start": 1840.84,
+      "duration": 4.92
+    },
+    {
+      "text": "kind of that test and a bit of paper um",
+      "start": 1842.72,
+      "duration": 5.839
+    },
+    {
+      "text": "but also you know maybe more importantly",
+      "start": 1845.76,
+      "duration": 5.0
+    },
+    {
+      "text": "that actually you know in order to make",
+      "start": 1848.559,
+      "duration": 4.521
+    },
+    {
+      "text": "that diagnosis have having a test that",
+      "start": 1850.76,
+      "duration": 5.32
+    },
+    {
+      "text": "you can do where you can say sort of",
+      "start": 1853.08,
+      "duration": 6.04
+    },
+    {
+      "text": "without any doubt yes this is long covid",
+      "start": 1856.08,
+      "duration": 6.839
+    },
+    {
+      "text": "or yes this is a post viral condition um",
+      "start": 1859.12,
+      "duration": 5.72
+    },
+    {
+      "text": "you know it will help to rule out other",
+      "start": 1862.919,
+      "duration": 4.24
+    },
+    {
+      "text": "things as well I suppose because what",
+      "start": 1864.84,
+      "duration": 4.199
+    },
+    {
+      "text": "the process at the moment is it's it's a",
+      "start": 1867.159,
+      "duration": 4.52
+    },
+    {
+      "text": "diagnosis of exclusion isn't it you go",
+      "start": 1869.039,
+      "duration": 5.12
+    },
+    {
+      "text": "and get tested for literally everything",
+      "start": 1871.679,
+      "duration": 4.72
+    },
+    {
+      "text": "else Under the Sun and you know it's",
+      "start": 1874.159,
+      "duration": 4.081
+    },
+    {
+      "text": "only once all of that has come back",
+      "start": 1876.399,
+      "duration": 3.681
+    },
+    {
+      "text": "negative that then it's like oh well",
+      "start": 1878.24,
+      "duration": 4.52
+    },
+    {
+      "text": "it's the only thing left kind of thing",
+      "start": 1880.08,
+      "duration": 6.64
+    },
+    {
+      "text": "um so yeah how does this work I",
+      "start": 1882.76,
+      "duration": 6.36
+    },
+    {
+      "text": "suppose that's like come just from from",
+      "start": 1886.72,
+      "duration": 4.439
+    },
+    {
+      "text": "the clinical angle on that is I think",
+      "start": 1889.12,
+      "duration": 3.519
+    },
+    {
+      "text": "one of the things that's different maybe",
+      "start": 1891.159,
+      "duration": 3.721
+    },
+    {
+      "text": "about having an immunological test is",
+      "start": 1892.639,
+      "duration": 4.441
+    },
+    {
+      "text": "that it's a bit different to just saying",
+      "start": 1894.88,
+      "duration": 4.24
+    },
+    {
+      "text": "like yes or no you have a condition in",
+      "start": 1897.08,
+      "duration": 3.839
+    },
+    {
+      "text": "the sense that what we would be defining",
+      "start": 1899.12,
+      "duration": 4.84
+    },
+    {
+      "text": "is is an immunological State and and",
+      "start": 1900.919,
+      "duration": 4.64
+    },
+    {
+      "text": "where that's different is that it kind",
+      "start": 1903.96,
+      "duration": 3.319
+    },
+    {
+      "text": "of gives you some insight into what",
+      "start": 1905.559,
+      "duration": 4.36
+    },
+    {
+      "text": "might be going on inside that patient so",
+      "start": 1907.279,
+      "duration": 3.921
+    },
+    {
+      "text": "they've come in with some symptoms",
+      "start": 1909.919,
+      "duration": 3.081
+    },
+    {
+      "text": "they've said you know I'm feeling I've",
+      "start": 1911.2,
+      "duration": 3.88
+    },
+    {
+      "text": "got fatigue brain fog and all all of",
+      "start": 1913.0,
+      "duration": 3.6
+    },
+    {
+      "text": "those sorts of things and then this",
+      "start": 1915.08,
+      "duration": 4.36
+    },
+    {
+      "text": "blood test would say yes so I guess you",
+      "start": 1916.6,
+      "duration": 4.28
+    },
+    {
+      "text": "you know you've got all of those things",
+      "start": 1919.44,
+      "duration": 3.68
+    },
+    {
+      "text": "going on and we' we can see that your",
+      "start": 1920.88,
+      "duration": 3.639
+    },
+    {
+      "text": "immune cells are doing this which is",
+      "start": 1923.12,
+      "duration": 2.96
+    },
+    {
+      "text": "perhaps different to what we might be",
+      "start": 1924.519,
+      "duration": 3.76
+    },
+    {
+      "text": "expecting um and that that kind of so",
+      "start": 1926.08,
+      "duration": 4.319
+    },
+    {
+      "text": "although at the moment um I guess when",
+      "start": 1928.279,
+      "duration": 3.28
+    },
+    {
+      "text": "you're thinking of anything that might",
+      "start": 1930.399,
+      "duration": 3.4
+    },
+    {
+      "text": "develop into a clinical intervention it",
+      "start": 1931.559,
+      "duration": 4.441
+    },
+    {
+      "text": "takes many many years to go all the way",
+      "start": 1933.799,
+      "duration": 4.561
+    },
+    {
+      "text": "from your your idea to kind of actually",
+      "start": 1936.0,
+      "duration": 3.919
+    },
+    {
+      "text": "having you know something that's very",
+      "start": 1938.36,
+      "duration": 3.6
+    },
+    {
+      "text": "protocolized and delivered in the NHS",
+      "start": 1939.919,
+      "duration": 4.561
+    },
+    {
+      "text": "and in guidelines and all the rest of it",
+      "start": 1941.96,
+      "duration": 5.04
+    },
+    {
+      "text": "but I guess this does put you on a path",
+      "start": 1944.48,
+      "duration": 4.64
+    },
+    {
+      "text": "in that you can start to see how things",
+      "start": 1947.0,
+      "duration": 4.2
+    },
+    {
+      "text": "are going wrong and you can start to",
+      "start": 1949.12,
+      "duration": 4.439
+    },
+    {
+      "text": "think about interventions that might be",
+      "start": 1951.2,
+      "duration": 4.88
+    },
+    {
+      "text": "able to influence that that test so it's",
+      "start": 1953.559,
+      "duration": 4.641
+    },
+    {
+      "text": "a bit different to like um a test I'm",
+      "start": 1956.08,
+      "duration": 4.719
+    },
+    {
+      "text": "trying to think of an example well you",
+      "start": 1958.2,
+      "duration": 3.959
+    },
+    {
+      "text": "know say if you if you were having a",
+      "start": 1960.799,
+      "duration": 3.0
+    },
+    {
+      "text": "test to see if you had cancer or not and",
+      "start": 1962.159,
+      "duration": 3.52
+    },
+    {
+      "text": "you had a scan then they said yes you",
+      "start": 1963.799,
+      "duration": 3.441
+    },
+    {
+      "text": "got cancer or no you don't you don't",
+      "start": 1965.679,
+      "duration": 3.6
+    },
+    {
+      "text": "have cancer um it doesn't tell you how",
+      "start": 1967.24,
+      "duration": 3.6
+    },
+    {
+      "text": "to treat the cancer it just says it's",
+      "start": 1969.279,
+      "duration": 3.36
+    },
+    {
+      "text": "there or not so that I guess that's",
+      "start": 1970.84,
+      "duration": 3.28
+    },
+    {
+      "text": "that's where this test is maybe a bit",
+      "start": 1972.639,
+      "duration": 3.4
+    },
+    {
+      "text": "different to just having a sort of a yes",
+      "start": 1974.12,
+      "duration": 5.519
+    },
+    {
+      "text": "or no answer and as you mentioned Jackie",
+      "start": 1976.039,
+      "duration": 6.36
+    },
+    {
+      "text": "um currently the you people are usually",
+      "start": 1979.639,
+      "duration": 5.52
+    },
+    {
+      "text": "diagnosed based on a questionnaire and",
+      "start": 1982.399,
+      "duration": 5.16
+    },
+    {
+      "text": "based on your score you would get",
+      "start": 1985.159,
+      "duration": 5.321
+    },
+    {
+      "text": "diagnosed on that so looking forward and",
+      "start": 1987.559,
+      "duration": 5.921
+    },
+    {
+      "text": "as we're looking to to develop the eel",
+      "start": 1990.48,
+      "duration": 5.199
+    },
+    {
+      "text": "Diagnostic and and what we'd be looking",
+      "start": 1993.48,
+      "duration": 4.84
+    },
+    {
+      "text": "at and you know as part of that we would",
+      "start": 1995.679,
+      "duration": 5.561
+    },
+    {
+      "text": "be looking at specific cyto kindes that",
+      "start": 1998.32,
+      "duration": 4.479
+    },
+    {
+      "text": "we would start with the certainly the",
+      "start": 2001.24,
+      "duration": 3.439
+    },
+    {
+      "text": "the known suspect so you know if you",
+      "start": 2002.799,
+      "duration": 3.921
+    },
+    {
+      "text": "look at the literature you know people",
+      "start": 2004.679,
+      "duration": 4.321
+    },
+    {
+      "text": "who have long Co would seem to have",
+      "start": 2006.72,
+      "duration": 6.36
+    },
+    {
+      "text": "lower levels of of cyto il2 and tnf",
+      "start": 2009.0,
+      "duration": 6.039
+    },
+    {
+      "text": "Alpha interfering gamma so there's",
+      "start": 2013.08,
+      "duration": 3.4
+    },
+    {
+      "text": "things that are sort of known about",
+      "start": 2015.039,
+      "duration": 3.6
+    },
+    {
+      "text": "however there are other cyto kindes that",
+      "start": 2016.48,
+      "duration": 4.64
+    },
+    {
+      "text": "are are super important specifically to",
+      "start": 2018.639,
+      "duration": 5.121
+    },
+    {
+      "text": "that and understanding because it could",
+      "start": 2021.12,
+      "duration": 3.96
+    },
+    {
+      "text": "be a number of different things are",
+      "start": 2023.76,
+      "duration": 2.36
+    },
+    {
+      "text": "causing these things because you",
+      "start": 2025.08,
+      "duration": 2.319
+    },
+    {
+      "text": "mentioned this whole thing how do you",
+      "start": 2026.12,
+      "duration": 3.399
+    },
+    {
+      "text": "know it's specifically SARS kov and it's",
+      "start": 2027.399,
+      "duration": 4.441
+    },
+    {
+      "text": "not something like you know Epstein bar",
+      "start": 2029.519,
+      "duration": 4.601
+    },
+    {
+      "text": "or something like some other viral type",
+      "start": 2031.84,
+      "duration": 4.24
+    },
+    {
+      "text": "of thing so I think when we thinking",
+      "start": 2034.12,
+      "duration": 3.799
+    },
+    {
+      "text": "about developing this and we are",
+      "start": 2036.08,
+      "duration": 4.52
+    },
+    {
+      "text": "developing this sort of t- cell",
+      "start": 2037.919,
+      "duration": 4.681
+    },
+    {
+      "text": "diagnostic you can come at it from a",
+      "start": 2040.6,
+      "duration": 3.4
+    },
+    {
+      "text": "couple of points of view you can come at",
+      "start": 2042.6,
+      "duration": 4.799
+    },
+    {
+      "text": "it about you know an antigen related to",
+      "start": 2044.0,
+      "duration": 6.32
+    },
+    {
+      "text": "the specific sort of a variant of SARS",
+      "start": 2047.399,
+      "duration": 5.48
+    },
+    {
+      "text": "cover you can or you can look at the how",
+      "start": 2050.32,
+      "duration": 4.72
+    },
+    {
+      "text": "the actual you know a virus itself has",
+      "start": 2052.879,
+      "duration": 4.161
+    },
+    {
+      "text": "broke up the epitopes and you can",
+      "start": 2055.04,
+      "duration": 4.92
+    },
+    {
+      "text": "actually have a specific epitope mix",
+      "start": 2057.04,
+      "duration": 5.879
+    },
+    {
+      "text": "which is specific for that virus which",
+      "start": 2059.96,
+      "duration": 5.6
+    },
+    {
+      "text": "when it placed with your blood cells",
+      "start": 2062.919,
+      "duration": 4.96
+    },
+    {
+      "text": "your pbmc's as we would call your inter",
+      "start": 2065.56,
+      "duration": 5.24
+    },
+    {
+      "text": "it will actually activate the te- cells",
+      "start": 2067.879,
+      "duration": 5.8
+    },
+    {
+      "text": "specific to that virus so as Sean was",
+      "start": 2070.8,
+      "duration": 5.96
+    },
+    {
+      "text": "saying that what you would then get is a",
+      "start": 2073.679,
+      "duration": 6.881
+    },
+    {
+      "text": "specific phenotype which is associated",
+      "start": 2076.76,
+      "duration": 7.119
+    },
+    {
+      "text": "specifically with that virus now if you",
+      "start": 2080.56,
+      "duration": 6.319
+    },
+    {
+      "text": "provide a test and we'll go back to this",
+      "start": 2083.879,
+      "duration": 4.401
+    },
+    {
+      "text": "questionnaire thing because the only",
+      "start": 2086.879,
+      "duration": 3.321
+    },
+    {
+      "text": "thing that's potentially available is",
+      "start": 2088.28,
+      "duration": 4.2
+    },
+    {
+      "text": "that you've got this questionnaire which",
+      "start": 2090.2,
+      "duration": 5.08
+    },
+    {
+      "text": "is approved and and is used by",
+      "start": 2092.48,
+      "duration": 5.48
+    },
+    {
+      "text": "clinicians you know based on symptoms",
+      "start": 2095.28,
+      "duration": 5.04
+    },
+    {
+      "text": "associated with long covid which are",
+      "start": 2097.96,
+      "duration": 4.32
+    },
+    {
+      "text": "very similar to a lot of other post",
+      "start": 2100.32,
+      "duration": 4.44
+    },
+    {
+      "text": "viral syndromes but and then you've got",
+      "start": 2102.28,
+      "duration": 5.88
+    },
+    {
+      "text": "a test which is specific to that virus",
+      "start": 2104.76,
+      "duration": 6.48
+    },
+    {
+      "text": "then you can use that phenotype you know",
+      "start": 2108.16,
+      "duration": 4.959
+    },
+    {
+      "text": "especially if you if you if you do that",
+      "start": 2111.24,
+      "duration": 3.92
+    },
+    {
+      "text": "association with the symptoms and the",
+      "start": 2113.119,
+      "duration": 4.361
+    },
+    {
+      "text": "actual signature that you can then",
+      "start": 2115.16,
+      "duration": 5.0
+    },
+    {
+      "text": "utilize that moving forward about you",
+      "start": 2117.48,
+      "duration": 5.84
+    },
+    {
+      "text": "know right we have a diagnosis or long",
+      "start": 2120.16,
+      "duration": 6.52
+    },
+    {
+      "text": "Co associated with now te- cell",
+      "start": 2123.32,
+      "duration": 6.48
+    },
+    {
+      "text": "dysfunction or t exhaustion because as",
+      "start": 2126.68,
+      "duration": 4.679
+    },
+    {
+      "text": "as Sean was saying there's many",
+      "start": 2129.8,
+      "duration": 3.88
+    },
+    {
+      "text": "different symptoms and to think that you",
+      "start": 2131.359,
+      "duration": 4.561
+    },
+    {
+      "text": "can come up with one test that will",
+      "start": 2133.68,
+      "duration": 4.2
+    },
+    {
+      "text": "answer all of the things I think where",
+      "start": 2135.92,
+      "duration": 4.48
+    },
+    {
+      "text": "we're coming at it is we believe that",
+      "start": 2137.88,
+      "duration": 5.4
+    },
+    {
+      "text": "the Adaptive immune system has got a",
+      "start": 2140.4,
+      "duration": 6.04
+    },
+    {
+      "text": "central role and a potential signature",
+      "start": 2143.28,
+      "duration": 5.76
+    },
+    {
+      "text": "that can help guide around that that",
+      "start": 2146.44,
+      "duration": 5.36
+    },
+    {
+      "text": "early diagnosis and I think the early",
+      "start": 2149.04,
+      "duration": 6.799
+    },
+    {
+      "text": "diagnosis is super important because yes",
+      "start": 2151.8,
+      "duration": 6.08
+    },
+    {
+      "text": "people have been in in our Liv living",
+      "start": 2155.839,
+      "duration": 4.601
+    },
+    {
+      "text": "with long Co and have been for a while",
+      "start": 2157.88,
+      "duration": 5.32
+    },
+    {
+      "text": "but but sarov hasn't gone away and",
+      "start": 2160.44,
+      "duration": 4.6
+    },
+    {
+      "text": "vaccinations are most probably not gone",
+      "start": 2163.2,
+      "duration": 4.0
+    },
+    {
+      "text": "away either sort of thing so people will",
+      "start": 2165.04,
+      "duration": 5.68
+    },
+    {
+      "text": "be exposed to sarov in the future it",
+      "start": 2167.2,
+      "duration": 5.159
+    },
+    {
+      "text": "could be a slightly different variant",
+      "start": 2170.72,
+      "duration": 3.0
+    },
+    {
+      "text": "and whever you know so there is the",
+      "start": 2172.359,
+      "duration": 3.441
+    },
+    {
+      "text": "potential that you're going to get new",
+      "start": 2173.72,
+      "duration": 3.96
+    },
+    {
+      "text": "people and whever you know who are going",
+      "start": 2175.8,
+      "duration": 3.68
+    },
+    {
+      "text": "to get these symptoms and the question",
+      "start": 2177.68,
+      "duration": 4.52
+    },
+    {
+      "text": "is is if you can identify early you can",
+      "start": 2179.48,
+      "duration": 4.8
+    },
+    {
+      "text": "maybe actually have an intervention or",
+      "start": 2182.2,
+      "duration": 4.159
+    },
+    {
+      "text": "some sort of treatment management to",
+      "start": 2184.28,
+      "duration": 4.319
+    },
+    {
+      "text": "help with the the long covid symptoms",
+      "start": 2186.359,
+      "duration": 4.76
+    },
+    {
+      "text": "but you could also potentially pinpoint",
+      "start": 2188.599,
+      "duration": 5.24
+    },
+    {
+      "text": "a level of where you know you don't",
+      "start": 2191.119,
+      "duration": 5.361
+    },
+    {
+      "text": "really want to go on before maybe it",
+      "start": 2193.839,
+      "duration": 5.441
+    },
+    {
+      "text": "affects the actual adaptive immune and",
+      "start": 2196.48,
+      "duration": 5.119
+    },
+    {
+      "text": "and it prevents it from rewiring into a",
+      "start": 2199.28,
+      "duration": 4.92
+    },
+    {
+      "text": "different a different sort of stage sort",
+      "start": 2201.599,
+      "duration": 4.561
+    },
+    {
+      "text": "of thing and uh I think that's where we",
+      "start": 2204.2,
+      "duration": 5.8
+    },
+    {
+      "text": "see the value in such a test and as you",
+      "start": 2206.16,
+      "duration": 6.08
+    },
+    {
+      "text": "mentioned you know if you have something",
+      "start": 2210.0,
+      "duration": 4.28
+    },
+    {
+      "text": "like a you know some peptide mix which",
+      "start": 2212.24,
+      "duration": 4.76
+    },
+    {
+      "text": "is specific to the virus you can do the",
+      "start": 2214.28,
+      "duration": 4.28
+    },
+    {
+      "text": "same things for other post viral",
+      "start": 2217.0,
+      "duration": 3.92
+    },
+    {
+      "text": "syndrome say like lme disease or cyc",
+      "start": 2218.56,
+      "duration": 4.92
+    },
+    {
+      "text": "megala virus or Epstein bar or something",
+      "start": 2220.92,
+      "duration": 5.04
+    },
+    {
+      "text": "like that or influenza sort of thing so",
+      "start": 2223.48,
+      "duration": 4.68
+    },
+    {
+      "text": "again you can provide that sort of",
+      "start": 2225.96,
+      "duration": 4.48
+    },
+    {
+      "text": "information because the biggest problem",
+      "start": 2228.16,
+      "duration": 5.24
+    },
+    {
+      "text": "and and people with me have been living",
+      "start": 2230.44,
+      "duration": 6.76
+    },
+    {
+      "text": "with this for 40 50 years about this",
+      "start": 2233.4,
+      "duration": 5.679
+    },
+    {
+      "text": "been not being diagnosed and not being",
+      "start": 2237.2,
+      "duration": 4.04
+    },
+    {
+      "text": "believed you know it's good that that",
+      "start": 2239.079,
+      "duration": 4.201
+    },
+    {
+      "text": "all of this research has been done along",
+      "start": 2241.24,
+      "duration": 4.599
+    },
+    {
+      "text": "Co you know people who and I know many",
+      "start": 2243.28,
+      "duration": 4.839
+    },
+    {
+      "text": "people so I think it's it's it's crucial",
+      "start": 2245.839,
+      "duration": 4.801
+    },
+    {
+      "text": "as you see to get that early diagnosis",
+      "start": 2248.119,
+      "duration": 5.761
+    },
+    {
+      "text": "or get e diagnosis of that actual",
+      "start": 2250.64,
+      "duration": 5.719
+    },
+    {
+      "text": "problem yeah and as you say you know",
+      "start": 2253.88,
+      "duration": 6.12
+    },
+    {
+      "text": "post viral stuff is not just long Co",
+      "start": 2256.359,
+      "duration": 6.161
+    },
+    {
+      "text": "it's been around for much much longer I",
+      "start": 2260.0,
+      "duration": 4.28
+    },
+    {
+      "text": "suppose what would be interesting and I",
+      "start": 2262.52,
+      "duration": 2.96
+    },
+    {
+      "text": "don't know if there's something you even",
+      "start": 2264.28,
+      "duration": 4.36
+    },
+    {
+      "text": "know yet um you know these immune",
+      "start": 2265.48,
+      "duration": 6.4
+    },
+    {
+      "text": "responses um these te- cell exhaustion",
+      "start": 2268.64,
+      "duration": 5.959
+    },
+    {
+      "text": "um that you're looking to be able to",
+      "start": 2271.88,
+      "duration": 3.84
+    },
+    {
+      "text": "test",
+      "start": 2274.599,
+      "duration": 5.361
+    },
+    {
+      "text": "for does this look the same in Long CO",
+      "start": 2275.72,
+      "duration": 7.119
+    },
+    {
+      "text": "as it does in people with say",
+      "start": 2279.96,
+      "duration": 6.24
+    },
+    {
+      "text": "mecfs with lime with any of these others",
+      "start": 2282.839,
+      "duration": 5.321
+    },
+    {
+      "text": "you know are you saying commonalities",
+      "start": 2286.2,
+      "duration": 4.8
+    },
+    {
+      "text": "across there that's exactly what we see",
+      "start": 2288.16,
+      "duration": 6.199
+    },
+    {
+      "text": "is the the combination of cyto kindes",
+      "start": 2291.0,
+      "duration": 5.68
+    },
+    {
+      "text": "like I've mentioned you know il2 and PNF",
+      "start": 2294.359,
+      "duration": 4.881
+    },
+    {
+      "text": "Alpha what is that the same as it would",
+      "start": 2296.68,
+      "duration": 5.8
+    },
+    {
+      "text": "be for Lyme disease you know or or or me",
+      "start": 2299.24,
+      "duration": 5.32
+    },
+    {
+      "text": "or is it slightly different because if",
+      "start": 2302.48,
+      "duration": 4.599
+    },
+    {
+      "text": "it is the same and and when we think it",
+      "start": 2304.56,
+      "duration": 4.12
+    },
+    {
+      "text": "let's just in a general term you've got",
+      "start": 2307.079,
+      "duration": 4.0
+    },
+    {
+      "text": "t- cell exhaustion and that t- cell",
+      "start": 2308.68,
+      "duration": 4.6
+    },
+    {
+      "text": "exhaustion is having an effect on",
+      "start": 2311.079,
+      "duration": 4.201
+    },
+    {
+      "text": "glycolysis through its effect in the",
+      "start": 2313.28,
+      "duration": 4.24
+    },
+    {
+      "text": "mitochondria which is having a problem",
+      "start": 2315.28,
+      "duration": 4.839
+    },
+    {
+      "text": "around the energy General energy",
+      "start": 2317.52,
+      "duration": 4.72
+    },
+    {
+      "text": "production which could be causing",
+      "start": 2320.119,
+      "duration": 3.761
+    },
+    {
+      "text": "symptoms of chronic fatigue and whatever",
+      "start": 2322.24,
+      "duration": 4.32
+    },
+    {
+      "text": "you know is there a commonality now if",
+      "start": 2323.88,
+      "duration": 4.64
+    },
+    {
+      "text": "there is a commonality it may well be we",
+      "start": 2326.56,
+      "duration": 4.44
+    },
+    {
+      "text": "will find that out but ultimately you",
+      "start": 2328.52,
+      "duration": 5.0
+    },
+    {
+      "text": "know that the test itself although the",
+      "start": 2331.0,
+      "duration": 4.2
+    },
+    {
+      "text": "virus might be slightly different or",
+      "start": 2333.52,
+      "duration": 3.52
+    },
+    {
+      "text": "whatever you know the the result will",
+      "start": 2335.2,
+      "duration": 3.6
+    },
+    {
+      "text": "most probably be the same and that's",
+      "start": 2337.04,
+      "duration": 3.079
+    },
+    {
+      "text": "certainly something that we would",
+      "start": 2338.8,
+      "duration": 3.96
+    },
+    {
+      "text": "specifically look at so if I was looking",
+      "start": 2340.119,
+      "duration": 4.761
+    },
+    {
+      "text": "in the future you know could you get to",
+      "start": 2342.76,
+      "duration": 4.359
+    },
+    {
+      "text": "the point where you would have a 96 well",
+      "start": 2344.88,
+      "duration": 4.76
+    },
+    {
+      "text": "plate different peptide mixes you know",
+      "start": 2347.119,
+      "duration": 5.24
+    },
+    {
+      "text": "for the different viral syndromes but",
+      "start": 2349.64,
+      "duration": 5.199
+    },
+    {
+      "text": "with the ultimate same sort of cyto",
+      "start": 2352.359,
+      "duration": 5.441
+    },
+    {
+      "text": "kindes which are associated with that",
+      "start": 2354.839,
+      "duration": 5.121
+    },
+    {
+      "text": "te- cell exhaustion which you know we're",
+      "start": 2357.8,
+      "duration": 3.96
+    },
+    {
+      "text": "obviously linked in some way sort of",
+      "start": 2359.96,
+      "duration": 3.52
+    },
+    {
+      "text": "thing to that sort of chronic fatigue",
+      "start": 2361.76,
+      "duration": 3.16
+    },
+    {
+      "text": "that would be the way to go so you would",
+      "start": 2363.48,
+      "duration": 3.56
+    },
+    {
+      "text": "go to the GP and they would test you for",
+      "start": 2364.92,
+      "duration": 4.76
+    },
+    {
+      "text": "the sort of and then you would do that",
+      "start": 2367.04,
+      "duration": 5.16
+    },
+    {
+      "text": "the interesting thing about the the",
+      "start": 2369.68,
+      "duration": 4.84
+    },
+    {
+      "text": "peptide mix that's specific to that",
+      "start": 2372.2,
+      "duration": 4.119
+    },
+    {
+      "text": "virus the question is is when you're",
+      "start": 2374.52,
+      "duration": 5.2
+    },
+    {
+      "text": "using that to stimulate the te- cells is",
+      "start": 2376.319,
+      "duration": 5.601
+    },
+    {
+      "text": "that stimulation and the release of the",
+      "start": 2379.72,
+      "duration": 4.56
+    },
+    {
+      "text": "cyto kindes is it different and we don't",
+      "start": 2381.92,
+      "duration": 5.52
+    },
+    {
+      "text": "know yet but we will find out and I",
+      "start": 2384.28,
+      "duration": 5.92
+    },
+    {
+      "text": "guess this kind of takes us into the",
+      "start": 2387.44,
+      "duration": 5.8
+    },
+    {
+      "text": "research that brought you guys together",
+      "start": 2390.2,
+      "duration": 6.119
+    },
+    {
+      "text": "and indeed all of us here today together",
+      "start": 2393.24,
+      "duration": 6.599
+    },
+    {
+      "text": "um so this is an extension or a kind of",
+      "start": 2396.319,
+      "duration": 6.961
+    },
+    {
+      "text": "relaunch the next bit I suppose of the",
+      "start": 2399.839,
+      "duration": 5.961
+    },
+    {
+      "text": "research that you described at the start",
+      "start": 2403.28,
+      "duration": 5.559
+    },
+    {
+      "text": "on so maybe I just kind of throw it out",
+      "start": 2405.8,
+      "duration": 6.68
+    },
+    {
+      "text": "there and and say tell us about the",
+      "start": 2408.839,
+      "duration": 3.641
+    },
+    {
+      "text": "research we'll be right",
+      "start": 2413.56,
+      "duration": 5.92
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 2416.96,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 2419.48,
+      "duration": 4.52
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 2421.44,
+      "duration": 3.96
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 2424.0,
+      "duration": 3.64
+    },
+    {
+      "text": "somewhere a friend a group or or even on",
+      "start": 2425.4,
+      "duration": 4.719
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 2427.64,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we'd be able to get",
+      "start": 2430.119,
+      "duration": 3.561
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 2431.88,
+      "duration": 4.239
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 2433.68,
+      "duration": 3.96
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 2436.119,
+      "duration": 3.441
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 2437.64,
+      "duration": 5.28
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 2439.56,
+      "duration": 3.36
+    },
+    {
+      "text": "much yeah I guess like we've been saying",
+      "start": 2446.28,
+      "duration": 4.6
+    },
+    {
+      "text": "throughout so this study for us is is",
+      "start": 2448.48,
+      "duration": 4.96
+    },
+    {
+      "text": "sort of like the second phase of things",
+      "start": 2450.88,
+      "duration": 4.92
+    },
+    {
+      "text": "and that we I guess the first study was",
+      "start": 2453.44,
+      "duration": 4.159
+    },
+    {
+      "text": "that we did right at the beginning the",
+      "start": 2455.8,
+      "duration": 4.319
+    },
+    {
+      "text": "pandemic ended up being called the Ciro",
+      "start": 2457.599,
+      "duration": 4.681
+    },
+    {
+      "text": "study which was uh just just to",
+      "start": 2460.119,
+      "duration": 3.48
+    },
+    {
+      "text": "emphasize it was sort of a greater",
+      "start": 2462.28,
+      "duration": 3.0
+    },
+    {
+      "text": "Manchester collaboration and there were",
+      "start": 2463.599,
+      "duration": 3.961
+    },
+    {
+      "text": "lots and lots of people involved in that",
+      "start": 2465.28,
+      "duration": 4.039
+    },
+    {
+      "text": "and one of the things that we found",
+      "start": 2467.56,
+      "duration": 3.6
+    },
+    {
+      "text": "which we've sort of published and parts",
+      "start": 2469.319,
+      "duration": 3.201
+    },
+    {
+      "text": "along the way and like I was just saying",
+      "start": 2471.16,
+      "duration": 3.439
+    },
+    {
+      "text": "our our current paper is currently just",
+      "start": 2472.52,
+      "duration": 5.04
+    },
+    {
+      "text": "being put together is um is that there",
+      "start": 2474.599,
+      "duration": 5.281
+    },
+    {
+      "text": "were some specific phenotypes that",
+      "start": 2477.56,
+      "duration": 4.72
+    },
+    {
+      "text": "seemed to drop out um in patients with",
+      "start": 2479.88,
+      "duration": 5.56
+    },
+    {
+      "text": "long covid and some of those so there is",
+      "start": 2482.28,
+      "duration": 5.12
+    },
+    {
+      "text": "a story of t- cell exhaustion which we",
+      "start": 2485.44,
+      "duration": 4.36
+    },
+    {
+      "text": "spoken about quite a lot today but there",
+      "start": 2487.4,
+      "duration": 4.32
+    },
+    {
+      "text": "were also some changes in the B cells",
+      "start": 2489.8,
+      "duration": 3.84
+    },
+    {
+      "text": "that we saw as well so Nigel was",
+      "start": 2491.72,
+      "duration": 3.68
+    },
+    {
+      "text": "mentioning the B cells are the the cells",
+      "start": 2493.64,
+      "duration": 4.24
+    },
+    {
+      "text": "that make the antibodies if you like um",
+      "start": 2495.4,
+      "duration": 3.8
+    },
+    {
+      "text": "and we did see that there was some",
+      "start": 2497.88,
+      "duration": 3.6
+    },
+    {
+      "text": "differences in terms of how the B cells",
+      "start": 2499.2,
+      "duration": 4.44
+    },
+    {
+      "text": "in patients with long covid I guess",
+      "start": 2501.48,
+      "duration": 4.04
+    },
+    {
+      "text": "generally sort of produce their their",
+      "start": 2503.64,
+      "duration": 3.88
+    },
+    {
+      "text": "their antibodies so what we looked at",
+      "start": 2505.52,
+      "duration": 4.559
+    },
+    {
+      "text": "was all the B cells because um what's",
+      "start": 2507.52,
+      "duration": 4.2
+    },
+    {
+      "text": "quite extraordinary about the Adaptive",
+      "start": 2510.079,
+      "duration": 4.24
+    },
+    {
+      "text": "immune system is is the extraordinary",
+      "start": 2511.72,
+      "duration": 6.0
+    },
+    {
+      "text": "variation that you have in the B cell",
+      "start": 2514.319,
+      "duration": 5.841
+    },
+    {
+      "text": "and t- cell genetic makeup because maybe",
+      "start": 2517.72,
+      "duration": 4.359
+    },
+    {
+      "text": "if we dive back a little bit into some",
+      "start": 2520.16,
+      "duration": 3.32
+    },
+    {
+      "text": "science I guess when we when you're",
+      "start": 2522.079,
+      "duration": 3.321
+    },
+    {
+      "text": "growing up at school you're kind of told",
+      "start": 2523.48,
+      "duration": 4.639
+    },
+    {
+      "text": "that you have the same code of uh DNA in",
+      "start": 2525.4,
+      "duration": 5.0
+    },
+    {
+      "text": "all of your cells um but what's really",
+      "start": 2528.119,
+      "duration": 3.96
+    },
+    {
+      "text": "is that doesn't really hold true when",
+      "start": 2530.4,
+      "duration": 4.04
+    },
+    {
+      "text": "you get into the Adaptive immune system",
+      "start": 2532.079,
+      "duration": 4.28
+    },
+    {
+      "text": "because what happens is that your te-",
+      "start": 2534.44,
+      "duration": 4.159
+    },
+    {
+      "text": "cells and your B cells randomly mutate",
+      "start": 2536.359,
+      "duration": 5.0
+    },
+    {
+      "text": "bits of your DNA um so that gives them",
+      "start": 2538.599,
+      "duration": 4.561
+    },
+    {
+      "text": "all a slightly different genetic makeup",
+      "start": 2541.359,
+      "duration": 4.321
+    },
+    {
+      "text": "that enables them to detect things that",
+      "start": 2543.16,
+      "duration": 5.12
+    },
+    {
+      "text": "you haven't even seen yet so if you like",
+      "start": 2545.68,
+      "duration": 4.6
+    },
+    {
+      "text": "you would have had from early on you",
+      "start": 2548.28,
+      "duration": 4.0
+    },
+    {
+      "text": "know all of us would have had some te-",
+      "start": 2550.28,
+      "duration": 3.279
+    },
+    {
+      "text": "cells that were sort of Born to",
+      "start": 2552.28,
+      "duration": 3.839
+    },
+    {
+      "text": "recognize sasov 2 even though we we",
+      "start": 2553.559,
+      "duration": 5.0
+    },
+    {
+      "text": "hadn't seen it yet and um you know it",
+      "start": 2556.119,
+      "duration": 4.2
+    },
+    {
+      "text": "hadn't sort of emerged as certainly as a",
+      "start": 2558.559,
+      "duration": 4.681
+    },
+    {
+      "text": "pandemic So within that we can see that",
+      "start": 2560.319,
+      "duration": 5.0
+    },
+    {
+      "text": "in our patients with long Co the way",
+      "start": 2563.24,
+      "duration": 5.24
+    },
+    {
+      "text": "that those B cells um refin their their",
+      "start": 2565.319,
+      "duration": 5.841
+    },
+    {
+      "text": "specificity to being able to recognize",
+      "start": 2568.48,
+      "duration": 5.04
+    },
+    {
+      "text": "Co is slightly different to patients",
+      "start": 2571.16,
+      "duration": 5.32
+    },
+    {
+      "text": "who've made a full recovery so I guess",
+      "start": 2573.52,
+      "duration": 4.64
+    },
+    {
+      "text": "one thing that we want to do alongside",
+      "start": 2576.48,
+      "duration": 3.76
+    },
+    {
+      "text": "the work with the t- cell exhaustion is",
+      "start": 2578.16,
+      "duration": 4.6
+    },
+    {
+      "text": "is to look at that process as well um",
+      "start": 2580.24,
+      "duration": 4.4
+    },
+    {
+      "text": "again in a longitudinal sense so the",
+      "start": 2582.76,
+      "duration": 4.599
+    },
+    {
+      "text": "idea is that you recruit uh we would ask",
+      "start": 2584.64,
+      "duration": 5.32
+    },
+    {
+      "text": "people with long Co to take part and",
+      "start": 2587.359,
+      "duration": 4.76
+    },
+    {
+      "text": "enough people to get some variation in",
+      "start": 2589.96,
+      "duration": 3.599
+    },
+    {
+      "text": "that so we'd get some people who had",
+      "start": 2592.119,
+      "duration": 3.601
+    },
+    {
+      "text": "maybe very disordered sort of B cell",
+      "start": 2593.559,
+      "duration": 3.881
+    },
+    {
+      "text": "what we call Affinity maturation where",
+      "start": 2595.72,
+      "duration": 4.28
+    },
+    {
+      "text": "you get the B cells sort of becoming",
+      "start": 2597.44,
+      "duration": 5.119
+    },
+    {
+      "text": "more specific I guess to the the Target",
+      "start": 2600.0,
+      "duration": 4.319
+    },
+    {
+      "text": "that they're they're sort of trying to",
+      "start": 2602.559,
+      "duration": 3.921
+    },
+    {
+      "text": "um protect against so we we would get",
+      "start": 2604.319,
+      "duration": 3.841
+    },
+    {
+      "text": "sort of a range of of people who sort of",
+      "start": 2606.48,
+      "duration": 3.32
+    },
+    {
+      "text": "have a very good response saying and",
+      "start": 2608.16,
+      "duration": 3.52
+    },
+    {
+      "text": "those who don't have a good response and",
+      "start": 2609.8,
+      "duration": 3.519
+    },
+    {
+      "text": "then seeing how those change over time",
+      "start": 2611.68,
+      "duration": 4.24
+    },
+    {
+      "text": "how that correlates with symptoms and I",
+      "start": 2613.319,
+      "duration": 4.161
+    },
+    {
+      "text": "guess the expectation is that everyone",
+      "start": 2615.92,
+      "duration": 4.199
+    },
+    {
+      "text": "will get illnesses like we all do um",
+      "start": 2617.48,
+      "duration": 5.079
+    },
+    {
+      "text": "across each winter period so over that",
+      "start": 2620.119,
+      "duration": 4.401
+    },
+    {
+      "text": "two years we'll be able to see what sort",
+      "start": 2622.559,
+      "duration": 3.401
+    },
+    {
+      "text": "of infections people are getting and how",
+      "start": 2624.52,
+      "duration": 3.72
+    },
+    {
+      "text": "they're responding to those as well so",
+      "start": 2625.96,
+      "duration": 3.96
+    },
+    {
+      "text": "it's maybe slightly more refined than",
+      "start": 2628.24,
+      "duration": 3.64
+    },
+    {
+      "text": "that we have more data than we did when",
+      "start": 2629.92,
+      "duration": 5.04
+    },
+    {
+      "text": "we started our first covid-19 study but",
+      "start": 2631.88,
+      "duration": 5.239
+    },
+    {
+      "text": "um it is still fairly Broad in that that",
+      "start": 2634.96,
+      "duration": 3.44
+    },
+    {
+      "text": "there's still lots that we don't",
+      "start": 2637.119,
+      "duration": 2.921
+    },
+    {
+      "text": "understand and uh like we've been saying",
+      "start": 2638.4,
+      "duration": 3.56
+    },
+    {
+      "text": "throughout this I guess there's lots of",
+      "start": 2640.04,
+      "duration": 3.519
+    },
+    {
+      "text": "work that we need to do to really",
+      "start": 2641.96,
+      "duration": 4.0
+    },
+    {
+      "text": "understand what long Co is so this this",
+      "start": 2643.559,
+      "duration": 4.601
+    },
+    {
+      "text": "is sort of part of that work is is to",
+      "start": 2645.96,
+      "duration": 4.08
+    },
+    {
+      "text": "try and try and maybe get closer to that",
+      "start": 2648.16,
+      "duration": 4.919
+    },
+    {
+      "text": "sort of question and I I totally agree",
+      "start": 2650.04,
+      "duration": 6.84
+    },
+    {
+      "text": "with what Sean was saying is that you",
+      "start": 2653.079,
+      "duration": 5.841
+    },
+    {
+      "text": "know there's tests out there that that",
+      "start": 2656.88,
+      "duration": 4.88
+    },
+    {
+      "text": "measure cites and certainly for many",
+      "start": 2658.92,
+      "duration": 5.48
+    },
+    {
+      "text": "years the you know they go to test and I",
+      "start": 2661.76,
+      "duration": 4.72
+    },
+    {
+      "text": "would imagine in a lot of the long Co",
+      "start": 2664.4,
+      "duration": 4.56
+    },
+    {
+      "text": "studies that were done previously um",
+      "start": 2666.48,
+      "duration": 4.92
+    },
+    {
+      "text": "they use Eliza and El you can have a",
+      "start": 2668.96,
+      "duration": 5.119
+    },
+    {
+      "text": "panel of you know 60 cyto kindes and",
+      "start": 2671.4,
+      "duration": 4.159
+    },
+    {
+      "text": "look at the cyto but the problem with",
+      "start": 2674.079,
+      "duration": 3.24
+    },
+    {
+      "text": "something like Eliza is you don't know",
+      "start": 2675.559,
+      "duration": 4.04
+    },
+    {
+      "text": "the origin of that so what what Sean's",
+      "start": 2677.319,
+      "duration": 4.721
+    },
+    {
+      "text": "talking about is the origin CD4 is it",
+      "start": 2679.599,
+      "duration": 5.0
+    },
+    {
+      "text": "cd8 cells because again it will give you",
+      "start": 2682.04,
+      "duration": 3.96
+    },
+    {
+      "text": "some sort of guidance if it's coming",
+      "start": 2684.599,
+      "duration": 3.361
+    },
+    {
+      "text": "from b or T cells and stuff and things",
+      "start": 2686.0,
+      "duration": 5.559
+    },
+    {
+      "text": "like that is it dendritic now unlike as",
+      "start": 2687.96,
+      "duration": 5.28
+    },
+    {
+      "text": "working with something like serum or",
+      "start": 2691.559,
+      "duration": 3.8
+    },
+    {
+      "text": "plasma what we would be doing is we",
+      "start": 2693.24,
+      "duration": 4.72
+    },
+    {
+      "text": "would be you know separating out the the",
+      "start": 2695.359,
+      "duration": 5.2
+    },
+    {
+      "text": "pbmc's the that peripheral Bloods which",
+      "start": 2697.96,
+      "duration": 5.44
+    },
+    {
+      "text": "has got the intracellular components of",
+      "start": 2700.559,
+      "duration": 4.76
+    },
+    {
+      "text": "that so you know although we' be",
+      "start": 2703.4,
+      "duration": 4.28
+    },
+    {
+      "text": "measuring you know the cyto kind release",
+      "start": 2705.319,
+      "duration": 4.8
+    },
+    {
+      "text": "we would also be looking at the origin",
+      "start": 2707.68,
+      "duration": 4.36
+    },
+    {
+      "text": "of that you know is it coming from a b",
+      "start": 2710.119,
+      "duration": 4.321
+    },
+    {
+      "text": "or is it t- cell a dendritic cell",
+      "start": 2712.04,
+      "duration": 4.72
+    },
+    {
+      "text": "because again we really do want to try",
+      "start": 2714.44,
+      "duration": 4.76
+    },
+    {
+      "text": "and understand a little bit more around",
+      "start": 2716.76,
+      "duration": 4.839
+    },
+    {
+      "text": "the Adaptive immune system and I know",
+      "start": 2719.2,
+      "duration": 3.879
+    },
+    {
+      "text": "that you know as part of the",
+      "start": 2721.599,
+      "duration": 3.201
+    },
+    {
+      "text": "collaboration that we've got with with",
+      "start": 2723.079,
+      "duration": 4.321
+    },
+    {
+      "text": "sha in the group is that we even want to",
+      "start": 2724.8,
+      "duration": 4.64
+    },
+    {
+      "text": "go a little bit further in that you know",
+      "start": 2727.4,
+      "duration": 4.8
+    },
+    {
+      "text": "to to look at all of that that those",
+      "start": 2729.44,
+      "duration": 5.56
+    },
+    {
+      "text": "orig look at the type of cells and the",
+      "start": 2732.2,
+      "duration": 5.24
+    },
+    {
+      "text": "changes within those cells over time",
+      "start": 2735.0,
+      "duration": 4.559
+    },
+    {
+      "text": "with these longitudinal samples so",
+      "start": 2737.44,
+      "duration": 4.56
+    },
+    {
+      "text": "although the research I think when you",
+      "start": 2739.559,
+      "duration": 4.321
+    },
+    {
+      "text": "do these things certainly when you're",
+      "start": 2742.0,
+      "duration": 4.079
+    },
+    {
+      "text": "talking about the Adaptive immune system",
+      "start": 2743.88,
+      "duration": 4.36
+    },
+    {
+      "text": "you're talking about getting some sort",
+      "start": 2746.079,
+      "duration": 3.601
+    },
+    {
+      "text": "of invitro",
+      "start": 2748.24,
+      "duration": 3.96
+    },
+    {
+      "text": "diagnostic out there with drug",
+      "start": 2749.68,
+      "duration": 4.76
+    },
+    {
+      "text": "development with anything it's super",
+      "start": 2752.2,
+      "duration": 5.08
+    },
+    {
+      "text": "important that when you develop that",
+      "start": 2754.44,
+      "duration": 5.56
+    },
+    {
+      "text": "diagnostic that the science behind it is",
+      "start": 2757.28,
+      "duration": 5.68
+    },
+    {
+      "text": "something that people and and and",
+      "start": 2760.0,
+      "duration": 5.28
+    },
+    {
+      "text": "clinicians GPS who are going to be",
+      "start": 2762.96,
+      "duration": 5.359
+    },
+    {
+      "text": "utilizing that understand the value of",
+      "start": 2765.28,
+      "duration": 6.52
+    },
+    {
+      "text": "that and so you know for us to publish",
+      "start": 2768.319,
+      "duration": 5.641
+    },
+    {
+      "text": "and move the science on is super",
+      "start": 2771.8,
+      "duration": 4.039
+    },
+    {
+      "text": "important just as important as",
+      "start": 2773.96,
+      "duration": 5.0
+    },
+    {
+      "text": "developing the actual invitro diagnostic",
+      "start": 2775.839,
+      "duration": 5.961
+    },
+    {
+      "text": "so although you know this is a two-year",
+      "start": 2778.96,
+      "duration": 4.28
+    },
+    {
+      "text": "study where we're going to be sort of",
+      "start": 2781.8,
+      "duration": 3.559
+    },
+    {
+      "text": "looking at that we'll be you know also",
+      "start": 2783.24,
+      "duration": 5.04
+    },
+    {
+      "text": "hopefully moving the science on and the",
+      "start": 2785.359,
+      "duration": 5.121
+    },
+    {
+      "text": "understanding on what we will be doing",
+      "start": 2788.28,
+      "duration": 5.2
+    },
+    {
+      "text": "is we will be looking to get you know to",
+      "start": 2790.48,
+      "duration": 5.92
+    },
+    {
+      "text": "develop the invitro diagnostic you know",
+      "start": 2793.48,
+      "duration": 4.8
+    },
+    {
+      "text": "most probably in conjunction with a",
+      "start": 2796.4,
+      "duration": 3.52
+    },
+    {
+      "text": "questionnaire initially where we're",
+      "start": 2798.28,
+      "duration": 3.6
+    },
+    {
+      "text": "looking at a signature and we'll be",
+      "start": 2799.92,
+      "duration": 4.04
+    },
+    {
+      "text": "going for full approval and when we go",
+      "start": 2801.88,
+      "duration": 5.679
+    },
+    {
+      "text": "for full approval C Mark ivd approval",
+      "start": 2803.96,
+      "duration": 5.76
+    },
+    {
+      "text": "you know we would be working alongside",
+      "start": 2807.559,
+      "duration": 5.8
+    },
+    {
+      "text": "the MH or even in the US the FDA and",
+      "start": 2809.72,
+      "duration": 6.119
+    },
+    {
+      "text": "hopefully partnering with them so when",
+      "start": 2813.359,
+      "duration": 4.2
+    },
+    {
+      "text": "you think about when you're",
+      "start": 2815.839,
+      "duration": 3.52
+    },
+    {
+      "text": "when you're developing an ivd you have",
+      "start": 2817.559,
+      "duration": 4.28
+    },
+    {
+      "text": "to have a clinical validation study you",
+      "start": 2819.359,
+      "duration": 5.081
+    },
+    {
+      "text": "validate what it's supposed to do we",
+      "start": 2821.839,
+      "duration": 4.52
+    },
+    {
+      "text": "would look right from the beginning to",
+      "start": 2824.44,
+      "duration": 3.879
+    },
+    {
+      "text": "have those early discussions with the",
+      "start": 2826.359,
+      "duration": 4.881
+    },
+    {
+      "text": "regulatory authorities to Define what",
+      "start": 2828.319,
+      "duration": 5.04
+    },
+    {
+      "text": "those outcomes are within the clinical",
+      "start": 2831.24,
+      "duration": 5.359
+    },
+    {
+      "text": "study which would be you know insightful",
+      "start": 2833.359,
+      "duration": 5.24
+    },
+    {
+      "text": "and have utility with respect to that",
+      "start": 2836.599,
+      "duration": 4.121
+    },
+    {
+      "text": "early diagnosis and that's the sort of",
+      "start": 2838.599,
+      "duration": 4.401
+    },
+    {
+      "text": "Journey that we would do so the research",
+      "start": 2840.72,
+      "duration": 4.04
+    },
+    {
+      "text": "and the work and the the samples that we",
+      "start": 2843.0,
+      "duration": 3.92
+    },
+    {
+      "text": "can generate from this study we will",
+      "start": 2844.76,
+      "duration": 4.28
+    },
+    {
+      "text": "used to develop that I say and",
+      "start": 2846.92,
+      "duration": 4.439
+    },
+    {
+      "text": "understand that more but ultimately as",
+      "start": 2849.04,
+      "duration": 4.559
+    },
+    {
+      "text": "we see that development of the ivd and",
+      "start": 2851.359,
+      "duration": 5.121
+    },
+    {
+      "text": "long covid and where you know also",
+      "start": 2853.599,
+      "duration": 5.24
+    },
+    {
+      "text": "potentially other postal syndrome say",
+      "start": 2856.48,
+      "duration": 4.2
+    },
+    {
+      "text": "like L disease that we said that's what",
+      "start": 2858.839,
+      "duration": 4.121
+    },
+    {
+      "text": "we would want to do because with a full",
+      "start": 2860.68,
+      "duration": 5.72
+    },
+    {
+      "text": "ivd approval to C Mark you can make a",
+      "start": 2862.96,
+      "duration": 5.68
+    },
+    {
+      "text": "clinical decision and unless you",
+      "start": 2866.4,
+      "duration": 4.439
+    },
+    {
+      "text": "actually have that and it's you know the",
+      "start": 2868.64,
+      "duration": 3.8
+    },
+    {
+      "text": "analytical performance and the clinical",
+      "start": 2870.839,
+      "duration": 3.681
+    },
+    {
+      "text": "performance is done you can't inject",
+      "start": 2872.44,
+      "duration": 5.04
+    },
+    {
+      "text": "that into that Health Care Pro provid",
+      "start": 2874.52,
+      "duration": 6.24
+    },
+    {
+      "text": "Journey so the ultimate goal for us is",
+      "start": 2877.48,
+      "duration": 6.599
+    },
+    {
+      "text": "to get a fully approved regulatory uh",
+      "start": 2880.76,
+      "duration": 5.559
+    },
+    {
+      "text": "diagnostic which is approved by the",
+      "start": 2884.079,
+      "duration": 4.28
+    },
+    {
+      "text": "likes of say nice or at least we've",
+      "start": 2886.319,
+      "duration": 5.0
+    },
+    {
+      "text": "involved um in the early Journey that it",
+      "start": 2888.359,
+      "duration": 5.561
+    },
+    {
+      "text": "can actually be put into the Health Care",
+      "start": 2891.319,
+      "duration": 5.721
+    },
+    {
+      "text": "system to help with that diagnosis",
+      "start": 2893.92,
+      "duration": 5.88
+    },
+    {
+      "text": "rather than oh I have this test how do I",
+      "start": 2897.04,
+      "duration": 4.24
+    },
+    {
+      "text": "get it to",
+      "start": 2899.8,
+      "duration": 4.36
+    },
+    {
+      "text": "gpce yeah and I suppose this comes back",
+      "start": 2901.28,
+      "duration": 6.319
+    },
+    {
+      "text": "to the idea of like you know diagnosis",
+      "start": 2904.16,
+      "duration": 7.399
+    },
+    {
+      "text": "is kind of the first step in actually",
+      "start": 2907.599,
+      "duration": 7.161
+    },
+    {
+      "text": "getting something that helps whether",
+      "start": 2911.559,
+      "duration": 4.881
+    },
+    {
+      "text": "that's pharmaceutical or more holistic",
+      "start": 2914.76,
+      "duration": 3.079
+    },
+    {
+      "text": "or whatever that looks like you've got",
+      "start": 2916.44,
+      "duration": 3.04
+    },
+    {
+      "text": "to understand what you're dealing with",
+      "start": 2917.839,
+      "duration": 4.52
+    },
+    {
+      "text": "before you have any idea how to tackle",
+      "start": 2919.48,
+      "duration": 5.24
+    },
+    {
+      "text": "it but at the same time a diagnostic is",
+      "start": 2922.359,
+      "duration": 4.881
+    },
+    {
+      "text": "only useful if it actually leads to a",
+      "start": 2924.72,
+      "duration": 4.28
+    },
+    {
+      "text": "pathway so I suppose that is the next",
+      "start": 2927.24,
+      "duration": 3.92
+    },
+    {
+      "text": "step isn't it okay we've got this",
+      "start": 2929.0,
+      "duration": 4.76
+    },
+    {
+      "text": "diagnosis we now know what's going wrong",
+      "start": 2931.16,
+      "duration": 3.639
+    },
+    {
+      "text": "all right so what do we actually do",
+      "start": 2933.76,
+      "duration": 5.28
+    },
+    {
+      "text": "about that we we talk early around",
+      "start": 2934.799,
+      "duration": 7.401
+    },
+    {
+      "text": "antioxidants and oxidative stress so so",
+      "start": 2939.04,
+      "duration": 6.16
+    },
+    {
+      "text": "to your point um you know that there are",
+      "start": 2942.2,
+      "duration": 5.04
+    },
+    {
+      "text": "things that potentially we could do to",
+      "start": 2945.2,
+      "duration": 5.24
+    },
+    {
+      "text": "reduce that oxidative stress because we",
+      "start": 2947.24,
+      "duration": 5.079
+    },
+    {
+      "text": "know that oxidative stress in general is",
+      "start": 2950.44,
+      "duration": 4.52
+    },
+    {
+      "text": "not a good thing or chronic inflammation",
+      "start": 2952.319,
+      "duration": 4.081
+    },
+    {
+      "text": "unless you're trying to get rid of a",
+      "start": 2954.96,
+      "duration": 3.24
+    },
+    {
+      "text": "pathogen is most probably not a good",
+      "start": 2956.4,
+      "duration": 4.6
+    },
+    {
+      "text": "thing so again to identify even a",
+      "start": 2958.2,
+      "duration": 5.48
+    },
+    {
+      "text": "signature to say that you know actually",
+      "start": 2961.0,
+      "duration": 4.64
+    },
+    {
+      "text": "you've got quite a high level of chronic",
+      "start": 2963.68,
+      "duration": 4.24
+    },
+    {
+      "text": "inflammation and whatever you know that",
+      "start": 2965.64,
+      "duration": 4.679
+    },
+    {
+      "text": "signature you know of the cyto kindes",
+      "start": 2967.92,
+      "duration": 4.28
+    },
+    {
+      "text": "it's most probably related to some sort",
+      "start": 2970.319,
+      "duration": 3.881
+    },
+    {
+      "text": "of post viral syndrome like something",
+      "start": 2972.2,
+      "duration": 4.52
+    },
+    {
+      "text": "like SARS C long covid and stuff and and",
+      "start": 2974.2,
+      "duration": 3.48
+    },
+    {
+      "text": "there's something that you could",
+      "start": 2976.72,
+      "duration": 3.399
+    },
+    {
+      "text": "potentially do something about that to",
+      "start": 2977.68,
+      "duration": 5.0
+    },
+    {
+      "text": "reduce the potential symptoms because",
+      "start": 2980.119,
+      "duration": 4.801
+    },
+    {
+      "text": "you're reducing that oxidative stress",
+      "start": 2982.68,
+      "duration": 4.439
+    },
+    {
+      "text": "and then you're in doing so you're most",
+      "start": 2984.92,
+      "duration": 4.879
+    },
+    {
+      "text": "probably helping with that energy thing",
+      "start": 2987.119,
+      "duration": 4.601
+    },
+    {
+      "text": "with with respect to the mitochondrial",
+      "start": 2989.799,
+      "duration": 4.201
+    },
+    {
+      "text": "dysfunction that that a lot of these",
+      "start": 2991.72,
+      "duration": 5.68
+    },
+    {
+      "text": "syndromes specifically have so even",
+      "start": 2994.0,
+      "duration": 5.4
+    },
+    {
+      "text": "though if there's not any drugs",
+      "start": 2997.4,
+      "duration": 4.0
+    },
+    {
+      "text": "specifically available at this moment in",
+      "start": 2999.4,
+      "duration": 5.719
+    },
+    {
+      "text": "time I think the information that such a",
+      "start": 3001.4,
+      "duration": 6.199
+    },
+    {
+      "text": "would do it would help guide research",
+      "start": 3005.119,
+      "duration": 4.841
+    },
+    {
+      "text": "and development about potential",
+      "start": 3007.599,
+      "duration": 5.281
+    },
+    {
+      "text": "therapeutic interventions later",
+      "start": 3009.96,
+      "duration": 7.32
+    },
+    {
+      "text": "on great well thank you so much for",
+      "start": 3012.88,
+      "duration": 5.88
+    },
+    {
+      "text": "giving up your time to speak to me this",
+      "start": 3017.28,
+      "duration": 3.68
+    },
+    {
+      "text": "afternoon it's been an absolute pleasure",
+      "start": 3018.76,
+      "duration": 4.359
+    },
+    {
+      "text": "hearing about all of this um and that",
+      "start": 3020.96,
+      "duration": 3.599
+    },
+    {
+      "text": "you're working together to do this it's",
+      "start": 3023.119,
+      "duration": 3.601
+    },
+    {
+      "text": "amazing so the study that you've meant",
+      "start": 3024.559,
+      "duration": 4.361
+    },
+    {
+      "text": "mentioned on um the study that is going",
+      "start": 3026.72,
+      "duration": 3.839
+    },
+    {
+      "text": "to be launching I'll make sure that",
+      "start": 3028.92,
+      "duration": 4.199
+    },
+    {
+      "text": "links to that go into the show notes so",
+      "start": 3030.559,
+      "duration": 4.56
+    },
+    {
+      "text": "if there's anybody interested in that",
+      "start": 3033.119,
+      "duration": 4.401
+    },
+    {
+      "text": "then they can absolutely follow that up",
+      "start": 3035.119,
+      "duration": 5.881
+    },
+    {
+      "text": "um so yeah thank you so much good luck",
+      "start": 3037.52,
+      "duration": 5.599
+    },
+    {
+      "text": "and maybe you come back and talk to me",
+      "start": 3041.0,
+      "duration": 5.079
+    },
+    {
+      "text": "once you have some results yeah know",
+      "start": 3043.119,
+      "duration": 4.96
+    },
+    {
+      "text": "we'd love to do that thank you so much",
+      "start": 3046.079,
+      "duration": 4.201
+    },
+    {
+      "text": "to all of my guests and to you for",
+      "start": 3048.079,
+      "duration": 4.72
+    },
+    {
+      "text": "listening I hope you've enjoyed it or at",
+      "start": 3050.28,
+      "duration": 5.319
+    },
+    {
+      "text": "least found it useful the long Co",
+      "start": 3052.799,
+      "duration": 4.841
+    },
+    {
+      "text": "podcast is entirely self- produced and",
+      "start": 3055.599,
+      "duration": 5.601
+    },
+    {
+      "text": "self-funded I'm doing all of this myself",
+      "start": 3057.64,
+      "duration": 6.36
+    },
+    {
+      "text": "if you're able to please go to buy meac",
+      "start": 3061.2,
+      "duration": 6.68
+    },
+    {
+      "text": "coffee.com slco pod to help me cover the",
+      "start": 3064.0,
+      "duration": 5.64
+    },
+    {
+      "text": "costs of hosting the",
+      "start": 3067.88,
+      "duration": 3.84
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 3069.64,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of the longid podcast it's",
+      "start": 3071.72,
+      "duration": 4.16
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 3073.88,
+      "duration": 5.08
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 3075.88,
+      "duration": 6.76
+    },
+    {
+      "text": "love to hear from you",
+      "start": 3078.96,
+      "duration": 3.68
+    }
+  ],
+  "metadata": {
+    "title": "128 - Nigel McCracken & Sean Knight - Research into T-Cell Exhaustion",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/vojQb8RemM0/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 128,
+    "title": "128 - Nigel McCracken & Sean Knight - Research into T-Cell Exhaustion",
+    "videoId": "vojQb8RemM0",
+    "lengthText": "51:28"
+  }
+}

@@ -1,0 +1,5788 @@
+{
+  "video_id": "mzVyPq7cmh0",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long Co podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.16,
+      "duration": 6.28
+    },
+    {
+      "text": "The Long cover podcast I am absolutely",
+      "start": 58.399,
+      "duration": 5.241
+    },
+    {
+      "text": "delighted to be joined today by Harlen",
+      "start": 61.44,
+      "duration": 6.28
+    },
+    {
+      "text": "crom Holtz who is a cardiologist and",
+      "start": 63.64,
+      "duration": 7.68
+    },
+    {
+      "text": "leading research scientist at Yale and",
+      "start": 67.72,
+      "duration": 5.84
+    },
+    {
+      "text": "also the co-lead of the Yale Pax loid",
+      "start": 71.32,
+      "duration": 4.52
+    },
+    {
+      "text": "trial so I'm really really excited to",
+      "start": 73.56,
+      "duration": 4.44
+    },
+    {
+      "text": "get into all of this today a very warm",
+      "start": 75.84,
+      "duration": 4.599
+    },
+    {
+      "text": "welcome to the podcast oh thanks so much",
+      "start": 78.0,
+      "duration": 4.439
+    },
+    {
+      "text": "Jackie thanks for inviting me to be on",
+      "start": 80.439,
+      "duration": 4.68
+    },
+    {
+      "text": "so I'm really excited to dive all into",
+      "start": 82.439,
+      "duration": 4.841
+    },
+    {
+      "text": "all of this but maybe before we do that",
+      "start": 85.119,
+      "duration": 4.32
+    },
+    {
+      "text": "would you mind just saying maybe just a",
+      "start": 87.28,
+      "duration": 4.199
+    },
+    {
+      "text": "little bit more more about yourself and",
+      "start": 89.439,
+      "duration": 4.64
+    },
+    {
+      "text": "what it is that you do yeah so as you",
+      "start": 91.479,
+      "duration": 5.241
+    },
+    {
+      "text": "said I'm a cardiologist I I still see",
+      "start": 94.079,
+      "duration": 5.601
+    },
+    {
+      "text": "patients though much less than I used to",
+      "start": 96.72,
+      "duration": 5.28
+    },
+    {
+      "text": "but my major focus is as director of the",
+      "start": 99.68,
+      "duration": 3.64
+    },
+    {
+      "text": "center for outcomes research and",
+      "start": 102.0,
+      "duration": 3.52
+    },
+    {
+      "text": "evaluation that we have at y a group of",
+      "start": 103.32,
+      "duration": 4.68
+    },
+    {
+      "text": "people who are intent on on trying to",
+      "start": 105.52,
+      "duration": 4.32
+    },
+    {
+      "text": "make health care and healthare outcomes",
+      "start": 108.0,
+      "duration": 4.2
+    },
+    {
+      "text": "better and a group that really measures",
+      "start": 109.84,
+      "duration": 4.52
+    },
+    {
+      "text": "our success not in number of papers or",
+      "start": 112.2,
+      "duration": 3.519
+    },
+    {
+      "text": "grants but actually whether we've been",
+      "start": 114.36,
+      "duration": 3.0
+    },
+    {
+      "text": "able to contribute substantively to",
+      "start": 115.719,
+      "duration": 4.72
+    },
+    {
+      "text": "tangible benefits for people so you know",
+      "start": 117.36,
+      "duration": 4.92
+    },
+    {
+      "text": "we we do a lot of different things we",
+      "start": 120.439,
+      "duration": 3.201
+    },
+    {
+      "text": "have people working with the government",
+      "start": 122.28,
+      "duration": 3.6
+    },
+    {
+      "text": "on policies we have people working on",
+      "start": 123.64,
+      "duration": 4.72
+    },
+    {
+      "text": "clinical research studies we we're",
+      "start": 125.88,
+      "duration": 4.04
+    },
+    {
+      "text": "trying to understand how we can be",
+      "start": 128.36,
+      "duration": 3.32
+    },
+    {
+      "text": "better accountable for what it is we're",
+      "start": 129.92,
+      "duration": 3.72
+    },
+    {
+      "text": "spending in healthcare and the kind of",
+      "start": 131.68,
+      "duration": 3.96
+    },
+    {
+      "text": "services we're providing we're trying to",
+      "start": 133.64,
+      "duration": 3.84
+    },
+    {
+      "text": "understand over time whether we're",
+      "start": 135.64,
+      "duration": 3.28
+    },
+    {
+      "text": "really making any progress that's",
+      "start": 137.48,
+      "duration": 4.08
+    },
+    {
+      "text": "meaningful we look at Effectiveness and",
+      "start": 138.92,
+      "duration": 5.28
+    },
+    {
+      "text": "efficiency and equity and patient",
+      "start": 141.56,
+      "duration": 5.319
+    },
+    {
+      "text": "centeredness safety timeliness of of",
+      "start": 144.2,
+      "duration": 4.759
+    },
+    {
+      "text": "healthc care delivery but also whether",
+      "start": 146.879,
+      "duration": 3.921
+    },
+    {
+      "text": "or not there's actual evidence that that",
+      "start": 148.959,
+      "duration": 3.401
+    },
+    {
+      "text": "people are getting healthier better you",
+      "start": 150.8,
+      "duration": 2.76
+    },
+    {
+      "text": "know that people are able to live longer",
+      "start": 152.36,
+      "duration": 3.8
+    },
+    {
+      "text": "and healthier lives so you know it's a",
+      "start": 153.56,
+      "duration": 4.84
+    },
+    {
+      "text": "it's a great group and it's a group and",
+      "start": 156.16,
+      "duration": 3.68
+    },
+    {
+      "text": "still with that kind of Mission to",
+      "start": 158.4,
+      "duration": 3.8
+    },
+    {
+      "text": "actually try to make the world better",
+      "start": 159.84,
+      "duration": 6.039
+    },
+    {
+      "text": "yeah definitely I think that's like the",
+      "start": 162.2,
+      "duration": 6.72
+    },
+    {
+      "text": "point of Health Care is to make people",
+      "start": 165.879,
+      "duration": 5.921
+    },
+    {
+      "text": "healthier is it is it I don't know well",
+      "start": 168.92,
+      "duration": 5.2
+    },
+    {
+      "text": "it should be look I I was socialized",
+      "start": 171.8,
+      "duration": 3.799
+    },
+    {
+      "text": "with the system I would say our Health",
+      "start": 174.12,
+      "duration": 4.039
+    },
+    {
+      "text": "Care system which has extraordinary",
+      "start": 175.599,
+      "duration": 4.241
+    },
+    {
+      "text": "Heroes you know in every different Nook",
+      "start": 178.159,
+      "duration": 3.921
+    },
+    {
+      "text": "and cranny uh and lots of people who are",
+      "start": 179.84,
+      "duration": 4.8
+    },
+    {
+      "text": "truly dedicated but they're locked in a",
+      "start": 182.08,
+      "duration": 5.4
+    },
+    {
+      "text": "system that's primarily reactionary and",
+      "start": 184.64,
+      "duration": 5.0
+    },
+    {
+      "text": "and also very hierarchical not one in",
+      "start": 187.48,
+      "duration": 5.72
+    },
+    {
+      "text": "which we try to instill a sense of of",
+      "start": 189.64,
+      "duration": 4.92
+    },
+    {
+      "text": "you know what's the perspective of the",
+      "start": 193.2,
+      "duration": 2.599
+    },
+    {
+      "text": "people who are ill are trying to get",
+      "start": 194.56,
+      "duration": 2.959
+    },
+    {
+      "text": "help I mean it's still more like a",
+      "start": 195.799,
+      "duration": 3.881
+    },
+    {
+      "text": "battle Zone triage which is you know",
+      "start": 197.519,
+      "duration": 3.72
+    },
+    {
+      "text": "everyone's lucky to get whatever they",
+      "start": 199.68,
+      "duration": 4.279
+    },
+    {
+      "text": "get and you know and it can be extended",
+      "start": 201.239,
+      "duration": 4.041
+    },
+    {
+      "text": "time for appointments or sitting in a",
+      "start": 203.959,
+      "duration": 3.64
+    },
+    {
+      "text": "waiting room or just the way people are",
+      "start": 205.28,
+      "duration": 3.92
+    },
+    {
+      "text": "sometimes dismissed again not because",
+      "start": 207.599,
+      "duration": 3.36
+    },
+    {
+      "text": "people aren't well meaning or dedicated",
+      "start": 209.2,
+      "duration": 3.679
+    },
+    {
+      "text": "but but the structure of the system",
+      "start": 210.959,
+      "duration": 3.761
+    },
+    {
+      "text": "isn't set up and that's why you're",
+      "start": 212.879,
+      "duration": 3.401
+    },
+    {
+      "text": "seeing the burnout on the healthcare",
+      "start": 214.72,
+      "duration": 4.2
+    },
+    {
+      "text": "provider side and and on the patients I",
+      "start": 216.28,
+      "duration": 5.2
+    },
+    {
+      "text": "I mean in a way there's just a a sense",
+      "start": 218.92,
+      "duration": 4.959
+    },
+    {
+      "text": "of acceptance for like this is just the",
+      "start": 221.48,
+      "duration": 4.679
+    },
+    {
+      "text": "way that the system is and instead we",
+      "start": 223.879,
+      "duration": 4.481
+    },
+    {
+      "text": "could be driving to to Delight people by",
+      "start": 226.159,
+      "duration": 4.08
+    },
+    {
+      "text": "their experiences in healthcare to try",
+      "start": 228.36,
+      "duration": 3.36
+    },
+    {
+      "text": "to understand what is it that truly",
+      "start": 230.239,
+      "duration": 2.881
+    },
+    {
+      "text": "makes a difference for them with regard",
+      "start": 231.72,
+      "duration": 3.719
+    },
+    {
+      "text": "to their interactions to move away from",
+      "start": 233.12,
+      "duration": 5.44
+    },
+    {
+      "text": "transactions to relationships how can we",
+      "start": 235.439,
+      "duration": 5.36
+    },
+    {
+      "text": "help people to Anchor to individuals who",
+      "start": 238.56,
+      "duration": 4.319
+    },
+    {
+      "text": "truly know them and are invested in",
+      "start": 240.799,
+      "duration": 5.44
+    },
+    {
+      "text": "their success and yes I mean you know",
+      "start": 242.879,
+      "duration": 5.321
+    },
+    {
+      "text": "there's sometimes not always alignment",
+      "start": 246.239,
+      "duration": 3.84
+    },
+    {
+      "text": "between the person you're seeing and the",
+      "start": 248.2,
+      "duration": 4.879
+    },
+    {
+      "text": "person who's who's seeking care but then",
+      "start": 250.079,
+      "duration": 4.88
+    },
+    {
+      "text": "we should seek where there is alignment",
+      "start": 253.079,
+      "duration": 3.84
+    },
+    {
+      "text": "or people can have honest conversations",
+      "start": 254.959,
+      "duration": 3.921
+    },
+    {
+      "text": "but increasingly in healthcare I mean I",
+      "start": 256.919,
+      "duration": 4.241
+    },
+    {
+      "text": "think you feel lucky if things work out",
+      "start": 258.88,
+      "duration": 3.759
+    },
+    {
+      "text": "and you know the NHS is of course",
+      "start": 261.16,
+      "duration": 3.8
+    },
+    {
+      "text": "experiencing you know a real crisis you",
+      "start": 262.639,
+      "duration": 4.921
+    },
+    {
+      "text": "know of funding but but more than that",
+      "start": 264.96,
+      "duration": 5.48
+    },
+    {
+      "text": "of organization and and we have it too I",
+      "start": 267.56,
+      "duration": 5.079
+    },
+    {
+      "text": "mean you know we pay per thing done you",
+      "start": 270.44,
+      "duration": 4.44
+    },
+    {
+      "text": "know there's an intense drive to to",
+      "start": 272.639,
+      "duration": 4.0
+    },
+    {
+      "text": "actually just do tests and procedures",
+      "start": 274.88,
+      "duration": 3.879
+    },
+    {
+      "text": "rather than actually have conversations",
+      "start": 276.639,
+      "duration": 4.641
+    },
+    {
+      "text": "and develop relationships which which",
+      "start": 278.759,
+      "duration": 5.0
+    },
+    {
+      "text": "aren't reimbursed to the same extent and",
+      "start": 281.28,
+      "duration": 4.16
+    },
+    {
+      "text": "and in fact are are diminished with",
+      "start": 283.759,
+      "duration": 4.72
+    },
+    {
+      "text": "regard to their importance so you know",
+      "start": 285.44,
+      "duration": 6.599
+    },
+    {
+      "text": "this isn't in any way to undermine you",
+      "start": 288.479,
+      "duration": 6.16
+    },
+    {
+      "text": "know the intent and and in the hopes of",
+      "start": 292.039,
+      "duration": 4.0
+    },
+    {
+      "text": "all the people who are working in the",
+      "start": 294.639,
+      "duration": 3.0
+    },
+    {
+      "text": "system but just to say there's got to be",
+      "start": 296.039,
+      "duration": 4.081
+    },
+    {
+      "text": "better ways to do this yeah this is",
+      "start": 297.639,
+      "duration": 4.641
+    },
+    {
+      "text": "something that I've noticed with long",
+      "start": 300.12,
+      "duration": 5.16
+    },
+    {
+      "text": "covid I mean I was I was lucky to never",
+      "start": 302.28,
+      "duration": 5.88
+    },
+    {
+      "text": "really need health care until I had long",
+      "start": 305.28,
+      "duration": 6.04
+    },
+    {
+      "text": "Co um so then it was a bit of a kind of",
+      "start": 308.16,
+      "duration": 5.599
+    },
+    {
+      "text": "an eye opener that you know that there",
+      "start": 311.32,
+      "duration": 5.48
+    },
+    {
+      "text": "didn't seem to be overall thinking",
+      "start": 313.759,
+      "duration": 5.481
+    },
+    {
+      "text": "between sort of Specialties there wasn't",
+      "start": 316.8,
+      "duration": 3.959
+    },
+    {
+      "text": "people that were looking at the bigger",
+      "start": 319.24,
+      "duration": 3.56
+    },
+    {
+      "text": "picture and actually it was kind of the",
+      "start": 320.759,
+      "duration": 4.521
+    },
+    {
+      "text": "opposite that actually a lot of people",
+      "start": 322.8,
+      "duration": 4.0
+    },
+    {
+      "text": "seem to be experiencing things like",
+      "start": 325.28,
+      "duration": 2.96
+    },
+    {
+      "text": "gaslighting you know where where they",
+      "start": 326.8,
+      "duration": 3.959
+    },
+    {
+      "text": "won't even be believed and this isn't",
+      "start": 328.24,
+      "duration": 4.04
+    },
+    {
+      "text": "Everybody by any means you know there",
+      "start": 330.759,
+      "duration": 5.081
+    },
+    {
+      "text": "are huge numbers of extremely capable",
+      "start": 332.28,
+      "duration": 5.68
+    },
+    {
+      "text": "and empathetic and amazing you know",
+      "start": 335.84,
+      "duration": 4.72
+    },
+    {
+      "text": "Healthcare Providers out there but it",
+      "start": 337.96,
+      "duration": 4.64
+    },
+    {
+      "text": "was definitely a bit of an eye opener",
+      "start": 340.56,
+      "duration": 5.199
+    },
+    {
+      "text": "that there were so many that weren't so",
+      "start": 342.6,
+      "duration": 4.48
+    },
+    {
+      "text": "there are things that that could be",
+      "start": 345.759,
+      "duration": 2.44
+    },
+    {
+      "text": "better I",
+      "start": 347.08,
+      "duration": 3.92
+    },
+    {
+      "text": "think well I I I think long Co stressed",
+      "start": 348.199,
+      "duration": 5.161
+    },
+    {
+      "text": "the system in a in a kind of a little",
+      "start": 351.0,
+      "duration": 3.639
+    },
+    {
+      "text": "bit of a different way so here you have",
+      "start": 353.36,
+      "duration": 3.48
+    },
+    {
+      "text": "a system that's set up for short",
+      "start": 354.639,
+      "duration": 4.321
+    },
+    {
+      "text": "interactions transactions trying to move",
+      "start": 356.84,
+      "duration": 4.04
+    },
+    {
+      "text": "people to ex exactly what they need",
+      "start": 358.96,
+      "duration": 3.92
+    },
+    {
+      "text": "rapid pattern recognition and moving",
+      "start": 360.88,
+      "duration": 4.56
+    },
+    {
+      "text": "people into wherever it is that that",
+      "start": 362.88,
+      "duration": 4.48
+    },
+    {
+      "text": "whatever they have ought to be treated",
+      "start": 365.44,
+      "duration": 3.8
+    },
+    {
+      "text": "and so forth and then all of a sudden",
+      "start": 367.36,
+      "duration": 3.239
+    },
+    {
+      "text": "you have the emergence of something",
+      "start": 369.24,
+      "duration": 3.48
+    },
+    {
+      "text": "which doesn't fit a pattern and a bunch",
+      "start": 370.599,
+      "duration": 4.88
+    },
+    {
+      "text": "of people who actually need time and",
+      "start": 372.72,
+      "duration": 4.479
+    },
+    {
+      "text": "investment to understand what they're",
+      "start": 375.479,
+      "duration": 4.201
+    },
+    {
+      "text": "experiencing to catalog the set of",
+      "start": 377.199,
+      "duration": 5.56
+    },
+    {
+      "text": "symptoms they have to be able to uh try",
+      "start": 379.68,
+      "duration": 5.639
+    },
+    {
+      "text": "and and in some ways even individually",
+      "start": 382.759,
+      "duration": 4.601
+    },
+    {
+      "text": "experiment with different strategies",
+      "start": 385.319,
+      "duration": 3.841
+    },
+    {
+      "text": "that might might make them feel a little",
+      "start": 387.36,
+      "duration": 4.32
+    },
+    {
+      "text": "bit better while other work is going on",
+      "start": 389.16,
+      "duration": 4.52
+    },
+    {
+      "text": "to try to understand the underlying",
+      "start": 391.68,
+      "duration": 3.959
+    },
+    {
+      "text": "basis for what it is that's affecting",
+      "start": 393.68,
+      "duration": 4.6
+    },
+    {
+      "text": "them and and when you have a system that",
+      "start": 395.639,
+      "duration": 4.481
+    },
+    {
+      "text": "again is like everyone's on the edge",
+      "start": 398.28,
+      "duration": 3.24
+    },
+    {
+      "text": "there's no margin you know people are",
+      "start": 400.12,
+      "duration": 3.359
+    },
+    {
+      "text": "feeling already stressed out and in the",
+      "start": 401.52,
+      "duration": 4.239
+    },
+    {
+      "text": "course of long covid it fell into a",
+      "start": 403.479,
+      "duration": 5.201
+    },
+    {
+      "text": "moment where acute covid was already",
+      "start": 405.759,
+      "duration": 6.121
+    },
+    {
+      "text": "again stressing a a fragile system you",
+      "start": 408.68,
+      "duration": 5.68
+    },
+    {
+      "text": "know then then people with long covid",
+      "start": 411.88,
+      "duration": 6.12
+    },
+    {
+      "text": "were often brushed aside and and I",
+      "start": 414.36,
+      "duration": 6.04
+    },
+    {
+      "text": "always say you know not that the healthc",
+      "start": 418.0,
+      "duration": 4.24
+    },
+    {
+      "text": "Care Professionals like I am you know",
+      "start": 420.4,
+      "duration": 4.84
+    },
+    {
+      "text": "deserve more or or even an ounce of of",
+      "start": 422.24,
+      "duration": 4.399
+    },
+    {
+      "text": "sympathy compared to the people who are",
+      "start": 425.24,
+      "duration": 3.16
+    },
+    {
+      "text": "actually suffering from the disease but",
+      "start": 426.639,
+      "duration": 4.0
+    },
+    {
+      "text": "there's an intense sense of of",
+      "start": 428.4,
+      "duration": 4.28
+    },
+    {
+      "text": "inadequacy you know when people show up",
+      "start": 430.639,
+      "duration": 3.68
+    },
+    {
+      "text": "and and the inadequacy manifests in",
+      "start": 432.68,
+      "duration": 3.88
+    },
+    {
+      "text": "multiple ways I mean in in lack of",
+      "start": 434.319,
+      "duration": 5.081
+    },
+    {
+      "text": "evidence in in lack of knowledge but",
+      "start": 436.56,
+      "duration": 4.52
+    },
+    {
+      "text": "also lack of time I mean people are",
+      "start": 439.4,
+      "duration": 4.28
+    },
+    {
+      "text": "showing up with with mystery conditions",
+      "start": 441.08,
+      "duration": 4.36
+    },
+    {
+      "text": "mystery in the sense never really well",
+      "start": 443.68,
+      "duration": 4.4
+    },
+    {
+      "text": "characterized before and it's not like",
+      "start": 445.44,
+      "duration": 4.28
+    },
+    {
+      "text": "you're given an hour and a half to",
+      "start": 448.08,
+      "duration": 3.48
+    },
+    {
+      "text": "ponder it with them and to catalog it",
+      "start": 449.72,
+      "duration": 3.879
+    },
+    {
+      "text": "you're you're being pushed to to move",
+      "start": 451.56,
+      "duration": 5.639
+    },
+    {
+      "text": "them in and out of the clinics and so",
+      "start": 453.599,
+      "duration": 6.16
+    },
+    {
+      "text": "you know it's just it's a moment where",
+      "start": 457.199,
+      "duration": 4.44
+    },
+    {
+      "text": "yeah the doctors and nurses and healthc",
+      "start": 459.759,
+      "duration": 4.88
+    },
+    {
+      "text": "care providers are feeling inadequate",
+      "start": 461.639,
+      "duration": 5.12
+    },
+    {
+      "text": "and and people who have the conditions",
+      "start": 464.639,
+      "duration": 3.881
+    },
+    {
+      "text": "are wondering what the heck just",
+      "start": 466.759,
+      "duration": 3.28
+    },
+    {
+      "text": "happened I mean you know I I saw",
+      "start": 468.52,
+      "duration": 3.519
+    },
+    {
+      "text": "somebody and they had little to offer",
+      "start": 470.039,
+      "duration": 4.041
+    },
+    {
+      "text": "they didn't even spend that much time",
+      "start": 472.039,
+      "duration": 3.801
+    },
+    {
+      "text": "and I have the feeling that they think",
+      "start": 474.08,
+      "duration": 4.92
+    },
+    {
+      "text": "it's all in my head and you know that",
+      "start": 475.84,
+      "duration": 5.88
+    },
+    {
+      "text": "that comes then insult to injury to",
+      "start": 479.0,
+      "duration": 4.919
+    },
+    {
+      "text": "people who are suffering and and on the",
+      "start": 481.72,
+      "duration": 5.159
+    },
+    {
+      "text": "healthare side I think it's it's a sense",
+      "start": 483.919,
+      "duration": 6.041
+    },
+    {
+      "text": "of feeling overwhelmed by the problem",
+      "start": 486.879,
+      "duration": 5.0
+    },
+    {
+      "text": "because you know until someone starts to",
+      "start": 489.96,
+      "duration": 3.04
+    },
+    {
+      "text": "provide some",
+      "start": 491.879,
+      "duration": 3.481
+    },
+    {
+      "text": "evidence just about what to do what",
+      "start": 493.0,
+      "duration": 4.199
+    },
+    {
+      "text": "would be might be the next steps you",
+      "start": 495.36,
+      "duration": 3.92
+    },
+    {
+      "text": "know all you have are anecdotes and",
+      "start": 497.199,
+      "duration": 3.96
+    },
+    {
+      "text": "people in N of one experiments that",
+      "start": 499.28,
+      "duration": 4.199
+    },
+    {
+      "text": "they're running on themselves and really",
+      "start": 501.159,
+      "duration": 6.081
+    },
+    {
+      "text": "little reliable information it's a setup",
+      "start": 503.479,
+      "duration": 6.081
+    },
+    {
+      "text": "for what we saw which is everybody being",
+      "start": 507.24,
+      "duration": 4.88
+    },
+    {
+      "text": "dissatisfied and no one being happy and",
+      "start": 509.56,
+      "duration": 4.32
+    },
+    {
+      "text": "people suffering without relief and",
+      "start": 512.12,
+      "duration": 4.359
+    },
+    {
+      "text": "feeling dismissed yeah I think that's a",
+      "start": 513.88,
+      "duration": 4.2
+    },
+    {
+      "text": "really good point you know the the sheer",
+      "start": 516.479,
+      "duration": 4.601
+    },
+    {
+      "text": "pressure on on the Health Care system",
+      "start": 518.08,
+      "duration": 4.8
+    },
+    {
+      "text": "and although there's not really any",
+      "start": 521.08,
+      "duration": 4.64
+    },
+    {
+      "text": "excuse for gaslighting I think you know",
+      "start": 522.88,
+      "duration": 4.32
+    },
+    {
+      "text": "yeah the healthc Care Professionals are",
+      "start": 525.72,
+      "duration": 3.52
+    },
+    {
+      "text": "really really struggling even even if",
+      "start": 527.2,
+      "duration": 3.56
+    },
+    {
+      "text": "they do have the best will in the world",
+      "start": 529.24,
+      "duration": 4.76
+    },
+    {
+      "text": "which many of them do so what brought",
+      "start": 530.76,
+      "duration": 6.8
+    },
+    {
+      "text": "you specifically into long Co",
+      "start": 534.0,
+      "duration": 6.519
+    },
+    {
+      "text": "research yeah it's not an that's that's",
+      "start": 537.56,
+      "duration": 5.64
+    },
+    {
+      "text": "natural to me I you know I've spent my",
+      "start": 540.519,
+      "duration": 4.361
+    },
+    {
+      "text": "most of my career in cardiology our",
+      "start": 543.2,
+      "duration": 3.96
+    },
+    {
+      "text": "group actually does look at a wide range",
+      "start": 544.88,
+      "duration": 4.399
+    },
+    {
+      "text": "of issues and again you know works with",
+      "start": 547.16,
+      "duration": 3.679
+    },
+    {
+      "text": "the government and other groups around a",
+      "start": 549.279,
+      "duration": 4.081
+    },
+    {
+      "text": "whole range of conditions but you know",
+      "start": 550.839,
+      "duration": 4.321
+    },
+    {
+      "text": "immunology and infectious disease wasn't",
+      "start": 553.36,
+      "duration": 4.52
+    },
+    {
+      "text": "an area that I was spending much time in",
+      "start": 555.16,
+      "duration": 4.04
+    },
+    {
+      "text": "you know maybe when I was in high school",
+      "start": 557.88,
+      "duration": 2.84
+    },
+    {
+      "text": "I worked in an Immunology lab that was",
+      "start": 559.2,
+      "duration": 3.84
+    },
+    {
+      "text": "my last exposure you know what happened",
+      "start": 560.72,
+      "duration": 5.359
+    },
+    {
+      "text": "was that when the pandemic emerged a lot",
+      "start": 563.04,
+      "duration": 4.76
+    },
+    {
+      "text": "of us who had skills you know tried to",
+      "start": 566.079,
+      "duration": 2.921
+    },
+    {
+      "text": "figure out where could we apply our",
+      "start": 567.8,
+      "duration": 5.0
+    },
+    {
+      "text": "skills and for me you know I I I have",
+      "start": 569.0,
+      "duration": 6.56
+    },
+    {
+      "text": "clinical skills but maybe my my best",
+      "start": 572.8,
+      "duration": 5.479
+    },
+    {
+      "text": "unique skills are in clinical research I",
+      "start": 575.56,
+      "duration": 5.0
+    },
+    {
+      "text": "mean trying to apply Creative Energy to",
+      "start": 578.279,
+      "duration": 4.441
+    },
+    {
+      "text": "seeing if we can generate evidence that",
+      "start": 580.56,
+      "duration": 4.399
+    },
+    {
+      "text": "might help us move forward in rational",
+      "start": 582.72,
+      "duration": 4.6
+    },
+    {
+      "text": "ways and so you know I began to get",
+      "start": 584.959,
+      "duration": 4.921
+    },
+    {
+      "text": "involved in clinical research and in",
+      "start": 587.32,
+      "duration": 3.92
+    },
+    {
+      "text": "public health research around the",
+      "start": 589.88,
+      "duration": 5.16
+    },
+    {
+      "text": "pandemic around its spread it's toll the",
+      "start": 591.24,
+      "duration": 6.279
+    },
+    {
+      "text": "disparities uh who's being infected you",
+      "start": 595.04,
+      "duration": 5.28
+    },
+    {
+      "text": "know how best to mitigate I got on like",
+      "start": 597.519,
+      "duration": 5.201
+    },
+    {
+      "text": "in Connecticut the state I live in we",
+      "start": 600.32,
+      "duration": 4.199
+    },
+    {
+      "text": "the governor put together a panel about",
+      "start": 602.72,
+      "duration": 3.52
+    },
+    {
+      "text": "you know how do we reopen Connecticut",
+      "start": 604.519,
+      "duration": 4.081
+    },
+    {
+      "text": "and and so I was beginning to get it was",
+      "start": 606.24,
+      "duration": 5.719
+    },
+    {
+      "text": "pulling me in in New Directions and then",
+      "start": 608.6,
+      "duration": 5.56
+    },
+    {
+      "text": "in the course of that I became aware",
+      "start": 611.959,
+      "duration": 4.841
+    },
+    {
+      "text": "that there was this long tale for some",
+      "start": 614.16,
+      "duration": 4.0
+    },
+    {
+      "text": "people with regard to the pandemic so",
+      "start": 616.8,
+      "duration": 2.76
+    },
+    {
+      "text": "while we were working on on studies on",
+      "start": 618.16,
+      "duration": 3.28
+    },
+    {
+      "text": "the acute phase I I became aware that",
+      "start": 619.56,
+      "duration": 3.48
+    },
+    {
+      "text": "there was a large number of people who",
+      "start": 621.44,
+      "duration": 4.8
+    },
+    {
+      "text": "were who were suffering Without End and",
+      "start": 623.04,
+      "duration": 6.4
+    },
+    {
+      "text": "and that this was a real a real mystery",
+      "start": 626.24,
+      "duration": 5.08
+    },
+    {
+      "text": "and by the way I'm also looking at",
+      "start": 629.44,
+      "duration": 4.079
+    },
+    {
+      "text": "people who are reporting vaccine injury",
+      "start": 631.32,
+      "duration": 3.48
+    },
+    {
+      "text": "there's some people with a chronic",
+      "start": 633.519,
+      "duration": 3.88
+    },
+    {
+      "text": "condition long term that you know that",
+      "start": 634.8,
+      "duration": 4.279
+    },
+    {
+      "text": "the vaccine I believe was a great modern",
+      "start": 637.399,
+      "duration": 3.761
+    },
+    {
+      "text": "Miracle saved millions and millions of",
+      "start": 639.079,
+      "duration": 3.76
+    },
+    {
+      "text": "lives but there may be some people who",
+      "start": 641.16,
+      "duration": 4.04
+    },
+    {
+      "text": "were who in fact had harms as a result",
+      "start": 642.839,
+      "duration": 4.721
+    },
+    {
+      "text": "of it like most vaccines like most",
+      "start": 645.2,
+      "duration": 4.24
+    },
+    {
+      "text": "interventions in medicine you know it",
+      "start": 647.56,
+      "duration": 4.44
+    },
+    {
+      "text": "could things could be very positive for",
+      "start": 649.44,
+      "duration": 4.12
+    },
+    {
+      "text": "on the average but they're still can be",
+      "start": 652.0,
+      "duration": 4.0
+    },
+    {
+      "text": "people affected but you you know and",
+      "start": 653.56,
+      "duration": 4.68
+    },
+    {
+      "text": "then I I was on a panel with a Kiko I",
+      "start": 656.0,
+      "duration": 4.399
+    },
+    {
+      "text": "wasaki and we began talking of course I",
+      "start": 658.24,
+      "duration": 4.52
+    },
+    {
+      "text": "have such great admiration for her she's",
+      "start": 660.399,
+      "duration": 5.041
+    },
+    {
+      "text": "remarkable person as well as scientists",
+      "start": 662.76,
+      "duration": 5.44
+    },
+    {
+      "text": "and and we started having some",
+      "start": 665.44,
+      "duration": 5.76
+    },
+    {
+      "text": "discussions and and I had been tinkering",
+      "start": 668.2,
+      "duration": 6.319
+    },
+    {
+      "text": "with approaches to accelerate science in",
+      "start": 671.2,
+      "duration": 6.84
+    },
+    {
+      "text": "ways that would be partnered with people",
+      "start": 674.519,
+      "duration": 4.641
+    },
+    {
+      "text": "that that really wouldn't call them",
+      "start": 678.04,
+      "duration": 2.919
+    },
+    {
+      "text": "subjects anymore but really partners and",
+      "start": 679.16,
+      "duration": 3.72
+    },
+    {
+      "text": "participants and that we could be using",
+      "start": 680.959,
+      "duration": 4.201
+    },
+    {
+      "text": "digital and decentralized decentralized",
+      "start": 682.88,
+      "duration": 4.48
+    },
+    {
+      "text": "meaning they didn't have to go to a site",
+      "start": 685.16,
+      "duration": 4.16
+    },
+    {
+      "text": "you know because many people it's",
+      "start": 687.36,
+      "duration": 4.159
+    },
+    {
+      "text": "fatiguing to go somewhere or for those",
+      "start": 689.32,
+      "duration": 4.44
+    },
+    {
+      "text": "who have hourly jobs giving up hours to",
+      "start": 691.519,
+      "duration": 4.361
+    },
+    {
+      "text": "to go attend research visits I mean all",
+      "start": 693.76,
+      "duration": 4.319
+    },
+    {
+      "text": "these things can be burdensome and so I",
+      "start": 695.88,
+      "duration": 4.959
+    },
+    {
+      "text": "was starting to to develop approaches",
+      "start": 698.079,
+      "duration": 5.121
+    },
+    {
+      "text": "that might be able to speed research and",
+      "start": 700.839,
+      "duration": 4.68
+    },
+    {
+      "text": "make it more efficient and parti",
+      "start": 703.2,
+      "duration": 4.36
+    },
+    {
+      "text": "friendly and partner it partner it you",
+      "start": 705.519,
+      "duration": 3.801
+    },
+    {
+      "text": "know and and nikiko was very intrigued",
+      "start": 707.56,
+      "duration": 3.48
+    },
+    {
+      "text": "by this her research had largely been",
+      "start": 709.32,
+      "duration": 3.16
+    },
+    {
+      "text": "with animals before you know and then",
+      "start": 711.04,
+      "duration": 3.72
+    },
+    {
+      "text": "she was starting to turn towards uh",
+      "start": 712.48,
+      "duration": 4.599
+    },
+    {
+      "text": "actually human studies and so we started",
+      "start": 714.76,
+      "duration": 4.519
+    },
+    {
+      "text": "talking about what would happen if if we",
+      "start": 717.079,
+      "duration": 4.521
+    },
+    {
+      "text": "took a world-renowned immunologist and",
+      "start": 719.279,
+      "duration": 4.0
+    },
+    {
+      "text": "paired that person with a you know",
+      "start": 721.6,
+      "duration": 3.919
+    },
+    {
+      "text": "clinical scientist and we sort of",
+      "start": 723.279,
+      "duration": 5.481
+    },
+    {
+      "text": "started working in ways that for example",
+      "start": 725.519,
+      "duration": 5.361
+    },
+    {
+      "text": "you know we start characterizing the",
+      "start": 728.76,
+      "duration": 3.72
+    },
+    {
+      "text": "computational phenotypes the",
+      "start": 730.88,
+      "duration": 3.44
+    },
+    {
+      "text": "organization that the way I sort of talk",
+      "start": 732.48,
+      "duration": 3.32
+    },
+    {
+      "text": "about it is the map if you think",
+      "start": 734.32,
+      "duration": 4.24
+    },
+    {
+      "text": "conceptually that there's a big Atlas",
+      "start": 735.8,
+      "duration": 5.24
+    },
+    {
+      "text": "and now I'm trying to understand uh the",
+      "start": 738.56,
+      "duration": 5.279
+    },
+    {
+      "text": "geography and by the geography I mean",
+      "start": 741.04,
+      "duration": 4.56
+    },
+    {
+      "text": "people under under the umbrella of long",
+      "start": 743.839,
+      "duration": 4.44
+    },
+    {
+      "text": "coov have it's not just one condition as",
+      "start": 745.6,
+      "duration": 4.96
+    },
+    {
+      "text": "you know so well it's many different",
+      "start": 748.279,
+      "duration": 4.641
+    },
+    {
+      "text": "conditions it's family conditions so if",
+      "start": 750.56,
+      "duration": 3.8
+    },
+    {
+      "text": "we can start saying well there's this",
+      "start": 752.92,
+      "duration": 3.24
+    },
+    {
+      "text": "town where these people are manifesting",
+      "start": 754.36,
+      "duration": 3.32
+    },
+    {
+      "text": "it like this and there's you know this",
+      "start": 756.16,
+      "duration": 3.76
+    },
+    {
+      "text": "is what the map looks like and people",
+      "start": 757.68,
+      "duration": 5.32
+    },
+    {
+      "text": "are aggregating in different areas and",
+      "start": 759.92,
+      "duration": 4.359
+    },
+    {
+      "text": "some people are in the middle and some",
+      "start": 763.0,
+      "duration": 2.839
+    },
+    {
+      "text": "people are unique they live in like they",
+      "start": 764.279,
+      "duration": 3.321
+    },
+    {
+      "text": "live in a rural area by themselves like",
+      "start": 765.839,
+      "duration": 3.281
+    },
+    {
+      "text": "no one else is like them but a lot of",
+      "start": 767.6,
+      "duration": 4.72
+    },
+    {
+      "text": "other people are like lots of other",
+      "start": 769.12,
+      "duration": 5.36
+    },
+    {
+      "text": "people with long covid and different",
+      "start": 772.32,
+      "duration": 4.4
+    },
+    {
+      "text": "from other people and we start creating",
+      "start": 774.48,
+      "duration": 5.84
+    },
+    {
+      "text": "that Atlas and then on the biology side",
+      "start": 776.72,
+      "duration": 5.76
+    },
+    {
+      "text": "if Aiko's thousands of measurements and",
+      "start": 780.32,
+      "duration": 4.519
+    },
+    {
+      "text": "the kind of deep immune phenotyping that",
+      "start": 782.48,
+      "duration": 4.28
+    },
+    {
+      "text": "she and her lab does so well her lab is",
+      "start": 784.839,
+      "duration": 4.281
+    },
+    {
+      "text": "terrific you know the so so many bright",
+      "start": 786.76,
+      "duration": 5.48
+    },
+    {
+      "text": "and energetic folks who are working hard",
+      "start": 789.12,
+      "duration": 5.0
+    },
+    {
+      "text": "on this problem and if we can create a",
+      "start": 792.24,
+      "duration": 3.52
+    },
+    {
+      "text": "map on that side and then see if it",
+      "start": 794.12,
+      "duration": 3.839
+    },
+    {
+      "text": "overlays like can we see how certain",
+      "start": 795.76,
+      "duration": 4.12
+    },
+    {
+      "text": "manifestations correlate with certain",
+      "start": 797.959,
+      "duration": 4.161
+    },
+    {
+      "text": "biological signals and we can start",
+      "start": 799.88,
+      "duration": 4.04
+    },
+    {
+      "text": "moving on the way towards Diagnostics",
+      "start": 802.12,
+      "duration": 3.6
+    },
+    {
+      "text": "and and targets for Therapeutics and",
+      "start": 803.92,
+      "duration": 3.96
+    },
+    {
+      "text": "even Therapeutics themselves you know we",
+      "start": 805.72,
+      "duration": 4.0
+    },
+    {
+      "text": "can start to make some progress so that",
+      "start": 807.88,
+      "duration": 3.16
+    },
+    {
+      "text": "that was sort of the concept that we",
+      "start": 809.72,
+      "duration": 3.679
+    },
+    {
+      "text": "were hatching together of course it's",
+      "start": 811.04,
+      "duration": 5.0
+    },
+    {
+      "text": "it's so nice for me to be able to work",
+      "start": 813.399,
+      "duration": 5.041
+    },
+    {
+      "text": "with somebody on that side and someone",
+      "start": 816.04,
+      "duration": 6.039
+    },
+    {
+      "text": "so smart so kind so generous you know so",
+      "start": 818.44,
+      "duration": 5.8
+    },
+    {
+      "text": "that was a very much of a unique",
+      "start": 822.079,
+      "duration": 4.0
+    },
+    {
+      "text": "opportunity for me to Branch out from",
+      "start": 824.24,
+      "duration": 3.279
+    },
+    {
+      "text": "what I've been doing and it was also a",
+      "start": 826.079,
+      "duration": 3.721
+    },
+    {
+      "text": "chance to test could we show proof of",
+      "start": 827.519,
+      "duration": 4.56
+    },
+    {
+      "text": "concept for the kind of study that would",
+      "start": 829.8,
+      "duration": 3.92
+    },
+    {
+      "text": "respect and honor the people who are in",
+      "start": 832.079,
+      "duration": 4.68
+    },
+    {
+      "text": "the study it listen intently to their",
+      "start": 833.72,
+      "duration": 4.799
+    },
+    {
+      "text": "contributions and suggestions try to",
+      "start": 836.759,
+      "duration": 3.961
+    },
+    {
+      "text": "make it easy for them and to learn",
+      "start": 838.519,
+      "duration": 3.68
+    },
+    {
+      "text": "together and do things like always",
+      "start": 840.72,
+      "duration": 2.919
+    },
+    {
+      "text": "guarantee we're going to return results",
+      "start": 842.199,
+      "duration": 3.241
+    },
+    {
+      "text": "when we learn things we're going to",
+      "start": 843.639,
+      "duration": 3.56
+    },
+    {
+      "text": "share back if we can share any the",
+      "start": 845.44,
+      "duration": 3.6
+    },
+    {
+      "text": "research data back we'll share back",
+      "start": 847.199,
+      "duration": 3.76
+    },
+    {
+      "text": "we'll have Town Halls where people in",
+      "start": 849.04,
+      "duration": 3.2
+    },
+    {
+      "text": "the study get access to the",
+      "start": 850.959,
+      "duration": 2.641
+    },
+    {
+      "text": "investigators I've never done that",
+      "start": 852.24,
+      "duration": 4.68
+    },
+    {
+      "text": "before and it's been like amazing to do",
+      "start": 853.6,
+      "duration": 6.64
+    },
+    {
+      "text": "that and work hard so that people don't",
+      "start": 856.92,
+      "duration": 5.479
+    },
+    {
+      "text": "have to travel anywhere or they don't",
+      "start": 860.24,
+      "duration": 3.719
+    },
+    {
+      "text": "have to you know they can do everything",
+      "start": 862.399,
+      "duration": 3.12
+    },
+    {
+      "text": "from their home if they want to",
+      "start": 863.959,
+      "duration": 3.68
+    },
+    {
+      "text": "participate and so you know that's how I",
+      "start": 865.519,
+      "duration": 4.481
+    },
+    {
+      "text": "ended up doing this I mean a lot of my",
+      "start": 867.639,
+      "duration": 4.601
+    },
+    {
+      "text": "other work continues but I'm I'm really",
+      "start": 870.0,
+      "duration": 4.839
+    },
+    {
+      "text": "energized by the possibility and I have",
+      "start": 872.24,
+      "duration": 5.0
+    },
+    {
+      "text": "met so many people along this journey",
+      "start": 874.839,
+      "duration": 4.24
+    },
+    {
+      "text": "who so inspire me just because they get",
+      "start": 877.24,
+      "duration": 5.24
+    },
+    {
+      "text": "up and keep going and have hope that we",
+      "start": 879.079,
+      "duration": 5.481
+    },
+    {
+      "text": "will be able to figure this out and that",
+      "start": 882.48,
+      "duration": 3.84
+    },
+    {
+      "text": "their lives can be better even as the",
+      "start": 884.56,
+      "duration": 5.76
+    },
+    {
+      "text": "every day they're facing intense",
+      "start": 886.32,
+      "duration": 4.0
+    },
+    {
+      "text": "challenges we'll be right",
+      "start": 891.279,
+      "duration": 5.281
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 894.32,
+      "duration": 4.12
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 896.56,
+      "duration": 3.12
+    },
+    {
+      "text": "breathing",
+      "start": 898.44,
+      "duration": 2.639
+    },
+    {
+      "text": "The Fabulous Vicky Jones and I have",
+      "start": 899.68,
+      "duration": 3.719
+    },
+    {
+      "text": "teamed up to bring you long Co breathing",
+      "start": 901.079,
+      "duration": 3.921
+    },
+    {
+      "text": "we are both passionate about sharing our",
+      "start": 903.399,
+      "duration": 3.521
+    },
+    {
+      "text": "expertise and experience of the breath",
+      "start": 905.0,
+      "duration": 3.8
+    },
+    {
+      "text": "and how incredibly helpful that can be",
+      "start": 906.92,
+      "duration": 4.52
+    },
+    {
+      "text": "with lung covid we've worked together to",
+      "start": 908.8,
+      "duration": 4.279
+    },
+    {
+      "text": "develop a course that is specifically",
+      "start": 911.44,
+      "duration": 3.92
+    },
+    {
+      "text": "tailored to those with lung covid it's a",
+      "start": 913.079,
+      "duration": 4.841
+    },
+    {
+      "text": "6E course with 12 sessions all delivered",
+      "start": 915.36,
+      "duration": 4.8
+    },
+    {
+      "text": "online the community feel and learning",
+      "start": 917.92,
+      "duration": 4.32
+    },
+    {
+      "text": "that we're all sharing is such a joy to",
+      "start": 920.16,
+      "duration": 3.599
+    },
+    {
+      "text": "find out more information and to sign up",
+      "start": 922.24,
+      "duration": 3.039
+    },
+    {
+      "text": "for our courses workshops and other",
+      "start": 923.759,
+      "duration": 3.401
+    },
+    {
+      "text": "shorter sessions please check out the",
+      "start": 925.279,
+      "duration": 4.601
+    },
+    {
+      "text": "link below long Co breathing",
+      "start": 927.16,
+      "duration": 5.479
+    },
+    {
+      "text": "or email lco breathing gmail.com to",
+      "start": 929.88,
+      "duration": 4.18
+    },
+    {
+      "text": "start your breathing Journey with",
+      "start": 932.639,
+      "duration": 5.051
+    },
+    {
+      "text": "[Music]",
+      "start": 934.06,
+      "duration": 3.63
+    },
+    {
+      "text": "us yeah I mean I I have to say that this",
+      "start": 938.959,
+      "duration": 4.921
+    },
+    {
+      "text": "is one of the I don't know if Silver",
+      "start": 941.72,
+      "duration": 4.16
+    },
+    {
+      "text": "Linings is the right word but you know",
+      "start": 943.88,
+      "duration": 4.079
+    },
+    {
+      "text": "one one maybe positive to have come out",
+      "start": 945.88,
+      "duration": 4.28
+    },
+    {
+      "text": "of this whole awful experience of long",
+      "start": 947.959,
+      "duration": 5.641
+    },
+    {
+      "text": "Co is that I have spoken and connected",
+      "start": 950.16,
+      "duration": 6.2
+    },
+    {
+      "text": "with so many incredible people you know",
+      "start": 953.6,
+      "duration": 4.56
+    },
+    {
+      "text": "people with lco people who are looking",
+      "start": 956.36,
+      "duration": 3.279
+    },
+    {
+      "text": "into it and obviously there is a massive",
+      "start": 958.16,
+      "duration": 3.119
+    },
+    {
+      "text": "crossover between those two groups as",
+      "start": 959.639,
+      "duration": 3.961
+    },
+    {
+      "text": "well and the fact that I am sitting here",
+      "start": 961.279,
+      "duration": 3.761
+    },
+    {
+      "text": "speaking to somebody like you this",
+      "start": 963.6,
+      "duration": 3.96
+    },
+    {
+      "text": "afternoon is just like it's it's such a",
+      "start": 965.04,
+      "duration": 4.44
+    },
+    {
+      "text": "wonderful experience I'm sitting here",
+      "start": 967.56,
+      "duration": 5.36
+    },
+    {
+      "text": "talking to somebody like you exactly",
+      "start": 969.48,
+      "duration": 6.2
+    },
+    {
+      "text": "it's it's a really cool thing um but I I",
+      "start": 972.92,
+      "duration": 4.08
+    },
+    {
+      "text": "love what you're saying about you know",
+      "start": 975.68,
+      "duration": 4.04
+    },
+    {
+      "text": "the feeding back to people with one",
+      "start": 977.0,
+      "duration": 4.48
+    },
+    {
+      "text": "covid and people who are involved in the",
+      "start": 979.72,
+      "duration": 3.799
+    },
+    {
+      "text": "research because so often you know you",
+      "start": 981.48,
+      "duration": 3.919
+    },
+    {
+      "text": "you use your time and your energy and",
+      "start": 983.519,
+      "duration": 3.68
+    },
+    {
+      "text": "you participate in this research study",
+      "start": 985.399,
+      "duration": 3.36
+    },
+    {
+      "text": "and you put your data in and you send it",
+      "start": 987.199,
+      "duration": 3.88
+    },
+    {
+      "text": "off off and that's that and you you",
+      "start": 988.759,
+      "duration": 4.801
+    },
+    {
+      "text": "don't really hear anything back for you",
+      "start": 991.079,
+      "duration": 5.041
+    },
+    {
+      "text": "know quite a long time and I think when",
+      "start": 993.56,
+      "duration": 4.88
+    },
+    {
+      "text": "you're giving up time and energy that",
+      "start": 996.12,
+      "duration": 4.88
+    },
+    {
+      "text": "you maybe don't really have it could be",
+      "start": 998.44,
+      "duration": 4.959
+    },
+    {
+      "text": "quite frustrating oh my gosh it's more",
+      "start": 1001.0,
+      "duration": 4.399
+    },
+    {
+      "text": "than frustrating it's disrespectful and",
+      "start": 1003.399,
+      "duration": 4.0
+    },
+    {
+      "text": "but but you know to be fair I was",
+      "start": 1005.399,
+      "duration": 4.92
+    },
+    {
+      "text": "socialized in this system of hierarchy",
+      "start": 1007.399,
+      "duration": 6.081
+    },
+    {
+      "text": "and and not really talking to the people",
+      "start": 1010.319,
+      "duration": 4.841
+    },
+    {
+      "text": "in the studies calling them subjects",
+      "start": 1013.48,
+      "duration": 3.719
+    },
+    {
+      "text": "treating them like subjects like they're",
+      "start": 1015.16,
+      "duration": 4.32
+    },
+    {
+      "text": "and not only that I mean treating the",
+      "start": 1017.199,
+      "duration": 4.241
+    },
+    {
+      "text": "data as if it's mine I get to do",
+      "start": 1019.48,
+      "duration": 3.76
+    },
+    {
+      "text": "whatever I want with it but I don't have",
+      "start": 1021.44,
+      "duration": 3.759
+    },
+    {
+      "text": "to share it with anybody and I'm",
+      "start": 1023.24,
+      "duration": 3.92
+    },
+    {
+      "text": "embarrassed to say you know studies IR",
+      "start": 1025.199,
+      "duration": 4.961
+    },
+    {
+      "text": "ran I didn't tell people what the result",
+      "start": 1027.16,
+      "duration": 4.399
+    },
+    {
+      "text": "was you know they were just in the",
+      "start": 1030.16,
+      "duration": 2.96
+    },
+    {
+      "text": "studies I mean it's horrible now to",
+      "start": 1031.559,
+      "duration": 4.321
+    },
+    {
+      "text": "think about but you know I underwent a I",
+      "start": 1033.12,
+      "duration": 5.079
+    },
+    {
+      "text": "guess a transformation through the",
+      "start": 1035.88,
+      "duration": 4.559
+    },
+    {
+      "text": "course I was running a training program",
+      "start": 1038.199,
+      "duration": 3.681
+    },
+    {
+      "text": "and part of the training program and",
+      "start": 1040.439,
+      "duration": 3.6
+    },
+    {
+      "text": "part of one of the renews to get funding",
+      "start": 1041.88,
+      "duration": 3.6
+    },
+    {
+      "text": "was to say you had to start thinking",
+      "start": 1044.039,
+      "duration": 3.04
+    },
+    {
+      "text": "about and teaching community- based",
+      "start": 1045.48,
+      "duration": 3.92
+    },
+    {
+      "text": "participatory research and I'd never",
+      "start": 1047.079,
+      "duration": 3.681
+    },
+    {
+      "text": "heard about that before but that kind of",
+      "start": 1049.4,
+      "duration": 3.96
+    },
+    {
+      "text": "research is a research in which you",
+      "start": 1050.76,
+      "duration": 4.159
+    },
+    {
+      "text": "really partner with people you go out",
+      "start": 1053.36,
+      "duration": 4.319
+    },
+    {
+      "text": "and understand their perspective and the",
+      "start": 1054.919,
+      "duration": 4.801
+    },
+    {
+      "text": "joint product is better than what it",
+      "start": 1057.679,
+      "duration": 3.161
+    },
+    {
+      "text": "would have been if you would have just",
+      "start": 1059.72,
+      "duration": 2.76
+    },
+    {
+      "text": "done it the O way and we have lots of",
+      "start": 1060.84,
+      "duration": 3.44
+    },
+    {
+      "text": "evidence about the problems with the the",
+      "start": 1062.48,
+      "duration": 3.88
+    },
+    {
+      "text": "traditional way I mean here are people",
+      "start": 1064.28,
+      "duration": 4.04
+    },
+    {
+      "text": "who are suffering from conditions who",
+      "start": 1066.36,
+      "duration": 3.52
+    },
+    {
+      "text": "join studies in the hopes there's going",
+      "start": 1068.32,
+      "duration": 3.88
+    },
+    {
+      "text": "to be breakthroughs and they drop out",
+      "start": 1069.88,
+      "duration": 4.0
+    },
+    {
+      "text": "they don't stay with it or it's hard to",
+      "start": 1072.2,
+      "duration": 4.0
+    },
+    {
+      "text": "recruit them and why is that that's",
+      "start": 1073.88,
+      "duration": 4.279
+    },
+    {
+      "text": "because we make these studies toxic and",
+      "start": 1076.2,
+      "duration": 3.719
+    },
+    {
+      "text": "noxious we don't respect the people in",
+      "start": 1078.159,
+      "duration": 3.481
+    },
+    {
+      "text": "them we don't make it easy for people to",
+      "start": 1079.919,
+      "duration": 3.481
+    },
+    {
+      "text": "participate we don't think about what is",
+      "start": 1081.64,
+      "duration": 4.2
+    },
+    {
+      "text": "it like to be them and and to be",
+      "start": 1083.4,
+      "duration": 3.92
+    },
+    {
+      "text": "participating in the studies and so",
+      "start": 1085.84,
+      "duration": 4.079
+    },
+    {
+      "text": "we're I'm on a journey to improve let me",
+      "start": 1087.32,
+      "duration": 4.599
+    },
+    {
+      "text": "say I don't think I've perfected this",
+      "start": 1089.919,
+      "duration": 4.041
+    },
+    {
+      "text": "it's not optimized yet I have lots to",
+      "start": 1091.919,
+      "duration": 5.161
+    },
+    {
+      "text": "learn but that's what we're aspiring to",
+      "start": 1093.96,
+      "duration": 4.44
+    },
+    {
+      "text": "and and there are by the way some",
+      "start": 1097.08,
+      "duration": 4.0
+    },
+    {
+      "text": "patient citizen scientists I think who",
+      "start": 1098.4,
+      "duration": 4.279
+    },
+    {
+      "text": "do this really really well because they",
+      "start": 1101.08,
+      "duration": 3.92
+    },
+    {
+      "text": "intrinsically are on both sides you know",
+      "start": 1102.679,
+      "duration": 4.841
+    },
+    {
+      "text": "and so those people in you know like",
+      "start": 1105.0,
+      "duration": 4.48
+    },
+    {
+      "text": "patient l group for example ex Le you",
+      "start": 1107.52,
+      "duration": 3.8
+    },
+    {
+      "text": "know Hannah Davis Lisa M Coral that",
+      "start": 1109.48,
+      "duration": 4.96
+    },
+    {
+      "text": "group you know all of them and more more",
+      "start": 1111.32,
+      "duration": 5.2
+    },
+    {
+      "text": "many more people out there who are",
+      "start": 1114.44,
+      "duration": 3.76
+    },
+    {
+      "text": "contributing I mean they they have a",
+      "start": 1116.52,
+      "duration": 3.48
+    },
+    {
+      "text": "foot in each camp and they they really",
+      "start": 1118.2,
+      "duration": 3.88
+    },
+    {
+      "text": "do it well for those of us who grew up",
+      "start": 1120.0,
+      "duration": 5.08
+    },
+    {
+      "text": "on the on the traditional research side",
+      "start": 1122.08,
+      "duration": 5.2
+    },
+    {
+      "text": "you know it's a constant effort and",
+      "start": 1125.08,
+      "duration": 3.839
+    },
+    {
+      "text": "aspiration to get better and better and",
+      "start": 1127.28,
+      "duration": 4.44
+    },
+    {
+      "text": "figure out how to make this work and but",
+      "start": 1128.919,
+      "duration": 4.721
+    },
+    {
+      "text": "that's that's the hope and that's really",
+      "start": 1131.72,
+      "duration": 4.68
+    },
+    {
+      "text": "what we've tried to do yeah yeah and",
+      "start": 1133.64,
+      "duration": 5.32
+    },
+    {
+      "text": "from what I know of it um it definitely",
+      "start": 1136.4,
+      "duration": 4.159
+    },
+    {
+      "text": "seems to be doing that which I think is",
+      "start": 1138.96,
+      "duration": 4.44
+    },
+    {
+      "text": "wonderful um and this is all kind of",
+      "start": 1140.559,
+      "duration": 4.721
+    },
+    {
+      "text": "feeding into is this the listen study",
+      "start": 1143.4,
+      "duration": 4.12
+    },
+    {
+      "text": "isn't it yeah so it started with with",
+      "start": 1145.28,
+      "duration": 4.24
+    },
+    {
+      "text": "the listen study so there really two",
+      "start": 1147.52,
+      "duration": 3.84
+    },
+    {
+      "text": "major things going on the listen study",
+      "start": 1149.52,
+      "duration": 3.039
+    },
+    {
+      "text": "is a",
+      "start": 1151.36,
+      "duration": 3.84
+    },
+    {
+      "text": "longitudinal observational study that",
+      "start": 1152.559,
+      "duration": 4.641
+    },
+    {
+      "text": "that anyone in the world can join that",
+      "start": 1155.2,
+      "duration": 4.04
+    },
+    {
+      "text": "you know is about surveys and for a",
+      "start": 1157.2,
+      "duration": 3.719
+    },
+    {
+      "text": "subset of people which right now in the",
+      "start": 1159.24,
+      "duration": 4.6
+    },
+    {
+      "text": "United States we are getting biosens",
+      "start": 1160.919,
+      "duration": 4.601
+    },
+    {
+      "text": "blood and saliva and then combining it",
+      "start": 1163.84,
+      "duration": 2.92
+    },
+    {
+      "text": "with the information but for others",
+      "start": 1165.52,
+      "duration": 2.8
+    },
+    {
+      "text": "we're just trying to continue to give",
+      "start": 1166.76,
+      "duration": 4.44
+    },
+    {
+      "text": "voice to people's experience to in some",
+      "start": 1168.32,
+      "duration": 4.96
+    },
+    {
+      "text": "ways I see it we can use our credibility",
+      "start": 1171.2,
+      "duration": 4.76
+    },
+    {
+      "text": "to legitimize this so to make it that",
+      "start": 1173.28,
+      "duration": 4.36
+    },
+    {
+      "text": "that this is a legitimate form of of",
+      "start": 1175.96,
+      "duration": 3.12
+    },
+    {
+      "text": "research that these are these patients",
+      "start": 1177.64,
+      "duration": 3.44
+    },
+    {
+      "text": "are authentically feeling what they feel",
+      "start": 1179.08,
+      "duration": 4.0
+    },
+    {
+      "text": "they're authentically suffering there's",
+      "start": 1181.08,
+      "duration": 3.64
+    },
+    {
+      "text": "another thing in in part this is a",
+      "start": 1183.08,
+      "duration": 3.64
+    },
+    {
+      "text": "disclosure which is you know for a long",
+      "start": 1184.72,
+      "duration": 4.199
+    },
+    {
+      "text": "time I've been trying to crack this and",
+      "start": 1186.72,
+      "duration": 4.16
+    },
+    {
+      "text": "another important piece of this I felt",
+      "start": 1188.919,
+      "duration": 5.441
+    },
+    {
+      "text": "was to be able to efficiently gain",
+      "start": 1190.88,
+      "duration": 5.56
+    },
+    {
+      "text": "access to medical records but I call it",
+      "start": 1194.36,
+      "duration": 3.52
+    },
+    {
+      "text": "ethically Source them you know it's sort",
+      "start": 1196.44,
+      "duration": 3.44
+    },
+    {
+      "text": "of like you talk about like H how do you",
+      "start": 1197.88,
+      "duration": 4.48
+    },
+    {
+      "text": "do this with the very highest ethics and",
+      "start": 1199.88,
+      "duration": 4.88
+    },
+    {
+      "text": "a lot of studies and a lot of things",
+      "start": 1202.36,
+      "duration": 3.84
+    },
+    {
+      "text": "that are going on in in medicine and",
+      "start": 1204.76,
+      "duration": 3.72
+    },
+    {
+      "text": "Healthcare days our data about you is",
+      "start": 1206.2,
+      "duration": 4.2
+    },
+    {
+      "text": "floating around without your knowledge",
+      "start": 1208.48,
+      "duration": 4.4
+    },
+    {
+      "text": "and it's not clear to you exactly what's",
+      "start": 1210.4,
+      "duration": 6.12
+    },
+    {
+      "text": "going on what I did was eventually I I",
+      "start": 1212.88,
+      "duration": 5.039
+    },
+    {
+      "text": "couldn't find any other way to do it so",
+      "start": 1216.52,
+      "duration": 4.2
+    },
+    {
+      "text": "created a startup which is still in",
+      "start": 1217.919,
+      "duration": 4.681
+    },
+    {
+      "text": "process which whose intent purpose Hugo",
+      "start": 1220.72,
+      "duration": 3.88
+    },
+    {
+      "text": "Health which was purpose was to give",
+      "start": 1222.6,
+      "duration": 4.52
+    },
+    {
+      "text": "people agency over their data so the",
+      "start": 1224.6,
+      "duration": 4.6
+    },
+    {
+      "text": "principles would be with this",
+      "start": 1227.12,
+      "duration": 3.84
+    },
+    {
+      "text": "you could gain access to your data you",
+      "start": 1229.2,
+      "duration": 3.28
+    },
+    {
+      "text": "could link to it digitally and it would",
+      "start": 1230.96,
+      "duration": 3.8
+    },
+    {
+      "text": "be coming into your cloud-based account",
+      "start": 1232.48,
+      "duration": 4.24
+    },
+    {
+      "text": "and being refreshed and then you could",
+      "start": 1234.76,
+      "duration": 3.799
+    },
+    {
+      "text": "give permission for that to go into a",
+      "start": 1236.72,
+      "duration": 4.4
+    },
+    {
+      "text": "study and that's what we're using in",
+      "start": 1238.559,
+      "duration": 4.681
+    },
+    {
+      "text": "listen and of course the idea is you can",
+      "start": 1241.12,
+      "duration": 4.2
+    },
+    {
+      "text": "cut that off any time the study has to",
+      "start": 1243.24,
+      "duration": 5.04
+    },
+    {
+      "text": "be worthy of your trust and and it's",
+      "start": 1245.32,
+      "duration": 5.2
+    },
+    {
+      "text": "always your data your data that you're",
+      "start": 1248.28,
+      "duration": 4.56
+    },
+    {
+      "text": "sharing not you gave me permission to go",
+      "start": 1250.52,
+      "duration": 3.44
+    },
+    {
+      "text": "into the medical records and pull all",
+      "start": 1252.84,
+      "duration": 3.36
+    },
+    {
+      "text": "your data and you never have any you",
+      "start": 1253.96,
+      "duration": 4.64
+    },
+    {
+      "text": "know access to that data but it's really",
+      "start": 1256.2,
+      "duration": 4.8
+    },
+    {
+      "text": "the dream was eventually that that data",
+      "start": 1258.6,
+      "duration": 4.439
+    },
+    {
+      "text": "could turn into something you can use",
+      "start": 1261.0,
+      "duration": 4.64
+    },
+    {
+      "text": "and it could be used for the research so",
+      "start": 1263.039,
+      "duration": 4.841
+    },
+    {
+      "text": "listen was an idea of a digital",
+      "start": 1265.64,
+      "duration": 4.96
+    },
+    {
+      "text": "decentralized democratized study one",
+      "start": 1267.88,
+      "duration": 5.64
+    },
+    {
+      "text": "that gave broad access was all all",
+      "start": 1270.6,
+      "duration": 4.36
+    },
+    {
+      "text": "digital either on you know you can fill",
+      "start": 1273.52,
+      "duration": 4.519
+    },
+    {
+      "text": "out surveys on your on your devices you",
+      "start": 1274.96,
+      "duration": 4.599
+    },
+    {
+      "text": "could connect to your medical records to",
+      "start": 1278.039,
+      "duration": 4.52
+    },
+    {
+      "text": "your wearables to your pharmacies to to",
+      "start": 1279.559,
+      "duration": 4.921
+    },
+    {
+      "text": "your in the US we we have these",
+      "start": 1282.559,
+      "duration": 4.441
+    },
+    {
+      "text": "companies that are payers you know uh",
+      "start": 1284.48,
+      "duration": 4.88
+    },
+    {
+      "text": "and all of that data could be coming in",
+      "start": 1287.0,
+      "duration": 4.44
+    },
+    {
+      "text": "and your data assets would grow over",
+      "start": 1289.36,
+      "duration": 4.04
+    },
+    {
+      "text": "time and then if if you were giving",
+      "start": 1291.44,
+      "duration": 3.239
+    },
+    {
+      "text": "consent to be in the listen study you're",
+      "start": 1293.4,
+      "duration": 3.48
+    },
+    {
+      "text": "saying I'm willing to share that data",
+      "start": 1294.679,
+      "duration": 4.921
+    },
+    {
+      "text": "but again you're willing to share your",
+      "start": 1296.88,
+      "duration": 4.679
+    },
+    {
+      "text": "data not just signing a consent where",
+      "start": 1299.6,
+      "duration": 3.4
+    },
+    {
+      "text": "I'm going out and scraping your data",
+      "start": 1301.559,
+      "duration": 3.641
+    },
+    {
+      "text": "from different places and that was part",
+      "start": 1303.0,
+      "duration": 4.88
+    },
+    {
+      "text": "of the idea and like I said so the big",
+      "start": 1305.2,
+      "duration": 4.52
+    },
+    {
+      "text": "part was really trying to characterize",
+      "start": 1307.88,
+      "duration": 4.399
+    },
+    {
+      "text": "symptoms and the suffering legitimize",
+      "start": 1309.72,
+      "duration": 5.199
+    },
+    {
+      "text": "and get voice to it combine it with the",
+      "start": 1312.279,
+      "duration": 4.081
+    },
+    {
+      "text": "medical records to give insight as to",
+      "start": 1314.919,
+      "duration": 3.721
+    },
+    {
+      "text": "what's happening on the healthare side",
+      "start": 1316.36,
+      "duration": 5.72
+    },
+    {
+      "text": "and then work with Aiko to combine sort",
+      "start": 1318.64,
+      "duration": 7.0
+    },
+    {
+      "text": "of the the architecture of long Co the",
+      "start": 1322.08,
+      "duration": 6.0
+    },
+    {
+      "text": "sort of how are people being organized",
+      "start": 1325.64,
+      "duration": 5.039
+    },
+    {
+      "text": "by their symptoms and experiences how do",
+      "start": 1328.08,
+      "duration": 4.199
+    },
+    {
+      "text": "we correlate that with what seems to be",
+      "start": 1330.679,
+      "duration": 2.561
+    },
+    {
+      "text": "going on",
+      "start": 1332.279,
+      "duration": 3.64
+    },
+    {
+      "text": "biologically and so we're working hard",
+      "start": 1333.24,
+      "duration": 6.76
+    },
+    {
+      "text": "to kind of bring all of that together",
+      "start": 1335.919,
+      "duration": 6.0
+    },
+    {
+      "text": "and uh and this is sort of I think the",
+      "start": 1340.0,
+      "duration": 3.88
+    },
+    {
+      "text": "listen study is a it's going it we've",
+      "start": 1341.919,
+      "duration": 5.561
+    },
+    {
+      "text": "got about 2,200 people and it's still",
+      "start": 1343.88,
+      "duration": 4.799
+    },
+    {
+      "text": "you know growing I hope people people",
+      "start": 1347.48,
+      "duration": 2.799
+    },
+    {
+      "text": "listening here will be interested in",
+      "start": 1348.679,
+      "duration": 3.561
+    },
+    {
+      "text": "joining and see and we'll work hard like",
+      "start": 1350.279,
+      "duration": 3.361
+    },
+    {
+      "text": "I said to be worthy of their trust if",
+      "start": 1352.24,
+      "duration": 3.84
+    },
+    {
+      "text": "they join but I still think of it as a",
+      "start": 1353.64,
+      "duration": 4.159
+    },
+    {
+      "text": "prototype you know it's like okay now",
+      "start": 1356.08,
+      "duration": 3.719
+    },
+    {
+      "text": "what can we do better how does this work",
+      "start": 1357.799,
+      "duration": 4.521
+    },
+    {
+      "text": "even better more efficiently more",
+      "start": 1359.799,
+      "duration": 5.841
+    },
+    {
+      "text": "participant Centric faster you know all",
+      "start": 1362.32,
+      "duration": 6.4
+    },
+    {
+      "text": "these things we've got to figure",
+      "start": 1365.64,
+      "duration": 3.08
+    },
+    {
+      "text": "out we'll be right",
+      "start": 1369.44,
+      "duration": 5.92
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1372.84,
+      "duration": 4.4
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1375.36,
+      "duration": 4.48
+    },
+    {
+      "text": "episode if if you're finding it useful",
+      "start": 1377.24,
+      "duration": 4.039
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1379.84,
+      "duration": 3.68
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1381.279,
+      "duration": 4.681
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1383.52,
+      "duration": 4.2
+    },
+    {
+      "text": "to share just once we'd be able to get",
+      "start": 1385.96,
+      "duration": 3.56
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1387.72,
+      "duration": 4.28
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1389.52,
+      "duration": 4.0
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1392.0,
+      "duration": 3.44
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1393.52,
+      "duration": 5.279
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 1395.44,
+      "duration": 3.359
+    },
+    {
+      "text": "much yeah but it's it's so exciting and",
+      "start": 1401.76,
+      "duration": 6.0
+    },
+    {
+      "text": "being able to collect that much data",
+      "start": 1406.039,
+      "duration": 4.161
+    },
+    {
+      "text": "from that many people I think you know",
+      "start": 1407.76,
+      "duration": 4.519
+    },
+    {
+      "text": "it it's going to give you something",
+      "start": 1410.2,
+      "duration": 4.24
+    },
+    {
+      "text": "something useful I think hopefully well",
+      "start": 1412.279,
+      "duration": 3.76
+    },
+    {
+      "text": "give give us something I mean that's",
+      "start": 1414.44,
+      "duration": 3.44
+    },
+    {
+      "text": "what I wanted too it's like you know I'm",
+      "start": 1416.039,
+      "duration": 4.281
+    },
+    {
+      "text": "a big open science person too so how do",
+      "start": 1417.88,
+      "duration": 4.56
+    },
+    {
+      "text": "we make sure that if we can de identify",
+      "start": 1420.32,
+      "duration": 4.68
+    },
+    {
+      "text": "it so security is safe how do we get as",
+      "start": 1422.44,
+      "duration": 4.359
+    },
+    {
+      "text": "many smart people as possible working on",
+      "start": 1425.0,
+      "duration": 3.6
+    },
+    {
+      "text": "this problem and if we can start",
+      "start": 1426.799,
+      "duration": 4.681
+    },
+    {
+      "text": "creating data sets then it it takes away",
+      "start": 1428.6,
+      "duration": 4.48
+    },
+    {
+      "text": "the need for somebody to do what we're",
+      "start": 1431.48,
+      "duration": 3.28
+    },
+    {
+      "text": "doing which is spend a couple years and",
+      "start": 1433.08,
+      "duration": 4.079
+    },
+    {
+      "text": "really pulling together people that all",
+      "start": 1434.76,
+      "duration": 3.88
+    },
+    {
+      "text": "has to be permissioned people people",
+      "start": 1437.159,
+      "duration": 3.241
+    },
+    {
+      "text": "have to say it's okay and we have to",
+      "start": 1438.64,
+      "duration": 4.159
+    },
+    {
+      "text": "make sure that their identities are",
+      "start": 1440.4,
+      "duration": 4.36
+    },
+    {
+      "text": "protected but again we should be trying",
+      "start": 1442.799,
+      "duration": 4.12
+    },
+    {
+      "text": "to get as many smart people as possible",
+      "start": 1444.76,
+      "duration": 3.96
+    },
+    {
+      "text": "you know on to this and the easier we",
+      "start": 1446.919,
+      "duration": 4.521
+    },
+    {
+      "text": "can make it for people to do research",
+      "start": 1448.72,
+      "duration": 3.92
+    },
+    {
+      "text": "then I think the better off we're going",
+      "start": 1451.44,
+      "duration": 4.4
+    },
+    {
+      "text": "to be yeah definitely um I'd love to",
+      "start": 1452.64,
+      "duration": 5.399
+    },
+    {
+      "text": "talk a bit more specifically about the",
+      "start": 1455.84,
+      "duration": 5.0
+    },
+    {
+      "text": "Pax loid trial because I think this is",
+      "start": 1458.039,
+      "duration": 5.0
+    },
+    {
+      "text": "this is not just started but it's just",
+      "start": 1460.84,
+      "duration": 5.6
+    },
+    {
+      "text": "been expanded recently into more areas",
+      "start": 1463.039,
+      "duration": 5.921
+    },
+    {
+      "text": "is that right yeah so I trying to think",
+      "start": 1466.44,
+      "duration": 3.959
+    },
+    {
+      "text": "about the principles that we've used and",
+      "start": 1468.96,
+      "duration": 3.16
+    },
+    {
+      "text": "listen and say can we apply this in",
+      "start": 1470.399,
+      "duration": 4.321
+    },
+    {
+      "text": "clinical trials can we trate create a",
+      "start": 1472.12,
+      "duration": 4.919
+    },
+    {
+      "text": "clinical trial that's digital",
+      "start": 1474.72,
+      "duration": 4.92
+    },
+    {
+      "text": "decentralized and democratized so that",
+      "start": 1477.039,
+      "duration": 5.321
+    },
+    {
+      "text": "basically anybody can join they can join",
+      "start": 1479.64,
+      "duration": 4.919
+    },
+    {
+      "text": "from home everything is done from home",
+      "start": 1482.36,
+      "duration": 4.52
+    },
+    {
+      "text": "they don't have to travel anywhere we",
+      "start": 1484.559,
+      "duration": 5.12
+    },
+    {
+      "text": "can do surveys at home we can call them",
+      "start": 1486.88,
+      "duration": 5.919
+    },
+    {
+      "text": "if we need to we can ship drug we can",
+      "start": 1489.679,
+      "duration": 5.321
+    },
+    {
+      "text": "draw Bloods and collect uh bios",
+      "start": 1492.799,
+      "duration": 4.041
+    },
+    {
+      "text": "specimens from their home or from a",
+      "start": 1495.0,
+      "duration": 4.2
+    },
+    {
+      "text": "place convenient to them and by the way",
+      "start": 1496.84,
+      "duration": 4.0
+    },
+    {
+      "text": "we can compensate them for their time we",
+      "start": 1499.2,
+      "duration": 3.16
+    },
+    {
+      "text": "can actually respect and honor that this",
+      "start": 1500.84,
+      "duration": 4.319
+    },
+    {
+      "text": "is taking effort to be able to do this",
+      "start": 1502.36,
+      "duration": 5.679
+    },
+    {
+      "text": "and so we a Kiko and I sort of tried to",
+      "start": 1505.159,
+      "duration": 5.64
+    },
+    {
+      "text": "conceptualize you know could this again",
+      "start": 1508.039,
+      "duration": 5.201
+    },
+    {
+      "text": "be a means by which we could start to",
+      "start": 1510.799,
+      "duration": 4.841
+    },
+    {
+      "text": "create a platform that could be highly",
+      "start": 1513.24,
+      "duration": 4.559
+    },
+    {
+      "text": "efficient for doing this again right now",
+      "start": 1515.64,
+      "duration": 5.08
+    },
+    {
+      "text": "it's United States only in part because",
+      "start": 1517.799,
+      "duration": 4.921
+    },
+    {
+      "text": "the way that the shipping of the meds",
+      "start": 1520.72,
+      "duration": 3.959
+    },
+    {
+      "text": "and the way that the the BIOS specimen",
+      "start": 1522.72,
+      "duration": 3.959
+    },
+    {
+      "text": "collection has to occur you know it it's",
+      "start": 1524.679,
+      "duration": 4.24
+    },
+    {
+      "text": "hard to go across country lines but I",
+      "start": 1526.679,
+      "duration": 3.961
+    },
+    {
+      "text": "think that the model could work in lots",
+      "start": 1528.919,
+      "duration": 5.12
+    },
+    {
+      "text": "of different places and we got a little",
+      "start": 1530.64,
+      "duration": 6.639
+    },
+    {
+      "text": "delayed in part because at Yale bless",
+      "start": 1534.039,
+      "duration": 5.281
+    },
+    {
+      "text": "them you know they've never seen a trial",
+      "start": 1537.279,
+      "duration": 4.681
+    },
+    {
+      "text": "like this before so between the IRB and",
+      "start": 1539.32,
+      "duration": 5.12
+    },
+    {
+      "text": "a lot of the mechanics of trying to get",
+      "start": 1541.96,
+      "duration": 4.76
+    },
+    {
+      "text": "this through everything it delayed us a",
+      "start": 1544.44,
+      "duration": 4.04
+    },
+    {
+      "text": "bit as we tried to set all this up but I",
+      "start": 1546.72,
+      "duration": 3.88
+    },
+    {
+      "text": "think we're in really good shape with",
+      "start": 1548.48,
+      "duration": 5.16
+    },
+    {
+      "text": "regard to all of the Regulatory and and",
+      "start": 1550.6,
+      "duration": 4.6
+    },
+    {
+      "text": "mechanics of the trial we started",
+      "start": 1553.64,
+      "duration": 3.919
+    },
+    {
+      "text": "rolling just a couple weeks ago and then",
+      "start": 1555.2,
+      "duration": 5.16
+    },
+    {
+      "text": "I was trying to card on how do we expand",
+      "start": 1557.559,
+      "duration": 6.561
+    },
+    {
+      "text": "across the entire country and Yale was a",
+      "start": 1560.36,
+      "duration": 7.0
+    },
+    {
+      "text": "little gunshy31",
+      "start": 1564.12,
+      "duration": 3.24
+    },
+    {
+      "text": "been tested so Yale said you need",
+      "start": 1588.52,
+      "duration": 3.759
+    },
+    {
+      "text": "somebody with a license in each state",
+      "start": 1590.52,
+      "duration": 4.0
+    },
+    {
+      "text": "that you're going to include we began",
+      "start": 1592.279,
+      "duration": 4.201
+    },
+    {
+      "text": "working with some other colleagues and",
+      "start": 1594.52,
+      "duration": 3.48
+    },
+    {
+      "text": "then uh there's an organization called",
+      "start": 1596.48,
+      "duration": 3.36
+    },
+    {
+      "text": "trusted medical which has clinical",
+      "start": 1598.0,
+      "duration": 3.64
+    },
+    {
+      "text": "clinics in many different states a",
+      "start": 1599.84,
+      "duration": 3.36
+    },
+    {
+      "text": "trific guy Kevin Carr is a friend of",
+      "start": 1601.64,
+      "duration": 3.6
+    },
+    {
+      "text": "mine started talking to Kevin they came",
+      "start": 1603.2,
+      "duration": 3.479
+    },
+    {
+      "text": "on board with us and now we're going to",
+      "start": 1605.24,
+      "duration": 4.2
+    },
+    {
+      "text": "be able to offer it in 41 States and",
+      "start": 1606.679,
+      "duration": 5.321
+    },
+    {
+      "text": "we're going to try to go even more but",
+      "start": 1609.44,
+      "duration": 4.52
+    },
+    {
+      "text": "I'm really happy because we can now talk",
+      "start": 1612.0,
+      "duration": 5.039
+    },
+    {
+      "text": "about a national decentralized digital",
+      "start": 1613.96,
+      "duration": 5.52
+    },
+    {
+      "text": "study the other thing is in a lot of",
+      "start": 1617.039,
+      "duration": 5.601
+    },
+    {
+      "text": "Trials it depends a lot on the clinician",
+      "start": 1619.48,
+      "duration": 5.16
+    },
+    {
+      "text": "so clinicians may know about this if",
+      "start": 1622.64,
+      "duration": 3.24
+    },
+    {
+      "text": "they forget about it or they get too",
+      "start": 1624.64,
+      "duration": 2.48
+    },
+    {
+      "text": "busy they're not enrolling people so",
+      "start": 1625.88,
+      "duration": 3.2
+    },
+    {
+      "text": "they don't enroll very quickly but but",
+      "start": 1627.12,
+      "duration": 3.72
+    },
+    {
+      "text": "they're also making implicit judgments",
+      "start": 1629.08,
+      "duration": 3.319
+    },
+    {
+      "text": "is this a good person for the trial even",
+      "start": 1630.84,
+      "duration": 3.0
+    },
+    {
+      "text": "if you meet",
+      "start": 1632.399,
+      "duration": 3.841
+    },
+    {
+      "text": "criteria if they're behind or they think",
+      "start": 1633.84,
+      "duration": 3.76
+    },
+    {
+      "text": "you wouldn't be a good subject I don't",
+      "start": 1636.24,
+      "duration": 3.319
+    },
+    {
+      "text": "know there's lots of ways that it it",
+      "start": 1637.6,
+      "duration": 5.0
+    },
+    {
+      "text": "ends up creating barriers in this study",
+      "start": 1639.559,
+      "duration": 4.761
+    },
+    {
+      "text": "it's the people who step forward I mean",
+      "start": 1642.6,
+      "duration": 4.079
+    },
+    {
+      "text": "we try to raise awareness anyone can",
+      "start": 1644.32,
+      "duration": 3.88
+    },
+    {
+      "text": "take the survey to see if they qu",
+      "start": 1646.679,
+      "duration": 3.88
+    },
+    {
+      "text": "qualify if they do that they connect the",
+      "start": 1648.2,
+      "duration": 4.04
+    },
+    {
+      "text": "records we make sure that they're fit",
+      "start": 1650.559,
+      "duration": 3.681
+    },
+    {
+      "text": "based on the criteria based on records",
+      "start": 1652.24,
+      "duration": 4.6
+    },
+    {
+      "text": "and and if it works they're in and then",
+      "start": 1654.24,
+      "duration": 3.84
+    },
+    {
+      "text": "we're just basically signing them up",
+      "start": 1656.84,
+      "duration": 3.439
+    },
+    {
+      "text": "they're using their devices for surveys",
+      "start": 1658.08,
+      "duration": 4.439
+    },
+    {
+      "text": "we're sending them uh like I said",
+      "start": 1660.279,
+      "duration": 3.64
+    },
+    {
+      "text": "medications we're drawing blood at their",
+      "start": 1662.519,
+      "duration": 3.28
+    },
+    {
+      "text": "house bang We're Off to the Races and",
+      "start": 1663.919,
+      "duration": 2.961
+    },
+    {
+      "text": "we've already got people through and",
+      "start": 1665.799,
+      "duration": 3.88
+    },
+    {
+      "text": "it's working really well the only other",
+      "start": 1666.88,
+      "duration": 4.44
+    },
+    {
+      "text": "thing that we have to make sure is that",
+      "start": 1669.679,
+      "duration": 3.641
+    },
+    {
+      "text": "that we're fully accessible to all",
+      "start": 1671.32,
+      "duration": 3.52
+    },
+    {
+      "text": "populations you know we want to be able",
+      "start": 1673.32,
+      "duration": 4.359
+    },
+    {
+      "text": "to make sure that we have diversity in",
+      "start": 1674.84,
+      "duration": 4.92
+    },
+    {
+      "text": "the tri that we're welcoming groups of",
+      "start": 1677.679,
+      "duration": 3.681
+    },
+    {
+      "text": "all different health literacy and that",
+      "start": 1679.76,
+      "duration": 4.159
+    },
+    {
+      "text": "we're we're not letting a digital divide",
+      "start": 1681.36,
+      "duration": 4.6
+    },
+    {
+      "text": "make it difficult and so we're working",
+      "start": 1683.919,
+      "duration": 4.161
+    },
+    {
+      "text": "hard to try to figure out you know how",
+      "start": 1685.96,
+      "duration": 3.68
+    },
+    {
+      "text": "do we do this our previous work with",
+      "start": 1688.08,
+      "duration": 4.0
+    },
+    {
+      "text": "this kind of platform is that actually",
+      "start": 1689.64,
+      "duration": 5.039
+    },
+    {
+      "text": "traditionally underrepresented groups",
+      "start": 1692.08,
+      "duration": 5.599
+    },
+    {
+      "text": "minoritized populations actually feel",
+      "start": 1694.679,
+      "duration": 4.88
+    },
+    {
+      "text": "really strengthened by this sort of",
+      "start": 1697.679,
+      "duration": 3.88
+    },
+    {
+      "text": "tipping of the balance of power by their",
+      "start": 1699.559,
+      "duration": 3.881
+    },
+    {
+      "text": "being put in this position and the idea",
+      "start": 1701.559,
+      "duration": 4.201
+    },
+    {
+      "text": "that we're making it convenient for them",
+      "start": 1703.44,
+      "duration": 4.88
+    },
+    {
+      "text": "also gets rid of this problem about",
+      "start": 1705.76,
+      "duration": 4.48
+    },
+    {
+      "text": "hourly working and you know having take",
+      "start": 1708.32,
+      "duration": 3.079
+    },
+    {
+      "text": "time off work where that's not going to",
+      "start": 1710.24,
+      "duration": 3.159
+    },
+    {
+      "text": "be covered but we've got a lot to learn",
+      "start": 1711.399,
+      "duration": 3.801
+    },
+    {
+      "text": "still about again being worthy of the",
+      "start": 1713.399,
+      "duration": 3.721
+    },
+    {
+      "text": "trust getting to people the right",
+      "start": 1715.2,
+      "duration": 3.719
+    },
+    {
+      "text": "populations and meaning the right",
+      "start": 1717.12,
+      "duration": 5.2
+    },
+    {
+      "text": "populations ensuring that it's not just",
+      "start": 1718.919,
+      "duration": 6.041
+    },
+    {
+      "text": "uh certain populations well educated and",
+      "start": 1722.32,
+      "duration": 4.64
+    },
+    {
+      "text": "and well off groups but that we were",
+      "start": 1724.96,
+      "duration": 4.0
+    },
+    {
+      "text": "able to to reach all sorts of different",
+      "start": 1726.96,
+      "duration": 5.0
+    },
+    {
+      "text": "folks but so far it's moving quickly",
+      "start": 1728.96,
+      "duration": 4.8
+    },
+    {
+      "text": "lots of people are interested I'm happy",
+      "start": 1731.96,
+      "duration": 4.16
+    },
+    {
+      "text": "to be on this program to to promote and",
+      "start": 1733.76,
+      "duration": 5.399
+    },
+    {
+      "text": "invite people P's LLC study y.edu or",
+      "start": 1736.12,
+      "duration": 4.72
+    },
+    {
+      "text": "we'll give you the links to accompany",
+      "start": 1739.159,
+      "duration": 5.36
+    },
+    {
+      "text": "the the notes but I'm even more excited",
+      "start": 1740.84,
+      "duration": 5.64
+    },
+    {
+      "text": "about what it can show about future",
+      "start": 1744.519,
+      "duration": 4.601
+    },
+    {
+      "text": "studies if with this platform works then",
+      "start": 1746.48,
+      "duration": 4.84
+    },
+    {
+      "text": "we can just keep reloading with new",
+      "start": 1749.12,
+      "duration": 4.72
+    },
+    {
+      "text": "things to try because in Long Co",
+      "start": 1751.32,
+      "duration": 4.0
+    },
+    {
+      "text": "honestly we're gonna need to try a lot",
+      "start": 1753.84,
+      "duration": 3.199
+    },
+    {
+      "text": "of things to figure out what works for",
+      "start": 1755.32,
+      "duration": 4.12
+    },
+    {
+      "text": "whom and Kiko is doing a lot of deep",
+      "start": 1757.039,
+      "duration": 5.24
+    },
+    {
+      "text": "phenotyping in this study because on",
+      "start": 1759.44,
+      "duration": 4.479
+    },
+    {
+      "text": "average there may not be a benefit but",
+      "start": 1762.279,
+      "duration": 4.041
+    },
+    {
+      "text": "there may be responders and we need to",
+      "start": 1763.919,
+      "duration": 4.321
+    },
+    {
+      "text": "then understand okay who responded in",
+      "start": 1766.32,
+      "duration": 4.64
+    },
+    {
+      "text": "this study and can we then do another",
+      "start": 1768.24,
+      "duration": 4.2
+    },
+    {
+      "text": "study where we really pick out those",
+      "start": 1770.96,
+      "duration": 3.839
+    },
+    {
+      "text": "responders and demonstrate it so it's",
+      "start": 1772.44,
+      "duration": 4.16
+    },
+    {
+      "text": "not only about average effects and I",
+      "start": 1774.799,
+      "duration": 3.281
+    },
+    {
+      "text": "think that's going to be true throughout",
+      "start": 1776.6,
+      "duration": 3.16
+    },
+    {
+      "text": "long Co which is why we need keep",
+      "start": 1778.08,
+      "duration": 4.04
+    },
+    {
+      "text": "iterate iterate iterate to generate the",
+      "start": 1779.76,
+      "duration": 4.44
+    },
+    {
+      "text": "evidence that people need yeah I mean",
+      "start": 1782.12,
+      "duration": 5.279
+    },
+    {
+      "text": "this sounds so exciting um are you able",
+      "start": 1784.2,
+      "duration": 5.719
+    },
+    {
+      "text": "to talk a little bit about what Pax loid",
+      "start": 1787.399,
+      "duration": 4.12
+    },
+    {
+      "text": "actually is I feel like this is",
+      "start": 1789.919,
+      "duration": 3.841
+    },
+    {
+      "text": "something that we keep hearing about but",
+      "start": 1791.519,
+      "duration": 3.76
+    },
+    {
+      "text": "I'd love to know just a little bit more",
+      "start": 1793.76,
+      "duration": 3.639
+    },
+    {
+      "text": "about what is it and what does it do or",
+      "start": 1795.279,
+      "duration": 4.76
+    },
+    {
+      "text": "what are you hoping that it might do so",
+      "start": 1797.399,
+      "duration": 5.16
+    },
+    {
+      "text": "the idea people may wonder you know why",
+      "start": 1800.039,
+      "duration": 4.961
+    },
+    {
+      "text": "did we go to Pax loit you know because",
+      "start": 1802.559,
+      "duration": 4.761
+    },
+    {
+      "text": "uh there are lots of people who are",
+      "start": 1805.0,
+      "duration": 4.2
+    },
+    {
+      "text": "interested in in you know a lot of",
+      "start": 1807.32,
+      "duration": 4.32
+    },
+    {
+      "text": "different therapies uh and to be honest",
+      "start": 1809.2,
+      "duration": 3.88
+    },
+    {
+      "text": "you know one thing is these trials have",
+      "start": 1811.64,
+      "duration": 3.48
+    },
+    {
+      "text": "to be funded and there was a company",
+      "start": 1813.08,
+      "duration": 4.0
+    },
+    {
+      "text": "that had a product that was somewhat",
+      "start": 1815.12,
+      "duration": 5.679
+    },
+    {
+      "text": "interested in this you know and Pax",
+      "start": 1817.08,
+      "duration": 5.28
+    },
+    {
+      "text": "Lovin many people have heard about it",
+      "start": 1820.799,
+      "duration": 3.321
+    },
+    {
+      "text": "because it's the pill that that you know",
+      "start": 1822.36,
+      "duration": 4.64
+    },
+    {
+      "text": "people use to treat acute Co you know",
+      "start": 1824.12,
+      "duration": 4.76
+    },
+    {
+      "text": "and it it was recently in the US granted",
+      "start": 1827.0,
+      "duration": 3.32
+    },
+    {
+      "text": "full approval by the Food and Drug",
+      "start": 1828.88,
+      "duration": 3.6
+    },
+    {
+      "text": "Administration for a long time it was",
+      "start": 1830.32,
+      "duration": 4.56
+    },
+    {
+      "text": "under an emergency use",
+      "start": 1832.48,
+      "duration": 4.96
+    },
+    {
+      "text": "authorization and you know it's an oral",
+      "start": 1834.88,
+      "duration": 5.799
+    },
+    {
+      "text": "antiviral pill that you know people can",
+      "start": 1837.44,
+      "duration": 5.44
+    },
+    {
+      "text": "take at their home and and it was shown",
+      "start": 1840.679,
+      "duration": 3.6
+    },
+    {
+      "text": "in lots of studies that it was",
+      "start": 1842.88,
+      "duration": 4.0
+    },
+    {
+      "text": "associated with a pretty dramatic",
+      "start": 1844.279,
+      "duration": 4.52
+    },
+    {
+      "text": "reduction in the risk of hospitalization",
+      "start": 1846.88,
+      "duration": 5.0
+    },
+    {
+      "text": "and death in unvaccinated people and",
+      "start": 1848.799,
+      "duration": 4.201
+    },
+    {
+      "text": "that was the clinical trial that",
+      "start": 1851.88,
+      "duration": 3.919
+    },
+    {
+      "text": "supported the eua and you know",
+      "start": 1853.0,
+      "duration": 3.96
+    },
+    {
+      "text": "subsequent lots of people still think",
+      "start": 1855.799,
+      "duration": 2.681
+    },
+    {
+      "text": "even You' been vaccinated this is the",
+      "start": 1856.96,
+      "duration": 4.199
+    },
+    {
+      "text": "thing to do you know to to try to treat",
+      "start": 1858.48,
+      "duration": 5.799
+    },
+    {
+      "text": "and both more quickly reduce symptoms",
+      "start": 1861.159,
+      "duration": 5.88
+    },
+    {
+      "text": "but even more importantly that it can",
+      "start": 1864.279,
+      "duration": 5.24
+    },
+    {
+      "text": "reduce this risk of hospitalization and",
+      "start": 1867.039,
+      "duration": 4.36
+    },
+    {
+      "text": "death you know so paxa consists of two",
+      "start": 1869.519,
+      "duration": 4.241
+    },
+    {
+      "text": "separate medications that are that are",
+      "start": 1871.399,
+      "duration": 4.64
+    },
+    {
+      "text": "packaged together and so you generally",
+      "start": 1873.76,
+      "duration": 4.44
+    },
+    {
+      "text": "you know when you do this you take three",
+      "start": 1876.039,
+      "duration": 4.0
+    },
+    {
+      "text": "pills you know two of the pills are are",
+      "start": 1878.2,
+      "duration": 5.04
+    },
+    {
+      "text": "NE Trevor and the others are ton ofir",
+      "start": 1880.039,
+      "duration": 6.161
+    },
+    {
+      "text": "and the Ron ofir potentiates the action",
+      "start": 1883.24,
+      "duration": 4.88
+    },
+    {
+      "text": "of the neatr",
+      "start": 1886.2,
+      "duration": 5.04
+    },
+    {
+      "text": "and uh you know this is a drug that",
+      "start": 1888.12,
+      "duration": 5.679
+    },
+    {
+      "text": "interferes with the mechanisms of viral",
+      "start": 1891.24,
+      "duration": 5.2
+    },
+    {
+      "text": "replication and helps to help the body",
+      "start": 1893.799,
+      "duration": 7.24
+    },
+    {
+      "text": "to overcome the virus and so you know",
+      "start": 1896.44,
+      "duration": 7.04
+    },
+    {
+      "text": "what we thought was one of the central",
+      "start": 1901.039,
+      "duration": 4.88
+    },
+    {
+      "text": "hypotheses around long covid it's not",
+      "start": 1903.48,
+      "duration": 5.159
+    },
+    {
+      "text": "the only one but one of them is viral",
+      "start": 1905.919,
+      "duration": 6.48
+    },
+    {
+      "text": "persistence and there's continuing to be",
+      "start": 1908.639,
+      "duration": 6.721
+    },
+    {
+      "text": "evidence emerging that for many people",
+      "start": 1912.399,
+      "duration": 5.041
+    },
+    {
+      "text": "they continue to carry around the virus",
+      "start": 1915.36,
+      "duration": 5.52
+    },
+    {
+      "text": "after gotten over the acute infection",
+      "start": 1917.44,
+      "duration": 7.04
+    },
+    {
+      "text": "and so the idea is that this treatment",
+      "start": 1920.88,
+      "duration": 5.32
+    },
+    {
+      "text": "which can has been shown to show that",
+      "start": 1924.48,
+      "duration": 4.199
+    },
+    {
+      "text": "the when the co virus that's uh released",
+      "start": 1926.2,
+      "duration": 5.52
+    },
+    {
+      "text": "from cells can't enter uh uninfected",
+      "start": 1928.679,
+      "duration": 5.321
+    },
+    {
+      "text": "cells in the body like it sort of",
+      "start": 1931.72,
+      "duration": 5.72
+    },
+    {
+      "text": "neutralizes the the infection that maybe",
+      "start": 1934.0,
+      "duration": 6.679
+    },
+    {
+      "text": "if we use this for an extended dose that",
+      "start": 1937.44,
+      "duration": 5.0
+    },
+    {
+      "text": "the acute care dose is five days as you",
+      "start": 1940.679,
+      "duration": 3.681
+    },
+    {
+      "text": "know but this is in the trial we're",
+      "start": 1942.44,
+      "duration": 3.76
+    },
+    {
+      "text": "testing 15 days some people ask us why'",
+      "start": 1944.36,
+      "duration": 3.919
+    },
+    {
+      "text": "you choose 15 it was just out of",
+      "start": 1946.2,
+      "duration": 3.439
+    },
+    {
+      "text": "recognition that lots of people have",
+      "start": 1948.279,
+      "duration": 4.24
+    },
+    {
+      "text": "rebound after five and that you know",
+      "start": 1949.639,
+      "duration": 4.561
+    },
+    {
+      "text": "that may not be enough to kick the virus",
+      "start": 1952.519,
+      "duration": 3.76
+    },
+    {
+      "text": "out you know for some",
+      "start": 1954.2,
+      "duration": 5.079
+    },
+    {
+      "text": "people we didn't really have it had been",
+      "start": 1956.279,
+      "duration": 6.24
+    },
+    {
+      "text": "tested in 10 and a little bit in 15 in",
+      "start": 1959.279,
+      "duration": 5.0
+    },
+    {
+      "text": "more in the lab situations and for",
+      "start": 1962.519,
+      "duration": 4.681
+    },
+    {
+      "text": "safety and we also were aware that paxit",
+      "start": 1964.279,
+      "duration": 4.88
+    },
+    {
+      "text": "for some people can cause a metallic",
+      "start": 1967.2,
+      "duration": 5.28
+    },
+    {
+      "text": "taste and and you know some nuisance",
+      "start": 1969.159,
+      "duration": 5.681
+    },
+    {
+      "text": "symptoms and to ask people to try that",
+      "start": 1972.48,
+      "duration": 3.64
+    },
+    {
+      "text": "for more than two weeks when we haven't",
+      "start": 1974.84,
+      "duration": 3.559
+    },
+    {
+      "text": "tried the two weeks yet you know see",
+      "start": 1976.12,
+      "duration": 5.08
+    },
+    {
+      "text": "excessive so we thought well let's go to",
+      "start": 1978.399,
+      "duration": 5.16
+    },
+    {
+      "text": "two weeks first and see what happens we",
+      "start": 1981.2,
+      "duration": 4.359
+    },
+    {
+      "text": "think people can bear up and manage",
+      "start": 1983.559,
+      "duration": 4.72
+    },
+    {
+      "text": "their symptoms over that period of time",
+      "start": 1985.559,
+      "duration": 4.281
+    },
+    {
+      "text": "and then we you know we're formally sort",
+      "start": 1988.279,
+      "duration": 4.681
+    },
+    {
+      "text": "of testing this viral persistence Theory",
+      "start": 1989.84,
+      "duration": 4.559
+    },
+    {
+      "text": "and see whether or not it kicks the",
+      "start": 1992.96,
+      "duration": 4.28
+    },
+    {
+      "text": "virus out and there's lots of issues you",
+      "start": 1994.399,
+      "duration": 4.201
+    },
+    {
+      "text": "know whether or not the virus might be",
+      "start": 1997.24,
+      "duration": 3.48
+    },
+    {
+      "text": "hiding in places that's hard for PAX to",
+      "start": 1998.6,
+      "duration": 4.439
+    },
+    {
+      "text": "get to and so forth but it's you know",
+      "start": 2000.72,
+      "duration": 4.16
+    },
+    {
+      "text": "it's a beginning like again I said this",
+      "start": 2003.039,
+      "duration": 3.6
+    },
+    {
+      "text": "is a platform let's get this done let's",
+      "start": 2004.88,
+      "duration": 3.32
+    },
+    {
+      "text": "see where it leaves us let's see if a",
+      "start": 2006.639,
+      "duration": 3.681
+    },
+    {
+      "text": "keyo study can provide insight into who",
+      "start": 2008.2,
+      "duration": 4.24
+    },
+    {
+      "text": "responders but this shouldn't be the be",
+      "start": 2010.32,
+      "duration": 3.56
+    },
+    {
+      "text": "all and endall trial it should be the",
+      "start": 2012.44,
+      "duration": 3.8
+    },
+    {
+      "text": "beginning and then let's test 10 things",
+      "start": 2013.88,
+      "duration": 3.919
+    },
+    {
+      "text": "let's test 20 things you know let's",
+      "start": 2016.24,
+      "duration": 4.159
+    },
+    {
+      "text": "start getting ramping up and getting in",
+      "start": 2017.799,
+      "duration": 4.441
+    },
+    {
+      "text": "a position where we can learn rapidly",
+      "start": 2020.399,
+      "duration": 3.961
+    },
+    {
+      "text": "about what works I think this is",
+      "start": 2022.24,
+      "duration": 4.0
+    },
+    {
+      "text": "something that I again I've never been",
+      "start": 2024.36,
+      "duration": 3.88
+    },
+    {
+      "text": "involved or even really known anything",
+      "start": 2026.24,
+      "duration": 5.96
+    },
+    {
+      "text": "about research until long Co so coming",
+      "start": 2028.24,
+      "duration": 6.439
+    },
+    {
+      "text": "into this kind of world and speaking to",
+      "start": 2032.2,
+      "duration": 4.92
+    },
+    {
+      "text": "people who are involved in research it",
+      "start": 2034.679,
+      "duration": 3.641
+    },
+    {
+      "text": "was quite",
+      "start": 2037.12,
+      "duration": 2.76
+    },
+    {
+      "text": "quite an exciting moment for me when I",
+      "start": 2038.32,
+      "duration": 3.88
+    },
+    {
+      "text": "realized that actually each research",
+      "start": 2039.88,
+      "duration": 4.519
+    },
+    {
+      "text": "study is not like going to solve",
+      "start": 2042.2,
+      "duration": 4.439
+    },
+    {
+      "text": "everything on its own it's that each",
+      "start": 2044.399,
+      "duration": 4.121
+    },
+    {
+      "text": "research study is like a piece of a",
+      "start": 2046.639,
+      "duration": 3.96
+    },
+    {
+      "text": "bigger jigsaw or it's a springboard for",
+      "start": 2048.52,
+      "duration": 3.76
+    },
+    {
+      "text": "another study or you know it's like",
+      "start": 2050.599,
+      "duration": 3.721
+    },
+    {
+      "text": "building up you know building blocks",
+      "start": 2052.28,
+      "duration": 4.24
+    },
+    {
+      "text": "isn't it to sort of whatever the quote",
+      "start": 2054.32,
+      "duration": 5.039
+    },
+    {
+      "text": "unquote answer is and I think because",
+      "start": 2056.52,
+      "duration": 4.2
+    },
+    {
+      "text": "it's probably quite frustrating as a",
+      "start": 2059.359,
+      "duration": 4.081
+    },
+    {
+      "text": "patient but it's also quite exciting",
+      "start": 2060.72,
+      "duration": 4.56
+    },
+    {
+      "text": "seeing all of these kind of pieces being",
+      "start": 2063.44,
+      "duration": 4.76
+    },
+    {
+      "text": "put together over time well I'm kind of",
+      "start": 2065.28,
+      "duration": 4.559
+    },
+    {
+      "text": "hopeful that this represents something",
+      "start": 2068.2,
+      "duration": 3.12
+    },
+    {
+      "text": "you know it's just like Kittyhawk you",
+      "start": 2069.839,
+      "duration": 3.32
+    },
+    {
+      "text": "know it's you're showing that this",
+      "start": 2071.32,
+      "duration": 3.68
+    },
+    {
+      "text": "approach works that you can actually do",
+      "start": 2073.159,
+      "duration": 3.76
+    },
+    {
+      "text": "these studies you can you know like I",
+      "start": 2075.0,
+      "duration": 3.399
+    },
+    {
+      "text": "said what are the features of it very",
+      "start": 2076.919,
+      "duration": 4.081
+    },
+    {
+      "text": "participant Centric decentralized very",
+      "start": 2078.399,
+      "duration": 5.801
+    },
+    {
+      "text": "convenient you know potentially faster",
+      "start": 2081.0,
+      "duration": 4.839
+    },
+    {
+      "text": "because you can enroll from across the",
+      "start": 2084.2,
+      "duration": 3.679
+    },
+    {
+      "text": "entire country I don't have to depend on",
+      "start": 2085.839,
+      "duration": 4.121
+    },
+    {
+      "text": "three sites or four sites enrolling or",
+      "start": 2087.879,
+      "duration": 4.081
+    },
+    {
+      "text": "10 sites or 20 sites actually I've got",
+      "start": 2089.96,
+      "duration": 3.52
+    },
+    {
+      "text": "the whole country anyone who hears about",
+      "start": 2091.96,
+      "duration": 3.28
+    },
+    {
+      "text": "it who wants to be involved can be",
+      "start": 2093.48,
+      "duration": 3.84
+    },
+    {
+      "text": "involved like and listen and and those",
+      "start": 2095.24,
+      "duration": 3.56
+    },
+    {
+      "text": "wanted be involved and can pass the",
+      "start": 2097.32,
+      "duration": 3.64
+    },
+    {
+      "text": "screens the exclusion exclusion criteria",
+      "start": 2098.8,
+      "duration": 4.4
+    },
+    {
+      "text": "can get into Pax LC and then we can",
+      "start": 2100.96,
+      "duration": 4.2
+    },
+    {
+      "text": "before you know we'll be flying you know",
+      "start": 2103.2,
+      "duration": 4.639
+    },
+    {
+      "text": "we'll be flying fleets you know it it'll",
+      "start": 2105.16,
+      "duration": 4.52
+    },
+    {
+      "text": "change the nature of the way we're doing",
+      "start": 2107.839,
+      "duration": 4.201
+    },
+    {
+      "text": "research it philosophically and",
+      "start": 2109.68,
+      "duration": 5.32
+    },
+    {
+      "text": "culturally and technologically that",
+      "start": 2112.04,
+      "duration": 4.92
+    },
+    {
+      "text": "combination right it's not technology by",
+      "start": 2115.0,
+      "duration": 4.52
+    },
+    {
+      "text": "itself culturally too it's it's this",
+      "start": 2116.96,
+      "duration": 5.0
+    },
+    {
+      "text": "embracing of of wisdom you know it's",
+      "start": 2119.52,
+      "duration": 4.64
+    },
+    {
+      "text": "it's not the hierarchical approach it's",
+      "start": 2121.96,
+      "duration": 3.6
+    },
+    {
+      "text": "one in which we're all colleagues",
+      "start": 2124.16,
+      "duration": 2.88
+    },
+    {
+      "text": "together we each have different skills",
+      "start": 2125.56,
+      "duration": 2.6
+    },
+    {
+      "text": "different knowledge",
+      "start": 2127.04,
+      "duration": 3.36
+    },
+    {
+      "text": "trying to make progress it's not about",
+      "start": 2128.16,
+      "duration": 5.76
+    },
+    {
+      "text": "superstars it's about the team and uh",
+      "start": 2130.4,
+      "duration": 5.28
+    },
+    {
+      "text": "you know that's my dream about this is",
+      "start": 2133.92,
+      "duration": 4.88
+    },
+    {
+      "text": "that this starts to crack open a new",
+      "start": 2135.68,
+      "duration": 5.84
+    },
+    {
+      "text": "approach to doing the culturally and",
+      "start": 2138.8,
+      "duration": 4.64
+    },
+    {
+      "text": "technologically you know and and that",
+      "start": 2141.52,
+      "duration": 3.559
+    },
+    {
+      "text": "this will expand to other places other",
+      "start": 2143.44,
+      "duration": 4.6
+    },
+    {
+      "text": "places for mystery diseases like mecfs",
+      "start": 2145.079,
+      "duration": 4.961
+    },
+    {
+      "text": "or vaccine injury other CA cases like",
+      "start": 2148.04,
+      "duration": 3.96
+    },
+    {
+      "text": "that but then also across all the",
+      "start": 2150.04,
+      "duration": 3.24
+    },
+    {
+      "text": "spectrum of medicine there's no reason",
+      "start": 2152.0,
+      "duration": 4.0
+    },
+    {
+      "text": "we can't be be doing this one thing I",
+      "start": 2153.28,
+      "duration": 4.6
+    },
+    {
+      "text": "wanted to say about the just because",
+      "start": 2156.0,
+      "duration": 3.24
+    },
+    {
+      "text": "people may wonder about it on our",
+      "start": 2157.88,
+      "duration": 4.12
+    },
+    {
+      "text": "Placebo arm we do give her tone of ear",
+      "start": 2159.24,
+      "duration": 6.4
+    },
+    {
+      "text": "so the active agent you know really is",
+      "start": 2162.0,
+      "duration": 7.04
+    },
+    {
+      "text": "near matell but it's it's the ton of is",
+      "start": 2165.64,
+      "duration": 6.36
+    },
+    {
+      "text": "a potentiator but it it also can be the",
+      "start": 2169.04,
+      "duration": 5.24
+    },
+    {
+      "text": "cause of that metallic taste so we're we",
+      "start": 2172.0,
+      "duration": 4.079
+    },
+    {
+      "text": "want to stay blinded I mean you know I",
+      "start": 2174.28,
+      "duration": 3.36
+    },
+    {
+      "text": "just say this because you mentioned",
+      "start": 2176.079,
+      "duration": 2.721
+    },
+    {
+      "text": "because this is new to you in research",
+      "start": 2177.64,
+      "duration": 3.0
+    },
+    {
+      "text": "and it is really important that that",
+      "start": 2178.8,
+      "duration": 4.319
+    },
+    {
+      "text": "people don't know which one they're on",
+      "start": 2180.64,
+      "duration": 4.08
+    },
+    {
+      "text": "by the way another feature of the the",
+      "start": 2183.119,
+      "duration": 3.601
+    },
+    {
+      "text": "centricity here was the study goes on",
+      "start": 2184.72,
+      "duration": 4.84
+    },
+    {
+      "text": "for 24 weeks after randomization but we",
+      "start": 2186.72,
+      "duration": 4.48
+    },
+    {
+      "text": "talked to a lot of people as we designed",
+      "start": 2189.56,
+      "duration": 4.039
+    },
+    {
+      "text": "the study and people said that they",
+      "start": 2191.2,
+      "duration": 3.96
+    },
+    {
+      "text": "really didn't want to wait that long to",
+      "start": 2193.599,
+      "duration": 3.961
+    },
+    {
+      "text": "know which one they were on Placebo or",
+      "start": 2195.16,
+      "duration": 5.12
+    },
+    {
+      "text": "paid and because if they were on Placebo",
+      "start": 2197.56,
+      "duration": 3.88
+    },
+    {
+      "text": "and it looked like there was any",
+      "start": 2200.28,
+      "duration": 3.44
+    },
+    {
+      "text": "evidence of benefit they wanted to take",
+      "start": 2201.44,
+      "duration": 5.04
+    },
+    {
+      "text": "the Pax Lo it so we we said you know as",
+      "start": 2203.72,
+      "duration": 4.84
+    },
+    {
+      "text": "soon as we get the final result on the",
+      "start": 2206.48,
+      "duration": 5.56
+    },
+    {
+      "text": "28 day uh Endo which should be about 90",
+      "start": 2208.56,
+      "duration": 5.799
+    },
+    {
+      "text": "days after the last person has finished",
+      "start": 2212.04,
+      "duration": 5.16
+    },
+    {
+      "text": "at 28 days and much shorter than it",
+      "start": 2214.359,
+      "duration": 4.0
+    },
+    {
+      "text": "would have been if we waited till",
+      "start": 2217.2,
+      "duration": 3.04
+    },
+    {
+      "text": "everyone finished the entire study then",
+      "start": 2218.359,
+      "duration": 4.041
+    },
+    {
+      "text": "we'll crack the the code and we'll tell",
+      "start": 2220.24,
+      "duration": 4.359
+    },
+    {
+      "text": "everybody what they were on and and help",
+      "start": 2222.4,
+      "duration": 3.719
+    },
+    {
+      "text": "people to you know think about what that",
+      "start": 2224.599,
+      "duration": 3.641
+    },
+    {
+      "text": "means but you know again that's another",
+      "start": 2226.119,
+      "duration": 3.561
+    },
+    {
+      "text": "feature of saying like you know people",
+      "start": 2228.24,
+      "duration": 4.04
+    },
+    {
+      "text": "want to know that in creating the design",
+      "start": 2229.68,
+      "duration": 5.04
+    },
+    {
+      "text": "for this study we spent a lot of time",
+      "start": 2232.28,
+      "duration": 3.52
+    },
+    {
+      "text": "you know saying hey what do you think",
+      "start": 2234.72,
+      "duration": 2.32
+    },
+    {
+      "text": "about this what do you think about that",
+      "start": 2235.8,
+      "duration": 3.039
+    },
+    {
+      "text": "people with long Co you know like we're",
+      "start": 2237.04,
+      "duration": 4.36
+    },
+    {
+      "text": "going to study this you you guys you",
+      "start": 2238.839,
+      "duration": 3.641
+    },
+    {
+      "text": "guys are going to be part of this what",
+      "start": 2241.4,
+      "duration": 2.919
+    },
+    {
+      "text": "should we do to make sure this trial is",
+      "start": 2242.48,
+      "duration": 4.24
+    },
+    {
+      "text": "ultimately friendly you know and",
+      "start": 2244.319,
+      "duration": 5.04
+    },
+    {
+      "text": "inviting and insensitive to the ideas",
+      "start": 2246.72,
+      "duration": 4.52
+    },
+    {
+      "text": "and feelings that people have who are",
+      "start": 2249.359,
+      "duration": 4.96
+    },
+    {
+      "text": "facing this disease every day yeah yeah",
+      "start": 2251.24,
+      "duration": 5.96
+    },
+    {
+      "text": "definitely I I think yeah the idea of",
+      "start": 2254.319,
+      "duration": 5.161
+    },
+    {
+      "text": "having patients involved is it's",
+      "start": 2257.2,
+      "duration": 3.639
+    },
+    {
+      "text": "something that seems to me as an",
+      "start": 2259.48,
+      "duration": 3.72
+    },
+    {
+      "text": "outsider like a complete no-brainer um",
+      "start": 2260.839,
+      "duration": 4.121
+    },
+    {
+      "text": "but it's kind of realizing that this",
+      "start": 2263.2,
+      "duration": 3.48
+    },
+    {
+      "text": "hasn't really been that Central to",
+      "start": 2264.96,
+      "duration": 5.159
+    },
+    {
+      "text": "research until sort of more recently but",
+      "start": 2266.68,
+      "duration": 5.52
+    },
+    {
+      "text": "I I think it's it's just such a cool",
+      "start": 2270.119,
+      "duration": 4.281
+    },
+    {
+      "text": "thing but don't be fooled to think it's",
+      "start": 2272.2,
+      "duration": 4.56
+    },
+    {
+      "text": "easy or that we're great at it I mean",
+      "start": 2274.4,
+      "duration": 3.84
+    },
+    {
+      "text": "what do you do when someone who's got",
+      "start": 2276.76,
+      "duration": 3.24
+    },
+    {
+      "text": "the disease expresses a strong opinion",
+      "start": 2278.24,
+      "duration": 3.599
+    },
+    {
+      "text": "about something you should do and and 10",
+      "start": 2280.0,
+      "duration": 4.0
+    },
+    {
+      "text": "other people Express another opinion but",
+      "start": 2281.839,
+      "duration": 4.041
+    },
+    {
+      "text": "you want to honor everybody's",
+      "start": 2284.0,
+      "duration": 5.24
+    },
+    {
+      "text": "contribution you know how do you manage",
+      "start": 2285.88,
+      "duration": 4.88
+    },
+    {
+      "text": "conflict you know and the conflict does",
+      "start": 2289.24,
+      "duration": 3.28
+    },
+    {
+      "text": "not necessarily between researcher and",
+      "start": 2290.76,
+      "duration": 4.319
+    },
+    {
+      "text": "the patient or participant it could be",
+      "start": 2292.52,
+      "duration": 4.12
+    },
+    {
+      "text": "um that you're having trouble reaching",
+      "start": 2295.079,
+      "duration": 3.04
+    },
+    {
+      "text": "consensus you're hearing different",
+      "start": 2296.64,
+      "duration": 3.199
+    },
+    {
+      "text": "things from different people and you",
+      "start": 2298.119,
+      "duration": 3.96
+    },
+    {
+      "text": "don't want anyone to feel dissed by",
+      "start": 2299.839,
+      "duration": 3.441
+    },
+    {
+      "text": "because you didn't follow what they",
+      "start": 2302.079,
+      "duration": 3.121
+    },
+    {
+      "text": "recommended you know I'm still finding",
+      "start": 2303.28,
+      "duration": 4.799
+    },
+    {
+      "text": "it challenging sometimes you know to",
+      "start": 2305.2,
+      "duration": 5.8
+    },
+    {
+      "text": "make everyone feel whole and and also",
+      "start": 2308.079,
+      "duration": 4.681
+    },
+    {
+      "text": "people with this",
+      "start": 2311.0,
+      "duration": 4.72
+    },
+    {
+      "text": "condition many people are angry and",
+      "start": 2312.76,
+      "duration": 4.24
+    },
+    {
+      "text": "understandably so you know they're",
+      "start": 2315.72,
+      "duration": 3.04
+    },
+    {
+      "text": "frustrated and",
+      "start": 2317.0,
+      "duration": 3.96
+    },
+    {
+      "text": "so you know that comes out in lots of",
+      "start": 2318.76,
+      "duration": 4.28
+    },
+    {
+      "text": "different ways too I mean you know",
+      "start": 2320.96,
+      "duration": 5.04
+    },
+    {
+      "text": "trying to handle people gently",
+      "start": 2323.04,
+      "duration": 6.2
+    },
+    {
+      "text": "respectfully and help them know that you",
+      "start": 2326.0,
+      "duration": 5.319
+    },
+    {
+      "text": "believe in them but also you're not",
+      "start": 2329.24,
+      "duration": 3.52
+    },
+    {
+      "text": "always following what everybody's",
+      "start": 2331.319,
+      "duration": 2.401
+    },
+    {
+      "text": "telling you because you can't do it",
+      "start": 2332.76,
+      "duration": 2.4
+    },
+    {
+      "text": "you're you know lots of different",
+      "start": 2333.72,
+      "duration": 3.84
+    },
+    {
+      "text": "opinions yeah exactly it's it's not",
+      "start": 2335.16,
+      "duration": 3.52
+    },
+    {
+      "text": "possible",
+      "start": 2337.56,
+      "duration": 3.88
+    },
+    {
+      "text": "to well you can listen to everybody but",
+      "start": 2338.68,
+      "duration": 5.2
+    },
+    {
+      "text": "you can't necessarily follow exactly",
+      "start": 2341.44,
+      "duration": 5.44
+    },
+    {
+      "text": "what everybody wants um must be really",
+      "start": 2343.88,
+      "duration": 6.88
+    },
+    {
+      "text": "difficult yeah yeah um so I suppose this",
+      "start": 2346.88,
+      "duration": 5.12
+    },
+    {
+      "text": "this is the question everybody wants to",
+      "start": 2350.76,
+      "duration": 3.319
+    },
+    {
+      "text": "know the answer to isn't it when do you",
+      "start": 2352.0,
+      "duration": 5.92
+    },
+    {
+      "text": "get results from the trial and when",
+      "start": 2354.079,
+      "duration": 6.841
+    },
+    {
+      "text": "might that be able to feed into either",
+      "start": 2357.92,
+      "duration": 6.28
+    },
+    {
+      "text": "the next phase or rolling it out more or",
+      "start": 2360.92,
+      "duration": 4.72
+    },
+    {
+      "text": "you know what whatever the next step",
+      "start": 2364.2,
+      "duration": 3.68
+    },
+    {
+      "text": "looks like well we'll go for faster the",
+      "start": 2365.64,
+      "duration": 3.88
+    },
+    {
+      "text": "more people who step up and want to be",
+      "start": 2367.88,
+      "duration": 4.36
+    },
+    {
+      "text": "part of it so uh everybody everybody can",
+      "start": 2369.52,
+      "duration": 5.839
+    },
+    {
+      "text": "help by by stepping forward this is a",
+      "start": 2372.24,
+      "duration": 5.76
+    },
+    {
+      "text": "study though of only a hundred and we're",
+      "start": 2375.359,
+      "duration": 5.081
+    },
+    {
+      "text": "you know already enrolling uh at at a",
+      "start": 2378.0,
+      "duration": 5.04
+    },
+    {
+      "text": "good Pace we have some limitations of",
+      "start": 2380.44,
+      "duration": 4.32
+    },
+    {
+      "text": "throughput because everybody's getting",
+      "start": 2383.04,
+      "duration": 4.079
+    },
+    {
+      "text": "the Deep immune phenotyping so in some",
+      "start": 2384.76,
+      "duration": 4.96
+    },
+    {
+      "text": "ways the capacity of the lab also is",
+      "start": 2387.119,
+      "duration": 3.96
+    },
+    {
+      "text": "controlling how many people we can bring",
+      "start": 2389.72,
+      "duration": 3.04
+    },
+    {
+      "text": "through in a week we're hopeful that",
+      "start": 2391.079,
+      "duration": 4.0
+    },
+    {
+      "text": "we'll finish the enrollment uh toward",
+      "start": 2392.76,
+      "duration": 3.24
+    },
+    {
+      "text": "the end of",
+      "start": 2395.079,
+      "duration": 4.841
+    },
+    {
+      "text": "November and than early in the new year",
+      "start": 2396.0,
+      "duration": 5.8
+    },
+    {
+      "text": "um maybe February you know we would be",
+      "start": 2399.92,
+      "duration": 4.8
+    },
+    {
+      "text": "able to have results but even more than",
+      "start": 2401.8,
+      "duration": 4.559
+    },
+    {
+      "text": "that what I hope is that we're proving",
+      "start": 2404.72,
+      "duration": 5.119
+    },
+    {
+      "text": "out whether this kind of uh strategy you",
+      "start": 2406.359,
+      "duration": 5.561
+    },
+    {
+      "text": "know the digital decentralized",
+      "start": 2409.839,
+      "duration": 4.881
+    },
+    {
+      "text": "democratized approach works because then",
+      "start": 2411.92,
+      "duration": 5.12
+    },
+    {
+      "text": "we can okay let's go to scale let's",
+      "start": 2414.72,
+      "duration": 4.48
+    },
+    {
+      "text": "really try to you know start testing a",
+      "start": 2417.04,
+      "duration": 4.079
+    },
+    {
+      "text": "lot of different things and figure out",
+      "start": 2419.2,
+      "duration": 3.96
+    },
+    {
+      "text": "you know how they can all best work but",
+      "start": 2421.119,
+      "duration": 4.401
+    },
+    {
+      "text": "yeah I mean I I say this sheepishly",
+      "start": 2423.16,
+      "duration": 4.32
+    },
+    {
+      "text": "because I really wish I could say say",
+      "start": 2425.52,
+      "duration": 3.559
+    },
+    {
+      "text": "you know next week or the week after but",
+      "start": 2427.48,
+      "duration": 4.04
+    },
+    {
+      "text": "it's really going to probably be after",
+      "start": 2429.079,
+      "duration": 3.601
+    },
+    {
+      "text": "the first of the year you know that",
+      "start": 2431.52,
+      "duration": 3.72
+    },
+    {
+      "text": "we'll be able to get those results I'm",
+      "start": 2432.68,
+      "duration": 5.679
+    },
+    {
+      "text": "hoping yeah fantastic I want to convey",
+      "start": 2435.24,
+      "duration": 6.2
+    },
+    {
+      "text": "to your listeners the Deep gratitude I",
+      "start": 2438.359,
+      "duration": 6.401
+    },
+    {
+      "text": "have for all of my teachers because",
+      "start": 2441.44,
+      "duration": 5.08
+    },
+    {
+      "text": "every single person I've interacted with",
+      "start": 2444.76,
+      "duration": 3.64
+    },
+    {
+      "text": "with this condition has taught me",
+      "start": 2446.52,
+      "duration": 4.319
+    },
+    {
+      "text": "something and they're making me better",
+      "start": 2448.4,
+      "duration": 3.36
+    },
+    {
+      "text": "you know they're making me a better",
+      "start": 2450.839,
+      "duration": 3.0
+    },
+    {
+      "text": "researcher than making me a better a",
+      "start": 2451.76,
+      "duration": 3.8
+    },
+    {
+      "text": "better person honestly because so many",
+      "start": 2453.839,
+      "duration": 3.601
+    },
+    {
+      "text": "people were struggling through this with",
+      "start": 2455.56,
+      "duration": 5.24
+    },
+    {
+      "text": "courage and are facing such extreme",
+      "start": 2457.44,
+      "duration": 5.28
+    },
+    {
+      "text": "challenges in their life I mean how they",
+      "start": 2460.8,
+      "duration": 3.6
+    },
+    {
+      "text": "feel but also how it's affecting their",
+      "start": 2462.72,
+      "duration": 3.08
+    },
+    {
+      "text": "relationships how it's affecting their",
+      "start": 2464.4,
+      "duration": 4.64
+    },
+    {
+      "text": "economic well-being and you know I'm",
+      "start": 2465.8,
+      "duration": 7.279
+    },
+    {
+      "text": "honored to be part of an effort you know",
+      "start": 2469.04,
+      "duration": 6.96
+    },
+    {
+      "text": "that includes so many of them and anyway",
+      "start": 2473.079,
+      "duration": 4.161
+    },
+    {
+      "text": "just because people are listening I I",
+      "start": 2476.0,
+      "duration": 3.119
+    },
+    {
+      "text": "just want to convey that because it it's",
+      "start": 2477.24,
+      "duration": 4.68
+    },
+    {
+      "text": "a humbling experience on on our side on",
+      "start": 2479.119,
+      "duration": 4.921
+    },
+    {
+      "text": "the research side because every day",
+      "start": 2481.92,
+      "duration": 4.439
+    },
+    {
+      "text": "we're we're seeing these super people",
+      "start": 2484.04,
+      "duration": 4.84
+    },
+    {
+      "text": "who don't feel very super don't feel",
+      "start": 2486.359,
+      "duration": 4.441
+    },
+    {
+      "text": "very energized you know but truly they",
+      "start": 2488.88,
+      "duration": 4.16
+    },
+    {
+      "text": "are because of what just getting through",
+      "start": 2490.8,
+      "duration": 4.36
+    },
+    {
+      "text": "their days and their ups and downs I'm",
+      "start": 2493.04,
+      "duration": 4.079
+    },
+    {
+      "text": "predictability of their days some days",
+      "start": 2495.16,
+      "duration": 4.919
+    },
+    {
+      "text": "better some days not and having to",
+      "start": 2497.119,
+      "duration": 5.081
+    },
+    {
+      "text": "manage people around them who may or may",
+      "start": 2500.079,
+      "duration": 4.081
+    },
+    {
+      "text": "not believe what's going on or or just",
+      "start": 2502.2,
+      "duration": 4.6
+    },
+    {
+      "text": "fatigued having to you know by the lack",
+      "start": 2504.16,
+      "duration": 4.159
+    },
+    {
+      "text": "of progress not just the people who are",
+      "start": 2506.8,
+      "duration": 2.92
+    },
+    {
+      "text": "suffering but the people around them are",
+      "start": 2508.319,
+      "duration": 4.401
+    },
+    {
+      "text": "are fatigued too and uh that's just hard",
+      "start": 2509.72,
+      "duration": 5.399
+    },
+    {
+      "text": "it's just hard so I I'm hopeful that",
+      "start": 2512.72,
+      "duration": 4.68
+    },
+    {
+      "text": "together you know as a group we we can",
+      "start": 2515.119,
+      "duration": 4.401
+    },
+    {
+      "text": "forge progress but that's that's what",
+      "start": 2517.4,
+      "duration": 5.16
+    },
+    {
+      "text": "I'd want to convey well thank you so",
+      "start": 2519.52,
+      "duration": 5.4
+    },
+    {
+      "text": "much for joining me today and thank you",
+      "start": 2522.56,
+      "duration": 5.2
+    },
+    {
+      "text": "for all that you're doing um maybe",
+      "start": 2524.92,
+      "duration": 4.439
+    },
+    {
+      "text": "you'll come back and talk to me in the",
+      "start": 2527.76,
+      "duration": 3.04
+    },
+    {
+      "text": "new year when you've got some of your",
+      "start": 2529.359,
+      "duration": 3.801
+    },
+    {
+      "text": "results that would be amazing I would",
+      "start": 2530.8,
+      "duration": 4.2
+    },
+    {
+      "text": "love to do that and I would love to",
+      "start": 2533.16,
+      "duration": 4.679
+    },
+    {
+      "text": "report really good results and and it's",
+      "start": 2535.0,
+      "duration": 5.8
+    },
+    {
+      "text": "been uh so nice delightful to meet you",
+      "start": 2537.839,
+      "duration": 5.081
+    },
+    {
+      "text": "so appreciate being on and really it's",
+      "start": 2540.8,
+      "duration": 4.279
+    },
+    {
+      "text": "it is a true team effort including",
+      "start": 2542.92,
+      "duration": 3.48
+    },
+    {
+      "text": "everyone who's participating in these",
+      "start": 2545.079,
+      "duration": 4.0
+    },
+    {
+      "text": "studies deserves a ton of credit for",
+      "start": 2546.4,
+      "duration": 6.0
+    },
+    {
+      "text": "stepping up yeah absolutely well thank",
+      "start": 2549.079,
+      "duration": 5.48
+    },
+    {
+      "text": "you so much thank you thank you so much",
+      "start": 2552.4,
+      "duration": 4.48
+    },
+    {
+      "text": "Jackie thank you so much to all of my",
+      "start": 2554.559,
+      "duration": 5.161
+    },
+    {
+      "text": "guests and to you for listening I hope",
+      "start": 2556.88,
+      "duration": 5.28
+    },
+    {
+      "text": "you've enjoyed it or at least found it",
+      "start": 2559.72,
+      "duration": 5.28
+    },
+    {
+      "text": "useful the long Co podcast is entirely",
+      "start": 2562.16,
+      "duration": 5.12
+    },
+    {
+      "text": "self-produced and self-funded I'm doing",
+      "start": 2565.0,
+      "duration": 3.44
+    },
+    {
+      "text": "all of this",
+      "start": 2567.28,
+      "duration": 3.96
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2568.44,
+      "duration": 4.28
+    },
+    {
+      "text": "buy a",
+      "start": 2571.24,
+      "duration": 4.68
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2572.72,
+      "duration": 5.16
+    },
+    {
+      "text": "the costs of Hosting",
+      "start": 2575.92,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2577.88,
+      "duration": 4.199
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 2579.96,
+      "duration": 4.159
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2582.079,
+      "duration": 5.121
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 2584.119,
+      "duration": 6.761
+    },
+    {
+      "text": "love to hear from you",
+      "start": 2587.2,
+      "duration": 3.68
+    }
+  ],
+  "metadata": {
+    "title": "97 - Harlan Krumholz - Listen Study & Paxlovid Trial",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/mzVyPq7cmh0/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 97,
+    "title": "97 - Harlan Krumholz - Listen Study & Paxlovid Trial",
+    "videoId": "mzVyPq7cmh0",
+    "lengthText": "43:16"
+  }
+}

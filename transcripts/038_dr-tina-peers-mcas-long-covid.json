@@ -1,0 +1,6473 @@
+{
+  "video_id": "ptxFiP8eeag",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.239,
+      "duration": 5.401
+    },
+    {
+      "text": "The Long Co podcast I'm I am absolutely",
+      "start": 58.0,
+      "duration": 5.239
+    },
+    {
+      "text": "delighted to be joined today by Dr Tina",
+      "start": 60.64,
+      "duration": 4.599
+    },
+    {
+      "text": "pier and we are going to be chatting a",
+      "start": 63.239,
+      "duration": 4.081
+    },
+    {
+      "text": "whole load around the mysterious topic",
+      "start": 65.239,
+      "duration": 6.161
+    },
+    {
+      "text": "of mcast uh so welcome to the podcast",
+      "start": 67.32,
+      "duration": 6.04
+    },
+    {
+      "text": "thank you very much Jackie for inviting",
+      "start": 71.4,
+      "duration": 4.84
+    },
+    {
+      "text": "me um so I am absolutely loving having",
+      "start": 73.36,
+      "duration": 5.64
+    },
+    {
+      "text": "you here um to start with would you mind",
+      "start": 76.24,
+      "duration": 4.44
+    },
+    {
+      "text": "introducing yourself just a little and",
+      "start": 79.0,
+      "duration": 3.24
+    },
+    {
+      "text": "explaining briefly what it is that you",
+      "start": 80.68,
+      "duration": 5.6
+    },
+    {
+      "text": "do okay so um I qualified in 1983 an",
+      "start": 82.24,
+      "duration": 7.04
+    },
+    {
+      "text": "awfully long time ago uh and I did GP",
+      "start": 86.28,
+      "duration": 5.799
+    },
+    {
+      "text": "training for years and worked as a as a",
+      "start": 89.28,
+      "duration": 5.68
+    },
+    {
+      "text": "part-time GP for seven years and then I",
+      "start": 92.079,
+      "duration": 5.561
+    },
+    {
+      "text": "moved sideways and became a consultant",
+      "start": 94.96,
+      "duration": 5.04
+    },
+    {
+      "text": "in contraception um and reproductive",
+      "start": 97.64,
+      "duration": 4.96
+    },
+    {
+      "text": "health and I ran the contraception",
+      "start": 100.0,
+      "duration": 5.159
+    },
+    {
+      "text": "services for sari for 24 years which I",
+      "start": 102.6,
+      "duration": 4.72
+    },
+    {
+      "text": "absolutely love doing that was took me",
+      "start": 105.159,
+      "duration": 5.28
+    },
+    {
+      "text": "to the end of my NHS career I also um",
+      "start": 107.32,
+      "duration": 5.6
+    },
+    {
+      "text": "became a menopause specialist uh within",
+      "start": 110.439,
+      "duration": 5.121
+    },
+    {
+      "text": "that time and was developing a private",
+      "start": 112.92,
+      "duration": 5.36
+    },
+    {
+      "text": "practice and when I uh left the",
+      "start": 115.56,
+      "duration": 4.36
+    },
+    {
+      "text": "contraceptive Services I just",
+      "start": 118.28,
+      "duration": 4.72
+    },
+    {
+      "text": "concentrated on my menopause work and",
+      "start": 119.92,
+      "duration": 5.839
+    },
+    {
+      "text": "have a private practice uh in menopause",
+      "start": 123.0,
+      "duration": 7.959
+    },
+    {
+      "text": "um and I also have a daughter um who in",
+      "start": 125.759,
+      "duration": 7.681
+    },
+    {
+      "text": "2016 became very ill so she had always",
+      "start": 130.959,
+      "duration": 5.321
+    },
+    {
+      "text": "been unwell and we never quite knew what",
+      "start": 133.44,
+      "duration": 5.32
+    },
+    {
+      "text": "was affecting her system and why she was",
+      "start": 136.28,
+      "duration": 6.92
+    },
+    {
+      "text": "so pale and had IBS and etc etc and uh",
+      "start": 138.76,
+      "duration": 7.04
+    },
+    {
+      "text": "and then in 2016 she became super unwell",
+      "start": 143.2,
+      "duration": 4.44
+    },
+    {
+      "text": "and I should think many of you have",
+      "start": 145.8,
+      "duration": 4.24
+    },
+    {
+      "text": "heard this story and that was when I was",
+      "start": 147.64,
+      "duration": 4.64
+    },
+    {
+      "text": "forced to make a diagnosis in her really",
+      "start": 150.04,
+      "duration": 4.919
+    },
+    {
+      "text": "because no one was helping us and I",
+      "start": 152.28,
+      "duration": 5.319
+    },
+    {
+      "text": "diagnosed histamine intolerance and then",
+      "start": 154.959,
+      "duration": 6.161
+    },
+    {
+      "text": "subsequently mcass in her um and then we",
+      "start": 157.599,
+      "duration": 5.681
+    },
+    {
+      "text": "started to uh the Journey of making her",
+      "start": 161.12,
+      "duration": 5.119
+    },
+    {
+      "text": "better and it was it's a long journey",
+      "start": 163.28,
+      "duration": 5.0
+    },
+    {
+      "text": "and she's not cured by any stretch of",
+      "start": 166.239,
+      "duration": 3.441
+    },
+    {
+      "text": "the imagination but she is much better",
+      "start": 168.28,
+      "duration": 3.8
+    },
+    {
+      "text": "than she was and all the things that we",
+      "start": 169.68,
+      "duration": 4.199
+    },
+    {
+      "text": "discovered on the way have been",
+      "start": 172.08,
+      "duration": 4.519
+    },
+    {
+      "text": "incredibly helpful um in helping me as a",
+      "start": 173.879,
+      "duration": 5.041
+    },
+    {
+      "text": "clinician and once you learn something",
+      "start": 176.599,
+      "duration": 4.801
+    },
+    {
+      "text": "you can't unlearn it really can you and",
+      "start": 178.92,
+      "duration": 4.76
+    },
+    {
+      "text": "once I recognized it in her I started",
+      "start": 181.4,
+      "duration": 4.28
+    },
+    {
+      "text": "recognizing it in so many patients that",
+      "start": 183.68,
+      "duration": 4.88
+    },
+    {
+      "text": "I was seeing initially in 2016 for",
+      "start": 185.68,
+      "duration": 4.96
+    },
+    {
+      "text": "contraception so when I was taking a",
+      "start": 188.56,
+      "duration": 4.679
+    },
+    {
+      "text": "full history from these patients I would",
+      "start": 190.64,
+      "duration": 4.679
+    },
+    {
+      "text": "think oh my goodness they've got mcast",
+      "start": 193.239,
+      "duration": 4.121
+    },
+    {
+      "text": "or they've got histamine intolerance and",
+      "start": 195.319,
+      "duration": 4.48
+    },
+    {
+      "text": "I started treating and helping them so",
+      "start": 197.36,
+      "duration": 4.36
+    },
+    {
+      "text": "it was about six or seven people a week",
+      "start": 199.799,
+      "duration": 3.52
+    },
+    {
+      "text": "I suppose who I was sort of",
+      "start": 201.72,
+      "duration": 4.48
+    },
+    {
+      "text": "coincidentally stumbling across and I",
+      "start": 203.319,
+      "duration": 6.161
+    },
+    {
+      "text": "did that for the next um well from 2016",
+      "start": 206.2,
+      "duration": 6.16
+    },
+    {
+      "text": "till now and then I developed an",
+      "start": 209.48,
+      "duration": 5.64
+    },
+    {
+      "text": "interest in long covid because when the",
+      "start": 212.36,
+      "duration": 5.28
+    },
+    {
+      "text": "covid pandemic first",
+      "start": 215.12,
+      "duration": 7.44
+    },
+    {
+      "text": "started I kept thinking and recognizing",
+      "start": 217.64,
+      "duration": 6.72
+    },
+    {
+      "text": "some of the pathology that was being",
+      "start": 222.56,
+      "duration": 5.039
+    },
+    {
+      "text": "described for the acute covid as being",
+      "start": 224.36,
+      "duration": 6.4
+    },
+    {
+      "text": "mcass type pathology and therefore I",
+      "start": 227.599,
+      "duration": 5.961
+    },
+    {
+      "text": "felt I knew a new way of perhaps",
+      "start": 230.76,
+      "duration": 7.16
+    },
+    {
+      "text": "treating acute covid and lo behold now",
+      "start": 233.56,
+      "duration": 5.8
+    },
+    {
+      "text": "other practitioners have been treating",
+      "start": 237.92,
+      "duration": 4.0
+    },
+    {
+      "text": "it in the way that I started to treat it",
+      "start": 239.36,
+      "duration": 5.4
+    },
+    {
+      "text": "very successfully and uh we believe that",
+      "start": 241.92,
+      "duration": 5.879
+    },
+    {
+      "text": "the hyperinflammation is mcass in acute",
+      "start": 244.76,
+      "duration": 6.92
+    },
+    {
+      "text": "covid and then in August of 2020 I",
+      "start": 247.799,
+      "duration": 7.201
+    },
+    {
+      "text": "started hearing about the symptoms of",
+      "start": 251.68,
+      "duration": 6.0
+    },
+    {
+      "text": "long covid and the existence of long",
+      "start": 255.0,
+      "duration": 5.6
+    },
+    {
+      "text": "covid and I recognize the symptoms as",
+      "start": 257.68,
+      "duration": 6.72
+    },
+    {
+      "text": "being mcast type symptoms really and and",
+      "start": 260.6,
+      "duration": 5.44
+    },
+    {
+      "text": "that's where my interest developed and",
+      "start": 264.4,
+      "duration": 4.6
+    },
+    {
+      "text": "so I opened an a long covid Clinic um on",
+      "start": 266.04,
+      "duration": 5.08
+    },
+    {
+      "text": "the 1st of November 2020 it must have",
+      "start": 269.0,
+      "duration": 4.479
+    },
+    {
+      "text": "been and then I organized a long covid",
+      "start": 271.12,
+      "duration": 4.359
+    },
+    {
+      "text": "Conference in June",
+      "start": 273.479,
+      "duration": 5.201
+    },
+    {
+      "text": "2021 and um I've now my clinic is so",
+      "start": 275.479,
+      "duration": 5.761
+    },
+    {
+      "text": "busy I've had to uh bring in another",
+      "start": 278.68,
+      "duration": 4.079
+    },
+    {
+      "text": "doctor and I'm hoping to bring in a",
+      "start": 281.24,
+      "duration": 3.959
+    },
+    {
+      "text": "third doctor to help because we've got",
+      "start": 282.759,
+      "duration": 5.0
+    },
+    {
+      "text": "so many patients to to try and help so",
+      "start": 285.199,
+      "duration": 4.44
+    },
+    {
+      "text": "that's me and a nutshell although I I",
+      "start": 287.759,
+      "duration": 4.041
+    },
+    {
+      "text": "still do the menopause stuff yeah oh",
+      "start": 289.639,
+      "duration": 4.12
+    },
+    {
+      "text": "that sounds amazing the interesting",
+      "start": 291.8,
+      "duration": 5.28
+    },
+    {
+      "text": "thing for me is that women who uh come",
+      "start": 293.759,
+      "duration": 6.761
+    },
+    {
+      "text": "for the menopause often have mcast",
+      "start": 297.08,
+      "duration": 6.839
+    },
+    {
+      "text": "issues and when they are given HRT it",
+      "start": 300.52,
+      "duration": 5.0
+    },
+    {
+      "text": "doesn't sort of work in the way that it",
+      "start": 303.919,
+      "duration": 2.84
+    },
+    {
+      "text": "works with women who haven't got the",
+      "start": 305.52,
+      "duration": 4.84
+    },
+    {
+      "text": "mcast issues so they struggle trying to",
+      "start": 306.759,
+      "duration": 4.72
+    },
+    {
+      "text": "settle on",
+      "start": 310.36,
+      "duration": 4.279
+    },
+    {
+      "text": "HRT and in my clinic we recognize that",
+      "start": 311.479,
+      "duration": 5.681
+    },
+    {
+      "text": "they could have an ayamine issue as well",
+      "start": 314.639,
+      "duration": 4.961
+    },
+    {
+      "text": "um and so we address both conditions and",
+      "start": 317.16,
+      "duration": 4.52
+    },
+    {
+      "text": "unless you address both you're not going",
+      "start": 319.6,
+      "duration": 4.08
+    },
+    {
+      "text": "to settle on the H CHT so that's another",
+      "start": 321.68,
+      "duration": 5.92
+    },
+    {
+      "text": "interesting Dynamic really aspect of it",
+      "start": 323.68,
+      "duration": 5.28
+    },
+    {
+      "text": "um I see a lot of women who've been",
+      "start": 327.6,
+      "duration": 4.159
+    },
+    {
+      "text": "elsewhere for HRT and never quite",
+      "start": 328.96,
+      "duration": 4.56
+    },
+    {
+      "text": "settled or or Managed IT and actually",
+      "start": 331.759,
+      "duration": 4.361
+    },
+    {
+      "text": "feel worse sometimes on the HRT and then",
+      "start": 333.52,
+      "duration": 4.28
+    },
+    {
+      "text": "when they come to see us we sort out the",
+      "start": 336.12,
+      "duration": 3.12
+    },
+    {
+      "text": "fact that they've got some high",
+      "start": 337.8,
+      "duration": 3.8
+    },
+    {
+      "text": "histamine issues um and you have to deal",
+      "start": 339.24,
+      "duration": 5.0
+    },
+    {
+      "text": "with that as well as the lack of",
+      "start": 341.6,
+      "duration": 4.439
+    },
+    {
+      "text": "hormones that's going on at the per",
+      "start": 344.24,
+      "duration": 4.12
+    },
+    {
+      "text": "menopause and postmenopausally so that",
+      "start": 346.039,
+      "duration": 3.961
+    },
+    {
+      "text": "we can help them you know improve their",
+      "start": 348.36,
+      "duration": 4.559
+    },
+    {
+      "text": "quality of life all around and it's it's",
+      "start": 350.0,
+      "duration": 4.639
+    },
+    {
+      "text": "um it's not right that women who have",
+      "start": 352.919,
+      "duration": 4.321
+    },
+    {
+      "text": "high histamine can't take HRT and should",
+      "start": 354.639,
+      "duration": 5.441
+    },
+    {
+      "text": "be denied the benefits and protection",
+      "start": 357.24,
+      "duration": 5.36
+    },
+    {
+      "text": "that HRT gives to women in their you",
+      "start": 360.08,
+      "duration": 6.04
+    },
+    {
+      "text": "know in their 50s 60s 7s 80s 90s yeah",
+      "start": 362.6,
+      "duration": 4.999
+    },
+    {
+      "text": "yeah it sounds like there's quite a lot",
+      "start": 366.12,
+      "duration": 4.479
+    },
+    {
+      "text": "of things potentially in play there um",
+      "start": 367.599,
+      "duration": 6.281
+    },
+    {
+      "text": "yeah so I mean would you mind explaining",
+      "start": 370.599,
+      "duration": 5.641
+    },
+    {
+      "text": "just a little bit more about what mcass",
+      "start": 373.88,
+      "duration": 4.159
+    },
+    {
+      "text": "is because I mean I'll admit until long",
+      "start": 376.24,
+      "duration": 4.44
+    },
+    {
+      "text": "Co came along I had never heard of it",
+      "start": 378.039,
+      "duration": 4.201
+    },
+    {
+      "text": "and I think that's probably the case for",
+      "start": 380.68,
+      "duration": 3.519
+    },
+    {
+      "text": "quite a lot of other people Jackie You",
+      "start": 382.24,
+      "duration": 3.28
+    },
+    {
+      "text": "Are Not",
+      "start": 384.199,
+      "duration": 4.641
+    },
+    {
+      "text": "Alone most doctors haven't heard of it",
+      "start": 385.52,
+      "duration": 6.079
+    },
+    {
+      "text": "and the reason is because it's quite a",
+      "start": 388.84,
+      "duration": 6.4
+    },
+    {
+      "text": "recently diagnosed put together sort of",
+      "start": 391.599,
+      "duration": 7.761
+    },
+    {
+      "text": "syndrome really um and the first cases",
+      "start": 395.24,
+      "duration": 6.84
+    },
+    {
+      "text": "were discussed in the",
+      "start": 399.36,
+      "duration": 5.48
+    },
+    {
+      "text": "1980s it was given a name in the",
+      "start": 402.08,
+      "duration": 6.959
+    },
+    {
+      "text": "1990s and then the three uh Publications",
+      "start": 404.84,
+      "duration": 7.44
+    },
+    {
+      "text": "or three cases were published in 2007 in",
+      "start": 409.039,
+      "duration": 4.56
+    },
+    {
+      "text": "the medical journals and that was the",
+      "start": 412.28,
+      "duration": 3.56
+    },
+    {
+      "text": "first time that this condition was",
+      "start": 413.599,
+      "duration": 4.72
+    },
+    {
+      "text": "described in the medical journals so any",
+      "start": 415.84,
+      "duration": 5.24
+    },
+    {
+      "text": "doctors who didn't have to read those",
+      "start": 418.319,
+      "duration": 5.361
+    },
+    {
+      "text": "presentations would not have heard of it",
+      "start": 421.08,
+      "duration": 4.2
+    },
+    {
+      "text": "and it would have bypassed them and most",
+      "start": 423.68,
+      "duration": 4.76
+    },
+    {
+      "text": "medical students we get an hour at the",
+      "start": 425.28,
+      "duration": 6.0
+    },
+    {
+      "text": "most on mast cells you know an hour",
+      "start": 428.44,
+      "duration": 4.96
+    },
+    {
+      "text": "lecture and most of that's about",
+      "start": 431.28,
+      "duration": 4.359
+    },
+    {
+      "text": "allergies and mast cells and a little",
+      "start": 433.4,
+      "duration": 4.16
+    },
+    {
+      "text": "bit about mastocytosis and I remember",
+      "start": 435.639,
+      "duration": 4.921
+    },
+    {
+      "text": "being taught that mastocytosis was so",
+      "start": 437.56,
+      "duration": 5.639
+    },
+    {
+      "text": "rare that I would never see it in my",
+      "start": 440.56,
+      "duration": 4.96
+    },
+    {
+      "text": "whole medical career the chances are I",
+      "start": 443.199,
+      "duration": 4.801
+    },
+    {
+      "text": "wouldn't wouldn't see a case and so you",
+      "start": 445.52,
+      "duration": 4.04
+    },
+    {
+      "text": "know when you've got so much to Lear",
+      "start": 448.0,
+      "duration": 4.039
+    },
+    {
+      "text": "learn um and to get your head round if",
+      "start": 449.56,
+      "duration": 3.72
+    },
+    {
+      "text": "you think well I'm not going to see that",
+      "start": 452.039,
+      "duration": 3.041
+    },
+    {
+      "text": "one you sort of you know put it to the",
+      "start": 453.28,
+      "duration": 4.319
+    },
+    {
+      "text": "back of your mind and don't really",
+      "start": 455.08,
+      "duration": 6.519
+    },
+    {
+      "text": "consider it um and uh and then M",
+      "start": 457.599,
+      "duration": 6.401
+    },
+    {
+      "text": "Activation Syndrome as I say is is very",
+      "start": 461.599,
+      "duration": 5.121
+    },
+    {
+      "text": "recently described and presented to the",
+      "start": 464.0,
+      "duration": 6.28
+    },
+    {
+      "text": "medical profession and so an awful lot",
+      "start": 466.72,
+      "duration": 5.64
+    },
+    {
+      "text": "of patients for things have got this",
+      "start": 470.28,
+      "duration": 4.0
+    },
+    {
+      "text": "condition and have spent decades",
+      "start": 472.36,
+      "duration": 4.679
+    },
+    {
+      "text": "presenting themselves to their GP with",
+      "start": 474.28,
+      "duration": 5.44
+    },
+    {
+      "text": "various symptoms all of which seem to be",
+      "start": 477.039,
+      "duration": 5.72
+    },
+    {
+      "text": "spirate and unrelated and actually",
+      "start": 479.72,
+      "duration": 7.08
+    },
+    {
+      "text": "they're all often related um and you",
+      "start": 482.759,
+      "duration": 5.921
+    },
+    {
+      "text": "know there is evidence of M Cell",
+      "start": 486.8,
+      "duration": 4.04
+    },
+    {
+      "text": "Activation involvement M cell",
+      "start": 488.68,
+      "duration": 4.32
+    },
+    {
+      "text": "involvement in IBS in",
+      "start": 490.84,
+      "duration": 5.759
+    },
+    {
+      "text": "fibromialgia in asthma depression me",
+      "start": 493.0,
+      "duration": 6.96
+    },
+    {
+      "text": "diabetes obesity atherosclerosis",
+      "start": 496.599,
+      "duration": 8.0
+    },
+    {
+      "text": "psoriasis rosacea eczema EDS um",
+      "start": 499.96,
+      "duration": 6.639
+    },
+    {
+      "text": "infertility",
+      "start": 504.599,
+      "duration": 4.361
+    },
+    {
+      "text": "endometriosis you know you you name it",
+      "start": 506.599,
+      "duration": 3.681
+    },
+    {
+      "text": "it's almost",
+      "start": 508.96,
+      "duration": 3.0
+    },
+    {
+      "text": "but certainly we've got evidence of",
+      "start": 510.28,
+      "duration": 4.199
+    },
+    {
+      "text": "marel involvement in those conditions",
+      "start": 511.96,
+      "duration": 6.199
+    },
+    {
+      "text": "and pots as well um chronic headaches",
+      "start": 514.479,
+      "duration": 6.48
+    },
+    {
+      "text": "and skin conditions hives rashes",
+      "start": 518.159,
+      "duration": 6.281
+    },
+    {
+      "text": "dermatographism and so on and generally",
+      "start": 520.959,
+      "duration": 5.721
+    },
+    {
+      "text": "patients were sent by their G are sent",
+      "start": 524.44,
+      "duration": 6.44
+    },
+    {
+      "text": "by their GPS to each of the Specialties",
+      "start": 526.68,
+      "duration": 6.44
+    },
+    {
+      "text": "um in isolation so if they have IBS",
+      "start": 530.88,
+      "duration": 3.68
+    },
+    {
+      "text": "they'll be sent to see a",
+      "start": 533.12,
+      "duration": 3.399
+    },
+    {
+      "text": "gastroenterologist if they have pot they",
+      "start": 534.56,
+      "duration": 4.08
+    },
+    {
+      "text": "go and see a cardiologist if they have",
+      "start": 536.519,
+      "duration": 3.801
+    },
+    {
+      "text": "skin problems are going say",
+      "start": 538.64,
+      "duration": 3.72
+    },
+    {
+      "text": "dermatologist and each of these",
+      "start": 540.32,
+      "duration": 4.0
+    },
+    {
+      "text": "consultants if they didn't know about",
+      "start": 542.36,
+      "duration": 4.12
+    },
+    {
+      "text": "mcast would only concentrate on the",
+      "start": 544.32,
+      "duration": 4.639
+    },
+    {
+      "text": "symptoms to do with their modality you",
+      "start": 546.48,
+      "duration": 4.56
+    },
+    {
+      "text": "know and they wouldn't see the patient",
+      "start": 548.959,
+      "duration": 4.641
+    },
+    {
+      "text": "as a whole and be thinking about what",
+      "start": 551.04,
+      "duration": 3.96
+    },
+    {
+      "text": "else was going on with them and could it",
+      "start": 553.6,
+      "duration": 3.96
+    },
+    {
+      "text": "be related and so they would come back",
+      "start": 555.0,
+      "duration": 5.6
+    },
+    {
+      "text": "with usually completely normal tests",
+      "start": 557.56,
+      "duration": 4.68
+    },
+    {
+      "text": "which of course is very reassuring it",
+      "start": 560.6,
+      "duration": 3.359
+    },
+    {
+      "text": "means nothing else is going on that we",
+      "start": 562.24,
+      "duration": 4.039
+    },
+    {
+      "text": "could miss you know and that's important",
+      "start": 563.959,
+      "duration": 4.241
+    },
+    {
+      "text": "because people with mcast can also have",
+      "start": 566.279,
+      "duration": 4.641
+    },
+    {
+      "text": "other conditions and they need to be",
+      "start": 568.2,
+      "duration": 5.879
+    },
+    {
+      "text": "treated and excluded um but they",
+      "start": 570.92,
+      "duration": 5.56
+    },
+    {
+      "text": "wouldn't come back with any treatment or",
+      "start": 574.079,
+      "duration": 5.281
+    },
+    {
+      "text": "any idea of what was going on with them",
+      "start": 576.48,
+      "duration": 5.84
+    },
+    {
+      "text": "physically and that is mentally very",
+      "start": 579.36,
+      "duration": 5.719
+    },
+    {
+      "text": "very tough and which mean that they",
+      "start": 582.32,
+      "duration": 4.92
+    },
+    {
+      "text": "often had a very low quality of life for",
+      "start": 585.079,
+      "duration": 5.0
+    },
+    {
+      "text": "many many decades with not a clue and",
+      "start": 587.24,
+      "duration": 4.44
+    },
+    {
+      "text": "they sometimes made to feel like they",
+      "start": 590.079,
+      "duration": 4.601
+    },
+    {
+      "text": "were hypochondriacs or they were moaning",
+      "start": 591.68,
+      "duration": 4.68
+    },
+    {
+      "text": "and they were always ill but it was Ill",
+      "start": 594.68,
+      "duration": 3.64
+    },
+    {
+      "text": "in their mind and so on and actually it",
+      "start": 596.36,
+      "duration": 6.24
+    },
+    {
+      "text": "was really real and it can be improved",
+      "start": 598.32,
+      "duration": 6.959
+    },
+    {
+      "text": "and sorted it can't be cured we've",
+      "start": 602.6,
+      "duration": 5.0
+    },
+    {
+      "text": "identified over 50 mutations in the kit",
+      "start": 605.279,
+      "duration": 4.921
+    },
+    {
+      "text": "genes across all the kit domains which",
+      "start": 607.6,
+      "duration": 5.0
+    },
+    {
+      "text": "have to do with M cell production",
+      "start": 610.2,
+      "duration": 5.199
+    },
+    {
+      "text": "multiplication and the way they work and",
+      "start": 612.6,
+      "duration": 5.4
+    },
+    {
+      "text": "generally we think people probably have",
+      "start": 615.399,
+      "duration": 5.081
+    },
+    {
+      "text": "multiple mutations in the kit genes and",
+      "start": 618.0,
+      "duration": 5.16
+    },
+    {
+      "text": "depending on their pattern of mutations",
+      "start": 620.48,
+      "duration": 4.2
+    },
+    {
+      "text": "they will probably present in slightly",
+      "start": 623.16,
+      "duration": 4.359
+    },
+    {
+      "text": "different ways to each other so um it's",
+      "start": 624.68,
+      "duration": 5.04
+    },
+    {
+      "text": "complex and there's very little research",
+      "start": 627.519,
+      "duration": 4.041
+    },
+    {
+      "text": "that's been done into it so we",
+      "start": 629.72,
+      "duration": 3.44
+    },
+    {
+      "text": "absolutely need more research you know",
+      "start": 631.56,
+      "duration": 4.079
+    },
+    {
+      "text": "we need we need improved diagnostic",
+      "start": 633.16,
+      "duration": 6.239
+    },
+    {
+      "text": "techniques we need um genomic sequencing",
+      "start": 635.639,
+      "duration": 6.041
+    },
+    {
+      "text": "of the mass cells to distinguish primary",
+      "start": 639.399,
+      "duration": 4.601
+    },
+    {
+      "text": "from secondary disease you know where is",
+      "start": 641.68,
+      "duration": 4.839
+    },
+    {
+      "text": "it being caused where it's not genetic",
+      "start": 644.0,
+      "duration": 4.2
+    },
+    {
+      "text": "but it's caused because of the way the M",
+      "start": 646.519,
+      "duration": 5.201
+    },
+    {
+      "text": "cells have been aggravated by the",
+      "start": 648.2,
+      "duration": 5.92
+    },
+    {
+      "text": "environment and also look at those",
+      "start": 651.72,
+      "duration": 4.239
+    },
+    {
+      "text": "different mutational patterns we need to",
+      "start": 654.12,
+      "duration": 3.719
+    },
+    {
+      "text": "look at that so that we can see if they",
+      "start": 655.959,
+      "duration": 3.32
+    },
+    {
+      "text": "correlate with various different",
+      "start": 657.839,
+      "duration": 3.201
+    },
+    {
+      "text": "clinical presentations which would be",
+      "start": 659.279,
+      "duration": 4.56
+    },
+    {
+      "text": "really helpful and we also need to look",
+      "start": 661.04,
+      "duration": 5.479
+    },
+    {
+      "text": "at the biomarkers you know that they the",
+      "start": 663.839,
+      "duration": 4.321
+    },
+    {
+      "text": "cyto kindes that they produce are we",
+      "start": 666.519,
+      "duration": 5.481
+    },
+    {
+      "text": "able to predict which cyto kindes are",
+      "start": 668.16,
+      "duration": 6.72
+    },
+    {
+      "text": "causing which symptoms you know and how",
+      "start": 672.0,
+      "duration": 4.56
+    },
+    {
+      "text": "to therefore treat people and therefore",
+      "start": 674.88,
+      "duration": 3.639
+    },
+    {
+      "text": "get targeted therapies so there's a lot",
+      "start": 676.56,
+      "duration": 4.12
+    },
+    {
+      "text": "of work to be done you know and the",
+      "start": 678.519,
+      "duration": 5.041
+    },
+    {
+      "text": "iology of MCAS is is thought to be",
+      "start": 680.68,
+      "duration": 5.8
+    },
+    {
+      "text": "environmental genetic viral and",
+      "start": 683.56,
+      "duration": 6.04
+    },
+    {
+      "text": "epigenetic so it's not just genetic so",
+      "start": 686.48,
+      "duration": 5.08
+    },
+    {
+      "text": "it can be just purely environmental and",
+      "start": 689.6,
+      "duration": 3.64
+    },
+    {
+      "text": "the response of the M cells to the",
+      "start": 691.56,
+      "duration": 4.76
+    },
+    {
+      "text": "environment that a person finds thems in",
+      "start": 693.24,
+      "duration": 5.44
+    },
+    {
+      "text": "it can be viral as in",
+      "start": 696.32,
+      "duration": 5.72
+    },
+    {
+      "text": "postco and it can be where there's non-",
+      "start": 698.68,
+      "duration": 5.68
+    },
+    {
+      "text": "gentic influences on gene expression",
+      "start": 702.04,
+      "duration": 3.2
+    },
+    {
+      "text": "that's",
+      "start": 704.36,
+      "duration": 3.68
+    },
+    {
+      "text": "epigenetic yeah so it's",
+      "start": 705.24,
+      "duration": 5.2
+    },
+    {
+      "text": "complicated and a lot of doctors have",
+      "start": 708.04,
+      "duration": 4.64
+    },
+    {
+      "text": "not even heard about it so they don't",
+      "start": 710.44,
+      "duration": 5.72
+    },
+    {
+      "text": "know to look for it but the mcass We",
+      "start": 712.68,
+      "duration": 5.56
+    },
+    {
+      "text": "Believe has got about a",
+      "start": 716.16,
+      "duration": 4.84
+    },
+    {
+      "text": "177% incidents in the population so it's",
+      "start": 718.24,
+      "duration": 5.96
+    },
+    {
+      "text": "a lot of people it's a lot of people and",
+      "start": 721.0,
+      "duration": 4.68
+    },
+    {
+      "text": "if you think about how many people you",
+      "start": 724.2,
+      "duration": 3.8
+    },
+    {
+      "text": "know with IBS with fibromyalgia with",
+      "start": 725.68,
+      "duration": 4.719
+    },
+    {
+      "text": "chronic headaches with you know ticar",
+      "start": 728.0,
+      "duration": 5.8
+    },
+    {
+      "text": "itchy skin issues and so on with rosacea",
+      "start": 730.399,
+      "duration": 6.56
+    },
+    {
+      "text": "eczema psoriasis it's a lot of people so",
+      "start": 733.8,
+      "duration": 5.399
+    },
+    {
+      "text": "you can see why 17 and a half percent is",
+      "start": 736.959,
+      "duration": 4.0
+    },
+    {
+      "text": "probably about right yeah I mean that's",
+      "start": 739.199,
+      "duration": 4.241
+    },
+    {
+      "text": "huge isn't it that's almost a fifth yes",
+      "start": 740.959,
+      "duration": 5.0
+    },
+    {
+      "text": "that's right and there is a hypothesis",
+      "start": 743.44,
+      "duration": 4.92
+    },
+    {
+      "text": "that the patients who did very badly",
+      "start": 745.959,
+      "duration": 5.201
+    },
+    {
+      "text": "with covid the ones who ended up in itu",
+      "start": 748.36,
+      "duration": 6.52
+    },
+    {
+      "text": "ETC were often came from the mcast pool",
+      "start": 751.16,
+      "duration": 7.039
+    },
+    {
+      "text": "of people because they had an abnormal",
+      "start": 754.88,
+      "duration": 5.959
+    },
+    {
+      "text": "immune response to the virus and",
+      "start": 758.199,
+      "duration": 6.241
+    },
+    {
+      "text": "certainly that would seem to be correct",
+      "start": 760.839,
+      "duration": 6.0
+    },
+    {
+      "text": "in as much that we know when we treat",
+      "start": 764.44,
+      "duration": 4.56
+    },
+    {
+      "text": "acute covid it can be treated with",
+      "start": 766.839,
+      "duration": 3.44
+    },
+    {
+      "text": "various vitamins and minerals that",
+      "start": 769.0,
+      "duration": 3.68
+    },
+    {
+      "text": "support the methylation cycles and the",
+      "start": 770.279,
+      "duration": 5.641
+    },
+    {
+      "text": "immune system but also with",
+      "start": 772.68,
+      "duration": 5.92
+    },
+    {
+      "text": "antihistamines very effectively because",
+      "start": 775.92,
+      "duration": 4.32
+    },
+    {
+      "text": "it's the m cells that are producing the",
+      "start": 778.6,
+      "duration": 4.88
+    },
+    {
+      "text": "cyto storm and causing this massive of",
+      "start": 780.24,
+      "duration": 5.48
+    },
+    {
+      "text": "histamine release this large histamine",
+      "start": 783.48,
+      "duration": 4.359
+    },
+    {
+      "text": "release that then causes inflammation",
+      "start": 785.72,
+      "duration": 3.32
+    },
+    {
+      "text": "and then",
+      "start": 787.839,
+      "duration": 3.201
+    },
+    {
+      "text": "hyperinflammation which causes the the",
+      "start": 789.04,
+      "duration": 3.359
+    },
+    {
+      "text": "great difficulties for many of the",
+      "start": 791.04,
+      "duration": 4.12
+    },
+    {
+      "text": "patients who end up in itu and that's",
+      "start": 792.399,
+      "duration": 5.88
+    },
+    {
+      "text": "not a normal response to infection and",
+      "start": 795.16,
+      "duration": 4.96
+    },
+    {
+      "text": "those who have a robust immune system",
+      "start": 798.279,
+      "duration": 3.721
+    },
+    {
+      "text": "and normal mass cells they would have",
+      "start": 800.12,
+      "duration": 5.0
+    },
+    {
+      "text": "the illness like any flu and get better",
+      "start": 802.0,
+      "duration": 4.92
+    },
+    {
+      "text": "and their mass cells and everything",
+      "start": 805.12,
+      "duration": 3.719
+    },
+    {
+      "text": "would return to normal very quickly",
+      "start": 806.92,
+      "duration": 4.359
+    },
+    {
+      "text": "where whereas patients with mcast that",
+      "start": 808.839,
+      "duration": 4.641
+    },
+    {
+      "text": "didn't happen there was a study at",
+      "start": 811.279,
+      "duration": 5.24
+    },
+    {
+      "text": "Oxford University and it was by begam",
+      "start": 813.48,
+      "duration": 6.56
+    },
+    {
+      "text": "MOSI atal and they they looked at the",
+      "start": 816.519,
+      "duration": 8.12
+    },
+    {
+      "text": "response of people who had severe acute",
+      "start": 820.04,
+      "duration": 7.88
+    },
+    {
+      "text": "covid and those who had mild acute covid",
+      "start": 824.639,
+      "duration": 5.32
+    },
+    {
+      "text": "and they've distinguished and said some",
+      "start": 827.92,
+      "duration": 4.76
+    },
+    {
+      "text": "people their immune markers got back to",
+      "start": 829.959,
+      "duration": 5.0
+    },
+    {
+      "text": "normal very quickly and others didn't",
+      "start": 832.68,
+      "duration": 3.64
+    },
+    {
+      "text": "and the ones who didn't are the ones who",
+      "start": 834.959,
+      "duration": 3.201
+    },
+    {
+      "text": "went on to get long covid and I believe",
+      "start": 836.32,
+      "duration": 3.72
+    },
+    {
+      "text": "that that they didn't make the link of",
+      "start": 838.16,
+      "duration": 3.84
+    },
+    {
+      "text": "maral Activation Syndrome but I believe",
+      "start": 840.04,
+      "duration": 3.64
+    },
+    {
+      "text": "that that's what they were showing in",
+      "start": 842.0,
+      "duration": 3.8
+    },
+    {
+      "text": "their paper you know they also didn't",
+      "start": 843.68,
+      "duration": 3.76
+    },
+    {
+      "text": "know about maral Activation Syndrome",
+      "start": 845.8,
+      "duration": 3.8
+    },
+    {
+      "text": "they weren't looking to make that link",
+      "start": 847.44,
+      "duration": 3.639
+    },
+    {
+      "text": "but that's what they stated in their",
+      "start": 849.6,
+      "duration": 3.84
+    },
+    {
+      "text": "sort of conclusion yeah so there's an",
+      "start": 851.079,
+      "duration": 4.361
+    },
+    {
+      "text": "awful lot more to do and a lot a lot",
+      "start": 853.44,
+      "duration": 3.639
+    },
+    {
+      "text": "more to learn but there are things we",
+      "start": 855.44,
+      "duration": 4.8
+    },
+    {
+      "text": "can do and that we do know yeah that's",
+      "start": 857.079,
+      "duration": 5.0
+    },
+    {
+      "text": "really really interesting I mean you",
+      "start": 860.24,
+      "duration": 3.719
+    },
+    {
+      "text": "were talking about the inflammation and",
+      "start": 862.079,
+      "duration": 3.601
+    },
+    {
+      "text": "there's a lot of talk about inflammation",
+      "start": 863.959,
+      "duration": 3.361
+    },
+    {
+      "text": "being one of those things that kind of",
+      "start": 865.68,
+      "duration": 4.159
+    },
+    {
+      "text": "underpins a lot of the lung",
+      "start": 867.32,
+      "duration": 5.56
+    },
+    {
+      "text": "yeah um kind of symptoms and what causes",
+      "start": 869.839,
+      "duration": 5.041
+    },
+    {
+      "text": "it and and things as well so that plays",
+      "start": 872.88,
+      "duration": 4.24
+    },
+    {
+      "text": "into that too yes and if you think about",
+      "start": 874.88,
+      "duration": 4.399
+    },
+    {
+      "text": "where the mast cells are what they are",
+      "start": 877.12,
+      "duration": 4.8
+    },
+    {
+      "text": "if you imagine is like they are the",
+      "start": 879.279,
+      "duration": 5.521
+    },
+    {
+      "text": "bouncers in a club okay who stand at the",
+      "start": 881.92,
+      "duration": 5.159
+    },
+    {
+      "text": "door or just inside the doorway all",
+      "start": 884.8,
+      "duration": 4.12
+    },
+    {
+      "text": "right so anywhere that our body is",
+      "start": 887.079,
+      "duration": 3.56
+    },
+    {
+      "text": "exposed to the environment so that's our",
+      "start": 888.92,
+      "duration": 5.159
+    },
+    {
+      "text": "nasal passages our Oro farings our lungs",
+      "start": 890.639,
+      "duration": 6.2
+    },
+    {
+      "text": "our gut our skin you know the vagina the",
+      "start": 894.079,
+      "duration": 4.081
+    },
+    {
+      "text": "anywhere that's in contact with the",
+      "start": 896.839,
+      "duration": 4.12
+    },
+    {
+      "text": "environment really is full of mass cells",
+      "start": 898.16,
+      "duration": 4.919
+    },
+    {
+      "text": "they're also they are interstitial so",
+      "start": 900.959,
+      "duration": 3.88
+    },
+    {
+      "text": "they're not floating around in the",
+      "start": 903.079,
+      "duration": 4.401
+    },
+    {
+      "text": "bloodstream they are generally in the",
+      "start": 904.839,
+      "duration": 6.321
+    },
+    {
+      "text": "tissues and they are around the nerves",
+      "start": 907.48,
+      "duration": 6.08
+    },
+    {
+      "text": "they're around the lymphatics and then",
+      "start": 911.16,
+      "duration": 3.84
+    },
+    {
+      "text": "when they are stimulated and they",
+      "start": 913.56,
+      "duration": 3.32
+    },
+    {
+      "text": "release this cyto kind storm that",
+      "start": 915.0,
+      "duration": 3.759
+    },
+    {
+      "text": "everyone is now familiar with and has",
+      "start": 916.88,
+      "duration": 4.6
+    },
+    {
+      "text": "read about so many times with covid the",
+      "start": 918.759,
+      "duration": 5.44
+    },
+    {
+      "text": "cyto kind storm creates the",
+      "start": 921.48,
+      "duration": 5.08
+    },
+    {
+      "text": "inflammation and uh also releases",
+      "start": 924.199,
+      "duration": 4.12
+    },
+    {
+      "text": "Heparin which increases bruising and",
+      "start": 926.56,
+      "duration": 4.48
+    },
+    {
+      "text": "increases bleed Bing it also releases",
+      "start": 928.319,
+      "duration": 5.241
+    },
+    {
+      "text": "elastase 2 which causes membranes to",
+      "start": 931.04,
+      "duration": 4.84
+    },
+    {
+      "text": "break down um and all of these things of",
+      "start": 933.56,
+      "duration": 4.719
+    },
+    {
+      "text": "course are quite damaging to the body if",
+      "start": 935.88,
+      "duration": 5.399
+    },
+    {
+      "text": "they are long-term and become chronic um",
+      "start": 938.279,
+      "duration": 4.401
+    },
+    {
+      "text": "they're supposed to be part of the",
+      "start": 941.279,
+      "duration": 3.56
+    },
+    {
+      "text": "natural immune response to acute",
+      "start": 942.68,
+      "duration": 4.159
+    },
+    {
+      "text": "infection but they're supposed to go",
+      "start": 944.839,
+      "duration": 4.841
+    },
+    {
+      "text": "very quickly but in patients with mcass",
+      "start": 946.839,
+      "duration": 4.92
+    },
+    {
+      "text": "those M cells just keep producing those",
+      "start": 949.68,
+      "duration": 4.279
+    },
+    {
+      "text": "cyto kindes and they keep going with it",
+      "start": 951.759,
+      "duration": 3.44
+    },
+    {
+      "text": "and they don't know when to stop",
+      "start": 953.959,
+      "duration": 4.12
+    },
+    {
+      "text": "basically so that prolongs all the",
+      "start": 955.199,
+      "duration": 5.361
+    },
+    {
+      "text": "symptoms and get get into this vicious",
+      "start": 958.079,
+      "duration": 4.921
+    },
+    {
+      "text": "cycle of inflammation and you know if it",
+      "start": 960.56,
+      "duration": 3.759
+    },
+    {
+      "text": "affecting your nerves then I think",
+      "start": 963.0,
+      "duration": 3.079
+    },
+    {
+      "text": "that's what causes this fizzy feeling",
+      "start": 964.319,
+      "duration": 4.08
+    },
+    {
+      "text": "that people talk about vibrations in",
+      "start": 966.079,
+      "duration": 3.841
+    },
+    {
+      "text": "their bodies and things I think that's",
+      "start": 968.399,
+      "duration": 3.961
+    },
+    {
+      "text": "where the mar cells are around their",
+      "start": 969.92,
+      "duration": 4.919
+    },
+    {
+      "text": "nerves and and are aggravated by the",
+      "start": 972.36,
+      "duration": 5.32
+    },
+    {
+      "text": "covid and so on so it's you can when you",
+      "start": 974.839,
+      "duration": 4.721
+    },
+    {
+      "text": "start to understand a little bit of it",
+      "start": 977.68,
+      "duration": 4.24
+    },
+    {
+      "text": "you can sort of see what's happening in",
+      "start": 979.56,
+      "duration": 5.279
+    },
+    {
+      "text": "the body and when the gut is affected we",
+      "start": 981.92,
+      "duration": 4.279
+    },
+    {
+      "text": "are learning more and more about that",
+      "start": 984.839,
+      "duration": 4.281
+    },
+    {
+      "text": "and the microbiome seems to be affected",
+      "start": 986.199,
+      "duration": 4.801
+    },
+    {
+      "text": "and we also there are a couple of papers",
+      "start": 989.12,
+      "duration": 4.32
+    },
+    {
+      "text": "recently they looked at whether covid",
+      "start": 991.0,
+      "duration": 4.079
+    },
+    {
+      "text": "was present and they found covid present",
+      "start": 993.44,
+      "duration": 4.639
+    },
+    {
+      "text": "in the stools and they think in the long",
+      "start": 995.079,
+      "duration": 5.481
+    },
+    {
+      "text": "covid patients maybe covid is being",
+      "start": 998.079,
+      "duration": 4.521
+    },
+    {
+      "text": "produced is still multiplying up in the",
+      "start": 1000.56,
+      "duration": 4.16
+    },
+    {
+      "text": "gut and therefore we're now starting to",
+      "start": 1002.6,
+      "duration": 4.599
+    },
+    {
+      "text": "think maybe what we should be doing is",
+      "start": 1004.72,
+      "duration": 4.119
+    },
+    {
+      "text": "clearing the gut with some of some",
+      "start": 1007.199,
+      "duration": 3.401
+    },
+    {
+      "text": "antibiotics and they actually proved",
+      "start": 1008.839,
+      "duration": 4.8
+    },
+    {
+      "text": "which antibiotics worked in this study",
+      "start": 1010.6,
+      "duration": 4.52
+    },
+    {
+      "text": "which is very interesting so it was",
+      "start": 1013.639,
+      "duration": 3.32
+    },
+    {
+      "text": "metronidazol which is not a nice",
+      "start": 1015.12,
+      "duration": 4.32
+    },
+    {
+      "text": "antibiotic uh viny",
+      "start": 1016.959,
+      "duration": 4.481
+    },
+    {
+      "text": "amoxicillin a couple of others which I",
+      "start": 1019.44,
+      "duration": 4.16
+    },
+    {
+      "text": "can't remember but there are some",
+      "start": 1021.44,
+      "duration": 4.56
+    },
+    {
+      "text": "natural remedies that one can take which",
+      "start": 1023.6,
+      "duration": 5.479
+    },
+    {
+      "text": "would be worth trying first so that's",
+      "start": 1026.0,
+      "duration": 4.559
+    },
+    {
+      "text": "another aspect we need to look at",
+      "start": 1029.079,
+      "duration": 4.401
+    },
+    {
+      "text": "because maybe I feel with my long Co",
+      "start": 1030.559,
+      "duration": 5.0
+    },
+    {
+      "text": "patient there's something keeping it",
+      "start": 1033.48,
+      "duration": 4.319
+    },
+    {
+      "text": "going you know we're doing all the right",
+      "start": 1035.559,
+      "duration": 4.4
+    },
+    {
+      "text": "treatments for mcast but they're still",
+      "start": 1037.799,
+      "duration": 4.561
+    },
+    {
+      "text": "unwell um they might get a bit better",
+      "start": 1039.959,
+      "duration": 4.48
+    },
+    {
+      "text": "but not completely better and they",
+      "start": 1042.36,
+      "duration": 4.76
+    },
+    {
+      "text": "relapse and it feels like there's still",
+      "start": 1044.439,
+      "duration": 4.881
+    },
+    {
+      "text": "something pressing the buttons keeping",
+      "start": 1047.12,
+      "duration": 5.679
+    },
+    {
+      "text": "it going um I've identified a few",
+      "start": 1049.32,
+      "duration": 6.88
+    },
+    {
+      "text": "interesting stimuli and your listeners",
+      "start": 1052.799,
+      "duration": 5.361
+    },
+    {
+      "text": "may be very interested in this and mold",
+      "start": 1056.2,
+      "duration": 5.96
+    },
+    {
+      "text": "is one that they must look for so mold",
+      "start": 1058.16,
+      "duration": 6.28
+    },
+    {
+      "text": "if you've been ever ever been exposed to",
+      "start": 1062.16,
+      "duration": 5.04
+    },
+    {
+      "text": "mold in your house uh where you've",
+      "start": 1064.44,
+      "duration": 6.32
+    },
+    {
+      "text": "stayed whatever you must think about",
+      "start": 1067.2,
+      "duration": 6.52
+    },
+    {
+      "text": "treating microt toxins in your body and",
+      "start": 1070.76,
+      "duration": 4.72
+    },
+    {
+      "text": "there are some various tests one can do",
+      "start": 1073.72,
+      "duration": 4.319
+    },
+    {
+      "text": "to look for them uh there's a urine test",
+      "start": 1075.48,
+      "duration": 5.76
+    },
+    {
+      "text": "which is a great PLS mot toxin test that",
+      "start": 1078.039,
+      "duration": 5.801
+    },
+    {
+      "text": "can be done on online off the internet",
+      "start": 1081.24,
+      "duration": 4.4
+    },
+    {
+      "text": "um some doctors say know you need to do",
+      "start": 1083.84,
+      "duration": 4.12
+    },
+    {
+      "text": "a blood test but actually in the UK it's",
+      "start": 1085.64,
+      "duration": 4.44
+    },
+    {
+      "text": "very difficult to get the antibod for",
+      "start": 1087.96,
+      "duration": 4.52
+    },
+    {
+      "text": "the microt toxins done here so we might",
+      "start": 1090.08,
+      "duration": 5.0
+    },
+    {
+      "text": "have to rely on the urine but um yeah",
+      "start": 1092.48,
+      "duration": 4.48
+    },
+    {
+      "text": "it's very important to treat those it",
+      "start": 1095.08,
+      "duration": 5.0
+    },
+    {
+      "text": "also seems to be the covid virus seems",
+      "start": 1096.96,
+      "duration": 5.44
+    },
+    {
+      "text": "to reactivate Epstein bar virus the",
+      "start": 1100.08,
+      "duration": 6.12
+    },
+    {
+      "text": "gland virus so again one needs to check",
+      "start": 1102.4,
+      "duration": 5.56
+    },
+    {
+      "text": "that with your doctors has that been",
+      "start": 1106.2,
+      "duration": 3.959
+    },
+    {
+      "text": "reactivated need to have treatment for",
+      "start": 1107.96,
+      "duration": 5.839
+    },
+    {
+      "text": "that fairly long term um limes disease",
+      "start": 1110.159,
+      "duration": 5.921
+    },
+    {
+      "text": "as well is another one that it seems to",
+      "start": 1113.799,
+      "duration": 5.041
+    },
+    {
+      "text": "reactivate and if we don't eliminate",
+      "start": 1116.08,
+      "duration": 4.12
+    },
+    {
+      "text": "those we're never going to sort of get",
+      "start": 1118.84,
+      "duration": 2.8
+    },
+    {
+      "text": "people better and now I'm starting to",
+      "start": 1120.2,
+      "duration": 4.359
+    },
+    {
+      "text": "look at the uh possibility of the covid",
+      "start": 1121.64,
+      "duration": 5.44
+    },
+    {
+      "text": "still being in the guts and how we",
+      "start": 1124.559,
+      "duration": 4.921
+    },
+    {
+      "text": "should treat that really if somebody has",
+      "start": 1127.08,
+      "duration": 5.56
+    },
+    {
+      "text": "lots of gastric symptoms you know but",
+      "start": 1129.48,
+      "duration": 5.559
+    },
+    {
+      "text": "it's a complicated picture yeah it",
+      "start": 1132.64,
+      "duration": 3.96
+    },
+    {
+      "text": "definitely is and what you were just",
+      "start": 1135.039,
+      "duration": 3.321
+    },
+    {
+      "text": "saying about you know the people getting",
+      "start": 1136.6,
+      "duration": 3.439
+    },
+    {
+      "text": "a bit better but there's still being",
+      "start": 1138.36,
+      "duration": 3.319
+    },
+    {
+      "text": "something it's almost like we're missing",
+      "start": 1140.039,
+      "duration": 3.921
+    },
+    {
+      "text": "a tiny piece of the puzzle isn't it yes",
+      "start": 1141.679,
+      "duration": 4.161
+    },
+    {
+      "text": "it does feel like that and there are",
+      "start": 1143.96,
+      "duration": 5.16
+    },
+    {
+      "text": "certain things that I do in my clinic to",
+      "start": 1145.84,
+      "duration": 7.0
+    },
+    {
+      "text": "try and look at all aspects of this and",
+      "start": 1149.12,
+      "duration": 5.76
+    },
+    {
+      "text": "the person holistically so we look at",
+      "start": 1152.84,
+      "duration": 4.88
+    },
+    {
+      "text": "their genes and get a lot of very",
+      "start": 1154.88,
+      "duration": 5.56
+    },
+    {
+      "text": "helpful information from their genetic",
+      "start": 1157.72,
+      "duration": 4.88
+    },
+    {
+      "text": "profile uh to do with their methylation",
+      "start": 1160.44,
+      "duration": 3.84
+    },
+    {
+      "text": "Cycles their histamine",
+      "start": 1162.6,
+      "duration": 5.12
+    },
+    {
+      "text": "metabolism especially and their estrogen",
+      "start": 1164.28,
+      "duration": 5.6
+    },
+    {
+      "text": "metabolism because all of those feed",
+      "start": 1167.72,
+      "duration": 4.8
+    },
+    {
+      "text": "into each other you know um so that's",
+      "start": 1169.88,
+      "duration": 5.32
+    },
+    {
+      "text": "important to look at and then support",
+      "start": 1172.52,
+      "duration": 4.8
+    },
+    {
+      "text": "the body with vitamins and minerals",
+      "start": 1175.2,
+      "duration": 4.92
+    },
+    {
+      "text": "where they are co-actors for poorly",
+      "start": 1177.32,
+      "duration": 4.96
+    },
+    {
+      "text": "performing genes in those",
+      "start": 1180.12,
+      "duration": 4.96
+    },
+    {
+      "text": "Pathways so if you identify that",
+      "start": 1182.28,
+      "duration": 4.519
+    },
+    {
+      "text": "somebody has got very poor histamine",
+      "start": 1185.08,
+      "duration": 4.719
+    },
+    {
+      "text": "metabolism for example then you know",
+      "start": 1186.799,
+      "duration": 5.281
+    },
+    {
+      "text": "that going on a low histamine diet is",
+      "start": 1189.799,
+      "duration": 4.76
+    },
+    {
+      "text": "going to be very helpful for them and",
+      "start": 1192.08,
+      "duration": 4.44
+    },
+    {
+      "text": "antihistamine should be very helpful for",
+      "start": 1194.559,
+      "duration": 5.281
+    },
+    {
+      "text": "them as well so um we look at the genes",
+      "start": 1196.52,
+      "duration": 6.32
+    },
+    {
+      "text": "we look at the microbiome of the gut and",
+      "start": 1199.84,
+      "duration": 6.44
+    },
+    {
+      "text": "that has been often very disrupted now",
+      "start": 1202.84,
+      "duration": 6.16
+    },
+    {
+      "text": "whether it was disrupted prior to covid",
+      "start": 1206.28,
+      "duration": 5.72
+    },
+    {
+      "text": "or it's disrupted by covid often it's",
+      "start": 1209.0,
+      "duration": 6.32
+    },
+    {
+      "text": "worse with covid um but by no means are",
+      "start": 1212.0,
+      "duration": 6.48
+    },
+    {
+      "text": "all these patients perfect um specimens",
+      "start": 1215.32,
+      "duration": 4.76
+    },
+    {
+      "text": "when it comes to their gut before you",
+      "start": 1218.48,
+      "duration": 4.439
+    },
+    {
+      "text": "know so we look at the the balance of",
+      "start": 1220.08,
+      "duration": 6.16
+    },
+    {
+      "text": "the bacteria the biomarkers the",
+      "start": 1222.919,
+      "duration": 5.441
+    },
+    {
+      "text": "inflammatory markers the immune uh",
+      "start": 1226.24,
+      "duration": 5.08
+    },
+    {
+      "text": "system markers and try and get that much",
+      "start": 1228.36,
+      "duration": 4.799
+    },
+    {
+      "text": "better into balance you know much better",
+      "start": 1231.32,
+      "duration": 4.44
+    },
+    {
+      "text": "balance for all of that giving the right",
+      "start": 1233.159,
+      "duration": 4.921
+    },
+    {
+      "text": "probiotics boosting the immune system",
+      "start": 1235.76,
+      "duration": 3.919
+    },
+    {
+      "text": "through the gut where most of our immune",
+      "start": 1238.08,
+      "duration": 3.92
+    },
+    {
+      "text": "system is actually 70% of our immunity",
+      "start": 1239.679,
+      "duration": 6.0
+    },
+    {
+      "text": "is in our gut so we look at that um we",
+      "start": 1242.0,
+      "duration": 6.32
+    },
+    {
+      "text": "look at the psychological aspects as",
+      "start": 1245.679,
+      "duration": 6.601
+    },
+    {
+      "text": "well and neuroplastic retraining which I",
+      "start": 1248.32,
+      "duration": 6.359
+    },
+    {
+      "text": "know can be quite controversial but",
+      "start": 1252.28,
+      "duration": 5.399
+    },
+    {
+      "text": "neuroplastic retraining all I can say is",
+      "start": 1254.679,
+      "duration": 4.801
+    },
+    {
+      "text": "that there are plenty of studies to show",
+      "start": 1257.679,
+      "duration": 4.281
+    },
+    {
+      "text": "that it works in various different",
+      "start": 1259.48,
+      "duration": 4.76
+    },
+    {
+      "text": "medical conditions and that that we do",
+      "start": 1261.96,
+      "duration": 3.88
+    },
+    {
+      "text": "have plasticity of the brain and we can",
+      "start": 1264.24,
+      "duration": 3.88
+    },
+    {
+      "text": "retrain our brains and all of my",
+      "start": 1265.84,
+      "duration": 3.92
+    },
+    {
+      "text": "patients who have done something like",
+      "start": 1268.12,
+      "duration": 3.919
+    },
+    {
+      "text": "the gup to program um neuroplastic",
+      "start": 1269.76,
+      "duration": 4.44
+    },
+    {
+      "text": "retraining have found it to be very",
+      "start": 1272.039,
+      "duration": 5.401
+    },
+    {
+      "text": "helpful that's you know 30% some of said",
+      "start": 1274.2,
+      "duration": 6.68
+    },
+    {
+      "text": "30% Improvement by doing that program so",
+      "start": 1277.44,
+      "duration": 5.8
+    },
+    {
+      "text": "I think it's worth people considering oh",
+      "start": 1280.88,
+      "duration": 5.88
+    },
+    {
+      "text": "yes I must tell you about my new device",
+      "start": 1283.24,
+      "duration": 5.4
+    },
+    {
+      "text": "that I've been using and patients been",
+      "start": 1286.76,
+      "duration": 5.0
+    },
+    {
+      "text": "using which really is worth trying and",
+      "start": 1288.64,
+      "duration": 7.12
+    },
+    {
+      "text": "this is an arc Microtech device and it's",
+      "start": 1291.76,
+      "duration": 6.88
+    },
+    {
+      "text": "a it produces a micro current Jackie",
+      "start": 1295.76,
+      "duration": 4.799
+    },
+    {
+      "text": "what it does first of all is it assesses",
+      "start": 1298.64,
+      "duration": 5.08
+    },
+    {
+      "text": "what your own natural current is for",
+      "start": 1300.559,
+      "duration": 5.081
+    },
+    {
+      "text": "frequency it goes through four and a",
+      "start": 1303.72,
+      "duration": 4.88
+    },
+    {
+      "text": "half million frequencies and it detects",
+      "start": 1305.64,
+      "duration": 5.519
+    },
+    {
+      "text": "which one is your particular individual",
+      "start": 1308.6,
+      "duration": 5.0
+    },
+    {
+      "text": "frequency and then it tunes into that",
+      "start": 1311.159,
+      "duration": 4.801
+    },
+    {
+      "text": "and it gives you a microcurrent in the",
+      "start": 1313.6,
+      "duration": 5.12
+    },
+    {
+      "text": "correct frequency for three hours and",
+      "start": 1315.96,
+      "duration": 4.8
+    },
+    {
+      "text": "after 3 hours it switches itself off you",
+      "start": 1318.72,
+      "duration": 4.92
+    },
+    {
+      "text": "wear it round your arm uh for 3 hours a",
+      "start": 1320.76,
+      "duration": 4.64
+    },
+    {
+      "text": "day for 6 weeks going through the",
+      "start": 1323.64,
+      "duration": 2.919
+    },
+    {
+      "text": "different there are four different",
+      "start": 1325.4,
+      "duration": 3.399
+    },
+    {
+      "text": "programs and you go through the programs",
+      "start": 1326.559,
+      "duration": 3.921
+    },
+    {
+      "text": "and then after that you have to use it",
+      "start": 1328.799,
+      "duration": 4.161
+    },
+    {
+      "text": "two three four times a week only and",
+      "start": 1330.48,
+      "duration": 4.24
+    },
+    {
+      "text": "every six months you should do the six",
+      "start": 1332.96,
+      "duration": 4.64
+    },
+    {
+      "text": "week block again to sort of reset",
+      "start": 1334.72,
+      "duration": 5.559
+    },
+    {
+      "text": "everything and what it does is it boosts",
+      "start": 1337.6,
+      "duration": 6.16
+    },
+    {
+      "text": "ATP in all the cells which is",
+      "start": 1340.279,
+      "duration": 5.961
+    },
+    {
+      "text": "fascinating because that's the ATP is",
+      "start": 1343.76,
+      "duration": 4.12
+    },
+    {
+      "text": "made in your mitochondria of every",
+      "start": 1346.24,
+      "duration": 3.76
+    },
+    {
+      "text": "single cell in the the body and that's",
+      "start": 1347.88,
+      "duration": 5.039
+    },
+    {
+      "text": "the energy source the power that the",
+      "start": 1350.0,
+      "duration": 6.919
+    },
+    {
+      "text": "cell runs on and the efficiency and the",
+      "start": 1352.919,
+      "duration": 5.64
+    },
+    {
+      "text": "uh functionality of the cell is going to",
+      "start": 1356.919,
+      "duration": 4.441
+    },
+    {
+      "text": "be determined by how much ATP it has so",
+      "start": 1358.559,
+      "duration": 4.561
+    },
+    {
+      "text": "obviously we want all of our cells to be",
+      "start": 1361.36,
+      "duration": 4.52
+    },
+    {
+      "text": "all singing and all dancing all the time",
+      "start": 1363.12,
+      "duration": 5.559
+    },
+    {
+      "text": "and if their ATP becomes depleted then",
+      "start": 1365.88,
+      "duration": 5.08
+    },
+    {
+      "text": "they're not and they can malfunction or",
+      "start": 1368.679,
+      "duration": 5.841
+    },
+    {
+      "text": "misfunction or just stop functioning and",
+      "start": 1370.96,
+      "duration": 6.599
+    },
+    {
+      "text": "by boosting the ATP we promote healing",
+      "start": 1374.52,
+      "duration": 5.44
+    },
+    {
+      "text": "and reduce inflam",
+      "start": 1377.559,
+      "duration": 4.081
+    },
+    {
+      "text": "which is the big thing that we're all",
+      "start": 1379.96,
+      "duration": 5.4
+    },
+    {
+      "text": "fighting so um I have been trying it",
+      "start": 1381.64,
+      "duration": 6.44
+    },
+    {
+      "text": "myself um because I have mcass and I",
+      "start": 1385.36,
+      "duration": 5.199
+    },
+    {
+      "text": "have found it to be really really good",
+      "start": 1388.08,
+      "duration": 4.44
+    },
+    {
+      "text": "and I have lots of patients trying it",
+      "start": 1390.559,
+      "duration": 5.961
+    },
+    {
+      "text": "and I would say 95% of them say they",
+      "start": 1392.52,
+      "duration": 7.36
+    },
+    {
+      "text": "have been there's been an improvement",
+      "start": 1396.52,
+      "duration": 4.759
+    },
+    {
+      "text": "and the improvements have been very",
+      "start": 1399.88,
+      "duration": 4.08
+    },
+    {
+      "text": "interesting some have had reduced pain",
+      "start": 1401.279,
+      "duration": 4.321
+    },
+    {
+      "text": "uh some have had reduced headach some",
+      "start": 1403.96,
+      "duration": 4.8
+    },
+    {
+      "text": "have had better sleep um some have have",
+      "start": 1405.6,
+      "duration": 6.24
+    },
+    {
+      "text": "had Improvement in their brain function",
+      "start": 1408.76,
+      "duration": 6.6
+    },
+    {
+      "text": "feeling more relaxed so less brain flock",
+      "start": 1411.84,
+      "duration": 6.12
+    },
+    {
+      "text": "less fatigue um and some have had all of",
+      "start": 1415.36,
+      "duration": 4.04
+    },
+    {
+      "text": "those things you know Improvement in",
+      "start": 1417.96,
+      "duration": 3.76
+    },
+    {
+      "text": "every single little area which has been",
+      "start": 1419.4,
+      "duration": 4.879
+    },
+    {
+      "text": "very uh helpful so I would recommend it",
+      "start": 1421.72,
+      "duration": 4.72
+    },
+    {
+      "text": "to people there is a code which will",
+      "start": 1424.279,
+      "duration": 4.601
+    },
+    {
+      "text": "give them 20 pounds off if they want to",
+      "start": 1426.44,
+      "duration": 4.359
+    },
+    {
+      "text": "order it I don't know if you want to put",
+      "start": 1428.88,
+      "duration": 3.96
+    },
+    {
+      "text": "that into your information you're happy",
+      "start": 1430.799,
+      "duration": 4.401
+    },
+    {
+      "text": "I can put that in the show notes yeah no",
+      "start": 1432.84,
+      "duration": 4.28
+    },
+    {
+      "text": "no I I'm very happy because you know I",
+      "start": 1435.2,
+      "duration": 4.44
+    },
+    {
+      "text": "want people to be able to try anything",
+      "start": 1437.12,
+      "duration": 5.12
+    },
+    {
+      "text": "and everything that they want to and um",
+      "start": 1439.64,
+      "duration": 4.48
+    },
+    {
+      "text": "and it's all very expensive everything",
+      "start": 1442.24,
+      "duration": 3.28
+    },
+    {
+      "text": "is expensive all the vitamins and",
+      "start": 1444.12,
+      "duration": 3.159
+    },
+    {
+      "text": "minerals doing everything is expensive",
+      "start": 1445.52,
+      "duration": 3.92
+    },
+    {
+      "text": "isn't it yeah so it was developed",
+      "start": 1447.279,
+      "duration": 3.241
+    },
+    {
+      "text": "actually it was very interesting it was",
+      "start": 1449.44,
+      "duration": 2.56
+    },
+    {
+      "text": "developed for",
+      "start": 1450.52,
+      "duration": 4.279
+    },
+    {
+      "text": "racehorses and they found that um if",
+      "start": 1452.0,
+      "duration": 5.039
+    },
+    {
+      "text": "race horses obviously are injured it's",
+      "start": 1454.799,
+      "duration": 3.921
+    },
+    {
+      "text": "very expensive to have a race horse not",
+      "start": 1457.039,
+      "duration": 3.961
+    },
+    {
+      "text": "racing and they wanted to heal them up",
+      "start": 1458.72,
+      "duration": 4.199
+    },
+    {
+      "text": "as quickly as possible and so this kind",
+      "start": 1461.0,
+      "duration": 4.32
+    },
+    {
+      "text": "of device was developed for that and the",
+      "start": 1462.919,
+      "duration": 4.48
+    },
+    {
+      "text": "horses improved more quickly and then",
+      "start": 1465.32,
+      "duration": 3.76
+    },
+    {
+      "text": "the jockeys were so impressed they",
+      "start": 1467.399,
+      "duration": 3.041
+    },
+    {
+      "text": "started wearing them as well when they",
+      "start": 1469.08,
+      "duration": 3.12
+    },
+    {
+      "text": "were injured and then they asked the",
+      "start": 1470.44,
+      "duration": 3.76
+    },
+    {
+      "text": "company to make one that was more mobile",
+      "start": 1472.2,
+      "duration": 4.56
+    },
+    {
+      "text": "and easier for human to wear and that's",
+      "start": 1474.2,
+      "duration": 4.68
+    },
+    {
+      "text": "what they did um and now a lot of long",
+      "start": 1476.76,
+      "duration": 4.639
+    },
+    {
+      "text": "covid patients and a lot of mcast",
+      "start": 1478.88,
+      "duration": 5.799
+    },
+    {
+      "text": "patients and patients with me CFS are",
+      "start": 1481.399,
+      "duration": 6.201
+    },
+    {
+      "text": "all using it and finding it helpful so",
+      "start": 1484.679,
+      "duration": 5.401
+    },
+    {
+      "text": "worth a try yeah that's fascinating yeah",
+      "start": 1487.6,
+      "duration": 3.76
+    },
+    {
+      "text": "thank you for that I will put that in",
+      "start": 1490.08,
+      "duration": 3.24
+    },
+    {
+      "text": "the show notes along with a link where",
+      "start": 1491.36,
+      "duration": 4.28
+    },
+    {
+      "text": "people can go and have a look at it um",
+      "start": 1493.32,
+      "duration": 6.079
+    },
+    {
+      "text": "so if anyone's interested",
+      "start": 1495.64,
+      "duration": 3.759
+    },
+    {
+      "text": "we'll be right",
+      "start": 1499.72,
+      "duration": 4.28
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1501.76,
+      "duration": 4.32
+    },
+    {
+      "text": "second to tell you about long covid",
+      "start": 1504.0,
+      "duration": 4.399
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1506.08,
+      "duration": 3.76
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1508.399,
+      "duration": 3.481
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1509.84,
+      "duration": 4.12
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1511.88,
+      "duration": 3.919
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1513.96,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with L covid we've worked",
+      "start": 1515.799,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1518.44,
+      "duration": 3.239
+    },
+    {
+      "text": "specifically tailored to those with L",
+      "start": 1519.919,
+      "duration": 4.601
+    },
+    {
+      "text": "covid it's a 6E course with 12 sessions",
+      "start": 1521.679,
+      "duration": 5.441
+    },
+    {
+      "text": "all delivered online the community feel",
+      "start": 1524.52,
+      "duration": 4.0
+    },
+    {
+      "text": "in learning that we're all sharing is",
+      "start": 1527.12,
+      "duration": 3.52
+    },
+    {
+      "text": "such a joy to find out more information",
+      "start": 1528.52,
+      "duration": 3.92
+    },
+    {
+      "text": "and to sign up for our courses workshops",
+      "start": 1530.64,
+      "duration": 3.68
+    },
+    {
+      "text": "and other shorter sessions please check",
+      "start": 1532.44,
+      "duration": 5.239
+    },
+    {
+      "text": "out the link below lco breathing.com or",
+      "start": 1534.32,
+      "duration": 6.0
+    },
+    {
+      "text": "email lobid breathing gmail.com to start",
+      "start": 1537.679,
+      "duration": 3.851
+    },
+    {
+      "text": "your breathing Journey with",
+      "start": 1540.32,
+      "duration": 4.82
+    },
+    {
+      "text": "[Music]",
+      "start": 1541.53,
+      "duration": 3.61
+    },
+    {
+      "text": "us the other the other treatments that",
+      "start": 1546.72,
+      "duration": 3.8
+    },
+    {
+      "text": "I've been doing Jackie for your",
+      "start": 1549.08,
+      "duration": 4.92
+    },
+    {
+      "text": "listeners is um usually I um ask people",
+      "start": 1550.52,
+      "duration": 5.159
+    },
+    {
+      "text": "to go on a low his I always ask them to",
+      "start": 1554.0,
+      "duration": 3.52
+    },
+    {
+      "text": "go on a low histamine diet and some of",
+      "start": 1555.679,
+      "duration": 3.6
+    },
+    {
+      "text": "them say within in three days they start",
+      "start": 1557.52,
+      "duration": 5.399
+    },
+    {
+      "text": "to feel better it can be very dramatic",
+      "start": 1559.279,
+      "duration": 7.12
+    },
+    {
+      "text": "and I follow the um Swiss histamine",
+      "start": 1562.919,
+      "duration": 7.041
+    },
+    {
+      "text": "interest group um the sigy group list of",
+      "start": 1566.399,
+      "duration": 5.561
+    },
+    {
+      "text": "histamine Foods because there are some",
+      "start": 1569.96,
+      "duration": 4.719
+    },
+    {
+      "text": "contradictory lists on the internet and",
+      "start": 1571.96,
+      "duration": 3.88
+    },
+    {
+      "text": "I think I think the important thing is",
+      "start": 1574.679,
+      "duration": 3.72
+    },
+    {
+      "text": "just try and get one that seems to be",
+      "start": 1575.84,
+      "duration": 4.439
+    },
+    {
+      "text": "sanctioned medically sanctioned and I",
+      "start": 1578.399,
+      "duration": 4.28
+    },
+    {
+      "text": "know the sigy one is and then try and",
+      "start": 1580.279,
+      "duration": 4.201
+    },
+    {
+      "text": "stick to it and you can get apps on your",
+      "start": 1582.679,
+      "duration": 3.561
+    },
+    {
+      "text": "phone which help with shopping and",
+      "start": 1584.48,
+      "duration": 4.079
+    },
+    {
+      "text": "things and making choices when you're",
+      "start": 1586.24,
+      "duration": 4.679
+    },
+    {
+      "text": "going out to eat and stuff so having a",
+      "start": 1588.559,
+      "duration": 4.921
+    },
+    {
+      "text": "lowy diet is sort of first main stay the",
+      "start": 1590.919,
+      "duration": 5.401
+    },
+    {
+      "text": "second thing then is to try antihist",
+      "start": 1593.48,
+      "duration": 5.84
+    },
+    {
+      "text": "Mees type one and type two and not",
+      "start": 1596.32,
+      "duration": 6.0
+    },
+    {
+      "text": "everybody responds to both but most",
+      "start": 1599.32,
+      "duration": 6.2
+    },
+    {
+      "text": "people respond do respond to both and so",
+      "start": 1602.32,
+      "duration": 6.16
+    },
+    {
+      "text": "I would say the principle is try one",
+      "start": 1605.52,
+      "duration": 5.159
+    },
+    {
+      "text": "thing at a time or introduce one thing",
+      "start": 1608.48,
+      "duration": 6.12
+    },
+    {
+      "text": "at a time and do it slowly so maybe you",
+      "start": 1610.679,
+      "duration": 6.801
+    },
+    {
+      "text": "start with uh overthe counter loratadine",
+      "start": 1614.6,
+      "duration": 4.24
+    },
+    {
+      "text": "10 milligram",
+      "start": 1617.48,
+      "duration": 3.88
+    },
+    {
+      "text": "try it if you if you tolerate it take it",
+      "start": 1618.84,
+      "duration": 5.0
+    },
+    {
+      "text": "once in the day the next day take it",
+      "start": 1621.36,
+      "duration": 4.919
+    },
+    {
+      "text": "twice so you take it 12 hourly and the",
+      "start": 1623.84,
+      "duration": 4.079
+    },
+    {
+      "text": "next day you could take it three times a",
+      "start": 1626.279,
+      "duration": 3.921
+    },
+    {
+      "text": "day and do that for a couple of weeks uh",
+      "start": 1627.919,
+      "duration": 4.36
+    },
+    {
+      "text": "up to a month and see if you feel it's",
+      "start": 1630.2,
+      "duration": 3.52
+    },
+    {
+      "text": "helping and if it's helping then you",
+      "start": 1632.279,
+      "duration": 4.0
+    },
+    {
+      "text": "keep it if after two weeks of being on",
+      "start": 1633.72,
+      "duration": 5.0
+    },
+    {
+      "text": "it you feel it's not helping then don't",
+      "start": 1636.279,
+      "duration": 3.921
+    },
+    {
+      "text": "stay on it for a month you know change",
+      "start": 1638.72,
+      "duration": 4.76
+    },
+    {
+      "text": "it to another one um and try saurine 10",
+      "start": 1640.2,
+      "duration": 5.88
+    },
+    {
+      "text": "milligrams again in the same kind of way",
+      "start": 1643.48,
+      "duration": 4.24
+    },
+    {
+      "text": "and see which one of those seems better",
+      "start": 1646.08,
+      "duration": 3.599
+    },
+    {
+      "text": "and then if again if it doesn't seem to",
+      "start": 1647.72,
+      "duration": 4.36
+    },
+    {
+      "text": "help after two weeks go to Fexofenadine",
+      "start": 1649.679,
+      "duration": 4.88
+    },
+    {
+      "text": "now you can buy 120 milligrams of",
+      "start": 1652.08,
+      "duration": 4.36
+    },
+    {
+      "text": "Fexofenadine over the counter the",
+      "start": 1654.559,
+      "duration": 3.681
+    },
+    {
+      "text": "strongest is 180 which requires a",
+      "start": 1656.44,
+      "duration": 3.599
+    },
+    {
+      "text": "prescription so if your GP would give",
+      "start": 1658.24,
+      "duration": 3.24
+    },
+    {
+      "text": "you some that would be great but if not",
+      "start": 1660.039,
+      "duration": 4.201
+    },
+    {
+      "text": "buy some and see which of the three is",
+      "start": 1661.48,
+      "duration": 4.559
+    },
+    {
+      "text": "the most effective now if the first one",
+      "start": 1664.24,
+      "duration": 4.4
+    },
+    {
+      "text": "you try is brilliant just stick with it",
+      "start": 1666.039,
+      "duration": 4.721
+    },
+    {
+      "text": "okay and then after a couple of weeks",
+      "start": 1668.64,
+      "duration": 3.6
+    },
+    {
+      "text": "when you think yes this is definitely",
+      "start": 1670.76,
+      "duration": 3.56
+    },
+    {
+      "text": "helping then add a type two",
+      "start": 1672.24,
+      "duration": 4.36
+    },
+    {
+      "text": "antihistamine unfortunately we can't buy",
+      "start": 1674.32,
+      "duration": 4.16
+    },
+    {
+      "text": "those over the counter in this country",
+      "start": 1676.6,
+      "duration": 4.919
+    },
+    {
+      "text": "so you rely on a a prescription and that",
+      "start": 1678.48,
+      "duration": 5.799
+    },
+    {
+      "text": "would be for madine or",
+      "start": 1681.519,
+      "duration": 5.52
+    },
+    {
+      "text": "Nadine uh there the two ver Modine is",
+      "start": 1684.279,
+      "duration": 4.921
+    },
+    {
+      "text": "stronger and you take 20 milligrams",
+      "start": 1687.039,
+      "duration": 4.36
+    },
+    {
+      "text": "twice a day and if it seems to be",
+      "start": 1689.2,
+      "duration": 4.079
+    },
+    {
+      "text": "helping try 40 milligrams twice a day",
+      "start": 1691.399,
+      "duration": 4.241
+    },
+    {
+      "text": "and see if that's even better um if it",
+      "start": 1693.279,
+      "duration": 4.24
+    },
+    {
+      "text": "isn't go back to the 20s but if it is",
+      "start": 1695.64,
+      "duration": 4.24
+    },
+    {
+      "text": "then that's great um so now you've added",
+      "start": 1697.519,
+      "duration": 4.081
+    },
+    {
+      "text": "on you've got your type one you've added",
+      "start": 1699.88,
+      "duration": 4.32
+    },
+    {
+      "text": "maybe a type two and then we like to use",
+      "start": 1701.6,
+      "duration": 5.64
+    },
+    {
+      "text": "a mast cell stabilizer such as ketotifen",
+      "start": 1704.2,
+      "duration": 5.16
+    },
+    {
+      "text": "or Rupa",
+      "start": 1707.24,
+      "duration": 4.439
+    },
+    {
+      "text": "if somebody has a lot of gut issues",
+      "start": 1709.36,
+      "duration": 3.559
+    },
+    {
+      "text": "especially if they're tender in the",
+      "start": 1711.679,
+      "duration": 3.801
+    },
+    {
+      "text": "epigastrium that's the upper part of the",
+      "start": 1712.919,
+      "duration": 5.281
+    },
+    {
+      "text": "bowel which go the transverse colon goes",
+      "start": 1715.48,
+      "duration": 4.64
+    },
+    {
+      "text": "across the top of your stomach under",
+      "start": 1718.2,
+      "duration": 4.64
+    },
+    {
+      "text": "your ribs if you're tender there uh that",
+      "start": 1720.12,
+      "duration": 4.72
+    },
+    {
+      "text": "can be a sign that you've got Mass cell",
+      "start": 1722.84,
+      "duration": 4.12
+    },
+    {
+      "text": "aggregation in that area of your gut in",
+      "start": 1724.84,
+      "duration": 4.679
+    },
+    {
+      "text": "the gut wall in which case sodium",
+      "start": 1726.96,
+      "duration": 4.68
+    },
+    {
+      "text": "chromoglycate which is a very effective",
+      "start": 1729.519,
+      "duration": 5.841
+    },
+    {
+      "text": "Mass cell stabilizer for the gut can be",
+      "start": 1731.64,
+      "duration": 6.519
+    },
+    {
+      "text": "taken um and that usually can be very",
+      "start": 1735.36,
+      "duration": 6.12
+    },
+    {
+      "text": "helpful then there's also lowd dose",
+      "start": 1738.159,
+      "duration": 6.4
+    },
+    {
+      "text": "nxone which is a good M cell stabilizer",
+      "start": 1741.48,
+      "duration": 5.919
+    },
+    {
+      "text": "and reduces the impact of the cyto",
+      "start": 1744.559,
+      "duration": 6.401
+    },
+    {
+      "text": "kindes that are being released um and",
+      "start": 1747.399,
+      "duration": 6.4
+    },
+    {
+      "text": "we've also got Montello cast 10",
+      "start": 1750.96,
+      "duration": 4.76
+    },
+    {
+      "text": "milligrams a day which is a lucat Trine",
+      "start": 1753.799,
+      "duration": 3.841
+    },
+    {
+      "text": "inhibitor and that's one of the cyto",
+      "start": 1755.72,
+      "duration": 4.72
+    },
+    {
+      "text": "kindes that's released by The M cells we",
+      "start": 1757.64,
+      "duration": 4.44
+    },
+    {
+      "text": "have to watch out with Montel cast about",
+      "start": 1760.44,
+      "duration": 3.92
+    },
+    {
+      "text": "30% of the patients get depression on",
+      "start": 1762.08,
+      "duration": 4.56
+    },
+    {
+      "text": "that so you want to just be mindful of",
+      "start": 1764.36,
+      "duration": 4.24
+    },
+    {
+      "text": "that if you start to feel low and please",
+      "start": 1766.64,
+      "duration": 5.159
+    },
+    {
+      "text": "stop taking it diip Pam can be very",
+      "start": 1768.6,
+      "duration": 6.4
+    },
+    {
+      "text": "helpful um patients who have mcast who",
+      "start": 1771.799,
+      "duration": 5.841
+    },
+    {
+      "text": "go on diip Pam don't become addicted to",
+      "start": 1775.0,
+      "duration": 5.36
+    },
+    {
+      "text": "it interestingly enough it inhibits the",
+      "start": 1777.64,
+      "duration": 6.8
+    },
+    {
+      "text": "mediator release um from the mass cells",
+      "start": 1780.36,
+      "duration": 7.08
+    },
+    {
+      "text": "and it sits on the mass cells and blocks",
+      "start": 1784.44,
+      "duration": 6.0
+    },
+    {
+      "text": "them from being activated and if it's",
+      "start": 1787.44,
+      "duration": 4.359
+    },
+    {
+      "text": "sitting on the mass cells it can't sit",
+      "start": 1790.44,
+      "duration": 3.119
+    },
+    {
+      "text": "in your brain and cause",
+      "start": 1791.799,
+      "duration": 5.161
+    },
+    {
+      "text": "addiction so people who take diazapam",
+      "start": 1793.559,
+      "duration": 4.96
+    },
+    {
+      "text": "who have mcast can stop stop taking it",
+      "start": 1796.96,
+      "duration": 2.959
+    },
+    {
+      "text": "just like that there's no withdrawal",
+      "start": 1798.519,
+      "duration": 3.64
+    },
+    {
+      "text": "symptoms or anything and there's no",
+      "start": 1799.919,
+      "duration": 4.081
+    },
+    {
+      "text": "addiction to it but they don't need a",
+      "start": 1802.159,
+      "duration": 3.4
+    },
+    {
+      "text": "very big dose they can just have a small",
+      "start": 1804.0,
+      "duration": 3.72
+    },
+    {
+      "text": "dose like 0.5 milligrams twice a day",
+      "start": 1805.559,
+      "duration": 4.921
+    },
+    {
+      "text": "maybe one milligram twice a day yeah so",
+      "start": 1807.72,
+      "duration": 4.72
+    },
+    {
+      "text": "we we go we walk through all of those",
+      "start": 1810.48,
+      "duration": 3.319
+    },
+    {
+      "text": "and then there are a few other things",
+      "start": 1812.44,
+      "duration": 3.239
+    },
+    {
+      "text": "which are quite specialist um",
+      "start": 1813.799,
+      "duration": 4.681
+    },
+    {
+      "text": "medications like culine and some other",
+      "start": 1815.679,
+      "duration": 6.641
+    },
+    {
+      "text": "sort of immunosuppressant type drugs but",
+      "start": 1818.48,
+      "duration": 5.96
+    },
+    {
+      "text": "generally on the",
+      "start": 1822.32,
+      "duration": 4.88
+    },
+    {
+      "text": "basic initial drugs that I talked about",
+      "start": 1824.44,
+      "duration": 6.52
+    },
+    {
+      "text": "people can find um Improvement and rest",
+      "start": 1827.2,
+      "duration": 6.839
+    },
+    {
+      "text": "fite we have to treat the EBV we have to",
+      "start": 1830.96,
+      "duration": 6.0
+    },
+    {
+      "text": "treat the mold we have to treat any",
+      "start": 1834.039,
+      "duration": 4.961
+    },
+    {
+      "text": "other infections so urin tract",
+      "start": 1836.96,
+      "duration": 3.8
+    },
+    {
+      "text": "infections eye",
+      "start": 1839.0,
+      "duration": 4.559
+    },
+    {
+      "text": "infections um you know toenail",
+      "start": 1840.76,
+      "duration": 5.0
+    },
+    {
+      "text": "infections uh anything like that must",
+      "start": 1843.559,
+      "duration": 4.321
+    },
+    {
+      "text": "get treated because any infection will",
+      "start": 1845.76,
+      "duration": 3.6
+    },
+    {
+      "text": "stimulate your M cells and keep",
+      "start": 1847.88,
+      "duration": 4.12
+    },
+    {
+      "text": "stimulating them and now we need to look",
+      "start": 1849.36,
+      "duration": 4.199
+    },
+    {
+      "text": "at the gut and see whether we need to be",
+      "start": 1852.0,
+      "duration": 3.159
+    },
+    {
+      "text": "treating people as if they still have",
+      "start": 1853.559,
+      "duration": 3.921
+    },
+    {
+      "text": "covid being produced in their gut yeah",
+      "start": 1855.159,
+      "duration": 3.801
+    },
+    {
+      "text": "and that's really interesting what you",
+      "start": 1857.48,
+      "duration": 4.24
+    },
+    {
+      "text": "say about the um the virus in the gut",
+      "start": 1858.96,
+      "duration": 4.599
+    },
+    {
+      "text": "because does that tap into this idea of",
+      "start": 1861.72,
+      "duration": 3.04
+    },
+    {
+      "text": "viral",
+      "start": 1863.559,
+      "duration": 5.6
+    },
+    {
+      "text": "persistence yes exactly exactly that so",
+      "start": 1864.76,
+      "duration": 7.039
+    },
+    {
+      "text": "that's the next area we need to explore",
+      "start": 1869.159,
+      "duration": 4.76
+    },
+    {
+      "text": "I think it's been a very interesting",
+      "start": 1871.799,
+      "duration": 4.76
+    },
+    {
+      "text": "Journey it's been incredibly rewarding",
+      "start": 1873.919,
+      "duration": 4.521
+    },
+    {
+      "text": "work I must say because",
+      "start": 1876.559,
+      "duration": 4.761
+    },
+    {
+      "text": "patients some of them get better almost",
+      "start": 1878.44,
+      "duration": 4.88
+    },
+    {
+      "text": "immediately and you know within a few",
+      "start": 1881.32,
+      "duration": 4.92
+    },
+    {
+      "text": "weeks they get better and others it's",
+      "start": 1883.32,
+      "duration": 5.12
+    },
+    {
+      "text": "slower but there is Improvement and",
+      "start": 1886.24,
+      "duration": 3.48
+    },
+    {
+      "text": "we're going in the right direction you",
+      "start": 1888.44,
+      "duration": 3.76
+    },
+    {
+      "text": "know and so the quality of life improves",
+      "start": 1889.72,
+      "duration": 3.839
+    },
+    {
+      "text": "and I've got loads of patients who've",
+      "start": 1892.2,
+      "duration": 3.52
+    },
+    {
+      "text": "been able to go back to work um who've",
+      "start": 1893.559,
+      "duration": 3.48
+    },
+    {
+      "text": "been able to look after their children",
+      "start": 1895.72,
+      "duration": 4.04
+    },
+    {
+      "text": "again um Etc and that's just so",
+      "start": 1897.039,
+      "duration": 5.921
+    },
+    {
+      "text": "rewarding really gratifying to see that",
+      "start": 1899.76,
+      "duration": 5.96
+    },
+    {
+      "text": "happening and alarming that the NHS",
+      "start": 1902.96,
+      "duration": 5.959
+    },
+    {
+      "text": "isn't really managing these patients and",
+      "start": 1905.72,
+      "duration": 4.559
+    },
+    {
+      "text": "helping them in a way that they should",
+      "start": 1908.919,
+      "duration": 4.081
+    },
+    {
+      "text": "be I know a lot of long covid clinics",
+      "start": 1910.279,
+      "duration": 4.921
+    },
+    {
+      "text": "were opened across the country but for",
+      "start": 1913.0,
+      "duration": 4.48
+    },
+    {
+      "text": "many months they did nothing apart from",
+      "start": 1915.2,
+      "duration": 5.12
+    },
+    {
+      "text": "refer people to various different",
+      "start": 1917.48,
+      "duration": 4.96
+    },
+    {
+      "text": "Consultants I suppose that's not nothing",
+      "start": 1920.32,
+      "duration": 4.4
+    },
+    {
+      "text": "that's not fair but um you know people",
+      "start": 1922.44,
+      "duration": 4.079
+    },
+    {
+      "text": "had a lot of Investigations and they",
+      "start": 1924.72,
+      "duration": 3.36
+    },
+    {
+      "text": "were reassured that they had nothing",
+      "start": 1926.519,
+      "duration": 3.561
+    },
+    {
+      "text": "serious and Sinister wrong with them but",
+      "start": 1928.08,
+      "duration": 4.24
+    },
+    {
+      "text": "they weren't given any idea as to what",
+      "start": 1930.08,
+      "duration": 6.04
+    },
+    {
+      "text": "really was going on or how to treat it",
+      "start": 1932.32,
+      "duration": 5.839
+    },
+    {
+      "text": "and um I don't know whether the long",
+      "start": 1936.12,
+      "duration": 3.88
+    },
+    {
+      "text": "covid clinics are still open in the NHS",
+      "start": 1938.159,
+      "duration": 4.081
+    },
+    {
+      "text": "are they still going I think it's very",
+      "start": 1940.0,
+      "duration": 3.88
+    },
+    {
+      "text": "different in different places I mean I'm",
+      "start": 1942.24,
+      "duration": 3.799
+    },
+    {
+      "text": "in Scotland where we don't have long Co",
+      "start": 1943.88,
+      "duration": 5.039
+    },
+    {
+      "text": "clinics at all and I think England there",
+      "start": 1946.039,
+      "duration": 6.201
+    },
+    {
+      "text": "are quite a few but it's very different",
+      "start": 1948.919,
+      "duration": 6.161
+    },
+    {
+      "text": "area to area from what I've heard yeah",
+      "start": 1952.24,
+      "duration": 4.96
+    },
+    {
+      "text": "and I think sometimes you know patients",
+      "start": 1955.08,
+      "duration": 4.839
+    },
+    {
+      "text": "go and initially they were tested for",
+      "start": 1957.2,
+      "duration": 4.16
+    },
+    {
+      "text": "various things which is all well and",
+      "start": 1959.919,
+      "duration": 3.201
+    },
+    {
+      "text": "good but not given any treatment and",
+      "start": 1961.36,
+      "duration": 3.48
+    },
+    {
+      "text": "then they were told to rest and do",
+      "start": 1963.12,
+      "duration": 4.679
+    },
+    {
+      "text": "breathing exercises which is a shame",
+      "start": 1964.84,
+      "duration": 4.719
+    },
+    {
+      "text": "because that was after my conference",
+      "start": 1967.799,
+      "duration": 3.84
+    },
+    {
+      "text": "when I had quite clearly had speakers",
+      "start": 1969.559,
+      "duration": 3.881
+    },
+    {
+      "text": "talking about various treatments that we",
+      "start": 1971.639,
+      "duration": 4.481
+    },
+    {
+      "text": "were finding helpful and effective and",
+      "start": 1973.44,
+      "duration": 3.88
+    },
+    {
+      "text": "the conference is still available",
+      "start": 1976.12,
+      "duration": 2.72
+    },
+    {
+      "text": "actually online online it's it's",
+      "start": 1977.32,
+      "duration": 4.479
+    },
+    {
+      "text": "treat.com and anyone can see the",
+      "start": 1978.84,
+      "duration": 4.28
+    },
+    {
+      "text": "lectures they're all still there and",
+      "start": 1981.799,
+      "duration": 3.081
+    },
+    {
+      "text": "there's an excellent lecture by Dr",
+      "start": 1983.12,
+      "duration": 5.439
+    },
+    {
+      "text": "Lawrence Afrin who is the mcast guru",
+      "start": 1984.88,
+      "duration": 6.399
+    },
+    {
+      "text": "globally and if anyone wants to watch a",
+      "start": 1988.559,
+      "duration": 4.681
+    },
+    {
+      "text": "really brilliant lecture on mcast to",
+      "start": 1991.279,
+      "duration": 3.801
+    },
+    {
+      "text": "understand it and drill down with it",
+      "start": 1993.24,
+      "duration": 3.72
+    },
+    {
+      "text": "then I would recommend that they have a",
+      "start": 1995.08,
+      "duration": 5.479
+    },
+    {
+      "text": "look at that um I mean my goal of having",
+      "start": 1996.96,
+      "duration": 6.839
+    },
+    {
+      "text": "the conference was to really actually",
+      "start": 2000.559,
+      "duration": 5.84
+    },
+    {
+      "text": "put mcass on the map and I was so",
+      "start": 2003.799,
+      "duration": 4.201
+    },
+    {
+      "text": "delighted when he said he would come do",
+      "start": 2006.399,
+      "duration": 3.64
+    },
+    {
+      "text": "a presentation it was like yes we had",
+      "start": 2008.0,
+      "duration": 4.519
+    },
+    {
+      "text": "2,200 people uh register for the",
+      "start": 2010.039,
+      "duration": 5.48
+    },
+    {
+      "text": "conference which is great and I do feel",
+      "start": 2012.519,
+      "duration": 4.721
+    },
+    {
+      "text": "that and I I don't know if I'm",
+      "start": 2015.519,
+      "duration": 4.28
+    },
+    {
+      "text": "disillusioning myself here but but I do",
+      "start": 2017.24,
+      "duration": 5.399
+    },
+    {
+      "text": "feel that since then because patients",
+      "start": 2019.799,
+      "duration": 5.201
+    },
+    {
+      "text": "have learned and heard about mcast they",
+      "start": 2022.639,
+      "duration": 5.04
+    },
+    {
+      "text": "are educating their doctors about it and",
+      "start": 2025.0,
+      "duration": 4.88
+    },
+    {
+      "text": "so some of the doctors now seem to know",
+      "start": 2027.679,
+      "duration": 3.96
+    },
+    {
+      "text": "more about it so some of the",
+      "start": 2029.88,
+      "duration": 3.88
+    },
+    {
+      "text": "gastrologists are recognizing it some of",
+      "start": 2031.639,
+      "duration": 3.76
+    },
+    {
+      "text": "the dermatologists are recognizing it",
+      "start": 2033.76,
+      "duration": 3.36
+    },
+    {
+      "text": "some of the immunologists even some of",
+      "start": 2035.399,
+      "duration": 4.321
+    },
+    {
+      "text": "the immunologist recognizing it although",
+      "start": 2037.12,
+      "duration": 4.88
+    },
+    {
+      "text": "there are still a few who don't believe",
+      "start": 2039.72,
+      "duration": 4.4
+    },
+    {
+      "text": "it exists which is a shame because you",
+      "start": 2042.0,
+      "duration": 3.519
+    },
+    {
+      "text": "know people respond to the treatment so",
+      "start": 2044.12,
+      "duration": 4.039
+    },
+    {
+      "text": "that's interesting but yeah so I I've",
+      "start": 2045.519,
+      "duration": 4.88
+    },
+    {
+      "text": "been really gratified by the fact that",
+      "start": 2048.159,
+      "duration": 4.96
+    },
+    {
+      "text": "over the last six months as a result of",
+      "start": 2050.399,
+      "duration": 5.601
+    },
+    {
+      "text": "podcasts like yours and various other",
+      "start": 2053.119,
+      "duration": 5.641
+    },
+    {
+      "text": "ones that I've done people globally are",
+      "start": 2056.0,
+      "duration": 5.359
+    },
+    {
+      "text": "starting to talk about it more um and",
+      "start": 2058.76,
+      "duration": 4.599
+    },
+    {
+      "text": "that's really brilliant absolutely",
+      "start": 2061.359,
+      "duration": 3.081
+    },
+    {
+      "text": "brilliant because that's what we need to",
+      "start": 2063.359,
+      "duration": 3.201
+    },
+    {
+      "text": "do and then hopefully there'll be more",
+      "start": 2064.44,
+      "duration": 4.36
+    },
+    {
+      "text": "research um and there'll be more money",
+      "start": 2066.56,
+      "duration": 4.839
+    },
+    {
+      "text": "put behind it and you know and then",
+      "start": 2068.8,
+      "duration": 3.96
+    },
+    {
+      "text": "we'll come up with some more treatments",
+      "start": 2071.399,
+      "duration": 3.561
+    },
+    {
+      "text": "for people yeah exactly I mean what you",
+      "start": 2072.76,
+      "duration": 3.879
+    },
+    {
+      "text": "were saying about the the patients",
+      "start": 2074.96,
+      "duration": 3.76
+    },
+    {
+      "text": "talking about it and educating their",
+      "start": 2076.639,
+      "duration": 4.24
+    },
+    {
+      "text": "doctors uh there seems to be quite a lot",
+      "start": 2078.72,
+      "duration": 4.28
+    },
+    {
+      "text": "of that um I guess because we're sitting",
+      "start": 2080.879,
+      "duration": 5.0
+    },
+    {
+      "text": "around just being ill and wanting",
+      "start": 2083.0,
+      "duration": 5.639
+    },
+    {
+      "text": "nothing more than to get better and um",
+      "start": 2085.879,
+      "duration": 4.28
+    },
+    {
+      "text": "I've certainly noticed a lot of people",
+      "start": 2088.639,
+      "duration": 2.48
+    },
+    {
+      "text": "talking about you know they've been",
+      "start": 2090.159,
+      "duration": 2.601
+    },
+    {
+      "text": "forced into doing their own research and",
+      "start": 2091.119,
+      "duration": 3.8
+    },
+    {
+      "text": "taking research papers to their",
+      "start": 2092.76,
+      "duration": 4.48
+    },
+    {
+      "text": "GPS and some GPS have been very",
+      "start": 2094.919,
+      "duration": 4.241
+    },
+    {
+      "text": "receptive to this but there have also",
+      "start": 2097.24,
+      "duration": 4.52
+    },
+    {
+      "text": "been some that haven't and that's been I",
+      "start": 2099.16,
+      "duration": 4.12
+    },
+    {
+      "text": "think a source of a lot of frustration",
+      "start": 2101.76,
+      "duration": 4.079
+    },
+    {
+      "text": "for people very challenging very",
+      "start": 2103.28,
+      "duration": 5.36
+    },
+    {
+      "text": "challenging and some have been fantastic",
+      "start": 2105.839,
+      "duration": 4.52
+    },
+    {
+      "text": "and are very interested to learn about",
+      "start": 2108.64,
+      "duration": 4.199
+    },
+    {
+      "text": "it and when you consider that 177% of",
+      "start": 2110.359,
+      "duration": 4.76
+    },
+    {
+      "text": "their patients will have it and that",
+      "start": 2112.839,
+      "duration": 4.081
+    },
+    {
+      "text": "they are probably seeing it every single",
+      "start": 2115.119,
+      "duration": 4.201
+    },
+    {
+      "text": "day several times a day with patients",
+      "start": 2116.92,
+      "duration": 5.88
+    },
+    {
+      "text": "coming with IBS fibromyalgia rostio etc",
+      "start": 2119.32,
+      "duration": 6.56
+    },
+    {
+      "text": "etc then I'm really hopeful that um",
+      "start": 2122.8,
+      "duration": 4.24
+    },
+    {
+      "text": "things are going to improve for",
+      "start": 2125.88,
+      "duration": 3.28
+    },
+    {
+      "text": "everybody not just the long covid",
+      "start": 2127.04,
+      "duration": 4.36
+    },
+    {
+      "text": "patients I suppose you know the silver",
+      "start": 2129.16,
+      "duration": 3.84
+    },
+    {
+      "text": "lining of all of that is that has Shone",
+      "start": 2131.4,
+      "duration": 5.199
+    },
+    {
+      "text": "a big light onto this condition and",
+      "start": 2133.0,
+      "duration": 6.72
+    },
+    {
+      "text": "hopefully we will improve treatments and",
+      "start": 2136.599,
+      "duration": 4.641
+    },
+    {
+      "text": "our understanding more and more as the",
+      "start": 2139.72,
+      "duration": 3.52
+    },
+    {
+      "text": "years go by which would be fantastic the",
+      "start": 2141.24,
+      "duration": 4.2
+    },
+    {
+      "text": "other treatments that patients try and",
+      "start": 2143.24,
+      "duration": 4.16
+    },
+    {
+      "text": "I'm sure your listeners are fully aware",
+      "start": 2145.44,
+      "duration": 2.96
+    },
+    {
+      "text": "of all of these because they probably",
+      "start": 2147.4,
+      "duration": 3.88
+    },
+    {
+      "text": "tried them all is hyperbaric oxygen um",
+      "start": 2148.4,
+      "duration": 5.88
+    },
+    {
+      "text": "aparis which is blood clots going and",
+      "start": 2151.28,
+      "duration": 4.16
+    },
+    {
+      "text": "having it cleared there are a couple of",
+      "start": 2154.28,
+      "duration": 4.12
+    },
+    {
+      "text": "clinics uh in Germany and in in Cyprus I",
+      "start": 2155.44,
+      "duration": 5.2
+    },
+    {
+      "text": "believe who are doing this but I must",
+      "start": 2158.4,
+      "duration": 4.88
+    },
+    {
+      "text": "say my patients who've gone to do that",
+      "start": 2160.64,
+      "duration": 4.12
+    },
+    {
+      "text": "they haven't come back and told me that",
+      "start": 2163.28,
+      "duration": 4.36
+    },
+    {
+      "text": "they are very much better which is a",
+      "start": 2164.76,
+      "duration": 4.359
+    },
+    {
+      "text": "shame they might feel better for a few",
+      "start": 2167.64,
+      "duration": 3.92
+    },
+    {
+      "text": "days but then it catches up with them",
+      "start": 2169.119,
+      "duration": 4.0
+    },
+    {
+      "text": "again and whether that's because they've",
+      "start": 2171.56,
+      "duration": 4.039
+    },
+    {
+      "text": "actually got it in their gut still it's",
+      "start": 2173.119,
+      "duration": 5.881
+    },
+    {
+      "text": "an interesting one isn't it and ozone",
+      "start": 2175.599,
+      "duration": 5.601
+    },
+    {
+      "text": "apparently ozone which increases the",
+      "start": 2179.0,
+      "duration": 4.96
+    },
+    {
+      "text": "oxygen in the cells that's been helpful",
+      "start": 2181.2,
+      "duration": 4.44
+    },
+    {
+      "text": "and there's a clinic in sertin that do",
+      "start": 2183.96,
+      "duration": 4.119
+    },
+    {
+      "text": "it there may be others that do",
+      "start": 2185.64,
+      "duration": 5.92
+    },
+    {
+      "text": "um ozone that give you intravenous ozone",
+      "start": 2188.079,
+      "duration": 6.641
+    },
+    {
+      "text": "or up your bottom actually other way you",
+      "start": 2191.56,
+      "duration": 7.64
+    },
+    {
+      "text": "can have it so yes there we are that's a",
+      "start": 2194.72,
+      "duration": 6.0
+    },
+    {
+      "text": "whistle Stock",
+      "start": 2199.2,
+      "duration": 5.119
+    },
+    {
+      "text": "Tour the tests for mcast are really",
+      "start": 2200.72,
+      "duration": 6.08
+    },
+    {
+      "text": "difficult um the Diagnostics that we",
+      "start": 2204.319,
+      "duration": 3.641
+    },
+    {
+      "text": "have are very",
+      "start": 2206.8,
+      "duration": 4.64
+    },
+    {
+      "text": "limited and we can measure serum um",
+      "start": 2207.96,
+      "duration": 6.84
+    },
+    {
+      "text": "tripas but in allergic reactions",
+      "start": 2211.44,
+      "duration": 5.04
+    },
+    {
+      "text": "Allergic Disease Serum tryptose is",
+      "start": 2214.8,
+      "duration": 5.68
+    },
+    {
+      "text": "normal Master cytosis it is elevated and",
+      "start": 2216.48,
+      "duration": 6.48
+    },
+    {
+      "text": "in Mass Cell Activation Syndrome it is",
+      "start": 2220.48,
+      "duration": 4.96
+    },
+    {
+      "text": "normal so it doesn't really tell us that",
+      "start": 2222.96,
+      "duration": 4.56
+    },
+    {
+      "text": "much I suppose the only thing it does do",
+      "start": 2225.44,
+      "duration": 4.84
+    },
+    {
+      "text": "is it eliminates Master cytosis as a",
+      "start": 2227.52,
+      "duration": 5.16
+    },
+    {
+      "text": "diagnosis and that's important because",
+      "start": 2230.28,
+      "duration": 5.24
+    },
+    {
+      "text": "Master cytosis is much more serious um",
+      "start": 2232.68,
+      "duration": 5.24
+    },
+    {
+      "text": "and has more implications for future",
+      "start": 2235.52,
+      "duration": 6.319
+    },
+    {
+      "text": "health than mcast does so important to",
+      "start": 2237.92,
+      "duration": 6.48
+    },
+    {
+      "text": "eliminate it into our due diligence to",
+      "start": 2241.839,
+      "duration": 4.841
+    },
+    {
+      "text": "do that but it doesn't actually help us",
+      "start": 2244.4,
+      "duration": 5.64
+    },
+    {
+      "text": "with the mcast diagnosis um the other",
+      "start": 2246.68,
+      "duration": 5.439
+    },
+    {
+      "text": "things that can be done which are not",
+      "start": 2250.04,
+      "duration": 5.44
+    },
+    {
+      "text": "easy in the UK are U you can look at the",
+      "start": 2252.119,
+      "duration": 7.881
+    },
+    {
+      "text": "serum chromogranin a but you must avoid",
+      "start": 2255.48,
+      "duration": 7.68
+    },
+    {
+      "text": "ppis for five days before having this",
+      "start": 2260.0,
+      "duration": 6.2
+    },
+    {
+      "text": "test okay so ppis are often prescribed",
+      "start": 2263.16,
+      "duration": 5.56
+    },
+    {
+      "text": "for reflux and Hyper acidity in the",
+      "start": 2266.2,
+      "duration": 4.879
+    },
+    {
+      "text": "stomach they must be stopped for 5 days",
+      "start": 2268.72,
+      "duration": 5.68
+    },
+    {
+      "text": "before doing chromogranin a um but then",
+      "start": 2271.079,
+      "duration": 5.24
+    },
+    {
+      "text": "the other tests need to be on chilled",
+      "start": 2274.4,
+      "duration": 5.08
+    },
+    {
+      "text": "serum chilled plasma uh prostag gland in",
+      "start": 2276.319,
+      "duration": 5.8
+    },
+    {
+      "text": "D2 histamine and heparin and we don't",
+      "start": 2279.48,
+      "duration": 5.52
+    },
+    {
+      "text": "have Laboratories that can do that so",
+      "start": 2282.119,
+      "duration": 4.72
+    },
+    {
+      "text": "that's a shame and there's also chilled",
+      "start": 2285.0,
+      "duration": 4.44
+    },
+    {
+      "text": "urine 24-hour urine has to be collected",
+      "start": 2286.839,
+      "duration": 6.961
+    },
+    {
+      "text": "and kept chilled so in the fridge um and",
+      "start": 2289.44,
+      "duration": 6.24
+    },
+    {
+      "text": "that can look look for prostag gland in",
+      "start": 2293.8,
+      "duration": 5.4
+    },
+    {
+      "text": "D2 and N methal histamine but if it",
+      "start": 2295.68,
+      "duration": 6.159
+    },
+    {
+      "text": "becomes less than chilled at any point",
+      "start": 2299.2,
+      "duration": 3.44
+    },
+    {
+      "text": "in the",
+      "start": 2301.839,
+      "duration": 4.24
+    },
+    {
+      "text": "chain it is null and void also you can",
+      "start": 2302.64,
+      "duration": 5.199
+    },
+    {
+      "text": "look for lucat trines in chil you're in",
+      "start": 2306.079,
+      "duration": 3.801
+    },
+    {
+      "text": "you can uh look at for various lucat",
+      "start": 2307.839,
+      "duration": 4.801
+    },
+    {
+      "text": "trines but again as soon as it Go the",
+      "start": 2309.88,
+      "duration": 4.36
+    },
+    {
+      "text": "temperature rises even a little bit it",
+      "start": 2312.64,
+      "duration": 4.04
+    },
+    {
+      "text": "becomes lukewarm you're done you're done",
+      "start": 2314.24,
+      "duration": 4.44
+    },
+    {
+      "text": "you can't have that and our Laboratories",
+      "start": 2316.68,
+      "duration": 5.56
+    },
+    {
+      "text": "just aren't able to um do that",
+      "start": 2318.68,
+      "duration": 5.96
+    },
+    {
+      "text": "unfortunately so not easy there's a",
+      "start": 2322.24,
+      "duration": 4.079
+    },
+    {
+      "text": "couple of companies I'm looking into who",
+      "start": 2324.64,
+      "duration": 5.0
+    },
+    {
+      "text": "are starting to do some cytokine reports",
+      "start": 2326.319,
+      "duration": 6.441
+    },
+    {
+      "text": "um on a one single sample of blood and",
+      "start": 2329.64,
+      "duration": 4.8
+    },
+    {
+      "text": "I'm really quite interested in looking",
+      "start": 2332.76,
+      "duration": 3.88
+    },
+    {
+      "text": "at those and seeing what they would",
+      "start": 2334.44,
+      "duration": 5.12
+    },
+    {
+      "text": "reveal in my P patients you know um so",
+      "start": 2336.64,
+      "duration": 5.04
+    },
+    {
+      "text": "we that's an Avenue we're exploring at",
+      "start": 2339.56,
+      "duration": 4.44
+    },
+    {
+      "text": "the moment that's fascinating isn't it",
+      "start": 2341.68,
+      "duration": 5.08
+    },
+    {
+      "text": "but yeah logistically not particularly",
+      "start": 2344.0,
+      "duration": 6.319
+    },
+    {
+      "text": "easy not easy and you know expensive all",
+      "start": 2346.76,
+      "duration": 5.2
+    },
+    {
+      "text": "a lot of these things are expensive and",
+      "start": 2350.319,
+      "duration": 3.201
+    },
+    {
+      "text": "when you bear in mind a lot of the poor",
+      "start": 2351.96,
+      "duration": 3.92
+    },
+    {
+      "text": "patients who have long covid aren't able",
+      "start": 2353.52,
+      "duration": 5.16
+    },
+    {
+      "text": "to work because of their Condition it's",
+      "start": 2355.88,
+      "duration": 4.8
+    },
+    {
+      "text": "like a double whammy for them isn't it",
+      "start": 2358.68,
+      "duration": 4.0
+    },
+    {
+      "text": "it's like oh dear I'm asking you to have",
+      "start": 2360.68,
+      "duration": 3.72
+    },
+    {
+      "text": "all these tests done and they're Jolly",
+      "start": 2362.68,
+      "duration": 4.32
+    },
+    {
+      "text": "expensive and it's heartbreaking really",
+      "start": 2364.4,
+      "duration": 4.48
+    },
+    {
+      "text": "yes yeah absolutely it's difficult",
+      "start": 2367.0,
+      "duration": 3.92
+    },
+    {
+      "text": "people on benefits or not benefits",
+      "start": 2368.88,
+      "duration": 3.239
+    },
+    {
+      "text": "depending on whether they can get them",
+      "start": 2370.92,
+      "duration": 4.04
+    },
+    {
+      "text": "and not able to work and um yeah I mean",
+      "start": 2372.119,
+      "duration": 4.881
+    },
+    {
+      "text": "the stress and the strain is is not",
+      "start": 2374.96,
+      "duration": 4.32
+    },
+    {
+      "text": "helping recovery in itself that's for",
+      "start": 2377.0,
+      "duration": 6.0
+    },
+    {
+      "text": "sure oh I'm sure I'm sure I think you",
+      "start": 2379.28,
+      "duration": 7.559
+    },
+    {
+      "text": "know um if one approaches it um and",
+      "start": 2383.0,
+      "duration": 7.319
+    },
+    {
+      "text": "tackles it in doing meditation doing the",
+      "start": 2386.839,
+      "duration": 6.24
+    },
+    {
+      "text": "low histamine diet drinking filtered",
+      "start": 2390.319,
+      "duration": 5.201
+    },
+    {
+      "text": "water actually even just that and you",
+      "start": 2393.079,
+      "duration": 5.921
+    },
+    {
+      "text": "can buy these charcoal sticks and put",
+      "start": 2395.52,
+      "duration": 6.319
+    },
+    {
+      "text": "them in your water jug and they're very",
+      "start": 2399.0,
+      "duration": 5.119
+    },
+    {
+      "text": "reasonably priced like 12 pounds a stick",
+      "start": 2401.839,
+      "duration": 4.961
+    },
+    {
+      "text": "and they will last six months so",
+      "start": 2404.119,
+      "duration": 4.281
+    },
+    {
+      "text": "patients who I've recommended that to",
+      "start": 2406.8,
+      "duration": 3.48
+    },
+    {
+      "text": "have said do you know what I feel better",
+      "start": 2408.4,
+      "duration": 3.48
+    },
+    {
+      "text": "for drinking the water from The",
+      "start": 2410.28,
+      "duration": 4.88
+    },
+    {
+      "text": "Jug just eliminating some of the but you",
+      "start": 2411.88,
+      "duration": 4.76
+    },
+    {
+      "text": "know that's a much cheaper way of doing",
+      "start": 2415.16,
+      "duration": 3.8
+    },
+    {
+      "text": "it than buying mineral water or whatever",
+      "start": 2416.64,
+      "duration": 4.04
+    },
+    {
+      "text": "um and also we should only be drinking",
+      "start": 2418.96,
+      "duration": 3.96
+    },
+    {
+      "text": "from glass bottles and things so you",
+      "start": 2420.68,
+      "duration": 4.28
+    },
+    {
+      "text": "want to eliminate plastic processed",
+      "start": 2422.92,
+      "duration": 4.399
+    },
+    {
+      "text": "foods as much sort of chemical",
+      "start": 2424.96,
+      "duration": 3.92
+    },
+    {
+      "text": "simulation as possible needs to be",
+      "start": 2427.319,
+      "duration": 4.121
+    },
+    {
+      "text": "removed from the environment including",
+      "start": 2428.88,
+      "duration": 4.959
+    },
+    {
+      "text": "switching your Wi-Fi off at night and",
+      "start": 2431.44,
+      "duration": 4.159
+    },
+    {
+      "text": "you know not having a phone in your",
+      "start": 2433.839,
+      "duration": 3.361
+    },
+    {
+      "text": "bedroom and all this sort of thing",
+      "start": 2435.599,
+      "duration": 6.681
+    },
+    {
+      "text": "because that also is stimulating your M",
+      "start": 2437.2,
+      "duration": 5.08
+    },
+    {
+      "text": "cells we'll be right",
+      "start": 2443.0,
+      "duration": 5.88
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 2446.359,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 2448.88,
+      "duration": 4.479
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 2450.839,
+      "duration": 3.961
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 2453.359,
+      "duration": 3.601
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 2454.8,
+      "duration": 5.12
+    },
+    {
+      "text": "your feed if everyone was able to share",
+      "start": 2456.96,
+      "duration": 4.48
+    },
+    {
+      "text": "just once we'd be able to get this",
+      "start": 2459.92,
+      "duration": 3.36
+    },
+    {
+      "text": "information out to even more people who",
+      "start": 2461.44,
+      "duration": 4.399
+    },
+    {
+      "text": "really really need it so please consider",
+      "start": 2463.28,
+      "duration": 5.0
+    },
+    {
+      "text": "sharing somewhere if you possibly can I",
+      "start": 2465.839,
+      "duration": 4.24
+    },
+    {
+      "text": "hope you enjoy the episode and thank you",
+      "start": 2468.28,
+      "duration": 4.039
+    },
+    {
+      "text": "so",
+      "start": 2470.079,
+      "duration": 2.24
+    },
+    {
+      "text": "much yeah that's interesting I mean",
+      "start": 2475.28,
+      "duration": 4.36
+    },
+    {
+      "text": "there's there's a load of things that",
+      "start": 2478.079,
+      "duration": 4.161
+    },
+    {
+      "text": "you've mentioned um so I'm sure even if",
+      "start": 2479.64,
+      "duration": 4.719
+    },
+    {
+      "text": "some of them are difficult for people to",
+      "start": 2482.24,
+      "duration": 4.56
+    },
+    {
+      "text": "try there's enough there that um that",
+      "start": 2484.359,
+      "duration": 4.48
+    },
+    {
+      "text": "hopefully everyone can find something",
+      "start": 2486.8,
+      "duration": 4.64
+    },
+    {
+      "text": "that might uh I guess it might give them",
+      "start": 2488.839,
+      "duration": 4.921
+    },
+    {
+      "text": "an idea whether it is going to help I",
+      "start": 2491.44,
+      "duration": 4.72
+    },
+    {
+      "text": "guess yes if they can get their GPS to",
+      "start": 2493.76,
+      "duration": 3.72
+    },
+    {
+      "text": "prescribe some of the medication that",
+      "start": 2496.16,
+      "duration": 3.439
+    },
+    {
+      "text": "would be really helpful obviously you",
+      "start": 2497.48,
+      "duration": 3.44
+    },
+    {
+      "text": "want to go through your GP if at all",
+      "start": 2499.599,
+      "duration": 2.641
+    },
+    {
+      "text": "possible because things like sodium",
+      "start": 2500.92,
+      "duration": 3.72
+    },
+    {
+      "text": "chromoglycate is expensive rattin is",
+      "start": 2502.24,
+      "duration": 4.52
+    },
+    {
+      "text": "expensive you know it's it's tragic they",
+      "start": 2504.64,
+      "duration": 3.6
+    },
+    {
+      "text": "used to be very very cheap for some",
+      "start": 2506.76,
+      "duration": 3.96
+    },
+    {
+      "text": "reason they've become expensive I think",
+      "start": 2508.24,
+      "duration": 5.079
+    },
+    {
+      "text": "it's called profiteering the the other",
+      "start": 2510.72,
+      "duration": 4.119
+    },
+    {
+      "text": "thing I've seen is some of my patients",
+      "start": 2513.319,
+      "duration": 4.121
+    },
+    {
+      "text": "are getting long covid from the vaccine",
+      "start": 2514.839,
+      "duration": 4.441
+    },
+    {
+      "text": "so they were absolutely fine before and",
+      "start": 2517.44,
+      "duration": 3.28
+    },
+    {
+      "text": "then they have the vaccine and they get",
+      "start": 2519.28,
+      "duration": 5.319
+    },
+    {
+      "text": "on covid so I am very cautious about",
+      "start": 2520.72,
+      "duration": 7.16
+    },
+    {
+      "text": "that yes and it do do we think that's a",
+      "start": 2524.599,
+      "duration": 5.801
+    },
+    {
+      "text": "similar sort of trigger I suppose is",
+      "start": 2527.88,
+      "duration": 5.28
+    },
+    {
+      "text": "maybe the word to to the co itself yeah",
+      "start": 2530.4,
+      "duration": 4.4
+    },
+    {
+      "text": "absolutely because when you think about",
+      "start": 2533.16,
+      "duration": 3.8
+    },
+    {
+      "text": "what the messenger RNA is doing in the",
+      "start": 2534.8,
+      "duration": 5.319
+    },
+    {
+      "text": "vaccine it enters our cells so it",
+      "start": 2536.96,
+      "duration": 5.72
+    },
+    {
+      "text": "doesn't stay in the deltoid muscle it",
+      "start": 2540.119,
+      "duration": 4.561
+    },
+    {
+      "text": "goes around the body it concentrates in",
+      "start": 2542.68,
+      "duration": 4.0
+    },
+    {
+      "text": "the ovaries the testicles the liver the",
+      "start": 2544.68,
+      "duration": 5.04
+    },
+    {
+      "text": "heart the brain and the spleen and it",
+      "start": 2546.68,
+      "duration": 6.48
+    },
+    {
+      "text": "goes into the lymphatics the lymph nodes",
+      "start": 2549.72,
+      "duration": 6.119
+    },
+    {
+      "text": "and it enters previously healthy",
+      "start": 2553.16,
+      "duration": 5.72
+    },
+    {
+      "text": "cells and it sets up a little factory",
+      "start": 2555.839,
+      "duration": 5.401
+    },
+    {
+      "text": "making from the messenger RNA making the",
+      "start": 2558.88,
+      "duration": 4.28
+    },
+    {
+      "text": "spike protein which is the",
+      "start": 2561.24,
+      "duration": 4.72
+    },
+    {
+      "text": "pathogen that's the worst bit of the",
+      "start": 2563.16,
+      "duration": 5.679
+    },
+    {
+      "text": "covid so it's not a surprise that some",
+      "start": 2565.96,
+      "duration": 4.96
+    },
+    {
+      "text": "people's mass cells are going to respond",
+      "start": 2568.839,
+      "duration": 5.28
+    },
+    {
+      "text": "to that as if they have had covid you",
+      "start": 2570.92,
+      "duration": 7.48
+    },
+    {
+      "text": "know and that will give them a long Co",
+      "start": 2574.119,
+      "duration": 6.761
+    },
+    {
+      "text": "so um I so quite a number of my patients",
+      "start": 2578.4,
+      "duration": 4.679
+    },
+    {
+      "text": "that is the case that they were fine",
+      "start": 2580.88,
+      "duration": 6.12
+    },
+    {
+      "text": "until they had the jab um and then the",
+      "start": 2583.079,
+      "duration": 5.201
+    },
+    {
+      "text": "previously healthy cells that are",
+      "start": 2587.0,
+      "duration": 4.599
+    },
+    {
+      "text": "entered by the messenger RNA um your",
+      "start": 2588.28,
+      "duration": 5.16
+    },
+    {
+      "text": "body then identifies as cells which",
+      "start": 2591.599,
+      "duration": 5.041
+    },
+    {
+      "text": "contain a virus and it destroys them so",
+      "start": 2593.44,
+      "duration": 4.36
+    },
+    {
+      "text": "we're actually that's a bit of",
+      "start": 2596.64,
+      "duration": 2.88
+    },
+    {
+      "text": "autoimmune disease going on where we're",
+      "start": 2597.8,
+      "duration": 3.92
+    },
+    {
+      "text": "destroying our own cells and that's not",
+      "start": 2599.52,
+      "duration": 5.2
+    },
+    {
+      "text": "great either yes CU of course OT I mean",
+      "start": 2601.72,
+      "duration": 6.04
+    },
+    {
+      "text": "that's another sort of prong of long Co",
+      "start": 2604.72,
+      "duration": 4.44
+    },
+    {
+      "text": "isn't it that a lot of people are",
+      "start": 2607.76,
+      "duration": 5.079
+    },
+    {
+      "text": "talking about um so do you think that",
+      "start": 2609.16,
+      "duration": 7.919
+    },
+    {
+      "text": "everybody with long Co has underlying",
+      "start": 2612.839,
+      "duration": 7.561
+    },
+    {
+      "text": "Mass cell sort of issues the right word",
+      "start": 2617.079,
+      "duration": 6.081
+    },
+    {
+      "text": "I'm not sure um do you think it's in",
+      "start": 2620.4,
+      "duration": 5.159
+    },
+    {
+      "text": "everybody it's a good question I would",
+      "start": 2623.16,
+      "duration": 4.48
+    },
+    {
+      "text": "say in my",
+      "start": 2625.559,
+      "duration": 4.681
+    },
+    {
+      "text": "experience looking at this not just",
+      "start": 2627.64,
+      "duration": 5.32
+    },
+    {
+      "text": "their symptoms but at their histories",
+      "start": 2630.24,
+      "duration": 5.72
+    },
+    {
+      "text": "98% of my patients that's the case they",
+      "start": 2632.96,
+      "duration": 6.28
+    },
+    {
+      "text": "had previously undiagnosed untreated",
+      "start": 2635.96,
+      "duration": 5.68
+    },
+    {
+      "text": "unrecognized M Cell Activation Syndrome",
+      "start": 2639.24,
+      "duration": 6.079
+    },
+    {
+      "text": "going on to one degree or another and",
+      "start": 2641.64,
+      "duration": 5.88
+    },
+    {
+      "text": "therefore what has happened is typical",
+      "start": 2645.319,
+      "duration": 4.641
+    },
+    {
+      "text": "in an mcast patient when you get a viral",
+      "start": 2647.52,
+      "duration": 5.44
+    },
+    {
+      "text": "infection it will be it presses all the",
+      "start": 2649.96,
+      "duration": 5.44
+    },
+    {
+      "text": "the buttons to increase the mcast and",
+      "start": 2652.96,
+      "duration": 4.8
+    },
+    {
+      "text": "that's what post viral fatigue is I",
+      "start": 2655.4,
+      "duration": 5.28
+    },
+    {
+      "text": "think and me and so on post viral me you",
+      "start": 2657.76,
+      "duration": 6.079
+    },
+    {
+      "text": "know chronic fatigue syndrome So So Co",
+      "start": 2660.68,
+      "duration": 5.6
+    },
+    {
+      "text": "is no different to any other virus for",
+      "start": 2663.839,
+      "duration": 6.961
+    },
+    {
+      "text": "doing that to patients with mcass and um",
+      "start": 2666.28,
+      "duration": 6.48
+    },
+    {
+      "text": "I would say I've only had a couple of",
+      "start": 2670.8,
+      "duration": 3.88
+    },
+    {
+      "text": "patients in whom there was no previous",
+      "start": 2672.76,
+      "duration": 4.12
+    },
+    {
+      "text": "history none whatsoever and",
+      "start": 2674.68,
+      "duration": 3.72
+    },
+    {
+      "text": "interestingly enough those patients",
+      "start": 2676.88,
+      "duration": 3.36
+    },
+    {
+      "text": "responded incredibly quickly to the",
+      "start": 2678.4,
+      "duration": 3.959
+    },
+    {
+      "text": "treatment and got better within two",
+      "start": 2680.24,
+      "duration": 4.52
+    },
+    {
+      "text": "weeks having been ill with long covid",
+      "start": 2682.359,
+      "duration": 3.921
+    },
+    {
+      "text": "for for",
+      "start": 2684.76,
+      "duration": 3.68
+    },
+    {
+      "text": "months when they went onto a lwh",
+      "start": 2686.28,
+      "duration": 3.48
+    },
+    {
+      "text": "histamine diet and they took the",
+      "start": 2688.44,
+      "duration": 3.159
+    },
+    {
+      "text": "antihistamines and they had a Mel",
+      "start": 2689.76,
+      "duration": 4.0
+    },
+    {
+      "text": "stabilizer two two weeks three weeks",
+      "start": 2691.599,
+      "duration": 3.881
+    },
+    {
+      "text": "later they were better they were",
+      "start": 2693.76,
+      "duration": 4.319
+    },
+    {
+      "text": "better so for them them it was easier to",
+      "start": 2695.48,
+      "duration": 4.52
+    },
+    {
+      "text": "that it switched on and it was EAS",
+      "start": 2698.079,
+      "duration": 3.961
+    },
+    {
+      "text": "easier much easier to switch it off but",
+      "start": 2700.0,
+      "duration": 4.64
+    },
+    {
+      "text": "for the vast majority of my patients 98%",
+      "start": 2702.04,
+      "duration": 4.72
+    },
+    {
+      "text": "of them that's not the case because",
+      "start": 2704.64,
+      "duration": 4.16
+    },
+    {
+      "text": "they've got a previous history a",
+      "start": 2706.76,
+      "duration": 5.319
+    },
+    {
+      "text": "predisposition if you like to M cells",
+      "start": 2708.8,
+      "duration": 5.84
+    },
+    {
+      "text": "that are super activated by covid we",
+      "start": 2712.079,
+      "duration": 4.52
+    },
+    {
+      "text": "know that covid passes through into the",
+      "start": 2714.64,
+      "duration": 4.919
+    },
+    {
+      "text": "M cells very easily through the A2",
+      "start": 2716.599,
+      "duration": 5.96
+    },
+    {
+      "text": "receptors and it seems to do that you",
+      "start": 2719.559,
+      "duration": 6.681
+    },
+    {
+      "text": "know excellently um and uh and then it",
+      "start": 2722.559,
+      "duration": 6.201
+    },
+    {
+      "text": "you know sets everything off um so I",
+      "start": 2726.24,
+      "duration": 3.8
+    },
+    {
+      "text": "think it's been a sort of super",
+      "start": 2728.76,
+      "duration": 3.96
+    },
+    {
+      "text": "stimulant when it comes to mcast really",
+      "start": 2730.04,
+      "duration": 5.0
+    },
+    {
+      "text": "of course yeah that's",
+      "start": 2732.72,
+      "duration": 5.72
+    },
+    {
+      "text": "fascinating um see I I don't know if it",
+      "start": 2735.04,
+      "duration": 5.039
+    },
+    {
+      "text": "is related and I'm sure you'll be able",
+      "start": 2738.44,
+      "duration": 4.56
+    },
+    {
+      "text": "to tell me um but people who get you",
+      "start": 2740.079,
+      "duration": 4.76
+    },
+    {
+      "text": "know other allergies hay fever for",
+      "start": 2743.0,
+      "duration": 4.48
+    },
+    {
+      "text": "example um and hay fever is very related",
+      "start": 2744.839,
+      "duration": 4.921
+    },
+    {
+      "text": "to histamin isn't it so do people who",
+      "start": 2747.48,
+      "duration": 4.879
+    },
+    {
+      "text": "get hay fever do they have mcass or is",
+      "start": 2749.76,
+      "duration": 6.2
+    },
+    {
+      "text": "it is it related or yeah so M Cell",
+      "start": 2752.359,
+      "duration": 5.72
+    },
+    {
+      "text": "Activation disease",
+      "start": 2755.96,
+      "duration": 5.44
+    },
+    {
+      "text": "mcad is includes allergies mastocytosis",
+      "start": 2758.079,
+      "duration": 6.841
+    },
+    {
+      "text": "and mcass so the allergies allergic",
+      "start": 2761.4,
+      "duration": 6.64
+    },
+    {
+      "text": "diseases C have inflammation and Allergy",
+      "start": 2764.92,
+      "duration": 5.28
+    },
+    {
+      "text": "type reactions to things and they are a",
+      "start": 2768.04,
+      "duration": 5.16
+    },
+    {
+      "text": "m El activation disease so that's why",
+      "start": 2770.2,
+      "duration": 4.359
+    },
+    {
+      "text": "some people get ha and other people",
+      "start": 2773.2,
+      "duration": 3.919
+    },
+    {
+      "text": "don't because some people's mass cells",
+      "start": 2774.559,
+      "duration": 4.481
+    },
+    {
+      "text": "respond in that way to pollen and others",
+      "start": 2777.119,
+      "duration": 5.361
+    },
+    {
+      "text": "don't but Mass Cell Activation Syndrome",
+      "start": 2779.04,
+      "duration": 7.24
+    },
+    {
+      "text": "is a subset if you like of the mcad and",
+      "start": 2782.48,
+      "duration": 7.44
+    },
+    {
+      "text": "that is inflammation allergy and drism",
+      "start": 2786.28,
+      "duration": 6.68
+    },
+    {
+      "text": "so people who have mcass can have",
+      "start": 2789.92,
+      "duration": 5.12
+    },
+    {
+      "text": "inflammation allergy type symptoms and",
+      "start": 2792.96,
+      "duration": 5.48
+    },
+    {
+      "text": "also drism which is abnormal mounds of",
+      "start": 2795.04,
+      "duration": 6.2
+    },
+    {
+      "text": "cells they can have like benign tumors",
+      "start": 2798.44,
+      "duration": 5.24
+    },
+    {
+      "text": "almost as well sometimes so and I've",
+      "start": 2801.24,
+      "duration": 4.24
+    },
+    {
+      "text": "seen this in my patients they I had one",
+      "start": 2803.68,
+      "duration": 4.72
+    },
+    {
+      "text": "lady one lady I diagnosed on the plane",
+      "start": 2805.48,
+      "duration": 5.56
+    },
+    {
+      "text": "actually I sat next to her on the plane",
+      "start": 2808.4,
+      "duration": 4.28
+    },
+    {
+      "text": "coming back from Italy I think it was",
+      "start": 2811.04,
+      "duration": 3.559
+    },
+    {
+      "text": "and she she was very sweet we started",
+      "start": 2812.68,
+      "duration": 5.76
+    },
+    {
+      "text": "chatting and she told me about all these",
+      "start": 2814.599,
+      "duration": 6.48
+    },
+    {
+      "text": "um symptoms she was having because when",
+      "start": 2818.44,
+      "duration": 4.32
+    },
+    {
+      "text": "people know you're a doctor they just do",
+      "start": 2821.079,
+      "duration": 3.881
+    },
+    {
+      "text": "that you know no matter where you are",
+      "start": 2822.76,
+      "duration": 3.72
+    },
+    {
+      "text": "you could be at a party and they'll do",
+      "start": 2824.96,
+      "duration": 4.0
+    },
+    {
+      "text": "it um it's sort of irresistible and I",
+      "start": 2826.48,
+      "duration": 4.879
+    },
+    {
+      "text": "know it's going to happen so anyway I",
+      "start": 2828.96,
+      "duration": 3.96
+    },
+    {
+      "text": "suppose it's up to me not to say I'm a",
+      "start": 2831.359,
+      "duration": 3.521
+    },
+    {
+      "text": "doctor but when she when somebody asks",
+      "start": 2832.92,
+      "duration": 4.399
+    },
+    {
+      "text": "me what I do I can't lie so anyway so",
+      "start": 2834.88,
+      "duration": 3.76
+    },
+    {
+      "text": "she started telling me all her symptoms",
+      "start": 2837.319,
+      "duration": 2.961
+    },
+    {
+      "text": "and I said oh I think you sounds like",
+      "start": 2838.64,
+      "duration": 3.88
+    },
+    {
+      "text": "you've got mle Activation Syndrome and",
+      "start": 2840.28,
+      "duration": 3.72
+    },
+    {
+      "text": "then she said oh she said look I've I've",
+      "start": 2842.52,
+      "duration": 3.76
+    },
+    {
+      "text": "got this Mass here on my and it was in",
+      "start": 2844.0,
+      "duration": 4.52
+    },
+    {
+      "text": "her sort of havle area she said I've got",
+      "start": 2846.28,
+      "duration": 3.319
+    },
+    {
+      "text": "this Mass here and they're going to",
+      "start": 2848.52,
+      "duration": 3.599
+    },
+    {
+      "text": "biopsy it and you know and I said to her",
+      "start": 2849.599,
+      "duration": 4.881
+    },
+    {
+      "text": "and it was like a fatty lump and I said",
+      "start": 2852.119,
+      "duration": 4.681
+    },
+    {
+      "text": "I'm sure that's M that'll be your M cels",
+      "start": 2854.48,
+      "duration": 5.04
+    },
+    {
+      "text": "that'll be a mar cell aggregation ask",
+      "start": 2856.8,
+      "duration": 5.799
+    },
+    {
+      "text": "them to to stain it with cd117 it's a",
+      "start": 2859.52,
+      "duration": 5.24
+    },
+    {
+      "text": "special stain that shows up the mels so",
+      "start": 2862.599,
+      "duration": 5.0
+    },
+    {
+      "text": "I was asking her to do this anyway bless",
+      "start": 2864.76,
+      "duration": 4.88
+    },
+    {
+      "text": "her heart she took my number and she",
+      "start": 2867.599,
+      "duration": 4.161
+    },
+    {
+      "text": "texted me a few weeks later and she had",
+      "start": 2869.64,
+      "duration": 3.959
+    },
+    {
+      "text": "gone on a low histamine diet she started",
+      "start": 2871.76,
+      "duration": 3.599
+    },
+    {
+      "text": "the Mah histamines and so on and she was",
+      "start": 2873.599,
+      "duration": 3.441
+    },
+    {
+      "text": "so jubilant because she was so much much",
+      "start": 2875.359,
+      "duration": 4.321
+    },
+    {
+      "text": "better she was feeling so much better I",
+      "start": 2877.04,
+      "duration": 5.44
+    },
+    {
+      "text": "don't know the result of her her biopsy",
+      "start": 2879.68,
+      "duration": 4.84
+    },
+    {
+      "text": "but um yes and I had another patient who",
+      "start": 2882.48,
+      "duration": 4.68
+    },
+    {
+      "text": "had like a swollen ankle and it when we",
+      "start": 2884.52,
+      "duration": 4.44
+    },
+    {
+      "text": "got her M cells under control it",
+      "start": 2887.16,
+      "duration": 4.24
+    },
+    {
+      "text": "dissolved it calmed down and I say",
+      "start": 2888.96,
+      "duration": 5.0
+    },
+    {
+      "text": "dissolved it it it reduced in size and",
+      "start": 2891.4,
+      "duration": 4.719
+    },
+    {
+      "text": "went I'm sure the M cells were still",
+      "start": 2893.96,
+      "duration": 3.24
+    },
+    {
+      "text": "sitting there but they weren't so",
+      "start": 2896.119,
+      "duration": 3.44
+    },
+    {
+      "text": "inflamed and big and I had another",
+      "start": 2897.2,
+      "duration": 4.8
+    },
+    {
+      "text": "patient who had like a lipoma under her",
+      "start": 2899.559,
+      "duration": 4.361
+    },
+    {
+      "text": "skin and I said to her I think this",
+      "start": 2902.0,
+      "duration": 4.599
+    },
+    {
+      "text": "could be group of M cells aggregating",
+      "start": 2903.92,
+      "duration": 5.12
+    },
+    {
+      "text": "and and um and she when she went on the",
+      "start": 2906.599,
+      "duration": 4.161
+    },
+    {
+      "text": "antihistamines that went away as well so",
+      "start": 2909.04,
+      "duration": 3.2
+    },
+    {
+      "text": "it wasn't a lipoma because they don't",
+      "start": 2910.76,
+      "duration": 4.359
+    },
+    {
+      "text": "disappear so very very interesting yeah",
+      "start": 2912.24,
+      "duration": 4.76
+    },
+    {
+      "text": "yeah it's fascinating isn't it and how",
+      "start": 2915.119,
+      "duration": 3.72
+    },
+    {
+      "text": "it I mean people with long covid have",
+      "start": 2917.0,
+      "duration": 3.68
+    },
+    {
+      "text": "been saying I think since the start you",
+      "start": 2918.839,
+      "duration": 3.681
+    },
+    {
+      "text": "know that you know Co was supposed to be",
+      "start": 2920.68,
+      "duration": 3.72
+    },
+    {
+      "text": "a respiratory virus but you know this is",
+      "start": 2922.52,
+      "duration": 4.4
+    },
+    {
+      "text": "affecting my whole body why am I getting",
+      "start": 2924.4,
+      "duration": 4.4
+    },
+    {
+      "text": "symptoms in my head and symptoms in my",
+      "start": 2926.92,
+      "duration": 3.52
+    },
+    {
+      "text": "gut and symptoms you know all over the",
+      "start": 2928.8,
+      "duration": 4.44
+    },
+    {
+      "text": "shop and and this this could explain it",
+      "start": 2930.44,
+      "duration": 4.399
+    },
+    {
+      "text": "um because these mass cells are",
+      "start": 2933.24,
+      "duration": 3.68
+    },
+    {
+      "text": "everywhere they are everywhere yes they",
+      "start": 2934.839,
+      "duration": 4.0
+    },
+    {
+      "text": "are they are absolutely everywhere and",
+      "start": 2936.92,
+      "duration": 3.639
+    },
+    {
+      "text": "you know they have a very important role",
+      "start": 2938.839,
+      "duration": 5.601
+    },
+    {
+      "text": "to play in our immune systems um and uh",
+      "start": 2940.559,
+      "duration": 7.121
+    },
+    {
+      "text": "and it release acid in our stomach and",
+      "start": 2944.44,
+      "duration": 5.0
+    },
+    {
+      "text": "and you know they're just they are very",
+      "start": 2947.68,
+      "duration": 4.32
+    },
+    {
+      "text": "essential histamine releases acid in the",
+      "start": 2949.44,
+      "duration": 5.08
+    },
+    {
+      "text": "stomach as produced by the mels and",
+      "start": 2952.0,
+      "duration": 5.28
+    },
+    {
+      "text": "histamine also is a neurotransmitter as",
+      "start": 2954.52,
+      "duration": 4.68
+    },
+    {
+      "text": "produced by the mels so it's got some",
+      "start": 2957.28,
+      "duration": 3.48
+    },
+    {
+      "text": "really important functions it helps with",
+      "start": 2959.2,
+      "duration": 3.72
+    },
+    {
+      "text": "our circadium Rhythm you know helps us",
+      "start": 2960.76,
+      "duration": 4.12
+    },
+    {
+      "text": "to sleep the right amount of time Etc",
+      "start": 2962.92,
+      "duration": 3.48
+    },
+    {
+      "text": "and to feel sleepy at night and not",
+      "start": 2964.88,
+      "duration": 3.199
+    },
+    {
+      "text": "during the the day and stuff but these",
+      "start": 2966.4,
+      "duration": 3.28
+    },
+    {
+      "text": "poor patients who have too much",
+      "start": 2968.079,
+      "duration": 3.401
+    },
+    {
+      "text": "histamine they find they have terrible",
+      "start": 2969.68,
+      "duration": 3.84
+    },
+    {
+      "text": "insomnia they can't sleep because it",
+      "start": 2971.48,
+      "duration": 4.8
+    },
+    {
+      "text": "completely puts out their Cadian Rhythm",
+      "start": 2973.52,
+      "duration": 4.88
+    },
+    {
+      "text": "uh which is normally responsible for and",
+      "start": 2976.28,
+      "duration": 4.519
+    },
+    {
+      "text": "has to be in right balance to do that",
+      "start": 2978.4,
+      "duration": 3.84
+    },
+    {
+      "text": "you know so it has some very important",
+      "start": 2980.799,
+      "duration": 3.481
+    },
+    {
+      "text": "functions but it just when it's out of",
+      "start": 2982.24,
+      "duration": 4.52
+    },
+    {
+      "text": "kilter it's it's like poison and it",
+      "start": 2984.28,
+      "duration": 3.92
+    },
+    {
+      "text": "feels like you're being poisoned because",
+      "start": 2986.76,
+      "duration": 4.12
+    },
+    {
+      "text": "you basically are by your own chemicals",
+      "start": 2988.2,
+      "duration": 4.879
+    },
+    {
+      "text": "and interestingly enough that that's why",
+      "start": 2990.88,
+      "duration": 3.88
+    },
+    {
+      "text": "also I believe so many of the tests are",
+      "start": 2993.079,
+      "duration": 3.881
+    },
+    {
+      "text": "normal you know when people check lung",
+      "start": 2994.76,
+      "duration": 3.64
+    },
+    {
+      "text": "function T they check this they check",
+      "start": 2996.96,
+      "duration": 3.44
+    },
+    {
+      "text": "that and it's all normal but the patient",
+      "start": 2998.4,
+      "duration": 4.0
+    },
+    {
+      "text": "doesn't feel normal at all I guess it's",
+      "start": 3000.4,
+      "duration": 3.84
+    },
+    {
+      "text": "a case of everything in moderation isn't",
+      "start": 3002.4,
+      "duration": 4.8
+    },
+    {
+      "text": "it um histamines chocolate depending",
+      "start": 3004.24,
+      "duration": 7.319
+    },
+    {
+      "text": "on yeah cyto yeah but yes so the body's",
+      "start": 3007.2,
+      "duration": 5.96
+    },
+    {
+      "text": "knows what it's doing normally but it's",
+      "start": 3011.559,
+      "duration": 4.201
+    },
+    {
+      "text": "gone a bit Ary yes it is it's just like",
+      "start": 3013.16,
+      "duration": 4.679
+    },
+    {
+      "text": "everything's just slightly out of kilter",
+      "start": 3015.76,
+      "duration": 4.039
+    },
+    {
+      "text": "and it's struggling to get back into",
+      "start": 3017.839,
+      "duration": 4.161
+    },
+    {
+      "text": "alignment isn't it when people can they",
+      "start": 3019.799,
+      "duration": 4.56
+    },
+    {
+      "text": "should also have organic food um as much",
+      "start": 3022.0,
+      "duration": 5.359
+    },
+    {
+      "text": "as possible no processed food get out in",
+      "start": 3024.359,
+      "duration": 5.2
+    },
+    {
+      "text": "the fresh air Get Back To Nature boost",
+      "start": 3027.359,
+      "duration": 4.081
+    },
+    {
+      "text": "their immune system there's an excellent",
+      "start": 3029.559,
+      "duration": 4.76
+    },
+    {
+      "text": "website for helping people and getting",
+      "start": 3031.44,
+      "duration": 5.919
+    },
+    {
+      "text": "information about covid actually and",
+      "start": 3034.319,
+      "duration": 6.201
+    },
+    {
+      "text": "it's um it's world counil for health.org",
+      "start": 3037.359,
+      "duration": 6.121
+    },
+    {
+      "text": "and it gives unbiased uncensored",
+      "start": 3040.52,
+      "duration": 6.799
+    },
+    {
+      "text": "information about covid and about how to",
+      "start": 3043.48,
+      "duration": 5.56
+    },
+    {
+      "text": "boost your immune system how to stay",
+      "start": 3047.319,
+      "duration": 5.081
+    },
+    {
+      "text": "healthy how to treat acute covid and so",
+      "start": 3049.04,
+      "duration": 6.2
+    },
+    {
+      "text": "on so really a useful website for every",
+      "start": 3052.4,
+      "duration": 4.959
+    },
+    {
+      "text": "family um so all those links that you've",
+      "start": 3055.24,
+      "duration": 3.559
+    },
+    {
+      "text": "mentioned I'll put them all in the show",
+      "start": 3057.359,
+      "duration": 3.76
+    },
+    {
+      "text": "notes um so if there are people that",
+      "start": 3058.799,
+      "duration": 5.0
+    },
+    {
+      "text": "want to go and check those out then um",
+      "start": 3061.119,
+      "duration": 3.96
+    },
+    {
+      "text": "that should hopefully make it easy for",
+      "start": 3063.799,
+      "duration": 4.04
+    },
+    {
+      "text": "them to find Jackie well thank you so",
+      "start": 3065.079,
+      "duration": 4.76
+    },
+    {
+      "text": "much for joining me today it's been an",
+      "start": 3067.839,
+      "duration": 4.041
+    },
+    {
+      "text": "absolute pleasure chatting to you and",
+      "start": 3069.839,
+      "duration": 3.24
+    },
+    {
+      "text": "I'm sure a lot of what you have said",
+      "start": 3071.88,
+      "duration": 3.239
+    },
+    {
+      "text": "will be really really helpful to so many",
+      "start": 3073.079,
+      "duration": 4.921
+    },
+    {
+      "text": "with long Co so thank you so much if it",
+      "start": 3075.119,
+      "duration": 5.761
+    },
+    {
+      "text": "helps get the word out about mcass and",
+      "start": 3078.0,
+      "duration": 5.72
+    },
+    {
+      "text": "treatments then fantastic so thank you",
+      "start": 3080.88,
+      "duration": 4.88
+    },
+    {
+      "text": "thank you so much to all of my guests",
+      "start": 3083.72,
+      "duration": 3.839
+    },
+    {
+      "text": "and to you for l",
+      "start": 3085.76,
+      "duration": 3.559
+    },
+    {
+      "text": "I hope you've enjoyed it or at least",
+      "start": 3087.559,
+      "duration": 5.081
+    },
+    {
+      "text": "found it useful the long Co podcast is",
+      "start": 3089.319,
+      "duration": 5.641
+    },
+    {
+      "text": "entirely self-produced and self-funded",
+      "start": 3092.64,
+      "duration": 3.88
+    },
+    {
+      "text": "I'm doing all of this",
+      "start": 3094.96,
+      "duration": 4.359
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 3096.52,
+      "duration": 4.279
+    },
+    {
+      "text": "buyme a",
+      "start": 3099.319,
+      "duration": 4.681
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 3100.799,
+      "duration": 5.161
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 3104.0,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 3105.96,
+      "duration": 4.2
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 3108.04,
+      "duration": 4.2
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 3110.16,
+      "duration": 5.12
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 3112.24,
+      "duration": 6.28
+    },
+    {
+      "text": "love to hear from",
+      "start": 3115.28,
+      "duration": 3.24
+    }
+  ],
+  "metadata": {
+    "title": "38 - Dr Tina Peers - MCAS & Long Covid",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/ptxFiP8eeag/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 38,
+    "title": "38 - Dr Tina Peers - MCAS & Long Covid",
+    "videoId": "ptxFiP8eeag",
+    "lengthText": "52:04"
+  }
+}

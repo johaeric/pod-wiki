@@ -1,0 +1,6923 @@
+{
+  "video_id": "d0TB0VxrUC8",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "Welcome to the Longco podcast with me,",
+      "start": 0.32,
+      "duration": 5.92
+    },
+    {
+      "text": "Jackie Baxter. I am really excited to",
+      "start": 2.96,
+      "duration": 5.76
+    },
+    {
+      "text": "bring you today's episode. Please do",
+      "start": 6.24,
+      "duration": 4.16
+    },
+    {
+      "text": "check out the links in the show notes",
+      "start": 8.72,
+      "duration": 4.16
+    },
+    {
+      "text": "where you can find the podcast website,",
+      "start": 10.4,
+      "duration": 4.48
+    },
+    {
+      "text": "social media, and support group as well",
+      "start": 12.88,
+      "duration": 4.08
+    },
+    {
+      "text": "as a link to buy me a coffee if you are",
+      "start": 14.88,
+      "duration": 4.77
+    },
+    {
+      "text": "able. You should not rely on any medical",
+      "start": 16.96,
+      "duration": 4.0
+    },
+    {
+      "text": "[music] information contained in this",
+      "start": 19.65,
+      "duration": 3.629
+    },
+    {
+      "text": "podcast and related materials in making",
+      "start": 20.96,
+      "duration": 4.239
+    },
+    {
+      "text": "medical, health related [music] or other",
+      "start": 23.279,
+      "duration": 4.961
+    },
+    {
+      "text": "decisions. Please do consult a doctor or",
+      "start": 25.199,
+      "duration": 5.121
+    },
+    {
+      "text": "other health professional.",
+      "start": 28.24,
+      "duration": 3.839
+    },
+    {
+      "text": "I love to hear from you. [music]",
+      "start": 30.32,
+      "duration": 3.28
+    },
+    {
+      "text": "If you've got any suggestions or",
+      "start": 32.079,
+      "duration": 4.081
+    },
+    {
+      "text": "feedback or just want to say hey, then",
+      "start": 33.6,
+      "duration": 4.959
+    },
+    {
+      "text": "please do get in touch. I really hope",
+      "start": 36.16,
+      "duration": 4.559
+    },
+    {
+      "text": "you [music] enjoy this episode. So, here",
+      "start": 38.559,
+      "duration": 5.32
+    },
+    {
+      "text": "we go.",
+      "start": 40.719,
+      "duration": 3.16
+    },
+    {
+      "text": "Hello and welcome to this episode of the",
+      "start": 55.92,
+      "duration": 5.439
+    },
+    {
+      "text": "Longco podcast. Um I'm delighted to be",
+      "start": 58.48,
+      "duration": 5.759
+    },
+    {
+      "text": "joined today by two guests and we're",
+      "start": 61.359,
+      "duration": 4.401
+    },
+    {
+      "text": "going to be talking about a recent",
+      "start": 64.239,
+      "duration": 3.601
+    },
+    {
+      "text": "research study. Um and we're going to",
+      "start": 65.76,
+      "duration": 3.76
+    },
+    {
+      "text": "get into what all that is in just a",
+      "start": 67.84,
+      "duration": 4.08
+    },
+    {
+      "text": "moment. Um but my wonderful guests today",
+      "start": 69.52,
+      "duration": 6.24
+    },
+    {
+      "text": "are Dr. Rudy Tanzy and Dr. Edmarie",
+      "start": 71.92,
+      "duration": 7.36
+    },
+    {
+      "text": "Guzman. So before we get any further",
+      "start": 75.76,
+      "duration": 5.6
+    },
+    {
+      "text": "into this, um would you guys just like",
+      "start": 79.28,
+      "duration": 5.28
+    },
+    {
+      "text": "to say a few words about um who you are",
+      "start": 81.36,
+      "duration": 5.28
+    },
+    {
+      "text": "and what do you do?",
+      "start": 84.56,
+      "duration": 4.559
+    },
+    {
+      "text": ">> Well, thank you so much for uh inviting",
+      "start": 86.64,
+      "duration": 7.519
+    },
+    {
+      "text": "us to the podcast. Um I am an assistant",
+      "start": 89.119,
+      "duration": 6.96
+    },
+    {
+      "text": "until a month ago I was an assistant",
+      "start": 94.159,
+      "duration": 3.761
+    },
+    {
+      "text": "professor at Harvard Medical School,",
+      "start": 96.079,
+      "duration": 4.72
+    },
+    {
+      "text": "Mass General Hospital. Um, currently I'm",
+      "start": 97.92,
+      "duration": 4.48
+    },
+    {
+      "text": "an assistant professor in the department",
+      "start": 100.799,
+      "duration": 4.0
+    },
+    {
+      "text": "of neurology at the Ruckers Robert Wood",
+      "start": 102.4,
+      "duration": 4.24
+    },
+    {
+      "text": "Johnson Medical School and Center for",
+      "start": 104.799,
+      "duration": 7.201
+    },
+    {
+      "text": "Healthy Aging Research. Um, and um, my I",
+      "start": 106.64,
+      "duration": 7.439
+    },
+    {
+      "text": "recently led the study that we're going",
+      "start": 112.0,
+      "duration": 4.079
+    },
+    {
+      "text": "to be talking about in collaboration",
+      "start": 114.079,
+      "duration": 4.32
+    },
+    {
+      "text": "with several colleagues including Dr.",
+      "start": 116.079,
+      "duration": 5.441
+    },
+    {
+      "text": "Tanzy um, with long COVID and",
+      "start": 118.399,
+      "duration": 5.441
+    },
+    {
+      "text": "neurological symptoms associated with",
+      "start": 121.52,
+      "duration": 4.16
+    },
+    {
+      "text": "it.",
+      "start": 123.84,
+      "duration": 4.0
+    },
+    {
+      "text": ">> And I'm Rudy Tanzy. I'm a professor of",
+      "start": 125.68,
+      "duration": 5.04
+    },
+    {
+      "text": "neurology at Harvard Medical School and",
+      "start": 127.84,
+      "duration": 5.6
+    },
+    {
+      "text": "at Mass General Hospital. I direct the",
+      "start": 130.72,
+      "duration": 4.72
+    },
+    {
+      "text": "genetics and aging research unit which",
+      "start": 133.44,
+      "duration": 5.28
+    },
+    {
+      "text": "is 11 labs carrying out pre-clinical",
+      "start": 135.44,
+      "duration": 5.84
+    },
+    {
+      "text": "Alzheimer's research. I also serve as",
+      "start": 138.72,
+      "duration": 5.519
+    },
+    {
+      "text": "director of the Mccan center which uh",
+      "start": 141.28,
+      "duration": 5.36
+    },
+    {
+      "text": "funded um most of this study that we're",
+      "start": 144.239,
+      "duration": 6.161
+    },
+    {
+      "text": "hearing about today. um and uh where we",
+      "start": 146.64,
+      "duration": 5.84
+    },
+    {
+      "text": "study um the role of supplements,",
+      "start": 150.4,
+      "duration": 4.88
+    },
+    {
+      "text": "natural products in uh treating",
+      "start": 152.48,
+      "duration": 4.399
+    },
+    {
+      "text": "neurological",
+      "start": 155.28,
+      "duration": 4.48
+    },
+    {
+      "text": "um diseases and we're we're very proud",
+      "start": 156.879,
+      "duration": 4.881
+    },
+    {
+      "text": "to be part of the study that uh Dr.",
+      "start": 159.76,
+      "duration": 6.559
+    },
+    {
+      "text": "Guzman uh led.",
+      "start": 161.76,
+      "duration": 9.36
+    },
+    {
+      "text": ">> Perfect. Thanks so much, guys. Um so",
+      "start": 166.319,
+      "duration": 7.441
+    },
+    {
+      "text": "maybe the first thing to do is just to",
+      "start": 171.12,
+      "duration": 5.92
+    },
+    {
+      "text": "take a little sort of snapshot of what",
+      "start": 173.76,
+      "duration": 5.68
+    },
+    {
+      "text": "is this study um that we're talking",
+      "start": 177.04,
+      "duration": 4.4
+    },
+    {
+      "text": "about and then I'd love to talk a little",
+      "start": 179.44,
+      "duration": 5.28
+    },
+    {
+      "text": "bit more about like the hypothesis and",
+      "start": 181.44,
+      "duration": 5.28
+    },
+    {
+      "text": "why why did we actually think that this",
+      "start": 184.72,
+      "duration": 4.08
+    },
+    {
+      "text": "might work in the first place. Um so do",
+      "start": 186.72,
+      "duration": 3.28
+    },
+    {
+      "text": "you want to give us like a little bit of",
+      "start": 188.8,
+      "duration": 3.2
+    },
+    {
+      "text": "an overview?",
+      "start": 190.0,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Yes, of course. So you know obviously",
+      "start": 192.0,
+      "duration": 6.08
+    },
+    {
+      "text": "this was inspired by uh the alarming",
+      "start": 194.48,
+      "duration": 6.16
+    },
+    {
+      "text": "number of individuals who had co 19 and",
+      "start": 198.08,
+      "duration": 5.28
+    },
+    {
+      "text": "haven't fully recovered. Um and this was",
+      "start": 200.64,
+      "duration": 6.8
+    },
+    {
+      "text": "a clinical trial. So we were looking at",
+      "start": 203.36,
+      "duration": 6.879
+    },
+    {
+      "text": "whether and nicotinomide ribbocide it's",
+      "start": 207.44,
+      "duration": 6.24
+    },
+    {
+      "text": "a form of vitamin B3 um could help",
+      "start": 210.239,
+      "duration": 7.041
+    },
+    {
+      "text": "improve or or elevate levels of NAD+",
+      "start": 213.68,
+      "duration": 6.24
+    },
+    {
+      "text": "which we can talk more about later. Um,",
+      "start": 217.28,
+      "duration": 5.599
+    },
+    {
+      "text": "and if this in turn could help reduce or",
+      "start": 219.92,
+      "duration": 4.72
+    },
+    {
+      "text": "improve some of the symptoms that are",
+      "start": 222.879,
+      "duration": 4.72
+    },
+    {
+      "text": "most common in people with long co,",
+      "start": 224.64,
+      "duration": 5.76
+    },
+    {
+      "text": "particularly this cognitive difficulty.",
+      "start": 227.599,
+      "duration": 4.72
+    },
+    {
+      "text": "So, a lot of people talk about it as",
+      "start": 230.4,
+      "duration": 5.44
+    },
+    {
+      "text": "brain fog um and also other symptoms",
+      "start": 232.319,
+      "duration": 6.0
+    },
+    {
+      "text": "such as fatigue, sleep difficulties and",
+      "start": 235.84,
+      "duration": 5.679
+    },
+    {
+      "text": "others that um people experience",
+      "start": 238.319,
+      "duration": 5.12
+    },
+    {
+      "text": "um and that can interfere with their",
+      "start": 241.519,
+      "duration": 5.521
+    },
+    {
+      "text": "daily activities. Um so, and yeah,",
+      "start": 243.439,
+      "duration": 5.841
+    },
+    {
+      "text": "that's kind of a very short summary. So",
+      "start": 247.04,
+      "duration": 4.559
+    },
+    {
+      "text": "yeah, clinical trial trying to figure",
+      "start": 249.28,
+      "duration": 4.56
+    },
+    {
+      "text": "out whether this could be helpful for",
+      "start": 251.599,
+      "duration": 4.241
+    },
+    {
+      "text": "people with lung COVID.",
+      "start": 253.84,
+      "duration": 3.679
+    },
+    {
+      "text": ">> And I would just add that, you know,",
+      "start": 255.84,
+      "duration": 4.959
+    },
+    {
+      "text": "NAD+ has been shown to play a key role",
+      "start": 257.519,
+      "duration": 5.521
+    },
+    {
+      "text": "in cellular resist resilience of cells",
+      "start": 260.799,
+      "duration": 6.081
+    },
+    {
+      "text": "and the energy in cells. And in um COVID",
+      "start": 263.04,
+      "duration": 7.2
+    },
+    {
+      "text": "patients, NAD+ levels drop",
+      "start": 266.88,
+      "duration": 6.16
+    },
+    {
+      "text": ">> and these this NAD deficiency leads to",
+      "start": 270.24,
+      "duration": 5.76
+    },
+    {
+      "text": "all types of issues that could uh likely",
+      "start": 273.04,
+      "duration": 6.0
+    },
+    {
+      "text": "contribute to longcoid symptoms. And so",
+      "start": 276.0,
+      "duration": 5.84
+    },
+    {
+      "text": "nicotinide ribocide is probably the the",
+      "start": 279.04,
+      "duration": 5.36
+    },
+    {
+      "text": "easiest and best way to increase your",
+      "start": 281.84,
+      "duration": 6.24
+    },
+    {
+      "text": "NAD+ level. So it just seemed that this",
+      "start": 284.4,
+      "duration": 7.28
+    },
+    {
+      "text": "was a obvious trial um to to initiate",
+      "start": 288.08,
+      "duration": 5.76
+    },
+    {
+      "text": "and see if we could help longcoid uh",
+      "start": 291.68,
+      "duration": 4.799
+    },
+    {
+      "text": "patients by increasing NAD+ levels using",
+      "start": 293.84,
+      "duration": 4.799
+    },
+    {
+      "text": "nicotenomide ribocide in this case",
+      "start": 296.479,
+      "duration": 6.321
+    },
+    {
+      "text": "through the uh NIGEN uh from Niogen",
+      "start": 298.639,
+      "duration": 6.0
+    },
+    {
+      "text": "Biosciences. I also just want to state",
+      "start": 302.8,
+      "duration": 4.08
+    },
+    {
+      "text": "for uh conflict of interest. I am a a",
+      "start": 304.639,
+      "duration": 4.721
+    },
+    {
+      "text": "longtime consultant to Niagen",
+      "start": 306.88,
+      "duration": 5.28
+    },
+    {
+      "text": "Biosciences and uh and whole equity in",
+      "start": 309.36,
+      "duration": 4.8
+    },
+    {
+      "text": "the company as well. And so for that",
+      "start": 312.16,
+      "duration": 4.8
+    },
+    {
+      "text": "reason, I was not directly involved in",
+      "start": 314.16,
+      "duration": 6.16
+    },
+    {
+      "text": "the trial execution but involved with",
+      "start": 316.96,
+      "duration": 5.6
+    },
+    {
+      "text": "the early conception and design and then",
+      "start": 320.32,
+      "duration": 4.48
+    },
+    {
+      "text": "later the interpretation of results to",
+      "start": 322.56,
+      "duration": 4.16
+    },
+    {
+      "text": "follow conflict of interest rules at",
+      "start": 324.8,
+      "duration": 4.48
+    },
+    {
+      "text": "Mass General Hospital.",
+      "start": 326.72,
+      "duration": 6.479
+    },
+    {
+      "text": ">> Of course. Yes. Um, so",
+      "start": 329.28,
+      "duration": 7.919
+    },
+    {
+      "text": "can we talk a little bit about NAD? Now",
+      "start": 333.199,
+      "duration": 7.121
+    },
+    {
+      "text": "it's it's alphabet soup, isn't it? In um",
+      "start": 337.199,
+      "duration": 5.84
+    },
+    {
+      "text": "in in sort of medical research world, I",
+      "start": 340.32,
+      "duration": 5.52
+    },
+    {
+      "text": "think. So I guess what would be a really",
+      "start": 343.039,
+      "duration": 4.641
+    },
+    {
+      "text": "sort of good place to start would be",
+      "start": 345.84,
+      "duration": 4.88
+    },
+    {
+      "text": "what is NAD? Um what does it actually",
+      "start": 347.68,
+      "duration": 5.04
+    },
+    {
+      "text": "mean? What is it? What does it do in the",
+      "start": 350.72,
+      "duration": 5.36
+    },
+    {
+      "text": "body? And what do different levels of it",
+      "start": 352.72,
+      "duration": 5.44
+    },
+    {
+      "text": "mean or might what different levels of",
+      "start": 356.08,
+      "duration": 4.48
+    },
+    {
+      "text": "it might mean?",
+      "start": 358.16,
+      "duration": 4.319
+    },
+    {
+      "text": "I can start. Um, NAD stands for",
+      "start": 360.56,
+      "duration": 5.04
+    },
+    {
+      "text": "nicotinomide adinine ducleotide. It's",
+      "start": 362.479,
+      "duration": 6.401
+    },
+    {
+      "text": "basically a called a co-enzyme. It",
+      "start": 365.6,
+      "duration": 6.0
+    },
+    {
+      "text": "allows various activities to take place",
+      "start": 368.88,
+      "duration": 5.599
+    },
+    {
+      "text": "in the cell especially given the cell",
+      "start": 371.6,
+      "duration": 6.96
+    },
+    {
+      "text": "energy to do what it needs to do. um the",
+      "start": 374.479,
+      "duration": 6.56
+    },
+    {
+      "text": "the the the batteries of our cells are",
+      "start": 378.56,
+      "duration": 4.079
+    },
+    {
+      "text": "mitochondria",
+      "start": 381.039,
+      "duration": 4.801
+    },
+    {
+      "text": "and mitochondria tend to start getting",
+      "start": 382.639,
+      "duration": 5.361
+    },
+    {
+      "text": "defective in cells especially in",
+      "start": 385.84,
+      "duration": 5.199
+    },
+    {
+      "text": "association with long COVID. So NAD+ is",
+      "start": 388.0,
+      "duration": 4.56
+    },
+    {
+      "text": "a way to supercharge up those",
+      "start": 391.039,
+      "duration": 4.641
+    },
+    {
+      "text": "mitochondria again and and um it plays a",
+      "start": 392.56,
+      "duration": 4.8
+    },
+    {
+      "text": "role in what's called the mitochondrial",
+      "start": 395.68,
+      "duration": 3.92
+    },
+    {
+      "text": "respiratory chain. In other words, how",
+      "start": 397.36,
+      "duration": 5.2
+    },
+    {
+      "text": "mitochondria supply energy uh to cells.",
+      "start": 399.6,
+      "duration": 5.52
+    },
+    {
+      "text": "And so if you have a energy, if you have",
+      "start": 402.56,
+      "duration": 5.44
+    },
+    {
+      "text": "an NAD+ deficiency, everything your",
+      "start": 405.12,
+      "duration": 4.32
+    },
+    {
+      "text": "cells are supposed to do that's going to",
+      "start": 408.0,
+      "duration": 6.0
+    },
+    {
+      "text": "do less well. And you see this manifest",
+      "start": 409.44,
+      "duration": 7.759
+    },
+    {
+      "text": "as problems with immune resistance, with",
+      "start": 414.0,
+      "duration": 6.16
+    },
+    {
+      "text": "uh fatigue, with uh just generally how",
+      "start": 417.199,
+      "duration": 6.56
+    },
+    {
+      "text": "much energy you have. um even um",
+      "start": 420.16,
+      "duration": 5.12
+    },
+    {
+      "text": "psychiatric symptoms, you know,",
+      "start": 423.759,
+      "duration": 4.241
+    },
+    {
+      "text": "depression, anxiety, agitation, sleep,",
+      "start": 425.28,
+      "duration": 6.639
+    },
+    {
+      "text": "NAD+ is so important and and so it's",
+      "start": 428.0,
+      "duration": 5.84
+    },
+    {
+      "text": "it's it's unfortunate that CO",
+      "start": 431.919,
+      "duration": 4.961
+    },
+    {
+      "text": "particularly targets NAD+ levels and",
+      "start": 433.84,
+      "duration": 4.799
+    },
+    {
+      "text": "this probably is a major if not the",
+      "start": 436.88,
+      "duration": 3.92
+    },
+    {
+      "text": "major contributor to symptoms of long",
+      "start": 438.639,
+      "duration": 3.921
+    },
+    {
+      "text": "COVID.",
+      "start": 440.8,
+      "duration": 4.88
+    },
+    {
+      "text": ">> And do we know what the mechanism is in",
+      "start": 442.56,
+      "duration": 6.4
+    },
+    {
+      "text": "that CO reduces the levels of NAD in the",
+      "start": 445.68,
+      "duration": 5.04
+    },
+    {
+      "text": "body? Do we know like what what it is",
+      "start": 448.96,
+      "duration": 3.44
+    },
+    {
+      "text": "that it does there or do we just know",
+      "start": 450.72,
+      "duration": 4.319
+    },
+    {
+      "text": "that it does happen?",
+      "start": 452.4,
+      "duration": 4.32
+    },
+    {
+      "text": ">> And maybe I don't know. Do you know? I",
+      "start": 455.039,
+      "duration": 2.72
+    },
+    {
+      "text": "don't I don't know if we know the",
+      "start": 456.72,
+      "duration": 2.319
+    },
+    {
+      "text": "mechanism.",
+      "start": 457.759,
+      "duration": 4.641
+    },
+    {
+      "text": ">> I I I don't know. And I think this one",
+      "start": 459.039,
+      "duration": 6.321
+    },
+    {
+      "text": "of the limitations is that we need more",
+      "start": 462.4,
+      "duration": 6.4
+    },
+    {
+      "text": "research um on this. If you make a quick",
+      "start": 465.36,
+      "duration": 5.6
+    },
+    {
+      "text": "look, you're not going to find much",
+      "start": 468.8,
+      "duration": 4.16
+    },
+    {
+      "text": "information out there, particular",
+      "start": 470.96,
+      "duration": 4.32
+    },
+    {
+      "text": "specifically to CO. But what is out",
+      "start": 472.96,
+      "duration": 4.4
+    },
+    {
+      "text": "there, I think it's very convincing that",
+      "start": 475.28,
+      "duration": 3.84
+    },
+    {
+      "text": "there's definitely an association",
+      "start": 477.36,
+      "duration": 6.8
+    },
+    {
+      "text": "between the virus and depletion of NAD+.",
+      "start": 479.12,
+      "duration": 6.24
+    },
+    {
+      "text": ">> I mean, without getting deep in the",
+      "start": 484.16,
+      "duration": 2.56
+    },
+    {
+      "text": "weeds, there are there's this there",
+      "start": 485.36,
+      "duration": 5.679
+    },
+    {
+      "text": "there's these enzymes called PPR enzymes",
+      "start": 486.72,
+      "duration": 7.44
+    },
+    {
+      "text": "and they help maintain your genome and",
+      "start": 491.039,
+      "duration": 6.961
+    },
+    {
+      "text": "uh protect cells from dying. And so the",
+      "start": 494.16,
+      "duration": 7.52
+    },
+    {
+      "text": "virus co virus does by activating these",
+      "start": 498.0,
+      "duration": 7.44
+    },
+    {
+      "text": "genes it it causes the NAD+ to be used",
+      "start": 501.68,
+      "duration": 7.28
+    },
+    {
+      "text": "up. So in terms of you know a precise",
+      "start": 505.44,
+      "duration": 7.12
+    },
+    {
+      "text": "molecular mechanism that could be one",
+      "start": 508.96,
+      "duration": 5.519
+    },
+    {
+      "text": "possible way in which you know you're",
+      "start": 512.56,
+      "duration": 4.959
+    },
+    {
+      "text": "depleting NAD+ by activating uh and it",
+      "start": 514.479,
+      "duration": 4.321
+    },
+    {
+      "text": "may be that the cells try to protect",
+      "start": 517.519,
+      "duration": 2.96
+    },
+    {
+      "text": "itself from the virus. So it's",
+      "start": 518.8,
+      "duration": 5.44
+    },
+    {
+      "text": "activating these these PP genes in order",
+      "start": 520.479,
+      "duration": 6.081
+    },
+    {
+      "text": "to maintain resilience but that's energy",
+      "start": 524.24,
+      "duration": 4.64
+    },
+    {
+      "text": "consuming and that means the NAD+ gets",
+      "start": 526.56,
+      "duration": 4.24
+    },
+    {
+      "text": "used up like using up a battery. So that",
+      "start": 528.88,
+      "duration": 4.079
+    },
+    {
+      "text": "could be one way in which it happens but",
+      "start": 530.8,
+      "duration": 4.4
+    },
+    {
+      "text": "we don't know exactly all the details.",
+      "start": 532.959,
+      "duration": 4.161
+    },
+    {
+      "text": ">> Right. Right. But what we do know is",
+      "start": 535.2,
+      "duration": 4.72
+    },
+    {
+      "text": "that the levels of NAD do get depleted",
+      "start": 537.12,
+      "duration": 5.68
+    },
+    {
+      "text": "in people with long co and that is",
+      "start": 539.92,
+      "duration": 6.0
+    },
+    {
+      "text": "something that you can then look at in",
+      "start": 542.8,
+      "duration": 6.56
+    },
+    {
+      "text": "terms of their study. How do we increase",
+      "start": 545.92,
+      "duration": 5.919
+    },
+    {
+      "text": "those levels? Or is it how do we stop",
+      "start": 549.36,
+      "duration": 5.599
+    },
+    {
+      "text": "them from being depleted?",
+      "start": 551.839,
+      "duration": 4.881
+    },
+    {
+      "text": "Or maybe both.",
+      "start": 554.959,
+      "duration": 4.241
+    },
+    {
+      "text": ">> I should probably clarify this. Patients",
+      "start": 556.72,
+      "duration": 4.64
+    },
+    {
+      "text": "who are hospitalized with COVID, who are",
+      "start": 559.2,
+      "duration": 4.96
+    },
+    {
+      "text": "who have severe COVID have NAD plus",
+      "start": 561.36,
+      "duration": 4.159
+    },
+    {
+      "text": "levels that are depleted. So, we're",
+      "start": 564.16,
+      "duration": 4.08
+    },
+    {
+      "text": "assuming that long CO this also happens.",
+      "start": 565.519,
+      "duration": 4.32
+    },
+    {
+      "text": "But I don't know if there's been a study",
+      "start": 568.24,
+      "duration": 3.68
+    },
+    {
+      "text": "that shows specifically this in long",
+      "start": 569.839,
+      "duration": 4.161
+    },
+    {
+      "text": "COVID. It's in severe COVID cases",
+      "start": 571.92,
+      "duration": 4.24
+    },
+    {
+      "text": "requiring hospitalization that you see",
+      "start": 574.0,
+      "duration": 4.08
+    },
+    {
+      "text": "this drop in any case levels.",
+      "start": 576.16,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Yes, that's correct. Yes.",
+      "start": 578.08,
+      "duration": 5.36
+    },
+    {
+      "text": ">> Right. So, it's a sort of assumption",
+      "start": 580.8,
+      "duration": 6.64
+    },
+    {
+      "text": "that it does it in the body of anybody",
+      "start": 583.44,
+      "duration": 6.88
+    },
+    {
+      "text": "with CO or is it you're thinking or is",
+      "start": 587.44,
+      "duration": 5.28
+    },
+    {
+      "text": "it more severe in people with who who",
+      "start": 590.32,
+      "duration": 4.8
+    },
+    {
+      "text": "have who go on to develop long CO or is",
+      "start": 592.72,
+      "duration": 4.08
+    },
+    {
+      "text": "this is this something that's not not",
+      "start": 595.12,
+      "duration": 4.8
+    },
+    {
+      "text": "really been looked into?",
+      "start": 596.8,
+      "duration": 5.12
+    },
+    {
+      "text": "Well, that's part of what we wanted to",
+      "start": 599.92,
+      "duration": 5.919
+    },
+    {
+      "text": "answer um with the long co study um is",
+      "start": 601.92,
+      "duration": 7.12
+    },
+    {
+      "text": "actually see if if if",
+      "start": 605.839,
+      "duration": 4.801
+    },
+    {
+      "text": "we already know what happens in the",
+      "start": 609.04,
+      "duration": 4.4
+    },
+    {
+      "text": "acute stage, you know, may that be",
+      "start": 610.64,
+      "duration": 5.92
+    },
+    {
+      "text": "explaining um at least partially why",
+      "start": 613.44,
+      "duration": 5.2
+    },
+    {
+      "text": "these individ this group of people have",
+      "start": 616.56,
+      "duration": 5.44
+    },
+    {
+      "text": "not fully recovered. Um, and to kind of",
+      "start": 618.64,
+      "duration": 5.92
+    },
+    {
+      "text": "also go back to your first question, so",
+      "start": 622.0,
+      "duration": 4.399
+    },
+    {
+      "text": "in this case, it wouldn't be so much as",
+      "start": 624.56,
+      "duration": 4.8
+    },
+    {
+      "text": "preventing the depletion, but trying to",
+      "start": 626.399,
+      "duration": 4.721
+    },
+    {
+      "text": "we are assuming that there's already a",
+      "start": 629.36,
+      "duration": 4.4
+    },
+    {
+      "text": "depletion. We're trying to increase and",
+      "start": 631.12,
+      "duration": 6.08
+    },
+    {
+      "text": "get it back to normal levels for that",
+      "start": 633.76,
+      "duration": 5.04
+    },
+    {
+      "text": "person,",
+      "start": 637.2,
+      "duration": 6.56
+    },
+    {
+      "text": ">> right? Okay, cool. Um, so",
+      "start": 638.8,
+      "duration": 7.12
+    },
+    {
+      "text": "how does",
+      "start": 643.76,
+      "duration": 3.44
+    },
+    {
+      "text": "now you're going to have to remind me",
+      "start": 645.92,
+      "duration": 3.599
+    },
+    {
+      "text": "what the name of the the building block",
+      "start": 647.2,
+      "duration": 5.52
+    },
+    {
+      "text": "was, but it's the the Niagen is is what",
+      "start": 649.519,
+      "duration": 5.76
+    },
+    {
+      "text": "you've used in the study, isn't it? Um,",
+      "start": 652.72,
+      "duration": 6.48
+    },
+    {
+      "text": "what is that and why is that relevant to",
+      "start": 655.279,
+      "duration": 7.12
+    },
+    {
+      "text": "the NAD levels?",
+      "start": 659.2,
+      "duration": 6.8
+    },
+    {
+      "text": "Yeah, Niogen is nicotinomide ribocide",
+      "start": 662.399,
+      "duration": 6.641
+    },
+    {
+      "text": "which if you look at the pathway to",
+      "start": 666.0,
+      "duration": 5.519
+    },
+    {
+      "text": "making NAD+",
+      "start": 669.04,
+      "duration": 5.2
+    },
+    {
+      "text": "nicotinomide ribocide",
+      "start": 671.519,
+      "duration": 5.601
+    },
+    {
+      "text": "or NR gets turned into something that's",
+      "start": 674.24,
+      "duration": 5.2
+    },
+    {
+      "text": "abbreviated NMN",
+      "start": 677.12,
+      "duration": 5.2
+    },
+    {
+      "text": "and then that turns into NAD+. But if",
+      "start": 679.44,
+      "duration": 6.24
+    },
+    {
+      "text": "you want to increase NAD+ levels, you",
+      "start": 682.32,
+      "duration": 6.0
+    },
+    {
+      "text": "would use nicotinomide riocide.",
+      "start": 685.68,
+      "duration": 5.52
+    },
+    {
+      "text": "Um and then in the blood that turns that",
+      "start": 688.32,
+      "duration": 5.44
+    },
+    {
+      "text": "that that would be taken into the cell",
+      "start": 691.2,
+      "duration": 5.12
+    },
+    {
+      "text": "and then turned into NMN and NAD+. If",
+      "start": 693.76,
+      "duration": 6.24
+    },
+    {
+      "text": "you use NMN to do it, NN would have to",
+      "start": 696.32,
+      "duration": 6.48
+    },
+    {
+      "text": "be turned back to nicotine ribbocide in",
+      "start": 700.0,
+      "duration": 4.32
+    },
+    {
+      "text": "the blood before the cell could take it",
+      "start": 702.8,
+      "duration": 3.76
+    },
+    {
+      "text": "up. So it's a less direct way to",
+      "start": 704.32,
+      "duration": 5.68
+    },
+    {
+      "text": "increase NAD+ with NMN. NR will do it",
+      "start": 706.56,
+      "duration": 5.839
+    },
+    {
+      "text": "directly, but it's just one of it's just",
+      "start": 710.0,
+      "duration": 5.44
+    },
+    {
+      "text": "along the synthetic pathway. NAD+ NR is",
+      "start": 712.399,
+      "duration": 4.801
+    },
+    {
+      "text": "one of the steps along the way. the",
+      "start": 715.44,
+      "duration": 5.12
+    },
+    {
+      "text": "easiest one to uh pharmacologically",
+      "start": 717.2,
+      "duration": 5.759
+    },
+    {
+      "text": "affect to get NAD+ levels higher which",
+      "start": 720.56,
+      "duration": 3.839
+    },
+    {
+      "text": "it you know which has been shown to do",
+      "start": 722.959,
+      "duration": 4.961
+    },
+    {
+      "text": ">> right I wanted to exactly say that it's",
+      "start": 724.399,
+      "duration": 6.161
+    },
+    {
+      "text": "already been shown in animal models and",
+      "start": 727.92,
+      "duration": 5.599
+    },
+    {
+      "text": "even smaller clinical trials that it",
+      "start": 730.56,
+      "duration": 5.2
+    },
+    {
+      "text": "this is an effective way to increase",
+      "start": 733.519,
+      "duration": 5.201
+    },
+    {
+      "text": "NAD+ levels so you know that information",
+      "start": 735.76,
+      "duration": 5.759
+    },
+    {
+      "text": "was already available um which made us",
+      "start": 738.72,
+      "duration": 5.84
+    },
+    {
+      "text": "confident that in fact we were a we",
+      "start": 741.519,
+      "duration": 5.601
+    },
+    {
+      "text": "would be able to increase NAD+ in this",
+      "start": 744.56,
+      "duration": 3.44
+    },
+    {
+      "text": "population.",
+      "start": 747.12,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Cuz that was kind of one of my thoughts",
+      "start": 748.0,
+      "duration": 4.72
+    },
+    {
+      "text": "that was just going through my head like",
+      "start": 750.0,
+      "duration": 5.44
+    },
+    {
+      "text": "if you want to increase the NAD levels,",
+      "start": 752.72,
+      "duration": 6.96
+    },
+    {
+      "text": "can you not just give people NAD? But",
+      "start": 755.44,
+      "duration": 5.519
+    },
+    {
+      "text": "no, because it would have to break it",
+      "start": 759.68,
+      "duration": 3.68
+    },
+    {
+      "text": "down anyway.",
+      "start": 760.959,
+      "duration": 4.081
+    },
+    {
+      "text": ">> NAD was doesn't really make it out of",
+      "start": 763.36,
+      "duration": 3.52
+    },
+    {
+      "text": "the gut.",
+      "start": 765.04,
+      "duration": 3.76
+    },
+    {
+      "text": "Just if you just orally took NAD plus",
+      "start": 766.88,
+      "duration": 3.84
+    },
+    {
+      "text": "itself, you would it would never make it",
+      "start": 768.8,
+      "duration": 4.96
+    },
+    {
+      "text": "into cells. Just like NMN, even though",
+      "start": 770.72,
+      "duration": 6.239
+    },
+    {
+      "text": "it's close, one step closer to NAD, it",
+      "start": 773.76,
+      "duration": 5.04
+    },
+    {
+      "text": "it the cells won't take it up. So, it",
+      "start": 776.959,
+      "duration": 4.56
+    },
+    {
+      "text": "has to be reverted back to nicotine by",
+      "start": 778.8,
+      "duration": 4.719
+    },
+    {
+      "text": "ribocide or NR before the cells can take",
+      "start": 781.519,
+      "duration": 4.32
+    },
+    {
+      "text": "it up, then turn it back into NN and",
+      "start": 783.519,
+      "duration": 4.88
+    },
+    {
+      "text": "into NAD+. So, NR is the is the most",
+      "start": 785.839,
+      "duration": 4.961
+    },
+    {
+      "text": "direct route to do it.",
+      "start": 788.399,
+      "duration": 4.321
+    },
+    {
+      "text": ">> So, it's kind of like the smallest,",
+      "start": 790.8,
+      "duration": 3.279
+    },
+    {
+      "text": "well, probably not the smallest, but you",
+      "start": 792.72,
+      "duration": 2.96
+    },
+    {
+      "text": "know, the smallest building block that",
+      "start": 794.079,
+      "duration": 4.481
+    },
+    {
+      "text": "the body can sort of handle in order to",
+      "start": 795.68,
+      "duration": 4.719
+    },
+    {
+      "text": "then build that back up. I'm I'm",
+      "start": 798.56,
+      "duration": 4.079
+    },
+    {
+      "text": "visualizing Lego here.",
+      "start": 800.399,
+      "duration": 4.24
+    },
+    {
+      "text": ">> Yeah, I know. You got it. You got it.",
+      "start": 802.639,
+      "duration": 4.32
+    },
+    {
+      "text": "Yeah.",
+      "start": 804.639,
+      "duration": 4.161
+    },
+    {
+      "text": ">> You got to get those little pieces in",
+      "start": 806.959,
+      "duration": 4.401
+    },
+    {
+      "text": "order to build up to the the bigger um",
+      "start": 808.8,
+      "duration": 5.2
+    },
+    {
+      "text": "your Lego castles and things. Um I'm",
+      "start": 811.36,
+      "duration": 4.64
+    },
+    {
+      "text": "showing that I'm still a total child. I",
+      "start": 814.0,
+      "duration": 4.399
+    },
+    {
+      "text": "do have Lego castles in my in my house",
+      "start": 816.0,
+      "duration": 4.959
+    },
+    {
+      "text": "and I don't have children. They're mine.",
+      "start": 818.399,
+      "duration": 4.641
+    },
+    {
+      "text": ">> I use Lego metaphors all the time. Just",
+      "start": 820.959,
+      "duration": 3.361
+    },
+    {
+      "text": "so you",
+      "start": 823.04,
+      "duration": 2.479
+    },
+    {
+      "text": ">> aren't they brilliant? Aren't they",
+      "start": 824.32,
+      "duration": 2.48
+    },
+    {
+      "text": "brilliant? Because we all understand",
+      "start": 825.519,
+      "duration": 5.921
+    },
+    {
+      "text": "them. Um, so NR,",
+      "start": 826.8,
+      "duration": 6.8
+    },
+    {
+      "text": "can we just talk a little bit more about",
+      "start": 831.44,
+      "duration": 4.0
+    },
+    {
+      "text": "what what actually is it? You know,",
+      "start": 833.6,
+      "duration": 3.12
+    },
+    {
+      "text": "we've talked about how it's this small",
+      "start": 835.44,
+      "duration": 4.079
+    },
+    {
+      "text": "building block and it will build up into",
+      "start": 836.72,
+      "duration": 7.679
+    },
+    {
+      "text": "NMR, you said, and then up to NAD, but",
+      "start": 839.519,
+      "duration": 7.68
+    },
+    {
+      "text": "what actually is it?",
+      "start": 844.399,
+      "duration": 6.081
+    },
+    {
+      "text": ">> It's a it's a form of vitamin B3.",
+      "start": 847.199,
+      "duration": 4.88
+    },
+    {
+      "text": "Um,",
+      "start": 850.48,
+      "duration": 3.359
+    },
+    {
+      "text": "and so it's a chemical. It has a",
+      "start": 852.079,
+      "duration": 3.44
+    },
+    {
+      "text": "structure. Mhm.",
+      "start": 853.839,
+      "duration": 4.56
+    },
+    {
+      "text": ">> Um and you know most things in the body",
+      "start": 855.519,
+      "duration": 4.88
+    },
+    {
+      "text": "require synthetic pathways, right? You",
+      "start": 858.399,
+      "duration": 3.68
+    },
+    {
+      "text": "just you know you have the building",
+      "start": 860.399,
+      "duration": 3.841
+    },
+    {
+      "text": "blocks and then they are modified by",
+      "start": 862.079,
+      "duration": 5.2
+    },
+    {
+      "text": "enzymes to turn into A turns into B into",
+      "start": 864.24,
+      "duration": 5.44
+    },
+    {
+      "text": "C and then finally get D in this case",
+      "start": 867.279,
+      "duration": 6.081
+    },
+    {
+      "text": "NAD+. So nicotine my ribocide can be",
+      "start": 869.68,
+      "duration": 6.399
+    },
+    {
+      "text": "found as you know in small amounts in in",
+      "start": 873.36,
+      "duration": 5.44
+    },
+    {
+      "text": "some foods like milk and yeast and even",
+      "start": 876.079,
+      "duration": 4.961
+    },
+    {
+      "text": "a good IPA has nicotine my ribbocide in",
+      "start": 878.8,
+      "duration": 3.92
+    },
+    {
+      "text": "it believe it or not although I'm not",
+      "start": 881.04,
+      "duration": 3.84
+    },
+    {
+      "text": "suggesting that's how you get it",
+      "start": 882.72,
+      "duration": 3.6
+    },
+    {
+      "text": ">> I actually didn't know that one.",
+      "start": 884.88,
+      "duration": 4.8
+    },
+    {
+      "text": ">> Yeah. Yeah. It's in beer. Uh but but uh",
+      "start": 886.32,
+      "duration": 6.24
+    },
+    {
+      "text": "but you know it's it's it's basically a",
+      "start": 889.68,
+      "duration": 5.599
+    },
+    {
+      "text": "chemical building block and in and it's",
+      "start": 892.56,
+      "duration": 4.56
+    },
+    {
+      "text": "technically a vitamin. It's a form of",
+      "start": 895.279,
+      "duration": 5.281
+    },
+    {
+      "text": "vitamin B3 which is also related to",
+      "start": 897.12,
+      "duration": 5.279
+    },
+    {
+      "text": "niacin.",
+      "start": 900.56,
+      "duration": 6.88
+    },
+    {
+      "text": "NASCIN is uh is is a is B3 but this is a",
+      "start": 902.399,
+      "duration": 7.761
+    },
+    {
+      "text": "form an alternative form of B3 related",
+      "start": 907.44,
+      "duration": 5.04
+    },
+    {
+      "text": "to niacin",
+      "start": 910.16,
+      "duration": 4.88
+    },
+    {
+      "text": ">> right and that is one I mean you know",
+      "start": 912.48,
+      "duration": 5.12
+    },
+    {
+      "text": "people with longcoid and ME/CFS have",
+      "start": 915.04,
+      "duration": 4.479
+    },
+    {
+      "text": "they you know been through and tried all",
+      "start": 917.6,
+      "duration": 4.0
+    },
+    {
+      "text": "the supplements and and nascin is is one",
+      "start": 919.519,
+      "duration": 4.481
+    },
+    {
+      "text": "of those ones that does get talked about",
+      "start": 921.6,
+      "duration": 4.32
+    },
+    {
+      "text": "um so I think people will probably be",
+      "start": 924.0,
+      "duration": 5.92
+    },
+    {
+      "text": "familiar with that one um so",
+      "start": 925.92,
+      "duration": 5.76
+    },
+    {
+      "text": "let's talk a little bit about the study",
+      "start": 929.92,
+      "duration": 3.76
+    },
+    {
+      "text": "itself self. We've kind of talked about,",
+      "start": 931.68,
+      "duration": 3.839
+    },
+    {
+      "text": "you know, what what is this stuff? Why",
+      "start": 933.68,
+      "duration": 5.599
+    },
+    {
+      "text": "do we want it? And what does it do? Um,",
+      "start": 935.519,
+      "duration": 5.841
+    },
+    {
+      "text": "let's get into the study. So, how how",
+      "start": 939.279,
+      "duration": 4.0
+    },
+    {
+      "text": "did the study work? Um, what was your",
+      "start": 941.36,
+      "duration": 3.839
+    },
+    {
+      "text": "kind of procedure? Was there a certain",
+      "start": 943.279,
+      "duration": 3.36
+    },
+    {
+      "text": "dosage? Well, there must have been a",
+      "start": 945.199,
+      "duration": 3.841
+    },
+    {
+      "text": "certain dosage that you used. Um, and",
+      "start": 946.639,
+      "duration": 5.361
+    },
+    {
+      "text": "how did you kind of monitor it? Um, what",
+      "start": 949.04,
+      "duration": 7.4
+    },
+    {
+      "text": "what did that kind of all look like?",
+      "start": 952.0,
+      "duration": 4.44
+    },
+    {
+      "text": "We'll be right back.",
+      "start": 957.68,
+      "duration": 4.399
+    },
+    {
+      "text": "I'm [music] interrupting myself for a",
+      "start": 960.639,
+      "duration": 3.281
+    },
+    {
+      "text": "second to tell you about longco",
+      "start": 962.079,
+      "duration": 4.241
+    },
+    {
+      "text": "breathing. The fabulous Vicky Jones and",
+      "start": 963.92,
+      "duration": 4.0
+    },
+    {
+      "text": "I have teamed up to bring you longco",
+      "start": 966.32,
+      "duration": 3.6
+    },
+    {
+      "text": "breathing. We are both passionate about",
+      "start": 967.92,
+      "duration": 3.359
+    },
+    {
+      "text": "sharing our expertise [music] and",
+      "start": 969.92,
+      "duration": 2.88
+    },
+    {
+      "text": "experience of the breath and how",
+      "start": 971.279,
+      "duration": 3.12
+    },
+    {
+      "text": "incredibly helpful that can be with",
+      "start": 972.8,
+      "duration": 4.399
+    },
+    {
+      "text": "longco. We've worked together to develop",
+      "start": 974.399,
+      "duration": 4.56
+    },
+    {
+      "text": "a course that is specifically tailored",
+      "start": 977.199,
+      "duration": 3.281
+    },
+    {
+      "text": "to those with longco. [music]",
+      "start": 978.959,
+      "duration": 3.841
+    },
+    {
+      "text": "It's a sixe course with 12 sessions all",
+      "start": 980.48,
+      "duration": 4.88
+    },
+    {
+      "text": "delivered online. The community feel and",
+      "start": 982.8,
+      "duration": 3.92
+    },
+    {
+      "text": "learning that we're all sharing is such",
+      "start": 985.36,
+      "duration": 3.44
+    },
+    {
+      "text": "a joy. To find out more information and",
+      "start": 986.72,
+      "duration": 3.28
+    },
+    {
+      "text": "to sign [music] up for our courses,",
+      "start": 988.8,
+      "duration": 3.12
+    },
+    {
+      "text": "workshops and other shorter sessions,",
+      "start": 990.0,
+      "duration": 4.24
+    },
+    {
+      "text": "please check out the link below longcoid",
+      "start": 991.92,
+      "duration": 4.719
+    },
+    {
+      "text": "breathing.com or [music] email longcoid",
+      "start": 994.24,
+      "duration": 4.32
+    },
+    {
+      "text": "breathing@gmail.com to start your",
+      "start": 996.639,
+      "duration": 5.88
+    },
+    {
+      "text": "breathing journey with us.",
+      "start": 998.56,
+      "duration": 3.959
+    },
+    {
+      "text": "Yes. Um I'm happy to share that. So the",
+      "start": 1005.92,
+      "duration": 7.919
+    },
+    {
+      "text": "dosage was 2,000 mg of nicotinomide",
+      "start": 1010.16,
+      "duration": 8.32
+    },
+    {
+      "text": "ribbocide um per day. And so what we did",
+      "start": 1013.839,
+      "duration": 8.961
+    },
+    {
+      "text": "was that we invited to participate BEO",
+      "start": 1018.48,
+      "duration": 6.719
+    },
+    {
+      "text": "with long CO who had been infected with",
+      "start": 1022.8,
+      "duration": 6.56
+    },
+    {
+      "text": "COVID 19 at least 2 months prior to um",
+      "start": 1025.199,
+      "duration": 7.041
+    },
+    {
+      "text": "starting in the clinical trial and who",
+      "start": 1029.36,
+      "duration": 5.679
+    },
+    {
+      "text": "were experiencing brain fog or these",
+      "start": 1032.24,
+      "duration": 6.319
+    },
+    {
+      "text": "difficulties with memory or language and",
+      "start": 1035.039,
+      "duration": 8.64
+    },
+    {
+      "text": "also at least two other symptoms. Um and",
+      "start": 1038.559,
+      "duration": 7.76
+    },
+    {
+      "text": "and then these individuals also none of",
+      "start": 1043.679,
+      "duration": 4.721
+    },
+    {
+      "text": "them were hospitalized during acute",
+      "start": 1046.319,
+      "duration": 4.881
+    },
+    {
+      "text": "infection. Um so they experienced mostly",
+      "start": 1048.4,
+      "duration": 4.96
+    },
+    {
+      "text": "mild to moderate illness. They stayed",
+      "start": 1051.2,
+      "duration": 5.839
+    },
+    {
+      "text": "home um when they had CO um instead of",
+      "start": 1053.36,
+      "duration": 6.0
+    },
+    {
+      "text": "of having to be hospitalized or in the",
+      "start": 1057.039,
+      "duration": 7.041
+    },
+    {
+      "text": "ICU. Um and and then um everyone started",
+      "start": 1059.36,
+      "duration": 8.559
+    },
+    {
+      "text": "taking placebo um after you know we did",
+      "start": 1064.08,
+      "duration": 6.56
+    },
+    {
+      "text": "all the screening to make sure that they",
+      "start": 1067.919,
+      "duration": 6.561
+    },
+    {
+      "text": "comply with all eligibility criteria and",
+      "start": 1070.64,
+      "duration": 8.159
+    },
+    {
+      "text": "they took placebo for 2 weeks um and and",
+      "start": 1074.48,
+      "duration": 7.04
+    },
+    {
+      "text": "then at 2 weeks we did a lot of of",
+      "start": 1078.799,
+      "duration": 6.081
+    },
+    {
+      "text": "testing. So we collected their medical",
+      "start": 1081.52,
+      "duration": 6.159
+    },
+    {
+      "text": "history, all the medications that they",
+      "start": 1084.88,
+      "duration": 6.0
+    },
+    {
+      "text": "were taking including other supplements.",
+      "start": 1087.679,
+      "duration": 6.721
+    },
+    {
+      "text": "Um we did some objective cognitive",
+      "start": 1090.88,
+      "duration": 5.6
+    },
+    {
+      "text": "testing. So these are neuroscychological",
+      "start": 1094.4,
+      "duration": 4.24
+    },
+    {
+      "text": "tests that have been validated to",
+      "start": 1096.48,
+      "duration": 4.96
+    },
+    {
+      "text": "measure different aspects of thinking.",
+      "start": 1098.64,
+      "duration": 4.88
+    },
+    {
+      "text": "Um but in addition to that we also",
+      "start": 1101.44,
+      "duration": 4.479
+    },
+    {
+      "text": "wanted to understand what were what was",
+      "start": 1103.52,
+      "duration": 5.279
+    },
+    {
+      "text": "their perception of their cognition. And",
+      "start": 1105.919,
+      "duration": 6.161
+    },
+    {
+      "text": "so we also gather data using validated",
+      "start": 1108.799,
+      "duration": 6.24
+    },
+    {
+      "text": "questionnaires about their perception of",
+      "start": 1112.08,
+      "duration": 5.04
+    },
+    {
+      "text": "their cognitive changes, their",
+      "start": 1115.039,
+      "duration": 4.401
+    },
+    {
+      "text": "perception perception of their sleep",
+      "start": 1117.12,
+      "duration": 5.679
+    },
+    {
+      "text": "quality, of their fatigue levels, um",
+      "start": 1119.44,
+      "duration": 5.52
+    },
+    {
+      "text": "their symptoms of depression, anxiety,",
+      "start": 1122.799,
+      "duration": 6.561
+    },
+    {
+      "text": "drama. So, we really really tried to get",
+      "start": 1124.96,
+      "duration": 7.68
+    },
+    {
+      "text": "a good picture of what it was that they",
+      "start": 1129.36,
+      "duration": 5.28
+    },
+    {
+      "text": "were experiencing",
+      "start": 1132.64,
+      "duration": 7.279
+    },
+    {
+      "text": "um because of of CO. And so, at that",
+      "start": 1134.64,
+      "duration": 7.279
+    },
+    {
+      "text": "point, once they completed all of these",
+      "start": 1139.919,
+      "duration": 6.64
+    },
+    {
+      "text": "tests um some people then switched to",
+      "start": 1141.919,
+      "duration": 7.12
+    },
+    {
+      "text": "and started taking nicotinomide re",
+      "start": 1146.559,
+      "duration": 6.24
+    },
+    {
+      "text": "riboide um and they took NR for 20",
+      "start": 1149.039,
+      "duration": 6.401
+    },
+    {
+      "text": "weeks. And then there was another group",
+      "start": 1152.799,
+      "duration": 6.561
+    },
+    {
+      "text": "that continued on placebo and then after",
+      "start": 1155.44,
+      "duration": 6.16
+    },
+    {
+      "text": "10 weeks they switched and started",
+      "start": 1159.36,
+      "duration": 7.863
+    },
+    {
+      "text": "taking um NR. And we did this for for",
+      "start": 1161.6,
+      "duration": 8.24
+    },
+    {
+      "text": "[clears throat] several reasons but one",
+      "start": 1167.223,
+      "duration": 5.657
+    },
+    {
+      "text": "it allows us to see placebo versus NR,",
+      "start": 1169.84,
+      "duration": 5.36
+    },
+    {
+      "text": "right? That's kind of the usual model",
+      "start": 1172.88,
+      "duration": 5.36
+    },
+    {
+      "text": "that you hear about when you do clinical",
+      "start": 1175.2,
+      "duration": 6.4
+    },
+    {
+      "text": "trials. But also um this would allow us",
+      "start": 1178.24,
+      "duration": 5.12
+    },
+    {
+      "text": "to compare people with themselves,",
+      "start": 1181.6,
+      "duration": 3.199
+    },
+    {
+      "text": "right? Because you have some people who",
+      "start": 1183.36,
+      "duration": 4.24
+    },
+    {
+      "text": "were in placebo and then they switched.",
+      "start": 1184.799,
+      "duration": 5.521
+    },
+    {
+      "text": "But also we would provide everyone the",
+      "start": 1187.6,
+      "duration": 5.12
+    },
+    {
+      "text": "opportunity to receive the intervention",
+      "start": 1190.32,
+      "duration": 4.719
+    },
+    {
+      "text": "in case you know they could benefit from",
+      "start": 1192.72,
+      "duration": 6.319
+    },
+    {
+      "text": "it. Um, and so all of these tests that I",
+      "start": 1195.039,
+      "duration": 5.841
+    },
+    {
+      "text": "spoke about that they did at baseline,",
+      "start": 1199.039,
+      "duration": 4.561
+    },
+    {
+      "text": "they also did in the middle of the of",
+      "start": 1200.88,
+      "duration": 5.28
+    },
+    {
+      "text": "the clinical trial when the placebo",
+      "start": 1203.6,
+      "duration": 6.24
+    },
+    {
+      "text": "group then switched to uh taking NR and",
+      "start": 1206.16,
+      "duration": 6.0
+    },
+    {
+      "text": "at the end. And so that way we could",
+      "start": 1209.84,
+      "duration": 4.48
+    },
+    {
+      "text": "track for 20 weeks, you know, people",
+      "start": 1212.16,
+      "duration": 4.48
+    },
+    {
+      "text": "who've been taking NR for 20 weeks,",
+      "start": 1214.32,
+      "duration": 4.8
+    },
+    {
+      "text": "people who've been taking NR for 10",
+      "start": 1216.64,
+      "duration": 6.48
+    },
+    {
+      "text": "weeks and placebo for 10 weeks. And we",
+      "start": 1219.12,
+      "duration": 6.88
+    },
+    {
+      "text": "were able then to monitor right changes",
+      "start": 1223.12,
+      "duration": 5.2
+    },
+    {
+      "text": "in all of these symptoms that I that I",
+      "start": 1226.0,
+      "duration": 5.84
+    },
+    {
+      "text": "mentioned and also they provided blood",
+      "start": 1228.32,
+      "duration": 5.92
+    },
+    {
+      "text": "and with that we are able to measure",
+      "start": 1231.84,
+      "duration": 6.24
+    },
+    {
+      "text": "NAD+. So we can also track changes over",
+      "start": 1234.24,
+      "duration": 7.439
+    },
+    {
+      "text": "time in NAD and see how these changes in",
+      "start": 1238.08,
+      "duration": 7.36
+    },
+    {
+      "text": "NAD relate um to their experience of",
+      "start": 1241.679,
+      "duration": 6.321
+    },
+    {
+      "text": "different symptoms.",
+      "start": 1245.44,
+      "duration": 4.32
+    },
+    {
+      "text": ">> Right? So you're able to actually",
+      "start": 1248.0,
+      "duration": 4.64
+    },
+    {
+      "text": "measure those levels. Did you take the",
+      "start": 1249.76,
+      "duration": 5.36
+    },
+    {
+      "text": "blood samples before like right at the",
+      "start": 1252.64,
+      "duration": 4.399
+    },
+    {
+      "text": "start as well as in the middle and at",
+      "start": 1255.12,
+      "duration": 2.96
+    },
+    {
+      "text": "the end?",
+      "start": 1257.039,
+      "duration": 1.841
+    },
+    {
+      "text": ">> Correct.",
+      "start": 1258.08,
+      "duration": 3.44
+    },
+    {
+      "text": ">> So you could literally track it through.",
+      "start": 1258.88,
+      "duration": 5.039
+    },
+    {
+      "text": ">> Yes. So everyone has at a baseline when",
+      "start": 1261.52,
+      "duration": 4.88
+    },
+    {
+      "text": "no one um actually everyone had been in",
+      "start": 1263.919,
+      "duration": 4.24
+    },
+    {
+      "text": "placebo for two weeks. So there's no",
+      "start": 1266.4,
+      "duration": 4.0
+    },
+    {
+      "text": "intervention. Um and then in the middle",
+      "start": 1268.159,
+      "duration": 4.561
+    },
+    {
+      "text": "after 10 weeks of of the baseline and",
+      "start": 1270.4,
+      "duration": 5.759
+    },
+    {
+      "text": "then at the end which would be 20 weeks.",
+      "start": 1272.72,
+      "duration": 5.52
+    },
+    {
+      "text": "So I mean I I love that you have done",
+      "start": 1276.159,
+      "duration": 4.241
+    },
+    {
+      "text": "this in the way that all the",
+      "start": 1278.24,
+      "duration": 5.679
+    },
+    {
+      "text": "participants get to experience taking NR",
+      "start": 1280.4,
+      "duration": 6.639
+    },
+    {
+      "text": "because like a I I don't know if it's",
+      "start": 1283.919,
+      "duration": 5.841
+    },
+    {
+      "text": "normal. Um but most of the clinical",
+      "start": 1287.039,
+      "duration": 5.441
+    },
+    {
+      "text": "trials that I've heard of have the",
+      "start": 1289.76,
+      "duration": 4.799
+    },
+    {
+      "text": "placebo group and the intervention",
+      "start": 1292.48,
+      "duration": 4.559
+    },
+    {
+      "text": "group. Um so one of the groups don't",
+      "start": 1294.559,
+      "duration": 4.321
+    },
+    {
+      "text": "actually get to take the intervention",
+      "start": 1297.039,
+      "duration": 3.681
+    },
+    {
+      "text": "and you know some trials then give them",
+      "start": 1298.88,
+      "duration": 3.919
+    },
+    {
+      "text": "the opportunity to take it afterwards.",
+      "start": 1300.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Um, but for the benefit of the trial,",
+      "start": 1302.799,
+      "duration": 4.0
+    },
+    {
+      "text": "it's two separate groups. So, I don't",
+      "start": 1304.72,
+      "duration": 3.439
+    },
+    {
+      "text": "know if that's the normal way of doing",
+      "start": 1306.799,
+      "duration": 3.041
+    },
+    {
+      "text": "it and you guys have done it differently",
+      "start": 1308.159,
+      "duration": 3.601
+    },
+    {
+      "text": "or if it's just one that I've not heard",
+      "start": 1309.84,
+      "duration": 4.88
+    },
+    {
+      "text": "of before.",
+      "start": 1311.76,
+      "duration": 6.159
+    },
+    {
+      "text": "This is a more powerful me that groupto",
+      "start": 1314.72,
+      "duration": 6.88
+    },
+    {
+      "text": "groupoup placebo and treatment requires",
+      "start": 1317.919,
+      "duration": 6.161
+    },
+    {
+      "text": "huge numbers and it's very expensive",
+      "start": 1321.6,
+      "duration": 3.84
+    },
+    {
+      "text": ">> and frankly we wouldn't have been able",
+      "start": 1324.08,
+      "duration": 4.079
+    },
+    {
+      "text": "to afford between the funding from nigen",
+      "start": 1325.44,
+      "duration": 5.44
+    },
+    {
+      "text": "bio sensors and the funding from man",
+      "start": 1328.159,
+      "duration": 3.921
+    },
+    {
+      "text": "center we wouldn't have been able to",
+      "start": 1330.88,
+      "duration": 4.24
+    },
+    {
+      "text": "afford a a classic placebo versus",
+      "start": 1332.08,
+      "duration": 7.28
+    },
+    {
+      "text": "treatment group um trial this what we're",
+      "start": 1335.12,
+      "duration": 6.4
+    },
+    {
+      "text": "doing at the man center now is trials",
+      "start": 1339.36,
+      "duration": 4.48
+    },
+    {
+      "text": "where you use a person has their own",
+      "start": 1341.52,
+      "duration": 4.8
+    },
+    {
+      "text": "placebo and you also have so you might",
+      "start": 1343.84,
+      "duration": 5.04
+    },
+    {
+      "text": "have people who are on placebo and then",
+      "start": 1346.32,
+      "duration": 4.16
+    },
+    {
+      "text": "they switch over to true nioen you look",
+      "start": 1348.88,
+      "duration": 2.96
+    },
+    {
+      "text": "at the difference that was one group",
+      "start": 1350.48,
+      "duration": 1.92
+    },
+    {
+      "text": "here",
+      "start": 1351.84,
+      "duration": 2.4
+    },
+    {
+      "text": ">> or you have another one where you're",
+      "start": 1352.4,
+      "duration": 5.12
+    },
+    {
+      "text": "looking at at they're on they're on ngen",
+      "start": 1354.24,
+      "duration": 4.72
+    },
+    {
+      "text": "the whole time then they go back you",
+      "start": 1357.52,
+      "duration": 3.12
+    },
+    {
+      "text": "know ngen in the beginning",
+      "start": 1358.96,
+      "duration": 4.8
+    },
+    {
+      "text": ">> and then continue on niogen so there is",
+      "start": 1360.64,
+      "duration": 6.88
+    },
+    {
+      "text": "a there is a small there's an ability to",
+      "start": 1363.76,
+      "duration": 6.08
+    },
+    {
+      "text": "to to do a small comparison of placebo",
+      "start": 1367.52,
+      "duration": 4.96
+    },
+    {
+      "text": "versus niogen by having the group that's",
+      "start": 1369.84,
+      "duration": 5.6
+    },
+    {
+      "text": "for 10 weeks on niogen and 10 weeks on",
+      "start": 1372.48,
+      "duration": 4.64
+    },
+    {
+      "text": "niogen again versus the group that's 10",
+      "start": 1375.44,
+      "duration": 3.599
+    },
+    {
+      "text": "weeks on placebo then switching to",
+      "start": 1377.12,
+      "duration": 4.88
+    },
+    {
+      "text": "niogen. But the main power comes from",
+      "start": 1379.039,
+      "duration": 5.12
+    },
+    {
+      "text": "what's called the intraindividual",
+      "start": 1382.0,
+      "duration": 4.72
+    },
+    {
+      "text": "uh um and the crossover analysis going",
+      "start": 1384.159,
+      "duration": 5.121
+    },
+    {
+      "text": "from placebo to niogen comparing to the",
+      "start": 1386.72,
+      "duration": 4.319
+    },
+    {
+      "text": "people who are naggen the whole time and",
+      "start": 1389.28,
+      "duration": 3.759
+    },
+    {
+      "text": "that's where we saw the results and it",
+      "start": 1391.039,
+      "duration": 3.361
+    },
+    {
+      "text": "just shows that that's where the power",
+      "start": 1393.039,
+      "duration": 4.481
+    },
+    {
+      "text": "is versus just a a classical trial. Do",
+      "start": 1394.4,
+      "duration": 5.6
+    },
+    {
+      "text": "you want to add to that Emory? I think",
+      "start": 1397.52,
+      "duration": 4.56
+    },
+    {
+      "text": "another key factor here is that we",
+      "start": 1400.0,
+      "duration": 6.159
+    },
+    {
+      "text": "already knew that NR was safe too. Um so",
+      "start": 1402.08,
+      "duration": 7.2
+    },
+    {
+      "text": "we're not concerned with",
+      "start": 1406.159,
+      "duration": 5.041
+    },
+    {
+      "text": "you know oh we can't give this to",
+      "start": 1409.28,
+      "duration": 4.32
+    },
+    {
+      "text": "everyone because we are not sure if this",
+      "start": 1411.2,
+      "duration": 4.88
+    },
+    {
+      "text": "we already knew uh based on other trials",
+      "start": 1413.6,
+      "duration": 4.319
+    },
+    {
+      "text": "that this was safe that you know all of",
+      "start": 1416.08,
+      "duration": 3.44
+    },
+    {
+      "text": "them could take it. We were not worried",
+      "start": 1417.919,
+      "duration": 4.721
+    },
+    {
+      "text": "about any um you know significant or",
+      "start": 1419.52,
+      "duration": 4.56
+    },
+    {
+      "text": "severe side effects. So I think that",
+      "start": 1422.64,
+      "duration": 4.64
+    },
+    {
+      "text": "also helps with um feeling comfortable",
+      "start": 1424.08,
+      "duration": 5.44
+    },
+    {
+      "text": "um on making on being able to offer this",
+      "start": 1427.28,
+      "duration": 5.04
+    },
+    {
+      "text": "to everyone and one of our collaborators",
+      "start": 1429.52,
+      "duration": 5.12
+    },
+    {
+      "text": "Dr. Steven Arnold, this is what he does",
+      "start": 1432.32,
+      "duration": 4.88
+    },
+    {
+      "text": "in develop clinical trials. And so I",
+      "start": 1434.64,
+      "duration": 4.399
+    },
+    {
+      "text": "think between all of us, we agree that",
+      "start": 1437.2,
+      "duration": 6.4
+    },
+    {
+      "text": "this would be a powerful um design",
+      "start": 1439.039,
+      "duration": 6.64
+    },
+    {
+      "text": "and it it makes a lot of sense as well.",
+      "start": 1443.6,
+      "duration": 4.88
+    },
+    {
+      "text": "I mean, you know, with long co for",
+      "start": 1445.679,
+      "duration": 5.201
+    },
+    {
+      "text": "example, you know, you've met one person",
+      "start": 1448.48,
+      "duration": 4.319
+    },
+    {
+      "text": "with long co and you've met one person",
+      "start": 1450.88,
+      "duration": 3.279
+    },
+    {
+      "text": "with long co, you know, everyone, you",
+      "start": 1452.799,
+      "duration": 4.321
+    },
+    {
+      "text": "know, there's so much variation in the",
+      "start": 1454.159,
+      "duration": 5.52
+    },
+    {
+      "text": "condition that it actually seems to make",
+      "start": 1457.12,
+      "duration": 4.96
+    },
+    {
+      "text": "more sense to compare like person A to",
+      "start": 1459.679,
+      "duration": 5.36
+    },
+    {
+      "text": "person A and person B to person B. Um,",
+      "start": 1462.08,
+      "duration": 4.719
+    },
+    {
+      "text": "particularly if you've not got like",
+      "start": 1465.039,
+      "duration": 4.64
+    },
+    {
+      "text": "thousands of people um in in the trial",
+      "start": 1466.799,
+      "duration": 5.041
+    },
+    {
+      "text": "itself. So, it it it does seem to make a",
+      "start": 1469.679,
+      "duration": 3.921
+    },
+    {
+      "text": "lot of sense to me. I've just never",
+      "start": 1471.84,
+      "duration": 3.839
+    },
+    {
+      "text": "heard of it happening before.",
+      "start": 1473.6,
+      "duration": 3.52
+    },
+    {
+      "text": "you know, all the trials we're doing at",
+      "start": 1475.679,
+      "duration": 3.761
+    },
+    {
+      "text": "the Macan Center now are",
+      "start": 1477.12,
+      "duration": 4.72
+    },
+    {
+      "text": "intraindividual. So you don't instead of",
+      "start": 1479.44,
+      "duration": 5.839
+    },
+    {
+      "text": "a placebo group, you you look at them",
+      "start": 1481.84,
+      "duration": 5.12
+    },
+    {
+      "text": "before you give them the treatment and",
+      "start": 1485.279,
+      "duration": 3.921
+    },
+    {
+      "text": "you track maybe biomarkers in the blood",
+      "start": 1486.96,
+      "duration": 4.4
+    },
+    {
+      "text": "or you might track in this case plus",
+      "start": 1489.2,
+      "duration": 4.4
+    },
+    {
+      "text": "levels and you look at various symptoms",
+      "start": 1491.36,
+      "duration": 4.319
+    },
+    {
+      "text": "and then then then you put them on the",
+      "start": 1493.6,
+      "duration": 3.439
+    },
+    {
+      "text": "treatment and then you see how they do",
+      "start": 1495.679,
+      "duration": 3.281
+    },
+    {
+      "text": "afterwards. So it's called an",
+      "start": 1497.039,
+      "duration": 3.601
+    },
+    {
+      "text": "intraindividual.",
+      "start": 1498.96,
+      "duration": 5.12
+    },
+    {
+      "text": "In fact, um, a biostatistician at Mass",
+      "start": 1500.64,
+      "duration": 6.48
+    },
+    {
+      "text": "General, Herokco Dodge, just published a",
+      "start": 1504.08,
+      "duration": 5.28
+    },
+    {
+      "text": "paper in Alzheimer's and dementia that",
+      "start": 1507.12,
+      "duration": 4.159
+    },
+    {
+      "text": "calling it the slim. I forgot what slim",
+      "start": 1509.36,
+      "duration": 5.017
+    },
+    {
+      "text": "stands for, but it explains this novel.",
+      "start": 1511.279,
+      "duration": 3.841
+    },
+    {
+      "text": "[laughter]",
+      "start": 1514.377,
+      "duration": 2.503
+    },
+    {
+      "text": "It's this novel trial design where you",
+      "start": 1515.12,
+      "duration": 4.64
+    },
+    {
+      "text": "get much more power from fewer people by",
+      "start": 1516.88,
+      "duration": 5.44
+    },
+    {
+      "text": "having them serve as their own placebo.",
+      "start": 1519.76,
+      "duration": 4.399
+    },
+    {
+      "text": "That way, no one's denied the the drug",
+      "start": 1522.32,
+      "duration": 3.68
+    },
+    {
+      "text": "either. I mean, you know, it's always",
+      "start": 1524.159,
+      "duration": 3.921
+    },
+    {
+      "text": "terrible when you have a trial and half",
+      "start": 1526.0,
+      "duration": 4.559
+    },
+    {
+      "text": "the people or one-third the people, you",
+      "start": 1528.08,
+      "duration": 4.32
+    },
+    {
+      "text": "know, and I I I don't know it, but",
+      "start": 1530.559,
+      "duration": 3.041
+    },
+    {
+      "text": "they're not getting the drug. I mean,",
+      "start": 1532.4,
+      "duration": 2.879
+    },
+    {
+      "text": "everybody wants to be able to benefit,",
+      "start": 1533.6,
+      "duration": 3.6
+    },
+    {
+      "text": "too.",
+      "start": 1535.279,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Yes. I always thought it sounded a",
+      "start": 1537.2,
+      "duration": 3.28
+    },
+    {
+      "text": "little bit cruel that half of the people",
+      "start": 1538.799,
+      "duration": 3.281
+    },
+    {
+      "text": "who signed up for the trial didn't",
+      "start": 1540.48,
+      "duration": 3.76
+    },
+    {
+      "text": "actually get to potentially benefit from",
+      "start": 1542.08,
+      "duration": 5.28
+    },
+    {
+      "text": "it. Um, so it's a way of, as you say,",
+      "start": 1544.24,
+      "duration": 7.36
+    },
+    {
+      "text": "avoiding that as well. Yeah. Um so let's",
+      "start": 1547.36,
+      "duration": 7.12
+    },
+    {
+      "text": "talk about kind of like the the results.",
+      "start": 1551.6,
+      "duration": 7.36
+    },
+    {
+      "text": "What did you find um from your sort of",
+      "start": 1554.48,
+      "duration": 7.04
+    },
+    {
+      "text": "Yeah. your your data measurements? What",
+      "start": 1558.96,
+      "duration": 5.68
+    },
+    {
+      "text": "before, during, and then after? And and",
+      "start": 1561.52,
+      "duration": 5.44
+    },
+    {
+      "text": "as you said, you had a variety of",
+      "start": 1564.64,
+      "duration": 4.96
+    },
+    {
+      "text": "measurements, some of which were, you",
+      "start": 1566.96,
+      "duration": 5.92
+    },
+    {
+      "text": "know, blood and sort of more objective",
+      "start": 1569.6,
+      "duration": 5.28
+    },
+    {
+      "text": "questionnaires and then, you know,",
+      "start": 1572.88,
+      "duration": 3.279
+    },
+    {
+      "text": "things that are maybe a bit more",
+      "start": 1574.88,
+      "duration": 3.76
+    },
+    {
+      "text": "subjective because they're self",
+      "start": 1576.159,
+      "duration": 5.921
+    },
+    {
+      "text": "reported. Um, and uh, yeah, I'd love to",
+      "start": 1578.64,
+      "duration": 5.36
+    },
+    {
+      "text": "hear a bit about how that all came",
+      "start": 1582.08,
+      "duration": 5.003
+    },
+    {
+      "text": "together. And yeah,",
+      "start": 1584.0,
+      "duration": 5.103
+    },
+    {
+      "text": "[music]",
+      "start": 1587.083,
+      "duration": 2.02
+    },
+    {
+      "text": "we'll be right back.",
+      "start": 1589.12,
+      "duration": 4.64
+    },
+    {
+      "text": "Hey there. I'm [music] just jumping in",
+      "start": 1592.32,
+      "duration": 3.04
+    },
+    {
+      "text": "for a second to see if you're enjoying",
+      "start": 1593.76,
+      "duration": 3.919
+    },
+    {
+      "text": "this episode. If you're finding it",
+      "start": 1595.36,
+      "duration": 4.4
+    },
+    {
+      "text": "useful, maybe you would consider sharing",
+      "start": 1597.679,
+      "duration": 4.0
+    },
+    {
+      "text": "it somewhere, a friend, a group, [music]",
+      "start": 1599.76,
+      "duration": 4.159
+    },
+    {
+      "text": "or even on your Twitter feed. If",
+      "start": 1601.679,
+      "duration": 3.921
+    },
+    {
+      "text": "everyone was able to share just once,",
+      "start": 1603.919,
+      "duration": 3.281
+    },
+    {
+      "text": "we'd be able to get this information out",
+      "start": 1605.6,
+      "duration": 3.28
+    },
+    {
+      "text": "to even more people who really, really",
+      "start": 1607.2,
+      "duration": 3.839
+    },
+    {
+      "text": "need it. So, please consider [music]",
+      "start": 1608.88,
+      "duration": 4.48
+    },
+    {
+      "text": "sharing somewhere if you possibly can. I",
+      "start": 1611.039,
+      "duration": 4.161
+    },
+    {
+      "text": "hope you enjoy the episode and thank you",
+      "start": 1613.36,
+      "duration": 5.08
+    },
+    {
+      "text": "so much.",
+      "start": 1615.2,
+      "duration": 3.24
+    },
+    {
+      "text": "Of course. Um, so the first question",
+      "start": 1622.24,
+      "duration": 4.72
+    },
+    {
+      "text": "that we needed to answer was like did we",
+      "start": 1624.72,
+      "duration": 6.48
+    },
+    {
+      "text": "indeed increase NAD+ levels? Um and we",
+      "start": 1626.96,
+      "duration": 6.48
+    },
+    {
+      "text": "did actually quite significantly by",
+      "start": 1631.2,
+      "duration": 5.599
+    },
+    {
+      "text": "three-fold in 5 weeks. Um cuz actually I",
+      "start": 1633.44,
+      "duration": 6.96
+    },
+    {
+      "text": "something I failed to mention is that um",
+      "start": 1636.799,
+      "duration": 5.76
+    },
+    {
+      "text": "uh the blood is collected every 5 weeks",
+      "start": 1640.4,
+      "duration": 4.0
+    },
+    {
+      "text": "during those 20 weeks not the other",
+      "start": 1642.559,
+      "duration": 4.881
+    },
+    {
+      "text": "measures but those are um and so we",
+      "start": 1644.4,
+      "duration": 5.759
+    },
+    {
+      "text": "could see that over even with just five",
+      "start": 1647.44,
+      "duration": 6.08
+    },
+    {
+      "text": "weeks um the NAD+ levels at least",
+      "start": 1650.159,
+      "duration": 7.76
+    },
+    {
+      "text": "doubled. So we were successful in um",
+      "start": 1653.52,
+      "duration": 7.92
+    },
+    {
+      "text": "doing what we wanted to accomplish. Um",
+      "start": 1657.919,
+      "duration": 5.441
+    },
+    {
+      "text": "and then the next question is what does",
+      "start": 1661.44,
+      "duration": 5.68
+    },
+    {
+      "text": "this mean clinically? Um, and so when we",
+      "start": 1663.36,
+      "duration": 7.6
+    },
+    {
+      "text": "compare uh the placebo group with the",
+      "start": 1667.12,
+      "duration": 7.6
+    },
+    {
+      "text": "people taking NR, we actually didn't see",
+      "start": 1670.96,
+      "duration": 6.0
+    },
+    {
+      "text": "any differences in terms of their",
+      "start": 1674.72,
+      "duration": 4.559
+    },
+    {
+      "text": "cognitive performance both in objective",
+      "start": 1676.96,
+      "duration": 5.04
+    },
+    {
+      "text": "and subjectively or any of the other",
+      "start": 1679.279,
+      "duration": 7.28
+    },
+    {
+      "text": "measures um that um have to do with mood",
+      "start": 1682.0,
+      "duration": 7.44
+    },
+    {
+      "text": "and sleep and so on.",
+      "start": 1686.559,
+      "duration": 5.441
+    },
+    {
+      "text": "And even when we take that the smaller",
+      "start": 1689.44,
+      "duration": 6.239
+    },
+    {
+      "text": "group actually it was a a group of 18 pe",
+      "start": 1692.0,
+      "duration": 7.6
+    },
+    {
+      "text": "21 people. So not a huge group of",
+      "start": 1695.679,
+      "duration": 7.681
+    },
+    {
+      "text": "people. Um when we compared the placebo",
+      "start": 1699.6,
+      "duration": 6.72
+    },
+    {
+      "text": "to the NRA we also didn't see any",
+      "start": 1703.36,
+      "duration": 6.48
+    },
+    {
+      "text": "significant differences. Now one of the",
+      "start": 1706.32,
+      "duration": 8.0
+    },
+    {
+      "text": "challenges it was that only 18 people",
+      "start": 1709.84,
+      "duration": 7.36
+    },
+    {
+      "text": "completed the complete clinical trial at",
+      "start": 1714.32,
+      "duration": 6.479
+    },
+    {
+      "text": "the end and this was mainly related to",
+      "start": 1717.2,
+      "duration": 5.92
+    },
+    {
+      "text": "things that were totally not out of",
+      "start": 1720.799,
+      "duration": 4.961
+    },
+    {
+      "text": "totally out of our control",
+      "start": 1723.12,
+      "duration": 5.84
+    },
+    {
+      "text": "um particularly COVID reinfection. So",
+      "start": 1725.76,
+      "duration": 7.44
+    },
+    {
+      "text": "between 2021 and 2024, we had many waves",
+      "start": 1728.96,
+      "duration": 6.88
+    },
+    {
+      "text": "of of COVID. Um and so people were",
+      "start": 1733.2,
+      "duration": 4.8
+    },
+    {
+      "text": "getting reinfected and once they did, we",
+      "start": 1735.84,
+      "duration": 4.8
+    },
+    {
+      "text": "would we needed to exclude them. Um and",
+      "start": 1738.0,
+      "duration": 5.279
+    },
+    {
+      "text": "also some people, you know, leaving the",
+      "start": 1740.64,
+      "duration": 4.399
+    },
+    {
+      "text": "state and just kind of going on with",
+      "start": 1743.279,
+      "duration": 4.241
+    },
+    {
+      "text": "their lives. Um so but that what this",
+      "start": 1745.039,
+      "duration": 4.081
+    },
+    {
+      "text": "means and the reason why this is",
+      "start": 1747.52,
+      "duration": 5.92
+    },
+    {
+      "text": "relevant is that because we had a small",
+      "start": 1749.12,
+      "duration": 8.64
+    },
+    {
+      "text": "group of people in each group. Um we",
+      "start": 1753.44,
+      "duration": 6.56
+    },
+    {
+      "text": "decided to do some more exploratory",
+      "start": 1757.76,
+      "duration": 4.72
+    },
+    {
+      "text": "analyses that we had not contemplated at",
+      "start": 1760.0,
+      "duration": 6.559
+    },
+    {
+      "text": "the beginning. And so what we did was we",
+      "start": 1762.48,
+      "duration": 6.96
+    },
+    {
+      "text": "knew that everyone regardless of what",
+      "start": 1766.559,
+      "duration": 4.641
+    },
+    {
+      "text": "group they had been in everyone had",
+      "start": 1769.44,
+      "duration": 6.08
+    },
+    {
+      "text": "taken NR at least for 10 weeks. So the",
+      "start": 1771.2,
+      "duration": 6.8
+    },
+    {
+      "text": "NR group who started NR from the",
+      "start": 1775.52,
+      "duration": 5.36
+    },
+    {
+      "text": "beginning took 20 weeks and the other",
+      "start": 1778.0,
+      "duration": 5.679
+    },
+    {
+      "text": "group took 10 weeks. Right? So then we",
+      "start": 1780.88,
+      "duration": 5.6
+    },
+    {
+      "text": "lumped them together. We lumped the",
+      "start": 1783.679,
+      "duration": 5.761
+    },
+    {
+      "text": "people who had taken NR the first 10",
+      "start": 1786.48,
+      "duration": 6.24
+    },
+    {
+      "text": "weeks of NR and then the placebo group",
+      "start": 1789.44,
+      "duration": 5.359
+    },
+    {
+      "text": "the 10 weeks of NR. I don't know if that",
+      "start": 1792.72,
+      "duration": 5.439
+    },
+    {
+      "text": "makes sense but now instead of having 18",
+      "start": 1794.799,
+      "duration": 8.641
+    },
+    {
+      "text": "in each group we had over 50 uh 40 um 43",
+      "start": 1798.159,
+      "duration": 9.041
+    },
+    {
+      "text": "I think. So over or over over 40 um this",
+      "start": 1803.44,
+      "duration": 6.479
+    },
+    {
+      "text": "increases our power and this increases",
+      "start": 1807.2,
+      "duration": 6.4
+    },
+    {
+      "text": "our ability to detect differences. Um",
+      "start": 1809.919,
+      "duration": 7.281
+    },
+    {
+      "text": "and this is where we saw changes. Um so",
+      "start": 1813.6,
+      "duration": 5.679
+    },
+    {
+      "text": "when we compared",
+      "start": 1817.2,
+      "duration": 5.599
+    },
+    {
+      "text": "uh the these individuals the 10 weeks of",
+      "start": 1819.279,
+      "duration": 7.361
+    },
+    {
+      "text": "taking NR compared to their baseline we",
+      "start": 1822.799,
+      "duration": 5.76
+    },
+    {
+      "text": "saw that there were significant",
+      "start": 1826.64,
+      "duration": 3.84
+    },
+    {
+      "text": "differences in their symptoms of",
+      "start": 1828.559,
+      "duration": 6.0
+    },
+    {
+      "text": "depression, sleep quality and fatigue.",
+      "start": 1830.48,
+      "duration": 6.319
+    },
+    {
+      "text": "um specifically that they were reporting",
+      "start": 1834.559,
+      "duration": 4.081
+    },
+    {
+      "text": "that they were experiencing less",
+      "start": 1836.799,
+      "duration": 3.36
+    },
+    {
+      "text": "fatigue,",
+      "start": 1838.64,
+      "duration": 4.32
+    },
+    {
+      "text": "better sleep quality and less symptoms",
+      "start": 1840.159,
+      "duration": 5.201
+    },
+    {
+      "text": "of depression after taking those 10",
+      "start": 1842.96,
+      "duration": 4.959
+    },
+    {
+      "text": "weeks of NR. [clears throat]",
+      "start": 1845.36,
+      "duration": 4.799
+    },
+    {
+      "text": ">> So it's a different way of looking at",
+      "start": 1847.919,
+      "duration": 3.601
+    },
+    {
+      "text": "the same data,",
+      "start": 1850.159,
+      "duration": 1.76
+    },
+    {
+      "text": ">> right?",
+      "start": 1851.52,
+      "duration": 1.759
+    },
+    {
+      "text": ">> So it it gives you a sort of different",
+      "start": 1851.919,
+      "duration": 3.12
+    },
+    {
+      "text": "outlook on it, does it? Is that is that",
+      "start": 1853.279,
+      "duration": 5.201
+    },
+    {
+      "text": "a right way of putting it maybe?",
+      "start": 1855.039,
+      "duration": 6.401
+    },
+    {
+      "text": ">> Yeah. So you know when when you are",
+      "start": 1858.48,
+      "duration": 4.88
+    },
+    {
+      "text": "ready to start a clinical trial you",
+      "start": 1861.44,
+      "duration": 4.32
+    },
+    {
+      "text": "already plan all okay this is the",
+      "start": 1863.36,
+      "duration": 6.0
+    },
+    {
+      "text": "specific analyses that I'm going to do",
+      "start": 1865.76,
+      "duration": 6.24
+    },
+    {
+      "text": "right in this case we were combining we",
+      "start": 1869.36,
+      "duration": 6.08
+    },
+    {
+      "text": "were comparing placebo versus NR",
+      "start": 1872.0,
+      "duration": 7.039
+    },
+    {
+      "text": "um and you know we didn't expect that we",
+      "start": 1875.44,
+      "duration": 5.119
+    },
+    {
+      "text": "were going to end up with a lower number",
+      "start": 1879.039,
+      "duration": 4.321
+    },
+    {
+      "text": "that we we anticipated",
+      "start": 1880.559,
+      "duration": 5.521
+    },
+    {
+      "text": "um and so after we saw the small number",
+      "start": 1883.36,
+      "duration": 4.319
+    },
+    {
+      "text": "like oh you know there's this other way",
+      "start": 1886.08,
+      "duration": 3.92
+    },
+    {
+      "text": "that we could look at the data that is",
+      "start": 1887.679,
+      "duration": 4.24
+    },
+    {
+      "text": "also a very valid way even though we",
+      "start": 1890.0,
+      "duration": 5.12
+    },
+    {
+      "text": "didn't contemplate at first that could",
+      "start": 1891.919,
+      "duration": 5.6
+    },
+    {
+      "text": "help us given that we have more people",
+      "start": 1895.12,
+      "duration": 4.32
+    },
+    {
+      "text": "that we could help us see if there are",
+      "start": 1897.519,
+      "duration": 4.801
+    },
+    {
+      "text": "any changes the more people you have",
+      "start": 1899.44,
+      "duration": 4.719
+    },
+    {
+      "text": "then the better right you were you",
+      "start": 1902.32,
+      "duration": 4.719
+    },
+    {
+      "text": "mentioned actually earlier that I don't",
+      "start": 1904.159,
+      "duration": 5.041
+    },
+    {
+      "text": "remember I'm going to I can't quote you",
+      "start": 1907.039,
+      "duration": 5.201
+    },
+    {
+      "text": "uh uh word by word but you say when you",
+      "start": 1909.2,
+      "duration": 4.719
+    },
+    {
+      "text": "meet one person with long co you meet",
+      "start": 1912.24,
+      "duration": 3.039
+    },
+    {
+      "text": "one person with long co or something",
+      "start": 1913.919,
+      "duration": 5.041
+    },
+    {
+      "text": "like that um and What that means right",
+      "start": 1915.279,
+      "duration": 6.081
+    },
+    {
+      "text": "you there's so much variability right",
+      "start": 1918.96,
+      "duration": 4.319
+    },
+    {
+      "text": "there's you know people are so different",
+      "start": 1921.36,
+      "duration": 4.799
+    },
+    {
+      "text": "even when they have long co so the",
+      "start": 1923.279,
+      "duration": 5.28
+    },
+    {
+      "text": "larger the number of people then the",
+      "start": 1926.159,
+      "duration": 4.481
+    },
+    {
+      "text": "better you're able to capture who is",
+      "start": 1928.559,
+      "duration": 4.72
+    },
+    {
+      "text": "this working you know on so what this is",
+      "start": 1930.64,
+      "duration": 4.159
+    },
+    {
+      "text": "telling us that when you do put these",
+      "start": 1933.279,
+      "duration": 4.64
+    },
+    {
+      "text": "people together you have more people um",
+      "start": 1934.799,
+      "duration": 5.041
+    },
+    {
+      "text": "and we can see that there are",
+      "start": 1937.919,
+      "duration": 4.88
+    },
+    {
+      "text": "improvements um that some people are",
+      "start": 1939.84,
+      "duration": 5.839
+    },
+    {
+      "text": "improving are feeling better u right the",
+      "start": 1942.799,
+      "duration": 4.961
+    },
+    {
+      "text": "next question would be who are these",
+      "start": 1945.679,
+      "duration": 5.12
+    },
+    {
+      "text": "people, right? Is there a specific type",
+      "start": 1947.76,
+      "duration": 5.519
+    },
+    {
+      "text": "of symptoms or I don't know, you know,",
+      "start": 1950.799,
+      "duration": 5.521
+    },
+    {
+      "text": "uh that um that predicts, oh, this",
+      "start": 1953.279,
+      "duration": 5.201
+    },
+    {
+      "text": "person is more likely to benefit or not.",
+      "start": 1956.32,
+      "duration": 3.76
+    },
+    {
+      "text": "And those are things that we need to do",
+      "start": 1958.48,
+      "duration": 4.0
+    },
+    {
+      "text": "in the future.",
+      "start": 1960.08,
+      "duration": 4.64
+    },
+    {
+      "text": "You know, I I think you know what people",
+      "start": 1962.48,
+      "duration": 5.84
+    },
+    {
+      "text": "who are ill want to know is, you know,",
+      "start": 1964.72,
+      "duration": 6.48
+    },
+    {
+      "text": "what's going to help? And, you know, a",
+      "start": 1968.32,
+      "duration": 5.68
+    },
+    {
+      "text": "question like, you know, are there",
+      "start": 1971.2,
+      "duration": 5.04
+    },
+    {
+      "text": "certain people with certain symptoms or",
+      "start": 1974.0,
+      "duration": 4.799
+    },
+    {
+      "text": "certain types of symptoms, you know, all",
+      "start": 1976.24,
+      "duration": 5.919
+    },
+    {
+      "text": "sorts of different symptom clusters? Um,",
+      "start": 1978.799,
+      "duration": 5.76
+    },
+    {
+      "text": "and you know, is the sort of",
+      "start": 1982.159,
+      "duration": 4.0
+    },
+    {
+      "text": "neurological",
+      "start": 1984.559,
+      "duration": 4.321
+    },
+    {
+      "text": "symptom cluster or you know, whichever",
+      "start": 1986.159,
+      "duration": 5.36
+    },
+    {
+      "text": "particular one that you maybe have more",
+      "start": 1988.88,
+      "duration": 6.159
+    },
+    {
+      "text": "of, is this more likely or less likely",
+      "start": 1991.519,
+      "duration": 5.921
+    },
+    {
+      "text": "to help you? And then, you know, you got",
+      "start": 1995.039,
+      "duration": 4.0
+    },
+    {
+      "text": "to be kind of targeted, haven't you? You",
+      "start": 1997.44,
+      "duration": 3.52
+    },
+    {
+      "text": "know, that the the scatter gun approach",
+      "start": 1999.039,
+      "duration": 4.721
+    },
+    {
+      "text": "doesn't really work. Um, so it's kind of",
+      "start": 2000.96,
+      "duration": 6.4
+    },
+    {
+      "text": "like where am I going to target? um is",
+      "start": 2003.76,
+      "duration": 5.039
+    },
+    {
+      "text": "this something that's worth me looking",
+      "start": 2007.36,
+      "duration": 4.559
+    },
+    {
+      "text": "into or is it more likely to help other",
+      "start": 2008.799,
+      "duration": 4.801
+    },
+    {
+      "text": "people with a different symptom cluster",
+      "start": 2011.919,
+      "duration": 5.201
+    },
+    {
+      "text": "and maybe I should look elsewhere. Um,",
+      "start": 2013.6,
+      "duration": 5.28
+    },
+    {
+      "text": "so that sounds like it would be really",
+      "start": 2017.12,
+      "duration": 4.72
+    },
+    {
+      "text": "useful information to to have,",
+      "start": 2018.88,
+      "duration": 3.76
+    },
+    {
+      "text": ">> right?",
+      "start": 2021.84,
+      "duration": 2.64
+    },
+    {
+      "text": ">> You know, if you look at the data, first",
+      "start": 2022.64,
+      "duration": 4.72
+    },
+    {
+      "text": "it the direct placebo to to treatment",
+      "start": 2024.48,
+      "duration": 5.439
+    },
+    {
+      "text": "group, we didn't see an effect, right?",
+      "start": 2027.36,
+      "duration": 5.039
+    },
+    {
+      "text": ">> But but the but with this unique",
+      "start": 2029.919,
+      "duration": 5.36
+    },
+    {
+      "text": "intra-individual, we saw that, but it",
+      "start": 2032.399,
+      "duration": 4.4
+    },
+    {
+      "text": "was, you know, for cognition, it wasn't",
+      "start": 2035.279,
+      "duration": 3.52
+    },
+    {
+      "text": "all cognition, right? It was",
+      "start": 2036.799,
+      "duration": 3.681
+    },
+    {
+      "text": ">> executive function, but most would argue",
+      "start": 2038.799,
+      "duration": 3.921
+    },
+    {
+      "text": "that executive function, the ability to",
+      "start": 2040.48,
+      "duration": 4.64
+    },
+    {
+      "text": "make decisions, you know, and the right",
+      "start": 2042.72,
+      "duration": 4.319
+    },
+    {
+      "text": "choices is probably the most important",
+      "start": 2045.12,
+      "duration": 4.32
+    },
+    {
+      "text": "part of cognition. Of course, you know,",
+      "start": 2047.039,
+      "duration": 4.161
+    },
+    {
+      "text": "memory and recall is important, too. But",
+      "start": 2049.44,
+      "duration": 4.239
+    },
+    {
+      "text": "for everyday life, executive functions",
+      "start": 2051.2,
+      "duration": 4.32
+    },
+    {
+      "text": "important, and that's the one, unless",
+      "start": 2053.679,
+      "duration": 4.081
+    },
+    {
+      "text": "you correct me, Emry, that we that was",
+      "start": 2055.52,
+      "duration": 4.879
+    },
+    {
+      "text": "improved. Um, and and there was, you",
+      "start": 2057.76,
+      "duration": 4.48
+    },
+    {
+      "text": "know, the improvement in fatigue and",
+      "start": 2060.399,
+      "duration": 6.561
+    },
+    {
+      "text": "depression, um, and sleep quality. So um",
+      "start": 2062.24,
+      "duration": 6.56
+    },
+    {
+      "text": "you know at least you know you don't",
+      "start": 2066.96,
+      "duration": 3.52
+    },
+    {
+      "text": "want to overextend and say okay it helps",
+      "start": 2068.8,
+      "duration": 4.319
+    },
+    {
+      "text": "every symptom but at least for those",
+      "start": 2070.48,
+      "duration": 5.119
+    },
+    {
+      "text": "using this trial design there was a",
+      "start": 2073.119,
+      "duration": 5.841
+    },
+    {
+      "text": "promising um improvement.",
+      "start": 2075.599,
+      "duration": 5.841
+    },
+    {
+      "text": ">> Yeah. And again it comes back to you",
+      "start": 2078.96,
+      "duration": 5.04
+    },
+    {
+      "text": "know if you're not well you know that",
+      "start": 2081.44,
+      "duration": 4.639
+    },
+    {
+      "text": "there isn't a silver bullet. There's not",
+      "start": 2084.0,
+      "duration": 4.8
+    },
+    {
+      "text": "one thing that's going to cure you. Um",
+      "start": 2086.079,
+      "duration": 5.201
+    },
+    {
+      "text": "and I'm not sure there ever will be but",
+      "start": 2088.8,
+      "duration": 4.879
+    },
+    {
+      "text": "there are all sorts of things that can",
+      "start": 2091.28,
+      "duration": 5.2
+    },
+    {
+      "text": "help. So if what you guys have worked",
+      "start": 2093.679,
+      "duration": 6.801
+    },
+    {
+      "text": "out from doing this trial is that",
+      "start": 2096.48,
+      "duration": 6.8
+    },
+    {
+      "text": "doing you know t taking this supplement",
+      "start": 2100.48,
+      "duration": 4.48
+    },
+    {
+      "text": "or indeed any other supplement that",
+      "start": 2103.28,
+      "duration": 4.079
+    },
+    {
+      "text": "people find in any other trial um you",
+      "start": 2104.96,
+      "duration": 4.24
+    },
+    {
+      "text": "know is something that is going to help",
+      "start": 2107.359,
+      "duration": 4.0
+    },
+    {
+      "text": "people even a bit you know with a",
+      "start": 2109.2,
+      "duration": 4.159
+    },
+    {
+      "text": "certain amount of symptoms to a certain",
+      "start": 2111.359,
+      "duration": 4.161
+    },
+    {
+      "text": "extent. It is something that might be",
+      "start": 2113.359,
+      "duration": 4.641
+    },
+    {
+      "text": "worth doing. Um, so that's still useful",
+      "start": 2115.52,
+      "duration": 4.559
+    },
+    {
+      "text": "information even if it's not going to,",
+      "start": 2118.0,
+      "duration": 4.48
+    },
+    {
+      "text": "you know, solve everyone's problems um,",
+      "start": 2120.079,
+      "duration": 4.721
+    },
+    {
+      "text": "and make everyone 100% better because",
+      "start": 2122.48,
+      "duration": 3.84
+    },
+    {
+      "text": "that that's quite a tall order, isn't",
+      "start": 2124.8,
+      "duration": 2.72
+    },
+    {
+      "text": "it?",
+      "start": 2126.32,
+      "duration": 2.64
+    },
+    {
+      "text": ">> You know, it's also so weird that an",
+      "start": 2127.52,
+      "duration": 3.2
+    },
+    {
+      "text": "over-thecounter supplement has a",
+      "start": 2128.96,
+      "duration": 4.48
+    },
+    {
+      "text": "clinical effect and you know, that's not",
+      "start": 2130.72,
+      "duration": 5.68
+    },
+    {
+      "text": "common. It's a it's always great when it",
+      "start": 2133.44,
+      "duration": 6.72
+    },
+    {
+      "text": "happens. So, is this a supplement that",
+      "start": 2136.4,
+      "duration": 6.719
+    },
+    {
+      "text": "people can just go out and buy and",
+      "start": 2140.16,
+      "duration": 4.88
+    },
+    {
+      "text": "follow this sort of similar protocol",
+      "start": 2143.119,
+      "duration": 4.081
+    },
+    {
+      "text": "that that you guys did in the trial? And",
+      "start": 2145.04,
+      "duration": 4.16
+    },
+    {
+      "text": "is that something that, you know, I",
+      "start": 2147.2,
+      "duration": 3.44
+    },
+    {
+      "text": "could just wake up tomorrow morning and",
+      "start": 2149.2,
+      "duration": 3.6
+    },
+    {
+      "text": "go and do?",
+      "start": 2150.64,
+      "duration": 4.0
+    },
+    {
+      "text": "I mean, again, you're not giving medical",
+      "start": 2152.8,
+      "duration": 4.559
+    },
+    {
+      "text": "advice here.",
+      "start": 2154.64,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Maybe Emory can address this, but the",
+      "start": 2157.359,
+      "duration": 5.041
+    },
+    {
+      "text": "dosage was higher",
+      "start": 2159.68,
+      "duration": 4.64
+    },
+    {
+      "text": "than what's recommended on the bottle.",
+      "start": 2162.4,
+      "duration": 4.32
+    },
+    {
+      "text": "Like if you buy trueen",
+      "start": 2164.32,
+      "duration": 5.12
+    },
+    {
+      "text": ">> it, you know, it it can it can come as",
+      "start": 2166.72,
+      "duration": 4.399
+    },
+    {
+      "text": "500 milligram capsules and they",
+      "start": 2169.44,
+      "duration": 3.04
+    },
+    {
+      "text": "recommend two",
+      "start": 2171.119,
+      "duration": 3.521
+    },
+    {
+      "text": ">> 1,000 milligrams. This was a 2,000",
+      "start": 2172.48,
+      "duration": 5.119
+    },
+    {
+      "text": "milligram dose. So I' I'd be careful",
+      "start": 2174.64,
+      "duration": 5.199
+    },
+    {
+      "text": "here about saying, you know, go beyond",
+      "start": 2177.599,
+      "duration": 3.921
+    },
+    {
+      "text": "the recommended,",
+      "start": 2179.839,
+      "duration": 3.601
+    },
+    {
+      "text": ">> you know, dosage on the bottle and take",
+      "start": 2181.52,
+      "duration": 4.079
+    },
+    {
+      "text": "double that. But that was what was used",
+      "start": 2183.44,
+      "duration": 4.88
+    },
+    {
+      "text": "here in this uh trial. So that would",
+      "start": 2185.599,
+      "duration": 4.48
+    },
+    {
+      "text": "require further thought and discussion,",
+      "start": 2188.32,
+      "duration": 2.64
+    },
+    {
+      "text": "I think.",
+      "start": 2190.079,
+      "duration": 4.481
+    },
+    {
+      "text": ">> Yes. No, I totally agree. Um",
+      "start": 2190.96,
+      "duration": 6.879
+    },
+    {
+      "text": "and and that is another question is is",
+      "start": 2194.56,
+      "duration": 5.6
+    },
+    {
+      "text": "1,000 enough",
+      "start": 2197.839,
+      "duration": 4.481
+    },
+    {
+      "text": "1,500 we don't know but for this",
+      "start": 2200.16,
+      "duration": 5.04
+    },
+    {
+      "text": "clinical trial we did use 2,000",
+      "start": 2202.32,
+      "duration": 4.64
+    },
+    {
+      "text": "milligrams a day",
+      "start": 2205.2,
+      "duration": 3.36
+    },
+    {
+      "text": ">> and you guys thought that was safe",
+      "start": 2206.96,
+      "duration": 3.52
+    },
+    {
+      "text": "because you were monitoring it and",
+      "start": 2208.56,
+      "duration": 3.44
+    },
+    {
+      "text": "keeping an eye on these people and it",
+      "start": 2210.48,
+      "duration": 4.48
+    },
+    {
+      "text": "was under sort of supervision.",
+      "start": 2212.0,
+      "duration": 5.839
+    },
+    {
+      "text": "We were monitoring but also we were not",
+      "start": 2214.96,
+      "duration": 5.28
+    },
+    {
+      "text": "there had been another study or studies",
+      "start": 2217.839,
+      "duration": 6.481
+    },
+    {
+      "text": "that had had used 2,000 milligrams and",
+      "start": 2220.24,
+      "duration": 6.4
+    },
+    {
+      "text": "they had not seen any significant side",
+      "start": 2224.32,
+      "duration": 5.759
+    },
+    {
+      "text": "effect. So we felt comfortable using",
+      "start": 2226.64,
+      "duration": 6.4
+    },
+    {
+      "text": "2,000 mg and that you know our",
+      "start": 2230.079,
+      "duration": 6.401
+    },
+    {
+      "text": "participants were going to be safe.",
+      "start": 2233.04,
+      "duration": 5.6
+    },
+    {
+      "text": "The IRB or institutional review board at",
+      "start": 2236.48,
+      "duration": 5.359
+    },
+    {
+      "text": "Mass General reviews this and they they",
+      "start": 2238.64,
+      "duration": 6.24
+    },
+    {
+      "text": "go into all the empirical data of has",
+      "start": 2241.839,
+      "duration": 4.481
+    },
+    {
+      "text": "this dose been used before just like",
+      "start": 2244.88,
+      "duration": 3.76
+    },
+    {
+      "text": "Emiry was saying and was is it safe. So",
+      "start": 2246.32,
+      "duration": 4.0
+    },
+    {
+      "text": "the fact that they approve the study",
+      "start": 2248.64,
+      "duration": 3.84
+    },
+    {
+      "text": "means that they felt this was a safe",
+      "start": 2250.32,
+      "duration": 3.84
+    },
+    {
+      "text": "dose. It's just not the recommended",
+      "start": 2252.48,
+      "duration": 3.52
+    },
+    {
+      "text": "dose. It's double that.",
+      "start": 2254.16,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Yeah. And obviously anyone adding",
+      "start": 2256.0,
+      "duration": 5.52
+    },
+    {
+      "text": "supplements into their routine should do",
+      "start": 2258.88,
+      "duration": 7.28
+    },
+    {
+      "text": "so under medical um advice. Um,",
+      "start": 2261.52,
+      "duration": 6.079
+    },
+    {
+      "text": "what I'm curious about, and I don't know",
+      "start": 2266.16,
+      "duration": 3.12
+    },
+    {
+      "text": "if this is something that you measured,",
+      "start": 2267.599,
+      "duration": 3.681
+    },
+    {
+      "text": "you know, you said you measured your NAD",
+      "start": 2269.28,
+      "duration": 3.92
+    },
+    {
+      "text": "levels at the beginning and the middle",
+      "start": 2271.28,
+      "duration": 3.92
+    },
+    {
+      "text": "and the end of the study and that they",
+      "start": 2273.2,
+      "duration": 4.8
+    },
+    {
+      "text": "had significantly increased during the",
+      "start": 2275.2,
+      "duration": 4.24
+    },
+    {
+      "text": "study, which is obviously awesome. It's",
+      "start": 2278.0,
+      "duration": 2.8
+    },
+    {
+      "text": "what you thought was going to happen and",
+      "start": 2279.44,
+      "duration": 3.44
+    },
+    {
+      "text": "it did. Um, so that's always good,",
+      "start": 2280.8,
+      "duration": 4.799
+    },
+    {
+      "text": "right? Um, what I would be curious about",
+      "start": 2282.88,
+      "duration": 5.12
+    },
+    {
+      "text": "is did those NAD levels that had risen",
+      "start": 2285.599,
+      "duration": 4.881
+    },
+    {
+      "text": "up while you were doing it, did they",
+      "start": 2288.0,
+      "duration": 4.96
+    },
+    {
+      "text": "remain up there or did they drop back",
+      "start": 2290.48,
+      "duration": 3.92
+    },
+    {
+      "text": "off?",
+      "start": 2292.96,
+      "duration": 3.119
+    },
+    {
+      "text": ">> That's a really good question and for",
+      "start": 2294.4,
+      "duration": 4.16
+    },
+    {
+      "text": "the most part they remained high.",
+      "start": 2296.079,
+      "duration": 4.081
+    },
+    {
+      "text": ">> I guess eventually they would drop off",
+      "start": 2298.56,
+      "duration": 3.12
+    },
+    {
+      "text": "you stop supplementing. Right.",
+      "start": 2300.16,
+      "duration": 2.08
+    },
+    {
+      "text": ">> Right.",
+      "start": 2301.68,
+      "duration": 1.76
+    },
+    {
+      "text": ">> So,",
+      "start": 2302.24,
+      "duration": 4.64
+    },
+    {
+      "text": ">> it's really interesting because um and",
+      "start": 2303.44,
+      "duration": 6.24
+    },
+    {
+      "text": "once our the article is actually",
+      "start": 2306.88,
+      "duration": 5.44
+    },
+    {
+      "text": "available to everyone, it's open access.",
+      "start": 2309.68,
+      "duration": 5.84
+    },
+    {
+      "text": "Um so when you look at the first uh the",
+      "start": 2312.32,
+      "duration": 6.88
+    },
+    {
+      "text": "first graph you see that the people in",
+      "start": 2315.52,
+      "duration": 7.2
+    },
+    {
+      "text": "the NR group uh after baseline there",
+      "start": 2319.2,
+      "duration": 6.24
+    },
+    {
+      "text": "it's like super you know it it",
+      "start": 2322.72,
+      "duration": 5.04
+    },
+    {
+      "text": "skyrockets there's a significant",
+      "start": 2325.44,
+      "duration": 4.159
+    },
+    {
+      "text": "increase whereas the placebo stays",
+      "start": 2327.76,
+      "duration": 4.64
+    },
+    {
+      "text": "pretty flat and then when the placebo",
+      "start": 2329.599,
+      "duration": 6.0
+    },
+    {
+      "text": "changes to NR then you see a very",
+      "start": 2332.4,
+      "duration": 5.84
+    },
+    {
+      "text": "similar increase you know as the other",
+      "start": 2335.599,
+      "duration": 6.961
+    },
+    {
+      "text": "group so you know we it's very clear",
+      "start": 2338.24,
+      "duration": 8.16
+    },
+    {
+      "text": "that the the NAD+ levels are increasing",
+      "start": 2342.56,
+      "duration": 6.48
+    },
+    {
+      "text": "and then um they pretty they stay up",
+      "start": 2346.4,
+      "duration": 5.76
+    },
+    {
+      "text": "pretty high throughout the trial.",
+      "start": 2349.04,
+      "duration": 6.0
+    },
+    {
+      "text": "We also um were our participants were",
+      "start": 2352.16,
+      "duration": 5.439
+    },
+    {
+      "text": "amazing and they were very uh good at",
+      "start": 2355.04,
+      "duration": 5.84
+    },
+    {
+      "text": "taking NAD+ and we do measure whether",
+      "start": 2357.599,
+      "duration": 6.721
+    },
+    {
+      "text": "they're skipping days or not. Um and for",
+      "start": 2360.88,
+      "duration": 7.28
+    },
+    {
+      "text": "the most part everyone was taking uh NR",
+      "start": 2364.32,
+      "duration": 6.56
+    },
+    {
+      "text": "every day as instructed.",
+      "start": 2368.16,
+      "duration": 4.4
+    },
+    {
+      "text": "I I think it's also worth mentioning on",
+      "start": 2370.88,
+      "duration": 3.36
+    },
+    {
+      "text": "the cognitive test going back to that",
+      "start": 2372.56,
+      "duration": 4.88
+    },
+    {
+      "text": "that you know this trail making B test",
+      "start": 2374.24,
+      "duration": 4.56
+    },
+    {
+      "text": "right so I don't know if you how it",
+      "start": 2377.44,
+      "duration": 4.399
+    },
+    {
+      "text": "works is you have to you know connect",
+      "start": 2378.8,
+      "duration": 5.279
+    },
+    {
+      "text": "numbers and letters in order so one to A",
+      "start": 2381.839,
+      "duration": 4.321
+    },
+    {
+      "text": "to two to B to three to C and they're",
+      "start": 2384.079,
+      "duration": 4.641
+    },
+    {
+      "text": "all over the place right and so it's",
+      "start": 2386.16,
+      "duration": 4.8
+    },
+    {
+      "text": "it's so you measure how fast you can do",
+      "start": 2388.72,
+      "duration": 5.6
+    },
+    {
+      "text": "it and it requires you to be able to",
+      "start": 2390.96,
+      "duration": 5.6
+    },
+    {
+      "text": "focus right so if you're like confused",
+      "start": 2394.32,
+      "duration": 4.0
+    },
+    {
+      "text": "agitated",
+      "start": 2396.56,
+      "duration": 3.92
+    },
+    {
+      "text": "um even highly depressed It's hard to",
+      "start": 2398.32,
+      "duration": 4.48
+    },
+    {
+      "text": "focus and say and you know be able to",
+      "start": 2400.48,
+      "duration": 4.24
+    },
+    {
+      "text": "say one to A and two now where's the B?",
+      "start": 2402.8,
+      "duration": 4.16
+    },
+    {
+      "text": "Okay, there's the B. Oh, what's next?",
+      "start": 2404.72,
+      "duration": 4.32
+    },
+    {
+      "text": "Oh, yeah. Three. So, so it's how much",
+      "start": 2406.96,
+      "duration": 4.48
+    },
+    {
+      "text": "time you take. And I was and I've done a",
+      "start": 2409.04,
+      "duration": 4.0
+    },
+    {
+      "text": "lot of these, you know, trials in",
+      "start": 2411.44,
+      "duration": 3.28
+    },
+    {
+      "text": "Alzheimer's disease, which is my",
+      "start": 2413.04,
+      "duration": 4.319
+    },
+    {
+      "text": "specialty. And we use trail making B.",
+      "start": 2414.72,
+      "duration": 5.44
+    },
+    {
+      "text": "And I thought, you know, knocking eight",
+      "start": 2417.359,
+      "duration": 6.961
+    },
+    {
+      "text": "was 8.4 seconds off of the test",
+      "start": 2420.16,
+      "duration": 6.4
+    },
+    {
+      "text": ">> um for those who are on NR after 10",
+      "start": 2424.32,
+      "duration": 3.92
+    },
+    {
+      "text": "weeks versus placebo.",
+      "start": 2426.56,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Wow. Um uh or was it after",
+      "start": 2428.24,
+      "duration": 6.72
+    },
+    {
+      "text": ">> uh it was when we put Yeah. 10 weeks uh",
+      "start": 2432.24,
+      "duration": 5.698
+    },
+    {
+      "text": "baseline versus 10 weeks of an",
+      "start": 2434.96,
+      "duration": 3.119
+    },
+    {
+      "text": "[clears throat]",
+      "start": 2437.938,
+      "duration": 2.302
+    },
+    {
+      "text": ">> Right. Right. So after 10 weeks to get",
+      "start": 2438.079,
+      "duration": 5.28
+    },
+    {
+      "text": "8.4 seconds off that test is pretty good",
+      "start": 2440.24,
+      "duration": 5.359
+    },
+    {
+      "text": "and and we'd be we'd be really happy",
+      "start": 2443.359,
+      "duration": 5.361
+    },
+    {
+      "text": "about that in an Alzheimer's trial. And",
+      "start": 2445.599,
+      "duration": 4.881
+    },
+    {
+      "text": "so I I thought that was that was one of",
+      "start": 2448.72,
+      "duration": 2.96
+    },
+    {
+      "text": "the more impressive things about the",
+      "start": 2450.48,
+      "duration": 3.52
+    },
+    {
+      "text": "study for me. I don't know about agree",
+      "start": 2451.68,
+      "duration": 6.679
+    },
+    {
+      "text": "but [laughter] maybe I'm just biased.",
+      "start": 2454.0,
+      "duration": 4.359
+    },
+    {
+      "text": "Yeah, that that does sound impressive.",
+      "start": 2458.64,
+      "duration": 4.08
+    },
+    {
+      "text": "Um",
+      "start": 2461.2,
+      "duration": 4.399
+    },
+    {
+      "text": "I mean what what I'd be curious about is",
+      "start": 2462.72,
+      "duration": 4.56
+    },
+    {
+      "text": "um",
+      "start": 2465.599,
+      "duration": 6.081
+    },
+    {
+      "text": "that's probably another trial. Um is uh",
+      "start": 2467.28,
+      "duration": 6.24
+    },
+    {
+      "text": "you know are there people you know",
+      "start": 2471.68,
+      "duration": 3.28
+    },
+    {
+      "text": "particularly maybe where we talk about",
+      "start": 2473.52,
+      "duration": 4.64
+    },
+    {
+      "text": "repeat infections or where people are",
+      "start": 2474.96,
+      "duration": 4.72
+    },
+    {
+      "text": "you know I mean people get sick with all",
+      "start": 2478.16,
+      "duration": 4.64
+    },
+    {
+      "text": "sorts of things all the time. Um, and",
+      "start": 2479.68,
+      "duration": 5.76
+    },
+    {
+      "text": "you know, is it just COVID that reduces",
+      "start": 2482.8,
+      "duration": 4.88
+    },
+    {
+      "text": "these levels of NAD or is it any",
+      "start": 2485.44,
+      "duration": 5.12
+    },
+    {
+      "text": "infection? And you know, is it the sort",
+      "start": 2487.68,
+      "duration": 4.8
+    },
+    {
+      "text": "of thing that might be useful for people",
+      "start": 2490.56,
+      "duration": 3.519
+    },
+    {
+      "text": "to supplement,",
+      "start": 2492.48,
+      "duration": 4.16
+    },
+    {
+      "text": ">> you know, when they get sick as a sort",
+      "start": 2494.079,
+      "duration": 5.121
+    },
+    {
+      "text": "of precautionary measure? Um, and I",
+      "start": 2496.64,
+      "duration": 3.76
+    },
+    {
+      "text": "don't know if that's anything that you",
+      "start": 2499.2,
+      "duration": 3.52
+    },
+    {
+      "text": "guys have looked into or or are thinking",
+      "start": 2500.4,
+      "duration": 4.88
+    },
+    {
+      "text": "of, but uh, again, it's it's maybe",
+      "start": 2502.72,
+      "duration": 5.92
+    },
+    {
+      "text": "something that people could do if you",
+      "start": 2505.28,
+      "duration": 6.079
+    },
+    {
+      "text": "thought it might work.",
+      "start": 2508.64,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Increasing age. I'm I'm the oldest one",
+      "start": 2511.359,
+      "duration": 5.601
+    },
+    {
+      "text": "on this podcast. Um, but age decreases",
+      "start": 2513.92,
+      "duration": 5.84
+    },
+    {
+      "text": "NAD+ levels. And so,",
+      "start": 2516.96,
+      "duration": 6.24
+    },
+    {
+      "text": ">> um, I often will provide family and",
+      "start": 2519.76,
+      "duration": 5.76
+    },
+    {
+      "text": "friends with a list of supplements that",
+      "start": 2523.2,
+      "duration": 5.2
+    },
+    {
+      "text": "I found to be helpful. in our research",
+      "start": 2525.52,
+      "duration": 5.12
+    },
+    {
+      "text": "lab, right? And I give a disclaimer.",
+      "start": 2528.4,
+      "duration": 3.76
+    },
+    {
+      "text": "This is not clinical advice. We don't",
+      "start": 2530.64,
+      "duration": 3.76
+    },
+    {
+      "text": "have clinical, you know, evidence yet.",
+      "start": 2532.16,
+      "duration": 3.6
+    },
+    {
+      "text": "Here we have some clinical evidence for",
+      "start": 2534.4,
+      "duration": 3.6
+    },
+    {
+      "text": "this one. Um, but this is what I do",
+      "start": 2535.76,
+      "duration": 5.2
+    },
+    {
+      "text": "personally, but I usually have Niagen on",
+      "start": 2538.0,
+      "duration": 4.8
+    },
+    {
+      "text": "that list for that reason that it's",
+      "start": 2540.96,
+      "duration": 3.359
+    },
+    {
+      "text": "usually older people who are concerned",
+      "start": 2542.8,
+      "duration": 3.36
+    },
+    {
+      "text": "about their brain health and what's",
+      "start": 2544.319,
+      "duration": 5.201
+    },
+    {
+      "text": "going to happen. So I I include Niogen",
+      "start": 2546.16,
+      "duration": 6.64
+    },
+    {
+      "text": "on there along with other supplements",
+      "start": 2549.52,
+      "duration": 6.16
+    },
+    {
+      "text": "and natural products that I've tested in",
+      "start": 2552.8,
+      "duration": 5.76
+    },
+    {
+      "text": "model systems that we feel can help",
+      "start": 2555.68,
+      "duration": 5.52
+    },
+    {
+      "text": "stave off, you know, age related brain",
+      "start": 2558.56,
+      "duration": 6.32
+    },
+    {
+      "text": "pathologies. But um but yes, NAD+ is",
+      "start": 2561.2,
+      "duration": 6.08
+    },
+    {
+      "text": "something that goes downhill with age",
+      "start": 2564.88,
+      "duration": 5.36
+    },
+    {
+      "text": "and and it's because cells get old. It's",
+      "start": 2567.28,
+      "duration": 5.2
+    },
+    {
+      "text": "like think about cells like toys with",
+      "start": 2570.24,
+      "duration": 5.2
+    },
+    {
+      "text": "batteries and mitochondria are the",
+      "start": 2572.48,
+      "duration": 5.2
+    },
+    {
+      "text": "batteries and you know you might have a",
+      "start": 2575.44,
+      "duration": 5.28
+    },
+    {
+      "text": "cell with 10% 20% of the mitochondria",
+      "start": 2577.68,
+      "duration": 6.159
+    },
+    {
+      "text": "are like dead batteries and you need to",
+      "start": 2580.72,
+      "duration": 4.8
+    },
+    {
+      "text": "stupid you know you need to recharge",
+      "start": 2583.839,
+      "duration": 4.161
+    },
+    {
+      "text": "them. That's how I think about about um",
+      "start": 2585.52,
+      "duration": 4.64
+    },
+    {
+      "text": "NR.",
+      "start": 2588.0,
+      "duration": 3.76
+    },
+    {
+      "text": ">> I like that way of explaining I'm going",
+      "start": 2590.16,
+      "duration": 3.669
+    },
+    {
+      "text": "to steal that.",
+      "start": 2591.76,
+      "duration": 4.089
+    },
+    {
+      "text": "[laughter]",
+      "start": 2593.829,
+      "duration": 2.02
+    },
+    {
+      "text": ">> No, that was really good. Um",
+      "start": 2596.079,
+      "duration": 5.121
+    },
+    {
+      "text": "yeah and yeah CO 19 is not the only",
+      "start": 2598.72,
+      "duration": 6.96
+    },
+    {
+      "text": "thing that will reduce um NAD+ levels as",
+      "start": 2601.2,
+      "duration": 8.56
+    },
+    {
+      "text": "as Rudy mentioned. Um there there is",
+      "start": 2605.68,
+      "duration": 7.6
+    },
+    {
+      "text": "another study where they took people who",
+      "start": 2609.76,
+      "duration": 6.16
+    },
+    {
+      "text": "were infected with COVID 19. So it was",
+      "start": 2613.28,
+      "duration": 6.0
+    },
+    {
+      "text": "in the acute stage and they combined NR",
+      "start": 2615.92,
+      "duration": 5.6
+    },
+    {
+      "text": "with two other supplements and they did",
+      "start": 2619.28,
+      "duration": 6.0
+    },
+    {
+      "text": "see that this group recovered faster.",
+      "start": 2621.52,
+      "duration": 7.44
+    },
+    {
+      "text": "So there it may be that this can help",
+      "start": 2625.28,
+      "duration": 6.0
+    },
+    {
+      "text": "with the acute stage. We don't you know",
+      "start": 2628.96,
+      "duration": 4.639
+    },
+    {
+      "text": "we there's to my knowledge no one has",
+      "start": 2631.28,
+      "duration": 5.76
+    },
+    {
+      "text": "done this only with NR but at least um",
+      "start": 2633.599,
+      "duration": 6.48
+    },
+    {
+      "text": "it may it may be you know based on those",
+      "start": 2637.04,
+      "duration": 5.039
+    },
+    {
+      "text": "results um",
+      "start": 2640.079,
+      "duration": 4.641
+    },
+    {
+      "text": ">> you know just anecdotally when February",
+      "start": 2642.079,
+      "duration": 6.561
+    },
+    {
+      "text": "2020 I had the first COVID strain and",
+      "start": 2644.72,
+      "duration": 7.92
+    },
+    {
+      "text": "I was so sick I mean and so I I treated",
+      "start": 2648.64,
+      "duration": 8.0
+    },
+    {
+      "text": "myself with um with supplements that are",
+      "start": 2652.64,
+      "duration": 6.24
+    },
+    {
+      "text": "meant to reduce inflammation and and I I",
+      "start": 2656.64,
+      "duration": 4.479
+    },
+    {
+      "text": "used a true Niogen I was taking 1,000",
+      "start": 2658.88,
+      "duration": 5.52
+    },
+    {
+      "text": "milligrams of that. And I and I wrote to",
+      "start": 2661.119,
+      "duration": 6.881
+    },
+    {
+      "text": "an ayurveetic doctor I know. And he told",
+      "start": 2664.4,
+      "duration": 5.6
+    },
+    {
+      "text": "me a concoction an ayurveetic concoction",
+      "start": 2668.0,
+      "duration": 3.52
+    },
+    {
+      "text": "I can make at home to help with my lungs",
+      "start": 2670.0,
+      "duration": 4.0
+    },
+    {
+      "text": "and my breathing. And it's amazing how",
+      "start": 2671.52,
+      "duration": 4.88
+    },
+    {
+      "text": "how it helped. It was, you know, I mean",
+      "start": 2674.0,
+      "duration": 4.56
+    },
+    {
+      "text": "that's all I did and I got through it.",
+      "start": 2676.4,
+      "duration": 4.08
+    },
+    {
+      "text": "But I I don't know if it was just the",
+      "start": 2678.56,
+      "duration": 4.48
+    },
+    {
+      "text": "Nia, but you know, it was one of the few",
+      "start": 2680.48,
+      "duration": 4.16
+    },
+    {
+      "text": "few things I took just to help me",
+      "start": 2683.04,
+      "duration": 3.2
+    },
+    {
+      "text": "through it because I said, \"Okay, I'm",
+      "start": 2684.64,
+      "duration": 2.719
+    },
+    {
+      "text": "getting attacked.\" I didn't know",
+      "start": 2686.24,
+      "duration": 2.8
+    },
+    {
+      "text": "anything about NAD plus and CO at that",
+      "start": 2687.359,
+      "duration": 3.921
+    },
+    {
+      "text": "time. Nobody did, but I just knew that I",
+      "start": 2689.04,
+      "duration": 4.72
+    },
+    {
+      "text": "I needed more energy. I needed to refuel",
+      "start": 2691.28,
+      "duration": 4.24
+    },
+    {
+      "text": "my cells.",
+      "start": 2693.76,
+      "duration": 4.48
+    },
+    {
+      "text": ">> In fact, one of the things um Rudy",
+      "start": 2695.52,
+      "duration": 5.2
+    },
+    {
+      "text": "mentioned inflammation um and we know",
+      "start": 2698.24,
+      "duration": 4.48
+    },
+    {
+      "text": "from other studies that there is an",
+      "start": 2700.72,
+      "duration": 5.68
+    },
+    {
+      "text": "association between increasing NAD+ and",
+      "start": 2702.72,
+      "duration": 5.84
+    },
+    {
+      "text": "reduced inflammation which can be really",
+      "start": 2706.4,
+      "duration": 4.16
+    },
+    {
+      "text": "bad for for the body including the",
+      "start": 2708.56,
+      "duration": 4.96
+    },
+    {
+      "text": "brain. Um and so one of the things that",
+      "start": 2710.56,
+      "duration": 5.44
+    },
+    {
+      "text": "we would love to do is also see and we",
+      "start": 2713.52,
+      "duration": 4.4
+    },
+    {
+      "text": "hypothesize that those people with",
+      "start": 2716.0,
+      "duration": 5.28
+    },
+    {
+      "text": "higher NAD also have lower inflammation",
+      "start": 2717.92,
+      "duration": 6.159
+    },
+    {
+      "text": "and that may be contributing right to",
+      "start": 2721.28,
+      "duration": 6.64
+    },
+    {
+      "text": "those who are feeling better over time.",
+      "start": 2724.079,
+      "duration": 5.52
+    },
+    {
+      "text": ">> Yeah. Especially the the immune cells in",
+      "start": 2727.92,
+      "duration": 4.88
+    },
+    {
+      "text": "the brain the what called micro glea",
+      "start": 2729.599,
+      "duration": 5.121
+    },
+    {
+      "text": ">> um they are normally housekeeping and",
+      "start": 2732.8,
+      "duration": 4.16
+    },
+    {
+      "text": "cleaning up debris including the amaloid",
+      "start": 2734.72,
+      "duration": 4.639
+    },
+    {
+      "text": "plaque and Alzheimer's.",
+      "start": 2736.96,
+      "duration": 5.92
+    },
+    {
+      "text": "But if they lose energy and start to",
+      "start": 2739.359,
+      "duration": 5.521
+    },
+    {
+      "text": "become what's called scinsesscent,",
+      "start": 2742.88,
+      "duration": 4.0
+    },
+    {
+      "text": "they're more likely to turn into",
+      "start": 2744.88,
+      "duration": 4.16
+    },
+    {
+      "text": "inflammatory cells. They convert from",
+      "start": 2746.88,
+      "duration": 4.0
+    },
+    {
+      "text": "housekeepers to killers",
+      "start": 2749.04,
+      "duration": 3.68
+    },
+    {
+      "text": ">> and they become neuroinflammatory. And",
+      "start": 2750.88,
+      "duration": 3.68
+    },
+    {
+      "text": "so the way you stop that is you give",
+      "start": 2752.72,
+      "duration": 4.16
+    },
+    {
+      "text": "them more energy. Well, energy, you",
+      "start": 2754.56,
+      "duration": 4.32
+    },
+    {
+      "text": "know, comes from things like ATP and",
+      "start": 2756.88,
+      "duration": 5.6
+    },
+    {
+      "text": "NAD+. So, uh, and luckily Niogen",
+      "start": 2758.88,
+      "duration": 5.76
+    },
+    {
+      "text": "nicotinom ribocide gets in affects the",
+      "start": 2762.48,
+      "duration": 6.24
+    },
+    {
+      "text": "brain um and and energy there. So um you",
+      "start": 2764.64,
+      "duration": 5.199
+    },
+    {
+      "text": "know we think I think that may have",
+      "start": 2768.72,
+      "duration": 3.119
+    },
+    {
+      "text": "played help played a role here too with",
+      "start": 2769.839,
+      "duration": 5.121
+    },
+    {
+      "text": "as Emmy was saying is is is we didn't",
+      "start": 2771.839,
+      "duration": 4.801
+    },
+    {
+      "text": "directly look at indicators of",
+      "start": 2774.96,
+      "duration": 3.76
+    },
+    {
+      "text": "neuroinflammation but",
+      "start": 2776.64,
+      "duration": 3.6
+    },
+    {
+      "text": ">> if we look for biomarkers of that we",
+      "start": 2778.72,
+      "duration": 4.399
+    },
+    {
+      "text": "might have seen something there too",
+      "start": 2780.24,
+      "duration": 4.879
+    },
+    {
+      "text": ">> and that makes total sense because you",
+      "start": 2783.119,
+      "duration": 3.361
+    },
+    {
+      "text": "know it's one of those things that's",
+      "start": 2785.119,
+      "duration": 4.24
+    },
+    {
+      "text": "talked about a lot in in long co and you",
+      "start": 2786.48,
+      "duration": 4.56
+    },
+    {
+      "text": "know is that you know reducing",
+      "start": 2789.359,
+      "duration": 3.521
+    },
+    {
+      "text": "inflammation which is healthy in the",
+      "start": 2791.04,
+      "duration": 3.84
+    },
+    {
+      "text": "body anyway isn't it? Um but you know",
+      "start": 2792.88,
+      "duration": 3.84
+    },
+    {
+      "text": "particularly in in long co if those",
+      "start": 2794.88,
+      "duration": 4.88
+    },
+    {
+      "text": "levels of inflammation are are higher um",
+      "start": 2796.72,
+      "duration": 5.599
+    },
+    {
+      "text": "then you know more important to find a",
+      "start": 2799.76,
+      "duration": 5.52
+    },
+    {
+      "text": "way to reduce that. So if if this is",
+      "start": 2802.319,
+      "duration": 4.721
+    },
+    {
+      "text": "something that can be done that might",
+      "start": 2805.28,
+      "duration": 4.0
+    },
+    {
+      "text": "help that then that's an added bonus",
+      "start": 2807.04,
+      "duration": 4.0
+    },
+    {
+      "text": "isn't it?",
+      "start": 2809.28,
+      "duration": 3.68
+    },
+    {
+      "text": "So",
+      "start": 2811.04,
+      "duration": 4.079
+    },
+    {
+      "text": "you've just mentioned about you know",
+      "start": 2812.96,
+      "duration": 4.399
+    },
+    {
+      "text": "potentially looking at inflammation and",
+      "start": 2815.119,
+      "duration": 5.761
+    },
+    {
+      "text": "and stuff like that. Um and you know the",
+      "start": 2817.359,
+      "duration": 5.281
+    },
+    {
+      "text": "results from this trial are really",
+      "start": 2820.88,
+      "duration": 3.52
+    },
+    {
+      "text": "interesting especially with the use of",
+      "start": 2822.64,
+      "duration": 4.08
+    },
+    {
+      "text": "the different analysis that you talked",
+      "start": 2824.4,
+      "duration": 7.36
+    },
+    {
+      "text": "about. Um so do you have plans to sort",
+      "start": 2826.72,
+      "duration": 6.8
+    },
+    {
+      "text": "of continue",
+      "start": 2831.76,
+      "duration": 4.72
+    },
+    {
+      "text": "in this kind of research with more",
+      "start": 2833.52,
+      "duration": 5.599
+    },
+    {
+      "text": "longco and expanding the study that",
+      "start": 2836.48,
+      "duration": 5.28
+    },
+    {
+      "text": "you've done into something else and you",
+      "start": 2839.119,
+      "duration": 4.24
+    },
+    {
+      "text": "know what what are your kind of plans",
+      "start": 2841.76,
+      "duration": 4.24
+    },
+    {
+      "text": "around that?",
+      "start": 2843.359,
+      "duration": 6.881
+    },
+    {
+      "text": "I would love to um with the data that we",
+      "start": 2846.0,
+      "duration": 7.04
+    },
+    {
+      "text": "have now, some of our plans are to look",
+      "start": 2850.24,
+      "duration": 4.48
+    },
+    {
+      "text": "at some of these biomarkers of",
+      "start": 2853.04,
+      "duration": 3.279
+    },
+    {
+      "text": "inflammation.",
+      "start": 2854.72,
+      "duration": 5.04
+    },
+    {
+      "text": "Um everyone also wore a Fitbit during",
+      "start": 2856.319,
+      "duration": 6.161
+    },
+    {
+      "text": "those 20 weeks. So we may be able to",
+      "start": 2859.76,
+      "duration": 5.839
+    },
+    {
+      "text": "look at um whether they were engaging in",
+      "start": 2862.48,
+      "duration": 5.28
+    },
+    {
+      "text": "more physical activity, which is what we",
+      "start": 2865.599,
+      "duration": 5.76
+    },
+    {
+      "text": "want. Um and if you know sleep was",
+      "start": 2867.76,
+      "duration": 6.48
+    },
+    {
+      "text": "improving as measured with the Fitbit.",
+      "start": 2871.359,
+      "duration": 6.48
+    },
+    {
+      "text": "Um but we definitely need to do more um",
+      "start": 2874.24,
+      "duration": 6.72
+    },
+    {
+      "text": "more collect more data, do new trials.",
+      "start": 2877.839,
+      "duration": 5.201
+    },
+    {
+      "text": "Um actually someone I think it was",
+      "start": 2880.96,
+      "duration": 4.399
+    },
+    {
+      "text": "yesterday was asking me did you know",
+      "start": 2883.04,
+      "duration": 5.279
+    },
+    {
+      "text": "long CO tends to be uh more common in",
+      "start": 2885.359,
+      "duration": 6.24
+    },
+    {
+      "text": "females? Um and so uh she asked oh is",
+      "start": 2888.319,
+      "duration": 5.201
+    },
+    {
+      "text": "there a difference between uh the",
+      "start": 2891.599,
+      "duration": 3.681
+    },
+    {
+      "text": "results for females and males? I'm like",
+      "start": 2893.52,
+      "duration": 4.72
+    },
+    {
+      "text": "I don't know. uh we need we need to we",
+      "start": 2895.28,
+      "duration": 6.319
+    },
+    {
+      "text": "need more research um and more trials",
+      "start": 2898.24,
+      "duration": 6.079
+    },
+    {
+      "text": "larger trials so that we can address",
+      "start": 2901.599,
+      "duration": 4.321
+    },
+    {
+      "text": "some of these questions that are",
+      "start": 2904.319,
+      "duration": 4.481
+    },
+    {
+      "text": "important um and that may help us",
+      "start": 2905.92,
+      "duration": 5.679
+    },
+    {
+      "text": "understand this better",
+      "start": 2908.8,
+      "duration": 5.279
+    },
+    {
+      "text": ">> and also the MC center working together",
+      "start": 2911.599,
+      "duration": 4.081
+    },
+    {
+      "text": "with the Alzheimer's clinical trial",
+      "start": 2914.079,
+      "duration": 4.961
+    },
+    {
+      "text": "center at Mass General did a a NIAN",
+      "start": 2915.68,
+      "duration": 5.84
+    },
+    {
+      "text": "trial on Alzheimer's disease small trial",
+      "start": 2919.04,
+      "duration": 4.64
+    },
+    {
+      "text": "and while it was too small and not",
+      "start": 2921.52,
+      "duration": 4.799
+    },
+    {
+      "text": "properly powered to see changes in",
+      "start": 2923.68,
+      "duration": 6.399
+    },
+    {
+      "text": "cognition and memory. um we were able to",
+      "start": 2926.319,
+      "duration": 7.361
+    },
+    {
+      "text": "look at biomarkers of the pathology",
+      "start": 2930.079,
+      "duration": 6.24
+    },
+    {
+      "text": ">> in the brain looking at blood plasma",
+      "start": 2933.68,
+      "duration": 4.879
+    },
+    {
+      "text": "biomarkers and there we did see an",
+      "start": 2936.319,
+      "duration": 4.24
+    },
+    {
+      "text": "effect on one one of the pathologies in",
+      "start": 2938.559,
+      "duration": 4.56
+    },
+    {
+      "text": "Alzheimer's is tangles the tangle",
+      "start": 2940.559,
+      "duration": 4.321
+    },
+    {
+      "text": "formation tangles and we did see an",
+      "start": 2943.119,
+      "duration": 5.601
+    },
+    {
+      "text": "effect on that on that biioarker um so I",
+      "start": 2944.88,
+      "duration": 6.16
+    },
+    {
+      "text": "would like to I I at the man center I",
+      "start": 2948.72,
+      "duration": 4.24
+    },
+    {
+      "text": "now we're doing a a whole slew of",
+      "start": 2951.04,
+      "duration": 4.64
+    },
+    {
+      "text": "Alzheimer trials uh with natural",
+      "start": 2952.96,
+      "duration": 5.68
+    },
+    {
+      "text": "products and supplements and so I do",
+      "start": 2955.68,
+      "duration": 4.96
+    },
+    {
+      "text": "plan on adding doing a trial where we",
+      "start": 2958.64,
+      "duration": 4.8
+    },
+    {
+      "text": "get Niogen added to other supplements",
+      "start": 2960.64,
+      "duration": 5.28
+    },
+    {
+      "text": "aimed at lowering neuroinflammation",
+      "start": 2963.44,
+      "duration": 4.08
+    },
+    {
+      "text": "and clearing out the plaque and tango",
+      "start": 2965.92,
+      "duration": 3.84
+    },
+    {
+      "text": "pathology. Um, of course with a",
+      "start": 2967.52,
+      "duration": 4.799
+    },
+    {
+      "text": "supplement you can never make any claims",
+      "start": 2969.76,
+      "duration": 4.4
+    },
+    {
+      "text": "about a disease because it's just the",
+      "start": 2972.319,
+      "duration": 4.081
+    },
+    {
+      "text": "rules, right? But we can still test them",
+      "start": 2974.16,
+      "duration": 4.0
+    },
+    {
+      "text": "to see if it helps and put those papers",
+      "start": 2976.4,
+      "duration": 3.439
+    },
+    {
+      "text": "out there, you know, about what it what",
+      "start": 2978.16,
+      "duration": 3.52
+    },
+    {
+      "text": "it does in disease. Although, you know,",
+      "start": 2979.839,
+      "duration": 3.201
+    },
+    {
+      "text": "I think there are rules about not being",
+      "start": 2981.68,
+      "duration": 3.28
+    },
+    {
+      "text": "able to put that on the bottle, but you",
+      "start": 2983.04,
+      "duration": 3.84
+    },
+    {
+      "text": "know, we can at least generate the data.",
+      "start": 2984.96,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Yeah. And like you kind of mentioned",
+      "start": 2986.88,
+      "duration": 3.92
+    },
+    {
+      "text": "earlier, you know that there have been",
+      "start": 2988.96,
+      "duration": 4.56
+    },
+    {
+      "text": "other studies done with Niagen um and",
+      "start": 2990.8,
+      "duration": 3.84
+    },
+    {
+      "text": "you know, okay, they weren't",
+      "start": 2993.52,
+      "duration": 3.12
+    },
+    {
+      "text": "specifically long CO, but you know that",
+      "start": 2994.64,
+      "duration": 4.0
+    },
+    {
+      "text": "it might reduce inflammation. You know",
+      "start": 2996.64,
+      "duration": 4.24
+    },
+    {
+      "text": "that it has stuff to do with the brain.",
+      "start": 2998.64,
+      "duration": 4.0
+    },
+    {
+      "text": "You know, you know, so it's it's not",
+      "start": 3000.88,
+      "duration": 3.6
+    },
+    {
+      "text": "like you're coming in with with no",
+      "start": 3002.64,
+      "duration": 4.32
+    },
+    {
+      "text": "information beforehand, I guess. You",
+      "start": 3004.48,
+      "duration": 4.32
+    },
+    {
+      "text": "know, you already know that it does",
+      "start": 3006.96,
+      "duration": 4.56
+    },
+    {
+      "text": "certain things. So you can use that to",
+      "start": 3008.8,
+      "duration": 7.2
+    },
+    {
+      "text": "build another study in a certain group",
+      "start": 3011.52,
+      "duration": 6.64
+    },
+    {
+      "text": "on that kind of going back to Lego",
+      "start": 3016.0,
+      "duration": 3.28
+    },
+    {
+      "text": "analogies, aren't they? You know, the",
+      "start": 3018.16,
+      "duration": 2.48
+    },
+    {
+      "text": "kind of the building blocks of studies",
+      "start": 3019.28,
+      "duration": 4.48
+    },
+    {
+      "text": "that have been done previously. [snorts]",
+      "start": 3020.64,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Absolutely. And I think uh clinical",
+      "start": 3023.76,
+      "duration": 4.4
+    },
+    {
+      "text": "trials like these um in addition to",
+      "start": 3025.76,
+      "duration": 5.44
+    },
+    {
+      "text": "helping us understand if a symptom can",
+      "start": 3028.16,
+      "duration": 5.76
+    },
+    {
+      "text": "can improve or not, it also allows us to",
+      "start": 3031.2,
+      "duration": 5.2
+    },
+    {
+      "text": "understand the mechanism a little bit.",
+      "start": 3033.92,
+      "duration": 4.72
+    },
+    {
+      "text": "Um so you know what are what is going on",
+      "start": 3036.4,
+      "duration": 4.0
+    },
+    {
+      "text": "in the brain and the body that may be",
+      "start": 3038.64,
+      "duration": 3.52
+    },
+    {
+      "text": "explaining this and we spoke about",
+      "start": 3040.4,
+      "duration": 3.76
+    },
+    {
+      "text": "inflammation. So um so this is also",
+      "start": 3042.16,
+      "duration": 3.439
+    },
+    {
+      "text": "telling us something about the role of",
+      "start": 3044.16,
+      "duration": 2.959
+    },
+    {
+      "text": "NAD+",
+      "start": 3045.599,
+      "duration": 3.041
+    },
+    {
+      "text": "um which is also important for",
+      "start": 3047.119,
+      "duration": 3.44
+    },
+    {
+      "text": "developing future potential",
+      "start": 3048.64,
+      "duration": 3.919
+    },
+    {
+      "text": "interventions.",
+      "start": 3050.559,
+      "duration": 3.441
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 3052.559,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Yeah. We were also very fortunate to be",
+      "start": 3054.0,
+      "duration": 5.28
+    },
+    {
+      "text": "able to work with Charlie Brener and you",
+      "start": 3055.839,
+      "duration": 4.801
+    },
+    {
+      "text": "know Charlie Brener was the guy who",
+      "start": 3059.28,
+      "duration": 4.24
+    },
+    {
+      "text": "discovered uh nicotenicide linked to",
+      "start": 3060.64,
+      "duration": 6.24
+    },
+    {
+      "text": "cellular energy. So, uh, it was under",
+      "start": 3063.52,
+      "duration": 5.599
+    },
+    {
+      "text": "his supervision that the NAD+ levels",
+      "start": 3066.88,
+      "duration": 4.719
+    },
+    {
+      "text": "were were measured and, uh, we couldn't",
+      "start": 3069.119,
+      "duration": 6.081
+    },
+    {
+      "text": "have had a better person do that.",
+      "start": 3071.599,
+      "duration": 5.361
+    },
+    {
+      "text": ">> Yeah, we had a really a really great",
+      "start": 3075.2,
+      "duration": 4.24
+    },
+    {
+      "text": "team of investigators, uh, working on",
+      "start": 3076.96,
+      "duration": 4.08
+    },
+    {
+      "text": "this.",
+      "start": 3079.44,
+      "duration": 3.04
+    },
+    {
+      "text": ">> And I guess that's the thing with the",
+      "start": 3081.04,
+      "duration": 3.039
+    },
+    {
+      "text": "research project, isn't it? You know,",
+      "start": 3082.48,
+      "duration": 4.48
+    },
+    {
+      "text": "it's like it is it is a team and I guess",
+      "start": 3084.079,
+      "duration": 5.441
+    },
+    {
+      "text": "that team includes your, you know, your",
+      "start": 3086.96,
+      "duration": 4.08
+    },
+    {
+      "text": "participants as well because you can't",
+      "start": 3089.52,
+      "duration": 4.16
+    },
+    {
+      "text": "do it without them. And um you know it's",
+      "start": 3091.04,
+      "duration": 5.44
+    },
+    {
+      "text": "a a big joint effort I suppose isn't it",
+      "start": 3093.68,
+      "duration": 6.32
+    },
+    {
+      "text": "to make it a success and um I can't",
+      "start": 3096.48,
+      "duration": 5.599
+    },
+    {
+      "text": "remember who it was that that said to me",
+      "start": 3100.0,
+      "duration": 5.119
+    },
+    {
+      "text": "but um it was someone who worked in",
+      "start": 3102.079,
+      "duration": 5.52
+    },
+    {
+      "text": "research and they said actually whether",
+      "start": 3105.119,
+      "duration": 4.801
+    },
+    {
+      "text": "you get a positive result or a negative",
+      "start": 3107.599,
+      "duration": 4.801
+    },
+    {
+      "text": "result in your research it doesn't",
+      "start": 3109.92,
+      "duration": 3.679
+    },
+    {
+      "text": "matter because it still gives you",
+      "start": 3112.4,
+      "duration": 3.439
+    },
+    {
+      "text": "information. Um so it either tells you",
+      "start": 3113.599,
+      "duration": 4.161
+    },
+    {
+      "text": "okay this does work or this doesn't work",
+      "start": 3115.839,
+      "duration": 4.161
+    },
+    {
+      "text": "but it's still you know it's still solid",
+      "start": 3117.76,
+      "duration": 4.319
+    },
+    {
+      "text": "information. Um and actually you guys",
+      "start": 3120.0,
+      "duration": 3.839
+    },
+    {
+      "text": "seem to have had a positive result",
+      "start": 3122.079,
+      "duration": 4.961
+    },
+    {
+      "text": "certainly um with with some people. So",
+      "start": 3123.839,
+      "duration": 4.72
+    },
+    {
+      "text": "that's that's really cool.",
+      "start": 3127.04,
+      "duration": 3.039
+    },
+    {
+      "text": ">> And you know in 10 weeks isn't that long",
+      "start": 3128.559,
+      "duration": 2.961
+    },
+    {
+      "text": "a time to get a result.",
+      "start": 3130.079,
+      "duration": 3.121
+    },
+    {
+      "text": ">> Absolutely.",
+      "start": 3131.52,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Um",
+      "start": 3133.2,
+      "duration": 3.52
+    },
+    {
+      "text": "even before this study I was telling",
+      "start": 3134.8,
+      "duration": 5.279
+    },
+    {
+      "text": "folks who had long co to try to try this",
+      "start": 3136.72,
+      "duration": 5.04
+    },
+    {
+      "text": "you know say look there's no clinical",
+      "start": 3140.079,
+      "duration": 4.161
+    },
+    {
+      "text": "evidence yet. There's a trial going but",
+      "start": 3141.76,
+      "duration": 4.48
+    },
+    {
+      "text": "you know there are pre-clinical lab",
+      "start": 3144.24,
+      "duration": 3.76
+    },
+    {
+      "text": "studies that can predict whether things",
+      "start": 3146.24,
+      "duration": 3.359
+    },
+    {
+      "text": "would work. And with that caveat and",
+      "start": 3148.0,
+      "duration": 3.04
+    },
+    {
+      "text": "disclaimer, you don't have clinical",
+      "start": 3149.599,
+      "duration": 3.52
+    },
+    {
+      "text": "evidence yet. You know, as soon as long",
+      "start": 3151.04,
+      "duration": 5.36
+    },
+    {
+      "text": "as it's safe and and and available, you",
+      "start": 3153.119,
+      "duration": 5.841
+    },
+    {
+      "text": "know, you can ask people to try it. And",
+      "start": 3156.4,
+      "duration": 5.28
+    },
+    {
+      "text": "and so I got lots of anecdotal data back",
+      "start": 3158.96,
+      "duration": 5.44
+    },
+    {
+      "text": "from people. And I emphasize anecdotal,",
+      "start": 3161.68,
+      "duration": 5.36
+    },
+    {
+      "text": "not clinical. Um who just said, \"Yeah,",
+      "start": 3164.4,
+      "duration": 6.159
+    },
+    {
+      "text": "this really helped me uh feel better.\"",
+      "start": 3167.04,
+      "duration": 5.76
+    },
+    {
+      "text": "And um but it's nothing like real",
+      "start": 3170.559,
+      "duration": 5.121
+    },
+    {
+      "text": "clinical data. And so Edmarie ran an",
+      "start": 3172.8,
+      "duration": 5.68
+    },
+    {
+      "text": "amazing trial.",
+      "start": 3175.68,
+      "duration": 6.879
+    },
+    {
+      "text": ">> Amazing. Um, and just just finally, you",
+      "start": 3178.48,
+      "duration": 5.44
+    },
+    {
+      "text": "mentioned something there that made me",
+      "start": 3182.559,
+      "duration": 3.28
+    },
+    {
+      "text": "think, ooh, um, you know, you said 10",
+      "start": 3183.92,
+      "duration": 4.88
+    },
+    {
+      "text": "weeks isn't very long, and it it's not.",
+      "start": 3185.839,
+      "duration": 6.24
+    },
+    {
+      "text": "Um, so is something else that you could",
+      "start": 3188.8,
+      "duration": 5.44
+    },
+    {
+      "text": "look into is, okay, what would happen if",
+      "start": 3192.079,
+      "duration": 5.121
+    },
+    {
+      "text": "they were to take it for longer? Um,",
+      "start": 3194.24,
+      "duration": 5.04
+    },
+    {
+      "text": "would they get more benefits for taking",
+      "start": 3197.2,
+      "duration": 4.96
+    },
+    {
+      "text": "it for a longer period of time?",
+      "start": 3199.28,
+      "duration": 4.96
+    },
+    {
+      "text": "I mean, keeping the NAD+ levels up,",
+      "start": 3202.16,
+      "duration": 4.88
+    },
+    {
+      "text": "right? I mean, even after five weeks,",
+      "start": 3204.24,
+      "duration": 5.2
+    },
+    {
+      "text": "the NAD+ levels are already up, right?",
+      "start": 3207.04,
+      "duration": 3.2
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 3209.44,
+      "duration": 3.2
+    },
+    {
+      "text": ">> And like three-fold. And so, that's",
+      "start": 3210.24,
+      "duration": 3.44
+    },
+    {
+      "text": "pretty darn good.",
+      "start": 3212.64,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Certainly.",
+      "start": 3213.68,
+      "duration": 2.96
+    },
+    {
+      "text": ">> If if if if that's going to be",
+      "start": 3214.24,
+      "duration": 4.4
+    },
+    {
+      "text": ">> the thing you need to do to to feel",
+      "start": 3216.64,
+      "duration": 5.28
+    },
+    {
+      "text": "better and to alleviate the symptoms.",
+      "start": 3218.64,
+      "duration": 7.28
+    },
+    {
+      "text": ">> Yeah. And is there like an upper level",
+      "start": 3221.92,
+      "duration": 7.76
+    },
+    {
+      "text": "of how much NAD is kind of okay in the",
+      "start": 3225.92,
+      "duration": 7.28
+    },
+    {
+      "text": "body? like if you were to keep taking it",
+      "start": 3229.68,
+      "duration": 5.439
+    },
+    {
+      "text": "when actually your levels were already",
+      "start": 3233.2,
+      "duration": 4.0
+    },
+    {
+      "text": "high, would that potentially be",
+      "start": 3235.119,
+      "duration": 4.401
+    },
+    {
+      "text": "dangerous or is that not something that",
+      "start": 3237.2,
+      "duration": 4.8
+    },
+    {
+      "text": "you'd need to worry about?",
+      "start": 3239.52,
+      "duration": 4.96
+    },
+    {
+      "text": ">> I would say take the recommended dose of",
+      "start": 3242.0,
+      "duration": 4.88
+    },
+    {
+      "text": "Niogen again, you know, not not what was",
+      "start": 3244.48,
+      "duration": 6.0
+    },
+    {
+      "text": "used here. And you know, if you're using",
+      "start": 3246.88,
+      "duration": 7.6
+    },
+    {
+      "text": "Niogen or nicotine ribocide every day at",
+      "start": 3250.48,
+      "duration": 5.119
+    },
+    {
+      "text": "the recommended dose, then you're going",
+      "start": 3254.48,
+      "duration": 4.079
+    },
+    {
+      "text": "to keep those NAD plus levels higher.",
+      "start": 3255.599,
+      "duration": 6.0
+    },
+    {
+      "text": "There are lots of studies suggesting it",
+      "start": 3258.559,
+      "duration": 4.961
+    },
+    {
+      "text": "can help with resilience to cancer and",
+      "start": 3261.599,
+      "duration": 6.561
+    },
+    {
+      "text": "other diseases. Um,",
+      "start": 3263.52,
+      "duration": 6.799
+    },
+    {
+      "text": "but you don't want to take too much. I",
+      "start": 3268.16,
+      "duration": 3.439
+    },
+    {
+      "text": "think it's it's difference is the",
+      "start": 3270.319,
+      "duration": 2.401
+    },
+    {
+      "text": "difference between taking too high a",
+      "start": 3271.599,
+      "duration": 3.601
+    },
+    {
+      "text": "dose versus just having it on a daily",
+      "start": 3272.72,
+      "duration": 4.639
+    },
+    {
+      "text": "basis to maintain your NAD plus levels,",
+      "start": 3275.2,
+      "duration": 3.52
+    },
+    {
+      "text": "especially if you're older when they",
+      "start": 3277.359,
+      "duration": 3.76
+    },
+    {
+      "text": "naturally start the NAD levels naturally",
+      "start": 3278.72,
+      "duration": 4.639
+    },
+    {
+      "text": "start to decline.",
+      "start": 3281.119,
+      "duration": 4.641
+    },
+    {
+      "text": "And something that I think is relevant",
+      "start": 3283.359,
+      "duration": 5.521
+    },
+    {
+      "text": "too is that um when our participants",
+      "start": 3285.76,
+      "duration": 5.52
+    },
+    {
+      "text": "started the trial, we asked them to stop",
+      "start": 3288.88,
+      "duration": 7.12
+    },
+    {
+      "text": "taking anything that had an R or nascin",
+      "start": 3291.28,
+      "duration": 7.279
+    },
+    {
+      "text": "or anything like that because then we",
+      "start": 3296.0,
+      "duration": 5.2
+    },
+    {
+      "text": "had no control over,",
+      "start": 3298.559,
+      "duration": 5.681
+    },
+    {
+      "text": "you know, how much uh NR they were uh",
+      "start": 3301.2,
+      "duration": 4.879
+    },
+    {
+      "text": "consuming. Therefore, that could",
+      "start": 3304.24,
+      "duration": 4.0
+    },
+    {
+      "text": "definitely potentially change our",
+      "start": 3306.079,
+      "duration": 5.52
+    },
+    {
+      "text": "results. Um, so these individuals were",
+      "start": 3308.24,
+      "duration": 6.079
+    },
+    {
+      "text": "taking those 2,000 milligrams of NR and",
+      "start": 3311.599,
+      "duration": 5.841
+    },
+    {
+      "text": "not anything else that could that like",
+      "start": 3314.319,
+      "duration": 5.681
+    },
+    {
+      "text": "nice and I think it's pre-workouts. I",
+      "start": 3317.44,
+      "duration": 5.36
+    },
+    {
+      "text": "have a lot of nice so you know they",
+      "start": 3320.0,
+      "duration": 5.839
+    },
+    {
+      "text": "couldn't they had to stop.",
+      "start": 3322.8,
+      "duration": 4.96
+    },
+    {
+      "text": "This was the most successful trial I",
+      "start": 3325.839,
+      "duration": 3.681
+    },
+    {
+      "text": "we've had for the McCann Center with",
+      "start": 3327.76,
+      "duration": 3.92
+    },
+    {
+      "text": "Edmarie and the Alzheimer one was at",
+      "start": 3329.52,
+      "duration": 4.64
+    },
+    {
+      "text": "least a good beginning for a trial needs",
+      "start": 3331.68,
+      "duration": 3.84
+    },
+    {
+      "text": "a bigger one.",
+      "start": 3334.16,
+      "duration": 3.439
+    },
+    {
+      "text": ">> But you know I do I would love to see",
+      "start": 3335.52,
+      "duration": 4.0
+    },
+    {
+      "text": "more trials and in fact hopefully in",
+      "start": 3337.599,
+      "duration": 4.641
+    },
+    {
+      "text": "collaboration with Emarie at Ruckers now",
+      "start": 3339.52,
+      "duration": 6.72
+    },
+    {
+      "text": "you know where we um add adden",
+      "start": 3342.24,
+      "duration": 7.119
+    },
+    {
+      "text": "add it to other um supplements that can",
+      "start": 3346.24,
+      "duration": 4.879
+    },
+    {
+      "text": "work synergistically with it.",
+      "start": 3349.359,
+      "duration": 3.681
+    },
+    {
+      "text": ">> Yes. And you know as you mentioned at",
+      "start": 3351.119,
+      "duration": 4.321
+    },
+    {
+      "text": "the beginning um Jackie some a lot of",
+      "start": 3353.04,
+      "duration": 4.16
+    },
+    {
+      "text": "these individuals are taking other",
+      "start": 3355.44,
+      "duration": 3.52
+    },
+    {
+      "text": "supplements. I think this is very",
+      "start": 3357.2,
+      "duration": 4.879
+    },
+    {
+      "text": "relevant to this population too um who",
+      "start": 3358.96,
+      "duration": 5.359
+    },
+    {
+      "text": "is not only taking NR they're already",
+      "start": 3362.079,
+      "duration": 4.24
+    },
+    {
+      "text": "combining this with other supplements.",
+      "start": 3364.319,
+      "duration": 3.841
+    },
+    {
+      "text": "So, I think that's definitely a really",
+      "start": 3366.319,
+      "duration": 4.961
+    },
+    {
+      "text": "important question and actually uh",
+      "start": 3368.16,
+      "duration": 5.439
+    },
+    {
+      "text": "that's one of the reasons why I love",
+      "start": 3371.28,
+      "duration": 4.559
+    },
+    {
+      "text": "working with participants because you",
+      "start": 3373.599,
+      "duration": 4.801
+    },
+    {
+      "text": "learn so much from them, right? you you",
+      "start": 3375.839,
+      "duration": 4.401
+    },
+    {
+      "text": "think you know reading articles and",
+      "start": 3378.4,
+      "duration": 3.52
+    },
+    {
+      "text": "whatnot, but it's not really until you",
+      "start": 3380.24,
+      "duration": 3.44
+    },
+    {
+      "text": "interact with them that you really get",
+      "start": 3381.92,
+      "duration": 5.12
+    },
+    {
+      "text": "to see, okay, this is what's really",
+      "start": 3383.68,
+      "duration": 5.84
+    },
+    {
+      "text": "impairing or interfering with their",
+      "start": 3387.04,
+      "duration": 4.24
+    },
+    {
+      "text": "daily activities or, you know, a lot of",
+      "start": 3389.52,
+      "duration": 4.319
+    },
+    {
+      "text": "people have a lot of insight on what's",
+      "start": 3391.28,
+      "duration": 5.6
+    },
+    {
+      "text": "happening and so you get a lot of ideas",
+      "start": 3393.839,
+      "duration": 5.76
+    },
+    {
+      "text": "by just talking to them. Yeah.",
+      "start": 3396.88,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Yeah. And it's that sort of true",
+      "start": 3399.599,
+      "duration": 3.041
+    },
+    {
+      "text": "collaboration, isn't it? Which is just",
+      "start": 3400.96,
+      "duration": 3.839
+    },
+    {
+      "text": "really beautiful, guys. I'm really",
+      "start": 3402.64,
+      "duration": 4.719
+    },
+    {
+      "text": "excited to see what comes next. And you",
+      "start": 3404.799,
+      "duration": 3.841
+    },
+    {
+      "text": "know, one of the things I've learned",
+      "start": 3407.359,
+      "duration": 3.841
+    },
+    {
+      "text": "from speaking to doctors and researchers",
+      "start": 3408.64,
+      "duration": 5.28
+    },
+    {
+      "text": "like yourselves is that one research",
+      "start": 3411.2,
+      "duration": 4.399
+    },
+    {
+      "text": "study is the launch pad for the next",
+      "start": 3413.92,
+      "duration": 5.04
+    },
+    {
+      "text": "one. So it'll be really exciting to see",
+      "start": 3415.599,
+      "duration": 7.841
+    },
+    {
+      "text": "where you launch next. Um, so thank you",
+      "start": 3418.96,
+      "duration": 6.24
+    },
+    {
+      "text": "so much for being here, for giving up",
+      "start": 3423.44,
+      "duration": 3.28
+    },
+    {
+      "text": "your time, for coming and chatting to",
+      "start": 3425.2,
+      "duration": 4.56
+    },
+    {
+      "text": "me. I'll make sure that links to the",
+      "start": 3426.72,
+      "duration": 5.04
+    },
+    {
+      "text": "paper and anything else you've mentioned",
+      "start": 3429.76,
+      "duration": 3.599
+    },
+    {
+      "text": "go into the show notes. So if anyone",
+      "start": 3431.76,
+      "duration": 3.839
+    },
+    {
+      "text": "wants to follow up with that, please do",
+      "start": 3433.359,
+      "duration": 4.401
+    },
+    {
+      "text": "that. And yeah, thank you so much for",
+      "start": 3435.599,
+      "duration": 4.081
+    },
+    {
+      "text": "being here. It's been awesome.",
+      "start": 3437.76,
+      "duration": 3.76
+    },
+    {
+      "text": ">> Thank you. And thank you for joining",
+      "start": 3439.68,
+      "duration": 3.04
+    },
+    {
+      "text": "this podcast.",
+      "start": 3441.52,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Yeah, thank you very much. Thanks, Jess.",
+      "start": 3442.72,
+      "duration": 3.274
+    },
+    {
+      "text": ">> Thank you so much to all of my guests",
+      "start": 3444.4,
+      "duration": 4.0
+    },
+    {
+      "text": "[music] and to you for listening. I hope",
+      "start": 3445.994,
+      "duration": 4.406
+    },
+    {
+      "text": "you've enjoyed it or at least found it",
+      "start": 3448.4,
+      "duration": 4.88
+    },
+    {
+      "text": "useful. The Longco podcast is [music]",
+      "start": 3450.4,
+      "duration": 5.199
+    },
+    {
+      "text": "entirely self-produced and self-funded.",
+      "start": 3453.28,
+      "duration": 4.799
+    },
+    {
+      "text": "I'm doing all of this myself.",
+      "start": 3455.599,
+      "duration": 4.321
+    },
+    {
+      "text": "If you're able to, please go to",
+      "start": 3458.079,
+      "duration": 4.345
+    },
+    {
+      "text": "buymeacop.com/longcoidpod [music]",
+      "start": 3459.92,
+      "duration": 2.504
+    },
+    {
+      "text": "to help me cover the costs of hosting",
+      "start": 3463.76,
+      "duration": 3.76
+    },
+    {
+      "text": "[music] the podcast.",
+      "start": 3465.644,
+      "duration": 3.475
+    },
+    {
+      "text": "Please look out for the next episode of",
+      "start": 3467.52,
+      "duration": 4.0
+    },
+    {
+      "text": "the Longco podcast. It's available on",
+      "start": 3469.119,
+      "duration": 5.361
+    },
+    {
+      "text": "all the usual podcast hosting things.",
+      "start": 3471.52,
+      "duration": 4.64
+    },
+    {
+      "text": "And do [music] get in touch. I'd love to",
+      "start": 3474.48,
+      "duration": 5.079
+    },
+    {
+      "text": "hear from you.",
+      "start": 3476.16,
+      "duration": 3.399
+    }
+  ],
+  "metadata": {
+    "title": "196 - Cellular Recharge: Can Nicotinamide Riboside help in Long Covid Recovery?",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/d0TB0VxrUC8/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 196,
+    "title": "196 - Cellular Recharge: Can Nicotinamide Riboside help in Long Covid Recovery?",
+    "videoId": "d0TB0VxrUC8",
+    "lengthText": "58:05"
+  }
+}

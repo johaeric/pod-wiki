@@ -1,0 +1,3928 @@
+{
+  "video_id": "WAOaBnSJPRg",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.12,
+      "duration": 5.439
+    },
+    {
+      "text": "The Long coover podcast",
+      "start": 58.359,
+      "duration": 5.681
+    },
+    {
+      "text": "I am super excited today to be joined by",
+      "start": 60.559,
+      "duration": 6.721
+    },
+    {
+      "text": "Dr Marco lka and we are going to be",
+      "start": 64.04,
+      "duration": 7.64
+    },
+    {
+      "text": "talking about the nicotine test and how",
+      "start": 67.28,
+      "duration": 7.0
+    },
+    {
+      "text": "this might be helpful with long covid",
+      "start": 71.68,
+      "duration": 6.0
+    },
+    {
+      "text": "and what it actually means so a very",
+      "start": 74.28,
+      "duration": 6.56
+    },
+    {
+      "text": "warm welcome to the podcast today hello",
+      "start": 77.68,
+      "duration": 5.2
+    },
+    {
+      "text": "so yeah thank you so much for joining me",
+      "start": 80.84,
+      "duration": 4.52
+    },
+    {
+      "text": "today um would you be able to just say a",
+      "start": 82.88,
+      "duration": 5.84
+    },
+    {
+      "text": "little bit more about yourself and what",
+      "start": 85.36,
+      "duration": 5.799
+    },
+    {
+      "text": "it is that you do",
+      "start": 88.72,
+      "duration": 6.0
+    },
+    {
+      "text": "basically I'm an um normal consultant",
+      "start": 91.159,
+      "duration": 7.121
+    },
+    {
+      "text": "working in a hospital dealing with uh",
+      "start": 94.72,
+      "duration": 6.28
+    },
+    {
+      "text": "intensive care and narcotics",
+      "start": 98.28,
+      "duration": 7.36
+    },
+    {
+      "text": "actually and um my research field um",
+      "start": 101.0,
+      "duration": 8.56
+    },
+    {
+      "text": "is basically uh septica which means",
+      "start": 105.64,
+      "duration": 7.28
+    },
+    {
+      "text": "critically ill patients um on",
+      "start": 109.56,
+      "duration": 5.839
+    },
+    {
+      "text": "ICU ws",
+      "start": 112.92,
+      "duration": 6.36
+    },
+    {
+      "text": "and yes uh I came along uh the specialty",
+      "start": 115.399,
+      "duration": 6.441
+    },
+    {
+      "text": "of a du covid infections and we saw",
+      "start": 119.28,
+      "duration": 6.04
+    },
+    {
+      "text": "along the pandemic phases terrible and",
+      "start": 121.84,
+      "duration": 7.8
+    },
+    {
+      "text": "horrible scenes and very critically old",
+      "start": 125.32,
+      "duration": 7.16
+    },
+    {
+      "text": "patients and that's how I came across",
+      "start": 129.64,
+      "duration": 6.679
+    },
+    {
+      "text": "researching for acute covid and by the",
+      "start": 132.48,
+      "duration": 6.28
+    },
+    {
+      "text": "way I found out that there are very very",
+      "start": 136.319,
+      "duration": 3.401
+    },
+    {
+      "text": "much",
+      "start": 138.76,
+      "duration": 4.08
+    },
+    {
+      "text": "similarities acute covid and septicemia",
+      "start": 139.72,
+      "duration": 4.159
+    },
+    {
+      "text": "or",
+      "start": 142.84,
+      "duration": 5.28
+    },
+    {
+      "text": "sepsis so you were seeing acute Co in",
+      "start": 143.879,
+      "duration": 9.44
+    },
+    {
+      "text": "your day toay like any ICU worker did",
+      "start": 148.12,
+      "duration": 9.8
+    },
+    {
+      "text": "yes so what brought you from there into",
+      "start": 153.319,
+      "duration": 8.241
+    },
+    {
+      "text": "the long Co world the clinical picture",
+      "start": 157.92,
+      "duration": 6.8
+    },
+    {
+      "text": "is quite comparable from critically or",
+      "start": 161.56,
+      "duration": 6.56
+    },
+    {
+      "text": "or severe causes of covid-19 with",
+      "start": 164.72,
+      "duration": 6.0
+    },
+    {
+      "text": "ventilation with organ damage with",
+      "start": 168.12,
+      "duration": 6.28
+    },
+    {
+      "text": "ferality uh in lots of cases and",
+      "start": 170.72,
+      "duration": 8.439
+    },
+    {
+      "text": "um yes the time before sasov 2 I was",
+      "start": 174.4,
+      "duration": 7.6
+    },
+    {
+      "text": "researching for for septic or critically",
+      "start": 179.159,
+      "duration": 5.601
+    },
+    {
+      "text": "ill situations and I came across",
+      "start": 182.0,
+      "duration": 5.599
+    },
+    {
+      "text": "nicotinic a receptors which is my",
+      "start": 184.76,
+      "duration": 6.479
+    },
+    {
+      "text": "speciality and um yes um the link was",
+      "start": 187.599,
+      "duration": 7.241
+    },
+    {
+      "text": "quite um was not so far to go uh this",
+      "start": 191.239,
+      "duration": 5.761
+    },
+    {
+      "text": "step so you were seeing the sort of",
+      "start": 194.84,
+      "duration": 7.52
+    },
+    {
+      "text": "commonalities between the two yes yes so",
+      "start": 197.0,
+      "duration": 7.599
+    },
+    {
+      "text": "I'm really excited to kind of talk all",
+      "start": 202.36,
+      "duration": 5.519
+    },
+    {
+      "text": "about what you've been doing but before",
+      "start": 204.599,
+      "duration": 6.121
+    },
+    {
+      "text": "we do that are you to kind of talk a",
+      "start": 207.879,
+      "duration": 4.121
+    },
+    {
+      "text": "little bit",
+      "start": 210.72,
+      "duration": 3.36
+    },
+    {
+      "text": "about what is",
+      "start": 212.0,
+      "duration": 4.76
+    },
+    {
+      "text": "nicotine what are these receptors that",
+      "start": 214.08,
+      "duration": 5.12
+    },
+    {
+      "text": "you just mentioned um what what does",
+      "start": 216.76,
+      "duration": 4.52
+    },
+    {
+      "text": "that actually sort of mean in terms of",
+      "start": 219.2,
+      "duration": 6.319
+    },
+    {
+      "text": "the body I start with the receptors um",
+      "start": 221.28,
+      "duration": 7.0
+    },
+    {
+      "text": "our autonomic nervous system um",
+      "start": 225.519,
+      "duration": 5.72
+    },
+    {
+      "text": "especially the vagal or recovery",
+      "start": 228.28,
+      "duration": 6.12
+    },
+    {
+      "text": "recovery part we have a syus and we have",
+      "start": 231.239,
+      "duration": 8.0
+    },
+    {
+      "text": "a vas fraction and the VAS fraction is",
+      "start": 234.4,
+      "duration": 5.88
+    },
+    {
+      "text": "mainly",
+      "start": 239.239,
+      "duration": 4.0
+    },
+    {
+      "text": "operated by atisine receptors and we",
+      "start": 240.28,
+      "duration": 5.64
+    },
+    {
+      "text": "have muscarinic receptors and nicotinic",
+      "start": 243.239,
+      "duration": 7.241
+    },
+    {
+      "text": "receptors they are called that because",
+      "start": 245.92,
+      "duration": 6.679
+    },
+    {
+      "text": "the one fraction reacts to muscarine",
+      "start": 250.48,
+      "duration": 6.68
+    },
+    {
+      "text": "which is a but a poison um um of several",
+      "start": 252.599,
+      "duration": 7.681
+    },
+    {
+      "text": "animals I guess and the other fraction",
+      "start": 257.16,
+      "duration": 4.56
+    },
+    {
+      "text": "is called The nicotinic receptors and",
+      "start": 260.28,
+      "duration": 3.12
+    },
+    {
+      "text": "it's called that way because uh it",
+      "start": 261.72,
+      "duration": 3.52
+    },
+    {
+      "text": "reacts to nicotine and nicotine is a",
+      "start": 263.4,
+      "duration": 6.16
+    },
+    {
+      "text": "very strong Agonist or substance working",
+      "start": 265.24,
+      "duration": 9.519
+    },
+    {
+      "text": "uh very strong to this receptors and um",
+      "start": 269.56,
+      "duration": 7.8
+    },
+    {
+      "text": "especially these nicotinic receptors",
+      "start": 274.759,
+      "duration": 5.601
+    },
+    {
+      "text": "have a special meaning and nicotine is",
+      "start": 277.36,
+      "duration": 5.48
+    },
+    {
+      "text": "um actually so-called alkaloid that",
+      "start": 280.36,
+      "duration": 6.2
+    },
+    {
+      "text": "means um substance which is produced by",
+      "start": 282.84,
+      "duration": 7.16
+    },
+    {
+      "text": "plants actually to protect them from",
+      "start": 286.56,
+      "duration": 7.68
+    },
+    {
+      "text": "insects and um the problem of nicotin is",
+      "start": 290.0,
+      "duration": 7.16
+    },
+    {
+      "text": "that it's has gotten a very bad",
+      "start": 294.24,
+      "duration": 6.72
+    },
+    {
+      "text": "reputation due to uh smoking",
+      "start": 297.16,
+      "duration": 6.96
+    },
+    {
+      "text": "and uh I want to make clear that",
+      "start": 300.96,
+      "duration": 5.519
+    },
+    {
+      "text": "nicotine and smoking are two very",
+      "start": 304.12,
+      "duration": 5.48
+    },
+    {
+      "text": "different things so if you smoke",
+      "start": 306.479,
+      "duration": 6.921
+    },
+    {
+      "text": "cigarette you inhale about 8,000 poisons",
+      "start": 309.6,
+      "duration": 8.319
+    },
+    {
+      "text": "which are all prone to make you very",
+      "start": 313.4,
+      "duration": 8.04
+    },
+    {
+      "text": "sick and especially the substance",
+      "start": 317.919,
+      "duration": 5.801
+    },
+    {
+      "text": "nicotine which is the main substance of",
+      "start": 321.44,
+      "duration": 5.84
+    },
+    {
+      "text": "course on uh every",
+      "start": 323.72,
+      "duration": 6.68
+    },
+    {
+      "text": "smoking variant cigar cigarettes or",
+      "start": 327.28,
+      "duration": 5.479
+    },
+    {
+      "text": "pipes the only problem of nicotine is",
+      "start": 330.4,
+      "duration": 5.56
+    },
+    {
+      "text": "that it makes um addictive and that's",
+      "start": 332.759,
+      "duration": 6.241
+    },
+    {
+      "text": "the reason why uh so much people inhale",
+      "start": 335.96,
+      "duration": 7.64
+    },
+    {
+      "text": "8,000 poisons to get satisfied from the",
+      "start": 339.0,
+      "duration": 8.12
+    },
+    {
+      "text": "addiction but the way we applicate",
+      "start": 343.6,
+      "duration": 5.52
+    },
+    {
+      "text": "nicotine that means transdermal with",
+      "start": 347.12,
+      "duration": 4.44
+    },
+    {
+      "text": "patches is proven to be not addictive",
+      "start": 349.12,
+      "duration": 4.84
+    },
+    {
+      "text": "and for that reason I think that this",
+      "start": 351.56,
+      "duration": 5.479
+    },
+    {
+      "text": "alkaloid is a very very potential",
+      "start": 353.96,
+      "duration": 7.519
+    },
+    {
+      "text": "medical substance which is um has been",
+      "start": 357.039,
+      "duration": 6.921
+    },
+    {
+      "text": "prevented from use for years and years",
+      "start": 361.479,
+      "duration": 4.881
+    },
+    {
+      "text": "actually we could have been far better",
+      "start": 363.96,
+      "duration": 4.92
+    },
+    {
+      "text": "developed uh procedures to use this",
+      "start": 366.36,
+      "duration": 5.2
+    },
+    {
+      "text": "substance uh just because of the bad",
+      "start": 368.88,
+      "duration": 5.56
+    },
+    {
+      "text": "reputation we just avoid to use nicotine",
+      "start": 371.56,
+      "duration": 5.28
+    },
+    {
+      "text": "which is a Pity yeah and that is",
+      "start": 374.44,
+      "duration": 5.12
+    },
+    {
+      "text": "interesting because as you say most",
+      "start": 376.84,
+      "duration": 5.16
+    },
+    {
+      "text": "people will associate nicotine with",
+      "start": 379.56,
+      "duration": 6.72
+    },
+    {
+      "text": "cigarettes and therefore with bad Health",
+      "start": 382.0,
+      "duration": 7.28
+    },
+    {
+      "text": "with addiction with you know things that",
+      "start": 386.28,
+      "duration": 6.52
+    },
+    {
+      "text": "we don't really want for our health um",
+      "start": 389.28,
+      "duration": 6.639
+    },
+    {
+      "text": "so it's really interesting that actually",
+      "start": 392.8,
+      "duration": 5.72
+    },
+    {
+      "text": "nicotine itself doesn't have to be",
+      "start": 395.919,
+      "duration": 5.56
+    },
+    {
+      "text": "associated with that um you said that",
+      "start": 398.52,
+      "duration": 5.36
+    },
+    {
+      "text": "nicotine in the way that you're using it",
+      "start": 401.479,
+      "duration": 6.16
+    },
+    {
+      "text": "isn't addictive do you know why why it's",
+      "start": 403.88,
+      "duration": 6.96
+    },
+    {
+      "text": "not addictive in that form I try to",
+      "start": 407.639,
+      "duration": 6.96
+    },
+    {
+      "text": "explain it um if you inhale from a",
+      "start": 410.84,
+      "duration": 7.039
+    },
+    {
+      "text": "cigarette the substances you inhale",
+      "start": 414.599,
+      "duration": 5.641
+    },
+    {
+      "text": "getting through your lungs in the",
+      "start": 417.879,
+      "duration": 6.16
+    },
+    {
+      "text": "so-called uh Pinal vessels which means",
+      "start": 420.24,
+      "duration": 8.12
+    },
+    {
+      "text": "that they are uh within six uh up to 10",
+      "start": 424.039,
+      "duration": 7.481
+    },
+    {
+      "text": "seconds up to your brain which releases",
+      "start": 428.36,
+      "duration": 8.8
+    },
+    {
+      "text": "a lot of dopamine in your um vagal",
+      "start": 431.52,
+      "duration": 8.2
+    },
+    {
+      "text": "vental pigmental area and then nucleus",
+      "start": 437.16,
+      "duration": 6.0
+    },
+    {
+      "text": "akumin which are two areas which are",
+      "start": 439.72,
+      "duration": 7.52
+    },
+    {
+      "text": "addiction related especially to dopamine",
+      "start": 443.16,
+      "duration": 7.36
+    },
+    {
+      "text": "release and if you apply the substance",
+      "start": 447.24,
+      "duration": 6.28
+    },
+    {
+      "text": "via the skin it wents through your Venus",
+      "start": 450.52,
+      "duration": 6.32
+    },
+    {
+      "text": "system not the pulmonary uh vessels but",
+      "start": 453.52,
+      "duration": 6.239
+    },
+    {
+      "text": "the Venus system the rise within the",
+      "start": 456.84,
+      "duration": 6.079
+    },
+    {
+      "text": "blood the concentration within blood",
+      "start": 459.759,
+      "duration": 5.4
+    },
+    {
+      "text": "Rises very slowly which gives the body",
+      "start": 462.919,
+      "duration": 6.481
+    },
+    {
+      "text": "the chance first to for instance secrate",
+      "start": 465.159,
+      "duration": 6.88
+    },
+    {
+      "text": "so-called mono Amino oxidases which are",
+      "start": 469.4,
+      "duration": 5.12
+    },
+    {
+      "text": "substances to reduce dopamine for",
+      "start": 472.039,
+      "duration": 5.84
+    },
+    {
+      "text": "instance and which releases dopamine",
+      "start": 474.52,
+      "duration": 6.2
+    },
+    {
+      "text": "very very slowly which is not able to",
+      "start": 477.879,
+      "duration": 5.401
+    },
+    {
+      "text": "provoke addictiveness that's why patches",
+      "start": 480.72,
+      "duration": 5.8
+    },
+    {
+      "text": "are used to prevent smoking they are",
+      "start": 483.28,
+      "duration": 5.919
+    },
+    {
+      "text": "actually fight us again Against",
+      "start": 486.52,
+      "duration": 5.04
+    },
+    {
+      "text": "Addiction right so it's to do with the",
+      "start": 489.199,
+      "duration": 3.801
+    },
+    {
+      "text": "slower",
+      "start": 491.56,
+      "duration": 4.359
+    },
+    {
+      "text": "release yes yes and the other the other",
+      "start": 493.0,
+      "duration": 5.4
+    },
+    {
+      "text": "root the root is especially is if you if",
+      "start": 495.919,
+      "duration": 5.0
+    },
+    {
+      "text": "you inhale something uh it is up to your",
+      "start": 498.4,
+      "duration": 4.519
+    },
+    {
+      "text": "brain and up to your arterial blood flow",
+      "start": 500.919,
+      "duration": 6.481
+    },
+    {
+      "text": "within seconds and uh if you give it via",
+      "start": 502.919,
+      "duration": 7.641
+    },
+    {
+      "text": "transdermal pathway uh it takes",
+      "start": 507.4,
+      "duration": 5.759
+    },
+    {
+      "text": "up to one",
+      "start": 510.56,
+      "duration": 5.12
+    },
+    {
+      "text": "minute so that's that's the great",
+      "start": 513.159,
+      "duration": 5.76
+    },
+    {
+      "text": "difference and it goes not directly to",
+      "start": 515.68,
+      "duration": 5.919
+    },
+    {
+      "text": "your brain but via the liver that means",
+      "start": 518.919,
+      "duration": 6.201
+    },
+    {
+      "text": "liver means always it is catabolized",
+      "start": 521.599,
+      "duration": 6.641
+    },
+    {
+      "text": "so it's completely different kind of of",
+      "start": 525.12,
+      "duration": 5.52
+    },
+    {
+      "text": "given so you can compare it with",
+      "start": 528.24,
+      "duration": 7.08
+    },
+    {
+      "text": "intravenous injection and um pestle it's",
+      "start": 530.64,
+      "duration": 10.16
+    },
+    {
+      "text": "fascinating um and like the the dosage",
+      "start": 535.32,
+      "duration": 7.56
+    },
+    {
+      "text": "for one of a better word how does the",
+      "start": 540.8,
+      "duration": 6.0
+    },
+    {
+      "text": "dosage of the patch compare to smoking a",
+      "start": 542.88,
+      "duration": 6.48
+    },
+    {
+      "text": "couple of cigarettes for example the",
+      "start": 546.8,
+      "duration": 5.64
+    },
+    {
+      "text": "special thing is that um if you look",
+      "start": 549.36,
+      "duration": 7.599
+    },
+    {
+      "text": "around you will find um only extreme",
+      "start": 552.44,
+      "duration": 7.56
+    },
+    {
+      "text": "small minority among LC or long Co",
+      "start": 556.959,
+      "duration": 6.681
+    },
+    {
+      "text": "patients which are smokers so the they",
+      "start": 560.0,
+      "duration": 6.839
+    },
+    {
+      "text": "are all nicotine knif the patients which",
+      "start": 563.64,
+      "duration": 7.56
+    },
+    {
+      "text": "are suffering so that the dosage you",
+      "start": 566.839,
+      "duration": 6.0
+    },
+    {
+      "text": "cannot compare",
+      "start": 571.2,
+      "duration": 6.44
+    },
+    {
+      "text": "to smoking cigarettes or you even cannot",
+      "start": 572.839,
+      "duration": 7.401
+    },
+    {
+      "text": "compare one long Co patient with the",
+      "start": 577.64,
+      "duration": 6.759
+    },
+    {
+      "text": "other because some are very sensitive to",
+      "start": 580.24,
+      "duration": 8.159
+    },
+    {
+      "text": "any substance and the others can do uh",
+      "start": 584.399,
+      "duration": 8.68
+    },
+    {
+      "text": "without problems greater dosages so my",
+      "start": 588.399,
+      "duration": 9.481
+    },
+    {
+      "text": "advice uh for now is that we",
+      "start": 593.079,
+      "duration": 10.44
+    },
+    {
+      "text": "should use the smallest dosages on um",
+      "start": 597.88,
+      "duration": 7.36
+    },
+    {
+      "text": "nicotine patches which are available",
+      "start": 603.519,
+      "duration": 4.32
+    },
+    {
+      "text": "which is actually about seven or 7.5",
+      "start": 605.24,
+      "duration": 5.48
+    },
+    {
+      "text": "milligrams per 24 hours and these should",
+      "start": 607.839,
+      "duration": 5.961
+    },
+    {
+      "text": "be divided not by cutting but by",
+      "start": 610.72,
+      "duration": 5.4
+    },
+    {
+      "text": "covering this is of importance because",
+      "start": 613.8,
+      "duration": 3.96
+    },
+    {
+      "text": "the Gil Matrix which",
+      "start": 616.12,
+      "duration": 4.76
+    },
+    {
+      "text": "is providing the slow release of the",
+      "start": 617.76,
+      "duration": 4.96
+    },
+    {
+      "text": "substance and if you cut the patch you",
+      "start": 620.88,
+      "duration": 5.72
+    },
+    {
+      "text": "will destroy the Matrix and so you don't",
+      "start": 622.72,
+      "duration": 7.32
+    },
+    {
+      "text": "have ability to control the the dosage",
+      "start": 626.6,
+      "duration": 4.919
+    },
+    {
+      "text": "per per",
+      "start": 630.04,
+      "duration": 5.76
+    },
+    {
+      "text": "time so I actually advise to use first",
+      "start": 631.519,
+      "duration": 8.281
+    },
+    {
+      "text": "line um a quarter or a half of the the",
+      "start": 635.8,
+      "duration": 6.279
+    },
+    {
+      "text": "lowest dosage that means",
+      "start": 639.8,
+      "duration": 4.479
+    },
+    {
+      "text": "1.75 or",
+      "start": 642.079,
+      "duration": 5.801
+    },
+    {
+      "text": "3.5 milligrams for 24 hours and this to",
+      "start": 644.279,
+      "duration": 5.12
+    },
+    {
+      "text": "become",
+      "start": 647.88,
+      "duration": 4.44
+    },
+    {
+      "text": "habituated for three up to five days and",
+      "start": 649.399,
+      "duration": 4.481
+    },
+    {
+      "text": "then to go",
+      "start": 652.32,
+      "duration": 5.8
+    },
+    {
+      "text": "up so the question I ask very often is",
+      "start": 653.88,
+      "duration": 6.639
+    },
+    {
+      "text": "uh should I and larger doses I don't",
+      "start": 658.12,
+      "duration": 6.64
+    },
+    {
+      "text": "feel a real Improvement and my opinion",
+      "start": 660.519,
+      "duration": 5.161
+    },
+    {
+      "text": "is",
+      "start": 664.76,
+      "duration": 4.72
+    },
+    {
+      "text": "that it's rather a question of time than",
+      "start": 665.68,
+      "duration": 6.719
+    },
+    {
+      "text": "a question of dosage so you should avoid",
+      "start": 669.48,
+      "duration": 5.64
+    },
+    {
+      "text": "to I I know the feeling of a lot of",
+      "start": 672.399,
+      "duration": 4.24
+    },
+    {
+      "text": "people which are suffering for years and",
+      "start": 675.12,
+      "duration": 5.12
+    },
+    {
+      "text": "years and years and any expert is",
+      "start": 676.639,
+      "duration": 6.121
+    },
+    {
+      "text": "uh helplessly looking and so I can't",
+      "start": 680.24,
+      "duration": 6.08
+    },
+    {
+      "text": "help you so uh they they want to get rid",
+      "start": 682.76,
+      "duration": 6.68
+    },
+    {
+      "text": "of the problem as soon as possible but",
+      "start": 686.32,
+      "duration": 7.519
+    },
+    {
+      "text": "it's more a a longterm run than a Sprint",
+      "start": 689.44,
+      "duration": 7.12
+    },
+    {
+      "text": "for that reason I think you should avoid",
+      "start": 693.839,
+      "duration": 5.041
+    },
+    {
+      "text": "overdosage because nicotine is a very",
+      "start": 696.56,
+      "duration": 4.12
+    },
+    {
+      "text": "very effective",
+      "start": 698.88,
+      "duration": 5.639
+    },
+    {
+      "text": "substance and uh overdosage doesn't feel",
+      "start": 700.68,
+      "duration": 6.56
+    },
+    {
+      "text": "right very comfortable for that reason I",
+      "start": 704.519,
+      "duration": 6.44
+    },
+    {
+      "text": "think it's better to use uh the patches",
+      "start": 707.24,
+      "duration": 6.32
+    },
+    {
+      "text": "at the seven",
+      "start": 710.959,
+      "duration": 5.601
+    },
+    {
+      "text": "milligram in Brackets up to 140",
+      "start": 713.56,
+      "duration": 5.519
+    },
+    {
+      "text": "milligram in some cases um for a longer",
+      "start": 716.56,
+      "duration": 4.959
+    },
+    {
+      "text": "time time than to use it",
+      "start": 719.079,
+      "duration": 5.641
+    },
+    {
+      "text": "for shorter time with up to 21",
+      "start": 721.519,
+      "duration": 5.801
+    },
+    {
+      "text": "milligrams that is not advisable yeah I",
+      "start": 724.72,
+      "duration": 4.32
+    },
+    {
+      "text": "mean that totally makes sense you know",
+      "start": 727.32,
+      "duration": 3.6
+    },
+    {
+      "text": "we we see that with with all sorts of",
+      "start": 729.04,
+      "duration": 4.039
+    },
+    {
+      "text": "things you know everybody is different",
+      "start": 730.92,
+      "duration": 5.64
+    },
+    {
+      "text": "as a starting point I want to say You",
+      "start": 733.079,
+      "duration": 7.081
+    },
+    {
+      "text": "must imagine that your your body has um",
+      "start": 736.56,
+      "duration": 7.32
+    },
+    {
+      "text": "10 billion cells around 10 billion cells",
+      "start": 740.16,
+      "duration": 7.479
+    },
+    {
+      "text": "and this is proven any cell each cell",
+      "start": 743.88,
+      "duration": 8.44
+    },
+    {
+      "text": "has such acine receptors and up to",
+      "start": 747.639,
+      "duration": 8.64
+    },
+    {
+      "text": "12,000 per cell you that means 12,000",
+      "start": 752.32,
+      "duration": 7.199
+    },
+    {
+      "text": "receptors per 10 billion",
+      "start": 756.279,
+      "duration": 6.761
+    },
+    {
+      "text": "cells means any of these receptors could",
+      "start": 759.519,
+      "duration": 7.56
+    },
+    {
+      "text": "be blocked so you can imagine if you",
+      "start": 763.04,
+      "duration": 7.599
+    },
+    {
+      "text": "take this substance for for one day or",
+      "start": 767.079,
+      "duration": 7.601
+    },
+    {
+      "text": "what time could have been um necessary",
+      "start": 770.639,
+      "duration": 8.081
+    },
+    {
+      "text": "to get rid of the whole problem so um",
+      "start": 774.68,
+      "duration": 7.8
+    },
+    {
+      "text": "try to consider a rather long time for",
+      "start": 778.72,
+      "duration": 5.84
+    },
+    {
+      "text": "getting rid of the problem but I'm quite",
+      "start": 782.48,
+      "duration": 3.88
+    },
+    {
+      "text": "convinced that this is the approach",
+      "start": 784.56,
+      "duration": 4.12
+    },
+    {
+      "text": "which will solve the problem this is",
+      "start": 786.36,
+      "duration": 7.12
+    },
+    {
+      "text": "because M from the soan and Paris which",
+      "start": 788.68,
+      "duration": 8.48
+    },
+    {
+      "text": "is the worldwide most accepted a",
+      "start": 793.48,
+      "duration": 6.88
+    },
+    {
+      "text": "receptor Pope if one wants to call it",
+      "start": 797.16,
+      "duration": 7.08
+    },
+    {
+      "text": "like that um and he found out that there",
+      "start": 800.36,
+      "duration": 7.8
+    },
+    {
+      "text": "is a similarity in the RNA sequence of",
+      "start": 804.24,
+      "duration": 7.399
+    },
+    {
+      "text": "the spike Pro protein uh the similarity",
+      "start": 808.16,
+      "duration": 8.039
+    },
+    {
+      "text": "is in comparison to shic poisons which",
+      "start": 811.639,
+      "duration": 8.2
+    },
+    {
+      "text": "are Cobra toxine or bongar toxine for",
+      "start": 816.199,
+      "duration": 7.76
+    },
+    {
+      "text": "instance so um these poisons are due to",
+      "start": 819.839,
+      "duration": 7.521
+    },
+    {
+      "text": "their Affinity to The receptors um very",
+      "start": 823.959,
+      "duration": 8.0
+    },
+    {
+      "text": "effective poisons and um this similarity",
+      "start": 827.36,
+      "duration": 8.2
+    },
+    {
+      "text": "mimics blocking effects of these poisons",
+      "start": 831.959,
+      "duration": 7.201
+    },
+    {
+      "text": "so that's the theory behind it and",
+      "start": 835.56,
+      "duration": 7.079
+    },
+    {
+      "text": "because nicotine is known as a very for",
+      "start": 839.16,
+      "duration": 5.88
+    },
+    {
+      "text": "its very high Affinity to these",
+      "start": 842.639,
+      "duration": 5.281
+    },
+    {
+      "text": "receptors my hypothesis was that it was",
+      "start": 845.04,
+      "duration": 5.359
+    },
+    {
+      "text": "possible that nicotine could compete",
+      "start": 847.92,
+      "duration": 6.52
+    },
+    {
+      "text": "with a virus for The Binding s of The",
+      "start": 850.399,
+      "duration": 6.521
+    },
+    {
+      "text": "receptors and if you you hear",
+      "start": 854.44,
+      "duration": 6.12
+    },
+    {
+      "text": "competition means it's not not a zero1",
+      "start": 856.92,
+      "duration": 6.599
+    },
+    {
+      "text": "relationship it's more likely question",
+      "start": 860.56,
+      "duration": 6.56
+    },
+    {
+      "text": "of of time but nicotine has a 30-fold",
+      "start": 863.519,
+      "duration": 6.24
+    },
+    {
+      "text": "higher Affinity compared to a into these",
+      "start": 867.12,
+      "duration": 5.2
+    },
+    {
+      "text": "receptors so the possibility possibility",
+      "start": 869.759,
+      "duration": 5.88
+    },
+    {
+      "text": "to dislodge the virus protein from The",
+      "start": 872.32,
+      "duration": 6.759
+    },
+    {
+      "text": "receptors is quite High that's the the",
+      "start": 875.639,
+      "duration": 5.401
+    },
+    {
+      "text": "reason for this Theory or this",
+      "start": 879.079,
+      "duration": 5.361
+    },
+    {
+      "text": "hypothesis and if you look around I mean",
+      "start": 881.04,
+      "duration": 7.2
+    },
+    {
+      "text": "for now we have uh I don't know how much",
+      "start": 884.44,
+      "duration": 5.319
+    },
+    {
+      "text": "people are using the patches but it's",
+      "start": 888.24,
+      "duration": 4.2
+    },
+    {
+      "text": "worldwide and 10 thousands really really",
+      "start": 889.759,
+      "duration": 6.121
+    },
+    {
+      "text": "a lot of people which basically shows",
+      "start": 892.44,
+      "duration": 7.44
+    },
+    {
+      "text": "how great the problem is to mankind at",
+      "start": 895.88,
+      "duration": 4.959
+    },
+    {
+      "text": "the",
+      "start": 899.88,
+      "duration": 3.6
+    },
+    {
+      "text": "moment and uh we see a lot of",
+      "start": 900.839,
+      "duration": 5.0
+    },
+    {
+      "text": "improvements not straight ahead as we",
+      "start": 903.48,
+      "duration": 5.359
+    },
+    {
+      "text": "see people with these strong effects and",
+      "start": 905.839,
+      "duration": 6.68
+    },
+    {
+      "text": "we see people with uh non effects but in",
+      "start": 908.839,
+      "duration": 6.601
+    },
+    {
+      "text": "the majority a lot of people feel",
+      "start": 912.519,
+      "duration": 5.88
+    },
+    {
+      "text": "improvements it's kind of undulating in",
+      "start": 915.44,
+      "duration": 5.44
+    },
+    {
+      "text": "some cases but as I said we have 10",
+      "start": 918.399,
+      "duration": 5.0
+    },
+    {
+      "text": "billion cells and we have per cell a",
+      "start": 920.88,
+      "duration": 5.56
+    },
+    {
+      "text": "huge amount of receptors so time is the",
+      "start": 923.399,
+      "duration": 5.24
+    },
+    {
+      "text": "matter I think yeah I mean that does",
+      "start": 926.44,
+      "duration": 4.48
+    },
+    {
+      "text": "make sense that you know it will take",
+      "start": 928.639,
+      "duration": 5.481
+    },
+    {
+      "text": "time um I mean that's the same with",
+      "start": 930.92,
+      "duration": 5.76
+    },
+    {
+      "text": "everything in life isn't it generally",
+      "start": 934.12,
+      "duration": 4.24
+    },
+    {
+      "text": "but certainly with with everything that",
+      "start": 936.68,
+      "duration": 4.04
+    },
+    {
+      "text": "people are talking about with long covid",
+      "start": 938.36,
+      "duration": 4.2
+    },
+    {
+      "text": "um you know it it's kind of that Slow",
+      "start": 940.72,
+      "duration": 4.239
+    },
+    {
+      "text": "Burn of improvement whatever it is that",
+      "start": 942.56,
+      "duration": 5.279
+    },
+    {
+      "text": "someone tries whether it's nicotine or",
+      "start": 944.959,
+      "duration": 5.761
+    },
+    {
+      "text": "breathing which is my wheelhouse or",
+      "start": 947.839,
+      "duration": 4.56
+    },
+    {
+      "text": "anything else that they try you know you",
+      "start": 950.72,
+      "duration": 3.88
+    },
+    {
+      "text": "you notice that Improvement a little bit",
+      "start": 952.399,
+      "duration": 4.321
+    },
+    {
+      "text": "a little bit and then you get to dip but",
+      "start": 954.6,
+      "duration": 3.88
+    },
+    {
+      "text": "then you know that Improvement you so it",
+      "start": 956.72,
+      "duration": 2.96
+    },
+    {
+      "text": "does take",
+      "start": 958.48,
+      "duration": 4.0
+    },
+    {
+      "text": "time so you're talking about the",
+      "start": 959.68,
+      "duration": 5.76
+    },
+    {
+      "text": "receptors and the nicotine competing",
+      "start": 962.48,
+      "duration": 5.76
+    },
+    {
+      "text": "with the virus for these receptors so",
+      "start": 965.44,
+      "duration": 5.48
+    },
+    {
+      "text": "this is playing into the viral",
+      "start": 968.24,
+      "duration": 5.519
+    },
+    {
+      "text": "persistence theory is it that there's",
+      "start": 970.92,
+      "duration": 6.399
+    },
+    {
+      "text": "virus and stuff still in the body and",
+      "start": 973.759,
+      "duration": 6.2
+    },
+    {
+      "text": "that this is going to help to clear that",
+      "start": 977.319,
+      "duration": 3.801
+    },
+    {
+      "text": "is that the",
+      "start": 979.959,
+      "duration": 6.041
+    },
+    {
+      "text": "theory yes um actually you you must must",
+      "start": 981.12,
+      "duration": 6.88
+    },
+    {
+      "text": "imagine that a virus is actually nothing",
+      "start": 986.0,
+      "duration": 3.6
+    },
+    {
+      "text": "more but um",
+      "start": 988.0,
+      "duration": 5.279
+    },
+    {
+      "text": "um uh RNA or DNA",
+      "start": 989.6,
+      "duration": 7.799
+    },
+    {
+      "text": "stripe virus doesn't have any life signs",
+      "start": 993.279,
+      "duration": 7.56
+    },
+    {
+      "text": "no friends or enemies virus is just an",
+      "start": 997.399,
+      "duration": 4.721
+    },
+    {
+      "text": "strip and",
+      "start": 1000.839,
+      "duration": 4.601
+    },
+    {
+      "text": "um in the way of long that's the reason",
+      "start": 1002.12,
+      "duration": 5.68
+    },
+    {
+      "text": "why the long Co people",
+      "start": 1005.44,
+      "duration": 7.04
+    },
+    {
+      "text": "aren't High infectious or critically ill",
+      "start": 1007.8,
+      "duration": 8.32
+    },
+    {
+      "text": "and often not even recognizable as as",
+      "start": 1012.48,
+      "duration": 6.479
+    },
+    {
+      "text": "acute ill persons um which makes it",
+      "start": 1016.12,
+      "duration": 4.639
+    },
+    {
+      "text": "problem even",
+      "start": 1018.959,
+      "duration": 4.521
+    },
+    {
+      "text": "larger because within the receptors the",
+      "start": 1020.759,
+      "duration": 5.32
+    },
+    {
+      "text": "virus does does nothing but block The",
+      "start": 1023.48,
+      "duration": 6.12
+    },
+    {
+      "text": "receptors doesn't make any any chemical",
+      "start": 1026.079,
+      "duration": 7.72
+    },
+    {
+      "text": "reaction or any biological uh impact it",
+      "start": 1029.6,
+      "duration": 6.239
+    },
+    {
+      "text": "just blocks The receptors the problem is",
+      "start": 1033.799,
+      "duration": 5.64
+    },
+    {
+      "text": "that any cell of your body is regulated",
+      "start": 1035.839,
+      "duration": 6.24
+    },
+    {
+      "text": "by these receptors so if the for",
+      "start": 1039.439,
+      "duration": 4.76
+    },
+    {
+      "text": "instance the troyes are regulated the",
+      "start": 1042.079,
+      "duration": 4.641
+    },
+    {
+      "text": "arioc sites are regulated all your nerve",
+      "start": 1044.199,
+      "duration": 4.441
+    },
+    {
+      "text": "cells are regulated by these receptors",
+      "start": 1046.72,
+      "duration": 4.12
+    },
+    {
+      "text": "this",
+      "start": 1048.64,
+      "duration": 2.2
+    },
+    {
+      "text": "uh a",
+      "start": 1051.96,
+      "duration": 6.88
+    },
+    {
+      "text": "boat with a company of uh 10 billion",
+      "start": 1053.4,
+      "duration": 8.92
+    },
+    {
+      "text": "Sailors it's of extreme importance that",
+      "start": 1058.84,
+      "duration": 5.76
+    },
+    {
+      "text": "they that each of the sailors knows",
+      "start": 1062.32,
+      "duration": 4.8
+    },
+    {
+      "text": "what's going on at the moment so the",
+      "start": 1064.6,
+      "duration": 4.76
+    },
+    {
+      "text": "effectiveness of your body is extremely",
+      "start": 1067.12,
+      "duration": 5.16
+    },
+    {
+      "text": "extremely dependent of the togetherness",
+      "start": 1069.36,
+      "duration": 5.0
+    },
+    {
+      "text": "of all the cells that makes our body",
+      "start": 1072.28,
+      "duration": 5.0
+    },
+    {
+      "text": "working and if only a little fraction",
+      "start": 1074.36,
+      "duration": 6.96
+    },
+    {
+      "text": "let's say 10% or 20 % is out of the",
+      "start": 1077.28,
+      "duration": 7.04
+    },
+    {
+      "text": "information out of the whole body's",
+      "start": 1081.32,
+      "duration": 6.32
+    },
+    {
+      "text": "togetherness your body goes in a very",
+      "start": 1084.32,
+      "duration": 7.56
+    },
+    {
+      "text": "very strange way wrong and because any",
+      "start": 1087.64,
+      "duration": 6.68
+    },
+    {
+      "text": "receptor can be blocked this means the",
+      "start": 1091.88,
+      "duration": 6.32
+    },
+    {
+      "text": "vi symptomatology of the long covid",
+      "start": 1094.32,
+      "duration": 7.16
+    },
+    {
+      "text": "that's why anybody said that but we have",
+      "start": 1098.2,
+      "duration": 6.76
+    },
+    {
+      "text": "perfusion problems or we have uh chest",
+      "start": 1101.48,
+      "duration": 5.72
+    },
+    {
+      "text": "problems we have fatigue problems we",
+      "start": 1104.96,
+      "duration": 4.4
+    },
+    {
+      "text": "have nerval problems we have",
+      "start": 1107.2,
+      "duration": 6.2
+    },
+    {
+      "text": "any any specialist says well could be",
+      "start": 1109.36,
+      "duration": 5.84
+    },
+    {
+      "text": "antibodies yes we have antibodies",
+      "start": 1113.4,
+      "duration": 4.08
+    },
+    {
+      "text": "because the B lymphocytes are innovated",
+      "start": 1115.2,
+      "duration": 5.16
+    },
+    {
+      "text": "by aine receptors by nicotinic aine",
+      "start": 1117.48,
+      "duration": 5.24
+    },
+    {
+      "text": "receptors which control their production",
+      "start": 1120.36,
+      "duration": 5.84
+    },
+    {
+      "text": "of antibodies even outo antibodies so",
+      "start": 1122.72,
+      "duration": 6.56
+    },
+    {
+      "text": "anything in connection to long covid",
+      "start": 1126.2,
+      "duration": 6.4
+    },
+    {
+      "text": "could be explained by this uh receptor",
+      "start": 1129.28,
+      "duration": 5.879
+    },
+    {
+      "text": "uh hypothesis that's the reason why I",
+      "start": 1132.6,
+      "duration": 4.959
+    },
+    {
+      "text": "think it's very Worth to go on",
+      "start": 1135.159,
+      "duration": 4.321
+    },
+    {
+      "text": "especially for the fact that the",
+      "start": 1137.559,
+      "duration": 4.801
+    },
+    {
+      "text": "nicotine patches are very affordable",
+      "start": 1139.48,
+      "duration": 7.0
+    },
+    {
+      "text": "compared to hyaric oxygenation uh to uh",
+      "start": 1142.36,
+      "duration": 7.799
+    },
+    {
+      "text": "whatever I mean we have 75 million",
+      "start": 1146.48,
+      "duration": 6.28
+    },
+    {
+      "text": "people suffering worldwide it was half a",
+      "start": 1150.159,
+      "duration": 6.081
+    },
+    {
+      "text": "year ago and think it's more right now",
+      "start": 1152.76,
+      "duration": 5.2
+    },
+    {
+      "text": "how should this problem be solved with",
+      "start": 1156.24,
+      "duration": 4.88
+    },
+    {
+      "text": "with uh hyperbaric chambers to all the",
+      "start": 1157.96,
+      "duration": 6.64
+    },
+    {
+      "text": "people or uh plasma fases which is",
+      "start": 1161.12,
+      "duration": 5.24
+    },
+    {
+      "text": "extremely expensive and doesn't bring",
+      "start": 1164.6,
+      "duration": 4.68
+    },
+    {
+      "text": "anything more than three or five days",
+      "start": 1166.36,
+      "duration": 4.679
+    },
+    {
+      "text": "better uh",
+      "start": 1169.28,
+      "duration": 4.759
+    },
+    {
+      "text": "Improvement so my my opinion is uh it's",
+      "start": 1171.039,
+      "duration": 5.841
+    },
+    {
+      "text": "very Worth to look even if it's just",
+      "start": 1174.039,
+      "duration": 6.441
+    },
+    {
+      "text": "with a penetration of 30% Effectiveness",
+      "start": 1176.88,
+      "duration": 5.88
+    },
+    {
+      "text": "it's barely Worth to go that way and to",
+      "start": 1180.48,
+      "duration": 4.48
+    },
+    {
+      "text": "try",
+      "start": 1182.76,
+      "duration": 2.2
+    },
+    {
+      "text": "it we'll be right",
+      "start": 1185.08,
+      "duration": 5.32
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1188.159,
+      "duration": 4.321
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1190.4,
+      "duration": 4.36
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1192.48,
+      "duration": 3.72
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1194.76,
+      "duration": 3.44
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1196.2,
+      "duration": 4.28
+    },
+    {
+      "text": "sharing expertise and experience of the",
+      "start": 1198.2,
+      "duration": 4.12
+    },
+    {
+      "text": "breath and how incredibly helpful that",
+      "start": 1200.48,
+      "duration": 4.6
+    },
+    {
+      "text": "can be with L Co we've worked together",
+      "start": 1202.32,
+      "duration": 4.599
+    },
+    {
+      "text": "to develop a course that is specifically",
+      "start": 1205.08,
+      "duration": 4.079
+    },
+    {
+      "text": "tailored to those with L covid it's a",
+      "start": 1206.919,
+      "duration": 4.201
+    },
+    {
+      "text": "6-e course with 12 sessions all",
+      "start": 1209.159,
+      "duration": 4.52
+    },
+    {
+      "text": "delivered online the community feel and",
+      "start": 1211.12,
+      "duration": 3.919
+    },
+    {
+      "text": "learning that we're all sharing is such",
+      "start": 1213.679,
+      "duration": 3.48
+    },
+    {
+      "text": "a joy to find out more information and",
+      "start": 1215.039,
+      "duration": 3.921
+    },
+    {
+      "text": "to sign up for our courses workshops and",
+      "start": 1217.159,
+      "duration": 3.721
+    },
+    {
+      "text": "other shorter sessions please check out",
+      "start": 1218.96,
+      "duration": 5.079
+    },
+    {
+      "text": "the link below long Co breathing.com or",
+      "start": 1220.88,
+      "duration": 5.84
+    },
+    {
+      "text": "email lco breathing gmail.com to start",
+      "start": 1224.039,
+      "duration": 6.601
+    },
+    {
+      "text": "your breathing Journey with us",
+      "start": 1226.72,
+      "duration": 3.92
+    },
+    {
+      "text": "yeah interesting and I mean what you",
+      "start": 1234.159,
+      "duration": 4.961
+    },
+    {
+      "text": "just said at the end you know when you",
+      "start": 1237.0,
+      "duration": 4.679
+    },
+    {
+      "text": "are ill and you've been ill for a long",
+      "start": 1239.12,
+      "duration": 5.039
+    },
+    {
+      "text": "time and you have all of these symptoms",
+      "start": 1241.679,
+      "duration": 4.88
+    },
+    {
+      "text": "and you can't do anything in your life",
+      "start": 1244.159,
+      "duration": 5.841
+    },
+    {
+      "text": "that you want to do and you don't really",
+      "start": 1246.559,
+      "duration": 5.961
+    },
+    {
+      "text": "see any way of getting better you start",
+      "start": 1250.0,
+      "duration": 6.2
+    },
+    {
+      "text": "to look outside the box and you know",
+      "start": 1252.52,
+      "duration": 5.6
+    },
+    {
+      "text": "that's when people will start thinking",
+      "start": 1256.2,
+      "duration": 5.12
+    },
+    {
+      "text": "well my doctor can't help me even if you",
+      "start": 1258.12,
+      "duration": 5.76
+    },
+    {
+      "text": "find a doctor that is you know",
+      "start": 1261.32,
+      "duration": 6.76
+    },
+    {
+      "text": "empathetic the GPS aren't mostly very",
+      "start": 1263.88,
+      "duration": 6.36
+    },
+    {
+      "text": "good at actually finding anything that",
+      "start": 1268.08,
+      "duration": 4.719
+    },
+    {
+      "text": "helps because it's not their specialty",
+      "start": 1270.24,
+      "duration": 4.559
+    },
+    {
+      "text": "um so people are kind of going and",
+      "start": 1272.799,
+      "duration": 4.201
+    },
+    {
+      "text": "finding other things um I mean that's",
+      "start": 1274.799,
+      "duration": 4.601
+    },
+    {
+      "text": "what I did and that was how I recovered",
+      "start": 1277.0,
+      "duration": 4.84
+    },
+    {
+      "text": "but you know it's like if you can find",
+      "start": 1279.4,
+      "duration": 5.84
+    },
+    {
+      "text": "something that helps a little bit you",
+      "start": 1281.84,
+      "duration": 5.839
+    },
+    {
+      "text": "know if you can get 1% if you can get",
+      "start": 1285.24,
+      "duration": 4.0
+    },
+    {
+      "text": "10%",
+      "start": 1287.679,
+      "duration": 3.721
+    },
+    {
+      "text": "then maybe that means you can then find",
+      "start": 1289.24,
+      "duration": 3.439
+    },
+    {
+      "text": "something else that will give you",
+      "start": 1291.4,
+      "duration": 4.36
+    },
+    {
+      "text": "another 10% um so I think you know",
+      "start": 1292.679,
+      "duration": 5.561
+    },
+    {
+      "text": "that's why it's really worth looking at",
+      "start": 1295.76,
+      "duration": 5.6
+    },
+    {
+      "text": "things that help a bit because",
+      "start": 1298.24,
+      "duration": 4.52
+    },
+    {
+      "text": "especially if they are things that",
+      "start": 1301.36,
+      "duration": 4.12
+    },
+    {
+      "text": "already exist um and as you say you know",
+      "start": 1302.76,
+      "duration": 5.48
+    },
+    {
+      "text": "nicotine patches are relatively",
+      "start": 1305.48,
+      "duration": 6.84
+    },
+    {
+      "text": "affordable and available literally",
+      "start": 1308.24,
+      "duration": 6.2
+    },
+    {
+      "text": "everywhere um like you can walk into",
+      "start": 1312.32,
+      "duration": 4.2
+    },
+    {
+      "text": "like what a supermarket or a chemist and",
+      "start": 1314.44,
+      "duration": 6.2
+    },
+    {
+      "text": "get one and try it out and if it helps",
+      "start": 1316.52,
+      "duration": 5.759
+    },
+    {
+      "text": "great and if it",
+      "start": 1320.64,
+      "duration": 6.2
+    },
+    {
+      "text": "doesn't then okay um so I",
+      "start": 1322.279,
+      "duration": 7.241
+    },
+    {
+      "text": "suppose what the next question would be",
+      "start": 1326.84,
+      "duration": 6.16
+    },
+    {
+      "text": "is is this safe for anybody to try or",
+      "start": 1329.52,
+      "duration": 6.279
+    },
+    {
+      "text": "are there any risks or any kind of",
+      "start": 1333.0,
+      "duration": 5.52
+    },
+    {
+      "text": "guidelines that you would",
+      "start": 1335.799,
+      "duration": 6.201
+    },
+    {
+      "text": "suggest I've been dealing with a",
+      "start": 1338.52,
+      "duration": 5.639
+    },
+    {
+      "text": "substance now for a quite a long time",
+      "start": 1342.0,
+      "duration": 6.0
+    },
+    {
+      "text": "especially in relationship to Long Co I",
+      "start": 1344.159,
+      "duration": 7.841
+    },
+    {
+      "text": "didn't expect this uh huge uh tsunami",
+      "start": 1348.0,
+      "duration": 8.64
+    },
+    {
+      "text": "like wave response and what I can say",
+      "start": 1352.0,
+      "duration": 8.64
+    },
+    {
+      "text": "first of all um the most used misbelief",
+      "start": 1356.64,
+      "duration": 5.88
+    },
+    {
+      "text": "to nicotine is that is basically",
+      "start": 1360.64,
+      "duration": 4.68
+    },
+    {
+      "text": "constrictive that means it um reduces",
+      "start": 1362.52,
+      "duration": 7.08
+    },
+    {
+      "text": "your perfusion this is not right this is",
+      "start": 1365.32,
+      "duration": 7.719
+    },
+    {
+      "text": "wrong it's the opposite because nicotine",
+      "start": 1369.6,
+      "duration": 6.679
+    },
+    {
+      "text": "enhances the intracellular nitrogen",
+      "start": 1373.039,
+      "duration": 6.361
+    },
+    {
+      "text": "oxygen um concentration with in the",
+      "start": 1376.279,
+      "duration": 6.88
+    },
+    {
+      "text": "endial cells which means uh nitrogen",
+      "start": 1379.4,
+      "duration": 7.48
+    },
+    {
+      "text": "oxygen is responsible for votation",
+      "start": 1383.159,
+      "duration": 7.361
+    },
+    {
+      "text": "that's of importance that means official",
+      "start": 1386.88,
+      "duration": 7.399
+    },
+    {
+      "text": "speaking is that nicotine is um I I",
+      "start": 1390.52,
+      "duration": 6.519
+    },
+    {
+      "text": "guess it was in",
+      "start": 1394.279,
+      "duration": 6.361
+    },
+    {
+      "text": "2013 that the ni which means the",
+      "start": 1397.039,
+      "duration": 5.961
+    },
+    {
+      "text": "National Institute for Health and Care",
+      "start": 1400.64,
+      "duration": 5.44
+    },
+    {
+      "text": "Excellence from the United Kingdom said",
+      "start": 1403.0,
+      "duration": 7.32
+    },
+    {
+      "text": "that um the transdermal use of nicotine",
+      "start": 1406.08,
+      "duration": 8.28
+    },
+    {
+      "text": "over a time for five years without any",
+      "start": 1410.32,
+      "duration": 8.0
+    },
+    {
+      "text": "health risk so this is important to know",
+      "start": 1414.36,
+      "duration": 7.16
+    },
+    {
+      "text": "so this is what what I mean a major a",
+      "start": 1418.32,
+      "duration": 8.839
+    },
+    {
+      "text": "major National Health institution stated",
+      "start": 1421.52,
+      "duration": 8.08
+    },
+    {
+      "text": "by the experience of millions of people",
+      "start": 1427.159,
+      "duration": 4.601
+    },
+    {
+      "text": "so I I think this is something which",
+      "start": 1429.6,
+      "duration": 4.84
+    },
+    {
+      "text": "could could be seen as fact the other",
+      "start": 1431.76,
+      "duration": 6.44
+    },
+    {
+      "text": "things is um nicotine is often said to",
+      "start": 1434.44,
+      "duration": 5.8
+    },
+    {
+      "text": "be cancerogenic",
+      "start": 1438.2,
+      "duration": 5.959
+    },
+    {
+      "text": "or this is reduced to the fact that",
+      "start": 1440.24,
+      "duration": 8.6
+    },
+    {
+      "text": "nicotine is not cancer gen first but it",
+      "start": 1444.159,
+      "duration": 8.041
+    },
+    {
+      "text": "may have co- cancerogenic action so that",
+      "start": 1448.84,
+      "duration": 5.6
+    },
+    {
+      "text": "means if you are exposed",
+      "start": 1452.2,
+      "duration": 4.92
+    },
+    {
+      "text": "to cancerogenic",
+      "start": 1454.44,
+      "duration": 6.08
+    },
+    {
+      "text": "substance um nicotine might be able",
+      "start": 1457.12,
+      "duration": 6.12
+    },
+    {
+      "text": "to large this effect this cancerogenic",
+      "start": 1460.52,
+      "duration": 5.639
+    },
+    {
+      "text": "effect this is still not proven but this",
+      "start": 1463.24,
+      "duration": 6.559
+    },
+    {
+      "text": "is the way um people or the scientific",
+      "start": 1466.159,
+      "duration": 4.76
+    },
+    {
+      "text": "scene",
+      "start": 1469.799,
+      "duration": 3.521
+    },
+    {
+      "text": "is trying",
+      "start": 1470.919,
+      "duration": 4.921
+    },
+    {
+      "text": "to reduce something which is have",
+      "start": 1473.32,
+      "duration": 4.239
+    },
+    {
+      "text": "proclaimed for years and",
+      "start": 1475.84,
+      "duration": 5.36
+    },
+    {
+      "text": "years I just don't want to say nicotine",
+      "start": 1477.559,
+      "duration": 6.161
+    },
+    {
+      "text": "is just like chewing gum no of course",
+      "start": 1481.2,
+      "duration": 5.359
+    },
+    {
+      "text": "not but I think if you are in the",
+      "start": 1483.72,
+      "duration": 5.4
+    },
+    {
+      "text": "situation I mean we have we have uh M",
+      "start": 1486.559,
+      "duration": 5.081
+    },
+    {
+      "text": "ecfs patients which are suffering from",
+      "start": 1489.12,
+      "duration": 6.12
+    },
+    {
+      "text": "20 35 years and even",
+      "start": 1491.64,
+      "duration": 6.44
+    },
+    {
+      "text": "longer and are housebound for for this",
+      "start": 1495.24,
+      "duration": 6.679
+    },
+    {
+      "text": "time so one must consider uh which",
+      "start": 1498.08,
+      "duration": 7.0
+    },
+    {
+      "text": "intervention might make me we have",
+      "start": 1501.919,
+      "duration": 4.801
+    },
+    {
+      "text": "considerations which are",
+      "start": 1505.08,
+      "duration": 5.16
+    },
+    {
+      "text": "saying a longterm suffering from from",
+      "start": 1506.72,
+      "duration": 5.36
+    },
+    {
+      "text": "the covid or M",
+      "start": 1510.24,
+      "duration": 6.439
+    },
+    {
+      "text": "ecfs in terms of uh the life quality",
+      "start": 1512.08,
+      "duration": 8.199
+    },
+    {
+      "text": "harder than than concer so we must get",
+      "start": 1516.679,
+      "duration": 6.561
+    },
+    {
+      "text": "one step aside and think it over uh even",
+      "start": 1520.279,
+      "duration": 6.28
+    },
+    {
+      "text": "if there was a little little uh",
+      "start": 1523.24,
+      "duration": 4.96
+    },
+    {
+      "text": "proportional or a little possibility",
+      "start": 1526.559,
+      "duration": 4.321
+    },
+    {
+      "text": "that that nicotine might have some bad",
+      "start": 1528.2,
+      "duration": 6.04
+    },
+    {
+      "text": "effects even if I didn't say it has but",
+      "start": 1530.88,
+      "duration": 6.84
+    },
+    {
+      "text": "even if it had one must uh think if it",
+      "start": 1534.24,
+      "duration": 6.799
+    },
+    {
+      "text": "was a effective substance against an",
+      "start": 1537.72,
+      "duration": 7.64
+    },
+    {
+      "text": "ecfs I would at least consider if this",
+      "start": 1541.039,
+      "duration": 7.961
+    },
+    {
+      "text": "substance is worth to try especially if",
+      "start": 1545.36,
+      "duration": 7.24
+    },
+    {
+      "text": "I know I don't use it for years right",
+      "start": 1549.0,
+      "duration": 7.919
+    },
+    {
+      "text": "now but for I don't know four up to five",
+      "start": 1552.6,
+      "duration": 7.28
+    },
+    {
+      "text": "weeks or I I saw people with up to six",
+      "start": 1556.919,
+      "duration": 7.161
+    },
+    {
+      "text": "months um this is a question which is",
+      "start": 1559.88,
+      "duration": 6.679
+    },
+    {
+      "text": "has to be solved within the next half or",
+      "start": 1564.08,
+      "duration": 4.12
+    },
+    {
+      "text": "year I don't",
+      "start": 1566.559,
+      "duration": 5.401
+    },
+    {
+      "text": "know but yes um the substance uh could",
+      "start": 1568.2,
+      "duration": 7.4
+    },
+    {
+      "text": "is even um advis not by me but by",
+      "start": 1571.96,
+      "duration": 6.36
+    },
+    {
+      "text": "official official institutions to be",
+      "start": 1575.6,
+      "duration": 6.559
+    },
+    {
+      "text": "usable for patients with stable Ang",
+      "start": 1578.32,
+      "duration": 6.44
+    },
+    {
+      "text": "pectoris so this is a point as if",
+      "start": 1582.159,
+      "duration": 4.601
+    },
+    {
+      "text": "somebody is suffering from cardic",
+      "start": 1584.76,
+      "duration": 5.12
+    },
+    {
+      "text": "circulator disease it could be used by",
+      "start": 1586.76,
+      "duration": 5.12
+    },
+    {
+      "text": "people for other reasons so especially",
+      "start": 1589.88,
+      "duration": 4.399
+    },
+    {
+      "text": "if you are a smoker and you want to you",
+      "start": 1591.88,
+      "duration": 6.08
+    },
+    {
+      "text": "want to Cate or but if you are suffering",
+      "start": 1594.279,
+      "duration": 5.601
+    },
+    {
+      "text": "as well from cardic disease you can use",
+      "start": 1597.96,
+      "duration": 5.64
+    },
+    {
+      "text": "it very safely because uh it doesn't",
+      "start": 1599.88,
+      "duration": 5.64
+    },
+    {
+      "text": "harm or doesn't doesn't enlarge the",
+      "start": 1603.6,
+      "duration": 4.959
+    },
+    {
+      "text": "problem of your heart um it's always",
+      "start": 1605.52,
+      "duration": 5.24
+    },
+    {
+      "text": "advisable to go together with your",
+      "start": 1608.559,
+      "duration": 4.401
+    },
+    {
+      "text": "practitioner of course not to use it by",
+      "start": 1610.76,
+      "duration": 3.48
+    },
+    {
+      "text": "yourself to",
+      "start": 1612.96,
+      "duration": 5.52
+    },
+    {
+      "text": "do any Hazard to yourself but this is",
+      "start": 1614.24,
+      "duration": 7.52
+    },
+    {
+      "text": "the range we can we can uh imagine to",
+      "start": 1618.48,
+      "duration": 5.319
+    },
+    {
+      "text": "use this substance especially in this",
+      "start": 1621.76,
+      "duration": 5.0
+    },
+    {
+      "text": "special application form",
+      "start": 1623.799,
+      "duration": 5.12
+    },
+    {
+      "text": "transdermal right",
+      "start": 1626.76,
+      "duration": 6.24
+    },
+    {
+      "text": "interesting so you've been working with",
+      "start": 1628.919,
+      "duration": 6.36
+    },
+    {
+      "text": "people um and people as you say",
+      "start": 1633.0,
+      "duration": 5.76
+    },
+    {
+      "text": "worldwide have been trying this out um",
+      "start": 1635.279,
+      "duration": 6.561
+    },
+    {
+      "text": "and presumably reporting back to it is",
+      "start": 1638.76,
+      "duration": 6.399
+    },
+    {
+      "text": "there any Research into this or is it",
+      "start": 1641.84,
+      "duration": 5.68
+    },
+    {
+      "text": "all anecdotal at the moment at the",
+      "start": 1645.159,
+      "duration": 5.0
+    },
+    {
+      "text": "moment all an doal it has first of all",
+      "start": 1647.52,
+      "duration": 4.879
+    },
+    {
+      "text": "with a bad to do with a bad reputation",
+      "start": 1650.159,
+      "duration": 5.321
+    },
+    {
+      "text": "of nicotine I think a lot of scientists",
+      "start": 1652.399,
+      "duration": 5.88
+    },
+    {
+      "text": "and doctors are avoiding to jump on a",
+      "start": 1655.48,
+      "duration": 5.52
+    },
+    {
+      "text": "train which possibly rides the wrong",
+      "start": 1658.279,
+      "duration": 5.76
+    },
+    {
+      "text": "direction so this is kind of holding",
+      "start": 1661.0,
+      "duration": 5.399
+    },
+    {
+      "text": "back development which could be very",
+      "start": 1664.039,
+      "duration": 4.041
+    },
+    {
+      "text": "very useful to a lot of people and to a",
+      "start": 1666.399,
+      "duration": 3.721
+    },
+    {
+      "text": "lot of Health Care Systems especially",
+      "start": 1668.08,
+      "duration": 4.28
+    },
+    {
+      "text": "because it's not only Healthcare systems",
+      "start": 1670.12,
+      "duration": 4.399
+    },
+    {
+      "text": "but economic systems you think that a",
+      "start": 1672.36,
+      "duration": 4.88
+    },
+    {
+      "text": "lot of skilled workers are out of work",
+      "start": 1674.519,
+      "duration": 6.601
+    },
+    {
+      "text": "which have to go to any rehab U",
+      "start": 1677.24,
+      "duration": 8.24
+    },
+    {
+      "text": "scenery so um but I am contacted by a",
+      "start": 1681.12,
+      "duration": 6.84
+    },
+    {
+      "text": "lot of practitioners especially or some",
+      "start": 1685.48,
+      "duration": 5.199
+    },
+    {
+      "text": "Specialists as well which are asking me",
+      "start": 1687.96,
+      "duration": 4.4
+    },
+    {
+      "text": "for the theory which are asking me for",
+      "start": 1690.679,
+      "duration": 3.561
+    },
+    {
+      "text": "the hypothesis and which are using it to",
+      "start": 1692.36,
+      "duration": 3.439
+    },
+    {
+      "text": "their patient which are advising it to",
+      "start": 1694.24,
+      "duration": 4.6
+    },
+    {
+      "text": "their patients and I know about a lot of",
+      "start": 1695.799,
+      "duration": 7.12
+    },
+    {
+      "text": "special clinics within uh Germany Char",
+      "start": 1698.84,
+      "duration": 7.36
+    },
+    {
+      "text": "for instance in Berlin or there's a",
+      "start": 1702.919,
+      "duration": 6.281
+    },
+    {
+      "text": "special clinic in bashes Garden",
+      "start": 1706.2,
+      "duration": 5.4
+    },
+    {
+      "text": "uh which are using patches because the",
+      "start": 1709.2,
+      "duration": 4.44
+    },
+    {
+      "text": "thing is",
+      "start": 1711.6,
+      "duration": 6.079
+    },
+    {
+      "text": "um wherever you go to what specialist",
+      "start": 1713.64,
+      "duration": 6.72
+    },
+    {
+      "text": "ever nobody has a good explanation for",
+      "start": 1717.679,
+      "duration": 7.161
+    },
+    {
+      "text": "the complexity of long Co nobody so they",
+      "start": 1720.36,
+      "duration": 7.24
+    },
+    {
+      "text": "are actually seeking for any",
+      "start": 1724.84,
+      "duration": 7.04
+    },
+    {
+      "text": "solution so that's the reason why they",
+      "start": 1727.6,
+      "duration": 6.679
+    },
+    {
+      "text": "do use patches as",
+      "start": 1731.88,
+      "duration": 6.799
+    },
+    {
+      "text": "well so I do all I can and I I'm in",
+      "start": 1734.279,
+      "duration": 6.801
+    },
+    {
+      "text": "contact with a lot of scientists here in",
+      "start": 1738.679,
+      "duration": 5.641
+    },
+    {
+      "text": "my hometown in liik in other cities and",
+      "start": 1741.08,
+      "duration": 6.719
+    },
+    {
+      "text": "towns as well in Germany and we are",
+      "start": 1744.32,
+      "duration": 5.64
+    },
+    {
+      "text": "trying our best to get a randomized",
+      "start": 1747.799,
+      "duration": 4.0
+    },
+    {
+      "text": "control trial on the",
+      "start": 1749.96,
+      "duration": 5.04
+    },
+    {
+      "text": "way but the hurdles are very very high",
+      "start": 1751.799,
+      "duration": 6.961
+    },
+    {
+      "text": "and not only one hurdle but uh tens and",
+      "start": 1755.0,
+      "duration": 7.72
+    },
+    {
+      "text": "thousands so that's a question of money",
+      "start": 1758.76,
+      "duration": 6.2
+    },
+    {
+      "text": "of course it's a question of ethic",
+      "start": 1762.72,
+      "duration": 4.959
+    },
+    {
+      "text": "committees because nicotine is uh not",
+      "start": 1764.96,
+      "duration": 5.92
+    },
+    {
+      "text": "Medical devices law but medical U",
+      "start": 1767.679,
+      "duration": 5.441
+    },
+    {
+      "text": "medications law which is quite different",
+      "start": 1770.88,
+      "duration": 6.12
+    },
+    {
+      "text": "concerning the aspect of um letting",
+      "start": 1773.12,
+      "duration": 8.0
+    },
+    {
+      "text": "something happen and allow to do things",
+      "start": 1777.0,
+      "duration": 6.679
+    },
+    {
+      "text": "yes so we have a a lot of things are",
+      "start": 1781.12,
+      "duration": 5.799
+    },
+    {
+      "text": "still to do but uh what we see right now",
+      "start": 1783.679,
+      "duration": 6.681
+    },
+    {
+      "text": "is that it's going to come so I'm sure",
+      "start": 1786.919,
+      "duration": 7.321
+    },
+    {
+      "text": "that within the next one two three years",
+      "start": 1790.36,
+      "duration": 5.799
+    },
+    {
+      "text": "a lot of people would have tried and we",
+      "start": 1794.24,
+      "duration": 4.24
+    },
+    {
+      "text": "will gain a lot of experience and I",
+      "start": 1796.159,
+      "duration": 5.12
+    },
+    {
+      "text": "think this this uh study approach is",
+      "start": 1798.48,
+      "duration": 6.72
+    },
+    {
+      "text": "somehow um attractive because we are",
+      "start": 1801.279,
+      "duration": 6.76
+    },
+    {
+      "text": "gaining experience um this is only",
+      "start": 1805.2,
+      "duration": 4.24
+    },
+    {
+      "text": "possible with a substance which is quite",
+      "start": 1808.039,
+      "duration": 5.281
+    },
+    {
+      "text": "secure of course so I don't want to to",
+      "start": 1809.44,
+      "duration": 7.68
+    },
+    {
+      "text": "use any chem therapeutic or any hard",
+      "start": 1813.32,
+      "duration": 8.04
+    },
+    {
+      "text": "substance to be used or studied that way",
+      "start": 1817.12,
+      "duration": 8.399
+    },
+    {
+      "text": "but this patient Le science provides us",
+      "start": 1821.36,
+      "duration": 6.72
+    },
+    {
+      "text": "a lot of experience within a very very",
+      "start": 1825.519,
+      "duration": 5.28
+    },
+    {
+      "text": "short time so if we do Studies by study",
+      "start": 1828.08,
+      "duration": 4.839
+    },
+    {
+      "text": "protocol which is",
+      "start": 1830.799,
+      "duration": 7.72
+    },
+    {
+      "text": "uh obligate um so you will always uh go",
+      "start": 1832.919,
+      "duration": 8.961
+    },
+    {
+      "text": "one point to the next and",
+      "start": 1838.519,
+      "duration": 7.121
+    },
+    {
+      "text": "the the speed of experience is very very",
+      "start": 1841.88,
+      "duration": 6.36
+    },
+    {
+      "text": "slow and if you if we see on Co right",
+      "start": 1845.64,
+      "duration": 5.039
+    },
+    {
+      "text": "now we have a lot of people and they",
+      "start": 1848.24,
+      "duration": 5.0
+    },
+    {
+      "text": "haven't got the time until we have",
+      "start": 1850.679,
+      "duration": 5.641
+    },
+    {
+      "text": "developed a solution within the next 20",
+      "start": 1853.24,
+      "duration": 5.72
+    },
+    {
+      "text": "or 50 years",
+      "start": 1856.32,
+      "duration": 5.88
+    },
+    {
+      "text": "in that special U case I think this is",
+      "start": 1858.96,
+      "duration": 6.199
+    },
+    {
+      "text": "very worth uh to support this way of",
+      "start": 1862.2,
+      "duration": 5.319
+    },
+    {
+      "text": "experience making I think like",
+      "start": 1865.159,
+      "duration": 4.76
+    },
+    {
+      "text": "everyone's definition of safe is",
+      "start": 1867.519,
+      "duration": 4.88
+    },
+    {
+      "text": "different and you can do your research",
+      "start": 1869.919,
+      "duration": 4.321
+    },
+    {
+      "text": "into something like nicotine and you can",
+      "start": 1872.399,
+      "duration": 4.681
+    },
+    {
+      "text": "find out that it is largely safe it may",
+      "start": 1874.24,
+      "duration": 5.52
+    },
+    {
+      "text": "have very very small risks in certain",
+      "start": 1877.08,
+      "duration": 6.12
+    },
+    {
+      "text": "areas um that we're not quite sure about",
+      "start": 1879.76,
+      "duration": 5.519
+    },
+    {
+      "text": "but you know on the whole it seems to be",
+      "start": 1883.2,
+      "duration": 5.439
+    },
+    {
+      "text": "a relatively safe thing to try",
+      "start": 1885.279,
+      "duration": 5.36
+    },
+    {
+      "text": "and actually you know if we think about",
+      "start": 1888.639,
+      "duration": 5.92
+    },
+    {
+      "text": "it people are doing all sorts of other",
+      "start": 1890.639,
+      "duration": 5.841
+    },
+    {
+      "text": "things you know",
+      "start": 1894.559,
+      "duration": 4.561
+    },
+    {
+      "text": "taking lots of different supplements",
+      "start": 1896.48,
+      "duration": 5.559
+    },
+    {
+      "text": "with no guidance um you know completely",
+      "start": 1899.12,
+      "duration": 4.84
+    },
+    {
+      "text": "unregulated and and I suppose if you",
+      "start": 1902.039,
+      "duration": 4.76
+    },
+    {
+      "text": "were going to compare the two you know",
+      "start": 1903.96,
+      "duration": 5.599
+    },
+    {
+      "text": "that's not particularly safe either up",
+      "start": 1906.799,
+      "duration": 8.161
+    },
+    {
+      "text": "to 20 30 per day anything creatine ninas",
+      "start": 1909.559,
+      "duration": 7.401
+    },
+    {
+      "text": "everything I think it's crazy it's",
+      "start": 1914.96,
+      "duration": 4.439
+    },
+    {
+      "text": "really crazy so yeah I suppose that",
+      "start": 1916.96,
+      "duration": 4.04
+    },
+    {
+      "text": "comes back to what you were saying about",
+      "start": 1919.399,
+      "duration": 4.801
+    },
+    {
+      "text": "nicotine having this reputation um but",
+      "start": 1921.0,
+      "duration": 5.88
+    },
+    {
+      "text": "when you look into it you realize maybe",
+      "start": 1924.2,
+      "duration": 4.52
+    },
+    {
+      "text": "that it is not deserving of that",
+      "start": 1926.88,
+      "duration": 4.44
+    },
+    {
+      "text": "reputation and and maybe could be very",
+      "start": 1928.72,
+      "duration": 6.24
+    },
+    {
+      "text": "useful I want to make one point for for",
+      "start": 1931.32,
+      "duration": 7.56
+    },
+    {
+      "text": "anybody who is about to try the Nega",
+      "start": 1934.96,
+      "duration": 7.16
+    },
+    {
+      "text": "patch one must prepared to in the first",
+      "start": 1938.88,
+      "duration": 7.039
+    },
+    {
+      "text": "few days to feel not an improvement but",
+      "start": 1942.12,
+      "duration": 7.12
+    },
+    {
+      "text": "getting worse and worsening because um",
+      "start": 1945.919,
+      "duration": 7.561
+    },
+    {
+      "text": "the setfree virus particles are evoking",
+      "start": 1949.24,
+      "duration": 7.64
+    },
+    {
+      "text": "kind of um infection like situation",
+      "start": 1953.48,
+      "duration": 5.039
+    },
+    {
+      "text": "because virus are set free from a",
+      "start": 1956.88,
+      "duration": 3.44
+    },
+    {
+      "text": "receptor binding where they are actually",
+      "start": 1958.519,
+      "duration": 2.64
+    },
+    {
+      "text": "uh",
+      "start": 1960.32,
+      "duration": 5.28
+    },
+    {
+      "text": "trapped so to break at that point means",
+      "start": 1961.159,
+      "duration": 7.321
+    },
+    {
+      "text": "you will never know how it was if it if",
+      "start": 1965.6,
+      "duration": 6.16
+    },
+    {
+      "text": "the virus is erased by immune system",
+      "start": 1968.48,
+      "duration": 5.199
+    },
+    {
+      "text": "which takes actually immune system is",
+      "start": 1971.76,
+      "duration": 5.32
+    },
+    {
+      "text": "prepared for it like because it had",
+      "start": 1973.679,
+      "duration": 7.12
+    },
+    {
+      "text": "always cont to the virus or the vaccine",
+      "start": 1977.08,
+      "duration": 5.8
+    },
+    {
+      "text": "as well this is even an explanation for",
+      "start": 1980.799,
+      "duration": 4.12
+    },
+    {
+      "text": "the Post vacine syndrome because the",
+      "start": 1982.88,
+      "duration": 4.799
+    },
+    {
+      "text": "epitope on the vine which makes your",
+      "start": 1984.919,
+      "duration": 7.161
+    },
+    {
+      "text": "immune system ready to combat the virus",
+      "start": 1987.679,
+      "duration": 7.041
+    },
+    {
+      "text": "is the same as the spike protein so the",
+      "start": 1992.08,
+      "duration": 5.68
+    },
+    {
+      "text": "spike protein like sequence could couple",
+      "start": 1994.72,
+      "duration": 5.0
+    },
+    {
+      "text": "as well to these receptors and could",
+      "start": 1997.76,
+      "duration": 5.84
+    },
+    {
+      "text": "make the same issue or issues as Lov",
+      "start": 1999.72,
+      "duration": 7.839
+    },
+    {
+      "text": "does so be prepared for a infection like",
+      "start": 2003.6,
+      "duration": 6.6
+    },
+    {
+      "text": "or postvaccination situation which makes",
+      "start": 2007.559,
+      "duration": 5.561
+    },
+    {
+      "text": "you feel worse which is in terms of long",
+      "start": 2010.2,
+      "duration": 6.4
+    },
+    {
+      "text": "covid horrible because you are already",
+      "start": 2013.12,
+      "duration": 6.519
+    },
+    {
+      "text": "bad and you should expect to become",
+      "start": 2016.6,
+      "duration": 5.76
+    },
+    {
+      "text": "worse but that's worth it because",
+      "start": 2019.639,
+      "duration": 5.92
+    },
+    {
+      "text": "afterwards if your immune system",
+      "start": 2022.36,
+      "duration": 5.88
+    },
+    {
+      "text": "recognize did recognize that there is a",
+      "start": 2025.559,
+      "duration": 6.84
+    },
+    {
+      "text": "enemy which has been contacted before it",
+      "start": 2028.24,
+      "duration": 8.319
+    },
+    {
+      "text": "is quite good able to erase uh this",
+      "start": 2032.399,
+      "duration": 8.0
+    },
+    {
+      "text": "problem I'm often ask what about PID or",
+      "start": 2036.559,
+      "duration": 6.72
+    },
+    {
+      "text": "any other antiviral substance I'm not",
+      "start": 2040.399,
+      "duration": 5.361
+    },
+    {
+      "text": "Afra of this because because um actually",
+      "start": 2043.279,
+      "duration": 5.08
+    },
+    {
+      "text": "immune system is able to do so uh if",
+      "start": 2045.76,
+      "duration": 5.359
+    },
+    {
+      "text": "you're reducing by antiviral or binders",
+      "start": 2048.359,
+      "duration": 6.201
+    },
+    {
+      "text": "or whatever you make the disc",
+      "start": 2051.119,
+      "duration": 6.28
+    },
+    {
+      "text": "discoverability of Spike protein or the",
+      "start": 2054.56,
+      "duration": 5.92
+    },
+    {
+      "text": "the virus by immune system you you",
+      "start": 2057.399,
+      "duration": 5.041
+    },
+    {
+      "text": "compromise this so that the reaction of",
+      "start": 2060.48,
+      "duration": 6.04
+    },
+    {
+      "text": "your immune system could be um lower uh",
+      "start": 2062.44,
+      "duration": 8.08
+    },
+    {
+      "text": "and not that fast as it could",
+      "start": 2066.52,
+      "duration": 7.839
+    },
+    {
+      "text": "be and uh on the other hand I mean PX is",
+      "start": 2070.52,
+      "duration": 6.879
+    },
+    {
+      "text": "not chewing as well I mean is a very",
+      "start": 2074.359,
+      "duration": 5.56
+    },
+    {
+      "text": "very strong substance which does not",
+      "start": 2077.399,
+      "duration": 4.921
+    },
+    {
+      "text": "only benefit but it does harm to your",
+      "start": 2079.919,
+      "duration": 6.16
+    },
+    {
+      "text": "body as well so even or some people are",
+      "start": 2082.32,
+      "duration": 6.24
+    },
+    {
+      "text": "asking if they should take antibiotics",
+      "start": 2086.079,
+      "duration": 4.6
+    },
+    {
+      "text": "no they should not take antibiotics I",
+      "start": 2088.56,
+      "duration": 5.64
+    },
+    {
+      "text": "think anybody must be aware that what",
+      "start": 2090.679,
+      "duration": 6.561
+    },
+    {
+      "text": "you put into your body anything you",
+      "start": 2094.2,
+      "duration": 4.28
+    },
+    {
+      "text": "ingest",
+      "start": 2097.24,
+      "duration": 4.359
+    },
+    {
+      "text": "besides the expected effect if it has an",
+      "start": 2098.48,
+      "duration": 6.76
+    },
+    {
+      "text": "effect um side effects in any substance",
+      "start": 2101.599,
+      "duration": 7.121
+    },
+    {
+      "text": "you add has some side effects more not",
+      "start": 2105.24,
+      "duration": 5.2
+    },
+    {
+      "text": "to expect that you",
+      "start": 2108.72,
+      "duration": 5.28
+    },
+    {
+      "text": "are doing for the good um if you are",
+      "start": 2110.44,
+      "duration": 6.32
+    },
+    {
+      "text": "taking 20 substances this",
+      "start": 2114.0,
+      "duration": 6.24
+    },
+    {
+      "text": "is it shows the desperacy of the people",
+      "start": 2116.76,
+      "duration": 6.04
+    },
+    {
+      "text": "um but it's the wrong direction I guess",
+      "start": 2120.24,
+      "duration": 5.4
+    },
+    {
+      "text": "and therefore I actually say people",
+      "start": 2122.8,
+      "duration": 6.319
+    },
+    {
+      "text": "because they need any any uh strength to",
+      "start": 2125.64,
+      "duration": 6.4
+    },
+    {
+      "text": "hold on to to feel secure and I don't",
+      "start": 2129.119,
+      "duration": 5.401
+    },
+    {
+      "text": "want to say put off all the substances",
+      "start": 2132.04,
+      "duration": 5.52
+    },
+    {
+      "text": "you've taken the last few years because",
+      "start": 2134.52,
+      "duration": 6.8
+    },
+    {
+      "text": "it's kind of safety for them so but I",
+      "start": 2137.56,
+      "duration": 7.279
+    },
+    {
+      "text": "actually I advise do not",
+      "start": 2141.32,
+      "duration": 6.68
+    },
+    {
+      "text": "anything new to the usage of nicotine",
+      "start": 2144.839,
+      "duration": 5.361
+    },
+    {
+      "text": "anything you used before you can do it",
+      "start": 2148.0,
+      "duration": 6.4
+    },
+    {
+      "text": "further except at esteras Inhibitors",
+      "start": 2150.2,
+      "duration": 6.96
+    },
+    {
+      "text": "especially Mone this is quite a",
+      "start": 2154.4,
+      "duration": 4.52
+    },
+    {
+      "text": "dangerous",
+      "start": 2157.16,
+      "duration": 5.72
+    },
+    {
+      "text": "thing but anything you used um before",
+      "start": 2158.92,
+      "duration": 6.32
+    },
+    {
+      "text": "you can use further especially under the",
+      "start": 2162.88,
+      "duration": 7.0
+    },
+    {
+      "text": "under the imagination if you see any any",
+      "start": 2165.24,
+      "duration": 7.04
+    },
+    {
+      "text": "medication and in this in this point one",
+      "start": 2169.88,
+      "duration": 5.6
+    },
+    {
+      "text": "can compare it with with with smoking",
+      "start": 2172.28,
+      "duration": 5.52
+    },
+    {
+      "text": "any medication it should be clear that",
+      "start": 2175.48,
+      "duration": 4.359
+    },
+    {
+      "text": "even smokers did use it before so if you",
+      "start": 2177.8,
+      "duration": 5.64
+    },
+    {
+      "text": "use nicotine with it without the 8,000",
+      "start": 2179.839,
+      "duration": 8.201
+    },
+    {
+      "text": "toxins added uh it could not be real",
+      "start": 2183.44,
+      "duration": 8.919
+    },
+    {
+      "text": "danger whatever you do yeah well I'm",
+      "start": 2188.04,
+      "duration": 8.039
+    },
+    {
+      "text": "super excited to see where this goes um",
+      "start": 2192.359,
+      "duration": 5.641
+    },
+    {
+      "text": "I I hope you do manage to get some",
+      "start": 2196.079,
+      "duration": 3.961
+    },
+    {
+      "text": "research into this because I think that",
+      "start": 2198.0,
+      "duration": 4.92
+    },
+    {
+      "text": "would be very interesting yeah I hope as",
+      "start": 2200.04,
+      "duration": 7.72
+    },
+    {
+      "text": "well but the main message is um I get",
+      "start": 2202.92,
+      "duration": 8.919
+    },
+    {
+      "text": "not any coin for for doing this I do",
+      "start": 2207.76,
+      "duration": 7.599
+    },
+    {
+      "text": "just uh not even by any producer from",
+      "start": 2211.839,
+      "duration": 5.881
+    },
+    {
+      "text": "from negative patches or I think we",
+      "start": 2215.359,
+      "duration": 5.76
+    },
+    {
+      "text": "should think twice the very bad",
+      "start": 2217.72,
+      "duration": 6.68
+    },
+    {
+      "text": "reputation of nicotine because the",
+      "start": 2221.119,
+      "duration": 4.96
+    },
+    {
+      "text": "possibilities of this substance and we",
+      "start": 2224.4,
+      "duration": 4.48
+    },
+    {
+      "text": "speak about chronical headache we speak",
+      "start": 2226.079,
+      "duration": 5.24
+    },
+    {
+      "text": "about depression there are studies about",
+      "start": 2228.88,
+      "duration": 6.36
+    },
+    {
+      "text": "this we speak about Alzheimer disease we",
+      "start": 2231.319,
+      "duration": 7.0
+    },
+    {
+      "text": "speak about chronical infectious",
+      "start": 2235.24,
+      "duration": 4.72
+    },
+    {
+      "text": "chronical",
+      "start": 2238.319,
+      "duration": 5.321
+    },
+    {
+      "text": "inflammatory uh bo disease there are so",
+      "start": 2239.96,
+      "duration": 6.04
+    },
+    {
+      "text": "many instances which are referable to a",
+      "start": 2243.64,
+      "duration": 7.12
+    },
+    {
+      "text": "block or to a to um compromise Chic",
+      "start": 2246.0,
+      "duration": 8.44
+    },
+    {
+      "text": "existence maybe due to viruses or maybe",
+      "start": 2250.76,
+      "duration": 8.2
+    },
+    {
+      "text": "due just form of any balance disorder",
+      "start": 2254.44,
+      "duration": 7.159
+    },
+    {
+      "text": "between the U two branches of the",
+      "start": 2258.96,
+      "duration": 5.0
+    },
+    {
+      "text": "autonomic nervous system so I think we",
+      "start": 2261.599,
+      "duration": 4.201
+    },
+    {
+      "text": "should consider this substance for the",
+      "start": 2263.96,
+      "duration": 5.08
+    },
+    {
+      "text": "future as a real important therapeutic",
+      "start": 2265.8,
+      "duration": 6.44
+    },
+    {
+      "text": "substance that's something which should",
+      "start": 2269.04,
+      "duration": 7.12
+    },
+    {
+      "text": "be developed I think yeah it sounds like",
+      "start": 2272.24,
+      "duration": 7.28
+    },
+    {
+      "text": "it's definitely worth exploring for sure",
+      "start": 2276.16,
+      "duration": 5.959
+    },
+    {
+      "text": "well thank you so much for joining me",
+      "start": 2279.52,
+      "duration": 5.36
+    },
+    {
+      "text": "today it has been really exciting diving",
+      "start": 2282.119,
+      "duration": 5.24
+    },
+    {
+      "text": "into this and and hearing all of your",
+      "start": 2284.88,
+      "duration": 4.8
+    },
+    {
+      "text": "experience and all of the kind of theory",
+      "start": 2287.359,
+      "duration": 5.48
+    },
+    {
+      "text": "behind it and stuff as well so thank you",
+      "start": 2289.68,
+      "duration": 5.679
+    },
+    {
+      "text": "so much you're welcome thank you thank",
+      "start": 2292.839,
+      "duration": 4.721
+    },
+    {
+      "text": "you so much to all of my guests and to",
+      "start": 2295.359,
+      "duration": 4.48
+    },
+    {
+      "text": "you for listening I hope you've enjoyed",
+      "start": 2297.56,
+      "duration": 4.12
+    },
+    {
+      "text": "it or at least found it",
+      "start": 2299.839,
+      "duration": 4.76
+    },
+    {
+      "text": "useful the long Co podcast is entirely",
+      "start": 2301.68,
+      "duration": 5.2
+    },
+    {
+      "text": "self-produced and self-funded and doing",
+      "start": 2304.599,
+      "duration": 3.441
+    },
+    {
+      "text": "all of this",
+      "start": 2306.88,
+      "duration": 4.0
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2308.04,
+      "duration": 4.279
+    },
+    {
+      "text": "buyme a",
+      "start": 2310.88,
+      "duration": 4.64
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2312.319,
+      "duration": 5.161
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 2315.52,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2317.48,
+      "duration": 4.2
+    },
+    {
+      "text": "episode of The Long coov podcast it's",
+      "start": 2319.56,
+      "duration": 4.16
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2321.68,
+      "duration": 5.12
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 2323.72,
+      "duration": 6.8
+    },
+    {
+      "text": "love to hear from you",
+      "start": 2326.8,
+      "duration": 3.72
+    }
+  ],
+  "metadata": {
+    "title": "130 - Dr Marco Leitzke - Using Nicotine Patches for Long Covid",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/WAOaBnSJPRg/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 130,
+    "title": "130 - Dr Marco Leitzke - Using Nicotine Patches for Long Covid",
+    "videoId": "WAOaBnSJPRg",
+    "lengthText": "38:55"
+  }
+}

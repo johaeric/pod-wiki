@@ -1,0 +1,4318 @@
+{
+  "video_id": "BvwPP-QqLvQ",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.0,
+      "duration": 5.879
+    },
+    {
+      "text": "The Long Co podcast I'm really excited",
+      "start": 57.879,
+      "duration": 4.84
+    },
+    {
+      "text": "today to be talking to another Jackie",
+      "start": 60.879,
+      "duration": 4.841
+    },
+    {
+      "text": "which is quite a rare thing for me so Dr",
+      "start": 62.719,
+      "duration": 5.44
+    },
+    {
+      "text": "jacqulyn mabin senior clinical research",
+      "start": 65.72,
+      "duration": 4.92
+    },
+    {
+      "text": "fellow and consultant gynecologist at",
+      "start": 68.159,
+      "duration": 4.721
+    },
+    {
+      "text": "the MRC Center for Reproductive Health",
+      "start": 70.64,
+      "duration": 4.839
+    },
+    {
+      "text": "at University of Edinburgh she's doing",
+      "start": 72.88,
+      "duration": 4.68
+    },
+    {
+      "text": "research into long Co and women's",
+      "start": 75.479,
+      "duration": 3.96
+    },
+    {
+      "text": "reproductive Health funded by the Royal",
+      "start": 77.56,
+      "duration": 4.199
+    },
+    {
+      "text": "Society of Edinburgh I'm really looking",
+      "start": 79.439,
+      "duration": 3.921
+    },
+    {
+      "text": "forward to hearing about what she's been",
+      "start": 81.759,
+      "duration": 4.081
+    },
+    {
+      "text": "up to so welcome to the podcast",
+      "start": 83.36,
+      "duration": 5.799
+    },
+    {
+      "text": "Jackie thanks very much um lovely to",
+      "start": 85.84,
+      "duration": 5.599
+    },
+    {
+      "text": "speak with another hello Jackie so to",
+      "start": 89.159,
+      "duration": 4.201
+    },
+    {
+      "text": "start with would you mind introducing",
+      "start": 91.439,
+      "duration": 3.561
+    },
+    {
+      "text": "yourself a little bit and explaining",
+      "start": 93.36,
+      "duration": 4.399
+    },
+    {
+      "text": "just a little bit about what you do sure",
+      "start": 95.0,
+      "duration": 6.759
+    },
+    {
+      "text": "so I guess my my role is an academic",
+      "start": 97.759,
+      "duration": 7.561
+    },
+    {
+      "text": "gynecologist uh so that means I spend",
+      "start": 101.759,
+      "duration": 6.561
+    },
+    {
+      "text": "about 50% of my time doing clinics for",
+      "start": 105.32,
+      "duration": 5.439
+    },
+    {
+      "text": "people with menstrual disorders uh and",
+      "start": 108.32,
+      "duration": 6.04
+    },
+    {
+      "text": "menstrual problems or uh running theater",
+      "start": 110.759,
+      "duration": 5.96
+    },
+    {
+      "text": "lists um and doing surgery to try and",
+      "start": 114.36,
+      "duration": 5.16
+    },
+    {
+      "text": "help people who have problematic periods",
+      "start": 116.719,
+      "duration": 6.0
+    },
+    {
+      "text": "and the other 50% of my time I spend in",
+      "start": 119.52,
+      "duration": 5.8
+    },
+    {
+      "text": "the laboratory doing research uh trying",
+      "start": 122.719,
+      "duration": 4.921
+    },
+    {
+      "text": "to develop better ways to prevent",
+      "start": 125.32,
+      "duration": 4.24
+    },
+    {
+      "text": "problematic periods or better treatments",
+      "start": 127.64,
+      "duration": 4.44
+    },
+    {
+      "text": "for the people who do experience them um",
+      "start": 129.56,
+      "duration": 4.56
+    },
+    {
+      "text": "so I think I have one of the best jobs",
+      "start": 132.08,
+      "duration": 4.76
+    },
+    {
+      "text": "in the world I get to to hear firsthand",
+      "start": 134.12,
+      "duration": 4.52
+    },
+    {
+      "text": "from people what their problems are and",
+      "start": 136.84,
+      "duration": 3.84
+    },
+    {
+      "text": "then have the opportunity in",
+      "start": 138.64,
+      "duration": 3.84
+    },
+    {
+      "text": "collaboration with the patients um to",
+      "start": 140.68,
+      "duration": 3.279
+    },
+    {
+      "text": "take things back to the lab and really",
+      "start": 142.48,
+      "duration": 4.08
+    },
+    {
+      "text": "work out and see if we can get some new",
+      "start": 143.959,
+      "duration": 4.601
+    },
+    {
+      "text": "better treatments for them that's",
+      "start": 146.56,
+      "duration": 3.959
+    },
+    {
+      "text": "awesome so you get to see both sides",
+      "start": 148.56,
+      "duration": 5.0
+    },
+    {
+      "text": "it yeah yeah I think it's it's a really",
+      "start": 150.519,
+      "duration": 5.161
+    },
+    {
+      "text": "nice position to be in um you sort of",
+      "start": 153.56,
+      "duration": 5.16
+    },
+    {
+      "text": "Bridging the Two Worlds and it it's yeah",
+      "start": 155.68,
+      "duration": 6.32
+    },
+    {
+      "text": "it's very satisfying that's amazing so",
+      "start": 158.72,
+      "duration": 5.72
+    },
+    {
+      "text": "what Drew you to long covid and to sort",
+      "start": 162.0,
+      "duration": 5.68
+    },
+    {
+      "text": "of this study specifically yeah so uh",
+      "start": 164.44,
+      "duration": 5.76
+    },
+    {
+      "text": "pre 2020 I guess nobody was thinking",
+      "start": 167.68,
+      "duration": 5.919
+    },
+    {
+      "text": "about Co were they um so yeah as I've",
+      "start": 170.2,
+      "duration": 6.36
+    },
+    {
+      "text": "said my main research is uh based on",
+      "start": 173.599,
+      "duration": 4.881
+    },
+    {
+      "text": "sort of periods problematic periods",
+      "start": 176.56,
+      "duration": 3.44
+    },
+    {
+      "text": "making things better for the people who",
+      "start": 178.48,
+      "duration": 5.16
+    },
+    {
+      "text": "experienced them and I guess Co hit um",
+      "start": 180.0,
+      "duration": 7.08
+    },
+    {
+      "text": "and long Co became a big problem um and",
+      "start": 183.64,
+      "duration": 5.92
+    },
+    {
+      "text": "more and more I was hearing in clinic",
+      "start": 187.08,
+      "duration": 4.64
+    },
+    {
+      "text": "about people experiencing menstrual",
+      "start": 189.56,
+      "duration": 4.64
+    },
+    {
+      "text": "difficulties um hearing about it via the",
+      "start": 191.72,
+      "duration": 4.72
+    },
+    {
+      "text": "media people talking about it on social",
+      "start": 194.2,
+      "duration": 3.8
+    },
+    {
+      "text": "media and the problems that they're",
+      "start": 196.44,
+      "duration": 4.4
+    },
+    {
+      "text": "having um and really it it's just",
+      "start": 198.0,
+      "duration": 4.76
+    },
+    {
+      "text": "something that as a gynecologist I",
+      "start": 200.84,
+      "duration": 4.72
+    },
+    {
+      "text": "couldn't ignore and I felt I'd some of",
+      "start": 202.76,
+      "duration": 5.479
+    },
+    {
+      "text": "the skills there to try and look into",
+      "start": 205.56,
+      "duration": 4.72
+    },
+    {
+      "text": "this a bit more so",
+      "start": 208.239,
+      "duration": 4.161
+    },
+    {
+      "text": "a team of us got together um to talk",
+      "start": 210.28,
+      "duration": 4.319
+    },
+    {
+      "text": "about it and decide uh what we could",
+      "start": 212.4,
+      "duration": 5.0
+    },
+    {
+      "text": "potentially do to look into this further",
+      "start": 214.599,
+      "duration": 5.28
+    },
+    {
+      "text": "get some of the data uh I think quite",
+      "start": 217.4,
+      "duration": 5.0
+    },
+    {
+      "text": "often menstrual data just isn't",
+      "start": 219.879,
+      "duration": 5.321
+    },
+    {
+      "text": "collected um and if you don't have data",
+      "start": 222.4,
+      "duration": 4.36
+    },
+    {
+      "text": "you don't know that there's a problem",
+      "start": 225.2,
+      "duration": 4.239
+    },
+    {
+      "text": "and you can't do anything about it uh so",
+      "start": 226.76,
+      "duration": 5.72
+    },
+    {
+      "text": "a team of us from Oxford mellier um",
+      "start": 229.439,
+      "duration": 5.681
+    },
+    {
+      "text": "newon Health um we're talking about it",
+      "start": 232.48,
+      "duration": 4.56
+    },
+    {
+      "text": "and decided that we would try and get",
+      "start": 235.12,
+      "duration": 3.88
+    },
+    {
+      "text": "some data together to see if we can",
+      "start": 237.04,
+      "duration": 4.199
+    },
+    {
+      "text": "identify any areas where we can help",
+      "start": 239.0,
+      "duration": 3.959
+    },
+    {
+      "text": "that's fantastic and you've got this",
+      "start": 241.239,
+      "duration": 3.56
+    },
+    {
+      "text": "international team going on as well",
+      "start": 242.959,
+      "duration": 5.321
+    },
+    {
+      "text": "which is quite cool yeah it's um yeah",
+      "start": 244.799,
+      "duration": 4.681
+    },
+    {
+      "text": "it's a team of people who were",
+      "start": 248.28,
+      "duration": 4.4
+    },
+    {
+      "text": "interested um in these kind of problems",
+      "start": 249.48,
+      "duration": 6.16
+    },
+    {
+      "text": "before covid um and then I think as a",
+      "start": 252.68,
+      "duration": 5.92
+    },
+    {
+      "text": "researcher you have to move and adapt",
+      "start": 255.64,
+      "duration": 6.64
+    },
+    {
+      "text": "and change to where the problems are um",
+      "start": 258.6,
+      "duration": 6.319
+    },
+    {
+      "text": "and I guess that is the big strength of",
+      "start": 262.28,
+      "duration": 4.96
+    },
+    {
+      "text": "being a clinician and a scientist is",
+      "start": 264.919,
+      "duration": 4.12
+    },
+    {
+      "text": "that when people come through in clinic",
+      "start": 267.24,
+      "duration": 3.36
+    },
+    {
+      "text": "and present with the new problem that",
+      "start": 269.039,
+      "duration": 3.88
+    },
+    {
+      "text": "you've never heard before then that's a",
+      "start": 270.6,
+      "duration": 4.52
+    },
+    {
+      "text": "real opportunity to you know do some",
+      "start": 272.919,
+      "duration": 5.801
+    },
+    {
+      "text": "research into a new current area um so",
+      "start": 275.12,
+      "duration": 5.359
+    },
+    {
+      "text": "we have to respond and adapt to the",
+      "start": 278.72,
+      "duration": 3.68
+    },
+    {
+      "text": "world around us and I think this is a",
+      "start": 280.479,
+      "duration": 4.481
+    },
+    {
+      "text": "really good example of of doing that and",
+      "start": 282.4,
+      "duration": 4.88
+    },
+    {
+      "text": "trying to to get some answers to a new",
+      "start": 284.96,
+      "duration": 5.079
+    },
+    {
+      "text": "problem yeah fantastic and this kind of",
+      "start": 287.28,
+      "duration": 5.96
+    },
+    {
+      "text": "new online world that we now live in it",
+      "start": 290.039,
+      "duration": 6.16
+    },
+    {
+      "text": "it makes distance so much less important",
+      "start": 293.24,
+      "duration": 5.72
+    },
+    {
+      "text": "doesn't it yeah yeah absolutely so I",
+      "start": 296.199,
+      "duration": 4.681
+    },
+    {
+      "text": "mean it's you know the sort of",
+      "start": 298.96,
+      "duration": 4.16
+    },
+    {
+      "text": "Grassroots effects of social media as a",
+      "start": 300.88,
+      "duration": 4.48
+    },
+    {
+      "text": "real positive I think um there's many",
+      "start": 303.12,
+      "duration": 4.079
+    },
+    {
+      "text": "downsides to social media but there's so",
+      "start": 305.36,
+      "duration": 4.119
+    },
+    {
+      "text": "many strengths and I think that's you",
+      "start": 307.199,
+      "duration": 4.801
+    },
+    {
+      "text": "know International Grassroots voice",
+      "start": 309.479,
+      "duration": 4.881
+    },
+    {
+      "text": "saying this is a problem that needs",
+      "start": 312.0,
+      "duration": 4.68
+    },
+    {
+      "text": "addressed um we do listen to that as",
+      "start": 314.36,
+      "duration": 4.76
+    },
+    {
+      "text": "researchers and we hear it um so it's",
+      "start": 316.68,
+      "duration": 4.6
+    },
+    {
+      "text": "well worth um you know people talking",
+      "start": 319.12,
+      "duration": 4.16
+    },
+    {
+      "text": "about these things online and I'm a big",
+      "start": 321.28,
+      "duration": 3.32
+    },
+    {
+      "text": "advocate for talking more about",
+      "start": 323.28,
+      "duration": 3.359
+    },
+    {
+      "text": "menstruation because when you talk about",
+      "start": 324.6,
+      "duration": 3.84
+    },
+    {
+      "text": "it you realize what typical and",
+      "start": 326.639,
+      "duration": 4.481
+    },
+    {
+      "text": "problematic is um allows us to do more",
+      "start": 328.44,
+      "duration": 4.92
+    },
+    {
+      "text": "research get more funding um and",
+      "start": 331.12,
+      "duration": 4.639
+    },
+    {
+      "text": "ultimately improve treatments for people",
+      "start": 333.36,
+      "duration": 4.44
+    },
+    {
+      "text": "yeah it's interesting isn't it because",
+      "start": 335.759,
+      "duration": 4.761
+    },
+    {
+      "text": "even now in what are we 2022 it still",
+      "start": 337.8,
+      "duration": 4.76
+    },
+    {
+      "text": "seems to be a bit of a taboo topic to",
+      "start": 340.52,
+      "duration": 5.679
+    },
+    {
+      "text": "talk about it it is um and it's I mean I",
+      "start": 342.56,
+      "duration": 7.52
+    },
+    {
+      "text": "think it's just so wrapped up in history",
+      "start": 346.199,
+      "duration": 6.321
+    },
+    {
+      "text": "and um you know how things were in the",
+      "start": 350.08,
+      "duration": 4.48
+    },
+    {
+      "text": "past there's a there's a big Fallout",
+      "start": 352.52,
+      "duration": 4.32
+    },
+    {
+      "text": "from that things have definitely moved",
+      "start": 354.56,
+      "duration": 4.639
+    },
+    {
+      "text": "on I mean women in general aren't",
+      "start": 356.84,
+      "duration": 3.799
+    },
+    {
+      "text": "vanished from society when they're",
+      "start": 359.199,
+      "duration": 4.161
+    },
+    {
+      "text": "minrating which is fantastic uh but I",
+      "start": 360.639,
+      "duration": 5.081
+    },
+    {
+      "text": "think we should be aing higher than that",
+      "start": 363.36,
+      "duration": 4.6
+    },
+    {
+      "text": "um and I think it's you know it's you",
+      "start": 365.72,
+      "duration": 3.599
+    },
+    {
+      "text": "know different people have different",
+      "start": 367.96,
+      "duration": 3.44
+    },
+    {
+      "text": "cultural values and some people like to",
+      "start": 369.319,
+      "duration": 3.761
+    },
+    {
+      "text": "be discreet about menstruation and",
+      "start": 371.4,
+      "duration": 3.72
+    },
+    {
+      "text": "that's that's I think that's fine but I",
+      "start": 373.08,
+      "duration": 4.44
+    },
+    {
+      "text": "I don't think anybody should be ashamed",
+      "start": 375.12,
+      "duration": 3.799
+    },
+    {
+      "text": "uh and I think it's it's really",
+      "start": 377.52,
+      "duration": 4.679
+    },
+    {
+      "text": "important that we have Frank honest open",
+      "start": 378.919,
+      "duration": 6.4
+    },
+    {
+      "text": "conversations about periods so that we",
+      "start": 382.199,
+      "duration": 4.681
+    },
+    {
+      "text": "can do the research and make things",
+      "start": 385.319,
+      "duration": 3.241
+    },
+    {
+      "text": "better and people know when to attend",
+      "start": 386.88,
+      "duration": 4.159
+    },
+    {
+      "text": "for help um I think a lot of people are",
+      "start": 388.56,
+      "duration": 4.12
+    },
+    {
+      "text": "suffering in Silence with these kind of",
+      "start": 391.039,
+      "duration": 3.481
+    },
+    {
+      "text": "things because they're not spoken about",
+      "start": 392.68,
+      "duration": 3.88
+    },
+    {
+      "text": "so I for one was really pleased to hear",
+      "start": 394.52,
+      "duration": 4.44
+    },
+    {
+      "text": "that women and people who Minister it in",
+      "start": 396.56,
+      "duration": 4.68
+    },
+    {
+      "text": "social media were making some noise",
+      "start": 398.96,
+      "duration": 4.92
+    },
+    {
+      "text": "about the impact of covid on their",
+      "start": 401.24,
+      "duration": 5.359
+    },
+    {
+      "text": "periods um I think that's really",
+      "start": 403.88,
+      "duration": 5.4
+    },
+    {
+      "text": "powerful and only going to be a positive",
+      "start": 406.599,
+      "duration": 5.561
+    },
+    {
+      "text": "thing for for people in the future yeah",
+      "start": 409.28,
+      "duration": 6.52
+    },
+    {
+      "text": "for sure absolutely um so could you",
+      "start": 412.16,
+      "duration": 5.479
+    },
+    {
+      "text": "explain sort of what what does the study",
+      "start": 415.8,
+      "duration": 6.32
+    },
+    {
+      "text": "do and how does it work yeah so we as I",
+      "start": 417.639,
+      "duration": 6.721
+    },
+    {
+      "text": "say sat down and we're having a",
+      "start": 422.12,
+      "duration": 5.04
+    },
+    {
+      "text": "conversation with people from really",
+      "start": 424.36,
+      "duration": 5.679
+    },
+    {
+      "text": "different areas so um the group in",
+      "start": 427.16,
+      "duration": 6.0
+    },
+    {
+      "text": "Oxford and melier are anthropologists so",
+      "start": 430.039,
+      "duration": 6.401
+    },
+    {
+      "text": "they study human behavior and try and",
+      "start": 433.16,
+      "duration": 5.2
+    },
+    {
+      "text": "they've got a health aspect as well with",
+      "start": 436.44,
+      "duration": 4.319
+    },
+    {
+      "text": "that um but their expertise is very",
+      "start": 438.36,
+      "duration": 4.44
+    },
+    {
+      "text": "different to mine as a",
+      "start": 440.759,
+      "duration": 4.241
+    },
+    {
+      "text": "gynecologist um and the people that I'm",
+      "start": 442.8,
+      "duration": 4.04
+    },
+    {
+      "text": "working with in Bristol Jemma sharp is",
+      "start": 445.0,
+      "duration": 4.56
+    },
+    {
+      "text": "an epidemiologist so she's interested",
+      "start": 446.84,
+      "duration": 4.639
+    },
+    {
+      "text": "and the numbers and the figures and the",
+      "start": 449.56,
+      "duration": 4.919
+    },
+    {
+      "text": "public health and how that influences um",
+      "start": 451.479,
+      "duration": 5.881
+    },
+    {
+      "text": "health and menstration so I think the",
+      "start": 454.479,
+      "duration": 4.28
+    },
+    {
+      "text": "real strength of the team is we've all",
+      "start": 457.36,
+      "duration": 4.32
+    },
+    {
+      "text": "got different areas of expertise um and",
+      "start": 458.759,
+      "duration": 5.44
+    },
+    {
+      "text": "the team in new and health are menopause",
+      "start": 461.68,
+      "duration": 4.28
+    },
+    {
+      "text": "experts so everybody was bringing",
+      "start": 464.199,
+      "duration": 4.041
+    },
+    {
+      "text": "different things to the table um and we",
+      "start": 465.96,
+      "duration": 3.919
+    },
+    {
+      "text": "sat down and thought about how best to",
+      "start": 468.24,
+      "duration": 2.959
+    },
+    {
+      "text": "to look at some of these problems and",
+      "start": 469.879,
+      "duration": 3.241
+    },
+    {
+      "text": "the team in Oxford had already set up a",
+      "start": 471.199,
+      "duration": 4.68
+    },
+    {
+      "text": "study uh which is now closed but many",
+      "start": 473.12,
+      "duration": 5.12
+    },
+    {
+      "text": "people have taken part in it looking at",
+      "start": 475.879,
+      "duration": 4.801
+    },
+    {
+      "text": "the pandemic and menstruation and",
+      "start": 478.24,
+      "duration": 5.04
+    },
+    {
+      "text": "reproductive Health um and from that",
+      "start": 480.68,
+      "duration": 5.0
+    },
+    {
+      "text": "really nice survey um they're starting",
+      "start": 483.28,
+      "duration": 4.8
+    },
+    {
+      "text": "to look at a lot of different features",
+      "start": 485.68,
+      "duration": 7.199
+    },
+    {
+      "text": "um how the pandemic versus having acute",
+      "start": 488.08,
+      "duration": 7.48
+    },
+    {
+      "text": "covid versus long covid can impact on",
+      "start": 492.879,
+      "duration": 4.961
+    },
+    {
+      "text": "reproductive Health um so we're we're",
+      "start": 495.56,
+      "duration": 3.84
+    },
+    {
+      "text": "looking at a lot of the data for that",
+      "start": 497.84,
+      "duration": 4.359
+    },
+    {
+      "text": "and we've put together a manuscript that",
+      "start": 499.4,
+      "duration": 4.88
+    },
+    {
+      "text": "has looked at vaccination and periods",
+      "start": 502.199,
+      "duration": 3.481
+    },
+    {
+      "text": "and that kind of thing so there's lots",
+      "start": 504.28,
+      "duration": 3.599
+    },
+    {
+      "text": "of different work going on with that",
+      "start": 505.68,
+      "duration": 4.479
+    },
+    {
+      "text": "study that has now closed recruitment",
+      "start": 507.879,
+      "duration": 4.28
+    },
+    {
+      "text": "but we're we're dealing with the data",
+      "start": 510.159,
+      "duration": 5.201
+    },
+    {
+      "text": "and turning through that um the two",
+      "start": 512.159,
+      "duration": 6.201
+    },
+    {
+      "text": "other sort of arms of the study I guess",
+      "start": 515.36,
+      "duration": 6.039
+    },
+    {
+      "text": "um are a a survey that's open at the",
+      "start": 518.36,
+      "duration": 5.64
+    },
+    {
+      "text": "moment looking at the menstrual cycle",
+      "start": 521.399,
+      "duration": 4.681
+    },
+    {
+      "text": "and documenting when people are bleeding",
+      "start": 524.0,
+      "duration": 4.32
+    },
+    {
+      "text": "and then looking at the symptoms of long",
+      "start": 526.08,
+      "duration": 4.56
+    },
+    {
+      "text": "covid um and matching that up against",
+      "start": 528.32,
+      "duration": 3.8
+    },
+    {
+      "text": "the menstrual cycle to see if there's",
+      "start": 530.64,
+      "duration": 4.6
+    },
+    {
+      "text": "any connection there um so that study um",
+      "start": 532.12,
+      "duration": 6.24
+    },
+    {
+      "text": "is open for recruitment um there are",
+      "start": 535.24,
+      "duration": 5.36
+    },
+    {
+      "text": "some quite specific inclusion criteria",
+      "start": 538.36,
+      "duration": 3.64
+    },
+    {
+      "text": "which means you have to meet certain",
+      "start": 540.6,
+      "duration": 3.32
+    },
+    {
+      "text": "things before you can take part in the",
+      "start": 542.0,
+      "duration": 4.12
+    },
+    {
+      "text": "study um and one of those is that you",
+      "start": 543.92,
+      "duration": 5.96
+    },
+    {
+      "text": "have to have regular is periods um which",
+      "start": 546.12,
+      "duration": 5.52
+    },
+    {
+      "text": "will I know exclude a lot of people with",
+      "start": 549.88,
+      "duration": 3.04
+    },
+    {
+      "text": "long covid and that can be very",
+      "start": 551.64,
+      "duration": 3.319
+    },
+    {
+      "text": "frustrating but I think for the",
+      "start": 552.92,
+      "duration": 4.039
+    },
+    {
+      "text": "scientific question that we're asking at",
+      "start": 554.959,
+      "duration": 3.681
+    },
+    {
+      "text": "for this particular study it's really",
+      "start": 556.959,
+      "duration": 3.841
+    },
+    {
+      "text": "important that people have slightly",
+      "start": 558.64,
+      "duration": 4.52
+    },
+    {
+      "text": "regular periods so that we can tell from",
+      "start": 560.8,
+      "duration": 4.84
+    },
+    {
+      "text": "their documentation electronically where",
+      "start": 563.16,
+      "duration": 4.48
+    },
+    {
+      "text": "they are in their cycle and make some of",
+      "start": 565.64,
+      "duration": 4.639
+    },
+    {
+      "text": "the analysis more robust",
+      "start": 567.64,
+      "duration": 4.68
+    },
+    {
+      "text": "uh but that's a study where people do it",
+      "start": 570.279,
+      "duration": 4.8
+    },
+    {
+      "text": "all online um and we ask them to",
+      "start": 572.32,
+      "duration": 5.36
+    },
+    {
+      "text": "complete a short questionnaire about",
+      "start": 575.079,
+      "duration": 5.44
+    },
+    {
+      "text": "covid vaccination their symptoms a lot",
+      "start": 577.68,
+      "duration": 6.0
+    },
+    {
+      "text": "of uh demographic details to allow us to",
+      "start": 580.519,
+      "duration": 4.641
+    },
+    {
+      "text": "analyze the study properly and make sure",
+      "start": 583.68,
+      "duration": 3.96
+    },
+    {
+      "text": "we've got a representative group of the",
+      "start": 585.16,
+      "duration": 5.32
+    },
+    {
+      "text": "of the population um it's a uk-wide",
+      "start": 587.64,
+      "duration": 5.96
+    },
+    {
+      "text": "study um so after completing the a",
+      "start": 590.48,
+      "duration": 5.359
+    },
+    {
+      "text": "questionnaire then people will get",
+      "start": 593.6,
+      "duration": 4.479
+    },
+    {
+      "text": "emailed with a a daily questionnaire",
+      "start": 595.839,
+      "duration": 4.161
+    },
+    {
+      "text": "which is very short just just asking if",
+      "start": 598.079,
+      "duration": 3.561
+    },
+    {
+      "text": "they're menstruating or not if it's",
+      "start": 600.0,
+      "duration": 4.64
+    },
+    {
+      "text": "light heavy or spotting or",
+      "start": 601.64,
+      "duration": 5.92
+    },
+    {
+      "text": "normal um and then asking about a",
+      "start": 604.64,
+      "duration": 5.36
+    },
+    {
+      "text": "standardized set of symptoms that people",
+      "start": 607.56,
+      "duration": 4.44
+    },
+    {
+      "text": "can mark the severity of them so it's a",
+      "start": 610.0,
+      "duration": 4.44
+    },
+    {
+      "text": "very quick and easy daily survey to",
+      "start": 612.0,
+      "duration": 4.56
+    },
+    {
+      "text": "complete but we're hoping women will do",
+      "start": 614.44,
+      "duration": 4.24
+    },
+    {
+      "text": "it for two to three months um allowing",
+      "start": 616.56,
+      "duration": 4.44
+    },
+    {
+      "text": "us to assess two to three menstrual",
+      "start": 618.68,
+      "duration": 4.719
+    },
+    {
+      "text": "cycles um and I think it'll give us",
+      "start": 621.0,
+      "duration": 5.8
+    },
+    {
+      "text": "really powerful data about um long covid",
+      "start": 623.399,
+      "duration": 6.44
+    },
+    {
+      "text": "symptoms and the menstrual cycle you",
+      "start": 626.8,
+      "duration": 4.719
+    },
+    {
+      "text": "know it's it's not an easy thing to take",
+      "start": 629.839,
+      "duration": 3.841
+    },
+    {
+      "text": "part in it is over a couple of months I",
+      "start": 631.519,
+      "duration": 4.401
+    },
+    {
+      "text": "appreciate that people with long covid",
+      "start": 633.68,
+      "duration": 3.959
+    },
+    {
+      "text": "have a lot of other things on their",
+      "start": 635.92,
+      "duration": 4.68
+    },
+    {
+      "text": "plates um but from the people that we",
+      "start": 637.639,
+      "duration": 4.921
+    },
+    {
+      "text": "spoke to when we were designing the",
+      "start": 640.6,
+      "duration": 4.679
+    },
+    {
+      "text": "study um I think we're they're just you",
+      "start": 642.56,
+      "duration": 4.6
+    },
+    {
+      "text": "know so Keen to get information about",
+      "start": 645.279,
+      "duration": 3.881
+    },
+    {
+      "text": "this that I hope people will be able to",
+      "start": 647.16,
+      "duration": 3.56
+    },
+    {
+      "text": "help us and take part in this because I",
+      "start": 649.16,
+      "duration": 3.96
+    },
+    {
+      "text": "think it'll give us really powerful data",
+      "start": 650.72,
+      "duration": 4.919
+    },
+    {
+      "text": "um that will hopefully influence how we",
+      "start": 653.12,
+      "duration": 4.519
+    },
+    {
+      "text": "can treat and manage people with",
+      "start": 655.639,
+      "duration": 6.0
+    },
+    {
+      "text": "problems um so that's the at Bas study",
+      "start": 657.639,
+      "duration": 6.64
+    },
+    {
+      "text": "um and then we've got a smaller loan",
+      "start": 661.639,
+      "duration": 4.601
+    },
+    {
+      "text": "base study so for people in the",
+      "start": 664.279,
+      "duration": 4.081
+    },
+    {
+      "text": "southeast of Scotland uh we're asking",
+      "start": 666.24,
+      "duration": 4.52
+    },
+    {
+      "text": "people with long covid and regular",
+      "start": 668.36,
+      "duration": 4.88
+    },
+    {
+      "text": "menstrual cycles if they would be happy",
+      "start": 670.76,
+      "duration": 5.079
+    },
+    {
+      "text": "to attend on three occasions throughout",
+      "start": 673.24,
+      "duration": 4.76
+    },
+    {
+      "text": "their menstrual cycle so once in the",
+      "start": 675.839,
+      "duration": 3.961
+    },
+    {
+      "text": "proliferative phase when estrogen levels",
+      "start": 678.0,
+      "duration": 4.279
+    },
+    {
+      "text": "are high once in the secretory phase",
+      "start": 679.8,
+      "duration": 4.12
+    },
+    {
+      "text": "after the egg has been released from the",
+      "start": 682.279,
+      "duration": 5.56
+    },
+    {
+      "text": "ovary and then once during a period um",
+      "start": 683.92,
+      "duration": 6.08
+    },
+    {
+      "text": "and we're asking them to provide",
+      "start": 687.839,
+      "duration": 5.601
+    },
+    {
+      "text": "uh a blood sample um and an optional",
+      "start": 690.0,
+      "duration": 6.36
+    },
+    {
+      "text": "biopsy of the lining of the womb which",
+      "start": 693.44,
+      "duration": 5.079
+    },
+    {
+      "text": "is a procedure that starts a bit like a",
+      "start": 696.36,
+      "duration": 4.56
+    },
+    {
+      "text": "smear test and it's a very fine straw",
+      "start": 698.519,
+      "duration": 3.801
+    },
+    {
+      "text": "that goes through the neck of the womb",
+      "start": 700.92,
+      "duration": 4.159
+    },
+    {
+      "text": "and takes a little scraping it it can be",
+      "start": 702.32,
+      "duration": 5.24
+    },
+    {
+      "text": "uncomfortable uh but most women manage",
+      "start": 705.079,
+      "duration": 4.641
+    },
+    {
+      "text": "fine without any anesthetic in the night",
+      "start": 707.56,
+      "duration": 4.519
+    },
+    {
+      "text": "patient setting uh but I've made it",
+      "start": 709.72,
+      "duration": 3.88
+    },
+    {
+      "text": "optional because if you know if people",
+      "start": 712.079,
+      "duration": 3.361
+    },
+    {
+      "text": "aren't keen on that portion of the study",
+      "start": 713.6,
+      "duration": 3.6
+    },
+    {
+      "text": "it's fine to come along and give a blood",
+      "start": 715.44,
+      "duration": 4.0
+    },
+    {
+      "text": "sample uh but you know if people are",
+      "start": 717.2,
+      "duration": 3.96
+    },
+    {
+      "text": "happy to give us the biopsy it gives us",
+      "start": 719.44,
+      "duration": 4.399
+    },
+    {
+      "text": "really useful data about how it's",
+      "start": 721.16,
+      "duration": 5.44
+    },
+    {
+      "text": "affecting the lining of the womb and the",
+      "start": 723.839,
+      "duration": 4.201
+    },
+    {
+      "text": "lining of the W is what comes away",
+      "start": 726.6,
+      "duration": 3.359
+    },
+    {
+      "text": "during a period so it's the real",
+      "start": 728.04,
+      "duration": 4.68
+    },
+    {
+      "text": "critical um organ that we need to study",
+      "start": 729.959,
+      "duration": 5.601
+    },
+    {
+      "text": "to see if long Co is having an effect um",
+      "start": 732.72,
+      "duration": 5.08
+    },
+    {
+      "text": "and we've got a nice Bank of tissue from",
+      "start": 735.56,
+      "duration": 5.68
+    },
+    {
+      "text": "people before covid pandemic hits uh",
+      "start": 737.8,
+      "duration": 6.0
+    },
+    {
+      "text": "that we can compare the sort of hormone",
+      "start": 741.24,
+      "duration": 4.839
+    },
+    {
+      "text": "levels the lining of the womb and see if",
+      "start": 743.8,
+      "duration": 3.839
+    },
+    {
+      "text": "there's any differences between people",
+      "start": 746.079,
+      "duration": 3.88
+    },
+    {
+      "text": "with long covid and people who've never",
+      "start": 747.639,
+      "duration": 5.0
+    },
+    {
+      "text": "had covid or at the time of the samples",
+      "start": 749.959,
+      "duration": 5.641
+    },
+    {
+      "text": "had never had Co so it's it's quite a",
+      "start": 752.639,
+      "duration": 4.961
+    },
+    {
+      "text": "small study we've kept it quite local at",
+      "start": 755.6,
+      "duration": 4.88
+    },
+    {
+      "text": "the moment um but I think there's a real",
+      "start": 757.6,
+      "duration": 4.679
+    },
+    {
+      "text": "opportunity to look at some of the",
+      "start": 760.48,
+      "duration": 3.799
+    },
+    {
+      "text": "biological features and really drill",
+      "start": 762.279,
+      "duration": 3.721
+    },
+    {
+      "text": "down into the mechanisms that are",
+      "start": 764.279,
+      "duration": 3.68
+    },
+    {
+      "text": "causing problems for people with long",
+      "start": 766.0,
+      "duration": 3.16
+    },
+    {
+      "text": "covid and their",
+      "start": 767.959,
+      "duration": 3.24
+    },
+    {
+      "text": "menstration um so we're really Keen to",
+      "start": 769.16,
+      "duration": 4.0
+    },
+    {
+      "text": "hear from people if they want to take",
+      "start": 771.199,
+      "duration": 6.161
+    },
+    {
+      "text": "part um so it's have a lovely team of",
+      "start": 773.16,
+      "duration": 6.08
+    },
+    {
+      "text": "research nurses who are all excellent",
+      "start": 777.36,
+      "duration": 3.12
+    },
+    {
+      "text": "and very experienced and very",
+      "start": 779.24,
+      "duration": 3.24
+    },
+    {
+      "text": "approachable for helping with the study",
+      "start": 780.48,
+      "duration": 3.44
+    },
+    {
+      "text": "and be really happy to hear from people",
+      "start": 782.48,
+      "duration": 3.44
+    },
+    {
+      "text": "and talk them through it um and tell",
+      "start": 783.92,
+      "duration": 3.479
+    },
+    {
+      "text": "them a we bit more about it and people",
+      "start": 785.92,
+      "duration": 3.08
+    },
+    {
+      "text": "can it's very much an optional thing",
+      "start": 787.399,
+      "duration": 2.961
+    },
+    {
+      "text": "whether people want to take part but",
+      "start": 789.0,
+      "duration": 2.88
+    },
+    {
+      "text": "we're very happy to discuss it with",
+      "start": 790.36,
+      "duration": 3.279
+    },
+    {
+      "text": "people and with have an information",
+      "start": 791.88,
+      "duration": 3.56
+    },
+    {
+      "text": "sheet on our menstrual Health Website",
+      "start": 793.639,
+      "duration": 3.64
+    },
+    {
+      "text": "that people can can look through the",
+      "start": 795.44,
+      "duration": 3.12
+    },
+    {
+      "text": "information and see if they'd like to",
+      "start": 797.279,
+      "duration": 3.401
+    },
+    {
+      "text": "take work fantastic and I'll definitely",
+      "start": 798.56,
+      "duration": 3.44
+    },
+    {
+      "text": "put links to all of that in the show",
+      "start": 800.68,
+      "duration": 2.8
+    },
+    {
+      "text": "notes so if there's anybody that's",
+      "start": 802.0,
+      "duration": 3.399
+    },
+    {
+      "text": "listening and they think that this might",
+      "start": 803.48,
+      "duration": 3.359
+    },
+    {
+      "text": "be something that they're interested in",
+      "start": 805.399,
+      "duration": 3.56
+    },
+    {
+      "text": "then they'll hopefully know where to go",
+      "start": 806.839,
+      "duration": 4.481
+    },
+    {
+      "text": "um um but yeah I mean that's really",
+      "start": 808.959,
+      "duration": 4.281
+    },
+    {
+      "text": "interesting that you're you know you've",
+      "start": 811.32,
+      "duration": 3.639
+    },
+    {
+      "text": "got the different the different arms as",
+      "start": 813.24,
+      "duration": 3.44
+    },
+    {
+      "text": "you described it because you've got all",
+      "start": 814.959,
+      "duration": 3.721
+    },
+    {
+      "text": "these kind of different ways in yeah I",
+      "start": 816.68,
+      "duration": 4.04
+    },
+    {
+      "text": "guess it's I mean it's there's a bit of",
+      "start": 818.68,
+      "duration": 5.12
+    },
+    {
+      "text": "a dir of data here um you know menstrual",
+      "start": 820.72,
+      "duration": 4.28
+    },
+    {
+      "text": "Health has may be forgotten about a",
+      "start": 823.8,
+      "duration": 2.599
+    },
+    {
+      "text": "little bit and we're really trying to",
+      "start": 825.0,
+      "duration": 2.92
+    },
+    {
+      "text": "address that and just get the",
+      "start": 826.399,
+      "duration": 3.601
+    },
+    {
+      "text": "information that then we can build upon",
+      "start": 827.92,
+      "duration": 4.12
+    },
+    {
+      "text": "in the future to to develop better",
+      "start": 830.0,
+      "duration": 3.959
+    },
+    {
+      "text": "treatment so they're quite preliminary",
+      "start": 832.04,
+      "duration": 3.479
+    },
+    {
+      "text": "studies but I think they're absolutely",
+      "start": 833.959,
+      "duration": 3.521
+    },
+    {
+      "text": "necessary to give the foundations for",
+      "start": 835.519,
+      "duration": 4.361
+    },
+    {
+      "text": "more um treatment based studies in the",
+      "start": 837.48,
+      "duration": 4.88
+    },
+    {
+      "text": "future um and you know we we're really",
+      "start": 839.88,
+      "duration": 5.6
+    },
+    {
+      "text": "interested in the impact of covid on",
+      "start": 842.36,
+      "duration": 5.839
+    },
+    {
+      "text": "periods and also the impact of the",
+      "start": 845.48,
+      "duration": 6.039
+    },
+    {
+      "text": "menstrual cycle on non covid so we've",
+      "start": 848.199,
+      "duration": 5.921
+    },
+    {
+      "text": "set up this sort of sort of set of",
+      "start": 851.519,
+      "duration": 4.44
+    },
+    {
+      "text": "studies to to look at all different",
+      "start": 854.12,
+      "duration": 3.839
+    },
+    {
+      "text": "aspects of it and just get as much",
+      "start": 855.959,
+      "duration": 4.961
+    },
+    {
+      "text": "detail and information as we can yes",
+      "start": 857.959,
+      "duration": 4.24
+    },
+    {
+      "text": "exactly because once you've got the",
+      "start": 860.92,
+      "duration": 3.08
+    },
+    {
+      "text": "information then you can sort of try and",
+      "start": 862.199,
+      "duration": 5.08
+    },
+    {
+      "text": "work out what to do I",
+      "start": 864.0,
+      "duration": 6.24
+    },
+    {
+      "text": "guess and think it's it can be slightly",
+      "start": 867.279,
+      "duration": 4.401
+    },
+    {
+      "text": "frustrating for some people if they're",
+      "start": 870.24,
+      "duration": 2.959
+    },
+    {
+      "text": "not able to take part in some of these",
+      "start": 871.68,
+      "duration": 4.719
+    },
+    {
+      "text": "studies um but you know it's we we've",
+      "start": 873.199,
+      "duration": 6.0
+    },
+    {
+      "text": "had to be quite specific to get some",
+      "start": 876.399,
+      "duration": 5.521
+    },
+    {
+      "text": "robust scientific data at this stage but",
+      "start": 879.199,
+      "duration": 4.601
+    },
+    {
+      "text": "we're very much hopeful that you know",
+      "start": 881.92,
+      "duration": 4.76
+    },
+    {
+      "text": "people who have a regular bleeding and",
+      "start": 883.8,
+      "duration": 4.719
+    },
+    {
+      "text": "um postmenopausal bleeding will be able",
+      "start": 886.68,
+      "duration": 3.2
+    },
+    {
+      "text": "to help us with different studies in the",
+      "start": 888.519,
+      "duration": 3.76
+    },
+    {
+      "text": "future and this we hope is the just the",
+      "start": 889.88,
+      "duration": 4.84
+    },
+    {
+      "text": "the start of things um to collect that",
+      "start": 892.279,
+      "duration": 4.521
+    },
+    {
+      "text": "initial data to then have more",
+      "start": 894.72,
+      "duration": 3.76
+    },
+    {
+      "text": "information and design the future",
+      "start": 896.8,
+      "duration": 5.039
+    },
+    {
+      "text": "studies in a better way yes because it's",
+      "start": 898.48,
+      "duration": 5.0
+    },
+    {
+      "text": "someone I interviewed before and they",
+      "start": 901.839,
+      "duration": 3.041
+    },
+    {
+      "text": "said that it's all just pieces of the",
+      "start": 903.48,
+      "duration": 3.039
+    },
+    {
+      "text": "puzzle don't you don't have the full",
+      "start": 904.88,
+      "duration": 3.48
+    },
+    {
+      "text": "picture until you have all the pieces",
+      "start": 906.519,
+      "duration": 3.841
+    },
+    {
+      "text": "but you've also got to start somewhere",
+      "start": 908.36,
+      "duration": 4.44
+    },
+    {
+      "text": "exactly and it's do you know you we have",
+      "start": 910.36,
+      "duration": 4.36
+    },
+    {
+      "text": "to start small and get the first bit and",
+      "start": 912.8,
+      "duration": 3.68
+    },
+    {
+      "text": "then build on that rather than trying to",
+      "start": 914.72,
+      "duration": 3.64
+    },
+    {
+      "text": "do everything I think if you try to do",
+      "start": 916.48,
+      "duration": 4.12
+    },
+    {
+      "text": "everything at the start you end up",
+      "start": 918.36,
+      "duration": 4.399
+    },
+    {
+      "text": "getting no answer at all um and you have",
+      "start": 920.6,
+      "duration": 3.32
+    },
+    {
+      "text": "to it's frustrating for us as",
+      "start": 922.759,
+      "duration": 2.601
+    },
+    {
+      "text": "researchers because we want to do",
+      "start": 923.92,
+      "duration": 3.4
+    },
+    {
+      "text": "everything straight away but you know",
+      "start": 925.36,
+      "duration": 3.24
+    },
+    {
+      "text": "when we first discussed these studies",
+      "start": 927.32,
+      "duration": 3.04
+    },
+    {
+      "text": "there was lots of ideas floating about",
+      "start": 928.6,
+      "duration": 3.76
+    },
+    {
+      "text": "and you know we were designing huge",
+      "start": 930.36,
+      "duration": 3.36
+    },
+    {
+      "text": "studies and then we had to take a step",
+      "start": 932.36,
+      "duration": 3.159
+    },
+    {
+      "text": "back and say no we need this answer",
+      "start": 933.72,
+      "duration": 3.4
+    },
+    {
+      "text": "before we do this bit and then we need",
+      "start": 935.519,
+      "duration": 3.641
+    },
+    {
+      "text": "this answer before we do this bit so",
+      "start": 937.12,
+      "duration": 4.519
+    },
+    {
+      "text": "it's building it up gradually um and",
+      "start": 939.16,
+      "duration": 4.239
+    },
+    {
+      "text": "making sure that we get the the right",
+      "start": 941.639,
+      "duration": 4.241
+    },
+    {
+      "text": "information to do the right studies um",
+      "start": 943.399,
+      "duration": 4.521
+    },
+    {
+      "text": "you can get a bit carried away and over",
+      "start": 945.88,
+      "duration": 4.16
+    },
+    {
+      "text": "enthusiastic and then you end up with",
+      "start": 947.92,
+      "duration": 3.8
+    },
+    {
+      "text": "incorrect data so we have to do it",
+      "start": 950.04,
+      "duration": 4.12
+    },
+    {
+      "text": "scientifically and logically yeah that's",
+      "start": 951.72,
+      "duration": 4.84
+    },
+    {
+      "text": "definitely",
+      "start": 954.16,
+      "duration": 6.479
+    },
+    {
+      "text": "yeah we'll be right back",
+      "start": 956.56,
+      "duration": 5.839
+    },
+    {
+      "text": "I'm interrupting myself for a second to",
+      "start": 960.639,
+      "duration": 4.521
+    },
+    {
+      "text": "tell you about long Co breathing The",
+      "start": 962.399,
+      "duration": 4.24
+    },
+    {
+      "text": "Fabulous Vicky Jones and I have teamed",
+      "start": 965.16,
+      "duration": 3.799
+    },
+    {
+      "text": "up to bring you long Co breathing we are",
+      "start": 966.639,
+      "duration": 3.68
+    },
+    {
+      "text": "both passionate about sharing our",
+      "start": 968.959,
+      "duration": 3.32
+    },
+    {
+      "text": "expertise and experience of the breath",
+      "start": 970.319,
+      "duration": 3.801
+    },
+    {
+      "text": "and how incredibly helpful that can be",
+      "start": 972.279,
+      "duration": 4.441
+    },
+    {
+      "text": "with L covid we've worked together to",
+      "start": 974.12,
+      "duration": 4.279
+    },
+    {
+      "text": "develop a course that is specifically",
+      "start": 976.72,
+      "duration": 3.96
+    },
+    {
+      "text": "tailored to those with L covid it's a",
+      "start": 978.399,
+      "duration": 4.201
+    },
+    {
+      "text": "6-e course with 12 sessions all",
+      "start": 980.68,
+      "duration": 4.48
+    },
+    {
+      "text": "delivered online the community feel and",
+      "start": 982.6,
+      "duration": 3.96
+    },
+    {
+      "text": "learning that we're all sharing is such",
+      "start": 985.16,
+      "duration": 3.44
+    },
+    {
+      "text": "a joy to find out more information and",
+      "start": 986.56,
+      "duration": 3.279
+    },
+    {
+      "text": "to sign sign up for our courses",
+      "start": 988.6,
+      "duration": 3.2
+    },
+    {
+      "text": "workshops and other shorter sessions",
+      "start": 989.839,
+      "duration": 4.161
+    },
+    {
+      "text": "please check out the link below lco",
+      "start": 991.8,
+      "duration": 5.159
+    },
+    {
+      "text": "breathing.com or email lco breathing",
+      "start": 994.0,
+      "duration": 4.759
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 996.959,
+      "duration": 2.451
+    },
+    {
+      "text": "Journey with",
+      "start": 998.759,
+      "duration": 4.261
+    },
+    {
+      "text": "[Music]",
+      "start": 999.41,
+      "duration": 3.61
+    },
+    {
+      "text": "us have you been working with patient",
+      "start": 1004.36,
+      "duration": 3.719
+    },
+    {
+      "text": "groups while you've been setting up the",
+      "start": 1006.72,
+      "duration": 4.679
+    },
+    {
+      "text": "study as well yeah so we've had great",
+      "start": 1008.079,
+      "duration": 5.76
+    },
+    {
+      "text": "support from um the long coov support",
+      "start": 1011.399,
+      "duration": 5.761
+    },
+    {
+      "text": "groups um you know different uh people",
+      "start": 1013.839,
+      "duration": 5.24
+    },
+    {
+      "text": "have been involved at different stages",
+      "start": 1017.16,
+      "duration": 3.599
+    },
+    {
+      "text": "with the sample based study where we're",
+      "start": 1019.079,
+      "duration": 4.801
+    },
+    {
+      "text": "collecting blood samples and um biopsies",
+      "start": 1020.759,
+      "duration": 4.721
+    },
+    {
+      "text": "of the lining of the womb we had",
+      "start": 1023.88,
+      "duration": 3.52
+    },
+    {
+      "text": "fantastic input from the long C with",
+      "start": 1025.48,
+      "duration": 4.64
+    },
+    {
+      "text": "Scotland group um the patient",
+      "start": 1027.4,
+      "duration": 5.32
+    },
+    {
+      "text": "information sheets and all of the uh",
+      "start": 1030.12,
+      "duration": 5.28
+    },
+    {
+      "text": "consent forms and the legal aspects of",
+      "start": 1032.72,
+      "duration": 6.28
+    },
+    {
+      "text": "the study all went to that group and oh",
+      "start": 1035.4,
+      "duration": 6.24
+    },
+    {
+      "text": "I mean hats off to them I I don't know",
+      "start": 1039.0,
+      "duration": 4.4
+    },
+    {
+      "text": "how these people here are experiencing",
+      "start": 1041.64,
+      "duration": 4.439
+    },
+    {
+      "text": "these awful symptoms are dedicating the",
+      "start": 1043.4,
+      "duration": 4.2
+    },
+    {
+      "text": "time to help us with this research but",
+      "start": 1046.079,
+      "duration": 3.321
+    },
+    {
+      "text": "we're incredibly grateful that they do",
+      "start": 1047.6,
+      "duration": 4.64
+    },
+    {
+      "text": "and they gave us some fantastic feedback",
+      "start": 1049.4,
+      "duration": 5.56
+    },
+    {
+      "text": "um uh about the study design and the",
+      "start": 1052.24,
+      "duration": 4.76
+    },
+    {
+      "text": "wording of the information sheets and",
+      "start": 1054.96,
+      "duration": 3.719
+    },
+    {
+      "text": "everything before it even went through",
+      "start": 1057.0,
+      "duration": 4.679
+    },
+    {
+      "text": "the um ethics boards and that kind of",
+      "start": 1058.679,
+      "duration": 5.441
+    },
+    {
+      "text": "thing so um they were fantastic at",
+      "start": 1061.679,
+      "duration": 4.601
+    },
+    {
+      "text": "helping us to just kind of tweak the",
+      "start": 1064.12,
+      "duration": 3.64
+    },
+    {
+      "text": "study design to make it a we bit more",
+      "start": 1066.28,
+      "duration": 3.36
+    },
+    {
+      "text": "accommodating for people with long Co to",
+      "start": 1067.76,
+      "duration": 4.24
+    },
+    {
+      "text": "take part and we're we're constantly",
+      "start": 1069.64,
+      "duration": 4.2
+    },
+    {
+      "text": "changing as we go you get approvals for",
+      "start": 1072.0,
+      "duration": 3.679
+    },
+    {
+      "text": "these studies but things can evolve and",
+      "start": 1073.84,
+      "duration": 3.48
+    },
+    {
+      "text": "change even throughout the study so",
+      "start": 1075.679,
+      "duration": 4.0
+    },
+    {
+      "text": "we're very much coming with listening",
+      "start": 1077.32,
+      "duration": 4.12
+    },
+    {
+      "text": "ears because we don't know so much about",
+      "start": 1079.679,
+      "duration": 3.161
+    },
+    {
+      "text": "long covid and the people who are",
+      "start": 1081.44,
+      "duration": 3.479
+    },
+    {
+      "text": "experiencing it are the experts so we're",
+      "start": 1082.84,
+      "duration": 4.319
+    },
+    {
+      "text": "always happy to hear from people and um",
+      "start": 1084.919,
+      "duration": 6.081
+    },
+    {
+      "text": "answer any questions and we're very open",
+      "start": 1087.159,
+      "duration": 6.601
+    },
+    {
+      "text": "to uh changing the format and design to",
+      "start": 1091.0,
+      "duration": 4.64
+    },
+    {
+      "text": "make it suit people yes that's awesome",
+      "start": 1093.76,
+      "duration": 3.2
+    },
+    {
+      "text": "that you're listening because I mean",
+      "start": 1095.64,
+      "duration": 2.64
+    },
+    {
+      "text": "there's definitely been a few studies",
+      "start": 1096.96,
+      "duration": 3.719
+    },
+    {
+      "text": "that you've looked at and thought Oh I'm",
+      "start": 1098.28,
+      "duration": 4.32
+    },
+    {
+      "text": "not sure patients looked at this because",
+      "start": 1100.679,
+      "duration": 3.24
+    },
+    {
+      "text": "I don't think they're really asking the",
+      "start": 1102.6,
+      "duration": 3.4
+    },
+    {
+      "text": "right questions um which is really",
+      "start": 1103.919,
+      "duration": 3.88
+    },
+    {
+      "text": "frustrating yeah I mean the questions",
+      "start": 1106.0,
+      "duration": 3.32
+    },
+    {
+      "text": "have to come from",
+      "start": 1107.799,
+      "duration": 4.201
+    },
+    {
+      "text": "the patients you know I think as a",
+      "start": 1109.32,
+      "duration": 4.32
+    },
+    {
+      "text": "clinical",
+      "start": 1112.0,
+      "duration": 3.799
+    },
+    {
+      "text": "researcher I don't really come up with",
+      "start": 1113.64,
+      "duration": 5.0
+    },
+    {
+      "text": "very many ideas um the patients come up",
+      "start": 1115.799,
+      "duration": 4.281
+    },
+    {
+      "text": "with it because they ask me a question",
+      "start": 1118.64,
+      "duration": 4.279
+    },
+    {
+      "text": "and I say I don't know the answer to",
+      "start": 1120.08,
+      "duration": 5.52
+    },
+    {
+      "text": "that um and what I what I love about my",
+      "start": 1122.919,
+      "duration": 4.281
+    },
+    {
+      "text": "job is that you know as a",
+      "start": 1125.6,
+      "duration": 3.04
+    },
+    {
+      "text": "straightforward clinical doctor when you",
+      "start": 1127.2,
+      "duration": 2.68
+    },
+    {
+      "text": "say I don't know you can feel very",
+      "start": 1128.64,
+      "duration": 3.519
+    },
+    {
+      "text": "frustrated and it's it's very hard for",
+      "start": 1129.88,
+      "duration": 4.96
+    },
+    {
+      "text": "the doctor as well as the patient uh",
+      "start": 1132.159,
+      "duration": 5.561
+    },
+    {
+      "text": "whereas N I say I don't know but do you",
+      "start": 1134.84,
+      "duration": 4.4
+    },
+    {
+      "text": "want to help us look into",
+      "start": 1137.72,
+      "duration": 3.36
+    },
+    {
+      "text": "and do you want to help try and answer",
+      "start": 1139.24,
+      "duration": 3.08
+    },
+    {
+      "text": "that question that's a brilliant",
+      "start": 1141.08,
+      "duration": 3.92
+    },
+    {
+      "text": "question and we don't have the answer so",
+      "start": 1142.32,
+      "duration": 4.64
+    },
+    {
+      "text": "you performing research alongside",
+      "start": 1145.0,
+      "duration": 4.08
+    },
+    {
+      "text": "clinical practice gives you that you",
+      "start": 1146.96,
+      "duration": 4.4
+    },
+    {
+      "text": "know that amazing opportunity to work",
+      "start": 1149.08,
+      "duration": 4.8
+    },
+    {
+      "text": "with people and do this stuff um and the",
+      "start": 1151.36,
+      "duration": 5.16
+    },
+    {
+      "text": "patients are just amazing um I mean I",
+      "start": 1153.88,
+      "duration": 4.24
+    },
+    {
+      "text": "think they're really driving the",
+      "start": 1156.52,
+      "duration": 3.32
+    },
+    {
+      "text": "research that we're doing in the lab and",
+      "start": 1158.12,
+      "duration": 3.6
+    },
+    {
+      "text": "I think that's how it should be yeah",
+      "start": 1159.84,
+      "duration": 5.04
+    },
+    {
+      "text": "that's awesome um yeah I don't know but",
+      "start": 1161.72,
+      "duration": 7.28
+    },
+    {
+      "text": "let's find out yeah um so like how many",
+      "start": 1164.88,
+      "duration": 5.679
+    },
+    {
+      "text": "participants have you got for these two",
+      "start": 1169.0,
+      "duration": 3.72
+    },
+    {
+      "text": "different uh arms of the study that are",
+      "start": 1170.559,
+      "duration": 4.6
+    },
+    {
+      "text": "currently and you still looking for more",
+      "start": 1172.72,
+      "duration": 4.64
+    },
+    {
+      "text": "yeah they're both those those two",
+      "start": 1175.159,
+      "duration": 4.081
+    },
+    {
+      "text": "current studies are both open and",
+      "start": 1177.36,
+      "duration": 5.439
+    },
+    {
+      "text": "actively recruiting um the tissue based",
+      "start": 1179.24,
+      "duration": 5.679
+    },
+    {
+      "text": "study where we're collecting tissue and",
+      "start": 1182.799,
+      "duration": 4.601
+    },
+    {
+      "text": "blood samples um it's called the Ergo",
+      "start": 1184.919,
+      "duration": 4.601
+    },
+    {
+      "text": "study um it's actively open for",
+      "start": 1187.4,
+      "duration": 5.0
+    },
+    {
+      "text": "recruitment um we've had amazing people",
+      "start": 1189.52,
+      "duration": 4.32
+    },
+    {
+      "text": "taking part in helping us out the",
+      "start": 1192.4,
+      "duration": 3.8
+    },
+    {
+      "text": "fooding fantastic I think we're looking",
+      "start": 1193.84,
+      "duration": 5.68
+    },
+    {
+      "text": "for probably 5 to 10 more women to take",
+      "start": 1196.2,
+      "duration": 4.68
+    },
+    {
+      "text": "part in that it's quite a it's a",
+      "start": 1199.52,
+      "duration": 3.639
+    },
+    {
+      "text": "smallish study but it's quite specific",
+      "start": 1200.88,
+      "duration": 5.919
+    },
+    {
+      "text": "so it's not easy to you know recruit for",
+      "start": 1203.159,
+      "duration": 7.4
+    },
+    {
+      "text": "um but if people are have regular is uh",
+      "start": 1206.799,
+      "duration": 6.841
+    },
+    {
+      "text": "periods um and have have long C would be",
+      "start": 1210.559,
+      "duration": 5.641
+    },
+    {
+      "text": "really Keen to hear from them um it's",
+      "start": 1213.64,
+      "duration": 4.56
+    },
+    {
+      "text": "it's usually people who are not taking",
+      "start": 1216.2,
+      "duration": 3.839
+    },
+    {
+      "text": "hormonal contraception so that we can",
+      "start": 1218.2,
+      "duration": 4.64
+    },
+    {
+      "text": "see the natural cycle at this point I",
+      "start": 1220.039,
+      "duration": 4.681
+    },
+    {
+      "text": "think in the future that we'll look into",
+      "start": 1222.84,
+      "duration": 4.12
+    },
+    {
+      "text": "that you more widely but at this point",
+      "start": 1224.72,
+      "duration": 4.04
+    },
+    {
+      "text": "it's uh people who are not taking",
+      "start": 1226.96,
+      "duration": 4.839
+    },
+    {
+      "text": "hormones with it's a regular is cycle",
+      "start": 1228.76,
+      "duration": 5.12
+    },
+    {
+      "text": "who are experiencing long Co so please",
+      "start": 1231.799,
+      "duration": 4.24
+    },
+    {
+      "text": "do get in touch if if we meet those",
+      "start": 1233.88,
+      "duration": 4.36
+    },
+    {
+      "text": "criteria we'd be delighted to hear from",
+      "start": 1236.039,
+      "duration": 4.081
+    },
+    {
+      "text": "you and it would be so useful for",
+      "start": 1238.24,
+      "duration": 4.36
+    },
+    {
+      "text": "research so that is more you need to be",
+      "start": 1240.12,
+      "duration": 5.2
+    },
+    {
+      "text": "able to access um uh either you need to",
+      "start": 1242.6,
+      "duration": 4.16
+    },
+    {
+      "text": "be able to come into either the Royal",
+      "start": 1245.32,
+      "duration": 3.719
+    },
+    {
+      "text": "infirmary of Edinburgh or east Lan",
+      "start": 1246.76,
+      "duration": 5.039
+    },
+    {
+      "text": "community hospital so you know that sort",
+      "start": 1249.039,
+      "duration": 5.241
+    },
+    {
+      "text": "of limits it a little bit um because we",
+      "start": 1251.799,
+      "duration": 4.441
+    },
+    {
+      "text": "we not expecting people to travel huge",
+      "start": 1254.28,
+      "duration": 3.759
+    },
+    {
+      "text": "distances for it but if you if you live",
+      "start": 1256.24,
+      "duration": 4.52
+    },
+    {
+      "text": "in the Lan's area um and meet the",
+      "start": 1258.039,
+      "duration": 5.0
+    },
+    {
+      "text": "criteria please get in touch um and more",
+      "start": 1260.76,
+      "duration": 3.84
+    },
+    {
+      "text": "details are on the website so you can",
+      "start": 1263.039,
+      "duration": 3.321
+    },
+    {
+      "text": "have a look just to check but we're",
+      "start": 1264.6,
+      "duration": 3.4
+    },
+    {
+      "text": "equally happy just to have a phone call",
+      "start": 1266.36,
+      "duration": 3.439
+    },
+    {
+      "text": "and chat it through with you awesome and",
+      "start": 1268.0,
+      "duration": 3.72
+    },
+    {
+      "text": "the app based one is that sort of",
+      "start": 1269.799,
+      "duration": 4.321
+    },
+    {
+      "text": "unlimited so that the app based study uh",
+      "start": 1271.72,
+      "duration": 4.64
+    },
+    {
+      "text": "will be open for another few months as",
+      "start": 1274.12,
+      "duration": 4.2
+    },
+    {
+      "text": "well um and we're actively recruiting",
+      "start": 1276.36,
+      "duration": 3.919
+    },
+    {
+      "text": "for that um that's something that people",
+      "start": 1278.32,
+      "duration": 4.32
+    },
+    {
+      "text": "can just check out themselves online um",
+      "start": 1280.279,
+      "duration": 5.721
+    },
+    {
+      "text": "and I can provide the link to that um",
+      "start": 1282.64,
+      "duration": 6.279
+    },
+    {
+      "text": "and uh women can go and look and there's",
+      "start": 1286.0,
+      "duration": 5.44
+    },
+    {
+      "text": "a series of questions um and answer the",
+      "start": 1288.919,
+      "duration": 4.961
+    },
+    {
+      "text": "questions and see if um they want to",
+      "start": 1291.44,
+      "duration": 4.8
+    },
+    {
+      "text": "take part and and if they meet the",
+      "start": 1293.88,
+      "duration": 4.919
+    },
+    {
+      "text": "criteria uh we're wanting to get as many",
+      "start": 1296.24,
+      "duration": 4.16
+    },
+    {
+      "text": "people as possible to answer that study",
+      "start": 1298.799,
+      "duration": 3.88
+    },
+    {
+      "text": "and it's it's not quite as strict the",
+      "start": 1300.4,
+      "duration": 5.24
+    },
+    {
+      "text": "criteria um so people can be on hormonal",
+      "start": 1302.679,
+      "duration": 4.281
+    },
+    {
+      "text": "uh contraception as long as they're",
+      "start": 1305.64,
+      "duration": 4.36
+    },
+    {
+      "text": "having regular regular is menstrual",
+      "start": 1306.96,
+      "duration": 7.16
+    },
+    {
+      "text": "bleeding um and uh yeah it's as many as",
+      "start": 1310.0,
+      "duration": 5.88
+    },
+    {
+      "text": "possible we're hoping in the thousands",
+      "start": 1314.12,
+      "duration": 4.76
+    },
+    {
+      "text": "for that study rather than 10 20 people",
+      "start": 1315.88,
+      "duration": 4.399
+    },
+    {
+      "text": "we're hoping to get as many people as",
+      "start": 1318.88,
+      "duration": 3.6
+    },
+    {
+      "text": "possible so uh and the more people we've",
+      "start": 1320.279,
+      "duration": 4.841
+    },
+    {
+      "text": "got the more robust the it is and I'm",
+      "start": 1322.48,
+      "duration": 4.4
+    },
+    {
+      "text": "really Keen that we have representation",
+      "start": 1325.12,
+      "duration": 5.2
+    },
+    {
+      "text": "from all aspects of society so um if you",
+      "start": 1326.88,
+      "duration": 5.919
+    },
+    {
+      "text": "don't identify as female that's okay if",
+      "start": 1330.32,
+      "duration": 5.04
+    },
+    {
+      "text": "you're um on hormones that's fine we'd",
+      "start": 1332.799,
+      "duration": 4.12
+    },
+    {
+      "text": "like to see people from diverse",
+      "start": 1335.36,
+      "duration": 4.919
+    },
+    {
+      "text": "backgrounds in terms of ethnicity and um",
+      "start": 1336.919,
+      "duration": 4.841
+    },
+    {
+      "text": "it's it's really important that we're",
+      "start": 1340.279,
+      "duration": 3.28
+    },
+    {
+      "text": "we're covering all aspects of society",
+      "start": 1341.76,
+      "duration": 6.32
+    },
+    {
+      "text": "and not just one particular group so um",
+      "start": 1343.559,
+      "duration": 7.24
+    },
+    {
+      "text": "a bit of I call out to anybody um who",
+      "start": 1348.08,
+      "duration": 5.36
+    },
+    {
+      "text": "wants to take parts please do consider",
+      "start": 1350.799,
+      "duration": 5.321
+    },
+    {
+      "text": "it awesome I mean I can certainly",
+      "start": 1353.44,
+      "duration": 4.32
+    },
+    {
+      "text": "confirm that it's very user friendly as",
+      "start": 1356.12,
+      "duration": 4.4
+    },
+    {
+      "text": "well um because I signed up and uh yeah",
+      "start": 1357.76,
+      "duration": 4.799
+    },
+    {
+      "text": "it was it was really straightforward so",
+      "start": 1360.52,
+      "duration": 3.84
+    },
+    {
+      "text": "good good I'm glad we spent a lot of",
+      "start": 1362.559,
+      "duration": 3.281
+    },
+    {
+      "text": "time trying to make it as userfriendly",
+      "start": 1364.36,
+      "duration": 3.919
+    },
+    {
+      "text": "as possible because I think it's it's",
+      "start": 1365.84,
+      "duration": 3.959
+    },
+    {
+      "text": "always difficult and it's a balance",
+      "start": 1368.279,
+      "duration": 3.321
+    },
+    {
+      "text": "between doing the perfect scientific",
+      "start": 1369.799,
+      "duration": 3.601
+    },
+    {
+      "text": "study and doing something that's",
+      "start": 1371.6,
+      "duration": 4.079
+    },
+    {
+      "text": "actually manageable particularly with",
+      "start": 1373.4,
+      "duration": 5.399
+    },
+    {
+      "text": "people who have these horrific symptoms",
+      "start": 1375.679,
+      "duration": 5.441
+    },
+    {
+      "text": "um so it needs to strike a bit of a",
+      "start": 1378.799,
+      "duration": 4.36
+    },
+    {
+      "text": "balance and it's always you know it's",
+      "start": 1381.12,
+      "duration": 3.28
+    },
+    {
+      "text": "always nice to hear that it's user",
+      "start": 1383.159,
+      "duration": 3.0
+    },
+    {
+      "text": "friendly we've tried to do our best with",
+      "start": 1384.4,
+      "duration": 3.8
+    },
+    {
+      "text": "that whil keeping it scientifically",
+      "start": 1386.159,
+      "duration": 4.921
+    },
+    {
+      "text": "signed yes absolutely because if it was",
+      "start": 1388.2,
+      "duration": 4.76
+    },
+    {
+      "text": "like a three-hour survey every day then",
+      "start": 1391.08,
+      "duration": 3.839
+    },
+    {
+      "text": "nobody's going to do that no and we've",
+      "start": 1392.96,
+      "duration": 3.92
+    },
+    {
+      "text": "tried to really limit that because and",
+      "start": 1394.919,
+      "duration": 3.921
+    },
+    {
+      "text": "feedback from you know the long Co with",
+      "start": 1396.88,
+      "duration": 4.679
+    },
+    {
+      "text": "grips was very very strong with that um",
+      "start": 1398.84,
+      "duration": 4.839
+    },
+    {
+      "text": "so we've done our very best um I don't",
+      "start": 1401.559,
+      "duration": 4.321
+    },
+    {
+      "text": "think it's perfect it's it's really hard",
+      "start": 1403.679,
+      "duration": 4.24
+    },
+    {
+      "text": "but to make things perfect but we've",
+      "start": 1405.88,
+      "duration": 6.76
+    },
+    {
+      "text": "done the best can't yeah fantastic um so",
+      "start": 1407.919,
+      "duration": 8.24
+    },
+    {
+      "text": "you said with the app based study you're",
+      "start": 1412.64,
+      "duration": 5.48
+    },
+    {
+      "text": "tracking symptoms for sort of two to",
+      "start": 1416.159,
+      "duration": 4.64
+    },
+    {
+      "text": "three months so do you get to sort of",
+      "start": 1418.12,
+      "duration": 5.039
+    },
+    {
+      "text": "analyze those results at that point yeah",
+      "start": 1420.799,
+      "duration": 6.041
+    },
+    {
+      "text": "so I think it the ideal thing is to",
+      "start": 1423.159,
+      "duration": 6.041
+    },
+    {
+      "text": "analyze the results when we've got the",
+      "start": 1426.84,
+      "duration": 5.199
+    },
+    {
+      "text": "full set of data we may perform some",
+      "start": 1429.2,
+      "duration": 4.88
+    },
+    {
+      "text": "interim analysis just to check that",
+      "start": 1432.039,
+      "duration": 3.441
+    },
+    {
+      "text": "things are going well and there's",
+      "start": 1434.08,
+      "duration": 3.959
+    },
+    {
+      "text": "nothing we need to adapt or uh change in",
+      "start": 1435.48,
+      "duration": 3.96
+    },
+    {
+      "text": "the server",
+      "start": 1438.039,
+      "duration": 3.88
+    },
+    {
+      "text": "um but we'll be analyzing the results at",
+      "start": 1439.44,
+      "duration": 4.359
+    },
+    {
+      "text": "the end whenever we've got all of the",
+      "start": 1441.919,
+      "duration": 5.321
+    },
+    {
+      "text": "data together and I guess it's it's it's",
+      "start": 1443.799,
+      "duration": 5.201
+    },
+    {
+      "text": "going to take a few months for that to",
+      "start": 1447.24,
+      "duration": 3.28
+    },
+    {
+      "text": "come through if people are recruiting",
+      "start": 1449.0,
+      "duration": 4.2
+    },
+    {
+      "text": "now and we're going for to analyze their",
+      "start": 1450.52,
+      "duration": 5.279
+    },
+    {
+      "text": "symptoms across two or three months um I",
+      "start": 1453.2,
+      "duration": 6.24
+    },
+    {
+      "text": "expect that um it'll be sort of 6 months",
+      "start": 1455.799,
+      "duration": 6.201
+    },
+    {
+      "text": "to eight months until we're um doing the",
+      "start": 1459.44,
+      "duration": 4.239
+    },
+    {
+      "text": "proper analysis and getting all of the",
+      "start": 1462.0,
+      "duration": 4.159
+    },
+    {
+      "text": "results together uh but again we want it",
+      "start": 1463.679,
+      "duration": 4.041
+    },
+    {
+      "text": "to be as robust as possible so it's",
+      "start": 1466.159,
+      "duration": 3.721
+    },
+    {
+      "text": "better to take that bit of extra time",
+      "start": 1467.72,
+      "duration": 4.48
+    },
+    {
+      "text": "and do it properly yes definitely cuz",
+      "start": 1469.88,
+      "duration": 3.64
+    },
+    {
+      "text": "there's no point going through all of",
+      "start": 1472.2,
+      "duration": 2.719
+    },
+    {
+      "text": "this if it's not going to be worth",
+      "start": 1473.52,
+      "duration": 4.399
+    },
+    {
+      "text": "anything in the end I mean I I think I'm",
+      "start": 1474.919,
+      "duration": 5.441
+    },
+    {
+      "text": "impatient to get results for this and I",
+      "start": 1477.919,
+      "duration": 3.88
+    },
+    {
+      "text": "want them yesterday and I'm sure",
+      "start": 1480.36,
+      "duration": 3.4
+    },
+    {
+      "text": "everyone suffering from long Co wants",
+      "start": 1481.799,
+      "duration": 5.12
+    },
+    {
+      "text": "them two years ago but you know it's",
+      "start": 1483.76,
+      "duration": 4.639
+    },
+    {
+      "text": "it's the it's that balance between",
+      "start": 1486.919,
+      "duration": 2.961
+    },
+    {
+      "text": "getting the right answer and doing it",
+      "start": 1488.399,
+      "duration": 3.561
+    },
+    {
+      "text": "properly and taking that just bit of",
+      "start": 1489.88,
+      "duration": 3.76
+    },
+    {
+      "text": "extra time to get the results out that",
+      "start": 1491.96,
+      "duration": 3.8
+    },
+    {
+      "text": "are actually really useful yeah",
+      "start": 1493.64,
+      "duration": 5.12
+    },
+    {
+      "text": "definitely so the um the Ergo study so",
+      "start": 1495.76,
+      "duration": 5.399
+    },
+    {
+      "text": "the more localized one because that's a",
+      "start": 1498.76,
+      "duration": 3.96
+    },
+    {
+      "text": "smaller study does that mean you'll get",
+      "start": 1501.159,
+      "duration": 3.961
+    },
+    {
+      "text": "data sooner or is it just CU it's more",
+      "start": 1502.72,
+      "duration": 6.16
+    },
+    {
+      "text": "complicated yeah so well in a in a way",
+      "start": 1505.12,
+      "duration": 7.799
+    },
+    {
+      "text": "yes and in a way no so um the Ergo study",
+      "start": 1508.88,
+      "duration": 6.279
+    },
+    {
+      "text": "because we're taking samples what we're",
+      "start": 1512.919,
+      "duration": 4.601
+    },
+    {
+      "text": "planning to do with those is you know",
+      "start": 1515.159,
+      "duration": 4.281
+    },
+    {
+      "text": "they they're anonymized and taken across",
+      "start": 1517.52,
+      "duration": 4.159
+    },
+    {
+      "text": "to the laboratory and then we need to do",
+      "start": 1519.44,
+      "duration": 4.64
+    },
+    {
+      "text": "laboratory research um so we're going to",
+      "start": 1521.679,
+      "duration": 5.12
+    },
+    {
+      "text": "measure sort of ovarian hormone levels",
+      "start": 1524.08,
+      "duration": 5.199
+    },
+    {
+      "text": "in the blood looking at some of the",
+      "start": 1526.799,
+      "duration": 4.161
+    },
+    {
+      "text": "immune cells and seeing if they're",
+      "start": 1529.279,
+      "duration": 3.041
+    },
+    {
+      "text": "different in the blood compared to",
+      "start": 1530.96,
+      "duration": 4.599
+    },
+    {
+      "text": "people um without covid and then looking",
+      "start": 1532.32,
+      "duration": 5.239
+    },
+    {
+      "text": "at the biopsies of the lining of the",
+      "start": 1535.559,
+      "duration": 3.401
+    },
+    {
+      "text": "womb and looking at some of the",
+      "start": 1537.559,
+      "duration": 4.0
+    },
+    {
+      "text": "receptors for the hormones um and",
+      "start": 1538.96,
+      "duration": 4.36
+    },
+    {
+      "text": "looking at some of the features of the",
+      "start": 1541.559,
+      "duration": 4.6
+    },
+    {
+      "text": "lining of the womb and you know that all",
+      "start": 1543.32,
+      "duration": 5.2
+    },
+    {
+      "text": "takes a little bit of time I've got an",
+      "start": 1546.159,
+      "duration": 5.481
+    },
+    {
+      "text": "amazing um team in the lab who work",
+      "start": 1548.52,
+      "duration": 4.8
+    },
+    {
+      "text": "really hard and what we're doing at the",
+      "start": 1551.64,
+      "duration": 3.44
+    },
+    {
+      "text": "minute is making sure all of the",
+      "start": 1553.32,
+      "duration": 4.68
+    },
+    {
+      "text": "laboratory Protocols are optimized so we",
+      "start": 1555.08,
+      "duration": 5.16
+    },
+    {
+      "text": "have to make sure um that they're all",
+      "start": 1558.0,
+      "duration": 4.159
+    },
+    {
+      "text": "working properly and that you know we're",
+      "start": 1560.24,
+      "duration": 4.64
+    },
+    {
+      "text": "fine-tuning all of the concentrations of",
+      "start": 1562.159,
+      "duration": 4.4
+    },
+    {
+      "text": "all the reagents and making sure we're",
+      "start": 1564.88,
+      "duration": 3.32
+    },
+    {
+      "text": "really ready to go whenever these really",
+      "start": 1566.559,
+      "duration": 4.201
+    },
+    {
+      "text": "precious samples come through and so",
+      "start": 1568.2,
+      "duration": 4.16
+    },
+    {
+      "text": "again we'll wait until everyone is",
+      "start": 1570.76,
+      "duration": 5.039
+    },
+    {
+      "text": "recruited and do those final experiments",
+      "start": 1572.36,
+      "duration": 5.559
+    },
+    {
+      "text": "as you know all together in a very",
+      "start": 1575.799,
+      "duration": 4.561
+    },
+    {
+      "text": "scientifically robust way making sure",
+      "start": 1577.919,
+      "duration": 4.921
+    },
+    {
+      "text": "that there's no uh differences between",
+      "start": 1580.36,
+      "duration": 4.0
+    },
+    {
+      "text": "the samples because of when we do the",
+      "start": 1582.84,
+      "duration": 3.0
+    },
+    {
+      "text": "runs and things so it's better",
+      "start": 1584.36,
+      "duration": 4.039
+    },
+    {
+      "text": "scientifically to do them all at once um",
+      "start": 1585.84,
+      "duration": 5.16
+    },
+    {
+      "text": "so we're working really hard in the",
+      "start": 1588.399,
+      "duration": 3.841
+    },
+    {
+      "text": "background so that whenever all the",
+      "start": 1591.0,
+      "duration": 3.08
+    },
+    {
+      "text": "samples are collected we can process",
+      "start": 1592.24,
+      "duration": 4.48
+    },
+    {
+      "text": "them as quickly as possible um but",
+      "start": 1594.08,
+      "duration": 4.52
+    },
+    {
+      "text": "naturally that does take a way bit of",
+      "start": 1596.72,
+      "duration": 4.6
+    },
+    {
+      "text": "time to process all of that stuff too so",
+      "start": 1598.6,
+      "duration": 4.24
+    },
+    {
+      "text": "where the app based study is more",
+      "start": 1601.32,
+      "duration": 4.0
+    },
+    {
+      "text": "computer-based analysis and you know can",
+      "start": 1602.84,
+      "duration": 5.4
+    },
+    {
+      "text": "be done relatively quickly once the data",
+      "start": 1605.32,
+      "duration": 7.079
+    },
+    {
+      "text": "is collected um the laboratory tests um",
+      "start": 1608.24,
+      "duration": 6.679
+    },
+    {
+      "text": "can take a away bit of optimization and",
+      "start": 1612.399,
+      "duration": 5.561
+    },
+    {
+      "text": "tweaking to get them right too um so I",
+      "start": 1614.919,
+      "duration": 5.48
+    },
+    {
+      "text": "think the results you know will be",
+      "start": 1617.96,
+      "duration": 5.28
+    },
+    {
+      "text": "available relatively soon once with' the",
+      "start": 1620.399,
+      "duration": 6.721
+    },
+    {
+      "text": "samples all collected um but you know it",
+      "start": 1623.24,
+      "duration": 5.559
+    },
+    {
+      "text": "it it'll take a few months again just to",
+      "start": 1627.12,
+      "duration": 4.2
+    },
+    {
+      "text": "do it to do it properly um but that",
+      "start": 1628.799,
+      "duration": 4.76
+    },
+    {
+      "text": "study because it's slightly smaller I",
+      "start": 1631.32,
+      "duration": 3.76
+    },
+    {
+      "text": "don't think we're going to get really",
+      "start": 1633.559,
+      "duration": 3.441
+    },
+    {
+      "text": "definitive data from that I don't think",
+      "start": 1635.08,
+      "duration": 4.8
+    },
+    {
+      "text": "we'll be able to say 100% that this is",
+      "start": 1637.0,
+      "duration": 5.279
+    },
+    {
+      "text": "what's going on it'll give us really",
+      "start": 1639.88,
+      "duration": 6.44
+    },
+    {
+      "text": "useful data um to to then drive and",
+      "start": 1642.279,
+      "duration": 6.721
+    },
+    {
+      "text": "design and get funding or the big",
+      "start": 1646.32,
+      "duration": 4.8
+    },
+    {
+      "text": "studies that could potentially give that",
+      "start": 1649.0,
+      "duration": 4.399
+    },
+    {
+      "text": "definitive data so I have to be very",
+      "start": 1651.12,
+      "duration": 5.64
+    },
+    {
+      "text": "realistic um and not mislead anyone um",
+      "start": 1653.399,
+      "duration": 6.561
+    },
+    {
+      "text": "this is preliminary pilot data I think",
+      "start": 1656.76,
+      "duration": 6.44
+    },
+    {
+      "text": "it will be extremely useful but it might",
+      "start": 1659.96,
+      "duration": 6.4
+    },
+    {
+      "text": "not provide 100% affirmative answers at",
+      "start": 1663.2,
+      "duration": 5.44
+    },
+    {
+      "text": "this St yes but it'll give the the",
+      "start": 1666.36,
+      "duration": 4.6
+    },
+    {
+      "text": "opportunity hopefully to then know where",
+      "start": 1668.64,
+      "duration": 5.519
+    },
+    {
+      "text": "to go for their definitive data exactly",
+      "start": 1670.96,
+      "duration": 5.199
+    },
+    {
+      "text": "it will mean that we can design the",
+      "start": 1674.159,
+      "duration": 4.601
+    },
+    {
+      "text": "studies better knowing that we've got",
+      "start": 1676.159,
+      "duration": 5.24
+    },
+    {
+      "text": "some preliminary data to B on yeah",
+      "start": 1678.76,
+      "duration": 5.72
+    },
+    {
+      "text": "that's fantastic um so you mentioned the",
+      "start": 1681.399,
+      "duration": 6.481
+    },
+    {
+      "text": "other arm of the study that has finished",
+      "start": 1684.48,
+      "duration": 6.319
+    },
+    {
+      "text": "is there any sort of results from that",
+      "start": 1687.88,
+      "duration": 6.56
+    },
+    {
+      "text": "at the moment yeah so the the team in",
+      "start": 1690.799,
+      "duration": 8.401
+    },
+    {
+      "text": "Oxford and melier um led by Dr alverna",
+      "start": 1694.44,
+      "duration": 7.839
+    },
+    {
+      "text": "um are really driving that study forward",
+      "start": 1699.2,
+      "duration": 4.599
+    },
+    {
+      "text": "um they designed the study they",
+      "start": 1702.279,
+      "duration": 3.561
+    },
+    {
+      "text": "organized it they put it out with input",
+      "start": 1703.799,
+      "duration": 4.521
+    },
+    {
+      "text": "from the rest of the team like there",
+      "start": 1705.84,
+      "duration": 4.64
+    },
+    {
+      "text": "analyzing that data from a number of",
+      "start": 1708.32,
+      "duration": 3.68
+    },
+    {
+      "text": "different perspectives to answer a",
+      "start": 1710.48,
+      "duration": 3.679
+    },
+    {
+      "text": "number of different questions it was a",
+      "start": 1712.0,
+      "duration": 5.76
+    },
+    {
+      "text": "very broad survey of the pandemic and",
+      "start": 1714.159,
+      "duration": 5.721
+    },
+    {
+      "text": "reproductive health and the real",
+      "start": 1717.76,
+      "duration": 3.88
+    },
+    {
+      "text": "strength of that is then we can answer",
+      "start": 1719.88,
+      "duration": 3.44
+    },
+    {
+      "text": "lots of different questions based on the",
+      "start": 1721.64,
+      "duration": 4.48
+    },
+    {
+      "text": "results that came through um so people",
+      "start": 1723.32,
+      "duration": 5.04
+    },
+    {
+      "text": "were fantastic at filling that out um",
+      "start": 1726.12,
+      "duration": 4.72
+    },
+    {
+      "text": "and the first sort of question that we",
+      "start": 1728.36,
+      "duration": 6.12
+    },
+    {
+      "text": "asked and in response to the sort of",
+      "start": 1730.84,
+      "duration": 6.48
+    },
+    {
+      "text": "documentations and testimony of women",
+      "start": 1734.48,
+      "duration": 5.799
+    },
+    {
+      "text": "whove experienced difficulties and",
+      "start": 1737.32,
+      "duration": 5.76
+    },
+    {
+      "text": "menstrual problems following vaccination",
+      "start": 1740.279,
+      "duration": 4.841
+    },
+    {
+      "text": "we asked the question you know in this",
+      "start": 1743.08,
+      "duration": 5.959
+    },
+    {
+      "text": "study population did vaccination affect",
+      "start": 1745.12,
+      "duration": 6.96
+    },
+    {
+      "text": "the menstrual cycle so that's the first",
+      "start": 1749.039,
+      "duration": 5.801
+    },
+    {
+      "text": "batch of analysis that we've done um and",
+      "start": 1752.08,
+      "duration": 5.64
+    },
+    {
+      "text": "we've I think from our data the study",
+      "start": 1754.84,
+      "duration": 5.88
+    },
+    {
+      "text": "wasn't designed to assess that which is",
+      "start": 1757.72,
+      "duration": 6.6
+    },
+    {
+      "text": "a downside but also a big plus because",
+      "start": 1760.72,
+      "duration": 5.559
+    },
+    {
+      "text": "you know if you're specifically asking",
+      "start": 1764.32,
+      "duration": 4.719
+    },
+    {
+      "text": "about it sometimes women can call things",
+      "start": 1766.279,
+      "duration": 4.441
+    },
+    {
+      "text": "because they're super aware of it and",
+      "start": 1769.039,
+      "duration": 4.681
+    },
+    {
+      "text": "asking about it um and sometimes you",
+      "start": 1770.72,
+      "duration": 6.12
+    },
+    {
+      "text": "know people will say with the best of",
+      "start": 1773.72,
+      "duration": 4.72
+    },
+    {
+      "text": "intentions pass it to their friends who",
+      "start": 1776.84,
+      "duration": 3.48
+    },
+    {
+      "text": "are also experiencing the same problems",
+      "start": 1778.44,
+      "duration": 3.68
+    },
+    {
+      "text": "and then that can slightly bias your",
+      "start": 1780.32,
+      "duration": 3.92
+    },
+    {
+      "text": "results so the nice thing about the",
+      "start": 1782.12,
+      "duration": 3.679
+    },
+    {
+      "text": "study is the study wasn't designed to",
+      "start": 1784.24,
+      "duration": 3.08
+    },
+    {
+      "text": "answer that specific question but that",
+      "start": 1785.799,
+      "duration": 3.521
+    },
+    {
+      "text": "means that the risk of bias is slightly",
+      "start": 1787.32,
+      "duration": 4.88
+    },
+    {
+      "text": "lower and I think we find that about 80%",
+      "start": 1789.32,
+      "duration": 5.16
+    },
+    {
+      "text": "of people didn't experience any",
+      "start": 1792.2,
+      "duration": 4.359
+    },
+    {
+      "text": "particular menstrual problems following",
+      "start": 1794.48,
+      "duration": 5.36
+    },
+    {
+      "text": "vaccination but about 20% of people did",
+      "start": 1796.559,
+      "duration": 7.0
+    },
+    {
+      "text": "the 20% who um did experience changes in",
+      "start": 1799.84,
+      "duration": 6.199
+    },
+    {
+      "text": "their ministration it was very varied in",
+      "start": 1803.559,
+      "duration": 5.161
+    },
+    {
+      "text": "what they experienced some people had",
+      "start": 1806.039,
+      "duration": 4.76
+    },
+    {
+      "text": "irregular bleeding some people bled for",
+      "start": 1808.72,
+      "duration": 4.559
+    },
+    {
+      "text": "longer some people their period didn't",
+      "start": 1810.799,
+      "duration": 6.081
+    },
+    {
+      "text": "come some people it came too often so um",
+      "start": 1813.279,
+      "duration": 5.88
+    },
+    {
+      "text": "it there was a range of changes that",
+      "start": 1816.88,
+      "duration": 4.2
+    },
+    {
+      "text": "people reported uh but I think that's",
+      "start": 1819.159,
+      "duration": 4.88
+    },
+    {
+      "text": "really useful information and you know",
+      "start": 1821.08,
+      "duration": 4.839
+    },
+    {
+      "text": "there was some sign that people who were",
+      "start": 1824.039,
+      "duration": 4.041
+    },
+    {
+      "text": "using hormonal preparation perhaps had",
+      "start": 1825.919,
+      "duration": 4.12
+    },
+    {
+      "text": "less disturbance of their menstruation",
+      "start": 1828.08,
+      "duration": 3.959
+    },
+    {
+      "text": "than people who weren't using",
+      "start": 1830.039,
+      "duration": 3.88
+    },
+    {
+      "text": "contraceptives um so this is all really",
+      "start": 1832.039,
+      "duration": 4.36
+    },
+    {
+      "text": "useful information when counseling women",
+      "start": 1833.919,
+      "duration": 3.321
+    },
+    {
+      "text": "about",
+      "start": 1836.399,
+      "duration": 3.721
+    },
+    {
+      "text": "vaccination uh what to expect afterwards",
+      "start": 1837.24,
+      "duration": 4.88
+    },
+    {
+      "text": "there may be some temporary disturbance",
+      "start": 1840.12,
+      "duration": 3.72
+    },
+    {
+      "text": "to menstration but it doesn't seem to be",
+      "start": 1842.12,
+      "duration": 4.48
+    },
+    {
+      "text": "a long-term effect and for 80% of people",
+      "start": 1843.84,
+      "duration": 5.199
+    },
+    {
+      "text": "there's no big impact of vaccination so",
+      "start": 1846.6,
+      "duration": 5.16
+    },
+    {
+      "text": "that was very reassuring with that study",
+      "start": 1849.039,
+      "duration": 5.161
+    },
+    {
+      "text": "um Al we acknowledg that 20% of people",
+      "start": 1851.76,
+      "duration": 5.399
+    },
+    {
+      "text": "still did get some uh changes uh we",
+      "start": 1854.2,
+      "duration": 4.24
+    },
+    {
+      "text": "didn't see anything particularly",
+      "start": 1857.159,
+      "duration": 3.681
+    },
+    {
+      "text": "worrying with that which was good um so",
+      "start": 1858.44,
+      "duration": 4.079
+    },
+    {
+      "text": "that's very reassuring in terms of",
+      "start": 1860.84,
+      "duration": 3.36
+    },
+    {
+      "text": "vaccination and counseling people and",
+      "start": 1862.519,
+      "duration": 3.801
+    },
+    {
+      "text": "that kind of thing so the next areas",
+      "start": 1864.2,
+      "duration": 3.56
+    },
+    {
+      "text": "that we're looking at are then more",
+      "start": 1866.32,
+      "duration": 4.719
+    },
+    {
+      "text": "specifically about um covid and long",
+      "start": 1867.76,
+      "duration": 7.36
+    },
+    {
+      "text": "covid um and the impact um of of having",
+      "start": 1871.039,
+      "duration": 5.921
+    },
+    {
+      "text": "that and the impact of menstration and",
+      "start": 1875.12,
+      "duration": 4.12
+    },
+    {
+      "text": "vice versa so we're churning through",
+      "start": 1876.96,
+      "duration": 3.719
+    },
+    {
+      "text": "there's lots of exciting research",
+      "start": 1879.24,
+      "duration": 3.279
+    },
+    {
+      "text": "questions um and lots of really great",
+      "start": 1880.679,
+      "duration": 4.441
+    },
+    {
+      "text": "work to be done um we're just we just",
+      "start": 1882.519,
+      "duration": 4.801
+    },
+    {
+      "text": "had a meeting to prioritize which areas",
+      "start": 1885.12,
+      "duration": 5.08
+    },
+    {
+      "text": "we should focus on um and Dr Al bergner",
+      "start": 1887.32,
+      "duration": 5.12
+    },
+    {
+      "text": "has been uh speaking to the long Co",
+      "start": 1890.2,
+      "duration": 4.12
+    },
+    {
+      "text": "support groups to try and prioritize",
+      "start": 1892.44,
+      "duration": 4.0
+    },
+    {
+      "text": "what to focus on as well so it's been a",
+      "start": 1894.32,
+      "duration": 4.0
+    },
+    {
+      "text": "very team effort and I think there'll be",
+      "start": 1896.44,
+      "duration": 3.599
+    },
+    {
+      "text": "some really exciting data coming from",
+      "start": 1898.32,
+      "duration": 3.719
+    },
+    {
+      "text": "that soon yeah awesome and like you say",
+      "start": 1900.039,
+      "duration": 3.681
+    },
+    {
+      "text": "it's if it's a very big study then it is",
+      "start": 1902.039,
+      "duration": 3.721
+    },
+    {
+      "text": "going to take time to sort of crunch",
+      "start": 1903.72,
+      "duration": 4.4
+    },
+    {
+      "text": "through all the all the stuff isn't it",
+      "start": 1905.76,
+      "duration": 4.56
+    },
+    {
+      "text": "absolutely absolutely I guess the thing",
+      "start": 1908.12,
+      "duration": 4.76
+    },
+    {
+      "text": "to say is we'd love to hear from people",
+      "start": 1910.32,
+      "duration": 5.239
+    },
+    {
+      "text": "and um please do look at our website and",
+      "start": 1912.88,
+      "duration": 4.2
+    },
+    {
+      "text": "some of the studies that we've got going",
+      "start": 1915.559,
+      "duration": 3.72
+    },
+    {
+      "text": "on and give feedback where you feel it's",
+      "start": 1917.08,
+      "duration": 3.68
+    },
+    {
+      "text": "appropriate if there's anything you feel",
+      "start": 1919.279,
+      "duration": 3.76
+    },
+    {
+      "text": "we're missing uh we always like to hear",
+      "start": 1920.76,
+      "duration": 5.12
+    },
+    {
+      "text": "from people and um we'd be really",
+      "start": 1923.039,
+      "duration": 4.681
+    },
+    {
+      "text": "grateful if anybody does want to take",
+      "start": 1925.88,
+      "duration": 4.919
+    },
+    {
+      "text": "part in our research I just think it's",
+      "start": 1927.72,
+      "duration": 5.199
+    },
+    {
+      "text": "it's really upsetting to hear the",
+      "start": 1930.799,
+      "duration": 3.401
+    },
+    {
+      "text": "symptoms that people are getting with",
+      "start": 1932.919,
+      "duration": 3.841
+    },
+    {
+      "text": "long covid um and there's lots of work",
+      "start": 1934.2,
+      "duration": 4.839
+    },
+    {
+      "text": "needs done in the area I mean I think",
+      "start": 1936.76,
+      "duration": 5.24
+    },
+    {
+      "text": "menstration in Co is one small bit but I",
+      "start": 1939.039,
+      "duration": 4.841
+    },
+    {
+      "text": "hope that we're starting to to get some",
+      "start": 1942.0,
+      "duration": 3.919
+    },
+    {
+      "text": "data through to move things forward",
+      "start": 1943.88,
+      "duration": 5.08
+    },
+    {
+      "text": "there absolutely that's amazing well",
+      "start": 1945.919,
+      "duration": 4.921
+    },
+    {
+      "text": "thank you so much for giving up your",
+      "start": 1948.96,
+      "duration": 3.92
+    },
+    {
+      "text": "time to chat to me today it's been",
+      "start": 1950.84,
+      "duration": 3.48
+    },
+    {
+      "text": "really fascinating to hear about the",
+      "start": 1952.88,
+      "duration": 3.48
+    },
+    {
+      "text": "study and maybe you'll come back and",
+      "start": 1954.32,
+      "duration": 3.479
+    },
+    {
+      "text": "talk to me again once you've got your",
+      "start": 1956.36,
+      "duration": 4.08
+    },
+    {
+      "text": "results I'd be delighted too that would",
+      "start": 1957.799,
+      "duration": 5.161
+    },
+    {
+      "text": "be awesome so thank you so much you're",
+      "start": 1960.44,
+      "duration": 4.959
+    },
+    {
+      "text": "very welcome thanks for having me thank",
+      "start": 1962.96,
+      "duration": 4.64
+    },
+    {
+      "text": "you so much to all of my guests and to",
+      "start": 1965.399,
+      "duration": 4.481
+    },
+    {
+      "text": "you for listening I hope you've enjoyed",
+      "start": 1967.6,
+      "duration": 5.48
+    },
+    {
+      "text": "it or at least found it useful the long",
+      "start": 1969.88,
+      "duration": 5.639
+    },
+    {
+      "text": "Co podcast is entirely self-produced and",
+      "start": 1973.08,
+      "duration": 6.0
+    },
+    {
+      "text": "self-funded I'm doing all of this myself",
+      "start": 1975.519,
+      "duration": 6.841
+    },
+    {
+      "text": "if you're able to please go to buy meac",
+      "start": 1979.08,
+      "duration": 6.439
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 1982.36,
+      "duration": 5.12
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 1985.519,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 1987.48,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 1989.559,
+      "duration": 4.24
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 1991.72,
+      "duration": 5.12
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 1993.799,
+      "duration": 6.521
+    },
+    {
+      "text": "love to hear from",
+      "start": 1996.84,
+      "duration": 3.48
+    }
+  ],
+  "metadata": {
+    "title": "26 - Dr Jackie Maybin - Long Covid & Women's Reproductive Health",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/BvwPP-QqLvQ/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 26,
+    "title": "26 - Dr Jackie Maybin - Long Covid & Women's Reproductive Health",
+    "videoId": "BvwPP-QqLvQ",
+    "lengthText": "33:25"
+  }
+}

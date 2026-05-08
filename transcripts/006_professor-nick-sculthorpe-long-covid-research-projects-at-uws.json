@@ -1,0 +1,6028 @@
+{
+  "video_id": "6JWAm8MAu0k",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.039,
+      "duration": 5.0
+    },
+    {
+      "text": "The Long Co podcast",
+      "start": 57.76,
+      "duration": 4.68
+    },
+    {
+      "text": "today I'm talking to Nick skolor from",
+      "start": 60.039,
+      "duration": 4.08
+    },
+    {
+      "text": "the University of the west of Scotland",
+      "start": 62.44,
+      "duration": 3.8
+    },
+    {
+      "text": "about two different research projects",
+      "start": 64.119,
+      "duration": 3.841
+    },
+    {
+      "text": "that he's involved with to do with long",
+      "start": 66.24,
+      "duration": 4.559
+    },
+    {
+      "text": "Co it's a really really interesting chat",
+      "start": 67.96,
+      "duration": 5.839
+    },
+    {
+      "text": "so I hope you enjoy",
+      "start": 70.799,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 75.29,
+      "duration": 7.63
+    },
+    {
+      "text": "it so thank you so much for joining me",
+      "start": 80.159,
+      "duration": 4.441
+    },
+    {
+      "text": "on podcast today it's absolutely",
+      "start": 82.92,
+      "duration": 3.6
+    },
+    {
+      "text": "wonderful to have you here thanks for",
+      "start": 84.6,
+      "duration": 5.12
+    },
+    {
+      "text": "inviting me so um just to start off with",
+      "start": 86.52,
+      "duration": 5.36
+    },
+    {
+      "text": "May maybe you could introduce yourself a",
+      "start": 89.72,
+      "duration": 4.96
+    },
+    {
+      "text": "little bit and explain about who you are",
+      "start": 91.88,
+      "duration": 6.04
+    },
+    {
+      "text": "and what your role is at the University",
+      "start": 94.68,
+      "duration": 6.2
+    },
+    {
+      "text": "my name is Nick scholo I'm a professor",
+      "start": 97.92,
+      "duration": 5.4
+    },
+    {
+      "text": "at University of the west of Scotland my",
+      "start": 100.88,
+      "duration": 5.16
+    },
+    {
+      "text": "official title is Professor of clinical",
+      "start": 103.32,
+      "duration": 5.159
+    },
+    {
+      "text": "exercise physiology and so I'm a",
+      "start": 106.04,
+      "duration": 4.759
+    },
+    {
+      "text": "physiologist by trade my background is",
+      "start": 108.479,
+      "duration": 5.561
+    },
+    {
+      "text": "really Sport and exercise science less",
+      "start": 110.799,
+      "duration": 5.801
+    },
+    {
+      "text": "the sports stuff more the my real",
+      "start": 114.04,
+      "duration": 3.84
+    },
+    {
+      "text": "research interest over the last few",
+      "start": 116.6,
+      "duration": 2.839
+    },
+    {
+      "text": "years has been exercise and health",
+      "start": 117.88,
+      "duration": 2.559
+    },
+    {
+      "text": "really",
+      "start": 119.439,
+      "duration": 2.841
+    },
+    {
+      "text": "particularly to do with aging how we can",
+      "start": 120.439,
+      "duration": 3.841
+    },
+    {
+      "text": "use exercise to improve health outcomes",
+      "start": 122.28,
+      "duration": 5.0
+    },
+    {
+      "text": "in older people so that's my background",
+      "start": 124.28,
+      "duration": 5.0
+    },
+    {
+      "text": "clearly the last year or so we've all",
+      "start": 127.28,
+      "duration": 3.92
+    },
+    {
+      "text": "changed a lot to try and do more kind of",
+      "start": 129.28,
+      "duration": 3.599
+    },
+    {
+      "text": "covid work and to try and work out where",
+      "start": 131.2,
+      "duration": 3.2
+    },
+    {
+      "text": "we're going with the whole issues to do",
+      "start": 132.879,
+      "duration": 3.041
+    },
+    {
+      "text": "with covid and particularly obviously",
+      "start": 134.4,
+      "duration": 3.64
+    },
+    {
+      "text": "long Co and we'll get on to that",
+      "start": 135.92,
+      "duration": 3.84
+    },
+    {
+      "text": "essentially I'm a physiologist",
+      "start": 138.04,
+      "duration": 3.919
+    },
+    {
+      "text": "masquerading as someone who's working in",
+      "start": 139.76,
+      "duration": 5.68
+    },
+    {
+      "text": "Long Co that's that's where I am amazing",
+      "start": 141.959,
+      "duration": 5.801
+    },
+    {
+      "text": "so I'm just really curious how do you go",
+      "start": 145.44,
+      "duration": 4.159
+    },
+    {
+      "text": "about getting funding for studies like",
+      "start": 147.76,
+      "duration": 3.32
+    },
+    {
+      "text": "this",
+      "start": 149.599,
+      "duration": 4.36
+    },
+    {
+      "text": "lots of trial and error I assume it's",
+      "start": 151.08,
+      "duration": 3.879
+    },
+    {
+      "text": "the same as getting funded in for",
+      "start": 153.959,
+      "duration": 3.161
+    },
+    {
+      "text": "anything you know you're um there are",
+      "start": 154.959,
+      "duration": 3.521
+    },
+    {
+      "text": "always more good ideas than there is",
+      "start": 157.12,
+      "duration": 4.399
+    },
+    {
+      "text": "money there's always more good people",
+      "start": 158.48,
+      "duration": 5.36
+    },
+    {
+      "text": "than there is money mechanically there",
+      "start": 161.519,
+      "duration": 4.561
+    },
+    {
+      "text": "will be a call for resar in a particular",
+      "start": 163.84,
+      "duration": 4.119
+    },
+    {
+      "text": "Topic in this case the two we've got at",
+      "start": 166.08,
+      "duration": 3.4
+    },
+    {
+      "text": "the moment there are second and third to",
+      "start": 167.959,
+      "duration": 4.081
+    },
+    {
+      "text": "do with Co but there' be a call if you",
+      "start": 169.48,
+      "duration": 4.64
+    },
+    {
+      "text": "think you've got a good idea to answer",
+      "start": 172.04,
+      "duration": 3.559
+    },
+    {
+      "text": "some of the questions that that call",
+      "start": 174.12,
+      "duration": 4.0
+    },
+    {
+      "text": "once answered and you put a proposal",
+      "start": 175.599,
+      "duration": 5.841
+    },
+    {
+      "text": "together um it gets reviewed and usually",
+      "start": 178.12,
+      "duration": 5.64
+    },
+    {
+      "text": "you'll get rejected just because there",
+      "start": 181.44,
+      "duration": 3.92
+    },
+    {
+      "text": "are way more applicants than there is",
+      "start": 183.76,
+      "duration": 4.24
+    },
+    {
+      "text": "money that's just that's the process but",
+      "start": 185.36,
+      "duration": 3.959
+    },
+    {
+      "text": "if you've got a good idea and a good",
+      "start": 188.0,
+      "duration": 4.319
+    },
+    {
+      "text": "group and good track record then you can",
+      "start": 189.319,
+      "duration": 5.521
+    },
+    {
+      "text": "get funded and that's how you end up",
+      "start": 192.319,
+      "duration": 4.441
+    },
+    {
+      "text": "that's how I ended up with a bunch of",
+      "start": 194.84,
+      "duration": 4.2
+    },
+    {
+      "text": "studies related to Co at least that's",
+      "start": 196.76,
+      "duration": 4.32
+    },
+    {
+      "text": "amazing and with a new thing I guess",
+      "start": 199.04,
+      "duration": 4.279
+    },
+    {
+      "text": "there's quite a lot of different angles",
+      "start": 201.08,
+      "duration": 4.719
+    },
+    {
+      "text": "to tackle with something like long co co",
+      "start": 203.319,
+      "duration": 4.161
+    },
+    {
+      "text": "and long Co they're they're kind of",
+      "start": 205.799,
+      "duration": 3.72
+    },
+    {
+      "text": "worldwide nothing to do with me just",
+      "start": 207.48,
+      "duration": 4.16
+    },
+    {
+      "text": "when but the worldwide effort in terms",
+      "start": 209.519,
+      "duration": 4.681
+    },
+    {
+      "text": "of research output's been massive I",
+      "start": 211.64,
+      "duration": 3.879
+    },
+    {
+      "text": "think I've ever seen anything like it in",
+      "start": 214.2,
+      "duration": 3.28
+    },
+    {
+      "text": "the last kind of 18 months just huge",
+      "start": 215.519,
+      "duration": 4.201
+    },
+    {
+      "text": "output well hopefully that's good news",
+      "start": 217.48,
+      "duration": 4.92
+    },
+    {
+      "text": "for people with lco and for for",
+      "start": 219.72,
+      "duration": 5.84
+    },
+    {
+      "text": "Co so yeah you've got two different",
+      "start": 222.4,
+      "duration": 5.8
+    },
+    {
+      "text": "studies that you're working on um so",
+      "start": 225.56,
+      "duration": 4.399
+    },
+    {
+      "text": "maybe we can just talk a bit about both",
+      "start": 228.2,
+      "duration": 4.36
+    },
+    {
+      "text": "of them so I've put the first one down",
+      "start": 229.959,
+      "duration": 5.241
+    },
+    {
+      "text": "as tracking persistent symptoms in",
+      "start": 232.56,
+      "duration": 5.84
+    },
+    {
+      "text": "Scotland which is a bit isn't it it is a",
+      "start": 235.2,
+      "duration": 5.039
+    },
+    {
+      "text": "little H tra",
+      "start": 238.4,
+      "duration": 4.96
+    },
+    {
+      "text": "yeah yes TR go for that so are you able",
+      "start": 240.239,
+      "duration": 5.601
+    },
+    {
+      "text": "to explain what gave you the idea for",
+      "start": 243.36,
+      "duration": 5.32
+    },
+    {
+      "text": "this so um we'd already done one one",
+      "start": 245.84,
+      "duration": 4.64
+    },
+    {
+      "text": "study related to co it wasn't to do with",
+      "start": 248.68,
+      "duration": 3.559
+    },
+    {
+      "text": "long Co it was to do with activity",
+      "start": 250.48,
+      "duration": 3.0
+    },
+    {
+      "text": "during lockdown it was slightly",
+      "start": 252.239,
+      "duration": 2.481
+    },
+    {
+      "text": "different and from that we' become",
+      "start": 253.48,
+      "duration": 3.12
+    },
+    {
+      "text": "interested in what were called at the",
+      "start": 254.72,
+      "duration": 3.799
+    },
+    {
+      "text": "time long haulers I know their name is",
+      "start": 256.6,
+      "duration": 3.879
+    },
+    {
+      "text": "still used but I think most people have",
+      "start": 258.519,
+      "duration": 4.24
+    },
+    {
+      "text": "have settled on Long CO as their",
+      "start": 260.479,
+      "duration": 4.681
+    },
+    {
+      "text": "preferred this so This call actually",
+      "start": 262.759,
+      "duration": 5.801
+    },
+    {
+      "text": "came out around last October November",
+      "start": 265.16,
+      "duration": 6.0
+    },
+    {
+      "text": "time so this is one that people ask why",
+      "start": 268.56,
+      "duration": 5.28
+    },
+    {
+      "text": "research is slow because there's a call",
+      "start": 271.16,
+      "duration": 3.68
+    },
+    {
+      "text": "call has to be open for a couple of",
+      "start": 273.84,
+      "duration": 2.359
+    },
+    {
+      "text": "months and you submit and it takes a",
+      "start": 274.84,
+      "duration": 3.56
+    },
+    {
+      "text": "couple of months to get a response and",
+      "start": 276.199,
+      "duration": 4.121
+    },
+    {
+      "text": "so you end up many months down the line",
+      "start": 278.4,
+      "duration": 4.76
+    },
+    {
+      "text": "before you start so we put in a bid the",
+      "start": 280.32,
+      "duration": 5.84
+    },
+    {
+      "text": "CSO who had made funding available for",
+      "start": 283.16,
+      "duration": 5.84
+    },
+    {
+      "text": "specifically long covid and one of the",
+      "start": 286.16,
+      "duration": 5.039
+    },
+    {
+      "text": "things we were interested in was from",
+      "start": 289.0,
+      "duration": 5.28
+    },
+    {
+      "text": "the literature clearly the the symptom",
+      "start": 291.199,
+      "duration": 7.361
+    },
+    {
+      "text": "load varies wildly in different studies",
+      "start": 294.28,
+      "duration": 5.84
+    },
+    {
+      "text": "and in fact it varies quite well ly from",
+      "start": 298.56,
+      "duration": 3.639
+    },
+    {
+      "text": "person to person I now know we didn't",
+      "start": 300.12,
+      "duration": 3.4
+    },
+    {
+      "text": "know this when we put it in at the time",
+      "start": 302.199,
+      "duration": 3.201
+    },
+    {
+      "text": "it can vary quite widely in the same",
+      "start": 303.52,
+      "duration": 4.76
+    },
+    {
+      "text": "person from day to day and we were kind",
+      "start": 305.4,
+      "duration": 5.6
+    },
+    {
+      "text": "of curious about that because it might",
+      "start": 308.28,
+      "duration": 4.16
+    },
+    {
+      "text": "be an artifact of the way the research",
+      "start": 311.0,
+      "duration": 3.199
+    },
+    {
+      "text": "has done or it might not but if you",
+      "start": 312.44,
+      "duration": 3.72
+    },
+    {
+      "text": "looked at the way the studies were",
+      "start": 314.199,
+      "duration": 4.321
+    },
+    {
+      "text": "published there's an English study study",
+      "start": 316.16,
+      "duration": 4.4
+    },
+    {
+      "text": "from America study from Italy this again",
+      "start": 318.52,
+      "duration": 3.56
+    },
+    {
+      "text": "this was back in October so there was",
+      "start": 320.56,
+      "duration": 4.0
+    },
+    {
+      "text": "less about them than there is now and",
+      "start": 322.08,
+      "duration": 4.0
+    },
+    {
+      "text": "they all had different kind of",
+      "start": 324.56,
+      "duration": 3.12
+    },
+    {
+      "text": "incidences so the amount of people who",
+      "start": 326.08,
+      "duration": 4.239
+    },
+    {
+      "text": "had take a symptom headache the amount",
+      "start": 327.68,
+      "duration": 3.84
+    },
+    {
+      "text": "of people had a headache was different",
+      "start": 330.319,
+      "duration": 4.921
+    },
+    {
+      "text": "in England to in Italy to America all",
+      "start": 331.52,
+      "duration": 6.36
+    },
+    {
+      "text": "very different and we were curious is",
+      "start": 335.24,
+      "duration": 4.84
+    },
+    {
+      "text": "that an international thing this was",
+      "start": 337.88,
+      "duration": 3.84
+    },
+    {
+      "text": "before the Delta variant came out so we",
+      "start": 340.08,
+      "duration": 3.28
+    },
+    {
+      "text": "didn't think nobody was thinking about",
+      "start": 341.72,
+      "duration": 4.24
+    },
+    {
+      "text": "it's it's due to different variants is",
+      "start": 343.36,
+      "duration": 6.0
+    },
+    {
+      "text": "it to do with Medical Care during covid",
+      "start": 345.96,
+      "duration": 4.92
+    },
+    {
+      "text": "so that in different countries you're",
+      "start": 349.36,
+      "duration": 5.08
+    },
+    {
+      "text": "likely to get different outcomes we just",
+      "start": 350.88,
+      "duration": 5.439
+    },
+    {
+      "text": "but we didn't know there was no specific",
+      "start": 354.44,
+      "duration": 4.319
+    },
+    {
+      "text": "data in Scotland and this was a CSO call",
+      "start": 356.319,
+      "duration": 4.641
+    },
+    {
+      "text": "so we wanted to start tracking some of",
+      "start": 358.759,
+      "duration": 4.56
+    },
+    {
+      "text": "the symptoms and start getting some data",
+      "start": 360.96,
+      "duration": 4.48
+    },
+    {
+      "text": "specific to Scotland because if there is",
+      "start": 363.319,
+      "duration": 4.121
+    },
+    {
+      "text": "kind of groups of symptoms in different",
+      "start": 365.44,
+      "duration": 4.0
+    },
+    {
+      "text": "areas then we needed data specifically",
+      "start": 367.44,
+      "duration": 3.599
+    },
+    {
+      "text": "on Scotland if we're going to be able to",
+      "start": 369.44,
+      "duration": 3.759
+    },
+    {
+      "text": "support people in Scotland so that's",
+      "start": 371.039,
+      "duration": 4.56
+    },
+    {
+      "text": "where the study came from and then we",
+      "start": 373.199,
+      "duration": 4.801
+    },
+    {
+      "text": "put that to the CSO who clearly agreed",
+      "start": 375.599,
+      "duration": 4.32
+    },
+    {
+      "text": "and they agreed to fund it and so we're",
+      "start": 378.0,
+      "duration": 3.28
+    },
+    {
+      "text": "kind of a couple of months into that",
+      "start": 379.919,
+      "duration": 3.641
+    },
+    {
+      "text": "study now that's really interesting the",
+      "start": 381.28,
+      "duration": 5.88
+    },
+    {
+      "text": "idea of long Co being area specific from",
+      "start": 383.56,
+      "duration": 5.199
+    },
+    {
+      "text": "the data that we've got now I suspect",
+      "start": 387.16,
+      "duration": 2.96
+    },
+    {
+      "text": "it's not International",
+      "start": 388.759,
+      "duration": 4.0
+    },
+    {
+      "text": "but there's clearly a cohort effect so",
+      "start": 390.12,
+      "duration": 6.079
+    },
+    {
+      "text": "the first study in that CSO project was",
+      "start": 392.759,
+      "duration": 5.16
+    },
+    {
+      "text": "what we call a scoping review which is",
+      "start": 396.199,
+      "duration": 3.521
+    },
+    {
+      "text": "where you you get all the studies",
+      "start": 397.919,
+      "duration": 3.961
+    },
+    {
+      "text": "related to a particular topic all",
+      "start": 399.72,
+      "duration": 3.599
+    },
+    {
+      "text": "different kinds of studies so some are",
+      "start": 401.88,
+      "duration": 2.96
+    },
+    {
+      "text": "case studies some are cross-sectional",
+      "start": 403.319,
+      "duration": 3.841
+    },
+    {
+      "text": "all very different types and what we",
+      "start": 404.84,
+      "duration": 5.44
+    },
+    {
+      "text": "found from that is that if you rank",
+      "start": 407.16,
+      "duration": 4.64
+    },
+    {
+      "text": "particular symptoms again let's take",
+      "start": 410.28,
+      "duration": 3.319
+    },
+    {
+      "text": "headache again right so if you get you",
+      "start": 411.8,
+      "duration": 4.119
+    },
+    {
+      "text": "got 10 studies and you go well this",
+      "start": 413.599,
+      "duration": 4.241
+    },
+    {
+      "text": "study reported that 80% of people had",
+      "start": 415.919,
+      "duration": 3.921
+    },
+    {
+      "text": "headaches and this study reported that",
+      "start": 417.84,
+      "duration": 4.28
+    },
+    {
+      "text": "50% of people had headaches the studies",
+      "start": 419.84,
+      "duration": 4.6
+    },
+    {
+      "text": "that rank in the top for any given",
+      "start": 422.12,
+      "duration": 4.919
+    },
+    {
+      "text": "symptom tend to be in the top for every",
+      "start": 424.44,
+      "duration": 5.24
+    },
+    {
+      "text": "symptom that they report and the studies",
+      "start": 427.039,
+      "duration": 5.121
+    },
+    {
+      "text": "that rank near the bottom for a given",
+      "start": 429.68,
+      "duration": 5.359
+    },
+    {
+      "text": "symptom so if they say 6% of our cohort",
+      "start": 432.16,
+      "duration": 5.08
+    },
+    {
+      "text": "had headaches they'll tend to be in the",
+      "start": 435.039,
+      "duration": 5.0
+    },
+    {
+      "text": "bottom for all their symptoms so we get",
+      "start": 437.24,
+      "duration": 5.2
+    },
+    {
+      "text": "studies where every symptoms has a high",
+      "start": 440.039,
+      "duration": 4.801
+    },
+    {
+      "text": "incidence and we get studies where",
+      "start": 442.44,
+      "duration": 4.24
+    },
+    {
+      "text": "nearly every symptom has a relatively",
+      "start": 444.84,
+      "duration": 3.72
+    },
+    {
+      "text": "low incident and we still don't really",
+      "start": 446.68,
+      "duration": 3.56
+    },
+    {
+      "text": "get why that is and these are across",
+      "start": 448.56,
+      "duration": 2.639
+    },
+    {
+      "text": "different countries which is one of the",
+      "start": 450.24,
+      "duration": 2.16
+    },
+    {
+      "text": "reasons why we don't think it's country",
+      "start": 451.199,
+      "duration": 3.241
+    },
+    {
+      "text": "based so they'll be studied from the",
+      "start": 452.4,
+      "duration": 3.6
+    },
+    {
+      "text": "same country where we've got high",
+      "start": 454.44,
+      "duration": 3.72
+    },
+    {
+      "text": "instance and low instance but whether",
+      "start": 456.0,
+      "duration": 4.4
+    },
+    {
+      "text": "it's to do with the kind of hospital",
+      "start": 458.16,
+      "duration": 3.96
+    },
+    {
+      "text": "that they go to or the kind of Clinic",
+      "start": 460.4,
+      "duration": 3.4
+    },
+    {
+      "text": "that's measuring them at the time is it",
+      "start": 462.12,
+      "duration": 3.919
+    },
+    {
+      "text": "to do the type of study or not sure but",
+      "start": 463.8,
+      "duration": 4.64
+    },
+    {
+      "text": "there's clearly what we think is I think",
+      "start": 466.039,
+      "duration": 4.401
+    },
+    {
+      "text": "we call it a cohort effect in that there",
+      "start": 468.44,
+      "duration": 3.599
+    },
+    {
+      "text": "are these cohorts that get measured",
+      "start": 470.44,
+      "duration": 4.479
+    },
+    {
+      "text": "where either symptom load is low across",
+      "start": 472.039,
+      "duration": 5.401
+    },
+    {
+      "text": "all the different symptoms or symptom",
+      "start": 474.919,
+      "duration": 4.201
+    },
+    {
+      "text": "load is relatively High across all the",
+      "start": 477.44,
+      "duration": 3.28
+    },
+    {
+      "text": "symptoms",
+      "start": 479.12,
+      "duration": 3.359
+    },
+    {
+      "text": "so yeah that's great that you're already",
+      "start": 480.72,
+      "duration": 4.52
+    },
+    {
+      "text": "getting data from it as well so maybe we",
+      "start": 482.479,
+      "duration": 5.0
+    },
+    {
+      "text": "should talk about how the study actually",
+      "start": 485.24,
+      "duration": 4.0
+    },
+    {
+      "text": "works you said it's got three different",
+      "start": 487.479,
+      "duration": 5.201
+    },
+    {
+      "text": "phases do they all run side by side or",
+      "start": 489.24,
+      "duration": 6.639
+    },
+    {
+      "text": "and not quite the the idea is that they",
+      "start": 492.68,
+      "duration": 5.56
+    },
+    {
+      "text": "sort of especially the first two feed",
+      "start": 495.879,
+      "duration": 4.801
+    },
+    {
+      "text": "off each other or inform each other so",
+      "start": 498.24,
+      "duration": 4.84
+    },
+    {
+      "text": "the first phase is that scoping review I",
+      "start": 500.68,
+      "duration": 4.639
+    },
+    {
+      "text": "just mentioned and that's because in the",
+      "start": 503.08,
+      "duration": 4.28
+    },
+    {
+      "text": "other two phases we need to track",
+      "start": 505.319,
+      "duration": 4.641
+    },
+    {
+      "text": "specific symptoms but if we're to track",
+      "start": 507.36,
+      "duration": 5.0
+    },
+    {
+      "text": "symptoms we need some good evidence that",
+      "start": 509.96,
+      "duration": 3.879
+    },
+    {
+      "text": "these are a good set of symptoms to",
+      "start": 512.36,
+      "duration": 4.44
+    },
+    {
+      "text": "track right so the scope and review the",
+      "start": 513.839,
+      "duration": 5.32
+    },
+    {
+      "text": "initial reason for it was to try and get",
+      "start": 516.8,
+      "duration": 3.599
+    },
+    {
+      "text": "a definitive and other people have",
+      "start": 519.159,
+      "duration": 3.041
+    },
+    {
+      "text": "publish stuffs into it but at the time",
+      "start": 520.399,
+      "duration": 3.721
+    },
+    {
+      "text": "it didn't exist so we needed kind of a",
+      "start": 522.2,
+      "duration": 5.6
+    },
+    {
+      "text": "definitive list a strong list of the",
+      "start": 524.12,
+      "duration": 6.56
+    },
+    {
+      "text": "symptoms associated with long covid as",
+      "start": 527.8,
+      "duration": 4.599
+    },
+    {
+      "text": "others have published since then we've",
+      "start": 530.68,
+      "duration": 4.0
+    },
+    {
+      "text": "got a list of about 198 at the minute",
+      "start": 532.399,
+      "duration": 5.401
+    },
+    {
+      "text": "it's huge is a lot I'm quite varied um",
+      "start": 534.68,
+      "duration": 5.68
+    },
+    {
+      "text": "and even that actually I think we've got",
+      "start": 537.8,
+      "duration": 5.68
+    },
+    {
+      "text": "50ish but we've clumped similar symptoms",
+      "start": 540.36,
+      "duration": 5.039
+    },
+    {
+      "text": "together so we've kind of clumped",
+      "start": 543.48,
+      "duration": 4.32
+    },
+    {
+      "text": "breathlessness respirat distress as as",
+      "start": 545.399,
+      "duration": 4.321
+    },
+    {
+      "text": "kind of breathing issues they're not",
+      "start": 547.8,
+      "duration": 3.2
+    },
+    {
+      "text": "quite the same but it just it helped us",
+      "start": 549.72,
+      "duration": 2.96
+    },
+    {
+      "text": "try and get a manageable amount of",
+      "start": 551.0,
+      "duration": 3.92
+    },
+    {
+      "text": "symptoms at the end so the scope and",
+      "start": 552.68,
+      "duration": 4.44
+    },
+    {
+      "text": "review was essentially was to get a list",
+      "start": 554.92,
+      "duration": 3.88
+    },
+    {
+      "text": "of symptoms that we can all agree are",
+      "start": 557.12,
+      "duration": 3.64
+    },
+    {
+      "text": "associated with on Co even if it's a",
+      "start": 558.8,
+      "duration": 5.159
+    },
+    {
+      "text": "long list the second phase then is just",
+      "start": 560.76,
+      "duration": 5.92
+    },
+    {
+      "text": "a cross-sectional survey of Scotland and",
+      "start": 563.959,
+      "duration": 4.521
+    },
+    {
+      "text": "that's about to go live the website for",
+      "start": 566.68,
+      "duration": 3.64
+    },
+    {
+      "text": "that setup and so that's essentially",
+      "start": 568.48,
+      "duration": 5.16
+    },
+    {
+      "text": "just an online survey of people who have",
+      "start": 570.32,
+      "duration": 5.48
+    },
+    {
+      "text": "got persistent symptoms in order to go",
+      "start": 573.64,
+      "duration": 4.36
+    },
+    {
+      "text": "through a fairly brief question and",
+      "start": 575.8,
+      "duration": 4.479
+    },
+    {
+      "text": "Report how long since they've had covid",
+      "start": 578.0,
+      "duration": 4.279
+    },
+    {
+      "text": "since they had a diagnosis if they had",
+      "start": 580.279,
+      "duration": 3.56
+    },
+    {
+      "text": "one because obviously a lot of people in",
+      "start": 582.279,
+      "duration": 4.401
+    },
+    {
+      "text": "the early phases just never did so if",
+      "start": 583.839,
+      "duration": 4.921
+    },
+    {
+      "text": "they know how long it's been and if they",
+      "start": 586.68,
+      "duration": 4.279
+    },
+    {
+      "text": "don't know how long they suspect and",
+      "start": 588.76,
+      "duration": 4.16
+    },
+    {
+      "text": "then kind of tick or across yes I have",
+      "start": 590.959,
+      "duration": 3.481
+    },
+    {
+      "text": "these symptoms on I don't have these",
+      "start": 592.92,
+      "duration": 3.12
+    },
+    {
+      "text": "symptoms and and this is how severe they",
+      "start": 594.44,
+      "duration": 3.959
+    },
+    {
+      "text": "are and the idea for that is to give us",
+      "start": 596.04,
+      "duration": 5.919
+    },
+    {
+      "text": "a aware Baseline of what the symptom",
+      "start": 598.399,
+      "duration": 5.761
+    },
+    {
+      "text": "load of long covid is in Scotland",
+      "start": 601.959,
+      "duration": 3.481
+    },
+    {
+      "text": "because we just don't know one of the",
+      "start": 604.16,
+      "duration": 2.919
+    },
+    {
+      "text": "issues with long covid is just the lack",
+      "start": 605.44,
+      "duration": 4.6
+    },
+    {
+      "text": "of data right so in Scotland do 80% of",
+      "start": 607.079,
+      "duration": 5.32
+    },
+    {
+      "text": "people long covid have mild symptoms and",
+      "start": 610.04,
+      "duration": 4.28
+    },
+    {
+      "text": "20% have fairly severe or is it the",
+      "start": 612.399,
+      "duration": 4.921
+    },
+    {
+      "text": "other way around we we have no idea so",
+      "start": 614.32,
+      "duration": 4.759
+    },
+    {
+      "text": "that's phase two is kind of a",
+      "start": 617.32,
+      "duration": 4.199
+    },
+    {
+      "text": "cross-sectional look at symptoms in",
+      "start": 619.079,
+      "duration": 5.76
+    },
+    {
+      "text": "people with long Co in Scotland and then",
+      "start": 621.519,
+      "duration": 5.32
+    },
+    {
+      "text": "phase three then the last one is more",
+      "start": 624.839,
+      "duration": 3.841
+    },
+    {
+      "text": "longitudinal that's slightly harder to",
+      "start": 626.839,
+      "duration": 3.641
+    },
+    {
+      "text": "do so we recruit people who've recently",
+      "start": 628.68,
+      "duration": 4.24
+    },
+    {
+      "text": "had a CO infection and I don't think",
+      "start": 630.48,
+      "duration": 4.24
+    },
+    {
+      "text": "we're going to worry too much about",
+      "start": 632.92,
+      "duration": 3.919
+    },
+    {
+      "text": "whether they've been vaccinated or not",
+      "start": 634.72,
+      "duration": 3.84
+    },
+    {
+      "text": "when we put the application in",
+      "start": 636.839,
+      "duration": 3.761
+    },
+    {
+      "text": "vaccination issue was much less",
+      "start": 638.56,
+      "duration": 3.519
+    },
+    {
+      "text": "important at the time back in October",
+      "start": 640.6,
+      "duration": 3.52
+    },
+    {
+      "text": "2020 it was we're not sure how many",
+      "start": 642.079,
+      "duration": 5.0
+    },
+    {
+      "text": "people will be vaccinated come next July",
+      "start": 644.12,
+      "duration": 4.719
+    },
+    {
+      "text": "but anyway we'll get people been had a",
+      "start": 647.079,
+      "duration": 3.801
+    },
+    {
+      "text": "recent positive covid test and then",
+      "start": 648.839,
+      "duration": 3.601
+    },
+    {
+      "text": "we'll track them because we also don't",
+      "start": 650.88,
+      "duration": 3.399
+    },
+    {
+      "text": "have good data on how many people are",
+      "start": 652.44,
+      "duration": 4.199
+    },
+    {
+      "text": "likely to get long covid if you have 100",
+      "start": 654.279,
+      "duration": 4.161
+    },
+    {
+      "text": "people who get covid infection What",
+      "start": 656.639,
+      "duration": 3.2
+    },
+    {
+      "text": "proportion of those are likely to get",
+      "start": 658.44,
+      "duration": 3.72
+    },
+    {
+      "text": "persistent symptoms and even then I mean",
+      "start": 659.839,
+      "duration": 3.56
+    },
+    {
+      "text": "there's some data from I think the",
+      "start": 662.16,
+      "duration": 2.88
+    },
+    {
+      "text": "states and Italy have got some data on",
+      "start": 663.399,
+      "duration": 3.641
+    },
+    {
+      "text": "that but even if you get that What",
+      "start": 665.04,
+      "duration": 3.96
+    },
+    {
+      "text": "proportion going to have symptoms for 6",
+      "start": 667.04,
+      "duration": 3.52
+    },
+    {
+      "text": "months what proportionally going to have",
+      "start": 669.0,
+      "duration": 3.6
+    },
+    {
+      "text": "symptoms for 12 months What proportion",
+      "start": 670.56,
+      "duration": 3.399
+    },
+    {
+      "text": "going to have symptoms for like a really",
+      "start": 672.6,
+      "duration": 3.479
+    },
+    {
+      "text": "long follow-up time we don't have any of",
+      "start": 673.959,
+      "duration": 4.521
+    },
+    {
+      "text": "that data so what we've got for that is",
+      "start": 676.079,
+      "duration": 4.2
+    },
+    {
+      "text": "we've developed kind of a symptom",
+      "start": 678.48,
+      "duration": 3.919
+    },
+    {
+      "text": "tracking app a bit like the Chloe app",
+      "start": 680.279,
+      "duration": 3.881
+    },
+    {
+      "text": "it's not not as nice and fancy as the",
+      "start": 682.399,
+      "duration": 4.56
+    },
+    {
+      "text": "chlo app but inside of that is some",
+      "start": 684.16,
+      "duration": 5.44
+    },
+    {
+      "text": "questionnaires to do with p and quality",
+      "start": 686.959,
+      "duration": 4.641
+    },
+    {
+      "text": "of life and symptoms and some other",
+      "start": 689.6,
+      "duration": 3.96
+    },
+    {
+      "text": "stuff to do with cognitive function so",
+      "start": 691.6,
+      "duration": 3.6
+    },
+    {
+      "text": "we've got some cognitive function tests",
+      "start": 693.56,
+      "duration": 3.959
+    },
+    {
+      "text": "built into it and a couple of simple",
+      "start": 695.2,
+      "duration": 4.16
+    },
+    {
+      "text": "kind of physical function tests so sit",
+      "start": 697.519,
+      "duration": 4.44
+    },
+    {
+      "text": "to stand and so on and we're going to",
+      "start": 699.36,
+      "duration": 5.56
+    },
+    {
+      "text": "ask people who enroll in the study to",
+      "start": 701.959,
+      "duration": 4.721
+    },
+    {
+      "text": "fill that in kind of once a month for at",
+      "start": 704.92,
+      "duration": 4.159
+    },
+    {
+      "text": "least nine months we've got funding to",
+      "start": 706.68,
+      "duration": 3.76
+    },
+    {
+      "text": "do it for nine months we might carry on",
+      "start": 709.079,
+      "duration": 2.921
+    },
+    {
+      "text": "after that depends how many people are",
+      "start": 710.44,
+      "duration": 3.92
+    },
+    {
+      "text": "still in because that gives us what we",
+      "start": 712.0,
+      "duration": 4.04
+    },
+    {
+      "text": "call prospective data which is more",
+      "start": 714.36,
+      "duration": 4.719
+    },
+    {
+      "text": "useful to us because the issue at the",
+      "start": 716.04,
+      "duration": 5.44
+    },
+    {
+      "text": "the the website for example is that yes",
+      "start": 719.079,
+      "duration": 4.521
+    },
+    {
+      "text": "we'll get a good cross-section of people",
+      "start": 721.48,
+      "duration": 3.84
+    },
+    {
+      "text": "at long Co in Scotland and what kind of",
+      "start": 723.6,
+      "duration": 3.919
+    },
+    {
+      "text": "symptoms they get but that doesn't tell",
+      "start": 725.32,
+      "duration": 4.16
+    },
+    {
+      "text": "us too much about What proportion of",
+      "start": 727.519,
+      "duration": 3.601
+    },
+    {
+      "text": "people in Scotland because we don't know",
+      "start": 729.48,
+      "duration": 3.08
+    },
+    {
+      "text": "if everyone in Scotland at long Co is",
+      "start": 731.12,
+      "duration": 3.399
+    },
+    {
+      "text": "going to fill it in or 5% of people we",
+      "start": 732.56,
+      "duration": 3.92
+    },
+    {
+      "text": "will never know that so it gives us a",
+      "start": 734.519,
+      "duration": 3.961
+    },
+    {
+      "text": "cross-sectional snapshot but it doesn't",
+      "start": 736.48,
+      "duration": 4.799
+    },
+    {
+      "text": "tell us too much about the risks and the",
+      "start": 738.48,
+      "duration": 4.96
+    },
+    {
+      "text": "likelihoods associated with getting long",
+      "start": 741.279,
+      "duration": 4.081
+    },
+    {
+      "text": "covid after an infection and to do that",
+      "start": 743.44,
+      "duration": 3.959
+    },
+    {
+      "text": "you need a prospective study by",
+      "start": 745.36,
+      "duration": 4.4
+    },
+    {
+      "text": "prospective we mean you recruit people",
+      "start": 747.399,
+      "duration": 4.481
+    },
+    {
+      "text": "really early on and then you follow them",
+      "start": 749.76,
+      "duration": 4.4
+    },
+    {
+      "text": "and track them for months one of the",
+      "start": 751.88,
+      "duration": 4.319
+    },
+    {
+      "text": "issues is of course for research we need",
+      "start": 754.16,
+      "duration": 4.44
+    },
+    {
+      "text": "a specific number of people and we don't",
+      "start": 756.199,
+      "duration": 3.681
+    },
+    {
+      "text": "know what that number is at the moment",
+      "start": 758.6,
+      "duration": 2.359
+    },
+    {
+      "text": "that was one of the issues we had with",
+      "start": 759.88,
+      "duration": 2.519
+    },
+    {
+      "text": "the CSO because we don't know how many",
+      "start": 760.959,
+      "duration": 3.56
+    },
+    {
+      "text": "are going to get persistent symptoms we",
+      "start": 762.399,
+      "duration": 3.761
+    },
+    {
+      "text": "don't know if we recruit 200 people",
+      "start": 764.519,
+      "duration": 3.921
+    },
+    {
+      "text": "who've recently had a covid infection we",
+      "start": 766.16,
+      "duration": 4.239
+    },
+    {
+      "text": "don't know if 5% of those are going to",
+      "start": 768.44,
+      "duration": 5.639
+    },
+    {
+      "text": "get non covid 10% 50% so it's it's a",
+      "start": 770.399,
+      "duration": 5.0
+    },
+    {
+      "text": "little bit of an open book at the moment",
+      "start": 774.079,
+      "duration": 2.961
+    },
+    {
+      "text": "in terms of how many people we'll end up",
+      "start": 775.399,
+      "duration": 3.961
+    },
+    {
+      "text": "with on that study hopefully we don't",
+      "start": 777.04,
+      "duration": 3.799
+    },
+    {
+      "text": "get anyone with L Co that would be great",
+      "start": 779.36,
+      "duration": 3.32
+    },
+    {
+      "text": "it would make the stats a disaster it",
+      "start": 780.839,
+      "duration": 4.8
+    },
+    {
+      "text": "would be amazing but in terms of kind of",
+      "start": 782.68,
+      "duration": 4.76
+    },
+    {
+      "text": "giving us robust scientific data we just",
+      "start": 785.639,
+      "duration": 3.64
+    },
+    {
+      "text": "need a set amount of people in order",
+      "start": 787.44,
+      "duration": 3.12
+    },
+    {
+      "text": "that we can go right well we've got",
+      "start": 789.279,
+      "duration": 2.761
+    },
+    {
+      "text": "enough that we can make some reasonable",
+      "start": 790.56,
+      "duration": 3.6
+    },
+    {
+      "text": "predictions on that we've got funded for",
+      "start": 792.04,
+      "duration": 3.32
+    },
+    {
+      "text": "that for nine months that runs through",
+      "start": 794.16,
+      "duration": 2.239
+    },
+    {
+      "text": "into",
+      "start": 795.36,
+      "duration": 4.159
+    },
+    {
+      "text": "2022 that will give you the ability to",
+      "start": 796.399,
+      "duration": 4.641
+    },
+    {
+      "text": "there are a lot of people that have had",
+      "start": 799.519,
+      "duration": 4.801
+    },
+    {
+      "text": "a CO infection many of whom very mild",
+      "start": 801.04,
+      "duration": 4.799
+    },
+    {
+      "text": "and then they started to sort of get B",
+      "start": 804.32,
+      "duration": 2.959
+    },
+    {
+      "text": "and I I was like this I started to get",
+      "start": 805.839,
+      "duration": 3.36
+    },
+    {
+      "text": "better to BU mon three I was thinking",
+      "start": 807.279,
+      "duration": 3.161
+    },
+    {
+      "text": "right I'm feeling an awful lot better",
+      "start": 809.199,
+      "duration": 2.561
+    },
+    {
+      "text": "now I was starting you know doing",
+      "start": 810.44,
+      "duration": 3.199
+    },
+    {
+      "text": "exercise and you know feeling like I was",
+      "start": 811.76,
+      "duration": 4.04
+    },
+    {
+      "text": "wasn't myself but I was getting there",
+      "start": 813.639,
+      "duration": 4.681
+    },
+    {
+      "text": "and then the long Co symptoms hit so",
+      "start": 815.8,
+      "duration": 4.12
+    },
+    {
+      "text": "that will give you an idea of people",
+      "start": 818.32,
+      "duration": 3.44
+    },
+    {
+      "text": "like that where it kicks in several",
+      "start": 819.92,
+      "duration": 4.2
+    },
+    {
+      "text": "months later but that's kind of the",
+      "start": 821.76,
+      "duration": 4.6
+    },
+    {
+      "text": "point of the symptom tracking there's",
+      "start": 824.12,
+      "duration": 3.519
+    },
+    {
+      "text": "kind of two points that one is because",
+      "start": 826.36,
+      "duration": 2.76
+    },
+    {
+      "text": "we need this prospective data that I",
+      "start": 827.639,
+      "duration": 3.44
+    },
+    {
+      "text": "spoke about because you're right there's",
+      "start": 829.12,
+      "duration": 4.04
+    },
+    {
+      "text": "some people who get symptoms they",
+      "start": 831.079,
+      "duration": 3.801
+    },
+    {
+      "text": "recover from the initial covid",
+      "start": 833.16,
+      "duration": 3.119
+    },
+    {
+      "text": "infections but actually they never",
+      "start": 834.88,
+      "duration": 3.36
+    },
+    {
+      "text": "really get an awful lot better and then",
+      "start": 836.279,
+      "duration": 3.161
+    },
+    {
+      "text": "there's kind of another group who",
+      "start": 838.24,
+      "duration": 3.12
+    },
+    {
+      "text": "recover from covid actually feel like",
+      "start": 839.44,
+      "duration": 4.079
+    },
+    {
+      "text": "they're improving quite a lot and then",
+      "start": 841.36,
+      "duration": 4.2
+    },
+    {
+      "text": "they get a crash you'll realize with the",
+      "start": 843.519,
+      "duration": 3.361
+    },
+    {
+      "text": "second stud do we've got a mobile app",
+      "start": 845.56,
+      "duration": 3.079
+    },
+    {
+      "text": "for that but one of the reasons I like",
+      "start": 846.88,
+      "duration": 3.36
+    },
+    {
+      "text": "that is because it allows us to take",
+      "start": 848.639,
+      "duration": 3.961
+    },
+    {
+      "text": "measurements quite frequently as opposed",
+      "start": 850.24,
+      "duration": 4.68
+    },
+    {
+      "text": "to just recruiting people taking the",
+      "start": 852.6,
+      "duration": 4.32
+    },
+    {
+      "text": "measurement at week one leaving them",
+      "start": 854.92,
+      "duration": 3.76
+    },
+    {
+      "text": "alone for 9ine months and taking another",
+      "start": 856.92,
+      "duration": 3.159
+    },
+    {
+      "text": "another measurement at the end of nine",
+      "start": 858.68,
+      "duration": 2.959
+    },
+    {
+      "text": "months and assuming that it's just been",
+      "start": 860.079,
+      "duration": 3.88
+    },
+    {
+      "text": "a constant Improvement or decline",
+      "start": 861.639,
+      "duration": 4.481
+    },
+    {
+      "text": "between those two that doesn't seem to",
+      "start": 863.959,
+      "duration": 4.761
+    },
+    {
+      "text": "be to me at least to be the most useful",
+      "start": 866.12,
+      "duration": 4.519
+    },
+    {
+      "text": "way can collect data particularly in",
+      "start": 868.72,
+      "duration": 4.039
+    },
+    {
+      "text": "Long Co where we know the symptoms are",
+      "start": 870.639,
+      "duration": 4.2
+    },
+    {
+      "text": "really variable if I happen to get you",
+      "start": 872.759,
+      "duration": 4.64
+    },
+    {
+      "text": "at month n on a bad day it will appear",
+      "start": 874.839,
+      "duration": 3.961
+    },
+    {
+      "text": "like you've got an awful lot worse I",
+      "start": 877.399,
+      "duration": 2.841
+    },
+    {
+      "text": "happen to get you on a good day it'll",
+      "start": 878.8,
+      "duration": 2.76
+    },
+    {
+      "text": "appear like you've got an awful lot",
+      "start": 880.24,
+      "duration": 4.279
+    },
+    {
+      "text": "better but that might not really reflect",
+      "start": 881.56,
+      "duration": 4.68
+    },
+    {
+      "text": "how you've been overall for the last",
+      "start": 884.519,
+      "duration": 4.56
+    },
+    {
+      "text": "month or so so we're hoping to get some",
+      "start": 886.24,
+      "duration": 5.56
+    },
+    {
+      "text": "high frequency regular data I guess so",
+      "start": 889.079,
+      "duration": 4.56
+    },
+    {
+      "text": "we can see how much it varies month to",
+      "start": 891.8,
+      "duration": 4.92
+    },
+    {
+      "text": "month and then also how many people",
+      "start": 893.639,
+      "duration": 5.44
+    },
+    {
+      "text": "transfer from Co infection whether",
+      "start": 896.72,
+      "duration": 4.0
+    },
+    {
+      "text": "that's mild and relatively severe",
+      "start": 899.079,
+      "duration": 3.961
+    },
+    {
+      "text": "through to still having symptoms or",
+      "start": 900.72,
+      "duration": 4.32
+    },
+    {
+      "text": "still reporting issues whether that's",
+      "start": 903.04,
+      "duration": 4.719
+    },
+    {
+      "text": "related to co or not 9 months post so",
+      "start": 905.04,
+      "duration": 5.96
+    },
+    {
+      "text": "your phase two is the website is anyone",
+      "start": 907.759,
+      "duration": 5.281
+    },
+    {
+      "text": "in Scotland going to be able to take",
+      "start": 911.0,
+      "duration": 4.639
+    },
+    {
+      "text": "part in that anyone with with symptoms",
+      "start": 913.04,
+      "duration": 4.88
+    },
+    {
+      "text": "yep a website that we're testing with a",
+      "start": 915.639,
+      "duration": 4.961
+    },
+    {
+      "text": "PPI group a public patient interaction",
+      "start": 917.92,
+      "duration": 5.12
+    },
+    {
+      "text": "group we work with long Co Scotland on",
+      "start": 920.6,
+      "duration": 4.479
+    },
+    {
+      "text": "both of the two studies and so we kind",
+      "start": 923.04,
+      "duration": 3.12
+    },
+    {
+      "text": "of running it through some people at the",
+      "start": 925.079,
+      "duration": 3.2
+    },
+    {
+      "text": "moment just to test that it makes sense",
+      "start": 926.16,
+      "duration": 4.4
+    },
+    {
+      "text": "and the web designer we've got very good",
+      "start": 928.279,
+      "duration": 3.881
+    },
+    {
+      "text": "so it won't be full of typos because I",
+      "start": 930.56,
+      "duration": 4.24
+    },
+    {
+      "text": "didn't do it but just you know do the",
+      "start": 932.16,
+      "duration": 4.039
+    },
+    {
+      "text": "questions make sense there's one thing",
+      "start": 934.8,
+      "duration": 2.719
+    },
+    {
+      "text": "it makes sense to you but then you throw",
+      "start": 936.199,
+      "duration": 2.801
+    },
+    {
+      "text": "it to someone else and they go well I'm",
+      "start": 937.519,
+      "duration": 2.921
+    },
+    {
+      "text": "not sure what you mean by this so",
+      "start": 939.0,
+      "duration": 2.68
+    },
+    {
+      "text": "there's just some test and we've got to",
+      "start": 940.44,
+      "duration": 2.92
+    },
+    {
+      "text": "run through and then once that's done",
+      "start": 941.68,
+      "duration": 4.839
+    },
+    {
+      "text": "it'll be essentially live in fact anyone",
+      "start": 943.36,
+      "duration": 5.08
+    },
+    {
+      "text": "can fill it in there's no reason for",
+      "start": 946.519,
+      "duration": 3.481
+    },
+    {
+      "text": "anyone who's not had covid to fill it in",
+      "start": 948.44,
+      "duration": 3.12
+    },
+    {
+      "text": "or who doesn't suspect they were",
+      "start": 950.0,
+      "duration": 3.12
+    },
+    {
+      "text": "persistent symptoms to fill in but it is",
+      "start": 951.56,
+      "duration": 3.04
+    },
+    {
+      "text": "one of the weaknesses of that kind of",
+      "start": 953.12,
+      "duration": 3.519
+    },
+    {
+      "text": "approach is you assume that the only",
+      "start": 954.6,
+      "duration": 3.64
+    },
+    {
+      "text": "people who fill it in are people who",
+      "start": 956.639,
+      "duration": 3.76
+    },
+    {
+      "text": "have had an infection and got persistent",
+      "start": 958.24,
+      "duration": 4.279
+    },
+    {
+      "text": "symptoms I can put the link to that in",
+      "start": 960.399,
+      "duration": 3.92
+    },
+    {
+      "text": "the show notes that would be really",
+      "start": 962.519,
+      "duration": 4.961
+    },
+    {
+      "text": "useful so you said the time scale is 9",
+      "start": 964.319,
+      "duration": 5.32
+    },
+    {
+      "text": "months for the tracking part so that's",
+      "start": 967.48,
+      "duration": 4.52
+    },
+    {
+      "text": "phase three but you'll be able to get",
+      "start": 969.639,
+      "duration": 4.481
+    },
+    {
+      "text": "data within that time you're saying so",
+      "start": 972.0,
+      "duration": 3.8
+    },
+    {
+      "text": "basically all up to the minute sort of",
+      "start": 974.12,
+      "duration": 3.88
+    },
+    {
+      "text": "data yeah one of the great benefits of",
+      "start": 975.8,
+      "duration": 3.92
+    },
+    {
+      "text": "using an app is that you can pull that",
+      "start": 978.0,
+      "duration": 3.48
+    },
+    {
+      "text": "data remotely everyone doesn't have to",
+      "start": 979.72,
+      "duration": 3.52
+    },
+    {
+      "text": "come into the lab which for things like",
+      "start": 981.48,
+      "duration": 4.159
+    },
+    {
+      "text": "long Co does import because you might be",
+      "start": 983.24,
+      "duration": 4.32
+    },
+    {
+      "text": "having a good day but just the grief of",
+      "start": 985.639,
+      "duration": 4.0
+    },
+    {
+      "text": "getting a bus across down getting it",
+      "start": 987.56,
+      "duration": 4.36
+    },
+    {
+      "text": "it's just not necessarily easy to do",
+      "start": 989.639,
+      "duration": 4.12
+    },
+    {
+      "text": "right so we can pull all the data",
+      "start": 991.92,
+      "duration": 4.039
+    },
+    {
+      "text": "remotely which is kind of an important",
+      "start": 993.759,
+      "duration": 4.44
+    },
+    {
+      "text": "part and so we can track it as we go",
+      "start": 995.959,
+      "duration": 3.56
+    },
+    {
+      "text": "through the study rather than just wait",
+      "start": 998.199,
+      "duration": 5.08
+    },
+    {
+      "text": "till the end and get that said unless we",
+      "start": 999.519,
+      "duration": 5.721
+    },
+    {
+      "text": "get very few people with long Co I don't",
+      "start": 1003.279,
+      "duration": 3.92
+    },
+    {
+      "text": "imagine we'll publish that data until we",
+      "start": 1005.24,
+      "duration": 3.88
+    },
+    {
+      "text": "get to the end because we need to get",
+      "start": 1007.199,
+      "duration": 5.0
+    },
+    {
+      "text": "some idea of how variable is it to me",
+      "start": 1009.12,
+      "duration": 5.199
+    },
+    {
+      "text": "that last one is the most important one",
+      "start": 1012.199,
+      "duration": 3.841
+    },
+    {
+      "text": "because that's where we find out how",
+      "start": 1014.319,
+      "duration": 3.481
+    },
+    {
+      "text": "often people have had Co are likely to",
+      "start": 1016.04,
+      "duration": 4.719
+    },
+    {
+      "text": "get long Co or symptoms how long does it",
+      "start": 1017.8,
+      "duration": 5.08
+    },
+    {
+      "text": "take so that thing you spoke about of is",
+      "start": 1020.759,
+      "duration": 3.68
+    },
+    {
+      "text": "it more likely to turn off after 3",
+      "start": 1022.88,
+      "duration": 3.0
+    },
+    {
+      "text": "months or is it more likely to be there",
+      "start": 1024.439,
+      "duration": 4.081
+    },
+    {
+      "text": "from the get-go CU I I assume you will",
+      "start": 1025.88,
+      "duration": 4.159
+    },
+    {
+      "text": "have people you know who've also had",
+      "start": 1028.52,
+      "duration": 3.84
+    },
+    {
+      "text": "long Co you assume on Facebook groups",
+      "start": 1030.039,
+      "duration": 4.52
+    },
+    {
+      "text": "and so and I've interviewed quite a few",
+      "start": 1032.36,
+      "duration": 3.88
+    },
+    {
+      "text": "and you get both types you get people",
+      "start": 1034.559,
+      "duration": 4.081
+    },
+    {
+      "text": "who never really got better um and are",
+      "start": 1036.24,
+      "duration": 3.92
+    },
+    {
+      "text": "still just trying to to get through and",
+      "start": 1038.64,
+      "duration": 3.08
+    },
+    {
+      "text": "you get people who felt quite a lot",
+      "start": 1040.16,
+      "duration": 3.399
+    },
+    {
+      "text": "better went back to work and then I say",
+      "start": 1041.72,
+      "duration": 3.76
+    },
+    {
+      "text": "had a crash but we don't have a good",
+      "start": 1043.559,
+      "duration": 4.961
+    },
+    {
+      "text": "sense of which one is the most common or",
+      "start": 1045.48,
+      "duration": 5.72
+    },
+    {
+      "text": "they about equal and so all this kind of",
+      "start": 1048.52,
+      "duration": 5.0
+    },
+    {
+      "text": "the Nuance of long Co I think we'll get",
+      "start": 1051.2,
+      "duration": 5.04
+    },
+    {
+      "text": "a better idea of will you be able to get",
+      "start": 1053.52,
+      "duration": 5.96
+    },
+    {
+      "text": "an idea of which age groups and genders",
+      "start": 1056.24,
+      "duration": 4.799
+    },
+    {
+      "text": "are more likely to have each kind of",
+      "start": 1059.48,
+      "duration": 4.88
+    },
+    {
+      "text": "type hopefully so if we recruit 200",
+      "start": 1061.039,
+      "duration": 5.481
+    },
+    {
+      "text": "people and in the unlikely event that",
+      "start": 1064.36,
+      "duration": 4.24
+    },
+    {
+      "text": "nobody gets long Co or persistent",
+      "start": 1066.52,
+      "duration": 3.8
+    },
+    {
+      "text": "symptoms then no we can't we can't make",
+      "start": 1068.6,
+      "duration": 3.6
+    },
+    {
+      "text": "any conclusions on anything obviously",
+      "start": 1070.32,
+      "duration": 4.4
+    },
+    {
+      "text": "but if we get 200 people and a",
+      "start": 1072.2,
+      "duration": 4.76
+    },
+    {
+      "text": "substantial proportion get on Co then we",
+      "start": 1074.72,
+      "duration": 4.16
+    },
+    {
+      "text": "can start to make some assumptions of",
+      "start": 1076.96,
+      "duration": 4.44
+    },
+    {
+      "text": "about well it's more likely to ur in",
+      "start": 1078.88,
+      "duration": 4.2
+    },
+    {
+      "text": "women than men or women of a certain age",
+      "start": 1081.4,
+      "duration": 3.24
+    },
+    {
+      "text": "and then we can start kind of tracking",
+      "start": 1083.08,
+      "duration": 3.36
+    },
+    {
+      "text": "it we can do some of that from the",
+      "start": 1084.64,
+      "duration": 4.399
+    },
+    {
+      "text": "website as well it's not as strong data",
+      "start": 1086.44,
+      "duration": 4.0
+    },
+    {
+      "text": "but the questionnaire on the website",
+      "start": 1089.039,
+      "duration": 3.361
+    },
+    {
+      "text": "includes kind of gender height weight",
+      "start": 1090.44,
+      "duration": 4.119
+    },
+    {
+      "text": "socio economic status all that stuff so",
+      "start": 1092.4,
+      "duration": 3.92
+    },
+    {
+      "text": "we can start to make some of those",
+      "start": 1094.559,
+      "duration": 3.6
+    },
+    {
+      "text": "predictions from the website although as",
+      "start": 1096.32,
+      "duration": 4.0
+    },
+    {
+      "text": "I said that method of data collection is",
+      "start": 1098.159,
+      "duration": 3.481
+    },
+    {
+      "text": "always slightly limited because you're",
+      "start": 1100.32,
+      "duration": 2.719
+    },
+    {
+      "text": "assuming the people are telling the",
+      "start": 1101.64,
+      "duration": 3.08
+    },
+    {
+      "text": "truth it's amazing that sometimes people",
+      "start": 1103.039,
+      "duration": 3.961
+    },
+    {
+      "text": "lie about their weight there you go no",
+      "start": 1104.72,
+      "duration": 4.28
+    },
+    {
+      "text": "no people give their time I'm I'm am",
+      "start": 1107.0,
+      "duration": 4.2
+    },
+    {
+      "text": "joking but it's just not as strong data",
+      "start": 1109.0,
+      "duration": 3.76
+    },
+    {
+      "text": "as the perspective stuff so we leave",
+      "start": 1111.2,
+      "duration": 3.28
+    },
+    {
+      "text": "both but yeah I mean that's the aim",
+      "start": 1112.76,
+      "duration": 2.76
+    },
+    {
+      "text": "right that's the aim is to try and",
+      "start": 1114.48,
+      "duration": 2.88
+    },
+    {
+      "text": "answer some of those questions whether",
+      "start": 1115.52,
+      "duration": 5.0
+    },
+    {
+      "text": "we get to do is a different",
+      "start": 1117.36,
+      "duration": 3.16
+    },
+    {
+      "text": "thing we'll be right",
+      "start": 1121.52,
+      "duration": 5.279
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1124.559,
+      "duration": 4.321
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1126.799,
+      "duration": 4.36
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1128.88,
+      "duration": 3.72
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1131.159,
+      "duration": 3.481
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1132.6,
+      "duration": 4.16
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1134.64,
+      "duration": 3.88
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1136.76,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with lovit we've worked",
+      "start": 1138.52,
+      "duration": 4.2
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1141.24,
+      "duration": 3.08
+    },
+    {
+      "text": "specifically tailored to those with",
+      "start": 1142.72,
+      "duration": 4.6
+    },
+    {
+      "text": "lovit it's a 6-e course with 12 sessions",
+      "start": 1144.32,
+      "duration": 5.599
+    },
+    {
+      "text": "all delivered online the community feel",
+      "start": 1147.32,
+      "duration": 3.96
+    },
+    {
+      "text": "and learning that we're all sharing is",
+      "start": 1149.919,
+      "duration": 3.521
+    },
+    {
+      "text": "such a joy to find out more information",
+      "start": 1151.28,
+      "duration": 3.92
+    },
+    {
+      "text": "and to sign up for our courses workshops",
+      "start": 1153.44,
+      "duration": 3.68
+    },
+    {
+      "text": "and other shorter sessions please check",
+      "start": 1155.2,
+      "duration": 5.24
+    },
+    {
+      "text": "out the link below lco breathing.com or",
+      "start": 1157.12,
+      "duration": 6.0
+    },
+    {
+      "text": "email lco breathing gmail.com to start",
+      "start": 1160.44,
+      "duration": 6.84
+    },
+    {
+      "text": "your breathing Journey with us",
+      "start": 1163.12,
+      "duration": 4.16
+    },
+    {
+      "text": "gos I think you touched on this earlier",
+      "start": 1169.72,
+      "duration": 4.4
+    },
+    {
+      "text": "that we now know that long Co can last",
+      "start": 1172.24,
+      "duration": 3.88
+    },
+    {
+      "text": "an awful lot longer than 9 months for",
+      "start": 1174.12,
+      "duration": 3.919
+    },
+    {
+      "text": "quite a lot of people assuming you do",
+      "start": 1176.12,
+      "duration": 3.6
+    },
+    {
+      "text": "get enough people would you keep",
+      "start": 1178.039,
+      "duration": 3.241
+    },
+    {
+      "text": "tracking them after the 9 months if they",
+      "start": 1179.72,
+      "duration": 2.56
+    },
+    {
+      "text": "still have",
+      "start": 1181.28,
+      "duration": 3.72
+    },
+    {
+      "text": "symptoms probably it's Dreadful but it",
+      "start": 1182.28,
+      "duration": 4.48
+    },
+    {
+      "text": "comes down to funding partly I mean once",
+      "start": 1185.0,
+      "duration": 2.919
+    },
+    {
+      "text": "people have got the app and they're",
+      "start": 1186.76,
+      "duration": 2.76
+    },
+    {
+      "text": "filling in their symptoms every month",
+      "start": 1187.919,
+      "duration": 3.161
+    },
+    {
+      "text": "then that's fine and and we'll keep",
+      "start": 1189.52,
+      "duration": 3.8
+    },
+    {
+      "text": "collecting that as long as makes sense",
+      "start": 1191.08,
+      "duration": 4.56
+    },
+    {
+      "text": "the issue comes when we then need to",
+      "start": 1193.32,
+      "duration": 4.599
+    },
+    {
+      "text": "extract and analyze and spend time on",
+      "start": 1195.64,
+      "duration": 3.72
+    },
+    {
+      "text": "the data and that's where we need a",
+      "start": 1197.919,
+      "duration": 3.401
+    },
+    {
+      "text": "little bit of help with funding I don't",
+      "start": 1199.36,
+      "duration": 3.92
+    },
+    {
+      "text": "know but I suspect that the CSA will be",
+      "start": 1201.32,
+      "duration": 3.68
+    },
+    {
+      "text": "quite keen on that if the data looks",
+      "start": 1203.28,
+      "duration": 3.92
+    },
+    {
+      "text": "like it's going to be useful as always",
+      "start": 1205.0,
+      "duration": 3.679
+    },
+    {
+      "text": "if the data is useful people are usually",
+      "start": 1207.2,
+      "duration": 3.12
+    },
+    {
+      "text": "keen on trying to find the answer and",
+      "start": 1208.679,
+      "duration": 2.921
+    },
+    {
+      "text": "particularly since it wouldn't be super",
+      "start": 1210.32,
+      "duration": 2.68
+    },
+    {
+      "text": "expensive it's not like setting a study",
+      "start": 1211.6,
+      "duration": 3.559
+    },
+    {
+      "text": "up from scratch all that stuff's already",
+      "start": 1213.0,
+      "duration": 4.12
+    },
+    {
+      "text": "there it's just some funding to help do",
+      "start": 1215.159,
+      "duration": 4.041
+    },
+    {
+      "text": "the analysis so yeah I think we would be",
+      "start": 1217.12,
+      "duration": 3.6
+    },
+    {
+      "text": "keen on doing it doesn't cost us",
+      "start": 1219.2,
+      "duration": 3.479
+    },
+    {
+      "text": "anything to carry on collecting the data",
+      "start": 1220.72,
+      "duration": 3.319
+    },
+    {
+      "text": "so we'll probably carry on doing that",
+      "start": 1222.679,
+      "duration": 3.521
+    },
+    {
+      "text": "because it should just happen in theory",
+      "start": 1224.039,
+      "duration": 4.081
+    },
+    {
+      "text": "if it makes sense to reanalyze the data",
+      "start": 1226.2,
+      "duration": 3.44
+    },
+    {
+      "text": "we'll do the yes we can and if we need",
+      "start": 1228.12,
+      "duration": 3.72
+    },
+    {
+      "text": "more funding then we'll go and Shout at",
+      "start": 1229.64,
+      "duration": 3.519
+    },
+    {
+      "text": "the CSO and see if they'll give us any",
+      "start": 1231.84,
+      "duration": 2.64
+    },
+    {
+      "text": "more they've been very good so far I",
+      "start": 1233.159,
+      "duration": 2.64
+    },
+    {
+      "text": "shouldn't say shout at them they've been",
+      "start": 1234.48,
+      "duration": 4.439
+    },
+    {
+      "text": "really good so far yeah that's brilliant",
+      "start": 1235.799,
+      "duration": 4.641
+    },
+    {
+      "text": "I think we forget that actually setting",
+      "start": 1238.919,
+      "duration": 3.281
+    },
+    {
+      "text": "the study up is probably I don't know if",
+      "start": 1240.44,
+      "duration": 3.2
+    },
+    {
+      "text": "it's the easy bit but there's an awful",
+      "start": 1242.2,
+      "duration": 3.88
+    },
+    {
+      "text": "lot that goes on beyond that isn't there",
+      "start": 1243.64,
+      "duration": 4.96
+    },
+    {
+      "text": "with the the sort of crunching data an",
+      "start": 1246.08,
+      "duration": 4.16
+    },
+    {
+      "text": "awful lot I mean the app development",
+      "start": 1248.6,
+      "duration": 3.28
+    },
+    {
+      "text": "takes an awful lot of time and just",
+      "start": 1250.24,
+      "duration": 3.16
+    },
+    {
+      "text": "checking it and making sure that it's",
+      "start": 1251.88,
+      "duration": 3.12
+    },
+    {
+      "text": "robust and you can collect the data that",
+      "start": 1253.4,
+      "duration": 3.24
+    },
+    {
+      "text": "you want and it's secure and all that",
+      "start": 1255.0,
+      "duration": 4.0
+    },
+    {
+      "text": "stuff so that takes a lot of the time so",
+      "start": 1256.64,
+      "duration": 4.56
+    },
+    {
+      "text": "going from 9 months to 18 months would",
+      "start": 1259.0,
+      "duration": 3.919
+    },
+    {
+      "text": "not be double the cost that makes sense",
+      "start": 1261.2,
+      "duration": 3.16
+    },
+    {
+      "text": "in terms of getting funded for a study",
+      "start": 1262.919,
+      "duration": 2.721
+    },
+    {
+      "text": "it would be an awful lot less than the",
+      "start": 1264.36,
+      "duration": 2.4
+    },
+    {
+      "text": "original cost because all that",
+      "start": 1265.64,
+      "duration": 3.2
+    },
+    {
+      "text": "development stuff done so I think we've",
+      "start": 1266.76,
+      "duration": 3.279
+    },
+    {
+      "text": "already talked about what you're hoping",
+      "start": 1268.84,
+      "duration": 2.6
+    },
+    {
+      "text": "to gain from the study you know you're",
+      "start": 1270.039,
+      "duration": 4.12
+    },
+    {
+      "text": "going to hopefully be able to pick up on",
+      "start": 1271.44,
+      "duration": 4.76
+    },
+    {
+      "text": "patterns and patent High symptoms",
+      "start": 1274.159,
+      "duration": 3.88
+    },
+    {
+      "text": "develop and I'm sure you mentioned",
+      "start": 1276.2,
+      "duration": 4.4
+    },
+    {
+      "text": "avoiding the push and crash cycle cuz so",
+      "start": 1278.039,
+      "duration": 5.481
+    },
+    {
+      "text": "many long Co sufferers seem to have this",
+      "start": 1280.6,
+      "duration": 4.559
+    },
+    {
+      "text": "sort of cycle of relapses where they'll",
+      "start": 1283.52,
+      "duration": 3.039
+    },
+    {
+      "text": "start to feel slightly better and",
+      "start": 1285.159,
+      "duration": 4.241
+    },
+    {
+      "text": "they'll think oh brilliant I get better",
+      "start": 1286.559,
+      "duration": 4.841
+    },
+    {
+      "text": "and then they'll push it do too much I",
+      "start": 1289.4,
+      "duration": 3.84
+    },
+    {
+      "text": "mean I I do this all the time and then",
+      "start": 1291.4,
+      "duration": 3.44
+    },
+    {
+      "text": "you you end up on the sofa for a couple",
+      "start": 1293.24,
+      "duration": 3.48
+    },
+    {
+      "text": "of weeks you know thinking back to",
+      "start": 1294.84,
+      "duration": 4.16
+    },
+    {
+      "text": "square one yeah I mean that that was",
+      "start": 1296.72,
+      "duration": 4.52
+    },
+    {
+      "text": "kind of the link between the CSO study",
+      "start": 1299.0,
+      "duration": 4.919
+    },
+    {
+      "text": "and the NHL one but again one of the",
+      "start": 1301.24,
+      "duration": 5.039
+    },
+    {
+      "text": "reasons I like that the mobile app as a",
+      "start": 1303.919,
+      "duration": 4.441
+    },
+    {
+      "text": "way of collecting data is I don't know",
+      "start": 1306.279,
+      "duration": 4.441
+    },
+    {
+      "text": "of a better way to try and get that",
+      "start": 1308.36,
+      "duration": 4.559
+    },
+    {
+      "text": "predictive information so pick something",
+      "start": 1310.72,
+      "duration": 4.079
+    },
+    {
+      "text": "at random for anyone listening I have",
+      "start": 1312.919,
+      "duration": 3.961
+    },
+    {
+      "text": "just made this up so it's not true but",
+      "start": 1314.799,
+      "duration": 4.161
+    },
+    {
+      "text": "let's say for argument sake as you",
+      "start": 1316.88,
+      "duration": 4.08
+    },
+    {
+      "text": "approach a crash cycle your rest and",
+      "start": 1318.96,
+      "duration": 4.4
+    },
+    {
+      "text": "heart rate increases let's say that",
+      "start": 1320.96,
+      "duration": 3.839
+    },
+    {
+      "text": "would be really useful information to",
+      "start": 1323.36,
+      "duration": 2.48
+    },
+    {
+      "text": "know because then you could track your",
+      "start": 1324.799,
+      "duration": 2.681
+    },
+    {
+      "text": "rest and heart rate and noce it's gone",
+      "start": 1325.84,
+      "duration": 3.6
+    },
+    {
+      "text": "up like 10 beats over the last week and",
+      "start": 1327.48,
+      "duration": 3.48
+    },
+    {
+      "text": "maybe you need to change what you're",
+      "start": 1329.44,
+      "duration": 3.04
+    },
+    {
+      "text": "doing so that you don't fall into a",
+      "start": 1330.96,
+      "duration": 3.8
+    },
+    {
+      "text": "crash there is no way to get that data",
+      "start": 1332.48,
+      "duration": 3.52
+    },
+    {
+      "text": "if you just take measurements at the",
+      "start": 1334.76,
+      "duration": 3.0
+    },
+    {
+      "text": "start and the end of a study because we",
+      "start": 1336.0,
+      "duration": 2.84
+    },
+    {
+      "text": "don't know when people are going to have",
+      "start": 1337.76,
+      "duration": 3.2
+    },
+    {
+      "text": "a crash and if people do have a crash",
+      "start": 1338.84,
+      "duration": 3.76
+    },
+    {
+      "text": "you can't real realistically expect them",
+      "start": 1340.96,
+      "duration": 3.52
+    },
+    {
+      "text": "to go to a clinic or somewhere just so",
+      "start": 1342.6,
+      "duration": 3.16
+    },
+    {
+      "text": "we can take some measurements off them",
+      "start": 1344.48,
+      "duration": 3.24
+    },
+    {
+      "text": "to see what they were like and even if",
+      "start": 1345.76,
+      "duration": 3.76
+    },
+    {
+      "text": "they could it's it's probably too late",
+      "start": 1347.72,
+      "duration": 3.199
+    },
+    {
+      "text": "because we want to know what happens",
+      "start": 1349.52,
+      "duration": 3.12
+    },
+    {
+      "text": "kind of in the week before the crash",
+      "start": 1350.919,
+      "duration": 4.36
+    },
+    {
+      "text": "yeah leading up to it and so for this",
+      "start": 1352.64,
+      "duration": 3.76
+    },
+    {
+      "text": "and the other study one of the things",
+      "start": 1355.279,
+      "duration": 3.64
+    },
+    {
+      "text": "I'm really interested in is we might not",
+      "start": 1356.4,
+      "duration": 4.399
+    },
+    {
+      "text": "find anything right but are there things",
+      "start": 1358.919,
+      "duration": 4.441
+    },
+    {
+      "text": "that we find that tend to happen in the",
+      "start": 1360.799,
+      "duration": 6.161
+    },
+    {
+      "text": "7 Days 48 hours before someone reports a",
+      "start": 1363.36,
+      "duration": 5.64
+    },
+    {
+      "text": "period of week pen post xation or laser",
+      "start": 1366.96,
+      "duration": 4.4
+    },
+    {
+      "text": "crash right and if there's something",
+      "start": 1369.0,
+      "duration": 5.08
+    },
+    {
+      "text": "there then that would be really useful",
+      "start": 1371.36,
+      "duration": 5.76
+    },
+    {
+      "text": "absolutely it's so new isn't it we",
+      "start": 1374.08,
+      "duration": 5.16
+    },
+    {
+      "text": "literally really don't know no other",
+      "start": 1377.12,
+      "duration": 3.6
+    },
+    {
+      "text": "than it's a thing and there are these",
+      "start": 1379.24,
+      "duration": 3.36
+    },
+    {
+      "text": "symptoms associated with it then we",
+      "start": 1380.72,
+      "duration": 4.72
+    },
+    {
+      "text": "start to run into difficulties so maybe",
+      "start": 1382.6,
+      "duration": 4.72
+    },
+    {
+      "text": "we should move on and talk about the",
+      "start": 1385.44,
+      "duration": 4.839
+    },
+    {
+      "text": "second study so this is theing one are",
+      "start": 1387.32,
+      "duration": 5.239
+    },
+    {
+      "text": "you able to just explain about how the",
+      "start": 1390.279,
+      "duration": 4.721
+    },
+    {
+      "text": "study came about so I need to go back a",
+      "start": 1392.559,
+      "duration": 4.321
+    },
+    {
+      "text": "little bit I said it was early in",
+      "start": 1395.0,
+      "duration": 3.6
+    },
+    {
+      "text": "lockdown so not long after the initial",
+      "start": 1396.88,
+      "duration": 4.399
+    },
+    {
+      "text": "lockdown so March 2020 again there was a",
+      "start": 1398.6,
+      "duration": 5.48
+    },
+    {
+      "text": "call from the CSO for research to do",
+      "start": 1401.279,
+      "duration": 5.041
+    },
+    {
+      "text": "with covid in general but also to do at",
+      "start": 1404.08,
+      "duration": 4.959
+    },
+    {
+      "text": "lockdown it wasn't covid specific and we",
+      "start": 1406.32,
+      "duration": 5.92
+    },
+    {
+      "text": "had a study again funded by the CSO to",
+      "start": 1409.039,
+      "duration": 4.921
+    },
+    {
+      "text": "look at improving physical activity or",
+      "start": 1412.24,
+      "duration": 3.52
+    },
+    {
+      "text": "maintaining physical activity during",
+      "start": 1413.96,
+      "duration": 3.839
+    },
+    {
+      "text": "lockdown in older individuals that's",
+      "start": 1415.76,
+      "duration": 3.96
+    },
+    {
+      "text": "what we were particularly interested in",
+      "start": 1417.799,
+      "duration": 3.561
+    },
+    {
+      "text": "and so we developed kind of a a",
+      "start": 1419.72,
+      "duration": 3.68
+    },
+    {
+      "text": "framework where we would give people",
+      "start": 1421.36,
+      "duration": 3.84
+    },
+    {
+      "text": "fitbits and then we would have our own",
+      "start": 1423.4,
+      "duration": 4.0
+    },
+    {
+      "text": "app that sat on top of the Fitbit app",
+      "start": 1425.2,
+      "duration": 3.64
+    },
+    {
+      "text": "and and that let them set a goal and",
+      "start": 1427.4,
+      "duration": 2.879
+    },
+    {
+      "text": "send messages when they hadn't met the",
+      "start": 1428.84,
+      "duration": 4.199
+    },
+    {
+      "text": "goal and and do some Behavior chains",
+      "start": 1430.279,
+      "duration": 4.88
+    },
+    {
+      "text": "psychology stuff I'm not a psychologist",
+      "start": 1433.039,
+      "duration": 4.041
+    },
+    {
+      "text": "we just lump it under just psychology",
+      "start": 1435.159,
+      "duration": 4.12
+    },
+    {
+      "text": "stuff but let's do some Behavior change",
+      "start": 1437.08,
+      "duration": 4.24
+    },
+    {
+      "text": "approaches that we in control of one of",
+      "start": 1439.279,
+      "duration": 3.841
+    },
+    {
+      "text": "the things with things like fitbits is",
+      "start": 1441.32,
+      "duration": 4.08
+    },
+    {
+      "text": "you can't control the app so you didn't",
+      "start": 1443.12,
+      "duration": 4.039
+    },
+    {
+      "text": "want research underpins any decisions",
+      "start": 1445.4,
+      "duration": 3.44
+    },
+    {
+      "text": "that the app makes so we need to kind of",
+      "start": 1447.159,
+      "duration": 3.76
+    },
+    {
+      "text": "use the Fitbit to track activity but not",
+      "start": 1448.84,
+      "duration": 3.439
+    },
+    {
+      "text": "to do any of the behavior change and",
+      "start": 1450.919,
+      "duration": 2.921
+    },
+    {
+      "text": "then we use our app to do the behavior",
+      "start": 1452.279,
+      "duration": 3.0
+    },
+    {
+      "text": "change stuff because we know what that",
+      "start": 1453.84,
+      "duration": 3.88
+    },
+    {
+      "text": "is where it comes from so long story",
+      "start": 1455.279,
+      "duration": 4.321
+    },
+    {
+      "text": "short is that means we had a framework",
+      "start": 1457.72,
+      "duration": 3.92
+    },
+    {
+      "text": "that let us track activity and send",
+      "start": 1459.6,
+      "duration": 3.92
+    },
+    {
+      "text": "messages to people on the back of that",
+      "start": 1461.64,
+      "duration": 4.12
+    },
+    {
+      "text": "activity and then early part of this",
+      "start": 1463.52,
+      "duration": 4.2
+    },
+    {
+      "text": "year there was a call by the nhr for",
+      "start": 1465.76,
+      "duration": 3.24
+    },
+    {
+      "text": "studies specific specifically looking at",
+      "start": 1467.72,
+      "duration": 3.76
+    },
+    {
+      "text": "long Co and by that point it had become",
+      "start": 1469.0,
+      "duration": 6.0
+    },
+    {
+      "text": "clear that a real obvious symptom was",
+      "start": 1471.48,
+      "duration": 7.4
+    },
+    {
+      "text": "this post exac malays about pen and we",
+      "start": 1475.0,
+      "duration": 5.96
+    },
+    {
+      "text": "were trying to work out how we could use",
+      "start": 1478.88,
+      "duration": 3.84
+    },
+    {
+      "text": "the framework that we developed to try",
+      "start": 1480.96,
+      "duration": 5.719
+    },
+    {
+      "text": "and help people avoid B to pen so that's",
+      "start": 1482.72,
+      "duration": 6.319
+    },
+    {
+      "text": "kind of where it came from and the",
+      "start": 1486.679,
+      "duration": 5.88
+    },
+    {
+      "text": "upshot was we figured we could track",
+      "start": 1489.039,
+      "duration": 4.88
+    },
+    {
+      "text": "people so one of the ways people try and",
+      "start": 1492.559,
+      "duration": 3.0
+    },
+    {
+      "text": "avoid pem is they track their own heart",
+      "start": 1493.919,
+      "duration": 3.041
+    },
+    {
+      "text": "rate and that's kind of that's where the",
+      "start": 1495.559,
+      "duration": 3.401
+    },
+    {
+      "text": "pacing idea comes from",
+      "start": 1496.96,
+      "duration": 3.599
+    },
+    {
+      "text": "and we've came up with a way that we",
+      "start": 1498.96,
+      "duration": 4.4
+    },
+    {
+      "text": "could kind of do that for people and",
+      "start": 1500.559,
+      "duration": 4.681
+    },
+    {
+      "text": "then in the same way in the first study",
+      "start": 1503.36,
+      "duration": 3.72
+    },
+    {
+      "text": "we would send a letters when people",
+      "start": 1505.24,
+      "duration": 4.039
+    },
+    {
+      "text": "hadn't met their activity goal this has",
+      "start": 1507.08,
+      "duration": 3.4
+    },
+    {
+      "text": "kind of flipped the other way around",
+      "start": 1509.279,
+      "duration": 3.12
+    },
+    {
+      "text": "then that we don't have any activity",
+      "start": 1510.48,
+      "duration": 3.64
+    },
+    {
+      "text": "goals you're trying to avoid doing too",
+      "start": 1512.399,
+      "duration": 3.841
+    },
+    {
+      "text": "much and if your heart rate is high for",
+      "start": 1514.12,
+      "duration": 3.6
+    },
+    {
+      "text": "too many minutes in the day then we'll",
+      "start": 1516.24,
+      "duration": 3.039
+    },
+    {
+      "text": "send you a letter to say your heart",
+      "start": 1517.72,
+      "duration": 3.92
+    },
+    {
+      "text": "rate's been high for and high is",
+      "start": 1519.279,
+      "duration": 3.481
+    },
+    {
+      "text": "different for you than it would be for",
+      "start": 1521.64,
+      "duration": 2.399
+    },
+    {
+      "text": "me and it would be for someone else so",
+      "start": 1522.76,
+      "duration": 2.919
+    },
+    {
+      "text": "it's individualized it's not just we've",
+      "start": 1524.039,
+      "duration": 3.841
+    },
+    {
+      "text": "set a blank out but we can send a",
+      "start": 1525.679,
+      "duration": 5.041
+    },
+    {
+      "text": "message to to individual saying for you",
+      "start": 1527.88,
+      "duration": 4.76
+    },
+    {
+      "text": "your heart rate has been this many",
+      "start": 1530.72,
+      "duration": 3.679
+    },
+    {
+      "text": "minutes above what you really should be",
+      "start": 1532.64,
+      "duration": 4.36
+    },
+    {
+      "text": "looking at and then maybe plan what",
+      "start": 1534.399,
+      "duration": 4.16
+    },
+    {
+      "text": "you've got to do for the rest of the day",
+      "start": 1537.0,
+      "duration": 3.36
+    },
+    {
+      "text": "it's not really a behavior change as in",
+      "start": 1538.559,
+      "duration": 3.84
+    },
+    {
+      "text": "telling people what to do but it's more",
+      "start": 1540.36,
+      "duration": 4.36
+    },
+    {
+      "text": "just giving them information and taking",
+      "start": 1542.399,
+      "duration": 4.601
+    },
+    {
+      "text": "the cognitive load off them in terms of",
+      "start": 1544.72,
+      "duration": 4.6
+    },
+    {
+      "text": "managing that side of pacing so I think",
+      "start": 1547.0,
+      "duration": 3.76
+    },
+    {
+      "text": "a lot of people with long Co will have",
+      "start": 1549.32,
+      "duration": 3.8
+    },
+    {
+      "text": "come across pacing it's yeah definitely",
+      "start": 1550.76,
+      "duration": 4.799
+    },
+    {
+      "text": "something that people are very bad at",
+      "start": 1553.12,
+      "duration": 4.2
+    },
+    {
+      "text": "that's kind of one of the things if you",
+      "start": 1555.559,
+      "duration": 4.521
+    },
+    {
+      "text": "look into the the P P advice to me the",
+      "start": 1557.32,
+      "duration": 4.32
+    },
+    {
+      "text": "pacent advice makes sense but I always",
+      "start": 1560.08,
+      "duration": 3.04
+    },
+    {
+      "text": "imagine to someone else it doesn't",
+      "start": 1561.64,
+      "duration": 3.68
+    },
+    {
+      "text": "because it says things like try and",
+      "start": 1563.12,
+      "duration": 4.48
+    },
+    {
+      "text": "estimate how much energy you need to use",
+      "start": 1565.32,
+      "duration": 4.52
+    },
+    {
+      "text": "today and how much energy you've used so",
+      "start": 1567.6,
+      "duration": 4.48
+    },
+    {
+      "text": "far and try not to exceed a certain",
+      "start": 1569.84,
+      "duration": 4.4
+    },
+    {
+      "text": "amount of energy and they're just really",
+      "start": 1572.08,
+      "duration": 3.76
+    },
+    {
+      "text": "difficult things to try and keep track",
+      "start": 1574.24,
+      "duration": 4.039
+    },
+    {
+      "text": "of they're not concrete Concepts right",
+      "start": 1575.84,
+      "duration": 4.52
+    },
+    {
+      "text": "how much energy you've got for today I'm",
+      "start": 1578.279,
+      "duration": 3.241
+    },
+    {
+      "text": "not entirely sure how much energy I've",
+      "start": 1580.36,
+      "duration": 3.52
+    },
+    {
+      "text": "got sat here and then you add that to if",
+      "start": 1581.52,
+      "duration": 4.399
+    },
+    {
+      "text": "you've got kind of brain fog Associated",
+      "start": 1583.88,
+      "duration": 3.6
+    },
+    {
+      "text": "the long Co with then just kind of",
+      "start": 1585.919,
+      "duration": 3.801
+    },
+    {
+      "text": "trying to track that's difficult if you",
+      "start": 1587.48,
+      "duration": 4.6
+    },
+    {
+      "text": "have a crash then what do you do do you",
+      "start": 1589.72,
+      "duration": 4.64
+    },
+    {
+      "text": "try and track what you did in the days",
+      "start": 1592.08,
+      "duration": 5.479
+    },
+    {
+      "text": "beforehand so you can modify what you",
+      "start": 1594.36,
+      "duration": 4.319
+    },
+    {
+      "text": "there's an awful lot of decisions",
+      "start": 1597.559,
+      "duration": 2.681
+    },
+    {
+      "text": "wrapped up in what seems like a fairly",
+      "start": 1598.679,
+      "duration": 3.36
+    },
+    {
+      "text": "simple request of just trying to make",
+      "start": 1600.24,
+      "duration": 3.52
+    },
+    {
+      "text": "sure you don't do too much right which",
+      "start": 1602.039,
+      "duration": 3.721
+    },
+    {
+      "text": "isn't a great way to describe it but",
+      "start": 1603.76,
+      "duration": 3.519
+    },
+    {
+      "text": "it's much more complicated than that",
+      "start": 1605.76,
+      "duration": 2.88
+    },
+    {
+      "text": "once you get into the weeds of it I",
+      "start": 1607.279,
+      "duration": 2.64
+    },
+    {
+      "text": "think that's kind of what I'm trying to",
+      "start": 1608.64,
+      "duration": 4.159
+    },
+    {
+      "text": "say I find that my energy levels are",
+      "start": 1609.919,
+      "duration": 5.281
+    },
+    {
+      "text": "different day to day even hour to hour",
+      "start": 1612.799,
+      "duration": 4.681
+    },
+    {
+      "text": "so it's a really difficult thing to do",
+      "start": 1615.2,
+      "duration": 3.76
+    },
+    {
+      "text": "very difficult and then my issue with it",
+      "start": 1617.48,
+      "duration": 4.0
+    },
+    {
+      "text": "is if you have a crash it's not quite",
+      "start": 1618.96,
+      "duration": 4.439
+    },
+    {
+      "text": "clear what you're supposed to do so",
+      "start": 1621.48,
+      "duration": 4.12
+    },
+    {
+      "text": "you're supposed to say well I was trying",
+      "start": 1623.399,
+      "duration": 5.481
+    },
+    {
+      "text": "not to use more than 70% of me energy",
+      "start": 1625.6,
+      "duration": 5.959
+    },
+    {
+      "text": "whatever that is um so should I try not",
+      "start": 1628.88,
+      "duration": 5.919
+    },
+    {
+      "text": "to use more than 60% I'm not sure most",
+      "start": 1631.559,
+      "duration": 5.441
+    },
+    {
+      "text": "people are sufficiently sensitive to go",
+      "start": 1634.799,
+      "duration": 4.081
+    },
+    {
+      "text": "I know the difference between 70% of my",
+      "start": 1637.0,
+      "duration": 4.32
+    },
+    {
+      "text": "daily energy and 60% of my I just don't",
+      "start": 1638.88,
+      "duration": 4.919
+    },
+    {
+      "text": "think that's the thing I think it's much",
+      "start": 1641.32,
+      "duration": 5.0
+    },
+    {
+      "text": "harder than people think and then as I",
+      "start": 1643.799,
+      "duration": 4.201
+    },
+    {
+      "text": "say you add cognitive dysfunction on top",
+      "start": 1646.32,
+      "duration": 3.719
+    },
+    {
+      "text": "of that and suddenly you've got a thing",
+      "start": 1648.0,
+      "duration": 4.039
+    },
+    {
+      "text": "that might help and does help no",
+      "start": 1650.039,
+      "duration": 3.841
+    },
+    {
+      "text": "question Pac and helped but it's just",
+      "start": 1652.039,
+      "duration": 2.961
+    },
+    {
+      "text": "really difficult to implement and",
+      "start": 1653.88,
+      "duration": 2.76
+    },
+    {
+      "text": "there's no really good advice but",
+      "start": 1655.0,
+      "duration": 3.399
+    },
+    {
+      "text": "there's not much really good advice so I",
+      "start": 1656.64,
+      "duration": 3.159
+    },
+    {
+      "text": "think you talked quite a lot about how",
+      "start": 1658.399,
+      "duration": 3.4
+    },
+    {
+      "text": "it works how are you recruiting people",
+      "start": 1659.799,
+      "duration": 4.521
+    },
+    {
+      "text": "for this when we do finally start",
+      "start": 1661.799,
+      "duration": 4.561
+    },
+    {
+      "text": "recruiting um got as I say long Co",
+      "start": 1664.32,
+      "duration": 4.28
+    },
+    {
+      "text": "Scotland initially and again initially",
+      "start": 1666.36,
+      "duration": 4.12
+    },
+    {
+      "text": "this is for people with long covid in",
+      "start": 1668.6,
+      "duration": 4.4
+    },
+    {
+      "text": "Scotland mostly for logistic reasons in",
+      "start": 1670.48,
+      "duration": 4.12
+    },
+    {
+      "text": "case we do need to get them into the lab",
+      "start": 1673.0,
+      "duration": 3.039
+    },
+    {
+      "text": "but the intention is that we don't need",
+      "start": 1674.6,
+      "duration": 3.959
+    },
+    {
+      "text": "to if recruitment is a problem then we",
+      "start": 1676.039,
+      "duration": 4.841
+    },
+    {
+      "text": "can always widen it out to the UK I",
+      "start": 1678.559,
+      "duration": 4.6
+    },
+    {
+      "text": "suspect it isn't going to be an issue",
+      "start": 1680.88,
+      "duration": 4.039
+    },
+    {
+      "text": "because I've had lots of emails with",
+      "start": 1683.159,
+      "duration": 3.681
+    },
+    {
+      "text": "people saying I've read about your study",
+      "start": 1684.919,
+      "duration": 3.721
+    },
+    {
+      "text": "I would really like to take part when",
+      "start": 1686.84,
+      "duration": 3.6
+    },
+    {
+      "text": "it's up and running so I don't think",
+      "start": 1688.64,
+      "duration": 2.639
+    },
+    {
+      "text": "it's going to be an issue for",
+      "start": 1690.44,
+      "duration": 2.92
+    },
+    {
+      "text": "Recruitment and again this isn't one",
+      "start": 1691.279,
+      "duration": 3.961
+    },
+    {
+      "text": "like the the last one of phase three and",
+      "start": 1693.36,
+      "duration": 3.72
+    },
+    {
+      "text": "the other study where we have to get",
+      "start": 1695.24,
+      "duration": 3.84
+    },
+    {
+      "text": "people who've not long had a CO",
+      "start": 1697.08,
+      "duration": 3.68
+    },
+    {
+      "text": "infection this is just any we can",
+      "start": 1699.08,
+      "duration": 3.56
+    },
+    {
+      "text": "recruit people who have persistent",
+      "start": 1700.76,
+      "duration": 4.12
+    },
+    {
+      "text": "symptoms and they want to use Pac to try",
+      "start": 1702.64,
+      "duration": 3.84
+    },
+    {
+      "text": "and manage it better that's the other",
+      "start": 1704.88,
+      "duration": 3.32
+    },
+    {
+      "text": "thing is worth just mentioning is that",
+      "start": 1706.48,
+      "duration": 3.76
+    },
+    {
+      "text": "patient is just a management technique",
+      "start": 1708.2,
+      "duration": 3.719
+    },
+    {
+      "text": "it's not an attempt to fix it or to cure",
+      "start": 1710.24,
+      "duration": 3.96
+    },
+    {
+      "text": "it it's just a way to try and manage the",
+      "start": 1711.919,
+      "duration": 4.48
+    },
+    {
+      "text": "symptoms better and if we can manage the",
+      "start": 1714.2,
+      "duration": 4.12
+    },
+    {
+      "text": "symptoms better and maybe people have",
+      "start": 1716.399,
+      "duration": 4.441
+    },
+    {
+      "text": "fewer crashes then that creates a little",
+      "start": 1718.32,
+      "duration": 4.16
+    },
+    {
+      "text": "bit of head room where they can start to",
+      "start": 1720.84,
+      "duration": 4.64
+    },
+    {
+      "text": "recover properly maybe at worst case it",
+      "start": 1722.48,
+      "duration": 4.36
+    },
+    {
+      "text": "helps you manage the things that you",
+      "start": 1725.48,
+      "duration": 3.199
+    },
+    {
+      "text": "have to do better even if it doesn't",
+      "start": 1726.84,
+      "duration": 4.079
+    },
+    {
+      "text": "help you recover faster yeah because if",
+      "start": 1728.679,
+      "duration": 5.0
+    },
+    {
+      "text": "you're laid out on the",
+      "start": 1730.919,
+      "duration": 2.76
+    },
+    {
+      "text": "sofa we'll be right back",
+      "start": 1734.08,
+      "duration": 5.959
+    },
+    {
+      "text": "hey there I'm just jumping in for a",
+      "start": 1738.519,
+      "duration": 3.481
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1740.039,
+      "duration": 4.48
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1742.0,
+      "duration": 3.88
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1744.519,
+      "duration": 3.64
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1745.88,
+      "duration": 4.76
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1748.159,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we' be able to get",
+      "start": 1750.64,
+      "duration": 3.56
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1752.399,
+      "duration": 4.28
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1754.2,
+      "duration": 4.0
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1756.679,
+      "duration": 3.441
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1758.2,
+      "duration": 5.24
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 1760.12,
+      "duration": 3.32
+    },
+    {
+      "text": "much you've done too much today before",
+      "start": 1766.039,
+      "duration": 4.801
+    },
+    {
+      "text": "you can't do your washing or make your",
+      "start": 1768.44,
+      "duration": 4.599
+    },
+    {
+      "text": "dinner or look after your children or",
+      "start": 1770.84,
+      "duration": 3.6
+    },
+    {
+      "text": "whatever it is that people absolutely",
+      "start": 1773.039,
+      "duration": 3.36
+    },
+    {
+      "text": "have to do no no question and and",
+      "start": 1774.44,
+      "duration": 4.64
+    },
+    {
+      "text": "there's things people just have to do",
+      "start": 1776.399,
+      "duration": 4.681
+    },
+    {
+      "text": "you know if your kids are at school you",
+      "start": 1779.08,
+      "duration": 3.68
+    },
+    {
+      "text": "have to go and pick them up school gets",
+      "start": 1781.08,
+      "duration": 3.4
+    },
+    {
+      "text": "quite cross if you don't I tried and",
+      "start": 1782.76,
+      "duration": 4.2
+    },
+    {
+      "text": "they phone you I didn't really but there",
+      "start": 1784.48,
+      "duration": 4.88
+    },
+    {
+      "text": "are things people just have to do and so",
+      "start": 1786.96,
+      "duration": 4.36
+    },
+    {
+      "text": "so our goal really I guess is if we can",
+      "start": 1789.36,
+      "duration": 4.52
+    },
+    {
+      "text": "help people manage the things outside of",
+      "start": 1791.32,
+      "duration": 4.68
+    },
+    {
+      "text": "the stuff they have to do then maybe we",
+      "start": 1793.88,
+      "duration": 3.799
+    },
+    {
+      "text": "can just create a little bit of Headroom",
+      "start": 1796.0,
+      "duration": 3.72
+    },
+    {
+      "text": "and still ability so they can cope with",
+      "start": 1797.679,
+      "duration": 3.681
+    },
+    {
+      "text": "the things that they do have to do",
+      "start": 1799.72,
+      "duration": 3.799
+    },
+    {
+      "text": "that's kind of one of the aims I guess",
+      "start": 1801.36,
+      "duration": 3.919
+    },
+    {
+      "text": "so these people that sign up for your",
+      "start": 1803.519,
+      "duration": 3.841
+    },
+    {
+      "text": "study they get the Fitbit and they get",
+      "start": 1805.279,
+      "duration": 4.801
+    },
+    {
+      "text": "the app is that kind of I say all it is",
+      "start": 1807.36,
+      "duration": 4.679
+    },
+    {
+      "text": "that sounds um incredibly insulting",
+      "start": 1810.08,
+      "duration": 3.28
+    },
+    {
+      "text": "that's not what I meant I've spent the",
+      "start": 1812.039,
+      "duration": 3.721
+    },
+    {
+      "text": "last four months right in the app so I",
+      "start": 1813.36,
+      "duration": 4.72
+    },
+    {
+      "text": "pretend not to be offended oh no I've",
+      "start": 1815.76,
+      "duration": 4.48
+    },
+    {
+      "text": "really done it now I meant more the",
+      "start": 1818.08,
+      "duration": 6.439
+    },
+    {
+      "text": "relative Simplicity of it for us as a",
+      "start": 1820.24,
+      "duration": 6.279
+    },
+    {
+      "text": "positive again it's kind of in two",
+      "start": 1824.519,
+      "duration": 4.681
+    },
+    {
+      "text": "phases it's a randomized control trial",
+      "start": 1826.519,
+      "duration": 5.4
+    },
+    {
+      "text": "so we will recruit people and this",
+      "start": 1829.2,
+      "duration": 4.28
+    },
+    {
+      "text": "sometimes aggravates people half the",
+      "start": 1831.919,
+      "duration": 3.321
+    },
+    {
+      "text": "people will get just standard patient",
+      "start": 1833.48,
+      "duration": 3.76
+    },
+    {
+      "text": "advice and essentially left to their own",
+      "start": 1835.24,
+      "duration": 4.279
+    },
+    {
+      "text": "devices they'll get a version of the app",
+      "start": 1837.24,
+      "duration": 4.12
+    },
+    {
+      "text": "but it won't have any of the messaging",
+      "start": 1839.519,
+      "duration": 3.321
+    },
+    {
+      "text": "built in and it won't track their heart",
+      "start": 1841.36,
+      "duration": 3.919
+    },
+    {
+      "text": "rate but it'll allow them to fill in",
+      "start": 1842.84,
+      "duration": 5.24
+    },
+    {
+      "text": "their symptoms once a month and then the",
+      "start": 1845.279,
+      "duration": 5.52
+    },
+    {
+      "text": "people in the other half of the cohort",
+      "start": 1848.08,
+      "duration": 4.839
+    },
+    {
+      "text": "will get the intervention so they'll get",
+      "start": 1850.799,
+      "duration": 4.441
+    },
+    {
+      "text": "the pace and support and the messaging",
+      "start": 1852.919,
+      "duration": 3.76
+    },
+    {
+      "text": "and there's information built into the",
+      "start": 1855.24,
+      "duration": 4.08
+    },
+    {
+      "text": "app so for example one of the things you",
+      "start": 1856.679,
+      "duration": 5.24
+    },
+    {
+      "text": "can't do direct with a Fitbit is say",
+      "start": 1859.32,
+      "duration": 4.16
+    },
+    {
+      "text": "well I want to know how many minutes",
+      "start": 1861.919,
+      "duration": 5.161
+    },
+    {
+      "text": "today I've spent with a heart rate above",
+      "start": 1863.48,
+      "duration": 6.039
+    },
+    {
+      "text": "102 the data is stored but it's",
+      "start": 1867.08,
+      "duration": 3.64
+    },
+    {
+      "text": "difficult for you to pull that out as an",
+      "start": 1869.519,
+      "duration": 2.76
+    },
+    {
+      "text": "individual because Fitbit want to show",
+      "start": 1870.72,
+      "duration": 3.88
+    },
+    {
+      "text": "it you in a certain way so our app was",
+      "start": 1872.279,
+      "duration": 4.4
+    },
+    {
+      "text": "it will pull your data remotely for you",
+      "start": 1874.6,
+      "duration": 3.679
+    },
+    {
+      "text": "and whatever your kind of threshold",
+      "start": 1876.679,
+      "duration": 4.6
+    },
+    {
+      "text": "heart rate is whether it's 102 or 98 or",
+      "start": 1878.279,
+      "duration": 4.64
+    },
+    {
+      "text": "whatever it will tell you how many",
+      "start": 1881.279,
+      "duration": 4.041
+    },
+    {
+      "text": "minutes you spent today above that and",
+      "start": 1882.919,
+      "duration": 3.88
+    },
+    {
+      "text": "also tell you how many minutes you spent",
+      "start": 1885.32,
+      "duration": 3.16
+    },
+    {
+      "text": "above that yesterday the day before so",
+      "start": 1886.799,
+      "duration": 3.88
+    },
+    {
+      "text": "for the last three days and so it's it",
+      "start": 1888.48,
+      "duration": 3.799
+    },
+    {
+      "text": "takes over the tracking for you and you",
+      "start": 1890.679,
+      "duration": 3.36
+    },
+    {
+      "text": "can just look at the app I so that's the",
+      "start": 1892.279,
+      "duration": 3.321
+    },
+    {
+      "text": "aim I think is to take away some of the",
+      "start": 1894.039,
+      "duration": 4.201
+    },
+    {
+      "text": "ctive load do the pacing for you but it",
+      "start": 1895.6,
+      "duration": 4.76
+    },
+    {
+      "text": "tries to help you with managing what",
+      "start": 1898.24,
+      "duration": 3.36
+    },
+    {
+      "text": "have you done today and what have you",
+      "start": 1900.36,
+      "duration": 3.279
+    },
+    {
+      "text": "got left to do today that kind of thing",
+      "start": 1901.6,
+      "duration": 3.64
+    },
+    {
+      "text": "at the end of it the people who are in",
+      "start": 1903.639,
+      "duration": 2.841
+    },
+    {
+      "text": "the control group will get an",
+      "start": 1905.24,
+      "duration": 3.36
+    },
+    {
+      "text": "opportunity to run through the study",
+      "start": 1906.48,
+      "duration": 3.439
+    },
+    {
+      "text": "again so what we'll do at the end of it",
+      "start": 1908.6,
+      "duration": 3.52
+    },
+    {
+      "text": "is review it work out what could have",
+      "start": 1909.919,
+      "duration": 4.0
+    },
+    {
+      "text": "been done better so could the messages",
+      "start": 1912.12,
+      "duration": 3.08
+    },
+    {
+      "text": "have been better or could the way that",
+      "start": 1913.919,
+      "duration": 3.441
+    },
+    {
+      "text": "we presented the heart rate data been",
+      "start": 1915.2,
+      "duration": 4.24
+    },
+    {
+      "text": "better so we try and improve it and then",
+      "start": 1917.36,
+      "duration": 3.439
+    },
+    {
+      "text": "the people in the control group who",
+      "start": 1919.44,
+      "duration": 2.8
+    },
+    {
+      "text": "didn't get the intervention first time",
+      "start": 1920.799,
+      "duration": 3.0
+    },
+    {
+      "text": "around they have an opportunity to run",
+      "start": 1922.24,
+      "duration": 3.88
+    },
+    {
+      "text": "through the study again so everyone gets",
+      "start": 1923.799,
+      "duration": 4.281
+    },
+    {
+      "text": "to run through it not necessarily first",
+      "start": 1926.12,
+      "duration": 4.76
+    },
+    {
+      "text": "time round how long are you planning to",
+      "start": 1928.08,
+      "duration": 5.959
+    },
+    {
+      "text": "run each sort of bit of so it's six",
+      "start": 1930.88,
+      "duration": 5.44
+    },
+    {
+      "text": "months people have the pacing support",
+      "start": 1934.039,
+      "duration": 4.64
+    },
+    {
+      "text": "will be there for 6 months we've got",
+      "start": 1936.32,
+      "duration": 4.0
+    },
+    {
+      "text": "another month or two until we start and",
+      "start": 1938.679,
+      "duration": 3.88
+    },
+    {
+      "text": "it'll be 6 months for the initial cohort",
+      "start": 1940.32,
+      "duration": 4.28
+    },
+    {
+      "text": "to run through we don't recruit everyone",
+      "start": 1942.559,
+      "duration": 3.84
+    },
+    {
+      "text": "in one go we recruit them kind of so",
+      "start": 1944.6,
+      "duration": 3.52
+    },
+    {
+      "text": "many per month so that'll actually take",
+      "start": 1946.399,
+      "duration": 4.0
+    },
+    {
+      "text": "the best part of a year to complete and",
+      "start": 1948.12,
+      "duration": 3.84
+    },
+    {
+      "text": "then we the other group will start there",
+      "start": 1950.399,
+      "duration": 3.441
+    },
+    {
+      "text": "6 months because we've already recruited",
+      "start": 1951.96,
+      "duration": 3.959
+    },
+    {
+      "text": "them they can start in it does we not",
+      "start": 1953.84,
+      "duration": 3.92
+    },
+    {
+      "text": "recruiting them over a months we'll",
+      "start": 1955.919,
+      "duration": 3.72
+    },
+    {
+      "text": "recruit them probably in two GRS and get",
+      "start": 1957.76,
+      "duration": 4.039
+    },
+    {
+      "text": "them started that way so the second",
+      "start": 1959.639,
+      "duration": 3.561
+    },
+    {
+      "text": "phase is quite a lot faster than the",
+      "start": 1961.799,
+      "duration": 3.161
+    },
+    {
+      "text": "first because we've already got kind of",
+      "start": 1963.2,
+      "duration": 4.04
+    },
+    {
+      "text": "a list of people yeah it's just case of",
+      "start": 1964.96,
+      "duration": 3.839
+    },
+    {
+      "text": "sort of flipping them over almost isn't",
+      "start": 1967.24,
+      "duration": 3.039
+    },
+    {
+      "text": "it",
+      "start": 1968.799,
+      "duration": 3.6
+    },
+    {
+      "text": "yeah yeah and taking away the need for",
+      "start": 1970.279,
+      "duration": 4.441
+    },
+    {
+      "text": "the facing the physical activity is as",
+      "start": 1972.399,
+      "duration": 4.16
+    },
+    {
+      "text": "you say you know a huge help because",
+      "start": 1974.72,
+      "duration": 3.959
+    },
+    {
+      "text": "it's one less thing to think about isn't",
+      "start": 1976.559,
+      "duration": 5.561
+    },
+    {
+      "text": "it what I find is I I'd never thought",
+      "start": 1978.679,
+      "duration": 7.281
+    },
+    {
+      "text": "about it until I got L was how much this",
+      "start": 1982.12,
+      "duration": 7.279
+    },
+    {
+      "text": "mental activity also requires so much",
+      "start": 1985.96,
+      "duration": 6.12
+    },
+    {
+      "text": "energy um that is going to be much",
+      "start": 1989.399,
+      "duration": 5.601
+    },
+    {
+      "text": "harder to track isn't it that's kind of",
+      "start": 1992.08,
+      "duration": 5.16
+    },
+    {
+      "text": "the Holy Grail if I'm honest so in terms",
+      "start": 1995.0,
+      "duration": 4.279
+    },
+    {
+      "text": "of not just long Co but there's a whole",
+      "start": 1997.24,
+      "duration": 4.24
+    },
+    {
+      "text": "research area of physical activity and a",
+      "start": 1999.279,
+      "duration": 4.481
+    },
+    {
+      "text": "discussion about what sedentary activity",
+      "start": 2001.48,
+      "duration": 3.6
+    },
+    {
+      "text": "in the physical activity world is called",
+      "start": 2003.76,
+      "duration": 3.6
+    },
+    {
+      "text": "sedentary for long Co we call what count",
+      "start": 2005.08,
+      "duration": 5.079
+    },
+    {
+      "text": "as rest rest is rest reading a book or",
+      "start": 2007.36,
+      "duration": 4.559
+    },
+    {
+      "text": "for some people it might be but for some",
+      "start": 2010.159,
+      "duration": 3.161
+    },
+    {
+      "text": "people it might not be and for some",
+      "start": 2011.919,
+      "duration": 2.921
+    },
+    {
+      "text": "people it'll depend on the book you know",
+      "start": 2013.32,
+      "duration": 4.239
+    },
+    {
+      "text": "is some rest watching telly is rest only",
+      "start": 2014.84,
+      "duration": 4.799
+    },
+    {
+      "text": "rest when you're lying down if you sat",
+      "start": 2017.559,
+      "duration": 3.48
+    },
+    {
+      "text": "in a car going somewhere and you're",
+      "start": 2019.639,
+      "duration": 3.481
+    },
+    {
+      "text": "anxious is that rest so it's not",
+      "start": 2021.039,
+      "duration": 4.441
+    },
+    {
+      "text": "necessarily straightforward and and when",
+      "start": 2023.12,
+      "duration": 4.279
+    },
+    {
+      "text": "we started the project there was a kind",
+      "start": 2025.48,
+      "duration": 3.96
+    },
+    {
+      "text": "of an online conversation we had that",
+      "start": 2027.399,
+      "duration": 3.361
+    },
+    {
+      "text": "there's no doubt even if this thing",
+      "start": 2029.44,
+      "duration": 3.359
+    },
+    {
+      "text": "works as well as we could hope it's",
+      "start": 2030.76,
+      "duration": 4.48
+    },
+    {
+      "text": "nowhere near the full answer because we",
+      "start": 2032.799,
+      "duration": 3.88
+    },
+    {
+      "text": "can't track how much time you spent",
+      "start": 2035.24,
+      "duration": 3.48
+    },
+    {
+      "text": "reading and how High some that was and",
+      "start": 2036.679,
+      "duration": 4.761
+    },
+    {
+      "text": "how much that affected you but I I think",
+      "start": 2038.72,
+      "duration": 4.36
+    },
+    {
+      "text": "again it comes back to our idea that",
+      "start": 2041.44,
+      "duration": 3.52
+    },
+    {
+      "text": "well if we can track the stuff that we",
+      "start": 2043.08,
+      "duration": 3.839
+    },
+    {
+      "text": "can track and we we can help manage the",
+      "start": 2044.96,
+      "duration": 3.76
+    },
+    {
+      "text": "things that we can help with then at",
+      "start": 2046.919,
+      "duration": 3.041
+    },
+    {
+      "text": "least we can try and create some",
+      "start": 2048.72,
+      "duration": 3.639
+    },
+    {
+      "text": "Headroom so that reading a book isn't as",
+      "start": 2049.96,
+      "duration": 4.32
+    },
+    {
+      "text": "exhausting as it would have been",
+      "start": 2052.359,
+      "duration": 4.04
+    },
+    {
+      "text": "otherwise outside that it does become",
+      "start": 2054.28,
+      "duration": 3.799
+    },
+    {
+      "text": "really difficult you know just trying to",
+      "start": 2056.399,
+      "duration": 3.321
+    },
+    {
+      "text": "track to do it remotely because in my",
+      "start": 2058.079,
+      "duration": 3.0
+    },
+    {
+      "text": "head all this stuff has to be done",
+      "start": 2059.72,
+      "duration": 2.919
+    },
+    {
+      "text": "remotely to be scalable to be able to",
+      "start": 2061.079,
+      "duration": 3.0
+    },
+    {
+      "text": "roll it out to lots and lots of people",
+      "start": 2062.639,
+      "duration": 2.881
+    },
+    {
+      "text": "it has to be able to be done remotely",
+      "start": 2064.079,
+      "duration": 3.161
+    },
+    {
+      "text": "and there's just no way to to know the",
+      "start": 2065.52,
+      "duration": 3.44
+    },
+    {
+      "text": "difference between lying down looking",
+      "start": 2067.24,
+      "duration": 3.2
+    },
+    {
+      "text": "out the window and lying down reading a",
+      "start": 2068.96,
+      "duration": 3.08
+    },
+    {
+      "text": "book I mean they're very different",
+      "start": 2070.44,
+      "duration": 3.239
+    },
+    {
+      "text": "activities but they're very difficult to",
+      "start": 2072.04,
+      "duration": 3.96
+    },
+    {
+      "text": "remotely get a handle on which is which",
+      "start": 2073.679,
+      "duration": 4.68
+    },
+    {
+      "text": "or even down thinking people have got",
+      "start": 2076.0,
+      "duration": 4.32
+    },
+    {
+      "text": "long covid and they're concerned about",
+      "start": 2078.359,
+      "duration": 3.56
+    },
+    {
+      "text": "their jobs or their income or their",
+      "start": 2080.32,
+      "duration": 3.96
+    },
+    {
+      "text": "mortgage all that stuff takes cognitive",
+      "start": 2081.919,
+      "duration": 5.48
+    },
+    {
+      "text": "load and is exhausting I can't track",
+      "start": 2084.28,
+      "duration": 4.96
+    },
+    {
+      "text": "that I would love to be able to but I",
+      "start": 2087.399,
+      "duration": 4.52
+    },
+    {
+      "text": "just can't can't yet anyway so we're",
+      "start": 2089.24,
+      "duration": 4.359
+    },
+    {
+      "text": "left with well we'll try and help with",
+      "start": 2091.919,
+      "duration": 3.0
+    },
+    {
+      "text": "the things that we think we can help",
+      "start": 2093.599,
+      "duration": 3.441
+    },
+    {
+      "text": "with and maybe that will create a little",
+      "start": 2094.919,
+      "duration": 4.721
+    },
+    {
+      "text": "bit of space so the other stuff isn't as",
+      "start": 2097.04,
+      "duration": 4.24
+    },
+    {
+      "text": "destructive as it might be I guess",
+      "start": 2099.64,
+      "duration": 3.439
+    },
+    {
+      "text": "that's the way to think about it well",
+      "start": 2101.28,
+      "duration": 4.16
+    },
+    {
+      "text": "any anything that can be done to help is",
+      "start": 2103.079,
+      "duration": 4.76
+    },
+    {
+      "text": "better than nothing isn't so uh yeah do",
+      "start": 2105.44,
+      "duration": 4.24
+    },
+    {
+      "text": "you see this combination of heart rate",
+      "start": 2107.839,
+      "duration": 3.921
+    },
+    {
+      "text": "tracking and communicating messages is",
+      "start": 2109.68,
+      "duration": 4.04
+    },
+    {
+      "text": "this something that could be rolled out",
+      "start": 2111.76,
+      "duration": 3.8
+    },
+    {
+      "text": "to more people in the future you know",
+      "start": 2113.72,
+      "duration": 4.2
+    },
+    {
+      "text": "for people with M and chronic fatigue",
+      "start": 2115.56,
+      "duration": 4.48
+    },
+    {
+      "text": "and things like that I've got a few",
+      "start": 2117.92,
+      "duration": 3.48
+    },
+    {
+      "text": "different answers to that question I",
+      "start": 2120.04,
+      "duration": 3.28
+    },
+    {
+      "text": "would dearly hope so all right one of",
+      "start": 2121.4,
+      "duration": 3.679
+    },
+    {
+      "text": "the plans in the future is if it is",
+      "start": 2123.32,
+      "duration": 3.84
+    },
+    {
+      "text": "useful in Long Co then we would love to",
+      "start": 2125.079,
+      "duration": 5.76
+    },
+    {
+      "text": "see if it Works in me CFS those kind of",
+      "start": 2127.16,
+      "duration": 5.84
+    },
+    {
+      "text": "conditions there are some small",
+      "start": 2130.839,
+      "duration": 4.401
+    },
+    {
+      "text": "differences again the data is not great",
+      "start": 2133.0,
+      "duration": 5.32
+    },
+    {
+      "text": "but for ma about of pem using something",
+      "start": 2135.24,
+      "duration": 5.56
+    },
+    {
+      "text": "called the Canadian criteria has to last",
+      "start": 2138.32,
+      "duration": 4.88
+    },
+    {
+      "text": "for 14 hours to count as about of of",
+      "start": 2140.8,
+      "duration": 5.279
+    },
+    {
+      "text": "post exal Malay and in the handful of",
+      "start": 2143.2,
+      "duration": 6.0
+    },
+    {
+      "text": "studies that we've got about 40 to 50%",
+      "start": 2146.079,
+      "duration": 5.361
+    },
+    {
+      "text": "of people with long covid report pem",
+      "start": 2149.2,
+      "duration": 4.8
+    },
+    {
+      "text": "last in 14 hours or more but nearly",
+      "start": 2151.44,
+      "duration": 4.919
+    },
+    {
+      "text": "everybody else reports what I call pem",
+      "start": 2154.0,
+      "duration": 4.599
+    },
+    {
+      "text": "like symptoms which is is bouts of pem",
+      "start": 2156.359,
+      "duration": 4.281
+    },
+    {
+      "text": "that are basically less than 14 hours so",
+      "start": 2158.599,
+      "duration": 5.48
+    },
+    {
+      "text": "it's anywhere between 2 and 10 12 hours",
+      "start": 2160.64,
+      "duration": 5.479
+    },
+    {
+      "text": "so there are some small differences so I",
+      "start": 2164.079,
+      "duration": 3.52
+    },
+    {
+      "text": "don't think we can just assume that if",
+      "start": 2166.119,
+      "duration": 4.121
+    },
+    {
+      "text": "it is beneficial in Long Co if it does",
+      "start": 2167.599,
+      "duration": 4.161
+    },
+    {
+      "text": "help people with long Co that we would",
+      "start": 2170.24,
+      "duration": 3.64
+    },
+    {
+      "text": "get exactly the same benefits in people",
+      "start": 2171.76,
+      "duration": 4.12
+    },
+    {
+      "text": "with me I'm not sure we can we can say",
+      "start": 2173.88,
+      "duration": 4.28
+    },
+    {
+      "text": "that but yes we would love to to roll it",
+      "start": 2175.88,
+      "duration": 4.479
+    },
+    {
+      "text": "out and see if it works in in those",
+      "start": 2178.16,
+      "duration": 4.32
+    },
+    {
+      "text": "other groups as well so the second part",
+      "start": 2180.359,
+      "duration": 4.081
+    },
+    {
+      "text": "of that is actually particularly in Long",
+      "start": 2182.48,
+      "duration": 5.879
+    },
+    {
+      "text": "Co and certainly in me CF",
+      "start": 2184.44,
+      "duration": 5.48
+    },
+    {
+      "text": "we've initially started out with heart",
+      "start": 2188.359,
+      "duration": 3.081
+    },
+    {
+      "text": "rate but there's a couple of issues with",
+      "start": 2189.92,
+      "duration": 3.159
+    },
+    {
+      "text": "that and and one of the reasons we use a",
+      "start": 2191.44,
+      "duration": 3.36
+    },
+    {
+      "text": "Fitbit is because it gives us heart rate",
+      "start": 2193.079,
+      "duration": 3.881
+    },
+    {
+      "text": "that we can pull remotely that's fine",
+      "start": 2194.8,
+      "duration": 3.84
+    },
+    {
+      "text": "and but it gives us secondary measures",
+      "start": 2196.96,
+      "duration": 3.28
+    },
+    {
+      "text": "that we can use so for some people heart",
+      "start": 2198.64,
+      "duration": 3.719
+    },
+    {
+      "text": "rate isn't going to be a good measure so",
+      "start": 2200.24,
+      "duration": 3.4
+    },
+    {
+      "text": "and certainly people listening to this",
+      "start": 2202.359,
+      "duration": 3.801
+    },
+    {
+      "text": "will have heard of pots so postal techic",
+      "start": 2203.64,
+      "duration": 5.08
+    },
+    {
+      "text": "Guardia so if people suffer from pots",
+      "start": 2206.16,
+      "duration": 4.159
+    },
+    {
+      "text": "and they're moving around quite a lot",
+      "start": 2208.72,
+      "duration": 3.48
+    },
+    {
+      "text": "heart rate becomes not necessarily a",
+      "start": 2210.319,
+      "duration": 3.641
+    },
+    {
+      "text": "great marker of how much activity you're",
+      "start": 2212.2,
+      "duration": 4.639
+    },
+    {
+      "text": "doing for people where heart rate isn't",
+      "start": 2213.96,
+      "duration": 4.92
+    },
+    {
+      "text": "a good measure activity so particularly",
+      "start": 2216.839,
+      "duration": 4.24
+    },
+    {
+      "text": "for parts people and we will track steps",
+      "start": 2218.88,
+      "duration": 3.68
+    },
+    {
+      "text": "instead so we will work out how many",
+      "start": 2221.079,
+      "duration": 3.401
+    },
+    {
+      "text": "steps a day you do if you have a bout of",
+      "start": 2222.56,
+      "duration": 3.88
+    },
+    {
+      "text": "pen we'll work out how many steps you",
+      "start": 2224.48,
+      "duration": 3.76
+    },
+    {
+      "text": "did in the sort of three or four days",
+      "start": 2226.44,
+      "duration": 3.52
+    },
+    {
+      "text": "before you had the bout because reware",
+      "start": 2228.24,
+      "duration": 3.8
+    },
+    {
+      "text": "it's not immediately before necessarily",
+      "start": 2229.96,
+      "duration": 3.76
+    },
+    {
+      "text": "right so if you have a bout to pay it",
+      "start": 2232.04,
+      "duration": 3.16
+    },
+    {
+      "text": "might be from two or three days ago you",
+      "start": 2233.72,
+      "duration": 3.16
+    },
+    {
+      "text": "did something and that triggered it so",
+      "start": 2235.2,
+      "duration": 3.0
+    },
+    {
+      "text": "we will track what you did for a couple",
+      "start": 2236.88,
+      "duration": 3.239
+    },
+    {
+      "text": "of days before you read about a pen and",
+      "start": 2238.2,
+      "duration": 3.84
+    },
+    {
+      "text": "that goes for heart rate and steps but",
+      "start": 2240.119,
+      "duration": 3.761
+    },
+    {
+      "text": "if you're a person for whom heart rate",
+      "start": 2242.04,
+      "duration": 3.68
+    },
+    {
+      "text": "is not a good measure then we'll try and",
+      "start": 2243.88,
+      "duration": 3.439
+    },
+    {
+      "text": "measure steps and again I think that",
+      "start": 2245.72,
+      "duration": 3.84
+    },
+    {
+      "text": "might might be useful particularly in",
+      "start": 2247.319,
+      "duration": 5.28
+    },
+    {
+      "text": "the people me and CFS because there's an",
+      "start": 2249.56,
+      "duration": 4.519
+    },
+    {
+      "text": "awful lot of those people who have pods",
+      "start": 2252.599,
+      "duration": 3.281
+    },
+    {
+      "text": "and in whom their heart rate jumps",
+      "start": 2254.079,
+      "duration": 3.76
+    },
+    {
+      "text": "around an awful lot and if you're trying",
+      "start": 2255.88,
+      "duration": 3.56
+    },
+    {
+      "text": "to track how many minutes you spent with",
+      "start": 2257.839,
+      "duration": 3.721
+    },
+    {
+      "text": "a heart rate above 102 because you",
+      "start": 2259.44,
+      "duration": 4.919
+    },
+    {
+      "text": "assume 102 is the threshold above which",
+      "start": 2261.56,
+      "duration": 4.84
+    },
+    {
+      "text": "you're doing too much let's say then if",
+      "start": 2264.359,
+      "duration": 3.401
+    },
+    {
+      "text": "you've got an unreliable heart rate",
+      "start": 2266.4,
+      "duration": 3.439
+    },
+    {
+      "text": "that's no use so we need to just a",
+      "start": 2267.76,
+      "duration": 4.079
+    },
+    {
+      "text": "different way to try and track it so",
+      "start": 2269.839,
+      "duration": 3.841
+    },
+    {
+      "text": "there are just I guess just ways to try",
+      "start": 2271.839,
+      "duration": 4.041
+    },
+    {
+      "text": "and work around the issues that come",
+      "start": 2273.68,
+      "duration": 3.84
+    },
+    {
+      "text": "with the condition but that's still",
+      "start": 2275.88,
+      "duration": 4.16
+    },
+    {
+      "text": "allow us to support attempts to try and",
+      "start": 2277.52,
+      "duration": 4.36
+    },
+    {
+      "text": "Pace the things that you have to do so",
+      "start": 2280.04,
+      "duration": 4.0
+    },
+    {
+      "text": "you're able to sort of tailor it to each",
+      "start": 2281.88,
+      "duration": 4.84
+    },
+    {
+      "text": "individual yeah we try and tailor it as",
+      "start": 2284.04,
+      "duration": 5.039
+    },
+    {
+      "text": "best we can so if it is heart rate your",
+      "start": 2286.72,
+      "duration": 3.599
+    },
+    {
+      "text": "heart rate as I said will be different",
+      "start": 2289.079,
+      "duration": 3.0
+    },
+    {
+      "text": "to someone else's and your maximum",
+      "start": 2290.319,
+      "duration": 3.441
+    },
+    {
+      "text": "amount of minutes that you need to stay",
+      "start": 2292.079,
+      "duration": 3.201
+    },
+    {
+      "text": "inside of will be different to someone",
+      "start": 2293.76,
+      "duration": 3.24
+    },
+    {
+      "text": "else's and if heart rate's no good for",
+      "start": 2295.28,
+      "duration": 3.88
+    },
+    {
+      "text": "you then we will track steps and we'll",
+      "start": 2297.0,
+      "duration": 5.16
+    },
+    {
+      "text": "work out how many steps do you do a day",
+      "start": 2299.16,
+      "duration": 4.52
+    },
+    {
+      "text": "when let's say you've had a week when",
+      "start": 2302.16,
+      "duration": 3.04
+    },
+    {
+      "text": "you've had no pen and we'll say right",
+      "start": 2303.68,
+      "duration": 3.32
+    },
+    {
+      "text": "well that's your maximum amount of steps",
+      "start": 2305.2,
+      "duration": 3.52
+    },
+    {
+      "text": "you should try and stay within if you",
+      "start": 2307.0,
+      "duration": 3.28
+    },
+    {
+      "text": "stay within that and you have another",
+      "start": 2308.72,
+      "duration": 3.48
+    },
+    {
+      "text": "battle PM then we might adjust that down",
+      "start": 2310.28,
+      "duration": 3.4
+    },
+    {
+      "text": "a little bit to try and reduce the",
+      "start": 2312.2,
+      "duration": 3.68
+    },
+    {
+      "text": "amount of exertion you've undertaken all",
+      "start": 2313.68,
+      "duration": 4.8
+    },
+    {
+      "text": "of that is bracketed by absolutely aware",
+      "start": 2315.88,
+      "duration": 4.199
+    },
+    {
+      "text": "that there are other types of exertion",
+      "start": 2318.48,
+      "duration": 3.2
+    },
+    {
+      "text": "that we can't track but we're just",
+      "start": 2320.079,
+      "duration": 3.76
+    },
+    {
+      "text": "trying to manage the bits that we can so",
+      "start": 2321.68,
+      "duration": 4.679
+    },
+    {
+      "text": "you said a six month track plus the",
+      "start": 2323.839,
+      "duration": 4.641
+    },
+    {
+      "text": "setup time and the the flipping to the",
+      "start": 2326.359,
+      "duration": 4.601
+    },
+    {
+      "text": "other people when are you thinking that",
+      "start": 2328.48,
+      "duration": 6.2
+    },
+    {
+      "text": "you might get some data from this one so",
+      "start": 2330.96,
+      "duration": 5.76
+    },
+    {
+      "text": "we should have some data after the first",
+      "start": 2334.68,
+      "duration": 4.439
+    },
+    {
+      "text": "group finished the six months so at the",
+      "start": 2336.72,
+      "duration": 4.359
+    },
+    {
+      "text": "end of the first six months then we'll",
+      "start": 2339.119,
+      "duration": 3.561
+    },
+    {
+      "text": "have a group of people who've had",
+      "start": 2341.079,
+      "duration": 3.201
+    },
+    {
+      "text": "standard pacing advice and we'll have a",
+      "start": 2342.68,
+      "duration": 3.639
+    },
+    {
+      "text": "group of people who had pacing support",
+      "start": 2344.28,
+      "duration": 4.28
+    },
+    {
+      "text": "through kind of activity tracking so and",
+      "start": 2346.319,
+      "duration": 4.241
+    },
+    {
+      "text": "I think that occurs somewhere around",
+      "start": 2348.56,
+      "duration": 3.759
+    },
+    {
+      "text": "March or April so we're hoping to have",
+      "start": 2350.56,
+      "duration": 3.48
+    },
+    {
+      "text": "some data out around March or April",
+      "start": 2352.319,
+      "duration": 2.841
+    },
+    {
+      "text": "maybe a month or so after that one",
+      "start": 2354.04,
+      "duration": 3.12
+    },
+    {
+      "text": "turned done the number crunching about",
+      "start": 2355.16,
+      "duration": 3.88
+    },
+    {
+      "text": "do people who get the support have few",
+      "start": 2357.16,
+      "duration": 4.48
+    },
+    {
+      "text": "abouts of pen or if they don't are they",
+      "start": 2359.04,
+      "duration": 5.24
+    },
+    {
+      "text": "less severe do they not last as long so",
+      "start": 2361.64,
+      "duration": 5.04
+    },
+    {
+      "text": "we're trying to",
+      "start": 2364.28,
+      "duration": 2.4
+    },
+    {
+      "text": "next year we should have some data well",
+      "start": 2367.4,
+      "duration": 4.199
+    },
+    {
+      "text": "me what might be really amazing is if we",
+      "start": 2369.359,
+      "duration": 3.681
+    },
+    {
+      "text": "could get you on the podcast when you",
+      "start": 2371.599,
+      "duration": 3.48
+    },
+    {
+      "text": "get some results see what you found out",
+      "start": 2373.04,
+      "duration": 3.24
+    },
+    {
+      "text": "that would be really yeah that would be",
+      "start": 2375.079,
+      "duration": 2.481
+    },
+    {
+      "text": "great is there anything else in the",
+      "start": 2376.28,
+      "duration": 3.559
+    },
+    {
+      "text": "pipeline for you or you sound a bit",
+      "start": 2377.56,
+      "duration": 5.24
+    },
+    {
+      "text": "occupied with with these two I I am up",
+      "start": 2379.839,
+      "duration": 6.161
+    },
+    {
+      "text": "the wall the moment although that said",
+      "start": 2382.8,
+      "duration": 5.44
+    },
+    {
+      "text": "I'm interested I have a colleague who's",
+      "start": 2386.0,
+      "duration": 3.64
+    },
+    {
+      "text": "he's a physiologist as well but he's",
+      "start": 2388.24,
+      "duration": 3.44
+    },
+    {
+      "text": "interested in Pediatric and whether we",
+      "start": 2389.64,
+      "duration": 3.84
+    },
+    {
+      "text": "could modify the approach that we've got",
+      "start": 2391.68,
+      "duration": 3.04
+    },
+    {
+      "text": "to work with children might be",
+      "start": 2393.48,
+      "duration": 3.359
+    },
+    {
+      "text": "interesting because I think long Co in",
+      "start": 2394.72,
+      "duration": 4.84
+    },
+    {
+      "text": "children is becoming a bigger issue but",
+      "start": 2396.839,
+      "duration": 4.401
+    },
+    {
+      "text": "I think the amount of support is much",
+      "start": 2399.56,
+      "duration": 3.48
+    },
+    {
+      "text": "less I don't think people have a good",
+      "start": 2401.24,
+      "duration": 3.359
+    },
+    {
+      "text": "idea of how to do patient and children",
+      "start": 2403.04,
+      "duration": 3.84
+    },
+    {
+      "text": "is really difficult I mean Visos and so",
+      "start": 2404.599,
+      "duration": 4.321
+    },
+    {
+      "text": "on in mecfs would have been doing it for",
+      "start": 2406.88,
+      "duration": 4.12
+    },
+    {
+      "text": "a long time but the support for patient",
+      "start": 2408.92,
+      "duration": 4.08
+    },
+    {
+      "text": "in children is much hard and I know from",
+      "start": 2411.0,
+      "duration": 3.839
+    },
+    {
+      "text": "when my little just trying to pay kids",
+      "start": 2413.0,
+      "duration": 4.64
+    },
+    {
+      "text": "would be disastrously difficult it's bad",
+      "start": 2414.839,
+      "duration": 4.24
+    },
+    {
+      "text": "enough when it's when you're an adult I",
+      "start": 2417.64,
+      "duration": 3.0
+    },
+    {
+      "text": "would think but that's kind of my point",
+      "start": 2419.079,
+      "duration": 2.961
+    },
+    {
+      "text": "I think that it's really difficult as an",
+      "start": 2420.64,
+      "duration": 3.439
+    },
+    {
+      "text": "adult so you get all those difficulties",
+      "start": 2422.04,
+      "duration": 3.72
+    },
+    {
+      "text": "and you say right well now you're six",
+      "start": 2424.079,
+      "duration": 3.76
+    },
+    {
+      "text": "and it's just it's really really",
+      "start": 2425.76,
+      "duration": 4.04
+    },
+    {
+      "text": "difficult to manage so we need to get",
+      "start": 2427.839,
+      "duration": 4.401
+    },
+    {
+      "text": "this up and running and probably after",
+      "start": 2429.8,
+      "duration": 4.36
+    },
+    {
+      "text": "Christmas we start to think about is is",
+      "start": 2432.24,
+      "duration": 3.72
+    },
+    {
+      "text": "there a way that we could approach",
+      "start": 2434.16,
+      "duration": 4.0
+    },
+    {
+      "text": "helping younger people whether that's",
+      "start": 2435.96,
+      "duration": 4.32
+    },
+    {
+      "text": "adolescence or children children who've",
+      "start": 2438.16,
+      "duration": 4.08
+    },
+    {
+      "text": "got long covid um and see if there's",
+      "start": 2440.28,
+      "duration": 3.839
+    },
+    {
+      "text": "ways we can manage that I mean there are",
+      "start": 2442.24,
+      "duration": 3.119
+    },
+    {
+      "text": "tradeoffs they're happier to wear kind",
+      "start": 2444.119,
+      "duration": 2.601
+    },
+    {
+      "text": "of fitbits and so on because they like",
+      "start": 2445.359,
+      "duration": 3.201
+    },
+    {
+      "text": "the technology but they're they're more",
+      "start": 2446.72,
+      "duration": 3.879
+    },
+    {
+      "text": "likely to forget to open an app and",
+      "start": 2448.56,
+      "duration": 3.559
+    },
+    {
+      "text": "update it or do any the things that or",
+      "start": 2450.599,
+      "duration": 2.961
+    },
+    {
+      "text": "fill in the questionnaires and that kind",
+      "start": 2452.119,
+      "duration": 4.2
+    },
+    {
+      "text": "of stuff there's challenges in terms of",
+      "start": 2453.56,
+      "duration": 4.92
+    },
+    {
+      "text": "how we adapt it yeah that's probably one",
+      "start": 2456.319,
+      "duration": 3.76
+    },
+    {
+      "text": "of the things we'll look at next that",
+      "start": 2458.48,
+      "duration": 3.96
+    },
+    {
+      "text": "and I think the next stage is if it is",
+      "start": 2460.079,
+      "duration": 4.04
+    },
+    {
+      "text": "useful and we won't know till next year",
+      "start": 2462.44,
+      "duration": 3.52
+    },
+    {
+      "text": "seeing if we can do it in EM would be",
+      "start": 2464.119,
+      "duration": 4.441
+    },
+    {
+      "text": "like The Logical next step I think",
+      "start": 2465.96,
+      "duration": 4.28
+    },
+    {
+      "text": "fantastic well thank you so much for",
+      "start": 2468.56,
+      "duration": 3.36
+    },
+    {
+      "text": "joining me today it's been absolutely",
+      "start": 2470.24,
+      "duration": 3.48
+    },
+    {
+      "text": "fascinating good luck with getting them",
+      "start": 2471.92,
+      "duration": 3.48
+    },
+    {
+      "text": "off the ground and I'll be really",
+      "start": 2473.72,
+      "duration": 4.119
+    },
+    {
+      "text": "excited to hear some results thank you",
+      "start": 2475.4,
+      "duration": 4.64
+    },
+    {
+      "text": "so much to all of my guests and to you",
+      "start": 2477.839,
+      "duration": 4.841
+    },
+    {
+      "text": "for listening I hope you've enjoyed it",
+      "start": 2480.04,
+      "duration": 5.72
+    },
+    {
+      "text": "or at least found it useful the long Co",
+      "start": 2482.68,
+      "duration": 5.159
+    },
+    {
+      "text": "podcast is entirely self produced and",
+      "start": 2485.76,
+      "duration": 4.64
+    },
+    {
+      "text": "self-funded I'm doing all of this",
+      "start": 2487.839,
+      "duration": 5.401
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2490.4,
+      "duration": 4.24
+    },
+    {
+      "text": "buy meac",
+      "start": 2493.24,
+      "duration": 4.64
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2494.64,
+      "duration": 5.16
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 2497.88,
+      "duration": 4.0
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2499.8,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of The Long Co podcast it's",
+      "start": 2501.88,
+      "duration": 4.199
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2504.04,
+      "duration": 5.079
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 2506.079,
+      "duration": 6.561
+    },
+    {
+      "text": "love to hear from",
+      "start": 2509.119,
+      "duration": 3.521
+    }
+  ],
+  "metadata": {
+    "title": "06 - Professor Nick Sculthorpe - Long Covid Research Projects at UWS",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/6JWAm8MAu0k/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 6,
+    "title": "06 - Professor Nick Sculthorpe - Long Covid Research Projects at UWS",
+    "videoId": "6JWAm8MAu0k",
+    "lengthText": "41:58"
+  }
+}

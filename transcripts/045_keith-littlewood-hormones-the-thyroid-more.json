@@ -1,0 +1,7518 @@
+{
+  "video_id": "PdrsgwyrzZY",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.039,
+      "duration": 6.0
+    },
+    {
+      "text": "The Long Co podcast I am delighted to",
+      "start": 58.239,
+      "duration": 5.561
+    },
+    {
+      "text": "welcome Keith littlewood as my guest",
+      "start": 61.039,
+      "duration": 5.521
+    },
+    {
+      "text": "today so he's a bit of a wizard around",
+      "start": 63.8,
+      "duration": 5.24
+    },
+    {
+      "text": "endocrinology and hormones amongst other",
+      "start": 66.56,
+      "duration": 3.76
+    },
+    {
+      "text": "things so we're going to be chatting a",
+      "start": 69.04,
+      "duration": 3.719
+    },
+    {
+      "text": "whole load about that today um so",
+      "start": 70.32,
+      "duration": 4.6
+    },
+    {
+      "text": "welcome to the podcast thanks for having",
+      "start": 72.759,
+      "duration": 4.561
+    },
+    {
+      "text": "me um so I'm really happy to have you",
+      "start": 74.92,
+      "duration": 4.68
+    },
+    {
+      "text": "here today um would you mind just",
+      "start": 77.32,
+      "duration": 4.64
+    },
+    {
+      "text": "introducing yourself a little um and",
+      "start": 79.6,
+      "duration": 4.4
+    },
+    {
+      "text": "saying just I guess a bit more about",
+      "start": 81.96,
+      "duration": 4.4
+    },
+    {
+      "text": "what you do sure I I kind of fell into",
+      "start": 84.0,
+      "duration": 4.52
+    },
+    {
+      "text": "the fitness industry around",
+      "start": 86.36,
+      "duration": 4.52
+    },
+    {
+      "text": "1995 and that progressed into personal",
+      "start": 88.52,
+      "duration": 3.959
+    },
+    {
+      "text": "training owning my own gym and health",
+      "start": 90.88,
+      "duration": 3.04
+    },
+    {
+      "text": "club then I realized I didn't really",
+      "start": 92.479,
+      "duration": 3.481
+    },
+    {
+      "text": "like managing people so I moved out of",
+      "start": 93.92,
+      "duration": 4.4
+    },
+    {
+      "text": "that moved into more Rehabilitation and",
+      "start": 95.96,
+      "duration": 4.24
+    },
+    {
+      "text": "nutrition and I did my first degree was",
+      "start": 98.32,
+      "duration": 4.52
+    },
+    {
+      "text": "in fitness and health uh and then I got",
+      "start": 100.2,
+      "duration": 4.8
+    },
+    {
+      "text": "kind of interested I kind of gave up",
+      "start": 102.84,
+      "duration": 4.2
+    },
+    {
+      "text": "training in 2010 and moved more into",
+      "start": 105.0,
+      "duration": 4.64
+    },
+    {
+      "text": "rehab and and pain science and I did",
+      "start": 107.04,
+      "duration": 4.359
+    },
+    {
+      "text": "that for a number of years and I've been",
+      "start": 109.64,
+      "duration": 3.28
+    },
+    {
+      "text": "reading in the background some works of",
+      "start": 111.399,
+      "duration": 3.161
+    },
+    {
+      "text": "some scientists around hormones which",
+      "start": 112.92,
+      "duration": 2.879
+    },
+    {
+      "text": "really piqu my interest because they",
+      "start": 114.56,
+      "duration": 3.479
+    },
+    {
+      "text": "were talking about it in a different way",
+      "start": 115.799,
+      "duration": 4.161
+    },
+    {
+      "text": "and I kind of challenged my bias back in",
+      "start": 118.039,
+      "duration": 4.4
+    },
+    {
+      "text": "2017 while going back to University to",
+      "start": 119.96,
+      "duration": 4.759
+    },
+    {
+      "text": "do a postgrad and a master's degree in",
+      "start": 122.439,
+      "duration": 5.8
+    },
+    {
+      "text": "endocrinology uh and uh I gave up rehab",
+      "start": 124.719,
+      "duration": 5.081
+    },
+    {
+      "text": "side of things to move solely into that",
+      "start": 128.239,
+      "duration": 3.36
+    },
+    {
+      "text": "and do research and I'm I'm pursuing a",
+      "start": 129.8,
+      "duration": 4.439
+    },
+    {
+      "text": "PhD at reading uh looking at the role of",
+      "start": 131.599,
+      "duration": 4.881
+    },
+    {
+      "text": "pollutants and and thyroid physiology",
+      "start": 134.239,
+      "duration": 3.64
+    },
+    {
+      "text": "which is this kind of gland in the neck",
+      "start": 136.48,
+      "duration": 3.64
+    },
+    {
+      "text": "that controls every aspect of the body",
+      "start": 137.879,
+      "duration": 4.761
+    },
+    {
+      "text": "so I I'm quite Keen at looking at that",
+      "start": 140.12,
+      "duration": 3.64
+    },
+    {
+      "text": "and when you look at that I think you",
+      "start": 142.64,
+      "duration": 2.879
+    },
+    {
+      "text": "look at pretty much everything within",
+      "start": 143.76,
+      "duration": 3.64
+    },
+    {
+      "text": "the human body I don't think there's a",
+      "start": 145.519,
+      "duration": 3.561
+    },
+    {
+      "text": "an aspect of function that's not touched",
+      "start": 147.4,
+      "duration": 3.6
+    },
+    {
+      "text": "by thyroid so it's an interesting",
+      "start": 149.08,
+      "duration": 5.32
+    },
+    {
+      "text": "worthwhile subject yeah definitely um I",
+      "start": 151.0,
+      "duration": 5.0
+    },
+    {
+      "text": "mean I think it's a little bit of a",
+      "start": 154.4,
+      "duration": 3.8
+    },
+    {
+      "text": "certainly to me it seems a bit like a a",
+      "start": 156.0,
+      "duration": 3.84
+    },
+    {
+      "text": "mystery thing the thyroid you know you",
+      "start": 158.2,
+      "duration": 3.6
+    },
+    {
+      "text": "hear about it and and people sort of",
+      "start": 159.84,
+      "duration": 5.36
+    },
+    {
+      "text": "test around it but certainly I don't",
+      "start": 161.8,
+      "duration": 5.439
+    },
+    {
+      "text": "have that much understanding about what",
+      "start": 165.2,
+      "duration": 4.92
+    },
+    {
+      "text": "it really does um would you mind kind of",
+      "start": 167.239,
+      "duration": 5.28
+    },
+    {
+      "text": "just explaining a little bit more around",
+      "start": 170.12,
+      "duration": 4.24
+    },
+    {
+      "text": "the thyroid and what it what it does I",
+      "start": 172.519,
+      "duration": 5.44
+    },
+    {
+      "text": "guess sure so so the thyroid produces um",
+      "start": 174.36,
+      "duration": 5.159
+    },
+    {
+      "text": "typically something called thyroxin",
+      "start": 177.959,
+      "duration": 3.601
+    },
+    {
+      "text": "which is is T4 and then you have more",
+      "start": 179.519,
+      "duration": 4.44
+    },
+    {
+      "text": "active component called T3 and usually",
+      "start": 181.56,
+      "duration": 4.84
+    },
+    {
+      "text": "it's secreted in an amount of say 4:1",
+      "start": 183.959,
+      "duration": 5.441
+    },
+    {
+      "text": "ratio now T4 is sometimes viewed as the",
+      "start": 186.4,
+      "duration": 4.88
+    },
+    {
+      "text": "the non-active form that's converted to",
+      "start": 189.4,
+      "duration": 4.64
+    },
+    {
+      "text": "T3 and T3 does have these very strong uh",
+      "start": 191.28,
+      "duration": 4.12
+    },
+    {
+      "text": "what they called non- genomic effects",
+      "start": 194.04,
+      "duration": 3.36
+    },
+    {
+      "text": "around metabolism But ultimately if you",
+      "start": 195.4,
+      "duration": 4.6
+    },
+    {
+      "text": "don't produce enough thyroid hormone you",
+      "start": 197.4,
+      "duration": 4.839
+    },
+    {
+      "text": "can get constipated your hair falls out",
+      "start": 200.0,
+      "duration": 4.08
+    },
+    {
+      "text": "you have low energy you get brain fog",
+      "start": 202.239,
+      "duration": 4.161
+    },
+    {
+      "text": "you can become infertile develop PCOS it",
+      "start": 204.08,
+      "duration": 4.439
+    },
+    {
+      "text": "could be linked to cancers um it can be",
+      "start": 206.4,
+      "duration": 4.559
+    },
+    {
+      "text": "linked to uh other kind of",
+      "start": 208.519,
+      "duration": 4.241
+    },
+    {
+      "text": "pathophysiologies or or disease",
+      "start": 210.959,
+      "duration": 4.761
+    },
+    {
+      "text": "processes high cholesterol metabolic",
+      "start": 212.76,
+      "duration": 6.16
+    },
+    {
+      "text": "syndrome high blood pressure excess",
+      "start": 215.72,
+      "duration": 5.36
+    },
+    {
+      "text": "muscular skeletal injuries I mean you",
+      "start": 218.92,
+      "duration": 4.56
+    },
+    {
+      "text": "can see here it's quite broad right so",
+      "start": 221.08,
+      "duration": 4.48
+    },
+    {
+      "text": "that that's why I kind of why I felt",
+      "start": 223.48,
+      "duration": 3.8
+    },
+    {
+      "text": "this was kind of like a real challenge",
+      "start": 225.56,
+      "duration": 3.12
+    },
+    {
+      "text": "to look at because I think when you can",
+      "start": 227.28,
+      "duration": 3.679
+    },
+    {
+      "text": "get a good understanding of thyroid uh",
+      "start": 228.68,
+      "duration": 4.24
+    },
+    {
+      "text": "it is inextricably linked to function I",
+      "start": 230.959,
+      "duration": 3.961
+    },
+    {
+      "text": "also think it has an inextricable link",
+      "start": 232.92,
+      "duration": 4.399
+    },
+    {
+      "text": "to covid that's not being looked at",
+      "start": 234.92,
+      "duration": 4.12
+    },
+    {
+      "text": "efficiently because the way that blood",
+      "start": 237.319,
+      "duration": 3.801
+    },
+    {
+      "text": "tests are conduct Ed I don't believe",
+      "start": 239.04,
+      "duration": 3.32
+    },
+    {
+      "text": "they're the most accurate form of",
+      "start": 241.12,
+      "duration": 3.839
+    },
+    {
+      "text": "diagnosing a thyroid problem and this is",
+      "start": 242.36,
+      "duration": 3.64
+    },
+    {
+      "text": "probably something we'll be going to",
+      "start": 244.959,
+      "duration": 3.521
+    },
+    {
+      "text": "going into but um when someone's",
+      "start": 246.0,
+      "duration": 4.92
+    },
+    {
+      "text": "stressed you know we produce other",
+      "start": 248.48,
+      "duration": 4.839
+    },
+    {
+      "text": "hormones that can inhibit the production",
+      "start": 250.92,
+      "duration": 4.159
+    },
+    {
+      "text": "of another thyro well it's not a thyroid",
+      "start": 253.319,
+      "duration": 3.361
+    },
+    {
+      "text": "hormone it's a pituitary hormone we have",
+      "start": 255.079,
+      "duration": 3.521
+    },
+    {
+      "text": "a very small gland in the brain called",
+      "start": 256.68,
+      "duration": 4.16
+    },
+    {
+      "text": "the pituitary that is sometimes under",
+      "start": 258.6,
+      "duration": 4.64
+    },
+    {
+      "text": "the behest of that another gland or an",
+      "start": 260.84,
+      "duration": 3.4
+    },
+    {
+      "text": "area in the brain called the",
+      "start": 263.24,
+      "duration": 3.36
+    },
+    {
+      "text": "hypothalamus the hypothalamus creates",
+      "start": 264.24,
+      "duration": 4.959
+    },
+    {
+      "text": "something called TR which won't go into",
+      "start": 266.6,
+      "duration": 4.28
+    },
+    {
+      "text": "the name of it's just a bit boring for",
+      "start": 269.199,
+      "duration": 3.84
+    },
+    {
+      "text": "everybody and that stimulates the the",
+      "start": 270.88,
+      "duration": 4.64
+    },
+    {
+      "text": "pituitary gland to then produce thyroid",
+      "start": 273.039,
+      "duration": 4.041
+    },
+    {
+      "text": "stimulating hormone which should then",
+      "start": 275.52,
+      "duration": 3.56
+    },
+    {
+      "text": "send a signal to the thyroid to ramp up",
+      "start": 277.08,
+      "duration": 3.8
+    },
+    {
+      "text": "the production and that goes through a",
+      "start": 279.08,
+      "duration": 3.959
+    },
+    {
+      "text": "various amount of processes using iodine",
+      "start": 280.88,
+      "duration": 4.68
+    },
+    {
+      "text": "and and selenium and certain enzymes to",
+      "start": 283.039,
+      "duration": 5.041
+    },
+    {
+      "text": "produce these thyroid hormones now so",
+      "start": 285.56,
+      "duration": 5.04
+    },
+    {
+      "text": "there are various syling issues at work",
+      "start": 288.08,
+      "duration": 4.48
+    },
+    {
+      "text": "there are various alterations from",
+      "start": 290.6,
+      "duration": 4.2
+    },
+    {
+      "text": "pollution that can create certain",
+      "start": 292.56,
+      "duration": 4.359
+    },
+    {
+      "text": "problems what I've looked at from from",
+      "start": 294.8,
+      "duration": 3.52
+    },
+    {
+      "text": "research from looking at quite a few",
+      "start": 296.919,
+      "duration": 3.481
+    },
+    {
+      "text": "papers over the last year is that there",
+      "start": 298.32,
+      "duration": 3.96
+    },
+    {
+      "text": "are many compounds that kind of interact",
+      "start": 300.4,
+      "duration": 3.4
+    },
+    {
+      "text": "with thyroid hormone",
+      "start": 302.28,
+      "duration": 3.8
+    },
+    {
+      "text": "receptors so if we think about the",
+      "start": 303.8,
+      "duration": 4.92
+    },
+    {
+      "text": "hormone itself it has a specific binding",
+      "start": 306.08,
+      "duration": 4.64
+    },
+    {
+      "text": "where it can bind with its appropriate",
+      "start": 308.72,
+      "duration": 4.72
+    },
+    {
+      "text": "receptor to kind of have these effects",
+      "start": 310.72,
+      "duration": 4.88
+    },
+    {
+      "text": "these kind of tend to be more genomic",
+      "start": 313.44,
+      "duration": 4.199
+    },
+    {
+      "text": "effects so we can see genes being",
+      "start": 315.6,
+      "duration": 3.68
+    },
+    {
+      "text": "expressed in a certain manner that could",
+      "start": 317.639,
+      "duration": 4.361
+    },
+    {
+      "text": "be associated with diseases or lack of",
+      "start": 319.28,
+      "duration": 4.88
+    },
+    {
+      "text": "diseases as it were but they not the",
+      "start": 322.0,
+      "duration": 4.16
+    },
+    {
+      "text": "only effects as I mentioned earlier they",
+      "start": 324.16,
+      "duration": 3.56
+    },
+    {
+      "text": "have like a non-genomic effect which is",
+      "start": 326.16,
+      "duration": 3.879
+    },
+    {
+      "text": "linked to metabolism how we you produce",
+      "start": 327.72,
+      "duration": 4.84
+    },
+    {
+      "text": "our energy um and all the other aspects",
+      "start": 330.039,
+      "duration": 4.6
+    },
+    {
+      "text": "of function kind of around how our",
+      "start": 332.56,
+      "duration": 4.52
+    },
+    {
+      "text": "metabolism works it's a key driver of",
+      "start": 334.639,
+      "duration": 4.68
+    },
+    {
+      "text": "how the liver functions so when we see",
+      "start": 337.08,
+      "duration": 4.04
+    },
+    {
+      "text": "issues like non-alcoholic fatty liver",
+      "start": 339.319,
+      "duration": 4.561
+    },
+    {
+      "text": "disease as an example thyroid is",
+      "start": 341.12,
+      "duration": 4.12
+    },
+    {
+      "text": "intimately linked there are certainly",
+      "start": 343.88,
+      "duration": 3.319
+    },
+    {
+      "text": "nutritional components and there are",
+      "start": 345.24,
+      "duration": 4.519
+    },
+    {
+      "text": "certainly pollutant components uh and",
+      "start": 347.199,
+      "duration": 4.321
+    },
+    {
+      "text": "that unfortunately within females",
+      "start": 349.759,
+      "duration": 3.921
+    },
+    {
+      "text": "estrogen or is deemed the female hormone",
+      "start": 351.52,
+      "duration": 4.36
+    },
+    {
+      "text": "it's not a female hormone we men produce",
+      "start": 353.68,
+      "duration": 4.28
+    },
+    {
+      "text": "estrogen um just like females do they",
+      "start": 355.88,
+      "duration": 3.879
+    },
+    {
+      "text": "just produce a higher amount but this",
+      "start": 357.96,
+      "duration": 3.48
+    },
+    {
+      "text": "amount that they produce renders them 10",
+      "start": 359.759,
+      "duration": 3.72
+    },
+    {
+      "text": "times more likely to have a thyroid",
+      "start": 361.44,
+      "duration": 4.16
+    },
+    {
+      "text": "issue or what's what's deemed an",
+      "start": 363.479,
+      "duration": 5.0
+    },
+    {
+      "text": "autoimmune type issue um so this has a",
+      "start": 365.6,
+      "duration": 4.48
+    },
+    {
+      "text": "specific effect on the liver as well",
+      "start": 368.479,
+      "duration": 3.601
+    },
+    {
+      "text": "because if you can't use your liver",
+      "start": 370.08,
+      "duration": 3.44
+    },
+    {
+      "text": "properly you can't metabolize and",
+      "start": 372.08,
+      "duration": 3.239
+    },
+    {
+      "text": "degrade estrogens properly you can't",
+      "start": 373.52,
+      "duration": 3.079
+    },
+    {
+      "text": "metabolize and degrade certain",
+      "start": 375.319,
+      "duration": 3.561
+    },
+    {
+      "text": "pollutants properly and this is why the",
+      "start": 376.599,
+      "duration": 4.481
+    },
+    {
+      "text": "liver often becomes the center of a",
+      "start": 378.88,
+      "duration": 3.68
+    },
+    {
+      "text": "problem that affects the whole body as",
+      "start": 381.08,
+      "duration": 4.36
+    },
+    {
+      "text": "well so I think it's kind of worth",
+      "start": 382.56,
+      "duration": 4.88
+    },
+    {
+      "text": "considering the fact that the that when",
+      "start": 385.44,
+      "duration": 4.8
+    },
+    {
+      "text": "hormones are disrupted any particular",
+      "start": 387.44,
+      "duration": 5.52
+    },
+    {
+      "text": "level the process of how we respond to",
+      "start": 390.24,
+      "duration": 6.16
+    },
+    {
+      "text": "certain viral assaults or insults as it",
+      "start": 392.96,
+      "duration": 6.0
+    },
+    {
+      "text": "were is is dependent on not just those",
+      "start": 396.4,
+      "duration": 5.0
+    },
+    {
+      "text": "but a multifactorial kind of you know",
+      "start": 398.96,
+      "duration": 4.76
+    },
+    {
+      "text": "load of issues um that can make us",
+      "start": 401.4,
+      "duration": 4.6
+    },
+    {
+      "text": "either able to respond to problems or or",
+      "start": 403.72,
+      "duration": 4.36
+    },
+    {
+      "text": "to succumb to them right that is so",
+      "start": 406.0,
+      "duration": 3.96
+    },
+    {
+      "text": "interesting I mean you you were talking",
+      "start": 408.08,
+      "duration": 3.8
+    },
+    {
+      "text": "about right at the start the the several",
+      "start": 409.96,
+      "duration": 3.6
+    },
+    {
+      "text": "different hormones that start in the",
+      "start": 411.88,
+      "duration": 3.92
+    },
+    {
+      "text": "back of the brain and and sort of Link",
+      "start": 413.56,
+      "duration": 4.96
+    },
+    {
+      "text": "all the way down to the thyroid and",
+      "start": 415.8,
+      "duration": 4.28
+    },
+    {
+      "text": "that's a lot of Link that could",
+      "start": 418.52,
+      "duration": 4.519
+    },
+    {
+      "text": "potentially go wrong as well isn't it",
+      "start": 420.08,
+      "duration": 4.44
+    },
+    {
+      "text": "yes and and and there should be kind of",
+      "start": 423.039,
+      "duration": 2.72
+    },
+    {
+      "text": "I I believe there should be more kind of",
+      "start": 424.52,
+      "duration": 3.48
+    },
+    {
+      "text": "automous conversion of thyroid hormones",
+      "start": 425.759,
+      "duration": 3.481
+    },
+    {
+      "text": "that are going on periphery throughout",
+      "start": 428.0,
+      "duration": 2.68
+    },
+    {
+      "text": "the body so we know that the liver the",
+      "start": 429.24,
+      "duration": 3.92
+    },
+    {
+      "text": "kidneys scal tissue and other organs all",
+      "start": 430.68,
+      "duration": 4.199
+    },
+    {
+      "text": "have thyroid receptors and are all able",
+      "start": 433.16,
+      "duration": 4.0
+    },
+    {
+      "text": "to convert T4 to T3 that this should be",
+      "start": 434.879,
+      "duration": 4.081
+    },
+    {
+      "text": "happening throughout the body and I",
+      "start": 437.16,
+      "duration": 3.2
+    },
+    {
+      "text": "would kind of look at the brain as a",
+      "start": 438.96,
+      "duration": 3.84
+    },
+    {
+      "text": "fallat mechanism if we look at say",
+      "start": 440.36,
+      "duration": 4.64
+    },
+    {
+      "text": "menopause as an example when when a",
+      "start": 442.8,
+      "duration": 4.399
+    },
+    {
+      "text": "woman goes through menopause the failure",
+      "start": 445.0,
+      "duration": 3.96
+    },
+    {
+      "text": "of the ovar is to secrete the the",
+      "start": 447.199,
+      "duration": 4.161
+    },
+    {
+      "text": "hormones like estrogens and uh",
+      "start": 448.96,
+      "duration": 4.239
+    },
+    {
+      "text": "progesterone you see an uppr regulation",
+      "start": 451.36,
+      "duration": 3.2
+    },
+    {
+      "text": "from the pituitary and lutenizing",
+      "start": 453.199,
+      "duration": 4.081
+    },
+    {
+      "text": "hormone and follicle stimulating hormone",
+      "start": 454.56,
+      "duration": 4.319
+    },
+    {
+      "text": "and it's the same with the thyroid when",
+      "start": 457.28,
+      "duration": 3.599
+    },
+    {
+      "text": "the thyroid is not producing enough or",
+      "start": 458.879,
+      "duration": 3.88
+    },
+    {
+      "text": "when the body's not you know converting",
+      "start": 460.879,
+      "duration": 3.76
+    },
+    {
+      "text": "it properly or perhaps there's even a",
+      "start": 462.759,
+      "duration": 3.44
+    },
+    {
+      "text": "block at the receptor because of of",
+      "start": 464.639,
+      "duration": 3.68
+    },
+    {
+      "text": "pollutants acting in that manner then",
+      "start": 466.199,
+      "duration": 4.201
+    },
+    {
+      "text": "you won't see that conversion going on",
+      "start": 468.319,
+      "duration": 3.801
+    },
+    {
+      "text": "or if you do the pituitary will then",
+      "start": 470.4,
+      "duration": 4.32
+    },
+    {
+      "text": "respond to produce TSH so that it will",
+      "start": 472.12,
+      "duration": 4.759
+    },
+    {
+      "text": "stimulate the thyroid hormone further of",
+      "start": 474.72,
+      "duration": 4.84
+    },
+    {
+      "text": "course yes and a lot of the sort of",
+      "start": 476.879,
+      "duration": 5.561
+    },
+    {
+      "text": "symptoms that you mentioned I mean",
+      "start": 479.56,
+      "duration": 5.44
+    },
+    {
+      "text": "people with long Co have have got you",
+      "start": 482.44,
+      "duration": 4.4
+    },
+    {
+      "text": "know lists of like 200 different",
+      "start": 485.0,
+      "duration": 3.8
+    },
+    {
+      "text": "symptoms but a lot of the ones that you",
+      "start": 486.84,
+      "duration": 4.56
+    },
+    {
+      "text": "mentioned are some of the most kind of",
+      "start": 488.8,
+      "duration": 4.44
+    },
+    {
+      "text": "common ones that people with long covid",
+      "start": 491.4,
+      "duration": 4.84
+    },
+    {
+      "text": "seem to describe and that doesn't seem",
+      "start": 493.24,
+      "duration": 4.239
+    },
+    {
+      "text": "like a",
+      "start": 496.24,
+      "duration": 4.2
+    },
+    {
+      "text": "coincidence no I I don't think so I I'll",
+      "start": 497.479,
+      "duration": 6.84
+    },
+    {
+      "text": "kind of go on a stance here without and",
+      "start": 500.44,
+      "duration": 5.199
+    },
+    {
+      "text": "and this statement isn't meant to",
+      "start": 504.319,
+      "duration": 2.761
+    },
+    {
+      "text": "diminish anyone's suffering because",
+      "start": 505.639,
+      "duration": 3.321
+    },
+    {
+      "text": "people all all experience suffering and",
+      "start": 507.08,
+      "duration": 4.32
+    },
+    {
+      "text": "and levels of illness that I don't think",
+      "start": 508.96,
+      "duration": 5.16
+    },
+    {
+      "text": "the idea of long covid as a diagnosis is",
+      "start": 511.4,
+      "duration": 4.639
+    },
+    {
+      "text": "is appropriate I think what we're",
+      "start": 514.12,
+      "duration": 4.279
+    },
+    {
+      "text": "looking at here it's like let's say for",
+      "start": 516.039,
+      "duration": 4.601
+    },
+    {
+      "text": "example you you have a crash and you",
+      "start": 518.399,
+      "duration": 5.32
+    },
+    {
+      "text": "break your leg and your your leg the way",
+      "start": 520.64,
+      "duration": 5.319
+    },
+    {
+      "text": "that it heals is dependent on what type",
+      "start": 523.719,
+      "duration": 4.12
+    },
+    {
+      "text": "of break have you experienced at the leg",
+      "start": 525.959,
+      "duration": 3.721
+    },
+    {
+      "text": "is it a spiral facture is it a",
+      "start": 527.839,
+      "duration": 4.161
+    },
+    {
+      "text": "relatively clean break was there Damage",
+      "start": 529.68,
+      "duration": 4.36
+    },
+    {
+      "text": "Done to the knee was there damage to any",
+      "start": 532.0,
+      "duration": 4.04
+    },
+    {
+      "text": "of the ankle ligaments so the recovery",
+      "start": 534.04,
+      "duration": 3.919
+    },
+    {
+      "text": "of that leg bone is going to dependent",
+      "start": 536.04,
+      "duration": 3.919
+    },
+    {
+      "text": "around the on the structures around it",
+      "start": 537.959,
+      "duration": 3.841
+    },
+    {
+      "text": "and if the leg is taking long longer to",
+      "start": 539.959,
+      "duration": 3.481
+    },
+    {
+      "text": "recover you wouldn't say you had long",
+      "start": 541.8,
+      "duration": 4.08
+    },
+    {
+      "text": "leg break so the idea is is that",
+      "start": 543.44,
+      "duration": 5.32
+    },
+    {
+      "text": "somebody has a specific deficit but what",
+      "start": 545.88,
+      "duration": 4.44
+    },
+    {
+      "text": "the deficit is is going to be",
+      "start": 548.76,
+      "duration": 3.68
+    },
+    {
+      "text": "problematic because we know that human",
+      "start": 550.32,
+      "duration": 4.04
+    },
+    {
+      "text": "physiology at this particular time is",
+      "start": 552.44,
+      "duration": 6.68
+    },
+    {
+      "text": "exposed to such a mill of pollutants",
+      "start": 554.36,
+      "duration": 6.919
+    },
+    {
+      "text": "environmentally uh we're inheriting",
+      "start": 559.12,
+      "duration": 3.839
+    },
+    {
+      "text": "stresses from our parents and we're",
+      "start": 561.279,
+      "duration": 4.361
+    },
+    {
+      "text": "accumulating their damage into Offspring",
+      "start": 562.959,
+      "duration": 5.281
+    },
+    {
+      "text": "depending on how you look at biology uh",
+      "start": 565.64,
+      "duration": 4.639
+    },
+    {
+      "text": "but as a rule you can accumulate damage",
+      "start": 568.24,
+      "duration": 3.599
+    },
+    {
+      "text": "and and pass on those traits to your",
+      "start": 570.279,
+      "duration": 4.56
+    },
+    {
+      "text": "Offspring so PCOS mothers often pass on",
+      "start": 571.839,
+      "duration": 6.281
+    },
+    {
+      "text": "PCOS type traits hypothyroid mothers and",
+      "start": 574.839,
+      "duration": 5.041
+    },
+    {
+      "text": "fathers pass on these traits to their",
+      "start": 578.12,
+      "duration": 3.52
+    },
+    {
+      "text": "offspring to the extent that they're",
+      "start": 579.88,
+      "duration": 3.44
+    },
+    {
+      "text": "going to express those traits will be",
+      "start": 581.64,
+      "duration": 3.12
+    },
+    {
+      "text": "dependent on the environment they're",
+      "start": 583.32,
+      "duration": 4.4
+    },
+    {
+      "text": "there in so it could be the nutrition",
+      "start": 584.76,
+      "duration": 5.96
+    },
+    {
+      "text": "that they're exposed to it could be the",
+      "start": 587.72,
+      "duration": 5.2
+    },
+    {
+      "text": "exposure in utero that they're exposed",
+      "start": 590.72,
+      "duration": 4.679
+    },
+    {
+      "text": "to during very key developmental stages",
+      "start": 592.92,
+      "duration": 5.72
+    },
+    {
+      "text": "of of life it could be the amount of air",
+      "start": 595.399,
+      "duration": 6.081
+    },
+    {
+      "text": "pollution the of water pollution even to",
+      "start": 598.64,
+      "duration": 5.199
+    },
+    {
+      "text": "a degree we could say tentatively the",
+      "start": 601.48,
+      "duration": 4.039
+    },
+    {
+      "text": "amount of electromagnetic stress that's",
+      "start": 603.839,
+      "duration": 3.601
+    },
+    {
+      "text": "going on in our environment all of these",
+      "start": 605.519,
+      "duration": 4.841
+    },
+    {
+      "text": "factors can converge and create specific",
+      "start": 607.44,
+      "duration": 6.88
+    },
+    {
+      "text": "deficits that would give someone a very",
+      "start": 610.36,
+      "duration": 5.96
+    },
+    {
+      "text": "much harder time to recover from say",
+      "start": 614.32,
+      "duration": 4.12
+    },
+    {
+      "text": "something like covid and if you look at",
+      "start": 616.32,
+      "duration": 4.88
+    },
+    {
+      "text": "the issues like uh what people experien",
+      "start": 618.44,
+      "duration": 4.8
+    },
+    {
+      "text": "I'm going to draw on a recent study that",
+      "start": 621.2,
+      "duration": 3.56
+    },
+    {
+      "text": "came out and it was a study I can't",
+      "start": 623.24,
+      "duration": 3.039
+    },
+    {
+      "text": "remember the author of paper but I can",
+      "start": 624.76,
+      "duration": 3.92
+    },
+    {
+      "text": "find it for anybody listening but it",
+      "start": 626.279,
+      "duration": 4.081
+    },
+    {
+      "text": "basically it had a control group of",
+      "start": 628.68,
+      "duration": 3.76
+    },
+    {
+      "text": "people that didn't have covid weren't",
+      "start": 630.36,
+      "duration": 4.279
+    },
+    {
+      "text": "suffering and then they had postco",
+      "start": 632.44,
+      "duration": 5.16
+    },
+    {
+      "text": "sufferers and so what you saw in that uh",
+      "start": 634.639,
+      "duration": 5.2
+    },
+    {
+      "text": "is that those who had covid or just just",
+      "start": 637.6,
+      "duration": 3.799
+    },
+    {
+      "text": "recovered from covid or they weren't",
+      "start": 639.839,
+      "duration": 3.68
+    },
+    {
+      "text": "recovered they all had symptoms which",
+      "start": 641.399,
+      "duration": 4.961
+    },
+    {
+      "text": "were fatigue you know breathing",
+      "start": 643.519,
+      "duration": 5.081
+    },
+    {
+      "text": "difficulties um we're talking about I",
+      "start": 646.36,
+      "duration": 4.4
+    },
+    {
+      "text": "think the control group was about 120",
+      "start": 648.6,
+      "duration": 3.919
+    },
+    {
+      "text": "and I think the covid sufferers was",
+      "start": 650.76,
+      "duration": 5.68
+    },
+    {
+      "text": "about 190 but for between 70 7 and 30%",
+      "start": 652.519,
+      "duration": 5.241
+    },
+    {
+      "text": "the main symptoms experienced were",
+      "start": 656.44,
+      "duration": 3.36
+    },
+    {
+      "text": "fatigue cognition",
+      "start": 657.76,
+      "duration": 3.56
+    },
+    {
+      "text": "uh breathing difficulties and they were",
+      "start": 659.8,
+      "duration": 2.76
+    },
+    {
+      "text": "the major ones and then there were much",
+      "start": 661.32,
+      "duration": 3.48
+    },
+    {
+      "text": "smaller ones of whether it was um",
+      "start": 662.56,
+      "duration": 4.719
+    },
+    {
+      "text": "processing of information and various",
+      "start": 664.8,
+      "duration": 3.88
+    },
+    {
+      "text": "other markers but then what they found",
+      "start": 667.279,
+      "duration": 2.521
+    },
+    {
+      "text": "is when they looked at the actual",
+      "start": 668.68,
+      "duration": 3.159
+    },
+    {
+      "text": "specific tests that you might look at",
+      "start": 669.8,
+      "duration": 3.32
+    },
+    {
+      "text": "and I'm going to read these because it's",
+      "start": 671.839,
+      "duration": 2.8
+    },
+    {
+      "text": "not something I'm I'm familiar with a",
+      "start": 673.12,
+      "duration": 4.0
+    },
+    {
+      "text": "lots of these tests um so you had the",
+      "start": 674.639,
+      "duration": 4.32
+    },
+    {
+      "text": "anti-nuclear body antibodies the",
+      "start": 677.12,
+      "duration": 4.279
+    },
+    {
+      "text": "rheumatoid factors the probe natural",
+      "start": 678.959,
+      "duration": 5.241
+    },
+    {
+      "text": "peptides uh troponin which is a heart",
+      "start": 681.399,
+      "duration": 4.641
+    },
+    {
+      "text": "damage one which is something I'm very",
+      "start": 684.2,
+      "duration": 4.199
+    },
+    {
+      "text": "well versed in and anti- cardiio lip and",
+      "start": 686.04,
+      "duration": 4.479
+    },
+    {
+      "text": "antibodies there was no difference",
+      "start": 688.399,
+      "duration": 4.041
+    },
+    {
+      "text": "between this the people who didn't have",
+      "start": 690.519,
+      "duration": 3.601
+    },
+    {
+      "text": "covid and the long covid sufferers they",
+      "start": 692.44,
+      "duration": 3.92
+    },
+    {
+      "text": "had the same values within the tests",
+      "start": 694.12,
+      "duration": 4.68
+    },
+    {
+      "text": "it's a very small study group 120 in the",
+      "start": 696.36,
+      "duration": 5.159
+    },
+    {
+      "text": "in the control and 190 in the in the",
+      "start": 698.8,
+      "duration": 4.479
+    },
+    {
+      "text": "sufferers and also there are other",
+      "start": 701.519,
+      "duration": 3.56
+    },
+    {
+      "text": "things the the the cognition the brain",
+      "start": 703.279,
+      "duration": 4.081
+    },
+    {
+      "text": "processing the mental aptitude they were",
+      "start": 705.079,
+      "duration": 3.641
+    },
+    {
+      "text": "all the same they had showed no",
+      "start": 707.36,
+      "duration": 3.32
+    },
+    {
+      "text": "difference between the control distance",
+      "start": 708.72,
+      "duration": 3.52
+    },
+    {
+      "text": "walked I think in there was no",
+      "start": 710.68,
+      "duration": 3.24
+    },
+    {
+      "text": "difference again in a six minutes test I",
+      "start": 712.24,
+      "duration": 5.76
+    },
+    {
+      "text": "think the uh non-sufferers W 600 or 590",
+      "start": 713.92,
+      "duration": 9.0
+    },
+    {
+      "text": "M and the sufferers had 560 meters so",
+      "start": 718.0,
+      "duration": 6.079
+    },
+    {
+      "text": "you can see that there's very little",
+      "start": 722.92,
+      "duration": 3.08
+    },
+    {
+      "text": "difference in in physical function now",
+      "start": 724.079,
+      "duration": 3.361
+    },
+    {
+      "text": "either these tests weren't the right",
+      "start": 726.0,
+      "duration": 4.8
+    },
+    {
+      "text": "tests to measure the deficits of what",
+      "start": 727.44,
+      "duration": 5.959
+    },
+    {
+      "text": "the person was actually experiencing or",
+      "start": 730.8,
+      "duration": 4.92
+    },
+    {
+      "text": "perhaps that there were just very",
+      "start": 733.399,
+      "duration": 4.961
+    },
+    {
+      "text": "substantial individual deficits that are",
+      "start": 735.72,
+      "duration": 4.6
+    },
+    {
+      "text": "are existing within each individual and",
+      "start": 738.36,
+      "duration": 4.919
+    },
+    {
+      "text": "they could be broad for example uh it",
+      "start": 740.32,
+      "duration": 4.6
+    },
+    {
+      "text": "could be a vitamin A deficiency from",
+      "start": 743.279,
+      "duration": 3.441
+    },
+    {
+      "text": "retinol you know if you're not getting",
+      "start": 744.92,
+      "duration": 3.8
+    },
+    {
+      "text": "foods that are rich in in in retinol",
+      "start": 746.72,
+      "duration": 4.52
+    },
+    {
+      "text": "like Li and other foods like that that's",
+      "start": 748.72,
+      "duration": 4.559
+    },
+    {
+      "text": "a key component of how your immune",
+      "start": 751.24,
+      "duration": 4.48
+    },
+    {
+      "text": "system functions now you know there's a",
+      "start": 753.279,
+      "duration": 4.24
+    },
+    {
+      "text": "trend with people going more vegetarian",
+      "start": 755.72,
+      "duration": 3.64
+    },
+    {
+      "text": "or vegan these days and shying away from",
+      "start": 757.519,
+      "duration": 4.481
+    },
+    {
+      "text": "kind of rich rich nutrient muscle meat",
+      "start": 759.36,
+      "duration": 4.719
+    },
+    {
+      "text": "so there's a cohort of people that might",
+      "start": 762.0,
+      "duration": 3.639
+    },
+    {
+      "text": "not be responding as well as they could",
+      "start": 764.079,
+      "duration": 5.161
+    },
+    {
+      "text": "do one huge one is progesterone",
+      "start": 765.639,
+      "duration": 6.601
+    },
+    {
+      "text": "deficiency now if you're a female and",
+      "start": 769.24,
+      "duration": 6.719
+    },
+    {
+      "text": "suffer from anything like PCOS PMS as an",
+      "start": 772.24,
+      "duration": 6.0
+    },
+    {
+      "text": "example alterations to your menstrual",
+      "start": 775.959,
+      "duration": 6.32
+    },
+    {
+      "text": "cycle fibroids endometriosis and other",
+      "start": 778.24,
+      "duration": 5.959
+    },
+    {
+      "text": "issues around that what might be a",
+      "start": 782.279,
+      "duration": 3.12
+    },
+    {
+      "text": "disturbed menstrual cycle or",
+      "start": 784.199,
+      "duration": 3.521
+    },
+    {
+      "text": "reproductive tissues it's quite likely",
+      "start": 785.399,
+      "duration": 4.68
+    },
+    {
+      "text": "that you have a progesterone deficiency",
+      "start": 787.72,
+      "duration": 4.16
+    },
+    {
+      "text": "usually mediated with a high estrogen",
+      "start": 790.079,
+      "duration": 4.76
+    },
+    {
+      "text": "value as well now as you you might know",
+      "start": 791.88,
+      "duration": 4.759
+    },
+    {
+      "text": "is that men often tend to Fair much",
+      "start": 794.839,
+      "duration": 3.721
+    },
+    {
+      "text": "worse than females in covid the",
+      "start": 796.639,
+      "duration": 4.76
+    },
+    {
+      "text": "mortality rate was higher in older males",
+      "start": 798.56,
+      "duration": 5.48
+    },
+    {
+      "text": "um and one of the theoretical papers",
+      "start": 801.399,
+      "duration": 4.481
+    },
+    {
+      "text": "that expands upon that is the idea is",
+      "start": 804.04,
+      "duration": 4.359
+    },
+    {
+      "text": "that men don't have enough progesterone",
+      "start": 805.88,
+      "duration": 4.319
+    },
+    {
+      "text": "they produce Prest gestone but they",
+      "start": 808.399,
+      "duration": 3.761
+    },
+    {
+      "text": "don't produce enough of it men produce",
+      "start": 810.199,
+      "duration": 3.44
+    },
+    {
+      "text": "estrogen as well but they don't produce",
+      "start": 812.16,
+      "duration": 3.0
+    },
+    {
+      "text": "anywhere near times the amount of",
+      "start": 813.639,
+      "duration": 3.76
+    },
+    {
+      "text": "females do now you could argue as well",
+      "start": 815.16,
+      "duration": 4.56
+    },
+    {
+      "text": "that in failing physiology you know that",
+      "start": 817.399,
+      "duration": 3.641
+    },
+    {
+      "text": "the older groups that suffered that had",
+      "start": 819.72,
+      "duration": 3.52
+    },
+    {
+      "text": "high mortality rates is that they were",
+      "start": 821.04,
+      "duration": 3.919
+    },
+    {
+      "text": "failing biology so there were various",
+      "start": 823.24,
+      "duration": 3.159
+    },
+    {
+      "text": "other aspects of function that we're",
+      "start": 824.959,
+      "duration": 3.481
+    },
+    {
+      "text": "declining so we know that those with",
+      "start": 826.399,
+      "duration": 4.721
+    },
+    {
+      "text": "metabolic syndrome hypertension diabetes",
+      "start": 828.44,
+      "duration": 5.44
+    },
+    {
+      "text": "suffered much worse these are all very",
+      "start": 831.12,
+      "duration": 5.639
+    },
+    {
+      "text": "substantial metabolic deficits that make",
+      "start": 833.88,
+      "duration": 4.92
+    },
+    {
+      "text": "any kind of viral insult you know we get",
+      "start": 836.759,
+      "duration": 5.121
+    },
+    {
+      "text": "a lot of people who who die from flu who",
+      "start": 838.8,
+      "duration": 5.12
+    },
+    {
+      "text": "their biology is declining so much they",
+      "start": 841.88,
+      "duration": 4.319
+    },
+    {
+      "text": "can't cope with a relatively common",
+      "start": 843.92,
+      "duration": 3.919
+    },
+    {
+      "text": "virus and that's what happens when",
+      "start": 846.199,
+      "duration": 4.041
+    },
+    {
+      "text": "biology becomes frail now with",
+      "start": 847.839,
+      "duration": 4.601
+    },
+    {
+      "text": "progesterone it actually provides a very",
+      "start": 850.24,
+      "duration": 5.36
+    },
+    {
+      "text": "potent antiviral uh component it's well",
+      "start": 852.44,
+      "duration": 6.0
+    },
+    {
+      "text": "known to restore neural function in the",
+      "start": 855.6,
+      "duration": 4.44
+    },
+    {
+      "text": "brain it's been used with traumatic",
+      "start": 858.44,
+      "duration": 3.92
+    },
+    {
+      "text": "brain injury the progesterone receptors",
+      "start": 860.04,
+      "duration": 4.32
+    },
+    {
+      "text": "are found in the epithelium of the nose",
+      "start": 862.36,
+      "duration": 4.44
+    },
+    {
+      "text": "and that they're used to uh helping to",
+      "start": 864.36,
+      "duration": 4.88
+    },
+    {
+      "text": "restore aspects of the immune system",
+      "start": 866.8,
+      "duration": 4.44
+    },
+    {
+      "text": "they improve microf fages and also",
+      "start": 869.24,
+      "duration": 4.159
+    },
+    {
+      "text": "phagocytosis and breakdown of viral",
+      "start": 871.24,
+      "duration": 4.92
+    },
+    {
+      "text": "particles um it restores aerobic",
+      "start": 873.399,
+      "duration": 4.44
+    },
+    {
+      "text": "metabolism which we mentioned just",
+      "start": 876.16,
+      "duration": 3.84
+    },
+    {
+      "text": "earlier on and that's your aerobic",
+      "start": 877.839,
+      "duration": 4.481
+    },
+    {
+      "text": "metabolism is is the key component of",
+      "start": 880.0,
+      "duration": 3.12
+    },
+    {
+      "text": "your",
+      "start": 882.32,
+      "duration": 2.84
+    },
+    {
+      "text": "physiology you need your aerobic",
+      "start": 883.12,
+      "duration": 4.12
+    },
+    {
+      "text": "metabolism to continue from birth",
+      "start": 885.16,
+      "duration": 4.039
+    },
+    {
+      "text": "through to death will fall back on the",
+      "start": 887.24,
+      "duration": 3.8
+    },
+    {
+      "text": "Anor robic system quite a lot when we're",
+      "start": 889.199,
+      "duration": 4.041
+    },
+    {
+      "text": "sprinting for buses Racing for last",
+      "start": 891.04,
+      "duration": 3.88
+    },
+    {
+      "text": "orders or the ice cream truck whatever",
+      "start": 893.24,
+      "duration": 3.68
+    },
+    {
+      "text": "it is right but we can't stay in that",
+      "start": 894.92,
+      "duration": 4.479
+    },
+    {
+      "text": "system forever we have to keep our",
+      "start": 896.92,
+      "duration": 4.88
+    },
+    {
+      "text": "complex physiology working and when our",
+      "start": 899.399,
+      "duration": 5.401
+    },
+    {
+      "text": "complex physiology breaks down this is",
+      "start": 901.8,
+      "duration": 4.68
+    },
+    {
+      "text": "why we get these kind of artifacts like",
+      "start": 904.8,
+      "duration": 4.24
+    },
+    {
+      "text": "metabolic syndrome you know hypoxia is a",
+      "start": 906.48,
+      "duration": 4.64
+    },
+    {
+      "text": "big one and progesterone reverses",
+      "start": 909.04,
+      "duration": 5.0
+    },
+    {
+      "text": "hypoxia it by that very mechanism of",
+      "start": 911.12,
+      "duration": 5.68
+    },
+    {
+      "text": "restoring aerobic metabolism hypoxia",
+      "start": 914.04,
+      "duration": 5.12
+    },
+    {
+      "text": "tends to occur and hypoxia is obviously",
+      "start": 916.8,
+      "duration": 4.839
+    },
+    {
+      "text": "its starvation of oxygen and if we",
+      "start": 919.16,
+      "duration": 4.919
+    },
+    {
+      "text": "starve the cells of oxygen we have to",
+      "start": 921.639,
+      "duration": 5.241
+    },
+    {
+      "text": "work anerobic if we work anerobic we",
+      "start": 924.079,
+      "duration": 5.041
+    },
+    {
+      "text": "produce loots of lactic acid the",
+      "start": 926.88,
+      "duration": 4.28
+    },
+    {
+      "text": "physiology becomes super super acidic",
+      "start": 929.12,
+      "duration": 4.12
+    },
+    {
+      "text": "and this breaks down function and",
+      "start": 931.16,
+      "duration": 4.56
+    },
+    {
+      "text": "further the amount of hypoxia because",
+      "start": 933.24,
+      "duration": 4.24
+    },
+    {
+      "text": "we're running off glycolysis a very",
+      "start": 935.72,
+      "duration": 3.52
+    },
+    {
+      "text": "inefficient form of energy if we're",
+      "start": 937.48,
+      "duration": 4.479
+    },
+    {
+      "text": "trying to rely on it now this hypoxia",
+      "start": 939.24,
+      "duration": 4.76
+    },
+    {
+      "text": "creates further Downstream problems",
+      "start": 941.959,
+      "duration": 4.44
+    },
+    {
+      "text": "which eventually leads to cell death",
+      "start": 944.0,
+      "duration": 4.16
+    },
+    {
+      "text": "what progesterone does it can rescue",
+      "start": 946.399,
+      "duration": 3.761
+    },
+    {
+      "text": "that just like many other things can can",
+      "start": 948.16,
+      "duration": 4.2
+    },
+    {
+      "text": "rescue that because it helps to restore",
+      "start": 950.16,
+      "duration": 4.64
+    },
+    {
+      "text": "aerobic metabolism so that at the end",
+      "start": 952.36,
+      "duration": 4.32
+    },
+    {
+      "text": "range of our energy production we",
+      "start": 954.8,
+      "duration": 3.24
+    },
+    {
+      "text": "produce energy which is in the form of",
+      "start": 956.68,
+      "duration": 4.399
+    },
+    {
+      "text": "ATP it's just our our energy compound we",
+      "start": 958.04,
+      "duration": 5.52
+    },
+    {
+      "text": "also produce water and carbon dioxide",
+      "start": 961.079,
+      "duration": 3.76
+    },
+    {
+      "text": "now if you're not producing enough",
+      "start": 963.56,
+      "duration": 3.24
+    },
+    {
+      "text": "carbon dioxide sometimes it's difficult",
+      "start": 964.839,
+      "duration": 4.641
+    },
+    {
+      "text": "for the oxygen to dissociate so once we",
+      "start": 966.8,
+      "duration": 4.719
+    },
+    {
+      "text": "need carbon dioxide we can have too much",
+      "start": 969.48,
+      "duration": 3.64
+    },
+    {
+      "text": "of it or too little of it at the same",
+      "start": 971.519,
+      "duration": 4.32
+    },
+    {
+      "text": "notion so having enough progesterone in",
+      "start": 973.12,
+      "duration": 4.92
+    },
+    {
+      "text": "the system or not having enough in the",
+      "start": 975.839,
+      "duration": 4.44
+    },
+    {
+      "text": "system were another primary reason why",
+      "start": 978.04,
+      "duration": 4.479
+    },
+    {
+      "text": "people suffered worse than others and I",
+      "start": 980.279,
+      "duration": 4.161
+    },
+    {
+      "text": "would also argue with with that in mind",
+      "start": 982.519,
+      "duration": 3.921
+    },
+    {
+      "text": "that there are probably many people that",
+      "start": 984.44,
+      "duration": 4.04
+    },
+    {
+      "text": "have the symptoms of long covid that may",
+      "start": 986.44,
+      "duration": 3.48
+    },
+    {
+      "text": "have something like a progesterone",
+      "start": 988.48,
+      "duration": 4.159
+    },
+    {
+      "text": "deficiency it could be a vitamin A",
+      "start": 989.92,
+      "duration": 4.56
+    },
+    {
+      "text": "deficit now if you go in the sun in any",
+      "start": 992.639,
+      "duration": 3.281
+    },
+    {
+      "text": "amount of time you'll need more vitamin",
+      "start": 994.48,
+      "duration": 4.12
+    },
+    {
+      "text": "A if you're under immune stress you'll",
+      "start": 995.92,
+      "duration": 6.0
+    },
+    {
+      "text": "need more vitamin A um the thyroid can",
+      "start": 998.6,
+      "duration": 5.56
+    },
+    {
+      "text": "be suppressed and I talk about the",
+      "start": 1001.92,
+      "duration": 4.0
+    },
+    {
+      "text": "thyroid as I said if you're getting",
+      "start": 1004.16,
+      "duration": 4.039
+    },
+    {
+      "text": "blood tests done and a lot of Studies",
+      "start": 1005.92,
+      "duration": 3.88
+    },
+    {
+      "text": "have looked at kind of people who are",
+      "start": 1008.199,
+      "duration": 3.721
+    },
+    {
+      "text": "going into intensive care and they were",
+      "start": 1009.8,
+      "duration": 3.839
+    },
+    {
+      "text": "looking at blood tests now if you're",
+      "start": 1011.92,
+      "duration": 3.64
+    },
+    {
+      "text": "looking at someone's thyroid test who's",
+      "start": 1013.639,
+      "duration": 3.68
+    },
+    {
+      "text": "under an extraordinary amount of",
+      "start": 1015.56,
+      "duration": 4.279
+    },
+    {
+      "text": "physiological even emot stress in some",
+      "start": 1017.319,
+      "duration": 4.281
+    },
+    {
+      "text": "cases you're producing a lot more",
+      "start": 1019.839,
+      "duration": 3.36
+    },
+    {
+      "text": "adrenaline and cortisol and that will",
+      "start": 1021.6,
+      "duration": 3.599
+    },
+    {
+      "text": "block the production of this pituitary",
+      "start": 1023.199,
+      "duration": 4.521
+    },
+    {
+      "text": "amount of of TSH so if you're going in",
+      "start": 1025.199,
+      "duration": 4.201
+    },
+    {
+      "text": "and saying oh that the thyroid looks",
+      "start": 1027.72,
+      "duration": 3.88
+    },
+    {
+      "text": "absolutely fine that's because you're",
+      "start": 1029.4,
+      "duration": 3.96
+    },
+    {
+      "text": "looking at it in a very stressed state",
+      "start": 1031.6,
+      "duration": 3.68
+    },
+    {
+      "text": "that the thy thyroid would be pushed",
+      "start": 1033.36,
+      "duration": 4.0
+    },
+    {
+      "text": "down because well the body will be",
+      "start": 1035.28,
+      "duration": 4.399
+    },
+    {
+      "text": "trying to run off adrenaline it's in it",
+      "start": 1037.36,
+      "duration": 3.679
+    },
+    {
+      "text": "it doesn't like what's happening to it",
+      "start": 1039.679,
+      "duration": 3.481
+    },
+    {
+      "text": "it's running off stress hormones and in",
+      "start": 1041.039,
+      "duration": 4.121
+    },
+    {
+      "text": "a way it's also not able to use this",
+      "start": 1043.16,
+      "duration": 4.519
+    },
+    {
+      "text": "Aerobic System efficiently and advanced",
+      "start": 1045.16,
+      "duration": 5.639
+    },
+    {
+      "text": "states of Co you sepsis because instead",
+      "start": 1047.679,
+      "duration": 5.481
+    },
+    {
+      "text": "of having programmed cell death which is",
+      "start": 1050.799,
+      "duration": 5.281
+    },
+    {
+      "text": "apoptosis a nice disordering",
+      "start": 1053.16,
+      "duration": 4.639
+    },
+    {
+      "text": "deconstruction of cells so that they're",
+      "start": 1056.08,
+      "duration": 3.88
+    },
+    {
+      "text": "kind of degraded and taken away what",
+      "start": 1057.799,
+      "duration": 3.961
+    },
+    {
+      "text": "tends to happen then is we get this kind",
+      "start": 1059.96,
+      "duration": 3.92
+    },
+    {
+      "text": "of loss of that and you'll get cell",
+      "start": 1061.76,
+      "duration": 4.32
+    },
+    {
+      "text": "necrosis when you get cell necrosis",
+      "start": 1063.88,
+      "duration": 4.56
+    },
+    {
+      "text": "you'll get sepsis when you get sepsis",
+      "start": 1066.08,
+      "duration": 4.719
+    },
+    {
+      "text": "you get all sorts happening like low",
+      "start": 1068.44,
+      "duration": 4.0
+    },
+    {
+      "text": "blood pressure but you basically get",
+      "start": 1070.799,
+      "duration": 3.521
+    },
+    {
+      "text": "this breakdown of aerobic metabolism",
+      "start": 1072.44,
+      "duration": 4.119
+    },
+    {
+      "text": "because the system has been so poisoned",
+      "start": 1074.32,
+      "duration": 4.28
+    },
+    {
+      "text": "so you know aspects like progesterone",
+      "start": 1076.559,
+      "duration": 3.841
+    },
+    {
+      "text": "can work against these things and there",
+      "start": 1078.6,
+      "duration": 3.92
+    },
+    {
+      "text": "are many many other things as well that",
+      "start": 1080.4,
+      "duration": 4.56
+    },
+    {
+      "text": "from a nutritional perspective uh for",
+      "start": 1082.52,
+      "duration": 4.48
+    },
+    {
+      "text": "example there have been a few studies",
+      "start": 1084.96,
+      "duration": 3.959
+    },
+    {
+      "text": "that have likened uh the severity of",
+      "start": 1087.0,
+      "duration": 5.24
+    },
+    {
+      "text": "covid to to an excess of fatty acids and",
+      "start": 1088.919,
+      "duration": 6.081
+    },
+    {
+      "text": "that that can be if you eating saturated",
+      "start": 1092.24,
+      "duration": 5.76
+    },
+    {
+      "text": "fat to excess but also unsaturated fat",
+      "start": 1095.0,
+      "duration": 4.44
+    },
+    {
+      "text": "saturated fat tends to be more",
+      "start": 1098.0,
+      "duration": 2.88
+    },
+    {
+      "text": "protective particularly when it's used",
+      "start": 1099.44,
+      "duration": 3.4
+    },
+    {
+      "text": "in within the Aerobic System and used as",
+      "start": 1100.88,
+      "duration": 3.799
+    },
+    {
+      "text": "a fuel because it produces less",
+      "start": 1102.84,
+      "duration": 4.04
+    },
+    {
+      "text": "metabolic byproducts when you cook with",
+      "start": 1104.679,
+      "duration": 3.721
+    },
+    {
+      "text": "coconut oil in the frying pan you'll",
+      "start": 1106.88,
+      "duration": 3.12
+    },
+    {
+      "text": "notice that it doesn't start smoking",
+      "start": 1108.4,
+      "duration": 3.399
+    },
+    {
+      "text": "until like a lot of the other ORS which",
+      "start": 1110.0,
+      "duration": 3.799
+    },
+    {
+      "text": "smoke very very quickly and produce kind",
+      "start": 1111.799,
+      "duration": 4.401
+    },
+    {
+      "text": "of what are called toxic aldhy and these",
+      "start": 1113.799,
+      "duration": 3.88
+    },
+    {
+      "text": "these breakdowns because when you heat",
+      "start": 1116.2,
+      "duration": 4.2
+    },
+    {
+      "text": "them they become quite toxic and when",
+      "start": 1117.679,
+      "duration": 5.12
+    },
+    {
+      "text": "that happens in the human body this can",
+      "start": 1120.4,
+      "duration": 4.2
+    },
+    {
+      "text": "cause problems because it breaks down",
+      "start": 1122.799,
+      "duration": 5.201
+    },
+    {
+      "text": "structures a lot easier and I I talk",
+      "start": 1124.6,
+      "duration": 4.48
+    },
+    {
+      "text": "about one of the blood tests that I",
+      "start": 1128.0,
+      "duration": 2.52
+    },
+    {
+      "text": "mentioned from that particular test",
+      "start": 1129.08,
+      "duration": 3.28
+    },
+    {
+      "text": "which is called anti cardiol lippin",
+      "start": 1130.52,
+      "duration": 4.0
+    },
+    {
+      "text": "antibodies now sometimes we produce",
+      "start": 1132.36,
+      "duration": 4.88
+    },
+    {
+      "text": "antibodies because tissues are damaged",
+      "start": 1134.52,
+      "duration": 4.48
+    },
+    {
+      "text": "and the body wants to take those tissues",
+      "start": 1137.24,
+      "duration": 4.28
+    },
+    {
+      "text": "away so that it's not being used for",
+      "start": 1139.0,
+      "duration": 5.72
+    },
+    {
+      "text": "further viral fuel or bacterial fuel or",
+      "start": 1141.52,
+      "duration": 5.44
+    },
+    {
+      "text": "even even cancers we we don't always",
+      "start": 1144.72,
+      "duration": 4.56
+    },
+    {
+      "text": "produce antibodies in response to to the",
+      "start": 1146.96,
+      "duration": 4.48
+    },
+    {
+      "text": "immune R it's it's also when the tissue",
+      "start": 1149.28,
+      "duration": 3.6
+    },
+    {
+      "text": "is being broken down and needs to be",
+      "start": 1151.44,
+      "duration": 4.119
+    },
+    {
+      "text": "sequestered away so it can't be used so",
+      "start": 1152.88,
+      "duration": 5.44
+    },
+    {
+      "text": "cardiol lippin is intimately linked",
+      "start": 1155.559,
+      "duration": 4.441
+    },
+    {
+      "text": "within what's perceived as a cell",
+      "start": 1158.32,
+      "duration": 5.479
+    },
+    {
+      "text": "membrane so if cardiol lipin is damaged",
+      "start": 1160.0,
+      "duration": 5.36
+    },
+    {
+      "text": "and it can tends to be damaged when",
+      "start": 1163.799,
+      "duration": 3.281
+    },
+    {
+      "text": "there's an excess of the unsaturated",
+      "start": 1165.36,
+      "duration": 3.96
+    },
+    {
+      "text": "fatty acids in this cell membrane right",
+      "start": 1167.08,
+      "duration": 4.36
+    },
+    {
+      "text": "so cardiol lipin if it's broken down",
+      "start": 1169.32,
+      "duration": 5.12
+    },
+    {
+      "text": "there'll be antibodies produced to",
+      "start": 1171.44,
+      "duration": 4.84
+    },
+    {
+      "text": "remove that from the surrounding",
+      "start": 1174.44,
+      "duration": 3.68
+    },
+    {
+      "text": "structures and the cell particularly at",
+      "start": 1176.28,
+      "duration": 4.6
+    },
+    {
+      "text": "this cell membrane border as well so if",
+      "start": 1178.12,
+      "duration": 4.679
+    },
+    {
+      "text": "you get an abundance of the unsaturated",
+      "start": 1180.88,
+      "duration": 4.52
+    },
+    {
+      "text": "fatty acids if you get somebody who's in",
+      "start": 1182.799,
+      "duration": 4.841
+    },
+    {
+      "text": "poor Nutritional Health if you get",
+      "start": 1185.4,
+      "duration": 3.8
+    },
+    {
+      "text": "somebody who's vitamin A deficient",
+      "start": 1187.64,
+      "duration": 2.96
+    },
+    {
+      "text": "progesterone deficient perhaps the",
+      "start": 1189.2,
+      "duration": 3.76
+    },
+    {
+      "text": "thyroids not working efficiently then we",
+      "start": 1190.6,
+      "duration": 4.24
+    },
+    {
+      "text": "can see an abundance of reasons and",
+      "start": 1192.96,
+      "duration": 3.32
+    },
+    {
+      "text": "there are more there are potentially",
+      "start": 1194.84,
+      "duration": 3.839
+    },
+    {
+      "text": "thousands more reasons it could be a",
+      "start": 1196.28,
+      "duration": 5.04
+    },
+    {
+      "text": "iium deficit it could be a zinc deficit",
+      "start": 1198.679,
+      "duration": 5.401
+    },
+    {
+      "text": "low vitamin D has been suggested as a",
+      "start": 1201.32,
+      "duration": 5.04
+    },
+    {
+      "text": "common theme in why people suffer and I",
+      "start": 1204.08,
+      "duration": 3.92
+    },
+    {
+      "text": "think that there are you know differing",
+      "start": 1206.36,
+      "duration": 3.64
+    },
+    {
+      "text": "reasons why some Studies have",
+      "start": 1208.0,
+      "duration": 3.679
+    },
+    {
+      "text": "particularly good effects and some don't",
+      "start": 1210.0,
+      "duration": 3.76
+    },
+    {
+      "text": "I mean if you're getting your vitamin D",
+      "start": 1211.679,
+      "duration": 4.321
+    },
+    {
+      "text": "from sunshine and you're getting a an",
+      "start": 1213.76,
+      "duration": 3.72
+    },
+    {
+      "text": "abundance of all the other rays that",
+      "start": 1216.0,
+      "duration": 3.12
+    },
+    {
+      "text": "have very healing capacities like red",
+      "start": 1217.48,
+      "duration": 3.36
+    },
+    {
+      "text": "and orange lights as an example in",
+      "start": 1219.12,
+      "duration": 3.559
+    },
+    {
+      "text": "yellow lights that's going to be very",
+      "start": 1220.84,
+      "duration": 3.719
+    },
+    {
+      "text": "different from just getting your your",
+      "start": 1222.679,
+      "duration": 3.921
+    },
+    {
+      "text": "vitamin D in a supplement which you get",
+      "start": 1224.559,
+      "duration": 4.521
+    },
+    {
+      "text": "from an ultraviolet ray so there are",
+      "start": 1226.6,
+      "duration": 4.36
+    },
+    {
+      "text": "there are different reasons why you know",
+      "start": 1229.08,
+      "duration": 3.52
+    },
+    {
+      "text": "Sunshine might be better than a vitamin",
+      "start": 1230.96,
+      "duration": 3.599
+    },
+    {
+      "text": "D supplement as an example but low",
+      "start": 1232.6,
+      "duration": 4.4
+    },
+    {
+      "text": "vitamin D has been implicated in Long CO",
+      "start": 1234.559,
+      "duration": 4.681
+    },
+    {
+      "text": "as well so I think just understanding",
+      "start": 1237.0,
+      "duration": 4.64
+    },
+    {
+      "text": "that you know whilst this idea that long",
+      "start": 1239.24,
+      "duration": 4.559
+    },
+    {
+      "text": "covid gives someone a name to what",
+      "start": 1241.64,
+      "duration": 5.24
+    },
+    {
+      "text": "they're feeling it could be a plethora",
+      "start": 1243.799,
+      "duration": 5.401
+    },
+    {
+      "text": "of reasons of just an individual",
+      "start": 1246.88,
+      "duration": 5.36
+    },
+    {
+      "text": "subjective deficit that needs restoring",
+      "start": 1249.2,
+      "duration": 5.2
+    },
+    {
+      "text": "yeah that's really interesting because",
+      "start": 1252.24,
+      "duration": 4.319
+    },
+    {
+      "text": "um there's just so many different things",
+      "start": 1254.4,
+      "duration": 3.88
+    },
+    {
+      "text": "that could have sort of tipped it off",
+      "start": 1256.559,
+      "duration": 4.24
+    },
+    {
+      "text": "yes and and it's you know exploded in",
+      "start": 1258.28,
+      "duration": 5.56
+    },
+    {
+      "text": "this big pile of of different symptoms",
+      "start": 1260.799,
+      "duration": 4.321
+    },
+    {
+      "text": "that seem to be different in every",
+      "start": 1263.84,
+      "duration": 4.079
+    },
+    {
+      "text": "single person so that I suppose the fact",
+      "start": 1265.12,
+      "duration": 3.96
+    },
+    {
+      "text": "that there are all sorts of different",
+      "start": 1267.919,
+      "duration": 2.201
+    },
+    {
+      "text": "things that could potentially have",
+      "start": 1269.08,
+      "duration": 4.199
+    },
+    {
+      "text": "triggered it um it sort of seems obvious",
+      "start": 1270.12,
+      "duration": 6.2
+    },
+    {
+      "text": "when you point it out yes well I I think",
+      "start": 1273.279,
+      "duration": 5.28
+    },
+    {
+      "text": "so and I think the problem is I know",
+      "start": 1276.32,
+      "duration": 3.52
+    },
+    {
+      "text": "I've kind of done a reasonable amount of",
+      "start": 1278.559,
+      "duration": 5.681
+    },
+    {
+      "text": "reading on the failures between industry",
+      "start": 1279.84,
+      "duration": 7.24
+    },
+    {
+      "text": "and medicine and you know if I would",
+      "start": 1284.24,
+      "duration": 4.4
+    },
+    {
+      "text": "encourage people to go and read some",
+      "start": 1287.08,
+      "duration": 3.8
+    },
+    {
+      "text": "really interesting books medical Nemesis",
+      "start": 1288.64,
+      "duration": 4.48
+    },
+    {
+      "text": "by even illich is is one and he wrote",
+      "start": 1290.88,
+      "duration": 4.24
+    },
+    {
+      "text": "that back in 71 and I think his writings",
+      "start": 1293.12,
+      "duration": 5.12
+    },
+    {
+      "text": "are so on point for what's been going on",
+      "start": 1295.12,
+      "duration": 7.0
+    },
+    {
+      "text": "recently but his idea is like you know",
+      "start": 1298.24,
+      "duration": 5.559
+    },
+    {
+      "text": "the creation of trying to create a",
+      "start": 1302.12,
+      "duration": 4.159
+    },
+    {
+      "text": "customer from CR or to Grave by kind of",
+      "start": 1303.799,
+      "duration": 4.721
+    },
+    {
+      "text": "you know the diagnosis rather than just",
+      "start": 1306.279,
+      "duration": 4.28
+    },
+    {
+      "text": "saying someone's unwell and it's it's",
+      "start": 1308.52,
+      "duration": 3.48
+    },
+    {
+      "text": "almost like doing away with kind of the",
+      "start": 1310.559,
+      "duration": 3.321
+    },
+    {
+      "text": "older kind of cures where people were",
+      "start": 1312.0,
+      "duration": 4.36
+    },
+    {
+      "text": "encouraged to kind of you know rest and",
+      "start": 1313.88,
+      "duration": 3.76
+    },
+    {
+      "text": "but we're constantly looking for a name",
+      "start": 1316.36,
+      "duration": 2.919
+    },
+    {
+      "text": "and a treatment that has to work and",
+      "start": 1317.64,
+      "duration": 3.919
+    },
+    {
+      "text": "that doesn't always seem to pan out and",
+      "start": 1319.279,
+      "duration": 5.041
+    },
+    {
+      "text": "again other books like drugs for Life by",
+      "start": 1321.559,
+      "duration": 5.12
+    },
+    {
+      "text": "Joseph dummit it just looks at how PE",
+      "start": 1324.32,
+      "duration": 4.239
+    },
+    {
+      "text": "you know the the hook for getting people",
+      "start": 1326.679,
+      "duration": 3.961
+    },
+    {
+      "text": "in and kind of diagnosing and getting",
+      "start": 1328.559,
+      "duration": 3.641
+    },
+    {
+      "text": "putting people onto a specific",
+      "start": 1330.64,
+      "duration": 3.68
+    },
+    {
+      "text": "medication and I just don't think that's",
+      "start": 1332.2,
+      "duration": 4.359
+    },
+    {
+      "text": "helpful Because unless you've got the",
+      "start": 1334.32,
+      "duration": 4.959
+    },
+    {
+      "text": "foundation of nutrition right unless",
+      "start": 1336.559,
+      "duration": 4.161
+    },
+    {
+      "text": "you've got the foundation of being able",
+      "start": 1339.279,
+      "duration": 3.961
+    },
+    {
+      "text": "to look after yourself right it becomes",
+      "start": 1340.72,
+      "duration": 4.319
+    },
+    {
+      "text": "like just you know the little boy trying",
+      "start": 1343.24,
+      "duration": 3.64
+    },
+    {
+      "text": "to plug the holes in the diet when when",
+      "start": 1345.039,
+      "duration": 3.281
+    },
+    {
+      "text": "you're just kind of trying to look at",
+      "start": 1346.88,
+      "duration": 3.64
+    },
+    {
+      "text": "one one magic button and that magic",
+      "start": 1348.32,
+      "duration": 4.44
+    },
+    {
+      "text": "magic button just never really works and",
+      "start": 1350.52,
+      "duration": 3.44
+    },
+    {
+      "text": "don't get me wrong there can be some",
+      "start": 1352.76,
+      "duration": 2.76
+    },
+    {
+      "text": "magic magic buttons for some people",
+      "start": 1353.96,
+      "duration": 2.959
+    },
+    {
+      "text": "right there's something that's missing",
+      "start": 1355.52,
+      "duration": 2.56
+    },
+    {
+      "text": "and it's going that was the thing that",
+      "start": 1356.919,
+      "duration": 3.12
+    },
+    {
+      "text": "was missing for me but you have to get",
+      "start": 1358.08,
+      "duration": 3.36
+    },
+    {
+      "text": "this foundational aspect right of",
+      "start": 1360.039,
+      "duration": 4.52
+    },
+    {
+      "text": "nutrition good sleep time in the sun",
+      "start": 1361.44,
+      "duration": 5.119
+    },
+    {
+      "text": "meaningful relationships you know a",
+      "start": 1364.559,
+      "duration": 4.6
+    },
+    {
+      "text": "worthwhile kind of vocation and all the",
+      "start": 1366.559,
+      "duration": 4.761
+    },
+    {
+      "text": "other things that that kind of mean that",
+      "start": 1369.159,
+      "duration": 4.0
+    },
+    {
+      "text": "you live life reasonably well I I I",
+      "start": 1371.32,
+      "duration": 4.479
+    },
+    {
+      "text": "think sometimes that if you don't have",
+      "start": 1373.159,
+      "duration": 5.681
+    },
+    {
+      "text": "that then it's it becomes diff ult to",
+      "start": 1375.799,
+      "duration": 4.961
+    },
+    {
+      "text": "find a solution for some people I mean",
+      "start": 1378.84,
+      "duration": 3.16
+    },
+    {
+      "text": "you were talking about how kind of",
+      "start": 1380.76,
+      "duration": 3.6
+    },
+    {
+      "text": "breathing was particularly instrumental",
+      "start": 1382.0,
+      "duration": 4.279
+    },
+    {
+      "text": "in helping you and I've used bag",
+      "start": 1384.36,
+      "duration": 3.4
+    },
+    {
+      "text": "breathing just breathing into a paper",
+      "start": 1386.279,
+      "duration": 4.121
+    },
+    {
+      "text": "bag with so many clients for stimulating",
+      "start": 1387.76,
+      "duration": 5.24
+    },
+    {
+      "text": "altitude because when you live closer at",
+      "start": 1390.4,
+      "duration": 4.84
+    },
+    {
+      "text": "sea level you have a lot more oxygen",
+      "start": 1393.0,
+      "duration": 4.76
+    },
+    {
+      "text": "available but you need carbon dioxide to",
+      "start": 1395.24,
+      "duration": 5.52
+    },
+    {
+      "text": "help oxygen dissociate efficiently and",
+      "start": 1397.76,
+      "duration": 4.84
+    },
+    {
+      "text": "what you don't want sometimes is hyper",
+      "start": 1400.76,
+      "duration": 3.519
+    },
+    {
+      "text": "oxygenated States because that's just as",
+      "start": 1402.6,
+      "duration": 4.319
+    },
+    {
+      "text": "bad as low oxygen and hypoxia it's about",
+      "start": 1404.279,
+      "duration": 5.041
+    },
+    {
+      "text": "getting that balance in between and bag",
+      "start": 1406.919,
+      "duration": 4.841
+    },
+    {
+      "text": "breathing stimulates this kind of high",
+      "start": 1409.32,
+      "duration": 5.359
+    },
+    {
+      "text": "altitude or higher altitude type effect",
+      "start": 1411.76,
+      "duration": 4.519
+    },
+    {
+      "text": "depending on how long you breathe into",
+      "start": 1414.679,
+      "duration": 4.201
+    },
+    {
+      "text": "it for but I've seen you know blood",
+      "start": 1416.279,
+      "duration": 4.64
+    },
+    {
+      "text": "glucose responses improve I've seen",
+      "start": 1418.88,
+      "duration": 4.76
+    },
+    {
+      "text": "sleep improve I've seen aspects of",
+      "start": 1420.919,
+      "duration": 5.481
+    },
+    {
+      "text": "energy improve menopausal clients who",
+      "start": 1423.64,
+      "duration": 4.6
+    },
+    {
+      "text": "are getting hot sweats that can be a",
+      "start": 1426.4,
+      "duration": 3.48
+    },
+    {
+      "text": "relationship between kind of again low",
+      "start": 1428.24,
+      "duration": 3.88
+    },
+    {
+      "text": "progesterone not high estrogen mind you",
+      "start": 1429.88,
+      "duration": 4.039
+    },
+    {
+      "text": "and the bag breathing can help to to",
+      "start": 1432.12,
+      "duration": 4.24
+    },
+    {
+      "text": "ameliorate that because sometimes when",
+      "start": 1433.919,
+      "duration": 4.561
+    },
+    {
+      "text": "you have excesses of nitric oxide and",
+      "start": 1436.36,
+      "duration": 3.48
+    },
+    {
+      "text": "everyone thinks nitric oxide is really",
+      "start": 1438.48,
+      "duration": 3.439
+    },
+    {
+      "text": "really good but again nitric oxide in",
+      "start": 1439.84,
+      "duration": 4.079
+    },
+    {
+      "text": "excess can cause problems and bag",
+      "start": 1441.919,
+      "duration": 3.561
+    },
+    {
+      "text": "breathing can help to kind of have the",
+      "start": 1443.919,
+      "duration": 3.081
+    },
+    {
+      "text": "same effect without these rampant",
+      "start": 1445.48,
+      "duration": 3.84
+    },
+    {
+      "text": "increases in nitric oxide that can cause",
+      "start": 1447.0,
+      "duration": 4.24
+    },
+    {
+      "text": "hot flushes and and all of the other",
+      "start": 1449.32,
+      "duration": 3.68
+    },
+    {
+      "text": "unwanted symptoms and and issues",
+      "start": 1451.24,
+      "duration": 3.84
+    },
+    {
+      "text": "associated with that so again it's just",
+      "start": 1453.0,
+      "duration": 4.279
+    },
+    {
+      "text": "finding that right thing I think yeah",
+      "start": 1455.08,
+      "duration": 3.56
+    },
+    {
+      "text": "that I mean that's really interesting",
+      "start": 1457.279,
+      "duration": 3.201
+    },
+    {
+      "text": "because from everything that I have",
+      "start": 1458.64,
+      "duration": 4.279
+    },
+    {
+      "text": "discovered from my own experiences and",
+      "start": 1460.48,
+      "duration": 4.0
+    },
+    {
+      "text": "from speaking to other people that have",
+      "start": 1462.919,
+      "duration": 3.441
+    },
+    {
+      "text": "recovered or that are you know that",
+      "start": 1464.48,
+      "duration": 4.199
+    },
+    {
+      "text": "things are improving it's always seems",
+      "start": 1466.36,
+      "duration": 4.919
+    },
+    {
+      "text": "to have been sort of improving this and",
+      "start": 1468.679,
+      "duration": 4.041
+    },
+    {
+      "text": "working on that and doing a little bit",
+      "start": 1471.279,
+      "duration": 2.801
+    },
+    {
+      "text": "of this and a little bit of that and",
+      "start": 1472.72,
+      "duration": 3.16
+    },
+    {
+      "text": "just kind of you know tipping your body",
+      "start": 1474.08,
+      "duration": 4.16
+    },
+    {
+      "text": "kind of back into balance and you know",
+      "start": 1475.88,
+      "duration": 5.24
+    },
+    {
+      "text": "it happens gradually and you know some",
+      "start": 1478.24,
+      "duration": 5.0
+    },
+    {
+      "text": "things have helped more than others but",
+      "start": 1481.12,
+      "duration": 3.72
+    },
+    {
+      "text": "you know it's it's all about kind of",
+      "start": 1483.24,
+      "duration": 4.48
+    },
+    {
+      "text": "trying to get that kind of um yeah well",
+      "start": 1484.84,
+      "duration": 4.36
+    },
+    {
+      "text": "balance I guess the word that was the",
+      "start": 1487.72,
+      "duration": 3.52
+    },
+    {
+      "text": "word you used wasn't it you know right",
+      "start": 1489.2,
+      "duration": 5.12
+    },
+    {
+      "text": "for your health to kind of tip back from",
+      "start": 1491.24,
+      "duration": 7.2
+    },
+    {
+      "text": "Bad into the the good Zone I guess yes",
+      "start": 1494.32,
+      "duration": 6.239
+    },
+    {
+      "text": "then sometimes what people I think need",
+      "start": 1498.44,
+      "duration": 3.719
+    },
+    {
+      "text": "to do sometimes is not try and overwhelm",
+      "start": 1500.559,
+      "duration": 3.081
+    },
+    {
+      "text": "the system by trying to do too many",
+      "start": 1502.159,
+      "duration": 3.681
+    },
+    {
+      "text": "things at once because then you don't",
+      "start": 1503.64,
+      "duration": 3.399
+    },
+    {
+      "text": "know what's working you don't know",
+      "start": 1505.84,
+      "duration": 2.4
+    },
+    {
+      "text": "what's working and then you're kind of",
+      "start": 1507.039,
+      "duration": 3.161
+    },
+    {
+      "text": "back at square one sometimes I get",
+      "start": 1508.24,
+      "duration": 3.439
+    },
+    {
+      "text": "clients in that start they come to me",
+      "start": 1510.2,
+      "duration": 2.64
+    },
+    {
+      "text": "and they're already taking like 15",
+      "start": 1511.679,
+      "duration": 2.801
+    },
+    {
+      "text": "different supplements and it's like well",
+      "start": 1512.84,
+      "duration": 3.52
+    },
+    {
+      "text": "let's just stop that and and and kind of",
+      "start": 1514.48,
+      "duration": 4.24
+    },
+    {
+      "text": "Weedle it back a bit I think also using",
+      "start": 1516.36,
+      "duration": 4.48
+    },
+    {
+      "text": "kind of very basic diagnostic tests",
+      "start": 1518.72,
+      "duration": 3.52
+    },
+    {
+      "text": "which I've been using for a really long",
+      "start": 1520.84,
+      "duration": 3.92
+    },
+    {
+      "text": "time I use body temperature and pulse to",
+      "start": 1522.24,
+      "duration": 4.72
+    },
+    {
+      "text": "get a a general overview of someone's",
+      "start": 1524.76,
+      "duration": 4.32
+    },
+    {
+      "text": "kind of metabolic health um it doesn't",
+      "start": 1526.96,
+      "duration": 4.12
+    },
+    {
+      "text": "give me all of the things but if",
+      "start": 1529.08,
+      "duration": 3.56
+    },
+    {
+      "text": "someone's coming in with a low body",
+      "start": 1531.08,
+      "duration": 3.56
+    },
+    {
+      "text": "temperature all the time and i' imagine",
+      "start": 1532.64,
+      "duration": 3.279
+    },
+    {
+      "text": "there are quite a few people with kind",
+      "start": 1534.64,
+      "duration": 2.56
+    },
+    {
+      "text": "of these kind of long covid likee",
+      "start": 1535.919,
+      "duration": 3.081
+    },
+    {
+      "text": "symptoms that suffer from fatigue and",
+      "start": 1537.2,
+      "duration": 3.88
+    },
+    {
+      "text": "brain fog and when you go and test their",
+      "start": 1539.0,
+      "duration": 4.12
+    },
+    {
+      "text": "body temperature they're often nowhere",
+      "start": 1541.08,
+      "duration": 4.68
+    },
+    {
+      "text": "near the 37 degrees that they need to be",
+      "start": 1543.12,
+      "duration": 4.439
+    },
+    {
+      "text": "now mammals regulate their body",
+      "start": 1545.76,
+      "duration": 4.799
+    },
+    {
+      "text": "temperature a very fine window I've R",
+      "start": 1547.559,
+      "duration": 6.921
+    },
+    {
+      "text": "about 37 degrees throughout the year now",
+      "start": 1550.559,
+      "duration": 4.881
+    },
+    {
+      "text": "there again there was a really",
+      "start": 1554.48,
+      "duration": 2.439
+    },
+    {
+      "text": "interesting paper they found that people",
+      "start": 1555.44,
+      "duration": 3.119
+    },
+    {
+      "text": "with a lower body temperature was just",
+      "start": 1556.919,
+      "duration": 2.921
+    },
+    {
+      "text": "suggested because it's not it was an",
+      "start": 1558.559,
+      "duration": 2.681
+    },
+    {
+      "text": "observational study there's no",
+      "start": 1559.84,
+      "duration": 3.0
+    },
+    {
+      "text": "interventions with it but what they",
+      "start": 1561.24,
+      "duration": 3.559
+    },
+    {
+      "text": "found that was that people with lower",
+      "start": 1562.84,
+      "duration": 4.4
+    },
+    {
+      "text": "body temperatures that came in with",
+      "start": 1564.799,
+      "duration": 5.201
+    },
+    {
+      "text": "severe covid and were unable to regulate",
+      "start": 1567.24,
+      "duration": 4.319
+    },
+    {
+      "text": "their temperature and often went",
+      "start": 1570.0,
+      "duration": 3.679
+    },
+    {
+      "text": "excessively higher you know towards the",
+      "start": 1571.559,
+      "duration": 3.761
+    },
+    {
+      "text": "40 degree Mark were the people that had",
+      "start": 1573.679,
+      "duration": 4.12
+    },
+    {
+      "text": "the worst outcomes now I I would posit",
+      "start": 1575.32,
+      "duration": 4.2
+    },
+    {
+      "text": "that that one of the primary reasons of",
+      "start": 1577.799,
+      "duration": 3.321
+    },
+    {
+      "text": "that is that their low metabolic rate",
+      "start": 1579.52,
+      "duration": 3.56
+    },
+    {
+      "text": "means that they're colder when you're",
+      "start": 1581.12,
+      "duration": 3.919
+    },
+    {
+      "text": "colder the thyroid might be a driving",
+      "start": 1583.08,
+      "duration": 4.319
+    },
+    {
+      "text": "force behind that um because the thyroid",
+      "start": 1585.039,
+      "duration": 4.041
+    },
+    {
+      "text": "is instrumental in in the body up it",
+      "start": 1587.399,
+      "duration": 3.121
+    },
+    {
+      "text": "creates this part of the aerobic",
+      "start": 1589.08,
+      "duration": 3.12
+    },
+    {
+      "text": "metabolism that keeps you warm and you",
+      "start": 1590.52,
+      "duration": 3.279
+    },
+    {
+      "text": "able to regulate your energy from food",
+      "start": 1592.2,
+      "duration": 4.32
+    },
+    {
+      "text": "stuffs amongst other things and so if",
+      "start": 1593.799,
+      "duration": 4.76
+    },
+    {
+      "text": "you're colder you tend to be more",
+      "start": 1596.52,
+      "duration": 4.84
+    },
+    {
+      "text": "disorganized your ability to to",
+      "start": 1598.559,
+      "duration": 4.681
+    },
+    {
+      "text": "sometimes move is decreased not saying",
+      "start": 1601.36,
+      "duration": 3.28
+    },
+    {
+      "text": "move but you know your ability to",
+      "start": 1603.24,
+      "duration": 3.28
+    },
+    {
+      "text": "contract and relax muscles is",
+      "start": 1604.64,
+      "duration": 4.08
+    },
+    {
+      "text": "decreased sometimes you see that your",
+      "start": 1606.52,
+      "duration": 4.159
+    },
+    {
+      "text": "cardiovascular system doesn't respond as",
+      "start": 1608.72,
+      "duration": 4.28
+    },
+    {
+      "text": "efficiently you'll see things like the",
+      "start": 1610.679,
+      "duration": 4.761
+    },
+    {
+      "text": "heart slow down a little bit and go kind",
+      "start": 1613.0,
+      "duration": 4.48
+    },
+    {
+      "text": "of lower I think a normal healthy heart",
+      "start": 1615.44,
+      "duration": 4.16
+    },
+    {
+      "text": "rate is around about 70 to 85 beats per",
+      "start": 1617.48,
+      "duration": 4.439
+    },
+    {
+      "text": "minute and when it goes lower than that",
+      "start": 1619.6,
+      "duration": 3.76
+    },
+    {
+      "text": "and you've got low body temperatures",
+      "start": 1621.919,
+      "duration": 3.081
+    },
+    {
+      "text": "that could be a sign that your thyroids",
+      "start": 1623.36,
+      "duration": 3.48
+    },
+    {
+      "text": "not working efficiently equally your",
+      "start": 1625.0,
+      "duration": 3.159
+    },
+    {
+      "text": "heart rate could be higher because",
+      "start": 1626.84,
+      "duration": 3.199
+    },
+    {
+      "text": "you've been stuck in the stress response",
+      "start": 1628.159,
+      "duration": 3.52
+    },
+    {
+      "text": "for so long trying to compensate for",
+      "start": 1630.039,
+      "duration": 3.481
+    },
+    {
+      "text": "that you might be running off more off",
+      "start": 1631.679,
+      "duration": 3.36
+    },
+    {
+      "text": "adrenaline so that there are very",
+      "start": 1633.52,
+      "duration": 3.2
+    },
+    {
+      "text": "different nuances to that but using",
+      "start": 1635.039,
+      "duration": 3.64
+    },
+    {
+      "text": "something like temperature and heart",
+      "start": 1636.72,
+      "duration": 4.959
+    },
+    {
+      "text": "rate on waking compare it to then after",
+      "start": 1638.679,
+      "duration": 5.041
+    },
+    {
+      "text": "you've had something to eat say 45 to 60",
+      "start": 1641.679,
+      "duration": 3.88
+    },
+    {
+      "text": "Minutes afterwards that can be just one",
+      "start": 1643.72,
+      "duration": 4.199
+    },
+    {
+      "text": "of a few basic things that you can do to",
+      "start": 1645.559,
+      "duration": 4.48
+    },
+    {
+      "text": "anal ize your health yourself and say",
+      "start": 1647.919,
+      "duration": 4.041
+    },
+    {
+      "text": "well hang on I'm I'm eating food but my",
+      "start": 1650.039,
+      "duration": 4.081
+    },
+    {
+      "text": "body temperature is below 36 de that",
+      "start": 1651.96,
+      "duration": 4.36
+    },
+    {
+      "text": "could be a an indicator of something not",
+      "start": 1654.12,
+      "duration": 3.439
+    },
+    {
+      "text": "functioning and that's not a test that",
+      "start": 1656.32,
+      "duration": 3.4
+    },
+    {
+      "text": "generally a lot of people look at if",
+      "start": 1657.559,
+      "duration": 3.921
+    },
+    {
+      "text": "you're interested in thyroid function a",
+      "start": 1659.72,
+      "duration": 3.0
+    },
+    {
+      "text": "lot of people who are interested in",
+      "start": 1661.48,
+      "duration": 3.84
+    },
+    {
+      "text": "thyroid function will take the uh",
+      "start": 1662.72,
+      "duration": 4.799
+    },
+    {
+      "text": "thyroid tests with a pinch of salt",
+      "start": 1665.32,
+      "duration": 4.8
+    },
+    {
+      "text": "sometimes and look at more the aspect of",
+      "start": 1667.519,
+      "duration": 4.28
+    },
+    {
+      "text": "of temperature puls rate but what are",
+      "start": 1670.12,
+      "duration": 3.24
+    },
+    {
+      "text": "the symptoms that are driving someone",
+      "start": 1671.799,
+      "duration": 3.961
+    },
+    {
+      "text": "it's all very good looking at a clinical",
+      "start": 1673.36,
+      "duration": 4.36
+    },
+    {
+      "text": "biochemistry test and everything looks",
+      "start": 1675.76,
+      "duration": 4.24
+    },
+    {
+      "text": "absolutely fine but if you have no idea",
+      "start": 1677.72,
+      "duration": 3.4
+    },
+    {
+      "text": "what the person is eating what their",
+      "start": 1680.0,
+      "duration": 2.679
+    },
+    {
+      "text": "sleep was like the night before how much",
+      "start": 1681.12,
+      "duration": 3.159
+    },
+    {
+      "text": "pollutant are exposed to in any given",
+      "start": 1682.679,
+      "duration": 3.48
+    },
+    {
+      "text": "environment how much perceived stress",
+      "start": 1684.279,
+      "duration": 3.681
+    },
+    {
+      "text": "they're under that blood test can mean",
+      "start": 1686.159,
+      "duration": 4.12
+    },
+    {
+      "text": "absolutely nothing yeah I mean I think",
+      "start": 1687.96,
+      "duration": 4.48
+    },
+    {
+      "text": "one of the chief frustrations uh with a",
+      "start": 1690.279,
+      "duration": 4.481
+    },
+    {
+      "text": "lot of people that I've spoken to and",
+      "start": 1692.44,
+      "duration": 4.32
+    },
+    {
+      "text": "and I've heard from is that the tests",
+      "start": 1694.76,
+      "duration": 3.399
+    },
+    {
+      "text": "are coming back normal but they still",
+      "start": 1696.76,
+      "duration": 3.72
+    },
+    {
+      "text": "feel really ill which is frustrating",
+      "start": 1698.159,
+      "duration": 3.561
+    },
+    {
+      "text": "because you know everybody's telling you",
+      "start": 1700.48,
+      "duration": 2.84
+    },
+    {
+      "text": "that you're fine but you know you know",
+      "start": 1701.72,
+      "duration": 3.199
+    },
+    {
+      "text": "very well that you're not because you",
+      "start": 1703.32,
+      "duration": 3.959
+    },
+    {
+      "text": "know you your symptoms are there but",
+      "start": 1704.919,
+      "duration": 5.041
+    },
+    {
+      "text": "also this idea of normal isn't",
+      "start": 1707.279,
+      "duration": 5.24
+    },
+    {
+      "text": "necessarily optimal uh and I'm sure I",
+      "start": 1709.96,
+      "duration": 4.04
+    },
+    {
+      "text": "was chatting about this I think it was",
+      "start": 1712.519,
+      "duration": 2.481
+    },
+    {
+      "text": "with somebody we were talking about",
+      "start": 1714.0,
+      "duration": 3.039
+    },
+    {
+      "text": "nutrition and she was talking about you",
+      "start": 1715.0,
+      "duration": 3.36
+    },
+    {
+      "text": "know getting you know different tests",
+      "start": 1717.039,
+      "duration": 2.921
+    },
+    {
+      "text": "for different people and and how you",
+      "start": 1718.36,
+      "duration": 4.84
+    },
+    {
+      "text": "know the amount of certain nutrients",
+      "start": 1719.96,
+      "duration": 5.28
+    },
+    {
+      "text": "that is right for her wouldn't",
+      "start": 1723.2,
+      "duration": 4.28
+    },
+    {
+      "text": "necessarily be the same for me sure but",
+      "start": 1725.24,
+      "duration": 4.0
+    },
+    {
+      "text": "obviously that makes it more difficult",
+      "start": 1727.48,
+      "duration": 3.72
+    },
+    {
+      "text": "to test for I guess doesn't it because",
+      "start": 1729.24,
+      "duration": 3.559
+    },
+    {
+      "text": "you know you you need to work out what's",
+      "start": 1731.2,
+      "duration": 4.64
+    },
+    {
+      "text": "right for each individual",
+      "start": 1732.799,
+      "duration": 3.041
+    },
+    {
+      "text": "person will be right",
+      "start": 1736.36,
+      "duration": 5.319
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1739.44,
+      "duration": 4.32
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1741.679,
+      "duration": 4.401
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1743.76,
+      "duration": 3.72
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1746.08,
+      "duration": 3.479
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1747.48,
+      "duration": 4.16
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1749.559,
+      "duration": 3.921
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1751.64,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with L covid we've worked",
+      "start": 1753.48,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1756.12,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with L",
+      "start": 1757.6,
+      "duration": 4.64
+    },
+    {
+      "text": "covid it's a 6-e course with 12 sessions",
+      "start": 1759.36,
+      "duration": 5.439
+    },
+    {
+      "text": "all delivered online the community feel",
+      "start": 1762.24,
+      "duration": 3.96
+    },
+    {
+      "text": "and learning that we're all sharing is",
+      "start": 1764.799,
+      "duration": 3.561
+    },
+    {
+      "text": "such a joy to find out more information",
+      "start": 1766.2,
+      "duration": 3.92
+    },
+    {
+      "text": "and to sign up for our courses workshops",
+      "start": 1768.36,
+      "duration": 3.64
+    },
+    {
+      "text": "and other shorter sessions please check",
+      "start": 1770.12,
+      "duration": 5.24
+    },
+    {
+      "text": "out the link below lco breathing.com or",
+      "start": 1772.0,
+      "duration": 6.0
+    },
+    {
+      "text": "email lovid breathing gmail.com to start",
+      "start": 1775.36,
+      "duration": 5.84
+    },
+    {
+      "text": "your breathing Journey with",
+      "start": 1778.0,
+      "duration": 3.2
+    },
+    {
+      "text": "us yeah I think to a degree I think",
+      "start": 1784.2,
+      "duration": 6.64
+    },
+    {
+      "text": "getting in you know most of your major",
+      "start": 1788.48,
+      "duration": 4.4
+    },
+    {
+      "text": "macro nutrients so getting a balance of",
+      "start": 1790.84,
+      "duration": 4.839
+    },
+    {
+      "text": "fats carbohydrates proteins can be",
+      "start": 1792.88,
+      "duration": 4.2
+    },
+    {
+      "text": "slightly different and and certainly",
+      "start": 1795.679,
+      "duration": 3.84
+    },
+    {
+      "text": "depending on your kind of stress your",
+      "start": 1797.08,
+      "duration": 4.92
+    },
+    {
+      "text": "activity levels will require more or",
+      "start": 1799.519,
+      "duration": 4.321
+    },
+    {
+      "text": "less you know you you could argue some",
+      "start": 1802.0,
+      "duration": 3.76
+    },
+    {
+      "text": "people need slightly more co-actors",
+      "start": 1803.84,
+      "duration": 4.36
+    },
+    {
+      "text": "nutrients maybe it's B vitamins I think",
+      "start": 1805.76,
+      "duration": 4.72
+    },
+    {
+      "text": "there are some huge similarities between",
+      "start": 1808.2,
+      "duration": 4.839
+    },
+    {
+      "text": "human physiology and some basic tenants",
+      "start": 1810.48,
+      "duration": 3.76
+    },
+    {
+      "text": "that need to be underpinned and that's",
+      "start": 1813.039,
+      "duration": 3.281
+    },
+    {
+      "text": "eating enough food uh I often find a lot",
+      "start": 1814.24,
+      "duration": 5.48
+    },
+    {
+      "text": "of females undereat um and that's a huge",
+      "start": 1816.32,
+      "duration": 4.88
+    },
+    {
+      "text": "problem because then when you don't eat",
+      "start": 1819.72,
+      "duration": 2.959
+    },
+    {
+      "text": "enough food you don't get enough of the",
+      "start": 1821.2,
+      "duration": 3.199
+    },
+    {
+      "text": "the micronutrients in you don't get",
+      "start": 1822.679,
+      "duration": 3.0
+    },
+    {
+      "text": "enough of the minerals in so yeah there",
+      "start": 1824.399,
+      "duration": 3.201
+    },
+    {
+      "text": "can be various different reasons why",
+      "start": 1825.679,
+      "duration": 4.24
+    },
+    {
+      "text": "people have different and varying needs",
+      "start": 1827.6,
+      "duration": 4.559
+    },
+    {
+      "text": "and I I think that the human body will",
+      "start": 1829.919,
+      "duration": 4.721
+    },
+    {
+      "text": "usually flag up when it's deficient in",
+      "start": 1832.159,
+      "duration": 4.201
+    },
+    {
+      "text": "something we'll see specific things we",
+      "start": 1834.64,
+      "duration": 4.48
+    },
+    {
+      "text": "might see you know B vitamins kind of",
+      "start": 1836.36,
+      "duration": 4.72
+    },
+    {
+      "text": "flag up in certain areas with skin",
+      "start": 1839.12,
+      "duration": 4.32
+    },
+    {
+      "text": "around the lips we might see vitamin A",
+      "start": 1841.08,
+      "duration": 4.52
+    },
+    {
+      "text": "again you might see dry flaky skin or",
+      "start": 1843.44,
+      "duration": 4.16
+    },
+    {
+      "text": "you might see splits in the heels or",
+      "start": 1845.6,
+      "duration": 3.52
+    },
+    {
+      "text": "something you know lots of different",
+      "start": 1847.6,
+      "duration": 2.799
+    },
+    {
+      "text": "things that will flag up and the body",
+      "start": 1849.12,
+      "duration": 3.32
+    },
+    {
+      "text": "will usually tell you I think",
+      "start": 1850.399,
+      "duration": 3.16
+    },
+    {
+      "text": "unfortunately a lot of people aren't",
+      "start": 1852.44,
+      "duration": 2.44
+    },
+    {
+      "text": "prepared to spend the time of",
+      "start": 1853.559,
+      "duration": 3.041
+    },
+    {
+      "text": "Understanding Nutrition properly and",
+      "start": 1854.88,
+      "duration": 3.36
+    },
+    {
+      "text": "they might go and see a nutrition could",
+      "start": 1856.6,
+      "duration": 3.679
+    },
+    {
+      "text": "be very very helpful but understanding",
+      "start": 1858.24,
+      "duration": 4.399
+    },
+    {
+      "text": "what deficits that you have is really",
+      "start": 1860.279,
+      "duration": 3.801
+    },
+    {
+      "text": "easy to fix and I say that with some",
+      "start": 1862.639,
+      "duration": 2.801
+    },
+    {
+      "text": "complacency because I spent a lot of",
+      "start": 1864.08,
+      "duration": 3.4
+    },
+    {
+      "text": "time studying this and and I guess",
+      "start": 1865.44,
+      "duration": 3.479
+    },
+    {
+      "text": "that's why a lot of people come to me",
+      "start": 1867.48,
+      "duration": 3.0
+    },
+    {
+      "text": "with that but just kind of being keyed",
+      "start": 1868.919,
+      "duration": 4.36
+    },
+    {
+      "text": "into what what keep a diary what are the",
+      "start": 1870.48,
+      "duration": 4.319
+    },
+    {
+      "text": "things that are kind of flagging up on a",
+      "start": 1873.279,
+      "duration": 3.481
+    },
+    {
+      "text": "regular basis because if you're in a bad",
+      "start": 1874.799,
+      "duration": 4.72
+    },
+    {
+      "text": "way you just go through this cular kind",
+      "start": 1876.76,
+      "duration": 5.879
+    },
+    {
+      "text": "of spiral of just not knowing where",
+      "start": 1879.519,
+      "duration": 5.561
+    },
+    {
+      "text": "you're going it's almost like going to a",
+      "start": 1882.639,
+      "duration": 4.841
+    },
+    {
+      "text": "pit of learn helplessness because you",
+      "start": 1885.08,
+      "duration": 4.36
+    },
+    {
+      "text": "know you have no feedback to compare",
+      "start": 1887.48,
+      "duration": 4.4
+    },
+    {
+      "text": "anything against I I always say this in",
+      "start": 1889.44,
+      "duration": 3.839
+    },
+    {
+      "text": "pretty much every single podcast that I",
+      "start": 1891.88,
+      "duration": 3.36
+    },
+    {
+      "text": "do it's that that there are markers of",
+      "start": 1893.279,
+      "duration": 4.721
+    },
+    {
+      "text": "health and that's energy digestion sleep",
+      "start": 1895.24,
+      "duration": 5.36
+    },
+    {
+      "text": "liido absence of pain and mood I think",
+      "start": 1898.0,
+      "duration": 4.2
+    },
+    {
+      "text": "they're really good markers for",
+      "start": 1900.6,
+      "duration": 3.039
+    },
+    {
+      "text": "understanding if something's working for",
+      "start": 1902.2,
+      "duration": 4.52
+    },
+    {
+      "text": "you and if you don't have those then you",
+      "start": 1903.639,
+      "duration": 4.64
+    },
+    {
+      "text": "need to start looking at other other",
+      "start": 1906.72,
+      "duration": 3.28
+    },
+    {
+      "text": "things but you know look for little",
+      "start": 1908.279,
+      "duration": 4.4
+    },
+    {
+      "text": "Windows it might be some people wake up",
+      "start": 1910.0,
+      "duration": 4.96
+    },
+    {
+      "text": "to pee at night because their blood",
+      "start": 1912.679,
+      "duration": 5.281
+    },
+    {
+      "text": "sugar is not functioning efficiently but",
+      "start": 1914.96,
+      "duration": 4.52
+    },
+    {
+      "text": "the way bag breathing before before",
+      "start": 1917.96,
+      "duration": 2.439
+    },
+    {
+      "text": "going to sleep is a great way of",
+      "start": 1919.48,
+      "duration": 2.799
+    },
+    {
+      "text": "clearing that up uh just one of the",
+      "start": 1920.399,
+      "duration": 4.601
+    },
+    {
+      "text": "things not drinking too much water um",
+      "start": 1922.279,
+      "duration": 4.4
+    },
+    {
+      "text": "and so yeah there are the things that",
+      "start": 1925.0,
+      "duration": 3.24
+    },
+    {
+      "text": "you know it might be okay I didn't wake",
+      "start": 1926.679,
+      "duration": 3.0
+    },
+    {
+      "text": "up to pee last night that's a really",
+      "start": 1928.24,
+      "duration": 4.0
+    },
+    {
+      "text": "good sign or uh I I didn't wake up at",
+      "start": 1929.679,
+      "duration": 4.84
+    },
+    {
+      "text": "all last night or I was less irritable",
+      "start": 1932.24,
+      "duration": 3.96
+    },
+    {
+      "text": "today you know keeping a diary in",
+      "start": 1934.519,
+      "duration": 3.921
+    },
+    {
+      "text": "looking at the kind of specific things I",
+      "start": 1936.2,
+      "duration": 4.64
+    },
+    {
+      "text": "I think when you're you're looking at at",
+      "start": 1938.44,
+      "duration": 3.959
+    },
+    {
+      "text": "the symptoms make a list of all the",
+      "start": 1940.84,
+      "duration": 3.319
+    },
+    {
+      "text": "symptoms and and look at trying to tick",
+      "start": 1942.399,
+      "duration": 3.841
+    },
+    {
+      "text": "them off and that's the thing because",
+      "start": 1944.159,
+      "duration": 4.76
+    },
+    {
+      "text": "each each one of those will a specific",
+      "start": 1946.24,
+      "duration": 6.36
+    },
+    {
+      "text": "nutritional deficit a hormonal deficit",
+      "start": 1948.919,
+      "duration": 5.6
+    },
+    {
+      "text": "something that that's that's driving the",
+      "start": 1952.6,
+      "duration": 4.12
+    },
+    {
+      "text": "symptom that you have and i' I've worked",
+      "start": 1954.519,
+      "duration": 4.441
+    },
+    {
+      "text": "with thousands of people with specific",
+      "start": 1956.72,
+      "duration": 5.12
+    },
+    {
+      "text": "symptoms that some of them just clear up",
+      "start": 1958.96,
+      "duration": 4.48
+    },
+    {
+      "text": "with some very general approaches to",
+      "start": 1961.84,
+      "duration": 3.88
+    },
+    {
+      "text": "nutrition you know eating enough carbs",
+      "start": 1963.44,
+      "duration": 4.8
+    },
+    {
+      "text": "for example is key for a lot of people",
+      "start": 1965.72,
+      "duration": 4.319
+    },
+    {
+      "text": "there's a lot of a lot of people kind of",
+      "start": 1968.24,
+      "duration": 4.319
+    },
+    {
+      "text": "still going on about low carb for",
+      "start": 1970.039,
+      "duration": 4.961
+    },
+    {
+      "text": "improving health and and this is perhaps",
+      "start": 1972.559,
+      "duration": 4.401
+    },
+    {
+      "text": "what kind of um brings this into covid",
+      "start": 1975.0,
+      "duration": 4.76
+    },
+    {
+      "text": "is that you know people see hypoglycemia",
+      "start": 1976.96,
+      "duration": 4.48
+    },
+    {
+      "text": "and kind of blood sugar disregulation",
+      "start": 1979.76,
+      "duration": 2.68
+    },
+    {
+      "text": "and also",
+      "start": 1981.44,
+      "duration": 4.04
+    },
+    {
+      "text": "hypoglycemia bling sugar intake if it's",
+      "start": 1982.44,
+      "duration": 5.079
+    },
+    {
+      "text": "not excessive for all those woses is",
+      "start": 1985.48,
+      "duration": 3.84
+    },
+    {
+      "text": "problematic and this is where it comes",
+      "start": 1987.519,
+      "duration": 3.321
+    },
+    {
+      "text": "back to thyroid as well because the",
+      "start": 1989.32,
+      "duration": 3.92
+    },
+    {
+      "text": "thyroid controls the pancreas pancreas",
+      "start": 1990.84,
+      "duration": 4.12
+    },
+    {
+      "text": "will obviously secrete insulin and",
+      "start": 1993.24,
+      "duration": 3.96
+    },
+    {
+      "text": "digestive enzymes as well and if that's",
+      "start": 1994.96,
+      "duration": 3.959
+    },
+    {
+      "text": "off there are various number of",
+      "start": 1997.2,
+      "duration": 3.839
+    },
+    {
+      "text": "pollutants that also cause insulin to",
+      "start": 1998.919,
+      "duration": 4.88
+    },
+    {
+      "text": "rise and also poor insulin signaling and",
+      "start": 2001.039,
+      "duration": 4.801
+    },
+    {
+      "text": "poor GL glucose responses and elevated",
+      "start": 2003.799,
+      "duration": 4.36
+    },
+    {
+      "text": "glucose as well if that tends to to",
+      "start": 2005.84,
+      "duration": 3.959
+    },
+    {
+      "text": "increase and and you're not looking at",
+      "start": 2008.159,
+      "duration": 3.52
+    },
+    {
+      "text": "the things that are causing that I",
+      "start": 2009.799,
+      "duration": 3.321
+    },
+    {
+      "text": "really saw a really interesting paper",
+      "start": 2011.679,
+      "duration": 4.681
+    },
+    {
+      "text": "recently on how poly Perl alals which is",
+      "start": 2013.12,
+      "duration": 5.12
+    },
+    {
+      "text": "the kind of Teflon pans the new",
+      "start": 2016.36,
+      "duration": 4.12
+    },
+    {
+      "text": "generation Teflon pans were implicated",
+      "start": 2018.24,
+      "duration": 5.2
+    },
+    {
+      "text": "in an increased in gestational diabetes",
+      "start": 2020.48,
+      "duration": 4.76
+    },
+    {
+      "text": "but then the their approach would be oh",
+      "start": 2023.44,
+      "duration": 2.92
+    },
+    {
+      "text": "you need to cut down on your sugar",
+      "start": 2025.24,
+      "duration": 2.64
+    },
+    {
+      "text": "intake or we need to put you on a met",
+      "start": 2026.36,
+      "duration": 4.319
+    },
+    {
+      "text": "form in it's like well let's kind of if",
+      "start": 2027.88,
+      "duration": 4.72
+    },
+    {
+      "text": "there are these all these other things",
+      "start": 2030.679,
+      "duration": 3.48
+    },
+    {
+      "text": "let's kind of try and look at those but",
+      "start": 2032.6,
+      "duration": 2.919
+    },
+    {
+      "text": "nobody's thinking about the complex",
+      "start": 2034.159,
+      "duration": 2.64
+    },
+    {
+      "text": "interactions between the environment",
+      "start": 2035.519,
+      "duration": 2.961
+    },
+    {
+      "text": "that cause these problems and they go",
+      "start": 2036.799,
+      "duration": 2.961
+    },
+    {
+      "text": "right it's a sugar you've got to cut",
+      "start": 2038.48,
+      "duration": 4.079
+    },
+    {
+      "text": "back on your sugar and I think sugar and",
+      "start": 2039.76,
+      "duration": 4.56
+    },
+    {
+      "text": "carbohydrates have have their place in",
+      "start": 2042.559,
+      "duration": 3.96
+    },
+    {
+      "text": "the diet and can help to alleviate",
+      "start": 2044.32,
+      "duration": 4.039
+    },
+    {
+      "text": "stress I don't know if you if you've",
+      "start": 2046.519,
+      "duration": 3.64
+    },
+    {
+      "text": "ever been kind of not eaten for a long",
+      "start": 2048.359,
+      "duration": 3.24
+    },
+    {
+      "text": "period of time and you felt pretty",
+      "start": 2050.159,
+      "duration": 3.321
+    },
+    {
+      "text": "irritable well having something sweet",
+      "start": 2051.599,
+      "duration": 3.24
+    },
+    {
+      "text": "and salty is a pretty good way of",
+      "start": 2053.48,
+      "duration": 3.56
+    },
+    {
+      "text": "lowering adrenaline and increasing the",
+      "start": 2054.839,
+      "duration": 4.0
+    },
+    {
+      "text": "blood blood sugar to temporarily take",
+      "start": 2057.04,
+      "duration": 3.96
+    },
+    {
+      "text": "you out of stress that's why when you go",
+      "start": 2058.839,
+      "duration": 5.56
+    },
+    {
+      "text": "to accident emergency they don't put a",
+      "start": 2061.0,
+      "duration": 6.0
+    },
+    {
+      "text": "keto or a steak into your arm on IV they",
+      "start": 2064.399,
+      "duration": 5.2
+    },
+    {
+      "text": "put sugar and saline salt solution",
+      "start": 2067.0,
+      "duration": 3.72
+    },
+    {
+      "text": "because that's the best thing that's",
+      "start": 2069.599,
+      "duration": 3.52
+    },
+    {
+      "text": "going to bring you to a relatively",
+      "start": 2070.72,
+      "duration": 4.879
+    },
+    {
+      "text": "balanced state that the uh body can deal",
+      "start": 2073.119,
+      "duration": 5.28
+    },
+    {
+      "text": "to get you out of threat so I I think",
+      "start": 2075.599,
+      "duration": 4.08
+    },
+    {
+      "text": "understanding some of the components",
+      "start": 2078.399,
+      "duration": 3.52
+    },
+    {
+      "text": "around food and nutrition are going to",
+      "start": 2079.679,
+      "duration": 3.68
+    },
+    {
+      "text": "be helpful but also understand these",
+      "start": 2081.919,
+      "duration": 3.801
+    },
+    {
+      "text": "environmental factors yeah of course I",
+      "start": 2083.359,
+      "duration": 3.8
+    },
+    {
+      "text": "mean you know what you put into your",
+      "start": 2085.72,
+      "duration": 3.119
+    },
+    {
+      "text": "body is going to have a huge impact on",
+      "start": 2087.159,
+      "duration": 4.121
+    },
+    {
+      "text": "how it performs I guess isn't it yes",
+      "start": 2088.839,
+      "duration": 5.32
+    },
+    {
+      "text": "yeah I I I believe so uh and certainly",
+      "start": 2091.28,
+      "duration": 5.28
+    },
+    {
+      "text": "75% of my clients do all do really well",
+      "start": 2094.159,
+      "duration": 4.2
+    },
+    {
+      "text": "on just changing their food and getting",
+      "start": 2096.56,
+      "duration": 3.76
+    },
+    {
+      "text": "them in the right portions at the right",
+      "start": 2098.359,
+      "duration": 4.48
+    },
+    {
+      "text": "time for some people who've been so used",
+      "start": 2100.32,
+      "duration": 4.56
+    },
+    {
+      "text": "to dieting or skipping breakfast or kind",
+      "start": 2102.839,
+      "duration": 4.28
+    },
+    {
+      "text": "of not eating enough getting them to eat",
+      "start": 2104.88,
+      "duration": 3.959
+    },
+    {
+      "text": "kind of four or five small meals a day",
+      "start": 2107.119,
+      "duration": 3.321
+    },
+    {
+      "text": "is is great way of just balancing them",
+      "start": 2108.839,
+      "duration": 3.081
+    },
+    {
+      "text": "out do they need to stick like that",
+      "start": 2110.44,
+      "duration": 2.76
+    },
+    {
+      "text": "forever no they can probably go back to",
+      "start": 2111.92,
+      "duration": 3.6
+    },
+    {
+      "text": "three Square after a while and then some",
+      "start": 2113.2,
+      "duration": 4.48
+    },
+    {
+      "text": "don't do that well nutrition is just not",
+      "start": 2115.52,
+      "duration": 3.52
+    },
+    {
+      "text": "enough for them they need either",
+      "start": 2117.68,
+      "duration": 2.84
+    },
+    {
+      "text": "supplements or perhaps a hormone",
+      "start": 2119.04,
+      "duration": 3.24
+    },
+    {
+      "text": "intervention that that will help to",
+      "start": 2120.52,
+      "duration": 3.48
+    },
+    {
+      "text": "create some balance and and this is",
+      "start": 2122.28,
+      "duration": 3.64
+    },
+    {
+      "text": "where i' bring it back to kind of",
+      "start": 2124.0,
+      "duration": 3.32
+    },
+    {
+      "text": "females and sometimes males needing",
+      "start": 2125.92,
+      "duration": 4.72
+    },
+    {
+      "text": "proest as well yeah I mean I Che I was",
+      "start": 2127.32,
+      "duration": 4.759
+    },
+    {
+      "text": "exactly where I was going to head back",
+      "start": 2130.64,
+      "duration": 4.439
+    },
+    {
+      "text": "round to um I mean an anecdotally I",
+      "start": 2132.079,
+      "duration": 5.841
+    },
+    {
+      "text": "think long covid and you know other sort",
+      "start": 2135.079,
+      "duration": 6.04
+    },
+    {
+      "text": "of chronic health conditions do seem to",
+      "start": 2137.92,
+      "duration": 6.36
+    },
+    {
+      "text": "affect predominantly women I think from",
+      "start": 2141.119,
+      "duration": 5.361
+    },
+    {
+      "text": "all of the studies that I've read and",
+      "start": 2144.28,
+      "duration": 4.559
+    },
+    {
+      "text": "you know people that I've spoken to and",
+      "start": 2146.48,
+      "duration": 4.4
+    },
+    {
+      "text": "you know obviously females have this",
+      "start": 2148.839,
+      "duration": 4.641
+    },
+    {
+      "text": "huge fluctuation in hormones you know on",
+      "start": 2150.88,
+      "duration": 5.479
+    },
+    {
+      "text": "a very regular basis that I guess men",
+      "start": 2153.48,
+      "duration": 6.08
+    },
+    {
+      "text": "just don't have yeah um I mean that that",
+      "start": 2156.359,
+      "duration": 5.081
+    },
+    {
+      "text": "I guess is why they're going to be more",
+      "start": 2159.56,
+      "duration": 4.519
+    },
+    {
+      "text": "adversely affected yeah I think there's",
+      "start": 2161.44,
+      "duration": 5.8
+    },
+    {
+      "text": "a number of things to consider um I mean",
+      "start": 2164.079,
+      "duration": 5.641
+    },
+    {
+      "text": "Easter can accumulate in the body quite",
+      "start": 2167.24,
+      "duration": 5.359
+    },
+    {
+      "text": "easily and again we're surrounded in the",
+      "start": 2169.72,
+      "duration": 4.96
+    },
+    {
+      "text": "environment not so much now since moving",
+      "start": 2172.599,
+      "duration": 3.72
+    },
+    {
+      "text": "to the country but particularly more",
+      "start": 2174.68,
+      "duration": 3.32
+    },
+    {
+      "text": "urban areas as well there's lots of",
+      "start": 2176.319,
+      "duration": 3.681
+    },
+    {
+      "text": "environmental pollutants even the house",
+      "start": 2178.0,
+      "duration": 4.56
+    },
+    {
+      "text": "can have certain pollutants like if you",
+      "start": 2180.0,
+      "duration": 4.88
+    },
+    {
+      "text": "think about cleaning products deases and",
+      "start": 2182.56,
+      "duration": 4.279
+    },
+    {
+      "text": "all of these kind of very harsh kind of",
+      "start": 2184.88,
+      "duration": 3.64
+    },
+    {
+      "text": "chemical compound",
+      "start": 2186.839,
+      "duration": 3.52
+    },
+    {
+      "text": "I remember someone a class's mentor said",
+      "start": 2188.52,
+      "duration": 3.4
+    },
+    {
+      "text": "if you can smell it it's already in your",
+      "start": 2190.359,
+      "duration": 3.641
+    },
+    {
+      "text": "bloodstream because it it will will",
+      "start": 2191.92,
+      "duration": 4.199
+    },
+    {
+      "text": "enter via the respiratory tract and if",
+      "start": 2194.0,
+      "duration": 3.319
+    },
+    {
+      "text": "you're constantly clean you know",
+      "start": 2196.119,
+      "duration": 3.24
+    },
+    {
+      "text": "cleaning the house or if you're kind of",
+      "start": 2197.319,
+      "duration": 3.641
+    },
+    {
+      "text": "uh in an environment where there are",
+      "start": 2199.359,
+      "duration": 3.921
+    },
+    {
+      "text": "chemicals being produced or or whatever",
+      "start": 2200.96,
+      "duration": 4.2
+    },
+    {
+      "text": "you know Airborne pollutants can act",
+      "start": 2203.28,
+      "duration": 3.799
+    },
+    {
+      "text": "like estrogens and it's this",
+      "start": 2205.16,
+      "duration": 4.4
+    },
+    {
+      "text": "accumulation of estrogens both from the",
+      "start": 2207.079,
+      "duration": 4.481
+    },
+    {
+      "text": "environment and the internal sources",
+      "start": 2209.56,
+      "duration": 3.88
+    },
+    {
+      "text": "that converge together that can cause",
+      "start": 2211.56,
+      "duration": 3.759
+    },
+    {
+      "text": "estrogen excesses they can both",
+      "start": 2213.44,
+      "duration": 3.679
+    },
+    {
+      "text": "antagonize and agonize the estrogen",
+      "start": 2215.319,
+      "duration": 2.961
+    },
+    {
+      "text": "receptor",
+      "start": 2217.119,
+      "duration": 3.881
+    },
+    {
+      "text": "but if estrogen is is increased uh it",
+      "start": 2218.28,
+      "duration": 5.0
+    },
+    {
+      "text": "can have a varying effect so it can have",
+      "start": 2221.0,
+      "duration": 3.72
+    },
+    {
+      "text": "an effect on the liver where it can",
+      "start": 2223.28,
+      "duration": 2.96
+    },
+    {
+      "text": "accumulate and if you don't have enough",
+      "start": 2224.72,
+      "duration": 3.96
+    },
+    {
+      "text": "B vitamins particularly thomine it can",
+      "start": 2226.24,
+      "duration": 3.76
+    },
+    {
+      "text": "cause the estrogen just to keep",
+      "start": 2228.68,
+      "duration": 2.96
+    },
+    {
+      "text": "accumulating accumulating you don't you",
+      "start": 2230.0,
+      "duration": 3.68
+    },
+    {
+      "text": "don't break the estrogens down it's the",
+      "start": 2231.64,
+      "duration": 4.4
+    },
+    {
+      "text": "same with thyroid estrogen will cause",
+      "start": 2233.68,
+      "duration": 5.48
+    },
+    {
+      "text": "thyroid to be uh displaced and therefore",
+      "start": 2236.04,
+      "duration": 4.44
+    },
+    {
+      "text": "you don't have high enough thyroid",
+      "start": 2239.16,
+      "duration": 4.0
+    },
+    {
+      "text": "levels and thyroid is a key component of",
+      "start": 2240.48,
+      "duration": 5.08
+    },
+    {
+      "text": "of keeping estrogen in check you know",
+      "start": 2243.16,
+      "duration": 5.199
+    },
+    {
+      "text": "very heavy Cycles metag you know chronic",
+      "start": 2245.56,
+      "duration": 4.68
+    },
+    {
+      "text": "heavy bleeds clotting and stuff is EAS",
+      "start": 2248.359,
+      "duration": 3.76
+    },
+    {
+      "text": "toen excess and usually that can be",
+      "start": 2250.24,
+      "duration": 4.04
+    },
+    {
+      "text": "resolved either with a good B vitamin or",
+      "start": 2252.119,
+      "duration": 4.601
+    },
+    {
+      "text": "adequate thyroid hormone so you can see",
+      "start": 2254.28,
+      "duration": 4.36
+    },
+    {
+      "text": "the these issues that respond really",
+      "start": 2256.72,
+      "duration": 3.72
+    },
+    {
+      "text": "really well but they they tend to be a",
+      "start": 2258.64,
+      "duration": 4.36
+    },
+    {
+      "text": "cause of of these converging factors you",
+      "start": 2260.44,
+      "duration": 5.399
+    },
+    {
+      "text": "know oral contraceptives can be a cause",
+      "start": 2263.0,
+      "duration": 5.44
+    },
+    {
+      "text": "as well phytoestrogens from alcohol if",
+      "start": 2265.839,
+      "duration": 4.121
+    },
+    {
+      "text": "you're drinking too much that can be a",
+      "start": 2268.44,
+      "duration": 2.84
+    },
+    {
+      "text": "factor as well bringing it back to",
+      "start": 2269.96,
+      "duration": 4.24
+    },
+    {
+      "text": "nutrition again and you rightly said is",
+      "start": 2271.28,
+      "duration": 4.799
+    },
+    {
+      "text": "that females are 10 times more likely to",
+      "start": 2274.2,
+      "duration": 5.28
+    },
+    {
+      "text": "have thyroid issues depending on what",
+      "start": 2276.079,
+      "duration": 5.401
+    },
+    {
+      "text": "publication you read in which expert",
+      "start": 2279.48,
+      "duration": 4.8
+    },
+    {
+      "text": "some say anywhere between 5 to 10% of",
+      "start": 2281.48,
+      "duration": 5.2
+    },
+    {
+      "text": "the world's population is hypothyroid",
+      "start": 2284.28,
+      "duration": 5.24
+    },
+    {
+      "text": "some say up to 20% some of the older",
+      "start": 2286.68,
+      "duration": 5.48
+    },
+    {
+      "text": "researchers say perhaps even 50% and I",
+      "start": 2289.52,
+      "duration": 5.2
+    },
+    {
+      "text": "think if you're looking at kind of very",
+      "start": 2292.16,
+      "duration": 5.08
+    },
+    {
+      "text": "polluted areas where air is getting",
+      "start": 2294.72,
+      "duration": 5.399
+    },
+    {
+      "text": "dirtier or there are various pollutants",
+      "start": 2297.24,
+      "duration": 3.96
+    },
+    {
+      "text": "whether it's your cleaning products",
+      "start": 2300.119,
+      "duration": 2.361
+    },
+    {
+      "text": "whether it's your household products",
+      "start": 2301.2,
+      "duration": 3.28
+    },
+    {
+      "text": "whether it's kind of being sat in a car",
+      "start": 2302.48,
+      "duration": 4.08
+    },
+    {
+      "text": "on a busy road in town you know all of",
+      "start": 2304.48,
+      "duration": 3.879
+    },
+    {
+      "text": "these factors can converge to create",
+      "start": 2306.56,
+      "duration": 3.96
+    },
+    {
+      "text": "this estrogen dominance uh and can lead",
+      "start": 2308.359,
+      "duration": 3.801
+    },
+    {
+      "text": "to these kind of high incidents of",
+      "start": 2310.52,
+      "duration": 3.96
+    },
+    {
+      "text": "reproductive tissues uh you know Malou",
+      "start": 2312.16,
+      "duration": 4.28
+    },
+    {
+      "text": "formations tumors",
+      "start": 2314.48,
+      "duration": 4.2
+    },
+    {
+      "text": "endometriosis uh and even that the quite",
+      "start": 2316.44,
+      "duration": 4.56
+    },
+    {
+      "text": "common occurrences of pituitary tumors",
+      "start": 2318.68,
+      "duration": 4.08
+    },
+    {
+      "text": "which are are quite common these days",
+      "start": 2321.0,
+      "duration": 3.319
+    },
+    {
+      "text": "they they're relatively benign most of",
+      "start": 2322.76,
+      "duration": 3.88
+    },
+    {
+      "text": "them but we get this kind of hyperplasia",
+      "start": 2324.319,
+      "duration": 5.161
+    },
+    {
+      "text": "and growth of of this pituitary gland",
+      "start": 2326.64,
+      "duration": 4.84
+    },
+    {
+      "text": "which is stimulated by estrogen and",
+      "start": 2329.48,
+      "duration": 3.92
+    },
+    {
+      "text": "sometimes leak to one of the most common",
+      "start": 2331.48,
+      "duration": 4.08
+    },
+    {
+      "text": "ones is called prolactinoma so you know",
+      "start": 2333.4,
+      "duration": 4.56
+    },
+    {
+      "text": "the hormone prolactin",
+      "start": 2335.56,
+      "duration": 4.0
+    },
+    {
+      "text": "uh one of the its roles is to kind of",
+      "start": 2337.96,
+      "duration": 4.399
+    },
+    {
+      "text": "sensitize uh the breast ready to produce",
+      "start": 2339.56,
+      "duration": 5.4
+    },
+    {
+      "text": "milk as one of them but also the",
+      "start": 2342.359,
+      "duration": 4.521
+    },
+    {
+      "text": "estrogen will sensitize the pituitary",
+      "start": 2344.96,
+      "duration": 3.48
+    },
+    {
+      "text": "just to become larger and larger and",
+      "start": 2346.88,
+      "duration": 3.479
+    },
+    {
+      "text": "it's often the lactor trro that produces",
+      "start": 2348.44,
+      "duration": 4.52
+    },
+    {
+      "text": "the pro prolactin hormone to increase in",
+      "start": 2350.359,
+      "duration": 4.441
+    },
+    {
+      "text": "size and sometimes we get heavily",
+      "start": 2352.96,
+      "duration": 4.639
+    },
+    {
+      "text": "secreting tumors and and just ones that",
+      "start": 2354.8,
+      "duration": 4.88
+    },
+    {
+      "text": "just grow quite large and can either be",
+      "start": 2357.599,
+      "duration": 4.801
+    },
+    {
+      "text": "shrunken with appropriate therapy or",
+      "start": 2359.68,
+      "duration": 4.28
+    },
+    {
+      "text": "sometimes surgically removed but they",
+      "start": 2362.4,
+      "duration": 3.719
+    },
+    {
+      "text": "certainly increase substantially as well",
+      "start": 2363.96,
+      "duration": 5.04
+    },
+    {
+      "text": "yeah",
+      "start": 2366.119,
+      "duration": 5.281
+    },
+    {
+      "text": "we'll be right",
+      "start": 2369.0,
+      "duration": 4.92
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 2371.4,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 2373.92,
+      "duration": 4.48
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 2375.88,
+      "duration": 3.959
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 2378.4,
+      "duration": 3.679
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 2379.839,
+      "duration": 4.681
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 2382.079,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we'd be able to get",
+      "start": 2384.52,
+      "duration": 3.559
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 2386.319,
+      "duration": 4.241
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 2388.079,
+      "duration": 4.0
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 2390.56,
+      "duration": 3.44
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 2392.079,
+      "duration": 6.28
+    },
+    {
+      "text": "episode and thank you so much",
+      "start": 2394.0,
+      "duration": 4.359
+    },
+    {
+      "text": "uh those percentages that you were",
+      "start": 2401.079,
+      "duration": 4.28
+    },
+    {
+      "text": "saying you know even if it is only 20%",
+      "start": 2402.72,
+      "duration": 5.119
+    },
+    {
+      "text": "rather than 50% it's it's a huge number",
+      "start": 2405.359,
+      "duration": 4.681
+    },
+    {
+      "text": "isn't it's it's a huge amount right and",
+      "start": 2407.839,
+      "duration": 3.681
+    },
+    {
+      "text": "I guess if you think about there are",
+      "start": 2410.04,
+      "duration": 3.36
+    },
+    {
+      "text": "this many people that have potentially",
+      "start": 2411.52,
+      "duration": 3.44
+    },
+    {
+      "text": "have some of these issues and their body",
+      "start": 2413.4,
+      "duration": 4.0
+    },
+    {
+      "text": "isn't quite imbalance when you then add",
+      "start": 2414.96,
+      "duration": 5.879
+    },
+    {
+      "text": "a stressor such as Co then I guess it's",
+      "start": 2417.4,
+      "duration": 5.52
+    },
+    {
+      "text": "hardly a surprised that that a lot of",
+      "start": 2420.839,
+      "duration": 4.401
+    },
+    {
+      "text": "people are ending up with um with more",
+      "start": 2422.92,
+      "duration": 4.919
+    },
+    {
+      "text": "issues as a result of it yes so and one",
+      "start": 2425.24,
+      "duration": 4.24
+    },
+    {
+      "text": "of the other issues which makes it even",
+      "start": 2427.839,
+      "duration": 3.321
+    },
+    {
+      "text": "more complicated that's certainly been",
+      "start": 2429.48,
+      "duration": 3.639
+    },
+    {
+      "text": "kind of borne out of rodent studies is",
+      "start": 2431.16,
+      "duration": 4.64
+    },
+    {
+      "text": "that the set point of these hormones is",
+      "start": 2433.119,
+      "duration": 6.24
+    },
+    {
+      "text": "altered in gestation so if they're being",
+      "start": 2435.8,
+      "duration": 5.96
+    },
+    {
+      "text": "exposed to certain pollutants this TSH",
+      "start": 2439.359,
+      "duration": 4.201
+    },
+    {
+      "text": "this thyroid stimulating hormone is",
+      "start": 2441.76,
+      "duration": 4.92
+    },
+    {
+      "text": "reset so you don't actually see where it",
+      "start": 2443.56,
+      "duration": 5.559
+    },
+    {
+      "text": "is because instead of responding where",
+      "start": 2446.68,
+      "duration": 4.6
+    },
+    {
+      "text": "it should do at a much earlier stage in",
+      "start": 2449.119,
+      "duration": 4.24
+    },
+    {
+      "text": "response to thyroid hormone sometimes",
+      "start": 2451.28,
+      "duration": 3.76
+    },
+    {
+      "text": "because the thyroid hormone receptors",
+      "start": 2453.359,
+      "duration": 4.521
+    },
+    {
+      "text": "also affected as well you get this poor",
+      "start": 2455.04,
+      "duration": 5.12
+    },
+    {
+      "text": "communication where even a thyroid",
+      "start": 2457.88,
+      "duration": 4.4
+    },
+    {
+      "text": "problem becomes even harder to detect in",
+      "start": 2460.16,
+      "duration": 4.24
+    },
+    {
+      "text": "in The Offspring so this is where I",
+      "start": 2462.28,
+      "duration": 4.319
+    },
+    {
+      "text": "think the problems between low thyroid",
+      "start": 2464.4,
+      "duration": 4.32
+    },
+    {
+      "text": "and inappropriate thyroid diagnosis",
+      "start": 2466.599,
+      "duration": 3.76
+    },
+    {
+      "text": "become really problematic within long",
+      "start": 2468.72,
+      "duration": 3.04
+    },
+    {
+      "text": "covid now I'm not to say that everybody",
+      "start": 2470.359,
+      "duration": 4.121
+    },
+    {
+      "text": "has a thyroid problem um again there can",
+      "start": 2471.76,
+      "duration": 5.76
+    },
+    {
+      "text": "be many of these kind of other smaller",
+      "start": 2474.48,
+      "duration": 4.92
+    },
+    {
+      "text": "sometimes which you might term even",
+      "start": 2477.52,
+      "duration": 4.72
+    },
+    {
+      "text": "innocuous kind of small mineral things",
+      "start": 2479.4,
+      "duration": 5.28
+    },
+    {
+      "text": "deficits that are missing or uh it could",
+      "start": 2482.24,
+      "duration": 5.68
+    },
+    {
+      "text": "be a co-actor or something like vitamin",
+      "start": 2484.68,
+      "duration": 5.56
+    },
+    {
+      "text": "C for example which we tend to go",
+      "start": 2487.92,
+      "duration": 3.84
+    },
+    {
+      "text": "through exorbitant rates when we're",
+      "start": 2490.24,
+      "duration": 4.48
+    },
+    {
+      "text": "stressed as well uh I had a friend and a",
+      "start": 2491.76,
+      "duration": 4.28
+    },
+    {
+      "text": "client of mine who had some multiple",
+      "start": 2494.72,
+      "duration": 2.96
+    },
+    {
+      "text": "back surgeries and one of the big things",
+      "start": 2496.04,
+      "duration": 3.12
+    },
+    {
+      "text": "that really worked for him was drinking",
+      "start": 2497.68,
+      "duration": 3.639
+    },
+    {
+      "text": "plenty of orange juice just getting lots",
+      "start": 2499.16,
+      "duration": 4.4
+    },
+    {
+      "text": "of energy and lots of vitamin C did",
+      "start": 2501.319,
+      "duration": 4.161
+    },
+    {
+      "text": "quite a few good things for him and you",
+      "start": 2503.56,
+      "duration": 4.039
+    },
+    {
+      "text": "know but before probably not leaning on",
+      "start": 2505.48,
+      "duration": 4.32
+    },
+    {
+      "text": "drinking on lots of that because people",
+      "start": 2507.599,
+      "duration": 3.401
+    },
+    {
+      "text": "often scared about how much",
+      "start": 2509.8,
+      "duration": 2.92
+    },
+    {
+      "text": "carbohydrates an orange juice but it can",
+      "start": 2511.0,
+      "duration": 3.56
+    },
+    {
+      "text": "be very protective that is really",
+      "start": 2512.72,
+      "duration": 4.52
+    },
+    {
+      "text": "interesting isn't it um you know you",
+      "start": 2514.56,
+      "duration": 5.039
+    },
+    {
+      "text": "mentioned how the thyroid kind of um you",
+      "start": 2517.24,
+      "duration": 4.48
+    },
+    {
+      "text": "know it's it kind of oversees quite a",
+      "start": 2519.599,
+      "duration": 4.361
+    },
+    {
+      "text": "lot of things so you know it could",
+      "start": 2521.72,
+      "duration": 4.0
+    },
+    {
+      "text": "potentially cause all sorts of Havoc",
+      "start": 2523.96,
+      "duration": 4.56
+    },
+    {
+      "text": "throughout the body and how how would",
+      "start": 2525.72,
+      "duration": 4.84
+    },
+    {
+      "text": "somebody be able to get a more accurate",
+      "start": 2528.52,
+      "duration": 4.24
+    },
+    {
+      "text": "reading on whether that's the issue",
+      "start": 2530.56,
+      "duration": 3.72
+    },
+    {
+      "text": "because as you said some of the tests",
+      "start": 2532.76,
+      "duration": 4.12
+    },
+    {
+      "text": "don't really give you accurate readings",
+      "start": 2534.28,
+      "duration": 5.0
+    },
+    {
+      "text": "so how would somebody be able to know",
+      "start": 2536.88,
+      "duration": 4.439
+    },
+    {
+      "text": "well like I said the body temperature",
+      "start": 2539.28,
+      "duration": 3.88
+    },
+    {
+      "text": "and pulse is a crude but effective way",
+      "start": 2541.319,
+      "duration": 3.601
+    },
+    {
+      "text": "of looking at that you can obviously go",
+      "start": 2543.16,
+      "duration": 4.04
+    },
+    {
+      "text": "to your doctor and request the St",
+      "start": 2544.92,
+      "duration": 4.439
+    },
+    {
+      "text": "standard tests which is a TSH test the",
+      "start": 2547.2,
+      "duration": 4.04
+    },
+    {
+      "text": "thyroid stimulating hormone and usually",
+      "start": 2549.359,
+      "duration": 4.401
+    },
+    {
+      "text": "they will look at a free T4 other useful",
+      "start": 2551.24,
+      "duration": 4.64
+    },
+    {
+      "text": "tests that can be indicators of low",
+      "start": 2553.76,
+      "duration": 3.559
+    },
+    {
+      "text": "thyroid function or",
+      "start": 2555.88,
+      "duration": 3.4
+    },
+    {
+      "text": "cholesterol the only problem is is that",
+      "start": 2557.319,
+      "duration": 4.481
+    },
+    {
+      "text": "if you've been in sustained immune",
+      "start": 2559.28,
+      "duration": 3.92
+    },
+    {
+      "text": "attack for a while you might find that",
+      "start": 2561.8,
+      "duration": 2.84
+    },
+    {
+      "text": "your cholesterol is on the lower side so",
+      "start": 2563.2,
+      "duration": 3.96
+    },
+    {
+      "text": "we don't always expect that to be raised",
+      "start": 2564.64,
+      "duration": 4.16
+    },
+    {
+      "text": "there's blood pressure you know if",
+      "start": 2567.16,
+      "duration": 3.08
+    },
+    {
+      "text": "that's elevated that could be a good",
+      "start": 2568.8,
+      "duration": 3.559
+    },
+    {
+      "text": "indicator for you and all of these",
+      "start": 2570.24,
+      "duration": 3.56
+    },
+    {
+      "text": "things you know using something like bag",
+      "start": 2572.359,
+      "duration": 3.561
+    },
+    {
+      "text": "breathing and going in and checking them",
+      "start": 2573.8,
+      "duration": 4.16
+    },
+    {
+      "text": "and just trying that or or just even at",
+      "start": 2575.92,
+      "duration": 4.08
+    },
+    {
+      "text": "breath holds for example and retaining",
+      "start": 2577.96,
+      "duration": 4.04
+    },
+    {
+      "text": "carbon dioxide if things start to feel a",
+      "start": 2580.0,
+      "duration": 3.72
+    },
+    {
+      "text": "bit better with doing that that can be",
+      "start": 2582.0,
+      "duration": 3.24
+    },
+    {
+      "text": "an indicator that the thyroid needs",
+      "start": 2583.72,
+      "duration": 3.44
+    },
+    {
+      "text": "working as well because carbon dioxide",
+      "start": 2585.24,
+      "duration": 4.879
+    },
+    {
+      "text": "deficiency can be a symptom of of not",
+      "start": 2587.16,
+      "duration": 4.84
+    },
+    {
+      "text": "not having a good thyroid function or",
+      "start": 2590.119,
+      "duration": 4.44
+    },
+    {
+      "text": "benefiting from carbon dioxide retention",
+      "start": 2592.0,
+      "duration": 5.64
+    },
+    {
+      "text": "my S um there can be other blood test",
+      "start": 2594.559,
+      "duration": 5.361
+    },
+    {
+      "text": "like like hemoglobin classically in a",
+      "start": 2597.64,
+      "duration": 4.679
+    },
+    {
+      "text": "lowon state can also look like a thyroid",
+      "start": 2599.92,
+      "duration": 4.28
+    },
+    {
+      "text": "State the thyroid is instrumental in",
+      "start": 2602.319,
+      "duration": 3.8
+    },
+    {
+      "text": "creating blood cells it's called",
+      "start": 2604.2,
+      "duration": 4.52
+    },
+    {
+      "text": "hematosis so what tends to happen is",
+      "start": 2606.119,
+      "duration": 4.401
+    },
+    {
+      "text": "that if you're if you're low thyroid you",
+      "start": 2608.72,
+      "duration": 3.639
+    },
+    {
+      "text": "don't produce enough red blood cells so",
+      "start": 2610.52,
+      "duration": 4.599
+    },
+    {
+      "text": "your hemoglobin can look low your hemat",
+      "start": 2612.359,
+      "duration": 5.041
+    },
+    {
+      "text": "crit you know and the other ones can can",
+      "start": 2615.119,
+      "duration": 4.881
+    },
+    {
+      "text": "look low as well and then we s might see",
+      "start": 2617.4,
+      "duration": 4.919
+    },
+    {
+      "text": "things like the RDW the Red Cell",
+      "start": 2620.0,
+      "duration": 4.359
+    },
+    {
+      "text": "distribution width increasing as well so",
+      "start": 2622.319,
+      "duration": 3.641
+    },
+    {
+      "text": "there are certain indicators within",
+      "start": 2624.359,
+      "duration": 4.0
+    },
+    {
+      "text": "blood test that you can look at so a low",
+      "start": 2625.96,
+      "duration": 4.44
+    },
+    {
+      "text": "iron test can come from low thyroid as",
+      "start": 2628.359,
+      "duration": 4.801
+    },
+    {
+      "text": "well so it's worth looking at those",
+      "start": 2630.4,
+      "duration": 4.76
+    },
+    {
+      "text": "other markers that I think can be quite",
+      "start": 2633.16,
+      "duration": 4.399
+    },
+    {
+      "text": "useful and then you know time that in",
+      "start": 2635.16,
+      "duration": 4.439
+    },
+    {
+      "text": "with the temperature and pulse test I",
+      "start": 2637.559,
+      "duration": 4.321
+    },
+    {
+      "text": "mean the key clinical indicators for low",
+      "start": 2639.599,
+      "duration": 5.361
+    },
+    {
+      "text": "thyroid the symptomology is constipation",
+      "start": 2641.88,
+      "duration": 6.28
+    },
+    {
+      "text": "hairfall infertility cold hands cold",
+      "start": 2644.96,
+      "duration": 6.639
+    },
+    {
+      "text": "feet what else we got uh brain fock",
+      "start": 2648.16,
+      "duration": 6.08
+    },
+    {
+      "text": "fatigue Seasonal effective disorder can",
+      "start": 2651.599,
+      "duration": 4.441
+    },
+    {
+      "text": "be implicated with it as well kind of",
+      "start": 2654.24,
+      "duration": 4.079
+    },
+    {
+      "text": "low mood during winter I think is an",
+      "start": 2656.04,
+      "duration": 3.88
+    },
+    {
+      "text": "interesting one and worth talking about",
+      "start": 2658.319,
+      "duration": 4.841
+    },
+    {
+      "text": "as well and so it's not always people",
+      "start": 2659.92,
+      "duration": 5.76
+    },
+    {
+      "text": "who are overweight who have low thyroid",
+      "start": 2663.16,
+      "duration": 4.52
+    },
+    {
+      "text": "you can be significantly way and have",
+      "start": 2665.68,
+      "duration": 3.96
+    },
+    {
+      "text": "low thyroid and a lots of the old",
+      "start": 2667.68,
+      "duration": 4.04
+    },
+    {
+      "text": "researchers found actually anorexia was",
+      "start": 2669.64,
+      "duration": 3.84
+    },
+    {
+      "text": "often a key finding in low thyroid",
+      "start": 2671.72,
+      "duration": 4.119
+    },
+    {
+      "text": "function so it doesn't always mean",
+      "start": 2673.48,
+      "duration": 3.96
+    },
+    {
+      "text": "people who are overweight it doesn't",
+      "start": 2675.839,
+      "duration": 3.361
+    },
+    {
+      "text": "mean having all of those things at once",
+      "start": 2677.44,
+      "duration": 3.56
+    },
+    {
+      "text": "it could be one thing and then things",
+      "start": 2679.2,
+      "duration": 3.879
+    },
+    {
+      "text": "starts kind of it take can take",
+      "start": 2681.0,
+      "duration": 4.28
+    },
+    {
+      "text": "sometimes years for the thyroid to kind",
+      "start": 2683.079,
+      "duration": 4.681
+    },
+    {
+      "text": "of be you become you become Franken over",
+      "start": 2685.28,
+      "duration": 5.839
+    },
+    {
+      "text": "hypothyroidism so it can be tricky but I",
+      "start": 2687.76,
+      "duration": 5.079
+    },
+    {
+      "text": "think if you give all the tools and",
+      "start": 2691.119,
+      "duration": 3.681
+    },
+    {
+      "text": "you're aware of it that there are some",
+      "start": 2692.839,
+      "duration": 3.641
+    },
+    {
+      "text": "things that you can do to pest to your",
+      "start": 2694.8,
+      "duration": 4.16
+    },
+    {
+      "text": "doctor to to kind of get more Resolve",
+      "start": 2696.48,
+      "duration": 4.92
+    },
+    {
+      "text": "from it yeah so it sounds like it's more",
+      "start": 2698.96,
+      "duration": 4.159
+    },
+    {
+      "text": "of a case of you know lots of different",
+      "start": 2701.4,
+      "duration": 3.08
+    },
+    {
+      "text": "things and then taking a bit of an",
+      "start": 2703.119,
+      "duration": 3.041
+    },
+    {
+      "text": "overview and sort of thinking right well",
+      "start": 2704.48,
+      "duration": 3.24
+    },
+    {
+      "text": "you've got those symptoms and those",
+      "start": 2706.16,
+      "duration": 4.0
+    },
+    {
+      "text": "things are you know borderline or or",
+      "start": 2707.72,
+      "duration": 3.92
+    },
+    {
+      "text": "whatever and and being able to kind of",
+      "start": 2710.16,
+      "duration": 4.199
+    },
+    {
+      "text": "look at the bigger picture yeah yeah and",
+      "start": 2711.64,
+      "duration": 4.679
+    },
+    {
+      "text": "to be honest you have doctors clinical",
+      "start": 2714.359,
+      "duration": 3.96
+    },
+    {
+      "text": "research doctors who've been struck off",
+      "start": 2716.319,
+      "duration": 3.841
+    },
+    {
+      "text": "before for treating symptoms rather than",
+      "start": 2718.319,
+      "duration": 3.921
+    },
+    {
+      "text": "blood tests which I think is a is a",
+      "start": 2720.16,
+      "duration": 4.08
+    },
+    {
+      "text": "crime uh it is when when you've got",
+      "start": 2722.24,
+      "duration": 3.4
+    },
+    {
+      "text": "actually very accomplished doctors who",
+      "start": 2724.24,
+      "duration": 2.44
+    },
+    {
+      "text": "knew more than the people that were",
+      "start": 2725.64,
+      "duration": 3.0
+    },
+    {
+      "text": "striking them off who used to say it to",
+      "start": 2726.68,
+      "duration": 3.8
+    },
+    {
+      "text": "it would take years for the TSH to fully",
+      "start": 2728.64,
+      "duration": 3.479
+    },
+    {
+      "text": "come up to where it should be to",
+      "start": 2730.48,
+      "duration": 3.52
+    },
+    {
+      "text": "diagnose the live thyroid and that's",
+      "start": 2732.119,
+      "duration": 3.641
+    },
+    {
+      "text": "where you get into the contentiousness",
+      "start": 2734.0,
+      "duration": 4.079
+    },
+    {
+      "text": "of subclinical hypothyroidism and when",
+      "start": 2735.76,
+      "duration": 4.72
+    },
+    {
+      "text": "to treat it and there are there are lots",
+      "start": 2738.079,
+      "duration": 4.081
+    },
+    {
+      "text": "of different arguments around that about",
+      "start": 2740.48,
+      "duration": 3.72
+    },
+    {
+      "text": "you know the the trial cohort what their",
+      "start": 2742.16,
+      "duration": 4.36
+    },
+    {
+      "text": "nutrition was like you know uh what",
+      "start": 2744.2,
+      "duration": 3.96
+    },
+    {
+      "text": "pollution area they were like in was",
+      "start": 2746.52,
+      "duration": 3.36
+    },
+    {
+      "text": "there any thyroid hormone resistance was",
+      "start": 2748.16,
+      "duration": 2.84
+    },
+    {
+      "text": "would given them a certain type of",
+      "start": 2749.88,
+      "duration": 3.32
+    },
+    {
+      "text": "medication been better than the one that",
+      "start": 2751.0,
+      "duration": 4.359
+    },
+    {
+      "text": "they're being given there so much you",
+      "start": 2753.2,
+      "duration": 4.8
+    },
+    {
+      "text": "know discussion around it um but you",
+      "start": 2755.359,
+      "duration": 4.2
+    },
+    {
+      "text": "know it still still comes back to the",
+      "start": 2758.0,
+      "duration": 2.48
+    },
+    {
+      "text": "main point that you have to get your",
+      "start": 2759.559,
+      "duration": 3.76
+    },
+    {
+      "text": "intuition right first I mean there's no",
+      "start": 2760.48,
+      "duration": 4.879
+    },
+    {
+      "text": "good you know trying to take thyroid",
+      "start": 2763.319,
+      "duration": 4.321
+    },
+    {
+      "text": "hormone if your if your nutrition's crap",
+      "start": 2765.359,
+      "duration": 3.921
+    },
+    {
+      "text": "to be honest it's going to cause more",
+      "start": 2767.64,
+      "duration": 4.4
+    },
+    {
+      "text": "problems yes yeah definitely and I guess",
+      "start": 2769.28,
+      "duration": 4.24
+    },
+    {
+      "text": "that comes back to mean what I've kind",
+      "start": 2772.04,
+      "duration": 3.72
+    },
+    {
+      "text": "of been thinking for ages is that uh you",
+      "start": 2773.52,
+      "duration": 4.28
+    },
+    {
+      "text": "know there's so much that we can do and",
+      "start": 2775.76,
+      "duration": 4.16
+    },
+    {
+      "text": "we can improve you know you've been",
+      "start": 2777.8,
+      "duration": 3.88
+    },
+    {
+      "text": "talking a lot about nutrition breathing",
+      "start": 2779.92,
+      "duration": 3.399
+    },
+    {
+      "text": "I was saying has been a big thing for me",
+      "start": 2781.68,
+      "duration": 3.36
+    },
+    {
+      "text": "you know there's so many things that we",
+      "start": 2783.319,
+      "duration": 4.161
+    },
+    {
+      "text": "can do ourselves",
+      "start": 2785.04,
+      "duration": 5.36
+    },
+    {
+      "text": "um you know and I I like having things",
+      "start": 2787.48,
+      "duration": 5.0
+    },
+    {
+      "text": "that I can do I'm very bad at sitting",
+      "start": 2790.4,
+      "duration": 4.36
+    },
+    {
+      "text": "around not doing things but you know",
+      "start": 2792.48,
+      "duration": 3.639
+    },
+    {
+      "text": "have having a list of things right I've",
+      "start": 2794.76,
+      "duration": 2.599
+    },
+    {
+      "text": "looked at that I've looked at that I've",
+      "start": 2796.119,
+      "duration": 3.161
+    },
+    {
+      "text": "looked at that and you know to be fair",
+      "start": 2797.359,
+      "duration": 4.121
+    },
+    {
+      "text": "each thing I've kind of worked on it",
+      "start": 2799.28,
+      "duration": 4.96
+    },
+    {
+      "text": "generally has helped so you know well",
+      "start": 2801.48,
+      "duration": 4.879
+    },
+    {
+      "text": "it's just about chipping away isn't it",
+      "start": 2804.24,
+      "duration": 4.0
+    },
+    {
+      "text": "it's chipping away to get to get to that",
+      "start": 2806.359,
+      "duration": 4.521
+    },
+    {
+      "text": "root root cause of what's missing and I",
+      "start": 2808.24,
+      "duration": 4.72
+    },
+    {
+      "text": "think if you can do that you're going to",
+      "start": 2810.88,
+      "duration": 4.8
+    },
+    {
+      "text": "be in a good State along the way so it's",
+      "start": 2812.96,
+      "duration": 5.24
+    },
+    {
+      "text": "almost it's about being patient as well",
+      "start": 2815.68,
+      "duration": 4.28
+    },
+    {
+      "text": "sometimes I was trying to think of good",
+      "start": 2818.2,
+      "duration": 4.32
+    },
+    {
+      "text": "analogy but it's like sometimes bad",
+      "start": 2819.96,
+      "duration": 5.32
+    },
+    {
+      "text": "comparing mechanical kind of systems to",
+      "start": 2822.52,
+      "duration": 5.039
+    },
+    {
+      "text": "complex biological systems but you know",
+      "start": 2825.28,
+      "duration": 4.12
+    },
+    {
+      "text": "you'll be driving your car one day and",
+      "start": 2827.559,
+      "duration": 3.28
+    },
+    {
+      "text": "you take it for theot and you think",
+      "start": 2829.4,
+      "duration": 3.6
+    },
+    {
+      "text": "nothing's wrong with it and the mechanic",
+      "start": 2830.839,
+      "duration": 4.441
+    },
+    {
+      "text": "if they're honest brings up you know",
+      "start": 2833.0,
+      "duration": 3.88
+    },
+    {
+      "text": "four or five things that doesn't let the",
+      "start": 2835.28,
+      "duration": 4.039
+    },
+    {
+      "text": "car pass and how many people would have",
+      "start": 2836.88,
+      "duration": 4.28
+    },
+    {
+      "text": "been exposed to an infection they just",
+      "start": 2839.319,
+      "duration": 3.961
+    },
+    {
+      "text": "had no idea where their physiology was",
+      "start": 2841.16,
+      "duration": 4.399
+    },
+    {
+      "text": "at uh whether they're boarding on blood",
+      "start": 2843.28,
+      "duration": 4.44
+    },
+    {
+      "text": "glucose issues whether they had low",
+      "start": 2845.559,
+      "duration": 4.161
+    },
+    {
+      "text": "immune system function whether their",
+      "start": 2847.72,
+      "duration": 4.399
+    },
+    {
+      "text": "thyroid was low thinking their nutrition",
+      "start": 2849.72,
+      "duration": 4.04
+    },
+    {
+      "text": "was right and you know the concept of",
+      "start": 2852.119,
+      "duration": 3.24
+    },
+    {
+      "text": "good nutrition everybody thinks they",
+      "start": 2853.76,
+      "duration": 3.68
+    },
+    {
+      "text": "they know what good nutrition is but",
+      "start": 2855.359,
+      "duration": 4.24
+    },
+    {
+      "text": "some people do really badly on a healthy",
+      "start": 2857.44,
+      "duration": 3.84
+    },
+    {
+      "text": "diet full of vegetables some people just",
+      "start": 2859.599,
+      "duration": 4.321
+    },
+    {
+      "text": "do absolutely atrociously on it uh",
+      "start": 2861.28,
+      "duration": 3.96
+    },
+    {
+      "text": "because especially if we're going for a",
+      "start": 2863.92,
+      "duration": 4.199
+    },
+    {
+      "text": "raw green Veg it's like plants have have",
+      "start": 2865.24,
+      "duration": 5.24
+    },
+    {
+      "text": "evolved over Millennia and they produce",
+      "start": 2868.119,
+      "duration": 4.44
+    },
+    {
+      "text": "very potent plant toxins that can slow",
+      "start": 2870.48,
+      "duration": 5.0
+    },
+    {
+      "text": "down physiology and slow down function",
+      "start": 2872.559,
+      "duration": 4.601
+    },
+    {
+      "text": "so people who think they're on a good",
+      "start": 2875.48,
+      "duration": 3.8
+    },
+    {
+      "text": "healthy diet who do lots of exercise",
+      "start": 2877.16,
+      "duration": 3.24
+    },
+    {
+      "text": "that doesn't mean you're healthy and",
+      "start": 2879.28,
+      "duration": 3.68
+    },
+    {
+      "text": "able to fight viruses half the time so I",
+      "start": 2880.4,
+      "duration": 3.84
+    },
+    {
+      "text": "think the ultimate question is what",
+      "start": 2882.96,
+      "duration": 4.0
+    },
+    {
+      "text": "dictates good physiology and you know",
+      "start": 2884.24,
+      "duration": 4.16
+    },
+    {
+      "text": "there there are kind of many different",
+      "start": 2886.96,
+      "duration": 3.44
+    },
+    {
+      "text": "opinions on on what constitutes good",
+      "start": 2888.4,
+      "duration": 4.04
+    },
+    {
+      "text": "physiology yes and I guess it's getting",
+      "start": 2890.4,
+      "duration": 4.04
+    },
+    {
+      "text": "your nutrition and your the things that",
+      "start": 2892.44,
+      "duration": 4.0
+    },
+    {
+      "text": "you're doing to help and getting that to",
+      "start": 2894.44,
+      "duration": 3.919
+    },
+    {
+      "text": "to match what you're expecting of your",
+      "start": 2896.44,
+      "duration": 3.44
+    },
+    {
+      "text": "body so if you're doing a lot of",
+      "start": 2898.359,
+      "duration": 3.2
+    },
+    {
+      "text": "exercise you're probably not going to",
+      "start": 2899.88,
+      "duration": 3.28
+    },
+    {
+      "text": "have the same nutrition as somebody who",
+      "start": 2901.559,
+      "duration": 4.601
+    },
+    {
+      "text": "does very little yeah but also the point",
+      "start": 2903.16,
+      "duration": 5.36
+    },
+    {
+      "text": "I want to make is the concept of doing",
+      "start": 2906.16,
+      "duration": 4.36
+    },
+    {
+      "text": "more Fitness than you need to can",
+      "start": 2908.52,
+      "duration": 3.76
+    },
+    {
+      "text": "suppress physiology and this kind of",
+      "start": 2910.52,
+      "duration": 3.319
+    },
+    {
+      "text": "bringing it back to thyroid function is",
+      "start": 2912.28,
+      "duration": 3.6
+    },
+    {
+      "text": "that some people with clients have found",
+      "start": 2913.839,
+      "duration": 3.681
+    },
+    {
+      "text": "they want to exercise six or seven days",
+      "start": 2915.88,
+      "duration": 4.6
+    },
+    {
+      "text": "a week because when they stop exercising",
+      "start": 2917.52,
+      "duration": 4.799
+    },
+    {
+      "text": "their body temperature goes down so they",
+      "start": 2920.48,
+      "duration": 4.24
+    },
+    {
+      "text": "repeatedly do lots of exercise to bring",
+      "start": 2922.319,
+      "duration": 3.681
+    },
+    {
+      "text": "their body temperature up which makes",
+      "start": 2924.72,
+      "duration": 2.92
+    },
+    {
+      "text": "them feel better until the next time",
+      "start": 2926.0,
+      "duration": 2.96
+    },
+    {
+      "text": "when they do it again so they think",
+      "start": 2927.64,
+      "duration": 2.76
+    },
+    {
+      "text": "exercising every single day is really",
+      "start": 2928.96,
+      "duration": 3.08
+    },
+    {
+      "text": "good and you take them get them to take",
+      "start": 2930.4,
+      "duration": 3.08
+    },
+    {
+      "text": "a holiday for two weeks and they feel",
+      "start": 2932.04,
+      "duration": 4.039
+    },
+    {
+      "text": "like absolute crap because they haven't",
+      "start": 2933.48,
+      "duration": 4.319
+    },
+    {
+      "text": "been going through this kind of you know",
+      "start": 2936.079,
+      "duration": 4.04
+    },
+    {
+      "text": "treadmill of increasing body temperature",
+      "start": 2937.799,
+      "duration": 4.201
+    },
+    {
+      "text": "weight till it decreases that's",
+      "start": 2940.119,
+      "duration": 3.2
+    },
+    {
+      "text": "sometimes how people support their",
+      "start": 2942.0,
+      "duration": 3.839
+    },
+    {
+      "text": "physiology by stress because they run",
+      "start": 2943.319,
+      "duration": 4.52
+    },
+    {
+      "text": "off adrenaline wait for the next hit of",
+      "start": 2945.839,
+      "duration": 3.24
+    },
+    {
+      "text": "adrenaline and then the next hit of",
+      "start": 2947.839,
+      "duration": 2.641
+    },
+    {
+      "text": "adrenaline and that's how they keep",
+      "start": 2949.079,
+      "duration": 2.52
+    },
+    {
+      "text": "themselves up in that state without",
+      "start": 2950.48,
+      "duration": 2.319
+    },
+    {
+      "text": "actually knowing and I'm not saying",
+      "start": 2951.599,
+      "duration": 3.121
+    },
+    {
+      "text": "exercise is bad here strength training",
+      "start": 2952.799,
+      "duration": 3.52
+    },
+    {
+      "text": "and all types of exercise are absolutely",
+      "start": 2954.72,
+      "duration": 3.68
+    },
+    {
+      "text": "fantastic but doing the right amount",
+      "start": 2956.319,
+      "duration": 3.8
+    },
+    {
+      "text": "rather than doing six seven days a week",
+      "start": 2958.4,
+      "duration": 3.399
+    },
+    {
+      "text": "is essential a good strength program and",
+      "start": 2960.119,
+      "duration": 3.121
+    },
+    {
+      "text": "you get great results from two to three",
+      "start": 2961.799,
+      "duration": 3.641
+    },
+    {
+      "text": "days a week you can walk every day you",
+      "start": 2963.24,
+      "duration": 3.48
+    },
+    {
+      "text": "don't need to be pushing yourself in",
+      "start": 2965.44,
+      "duration": 3.119
+    },
+    {
+      "text": "into a hole and that's why I think where",
+      "start": 2966.72,
+      "duration": 3.44
+    },
+    {
+      "text": "you saw some kind of people who who were",
+      "start": 2968.559,
+      "duration": 3.681
+    },
+    {
+      "text": "saying this guy was super fit and look",
+      "start": 2970.16,
+      "duration": 4.0
+    },
+    {
+      "text": "how he suffered it's like Fitness does",
+      "start": 2972.24,
+      "duration": 3.4
+    },
+    {
+      "text": "not equate to health when you're kind of",
+      "start": 2974.16,
+      "duration": 3.48
+    },
+    {
+      "text": "pushing the boundary athletes aren't all",
+      "start": 2975.64,
+      "duration": 4.36
+    },
+    {
+      "text": "aren't healthy it's like their fit",
+      "start": 2977.64,
+      "duration": 3.959
+    },
+    {
+      "text": "Fitness performance is very different",
+      "start": 2980.0,
+      "duration": 4.2
+    },
+    {
+      "text": "from from Health it's very rare you see",
+      "start": 2981.599,
+      "duration": 4.48
+    },
+    {
+      "text": "lots of kind of high level athletes",
+      "start": 2984.2,
+      "duration": 4.119
+    },
+    {
+      "text": "living into their hundreds yeah that's a",
+      "start": 2986.079,
+      "duration": 4.24
+    },
+    {
+      "text": "very fair point actually and uh you know",
+      "start": 2988.319,
+      "duration": 3.8
+    },
+    {
+      "text": "that there are a lot of people I was",
+      "start": 2990.319,
+      "duration": 4.361
+    },
+    {
+      "text": "very fit before I had Co but as it turns",
+      "start": 2992.119,
+      "duration": 5.081
+    },
+    {
+      "text": "out I probably wasn't that healthy",
+      "start": 2994.68,
+      "duration": 4.52
+    },
+    {
+      "text": "and uh you know this the same is true of",
+      "start": 2997.2,
+      "duration": 4.08
+    },
+    {
+      "text": "um a lot of people who have ended up",
+      "start": 2999.2,
+      "duration": 4.52
+    },
+    {
+      "text": "with with long Co and um you know they",
+      "start": 3001.28,
+      "duration": 4.96
+    },
+    {
+      "text": "were you know fit and healthy and",
+      "start": 3003.72,
+      "duration": 5.68
+    },
+    {
+      "text": "inverted Comas beforehand so you know on",
+      "start": 3006.24,
+      "duration": 4.72
+    },
+    {
+      "text": "paper should have been fine but when you",
+      "start": 3009.4,
+      "duration": 3.959
+    },
+    {
+      "text": "look a little bit deeper into it maybe a",
+      "start": 3010.96,
+      "duration": 5.359
+    },
+    {
+      "text": "lot of them weren't yeah and sometimes",
+      "start": 3013.359,
+      "duration": 4.121
+    },
+    {
+      "text": "you just don't know right you think we",
+      "start": 3016.319,
+      "duration": 2.561
+    },
+    {
+      "text": "doing the right thing to to work hard",
+      "start": 3017.48,
+      "duration": 3.319
+    },
+    {
+      "text": "and eat eat really healthy foods that",
+      "start": 3018.88,
+      "duration": 3.6
+    },
+    {
+      "text": "kind of uh are they actually that",
+      "start": 3020.799,
+      "duration": 4.52
+    },
+    {
+      "text": "healthy so it's it's a unfortunately you",
+      "start": 3022.48,
+      "duration": 4.92
+    },
+    {
+      "text": "don't find out until too late do you",
+      "start": 3025.319,
+      "duration": 3.76
+    },
+    {
+      "text": "sometimes well exactly you know there's",
+      "start": 3027.4,
+      "duration": 3.0
+    },
+    {
+      "text": "nothing like being out for two and a",
+      "start": 3029.079,
+      "duration": 2.681
+    },
+    {
+      "text": "half years to make you realize all the",
+      "start": 3030.4,
+      "duration": 2.88
+    },
+    {
+      "text": "things that you were doing wrong",
+      "start": 3031.76,
+      "duration": 4.0
+    },
+    {
+      "text": "beforehand and not to say that you know",
+      "start": 3033.28,
+      "duration": 4.039
+    },
+    {
+      "text": "it's always the way I'm saying it is",
+      "start": 3035.76,
+      "duration": 3.48
+    },
+    {
+      "text": "there there can be outliers you know",
+      "start": 3037.319,
+      "duration": 3.28
+    },
+    {
+      "text": "there's absolutely no doubt I'm not",
+      "start": 3039.24,
+      "duration": 3.48
+    },
+    {
+      "text": "absolutist and too dogmatic to say that",
+      "start": 3040.599,
+      "duration": 4.601
+    },
+    {
+      "text": "I I know everything I don't I'm just",
+      "start": 3042.72,
+      "duration": 4.2
+    },
+    {
+      "text": "going working with my own context of",
+      "start": 3045.2,
+      "duration": 3.68
+    },
+    {
+      "text": "people and the diagnosis they've come to",
+      "start": 3046.92,
+      "duration": 3.399
+    },
+    {
+      "text": "me with before and working with people",
+      "start": 3048.88,
+      "duration": 3.439
+    },
+    {
+      "text": "to get them to Better Health so I just",
+      "start": 3050.319,
+      "duration": 4.04
+    },
+    {
+      "text": "think there are lots of kind of deficits",
+      "start": 3052.319,
+      "duration": 3.48
+    },
+    {
+      "text": "that need resolving for a lot of people",
+      "start": 3054.359,
+      "duration": 3.0
+    },
+    {
+      "text": "and I I I stand by those major",
+      "start": 3055.799,
+      "duration": 2.961
+    },
+    {
+      "text": "components that I kind of talked about",
+      "start": 3057.359,
+      "duration": 3.081
+    },
+    {
+      "text": "and there are plenty more behind them",
+      "start": 3058.76,
+      "duration": 4.0
+    },
+    {
+      "text": "yeah absolutely I think you've uh you've",
+      "start": 3060.44,
+      "duration": 4.32
+    },
+    {
+      "text": "given like loads and loads and loads of",
+      "start": 3062.76,
+      "duration": 4.16
+    },
+    {
+      "text": "tips is there anything else you want to",
+      "start": 3064.76,
+      "duration": 3.839
+    },
+    {
+      "text": "mention that people could could do to",
+      "start": 3066.92,
+      "duration": 4.56
+    },
+    {
+      "text": "help um well I I've seen a number of",
+      "start": 3068.599,
+      "duration": 4.801
+    },
+    {
+      "text": "people respond really really well to",
+      "start": 3071.48,
+      "duration": 4.639
+    },
+    {
+      "text": "methylin Blue which is a synthetic Dy",
+      "start": 3073.4,
+      "duration": 5.76
+    },
+    {
+      "text": "which has been used in ADHD Parkinson's",
+      "start": 3076.119,
+      "duration": 4.881
+    },
+    {
+      "text": "human parasites resolving poisoning",
+      "start": 3079.16,
+      "duration": 3.6
+    },
+    {
+      "text": "Sinai poisoning and all of these kind of",
+      "start": 3081.0,
+      "duration": 3.799
+    },
+    {
+      "text": "things it's it works very very well I",
+      "start": 3082.76,
+      "duration": 4.44
+    },
+    {
+      "text": "think it's something worth looking at uh",
+      "start": 3084.799,
+      "duration": 4.401
+    },
+    {
+      "text": "you can get it from R&D Labs I've seen",
+      "start": 3087.2,
+      "duration": 3.399
+    },
+    {
+      "text": "it work well in clients that have been",
+      "start": 3089.2,
+      "duration": 2.96
+    },
+    {
+      "text": "injured by vaccines and clients that",
+      "start": 3090.599,
+      "duration": 3.281
+    },
+    {
+      "text": "have been injured by covid alike it",
+      "start": 3092.16,
+      "duration": 3.56
+    },
+    {
+      "text": "works very very well for restoring",
+      "start": 3093.88,
+      "duration": 4.0
+    },
+    {
+      "text": "physiology there are hundreds of papers",
+      "start": 3095.72,
+      "duration": 4.24
+    },
+    {
+      "text": "on the use of methylin blue there's a",
+      "start": 3097.88,
+      "duration": 3.88
+    },
+    {
+      "text": "very good paper on the effects of",
+      "start": 3099.96,
+      "duration": 4.48
+    },
+    {
+      "text": "methylin blue inhibiting SAR CO2 it's",
+      "start": 3101.76,
+      "duration": 3.72
+    },
+    {
+      "text": "one of those things that should have",
+      "start": 3104.44,
+      "duration": 3.84
+    },
+    {
+      "text": "been used as a medication um in fact",
+      "start": 3105.48,
+      "duration": 4.639
+    },
+    {
+      "text": "there's a guy in India who's a",
+      "start": 3108.28,
+      "duration": 3.76
+    },
+    {
+      "text": "respiratory physiologist who's been",
+      "start": 3110.119,
+      "duration": 4.44
+    },
+    {
+      "text": "using it to cure TB scarring in lung",
+      "start": 3112.04,
+      "duration": 5.6
+    },
+    {
+      "text": "patients for decades and and he's he's a",
+      "start": 3114.559,
+      "duration": 4.441
+    },
+    {
+      "text": "very accomplished respiratory",
+      "start": 3117.64,
+      "duration": 3.88
+    },
+    {
+      "text": "physiologist so there are a number of",
+      "start": 3119.0,
+      "duration": 5.28
+    },
+    {
+      "text": "uses of methylin blue that have uh very",
+      "start": 3121.52,
+      "duration": 4.079
+    },
+    {
+      "text": "good clinical results and I would",
+      "start": 3124.28,
+      "duration": 2.799
+    },
+    {
+      "text": "encourage people to to look at that and",
+      "start": 3125.599,
+      "duration": 4.0
+    },
+    {
+      "text": "look at the research on that amazing",
+      "start": 3127.079,
+      "duration": 5.161
+    },
+    {
+      "text": "well um thank you so so much for joining",
+      "start": 3129.599,
+      "duration": 4.96
+    },
+    {
+      "text": "me today I've certainly learned a lot",
+      "start": 3132.24,
+      "duration": 4.48
+    },
+    {
+      "text": "and I'm sure everybody else listening",
+      "start": 3134.559,
+      "duration": 4.8
+    },
+    {
+      "text": "has as well so it's been really really",
+      "start": 3136.72,
+      "duration": 4.879
+    },
+    {
+      "text": "fascinating um I'll make sure I drop the",
+      "start": 3139.359,
+      "duration": 4.841
+    },
+    {
+      "text": "link to your website into the show notes",
+      "start": 3141.599,
+      "duration": 5.121
+    },
+    {
+      "text": "So yeah thank you so much um for talking",
+      "start": 3144.2,
+      "duration": 3.76
+    },
+    {
+      "text": "to me and to giving up your time",
+      "start": 3146.72,
+      "duration": 3.119
+    },
+    {
+      "text": "pleasure thanks for having me thank you",
+      "start": 3147.96,
+      "duration": 4.08
+    },
+    {
+      "text": "so much to all of my guests and to you",
+      "start": 3149.839,
+      "duration": 4.801
+    },
+    {
+      "text": "for listening I hope you've enjoyed it",
+      "start": 3152.04,
+      "duration": 5.72
+    },
+    {
+      "text": "or at least found it useful the long Co",
+      "start": 3154.64,
+      "duration": 5.159
+    },
+    {
+      "text": "podcast is entirely self-produced and",
+      "start": 3157.76,
+      "duration": 4.599
+    },
+    {
+      "text": "self-funded I'm doing all of this",
+      "start": 3159.799,
+      "duration": 5.361
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 3162.359,
+      "duration": 4.281
+    },
+    {
+      "text": "buyme a",
+      "start": 3165.16,
+      "duration": 4.679
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 3166.64,
+      "duration": 5.159
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 3169.839,
+      "duration": 4.041
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 3171.799,
+      "duration": 4.201
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 3173.88,
+      "duration": 4.16
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 3176.0,
+      "duration": 5.119
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 3178.04,
+      "duration": 6.759
+    },
+    {
+      "text": "love to hear from you",
+      "start": 3181.119,
+      "duration": 3.68
+    }
+  ],
+  "metadata": {
+    "title": "45 - Keith Littlewood - Hormones, the thyroid & more",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/PdrsgwyrzZY/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 45,
+    "title": "45 - Keith Littlewood - Hormones, the thyroid & more",
+    "videoId": "PdrsgwyrzZY",
+    "lengthText": "53:10"
+  }
+}

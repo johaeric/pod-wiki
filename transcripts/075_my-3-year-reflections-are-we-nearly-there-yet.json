@@ -1,0 +1,1983 @@
+{
+  "video_id": "764VSWtEJG0",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go so this week marks 3 years since I",
+      "start": 55.16,
+      "duration": 6.32
+    },
+    {
+      "text": "got sick with Co it was also",
+      "start": 59.079,
+      "duration": 4.64
+    },
+    {
+      "text": "International long covid Awareness Day",
+      "start": 61.48,
+      "duration": 4.999
+    },
+    {
+      "text": "on Wednesday and a lot of people I know",
+      "start": 63.719,
+      "duration": 5.641
+    },
+    {
+      "text": "are having their anniversaries at the",
+      "start": 66.479,
+      "duration": 5.521
+    },
+    {
+      "text": "moment um it is a sobering reminder of",
+      "start": 69.36,
+      "duration": 4.399
+    },
+    {
+      "text": "how many other people who came down with",
+      "start": 72.0,
+      "duration": 4.479
+    },
+    {
+      "text": "covid that week 3 years ago and went on",
+      "start": 73.759,
+      "duration": 5.081
+    },
+    {
+      "text": "to develop long covid are not yet",
+      "start": 76.479,
+      "duration": 4.801
+    },
+    {
+      "text": "recovered and then of course the",
+      "start": 78.84,
+      "duration": 4.36
+    },
+    {
+      "text": "thousands and thousands and thousands",
+      "start": 81.28,
+      "duration": 4.199
+    },
+    {
+      "text": "that followed in their",
+      "start": 83.2,
+      "duration": 6.12
+    },
+    {
+      "text": "wake when we're unwell we often lose the",
+      "start": 85.479,
+      "duration": 6.6
+    },
+    {
+      "text": "structure in our Our Lives work social",
+      "start": 89.32,
+      "duration": 6.56
+    },
+    {
+      "text": "events days of the week years so when we",
+      "start": 92.079,
+      "duration": 6.281
+    },
+    {
+      "text": "get a particular marker a birthday a",
+      "start": 95.88,
+      "duration": 4.76
+    },
+    {
+      "text": "Christmas or the 3 years from when you",
+      "start": 98.36,
+      "duration": 4.6
+    },
+    {
+      "text": "got sick marker they do tend to be a",
+      "start": 100.64,
+      "duration": 5.6
+    },
+    {
+      "text": "time for looking back and taking",
+      "start": 102.96,
+      "duration": 7.479
+    },
+    {
+      "text": "stock and that I guess can also be quite",
+      "start": 106.24,
+      "duration": 6.8
+    },
+    {
+      "text": "a negative thing",
+      "start": 110.439,
+      "duration": 5.32
+    },
+    {
+      "text": "sometimes but until earlier this week I",
+      "start": 113.04,
+      "duration": 4.56
+    },
+    {
+      "text": "was actually feeling super positive",
+      "start": 115.759,
+      "duration": 4.28
+    },
+    {
+      "text": "about it things were going so much",
+      "start": 117.6,
+      "duration": 4.879
+    },
+    {
+      "text": "better I was able to do more and",
+      "start": 120.039,
+      "duration": 4.601
+    },
+    {
+      "text": "although I wasn't there yet I was",
+      "start": 122.479,
+      "duration": 4.401
+    },
+    {
+      "text": "feeling really positive about",
+      "start": 124.64,
+      "duration": 4.759
+    },
+    {
+      "text": "recovery and then on Monday morning I",
+      "start": 126.88,
+      "duration": 4.079
+    },
+    {
+      "text": "went down like a sack of",
+      "start": 129.399,
+      "duration": 4.48
+    },
+    {
+      "text": "buds but actually with a little bit of",
+      "start": 130.959,
+      "duration": 5.92
+    },
+    {
+      "text": "perspective I'm now still feeling really",
+      "start": 133.879,
+      "duration": 5.561
+    },
+    {
+      "text": "positive but this story doesn't start",
+      "start": 136.879,
+      "duration": 4.121
+    },
+    {
+      "text": "with me hitting the deck on Monday",
+      "start": 139.44,
+      "duration": 4.96
+    },
+    {
+      "text": "obviously it goes back a lot further 3",
+      "start": 141.0,
+      "duration": 7.48
+    },
+    {
+      "text": "years further in fact if not",
+      "start": 144.4,
+      "duration": 8.28
+    },
+    {
+      "text": "earlier 3 years ago it was a Sunday I",
+      "start": 148.48,
+      "duration": 6.24
+    },
+    {
+      "text": "was out Hill walking with my partner",
+      "start": 152.68,
+      "duration": 3.6
+    },
+    {
+      "text": "this wasn't unusual it was something we",
+      "start": 154.72,
+      "duration": 4.12
+    },
+    {
+      "text": "did every weekend every holiday and in",
+      "start": 156.28,
+      "duration": 5.76
+    },
+    {
+      "text": "fact it was how we met it was what we",
+      "start": 158.84,
+      "duration": 5.88
+    },
+    {
+      "text": "did I'd also been feeling tired this",
+      "start": 162.04,
+      "duration": 5.04
+    },
+    {
+      "text": "also wasn't unusual I worked a lot I had",
+      "start": 164.72,
+      "duration": 5.28
+    },
+    {
+      "text": "a long commute and it was also Peak exam",
+      "start": 167.08,
+      "duration": 5.2
+    },
+    {
+      "text": "and concert season at all my schools so",
+      "start": 170.0,
+      "duration": 4.08
+    },
+    {
+      "text": "it was busy and",
+      "start": 172.28,
+      "duration": 4.039
+    },
+    {
+      "text": "stressful during the course of the day I",
+      "start": 174.08,
+      "duration": 3.799
+    },
+    {
+      "text": "became more and more tired to the point",
+      "start": 176.319,
+      "duration": 4.0
+    },
+    {
+      "text": "where I was struggling to walk my",
+      "start": 177.879,
+      "duration": 4.321
+    },
+    {
+      "text": "partner drove his home and I was pretty",
+      "start": 180.319,
+      "duration": 4.28
+    },
+    {
+      "text": "much out for the count in hindsight my",
+      "start": 182.2,
+      "duration": 4.88
+    },
+    {
+      "text": "breathing also wasn't right but at the",
+      "start": 184.599,
+      "duration": 4.601
+    },
+    {
+      "text": "time I was so busy being knackered that",
+      "start": 187.08,
+      "duration": 4.12
+    },
+    {
+      "text": "I barely noticed",
+      "start": 189.2,
+      "duration": 4.92
+    },
+    {
+      "text": "this I tried to get an early night and",
+      "start": 191.2,
+      "duration": 5.08
+    },
+    {
+      "text": "got ready for school the next day I",
+      "start": 194.12,
+      "duration": 5.199
+    },
+    {
+      "text": "didn't make it nor did I make it in",
+      "start": 196.28,
+      "duration": 5.48
+    },
+    {
+      "text": "again at no point did I think this could",
+      "start": 199.319,
+      "duration": 4.961
+    },
+    {
+      "text": "be Co there were just so few reported",
+      "start": 201.76,
+      "duration": 4.559
+    },
+    {
+      "text": "cases and I didn't have the symptoms",
+      "start": 204.28,
+      "duration": 4.12
+    },
+    {
+      "text": "that we were told to look out for this",
+      "start": 206.319,
+      "duration": 4.721
+    },
+    {
+      "text": "just felt like a stomach bug or a cold",
+      "start": 208.4,
+      "duration": 3.839
+    },
+    {
+      "text": "or",
+      "start": 211.04,
+      "duration": 3.64
+    },
+    {
+      "text": "something by Thursday afternoon I felt",
+      "start": 212.239,
+      "duration": 3.881
+    },
+    {
+      "text": "slightly better so we went out for a",
+      "start": 214.68,
+      "duration": 3.88
+    },
+    {
+      "text": "walk to the park I was struggling with",
+      "start": 216.12,
+      "duration": 4.64
+    },
+    {
+      "text": "my breathing I went to bed and things",
+      "start": 218.56,
+      "duration": 3.92
+    },
+    {
+      "text": "got progressively worse throughout the",
+      "start": 220.76,
+      "duration": 3.119
+    },
+    {
+      "text": "day to the point where my partner called",
+      "start": 222.48,
+      "duration": 3.08
+    },
+    {
+      "text": "the paramedics late that evening because",
+      "start": 223.879,
+      "duration": 4.881
+    },
+    {
+      "text": "I couldn't breathe they confirmed it was",
+      "start": 225.56,
+      "duration": 5.52
+    },
+    {
+      "text": "almost certainly Co that I should rest",
+      "start": 228.76,
+      "duration": 5.16
+    },
+    {
+      "text": "and isolate and I'd be fine in a week",
+      "start": 231.08,
+      "duration": 6.04
+    },
+    {
+      "text": "and why wouldn't I be I was fit healthy",
+      "start": 233.92,
+      "duration": 6.519
+    },
+    {
+      "text": "and 30 years old so I had no reason to",
+      "start": 237.12,
+      "duration": 5.479
+    },
+    {
+      "text": "be",
+      "start": 240.439,
+      "duration": 2.16
+    },
+    {
+      "text": "concerned writing this from 3 years on I",
+      "start": 242.72,
+      "duration": 5.28
+    },
+    {
+      "text": "can tell that I've learned a lot because",
+      "start": 245.879,
+      "duration": 3.761
+    },
+    {
+      "text": "thinking back to the lifestyle that I",
+      "start": 248.0,
+      "duration": 4.36
+    },
+    {
+      "text": "was living before I got sick I'm",
+      "start": 249.64,
+      "duration": 5.56
+    },
+    {
+      "text": "wondering what the hell I was doing I",
+      "start": 252.36,
+      "duration": 4.839
+    },
+    {
+      "text": "now know that I was expecting far too",
+      "start": 255.2,
+      "duration": 4.279
+    },
+    {
+      "text": "much of my body but at the time it would",
+      "start": 257.199,
+      "duration": 5.081
+    },
+    {
+      "text": "just seem normal I now know that being",
+      "start": 259.479,
+      "duration": 4.44
+    },
+    {
+      "text": "very fit doesn't necessarily mean",
+      "start": 262.28,
+      "duration": 2.72
+    },
+    {
+      "text": "completely",
+      "start": 263.919,
+      "duration": 3.441
+    },
+    {
+      "text": "healthy and that if I was working a",
+      "start": 265.0,
+      "duration": 4.44
+    },
+    {
+      "text": "stressful job and doing a lot of Errors",
+      "start": 267.36,
+      "duration": 3.88
+    },
+    {
+      "text": "often often more than required because",
+      "start": 269.44,
+      "duration": 4.479
+    },
+    {
+      "text": "I've always been a yes person then also",
+      "start": 271.24,
+      "duration": 4.48
+    },
+    {
+      "text": "doing a lot of physical activity on top",
+      "start": 273.919,
+      "duration": 3.481
+    },
+    {
+      "text": "of that is adding stress on top of",
+      "start": 275.72,
+      "duration": 3.84
+    },
+    {
+      "text": "stress on top of stress which is not a",
+      "start": 277.4,
+      "duration": 5.0
+    },
+    {
+      "text": "healthy state to be in so before I got",
+      "start": 279.56,
+      "duration": 5.24
+    },
+    {
+      "text": "sick my nervous system probably wasn't",
+      "start": 282.4,
+      "duration": 4.84
+    },
+    {
+      "text": "all hunky dory when I then",
+      "start": 284.8,
+      "duration": 5.48
+    },
+    {
+      "text": "unintentionally added Co on top of that",
+      "start": 287.24,
+      "duration": 4.959
+    },
+    {
+      "text": "well it was like a Tinder Box waiting to",
+      "start": 290.28,
+      "duration": 5.6
+    },
+    {
+      "text": "go up but in March 2020 I had not yet",
+      "start": 292.199,
+      "duration": 7.201
+    },
+    {
+      "text": "learned that lesson",
+      "start": 295.88,
+      "duration": 3.52
+    },
+    {
+      "text": "by March 2021 things were not a huge am",
+      "start": 300.32,
+      "duration": 5.24
+    },
+    {
+      "text": "different other than the fact that my",
+      "start": 303.56,
+      "duration": 3.8
+    },
+    {
+      "text": "mental health was",
+      "start": 305.56,
+      "duration": 4.6
+    },
+    {
+      "text": "worse I had been ill for a year this",
+      "start": 307.36,
+      "duration": 4.96
+    },
+    {
+      "text": "seemed utterly unconceivable at the",
+      "start": 310.16,
+      "duration": 5.0
+    },
+    {
+      "text": "start but it had obviously happened I'd",
+      "start": 312.32,
+      "duration": 5.599
+    },
+    {
+      "text": "had better periods and worse periods but",
+      "start": 315.16,
+      "duration": 4.44
+    },
+    {
+      "text": "other than the couple of months up to",
+      "start": 317.919,
+      "duration": 3.921
+    },
+    {
+      "text": "July 2020 where I thought I was getting",
+      "start": 319.6,
+      "duration": 4.52
+    },
+    {
+      "text": "better I'd had no real",
+      "start": 321.84,
+      "duration": 4.359
+    },
+    {
+      "text": "Improvement at the time I totally",
+      "start": 324.12,
+      "duration": 4.48
+    },
+    {
+      "text": "thought I was coping and had convinced",
+      "start": 326.199,
+      "duration": 4.0
+    },
+    {
+      "text": "myself that things were getting better",
+      "start": 328.6,
+      "duration": 3.719
+    },
+    {
+      "text": "but they quite obviously",
+      "start": 330.199,
+      "duration": 4.361
+    },
+    {
+      "text": "weren't I was working from home at this",
+      "start": 332.319,
+      "duration": 4.401
+    },
+    {
+      "text": "point so this saved me the travel to",
+      "start": 334.56,
+      "duration": 3.88
+    },
+    {
+      "text": "work which was",
+      "start": 336.72,
+      "duration": 3.8
+    },
+    {
+      "text": "significant I was able to have a lie",
+      "start": 338.44,
+      "duration": 4.319
+    },
+    {
+      "text": "down at lunchtime and I was able to let",
+      "start": 340.52,
+      "duration": 4.64
+    },
+    {
+      "text": "my partner do a lot of things for me but",
+      "start": 342.759,
+      "duration": 4.321
+    },
+    {
+      "text": "I was still largely working the hours I",
+      "start": 345.16,
+      "duration": 3.64
+    },
+    {
+      "text": "would have been in school with not a lot",
+      "start": 347.08,
+      "duration": 4.679
+    },
+    {
+      "text": "of flexibility due to the job because",
+      "start": 348.8,
+      "duration": 4.72
+    },
+    {
+      "text": "I've always been a yes person I was also",
+      "start": 351.759,
+      "duration": 4.44
+    },
+    {
+      "text": "taking on extra I thought if I had the",
+      "start": 353.52,
+      "duration": 5.16
+    },
+    {
+      "text": "quote unquote luxury of being allowed to",
+      "start": 356.199,
+      "duration": 4.84
+    },
+    {
+      "text": "work from home then of course it wasn't",
+      "start": 358.68,
+      "duration": 4.28
+    },
+    {
+      "text": "a bother to help other people at work",
+      "start": 361.039,
+      "duration": 4.16
+    },
+    {
+      "text": "with their IT issues or putting together",
+      "start": 362.96,
+      "duration": 4.639
+    },
+    {
+      "text": "music videos for schools of course",
+      "start": 365.199,
+      "duration": 4.201
+    },
+    {
+      "text": "working from home wasn't a luxury it was",
+      "start": 367.599,
+      "duration": 4.0
+    },
+    {
+      "text": "something I needed because I was sick",
+      "start": 369.4,
+      "duration": 4.12
+    },
+    {
+      "text": "but as I said at the time I thought I",
+      "start": 371.599,
+      "duration": 3.32
+    },
+    {
+      "text": "was",
+      "start": 373.52,
+      "duration": 3.799
+    },
+    {
+      "text": "coping I was pushing myself to do far",
+      "start": 374.919,
+      "duration": 5.12
+    },
+    {
+      "text": "too much physically too but in my mind I",
+      "start": 377.319,
+      "duration": 5.0
+    },
+    {
+      "text": "had reduced everything so drastically",
+      "start": 380.039,
+      "duration": 3.961
+    },
+    {
+      "text": "from what I'd been doing before that I",
+      "start": 382.319,
+      "duration": 3.681
+    },
+    {
+      "text": "felt there was no way I could reduce any",
+      "start": 384.0,
+      "duration": 4.72
+    },
+    {
+      "text": "further I'll be okay by next week I'll",
+      "start": 386.0,
+      "duration": 4.479
+    },
+    {
+      "text": "just push through things are getting",
+      "start": 388.72,
+      "duration": 5.64
+    },
+    {
+      "text": "better I thought how wrong I was on all",
+      "start": 390.479,
+      "duration": 6.481
+    },
+    {
+      "text": "points in order to allow my body to heal",
+      "start": 394.36,
+      "duration": 4.8
+    },
+    {
+      "text": "I had to reduce what I was doing so much",
+      "start": 396.96,
+      "duration": 4.959
+    },
+    {
+      "text": "more than I thought possible but I still",
+      "start": 399.16,
+      "duration": 4.599
+    },
+    {
+      "text": "hadn't realized that at this",
+      "start": 401.919,
+      "duration": 4.521
+    },
+    {
+      "text": "point it was around then that I started",
+      "start": 403.759,
+      "duration": 6.241
+    },
+    {
+      "text": "doing the my long Co videos on YouTube",
+      "start": 406.44,
+      "duration": 5.8
+    },
+    {
+      "text": "and looking back to the one I did on my",
+      "start": 410.0,
+      "duration": 5.639
+    },
+    {
+      "text": "oneyear anniversary I look like a corpse",
+      "start": 412.24,
+      "duration": 5.48
+    },
+    {
+      "text": "honestly I can't imagine how I thought I",
+      "start": 415.639,
+      "duration": 5.12
+    },
+    {
+      "text": "was coping or how push myself to do too",
+      "start": 417.72,
+      "duration": 5.72
+    },
+    {
+      "text": "much was the right way forward but it",
+      "start": 420.759,
+      "duration": 4.761
+    },
+    {
+      "text": "was all I knew at the time I thought I",
+      "start": 423.44,
+      "duration": 3.759
+    },
+    {
+      "text": "was doing the right thing and although",
+      "start": 425.52,
+      "duration": 3.76
+    },
+    {
+      "text": "it clearly wasn't working I hadn't",
+      "start": 427.199,
+      "duration": 4.72
+    },
+    {
+      "text": "really heard anything better it seemed",
+      "start": 429.28,
+      "duration": 4.919
+    },
+    {
+      "text": "like my options were limited and that",
+      "start": 431.919,
+      "duration": 4.161
+    },
+    {
+      "text": "was basically the only one I had so I",
+      "start": 434.199,
+      "duration": 5.28
+    },
+    {
+      "text": "stubbornly kept at it my counselor has",
+      "start": 436.08,
+      "duration": 5.04
+    },
+    {
+      "text": "since described my stubbornness and",
+      "start": 439.479,
+      "duration": 4.16
+    },
+    {
+      "text": "determination as both my best and my",
+      "start": 441.12,
+      "duration": 5.759
+    },
+    {
+      "text": "worst qualities this was definitely the",
+      "start": 443.639,
+      "duration": 6.921
+    },
+    {
+      "text": "worst coming to the FL",
+      "start": 446.879,
+      "duration": 7.841
+    },
+    {
+      "text": "by March 2022 my 2-year anniversary I",
+      "start": 450.56,
+      "duration": 6.6
+    },
+    {
+      "text": "had stopped working stopped pushing",
+      "start": 454.72,
+      "duration": 5.68
+    },
+    {
+      "text": "myself and found things that helped I'd",
+      "start": 457.16,
+      "duration": 5.039
+    },
+    {
+      "text": "learned a lot about what was going on",
+      "start": 460.4,
+      "duration": 4.199
+    },
+    {
+      "text": "with my body which was really helpful",
+      "start": 462.199,
+      "duration": 4.72
+    },
+    {
+      "text": "because before that I was failing I had",
+      "start": 464.599,
+      "duration": 4.841
+    },
+    {
+      "text": "no idea everything was wrong and I",
+      "start": 466.919,
+      "duration": 5.761
+    },
+    {
+      "text": "didn't know what to do now I knew what I",
+      "start": 469.44,
+      "duration": 5.12
+    },
+    {
+      "text": "should be doing calming my nervous",
+      "start": 472.68,
+      "duration": 4.519
+    },
+    {
+      "text": "system and resting and what I shouldn't",
+      "start": 474.56,
+      "duration": 5.919
+    },
+    {
+      "text": "be doing pushing myself",
+      "start": 477.199,
+      "duration": 5.321
+    },
+    {
+      "text": "stopping working around 6 months",
+      "start": 480.479,
+      "duration": 3.84
+    },
+    {
+      "text": "previous to this although it wasn't",
+      "start": 482.52,
+      "duration": 3.88
+    },
+    {
+      "text": "entirely my choice at the time turned",
+      "start": 484.319,
+      "duration": 3.921
+    },
+    {
+      "text": "out to be the best thing that could have",
+      "start": 486.4,
+      "duration": 4.0
+    },
+    {
+      "text": "happened because it gave me an",
+      "start": 488.24,
+      "duration": 4.56
+    },
+    {
+      "text": "opportunity to really rest and focus on",
+      "start": 490.4,
+      "duration": 4.72
+    },
+    {
+      "text": "what I should be doing but also the time",
+      "start": 492.8,
+      "duration": 3.959
+    },
+    {
+      "text": "to really explore what it was that I",
+      "start": 495.12,
+      "duration": 3.519
+    },
+    {
+      "text": "should be doing because a year",
+      "start": 496.759,
+      "duration": 4.241
+    },
+    {
+      "text": "previously I just didn't know if I had",
+      "start": 498.639,
+      "duration": 4.601
+    },
+    {
+      "text": "known I'd have done literally everything",
+      "start": 501.0,
+      "duration": 5.12
+    },
+    {
+      "text": "I could to do it but I just didn't which",
+      "start": 503.24,
+      "duration": 4.359
+    },
+    {
+      "text": "is why I'd been stubbornly pushing on",
+      "start": 506.12,
+      "duration": 5.24
+    },
+    {
+      "text": "and on I also started the podcast by",
+      "start": 507.599,
+      "duration": 6.56
+    },
+    {
+      "text": "March 2022 I'd been going about 6 months",
+      "start": 511.36,
+      "duration": 4.64
+    },
+    {
+      "text": "and had spoken to so many wonderful",
+      "start": 514.159,
+      "duration": 4.161
+    },
+    {
+      "text": "people who had given me ideas of things",
+      "start": 516.0,
+      "duration": 5.719
+    },
+    {
+      "text": "to try I'd worked on my breathing which",
+      "start": 518.32,
+      "duration": 5.199
+    },
+    {
+      "text": "had helped with the breathing of course",
+      "start": 521.719,
+      "duration": 3.081
+    },
+    {
+      "text": "and also the heart",
+      "start": 523.519,
+      "duration": 4.121
+    },
+    {
+      "text": "palpitations I'd learned about hydration",
+      "start": 524.8,
+      "duration": 4.4
+    },
+    {
+      "text": "and salts which helped with the",
+      "start": 527.64,
+      "duration": 3.72
+    },
+    {
+      "text": "dizziness when I was standing I'd",
+      "start": 529.2,
+      "duration": 4.36
+    },
+    {
+      "text": "learned about yoga NRA and real deep",
+      "start": 531.36,
+      "duration": 5.24
+    },
+    {
+      "text": "rest I was doing less which helped with",
+      "start": 533.56,
+      "duration": 5.48
+    },
+    {
+      "text": "the post exertional symptoms and my",
+      "start": 536.6,
+      "duration": 4.6
+    },
+    {
+      "text": "nervous system was just slightly less",
+      "start": 539.04,
+      "duration": 4.52
+    },
+    {
+      "text": "out of whack which was helping to reduce",
+      "start": 541.2,
+      "duration": 3.48
+    },
+    {
+      "text": "the fatigue a",
+      "start": 543.56,
+      "duration": 3.48
+    },
+    {
+      "text": "little I'd also started speaking with my",
+      "start": 544.68,
+      "duration": 4.64
+    },
+    {
+      "text": "counselor by this point and she was",
+      "start": 547.04,
+      "duration": 4.799
+    },
+    {
+      "text": "hugely helpful I wish I'd done that",
+      "start": 549.32,
+      "duration": 5.04
+    },
+    {
+      "text": "earlier things were still far from right",
+      "start": 551.839,
+      "duration": 4.521
+    },
+    {
+      "text": "I still crashed hard overdid it pushed",
+      "start": 554.36,
+      "duration": 4.88
+    },
+    {
+      "text": "myself too much but I was learning I was",
+      "start": 556.36,
+      "duration": 5.24
+    },
+    {
+      "text": "feeling more positive I had seen some",
+      "start": 559.24,
+      "duration": 5.159
+    },
+    {
+      "text": "improvement on better days I'd been able",
+      "start": 561.6,
+      "duration": 6.32
+    },
+    {
+      "text": "to do things without quite so much cost",
+      "start": 564.399,
+      "duration": 5.56
+    },
+    {
+      "text": "I was feeling cognitively a little",
+      "start": 567.92,
+      "duration": 4.64
+    },
+    {
+      "text": "brighter I had Tools in my toolbook now",
+      "start": 569.959,
+      "duration": 5.081
+    },
+    {
+      "text": "that I didn't before I had seen with my",
+      "start": 572.56,
+      "duration": 4.839
+    },
+    {
+      "text": "own eyes the impact that these tools had",
+      "start": 575.04,
+      "duration": 4.2
+    },
+    {
+      "text": "when they were used at the right time",
+      "start": 577.399,
+      "duration": 3.761
+    },
+    {
+      "text": "and in the right",
+      "start": 579.24,
+      "duration": 4.56
+    },
+    {
+      "text": "ways I really don't like the word",
+      "start": 581.16,
+      "duration": 5.64
+    },
+    {
+      "text": "acceptance but I had at least accepted",
+      "start": 583.8,
+      "duration": 5.52
+    },
+    {
+      "text": "that pushing through wasn't working I",
+      "start": 586.8,
+      "duration": 5.159
+    },
+    {
+      "text": "had to try a different way I had",
+      "start": 589.32,
+      "duration": 5.04
+    },
+    {
+      "text": "accepted that this was my life for now",
+      "start": 591.959,
+      "duration": 4.56
+    },
+    {
+      "text": "and I had to do what was best for me or",
+      "start": 594.36,
+      "duration": 3.84
+    },
+    {
+      "text": "what I thought was best for me at this",
+      "start": 596.519,
+      "duration": 4.56
+    },
+    {
+      "text": "point now I had also accepted that I",
+      "start": 598.2,
+      "duration": 5.12
+    },
+    {
+      "text": "would do everything in my power to keep",
+      "start": 601.079,
+      "duration": 4.601
+    },
+    {
+      "text": "improving and ultimately recover because",
+      "start": 603.32,
+      "duration": 5.56
+    },
+    {
+      "text": "for me there was no other",
+      "start": 605.68,
+      "duration": 7.68
+    },
+    {
+      "text": "option so back to the present March 2023",
+      "start": 608.88,
+      "duration": 6.84
+    },
+    {
+      "text": "and why wiping out on Monday isn't a",
+      "start": 613.36,
+      "duration": 4.719
+    },
+    {
+      "text": "cause to worry I mean obviously it kind",
+      "start": 615.72,
+      "duration": 5.08
+    },
+    {
+      "text": "of was it was the worst I'd felt in ages",
+      "start": 618.079,
+      "duration": 4.521
+    },
+    {
+      "text": "and lying in bed unable to move your",
+      "start": 620.8,
+      "duration": 3.84
+    },
+    {
+      "text": "head without feeling nauseous is",
+      "start": 622.6,
+      "duration": 5.4
+    },
+    {
+      "text": "absolutely no fun and I imagine if any",
+      "start": 624.64,
+      "duration": 5.52
+    },
+    {
+      "text": "of you can relate to that I sympathize",
+      "start": 628.0,
+      "duration": 6.8
+    },
+    {
+      "text": "it's rough but it didn't feel long Co",
+      "start": 630.16,
+      "duration": 8.16
+    },
+    {
+      "text": "related I've had long Co crashes and",
+      "start": 634.8,
+      "duration": 5.76
+    },
+    {
+      "text": "this felt different I think it actually",
+      "start": 638.32,
+      "duration": 4.72
+    },
+    {
+      "text": "was a stomach bug this time and once I",
+      "start": 640.56,
+      "duration": 5.04
+    },
+    {
+      "text": "realized that it was actually a bit of a",
+      "start": 643.04,
+      "duration": 5.359
+    },
+    {
+      "text": "relief remembering that this happens to",
+      "start": 645.6,
+      "duration": 5.56
+    },
+    {
+      "text": "regular not ill people that they get",
+      "start": 648.399,
+      "duration": 6.24
+    },
+    {
+      "text": "sick to stomach bugs are nasty but",
+      "start": 651.16,
+      "duration": 6.119
+    },
+    {
+      "text": "normal the next day was slightly better",
+      "start": 654.639,
+      "duration": 5.401
+    },
+    {
+      "text": "the day after I was out of bed today I'm",
+      "start": 657.279,
+      "duration": 4.68
+    },
+    {
+      "text": "tired but",
+      "start": 660.04,
+      "duration": 3.799
+    },
+    {
+      "text": "functioning and it's given me an",
+      "start": 661.959,
+      "duration": 3.641
+    },
+    {
+      "text": "opportunity to remember all those",
+      "start": 663.839,
+      "duration": 3.321
+    },
+    {
+      "text": "lessons I've learned over the last two",
+      "start": 665.6,
+      "duration": 4.16
+    },
+    {
+      "text": "years and to use the tools that I now",
+      "start": 667.16,
+      "duration": 3.679
+    },
+    {
+      "text": "have in my",
+      "start": 669.76,
+      "duration": 3.96
+    },
+    {
+      "text": "toolbox and that's the reason this",
+      "start": 670.839,
+      "duration": 4.641
+    },
+    {
+      "text": "episode is going out late because I",
+      "start": 673.72,
+      "duration": 3.64
+    },
+    {
+      "text": "didn't push through when I was too tired",
+      "start": 675.48,
+      "duration": 4.159
+    },
+    {
+      "text": "I rested I didn't try to have",
+      "start": 677.36,
+      "duration": 5.039
+    },
+    {
+      "text": "unreasonable expectations of myself and",
+      "start": 679.639,
+      "duration": 4.921
+    },
+    {
+      "text": "that's okay I'm not saying I would want",
+      "start": 682.399,
+      "duration": 3.56
+    },
+    {
+      "text": "to repeat this week again because",
+      "start": 684.56,
+      "duration": 4.32
+    },
+    {
+      "text": "honestly no thank you but it has been",
+      "start": 685.959,
+      "duration": 6.32
+    },
+    {
+      "text": "helpful in some ways horrible in others",
+      "start": 688.88,
+      "duration": 4.959
+    },
+    {
+      "text": "but it's also a reminder of how much",
+      "start": 692.279,
+      "duration": 4.24
+    },
+    {
+      "text": "better things are now generally because",
+      "start": 693.839,
+      "duration": 4.361
+    },
+    {
+      "text": "this week was a bit of a shock to the",
+      "start": 696.519,
+      "duration": 4.721
+    },
+    {
+      "text": "system to be feeling this rough after a",
+      "start": 698.2,
+      "duration": 4.759
+    },
+    {
+      "text": "much better",
+      "start": 701.24,
+      "duration": 4.719
+    },
+    {
+      "text": "spell so up until Monday when things",
+      "start": 702.959,
+      "duration": 6.0
+    },
+    {
+      "text": "went uh temporarily tits up so to speak",
+      "start": 705.959,
+      "duration": 5.44
+    },
+    {
+      "text": "I was feeling good most of my symptoms",
+      "start": 708.959,
+      "duration": 4.721
+    },
+    {
+      "text": "had largely gone I still got occasional",
+      "start": 711.399,
+      "duration": 4.961
+    },
+    {
+      "text": "chest pain which was definitely a worry",
+      "start": 713.68,
+      "duration": 5.719
+    },
+    {
+      "text": "but fairly rarely I was able to push",
+      "start": 716.36,
+      "duration": 5.24
+    },
+    {
+      "text": "myself more I wasn't having to be so",
+      "start": 719.399,
+      "duration": 5.081
+    },
+    {
+      "text": "careful with my pacing physically I felt",
+      "start": 721.6,
+      "duration": 4.679
+    },
+    {
+      "text": "I was able to push myself to a level I",
+      "start": 724.48,
+      "duration": 4.44
+    },
+    {
+      "text": "hadn't been able to without symptoms I",
+      "start": 726.279,
+      "duration": 4.601
+    },
+    {
+      "text": "was being careful not to do too much too",
+      "start": 728.92,
+      "duration": 4.4
+    },
+    {
+      "text": "soon because I didn't want to trigger a",
+      "start": 730.88,
+      "duration": 4.56
+    },
+    {
+      "text": "relapse but I felt like I was",
+      "start": 733.32,
+      "duration": 5.28
+    },
+    {
+      "text": "readjusting to being able to do more it",
+      "start": 735.44,
+      "duration": 7.16
+    },
+    {
+      "text": "was very bewildering but also really",
+      "start": 738.6,
+      "duration": 6.479
+    },
+    {
+      "text": "wonderful my nervous system felt much",
+      "start": 742.6,
+      "duration": 5.16
+    },
+    {
+      "text": "more regulated and being able to do more",
+      "start": 745.079,
+      "duration": 4.961
+    },
+    {
+      "text": "was making me happier which was also",
+      "start": 747.76,
+      "duration": 4.8
+    },
+    {
+      "text": "feeding back into the positive",
+      "start": 750.04,
+      "duration": 5.12
+    },
+    {
+      "text": "loop I felt like I was in a much better",
+      "start": 752.56,
+      "duration": 4.76
+    },
+    {
+      "text": "place than I had been probably even",
+      "start": 755.16,
+      "duration": 4.88
+    },
+    {
+      "text": "before Co but certainly",
+      "start": 757.32,
+      "duration": 5.8
+    },
+    {
+      "text": "since I mean things aren't perfect I'm",
+      "start": 760.04,
+      "duration": 5.52
+    },
+    {
+      "text": "still too sensitive to stress although I",
+      "start": 763.12,
+      "duration": 3.959
+    },
+    {
+      "text": "recently removed quite a big stressor",
+      "start": 765.56,
+      "duration": 3.839
+    },
+    {
+      "text": "and I feel a lot better for it like the",
+      "start": 767.079,
+      "duration": 4.041
+    },
+    {
+      "text": "weight literally lifting",
+      "start": 769.399,
+      "duration": 4.56
+    },
+    {
+      "text": "off I'm still very anxious around people",
+      "start": 771.12,
+      "duration": 4.56
+    },
+    {
+      "text": "and fear around getting",
+      "start": 773.959,
+      "duration": 3.641
+    },
+    {
+      "text": "reinfected and I'm still dealing with",
+      "start": 775.68,
+      "duration": 4.04
+    },
+    {
+      "text": "the trauma of the whole thing but this",
+      "start": 777.6,
+      "duration": 4.16
+    },
+    {
+      "text": "is stuff that I'm working on and I'm",
+      "start": 779.72,
+      "duration": 4.559
+    },
+    {
+      "text": "confident that I'll get through",
+      "start": 781.76,
+      "duration": 6.28
+    },
+    {
+      "text": "it so this isn't a recovery story but it",
+      "start": 784.279,
+      "duration": 6.441
+    },
+    {
+      "text": "is a promise that there will be one I",
+      "start": 788.04,
+      "duration": 5.359
+    },
+    {
+      "text": "hope that it won't be too long but I've",
+      "start": 790.72,
+      "duration": 4.52
+    },
+    {
+      "text": "also learned that expectations are",
+      "start": 793.399,
+      "duration": 4.8
+    },
+    {
+      "text": "unhelpful and ultimately lead to",
+      "start": 795.24,
+      "duration": 5.08
+    },
+    {
+      "text": "disappointment so I'm not putting a date",
+      "start": 798.199,
+      "duration": 3.481
+    },
+    {
+      "text": "on",
+      "start": 800.32,
+      "duration": 4.199
+    },
+    {
+      "text": "it things are so much better than they",
+      "start": 801.68,
+      "duration": 5.8
+    },
+    {
+      "text": "were and actually doing this and looking",
+      "start": 804.519,
+      "duration": 5.281
+    },
+    {
+      "text": "back at the snapshots of three two and",
+      "start": 807.48,
+      "duration": 5.159
+    },
+    {
+      "text": "one years ago has yet again reminded me",
+      "start": 809.8,
+      "duration": 5.56
+    },
+    {
+      "text": "of that my partner's always been a",
+      "start": 812.639,
+      "duration": 5.721
+    },
+    {
+      "text": "better judge of how I'm doing so when",
+      "start": 815.36,
+      "duration": 5.68
+    },
+    {
+      "text": "he's been saying recently yeah things",
+      "start": 818.36,
+      "duration": 5.52
+    },
+    {
+      "text": "are going well it's kind of like well",
+      "start": 821.04,
+      "duration": 4.88
+    },
+    {
+      "text": "maybe I should listen to him and it",
+      "start": 823.88,
+      "duration": 5.92
+    },
+    {
+      "text": "actually took me to do this to go yeah",
+      "start": 825.92,
+      "duration": 5.32
+    },
+    {
+      "text": "you know what you're",
+      "start": 829.8,
+      "duration": 4.159
+    },
+    {
+      "text": "right this week aside",
+      "start": 831.24,
+      "duration": 5.279
+    },
+    {
+      "text": "obviously so to anyone who is still on",
+      "start": 833.959,
+      "duration": 3.481
+    },
+    {
+      "text": "their",
+      "start": 836.519,
+      "duration": 3.0
+    },
+    {
+      "text": "Journey which you probably are if you're",
+      "start": 837.44,
+      "duration": 6.0
+    },
+    {
+      "text": "listening to this I'd say don't give up",
+      "start": 839.519,
+      "duration": 6.801
+    },
+    {
+      "text": "we'll get there keep doing the things",
+      "start": 843.44,
+      "duration": 5.56
+    },
+    {
+      "text": "that help try to avoid the things that",
+      "start": 846.32,
+      "duration": 5.36
+    },
+    {
+      "text": "don't help and don't beat yourself up",
+      "start": 849.0,
+      "duration": 5.48
+    },
+    {
+      "text": "when you inevitably slip up learn from",
+      "start": 851.68,
+      "duration": 4.56
+    },
+    {
+      "text": "it we're are all",
+      "start": 854.48,
+      "duration": 5.359
+    },
+    {
+      "text": "human use those tools in the toolkit add",
+      "start": 856.24,
+      "duration": 4.56
+    },
+    {
+      "text": "to your",
+      "start": 859.839,
+      "duration": 3.041
+    },
+    {
+      "text": "toolkit there's always new things that",
+      "start": 860.8,
+      "duration": 4.64
+    },
+    {
+      "text": "I'm learning that I think oh yeah that's",
+      "start": 862.88,
+      "duration": 6.0
+    },
+    {
+      "text": "going on the list and focus on what you",
+      "start": 865.44,
+      "duration": 5.839
+    },
+    {
+      "text": "can can do rather than what you can't",
+      "start": 868.88,
+      "duration": 4.36
+    },
+    {
+      "text": "this mindset has been really helpful to",
+      "start": 871.279,
+      "duration": 5.12
+    },
+    {
+      "text": "me especially",
+      "start": 873.24,
+      "duration": 3.159
+    },
+    {
+      "text": "recently I think maybe a final thing I",
+      "start": 876.6,
+      "duration": 5.72
+    },
+    {
+      "text": "would say is when I come through this",
+      "start": 879.68,
+      "duration": 5.519
+    },
+    {
+      "text": "because it's always when it's not if",
+      "start": 882.32,
+      "duration": 5.48
+    },
+    {
+      "text": "when I come through this I will not be",
+      "start": 885.199,
+      "duration": 5.241
+    },
+    {
+      "text": "the person I was before I got sick and I",
+      "start": 887.8,
+      "duration": 4.959
+    },
+    {
+      "text": "think that's a good thing because",
+      "start": 890.44,
+      "duration": 4.16
+    },
+    {
+      "text": "looking back I don't want to be that",
+      "start": 892.759,
+      "duration": 4.44
+    },
+    {
+      "text": "same person she wasn't healthy and she",
+      "start": 894.6,
+      "duration": 5.44
+    },
+    {
+      "text": "wasn't that happy either I thought she",
+      "start": 897.199,
+      "duration": 5.0
+    },
+    {
+      "text": "was and for a long time I would have",
+      "start": 900.04,
+      "duration": 5.039
+    },
+    {
+      "text": "given anything to go back to that",
+      "start": 902.199,
+      "duration": 5.76
+    },
+    {
+      "text": "life don't get me wrong I want to be",
+      "start": 905.079,
+      "duration": 4.921
+    },
+    {
+      "text": "able to do many if not most of the",
+      "start": 907.959,
+      "duration": 4.24
+    },
+    {
+      "text": "things that pre-co Jackie",
+      "start": 910.0,
+      "duration": 5.36
+    },
+    {
+      "text": "did but I also know that I value things",
+      "start": 912.199,
+      "duration": 6.121
+    },
+    {
+      "text": "differently now my health for one and",
+      "start": 915.36,
+      "duration": 5.839
+    },
+    {
+      "text": "that I have more respect for myself and",
+      "start": 918.32,
+      "duration": 5.24
+    },
+    {
+      "text": "my choices than I did",
+      "start": 921.199,
+      "duration": 6.121
+    },
+    {
+      "text": "before so although I will do many of the",
+      "start": 923.56,
+      "duration": 6.56
+    },
+    {
+      "text": "same things once I'm able to",
+      "start": 927.32,
+      "duration": 6.04
+    },
+    {
+      "text": "the way I do things will be different",
+      "start": 930.12,
+      "duration": 6.56
+    },
+    {
+      "text": "and I think that is a very good",
+      "start": 933.36,
+      "duration": 5.64
+    },
+    {
+      "text": "thing thank you so much to all of my",
+      "start": 936.68,
+      "duration": 5.159
+    },
+    {
+      "text": "guests and to you for listening I hope",
+      "start": 939.0,
+      "duration": 5.199
+    },
+    {
+      "text": "you've enjoyed it or at least found it",
+      "start": 941.839,
+      "duration": 5.281
+    },
+    {
+      "text": "useful the long Co podcast is entirely",
+      "start": 944.199,
+      "duration": 5.2
+    },
+    {
+      "text": "self-produced and self-funded I'm doing",
+      "start": 947.12,
+      "duration": 3.44
+    },
+    {
+      "text": "all of this",
+      "start": 949.399,
+      "duration": 4.0
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 950.56,
+      "duration": 4.279
+    },
+    {
+      "text": "buyme a",
+      "start": 953.399,
+      "duration": 4.641
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 954.839,
+      "duration": 5.161
+    },
+    {
+      "text": "the costs of host",
+      "start": 958.04,
+      "duration": 4.039
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 960.0,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 962.079,
+      "duration": 4.2
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 964.24,
+      "duration": 5.079
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 966.279,
+      "duration": 6.761
+    },
+    {
+      "text": "love to hear from you",
+      "start": 969.319,
+      "duration": 3.721
+    }
+  ],
+  "metadata": {
+    "title": "75 - My 3 Year Reflections - Are we nearly there yet?!",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/764VSWtEJG0/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 75,
+    "title": "75 - My 3 Year Reflections - Are we nearly there yet?!",
+    "videoId": "764VSWtEJG0",
+    "lengthText": "16:18"
+  }
+}

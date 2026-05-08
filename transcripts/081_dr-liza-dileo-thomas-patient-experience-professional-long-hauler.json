@@ -1,0 +1,5478 @@
+{
+  "video_id": "kCZdHogSwkM",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.12,
+      "duration": 6.079
+    },
+    {
+      "text": "The Long Co podcast I am delighted to",
+      "start": 58.44,
+      "duration": 6.119
+    },
+    {
+      "text": "welcome my guest today Dr Liza Deo",
+      "start": 61.199,
+      "duration": 5.761
+    },
+    {
+      "text": "Thomas who is an emergency medicine",
+      "start": 64.559,
+      "duration": 5.281
+    },
+    {
+      "text": "physician in the US and also a certified",
+      "start": 66.96,
+      "duration": 5.28
+    },
+    {
+      "text": "patient experienced professional as well",
+      "start": 69.84,
+      "duration": 5.279
+    },
+    {
+      "text": "as being a l hauler so welcome to the",
+      "start": 72.24,
+      "duration": 5.72
+    },
+    {
+      "text": "podcast thank you so much for having me",
+      "start": 75.119,
+      "duration": 5.161
+    },
+    {
+      "text": "I'm so glad to have you here and I hope",
+      "start": 77.96,
+      "duration": 4.479
+    },
+    {
+      "text": "that I managed to get your name right um",
+      "start": 80.28,
+      "duration": 4.159
+    },
+    {
+      "text": "so to start with would you mind just",
+      "start": 82.439,
+      "duration": 3.881
+    },
+    {
+      "text": "introducing yourself a little and what",
+      "start": 84.439,
+      "duration": 4.72
+    },
+    {
+      "text": "it is that you do sure well thank you",
+      "start": 86.32,
+      "duration": 5.64
+    },
+    {
+      "text": "Jackie so yes I am an Emergency",
+      "start": 89.159,
+      "duration": 6.481
+    },
+    {
+      "text": "Physician in New Orleans Louisiana and",
+      "start": 91.96,
+      "duration": 5.24
+    },
+    {
+      "text": "I've been working as an emergency",
+      "start": 95.64,
+      "duration": 4.04
+    },
+    {
+      "text": "physician in New Orleans for a little",
+      "start": 97.2,
+      "duration": 6.279
+    },
+    {
+      "text": "over 20 years um at a large Hospital",
+      "start": 99.68,
+      "duration": 6.719
+    },
+    {
+      "text": "down there and I became certified as a",
+      "start": 103.479,
+      "duration": 6.28
+    },
+    {
+      "text": "patient experience professional about",
+      "start": 106.399,
+      "duration": 5.36
+    },
+    {
+      "text": "four or five years ago but I became",
+      "start": 109.759,
+      "duration": 4.481
+    },
+    {
+      "text": "interested in patient experience about",
+      "start": 111.759,
+      "duration": 4.921
+    },
+    {
+      "text": "10 years ago when the director of my",
+      "start": 114.24,
+      "duration": 4.72
+    },
+    {
+      "text": "emergency department asked if I could",
+      "start": 116.68,
+      "duration": 5.0
+    },
+    {
+      "text": "take over resp responding to the patient",
+      "start": 118.96,
+      "duration": 4.88
+    },
+    {
+      "text": "grievances which is basically the",
+      "start": 121.68,
+      "duration": 4.64
+    },
+    {
+      "text": "patient complaints and apparently that",
+      "start": 123.84,
+      "duration": 4.52
+    },
+    {
+      "text": "was a job that nobody else really wanted",
+      "start": 126.32,
+      "duration": 5.48
+    },
+    {
+      "text": "to do but he taught me that that was a",
+      "start": 128.36,
+      "duration": 5.68
+    },
+    {
+      "text": "job that I could learn a lot from by",
+      "start": 131.8,
+      "duration": 5.159
+    },
+    {
+      "text": "hearing the patient's voice whether that",
+      "start": 134.04,
+      "duration": 5.479
+    },
+    {
+      "text": "was in the form of a letter or a phone",
+      "start": 136.959,
+      "duration": 6.121
+    },
+    {
+      "text": "call or even on the patient surveys and",
+      "start": 139.519,
+      "duration": 5.44
+    },
+    {
+      "text": "that intern could make me a better",
+      "start": 143.08,
+      "duration": 3.96
+    },
+    {
+      "text": "doctor and so I learned that that's",
+      "start": 144.959,
+      "duration": 4.441
+    },
+    {
+      "text": "exactly what it did and so I would I",
+      "start": 147.04,
+      "duration": 4.559
+    },
+    {
+      "text": "would read those or you know listen to",
+      "start": 149.4,
+      "duration": 3.8
+    },
+    {
+      "text": "the patients and I would go back to my",
+      "start": 151.599,
+      "duration": 4.321
+    },
+    {
+      "text": "colleagues and share that information",
+      "start": 153.2,
+      "duration": 5.48
+    },
+    {
+      "text": "and uh make everybody better doctors by",
+      "start": 155.92,
+      "duration": 6.16
+    },
+    {
+      "text": "by sharing that knowledge so I went from",
+      "start": 158.68,
+      "duration": 5.0
+    },
+    {
+      "text": "just working in that role in the",
+      "start": 162.08,
+      "duration": 3.239
+    },
+    {
+      "text": "emergency department to taking on a",
+      "start": 163.68,
+      "duration": 3.32
+    },
+    {
+      "text": "larger role for the",
+      "start": 165.319,
+      "duration": 4.28
+    },
+    {
+      "text": "hospital of the medical director for our",
+      "start": 167.0,
+      "duration": 5.28
+    },
+    {
+      "text": "patient relations department and now I",
+      "start": 169.599,
+      "duration": 6.801
+    },
+    {
+      "text": "uh do that for our hospital system wow",
+      "start": 172.28,
+      "duration": 7.08
+    },
+    {
+      "text": "that sounds amazing and I don't know we",
+      "start": 176.4,
+      "duration": 4.88
+    },
+    {
+      "text": "we hear like oh you learn from your",
+      "start": 179.36,
+      "duration": 3.72
+    },
+    {
+      "text": "mistakes kind of thing and it is totally",
+      "start": 181.28,
+      "duration": 3.239
+    },
+    {
+      "text": "true you know the best way we learn is",
+      "start": 183.08,
+      "duration": 2.719
+    },
+    {
+      "text": "from the things that we don't do quite",
+      "start": 184.519,
+      "duration": 4.321
+    },
+    {
+      "text": "right isn't it um but the thought of",
+      "start": 185.799,
+      "duration": 7.16
+    },
+    {
+      "text": "learning from basically other people",
+      "start": 188.84,
+      "duration": 7.319
+    },
+    {
+      "text": "complaining is actually quite a positive",
+      "start": 192.959,
+      "duration": 5.441
+    },
+    {
+      "text": "way of looking at that isn't it yeah and",
+      "start": 196.159,
+      "duration": 4.16
+    },
+    {
+      "text": "it can be hard I mean it can be hard as",
+      "start": 198.4,
+      "duration": 3.16
+    },
+    {
+      "text": "Physicians",
+      "start": 200.319,
+      "duration": 4.361
+    },
+    {
+      "text": "to hear about what we may have done",
+      "start": 201.56,
+      "duration": 6.36
+    },
+    {
+      "text": "wrong ways that we may have",
+      "start": 204.68,
+      "duration": 5.16
+    },
+    {
+      "text": "communicated not necessarily in",
+      "start": 207.92,
+      "duration": 3.399
+    },
+    {
+      "text": "appropriately but where we could have",
+      "start": 209.84,
+      "duration": 3.119
+    },
+    {
+      "text": "done things",
+      "start": 211.319,
+      "duration": 3.92
+    },
+    {
+      "text": "better and to look at that in a way",
+      "start": 212.959,
+      "duration": 5.881
+    },
+    {
+      "text": "where we don't become defensive but to",
+      "start": 215.239,
+      "duration": 6.321
+    },
+    {
+      "text": "look at that in a way where where do we",
+      "start": 218.84,
+      "duration": 4.039
+    },
+    {
+      "text": "have some",
+      "start": 221.56,
+      "duration": 3.8
+    },
+    {
+      "text": "opportunities and what I've learned in",
+      "start": 222.879,
+      "duration": 4.681
+    },
+    {
+      "text": "becoming a a patient experienc",
+      "start": 225.36,
+      "duration": 4.76
+    },
+    {
+      "text": "professional and becoming certified was",
+      "start": 227.56,
+      "duration": 4.319
+    },
+    {
+      "text": "that there's actually research that",
+      "start": 230.12,
+      "duration": 4.16
+    },
+    {
+      "text": "shows that when we're better at",
+      "start": 231.879,
+      "duration": 4.121
+    },
+    {
+      "text": "communicating with our patients that our",
+      "start": 234.28,
+      "duration": 4.84
+    },
+    {
+      "text": "patients actually do better in terms of",
+      "start": 236.0,
+      "duration": 5.959
+    },
+    {
+      "text": "patient SA safety and patient outcomes",
+      "start": 239.12,
+      "duration": 5.92
+    },
+    {
+      "text": "so it becomes really important how we",
+      "start": 241.959,
+      "duration": 5.241
+    },
+    {
+      "text": "communicate to our patients not just",
+      "start": 245.04,
+      "duration": 4.32
+    },
+    {
+      "text": "because yeah our patients are happier",
+      "start": 247.2,
+      "duration": 3.2
+    },
+    {
+      "text": "and they're going to give us better",
+      "start": 249.36,
+      "duration": 3.48
+    },
+    {
+      "text": "ratings on our surveys but they're going",
+      "start": 250.4,
+      "duration": 5.76
+    },
+    {
+      "text": "to be healthier you know if we explain",
+      "start": 252.84,
+      "duration": 5.16
+    },
+    {
+      "text": "things better if we're if we're better",
+      "start": 256.16,
+      "duration": 3.599
+    },
+    {
+      "text": "at explaining this is why you're going",
+      "start": 258.0,
+      "duration": 4.0
+    },
+    {
+      "text": "to take this medication when I discharge",
+      "start": 259.759,
+      "duration": 4.401
+    },
+    {
+      "text": "you then they're more likely to take the",
+      "start": 262.0,
+      "duration": 4.68
+    },
+    {
+      "text": "medication as directed so it makes sense",
+      "start": 264.16,
+      "duration": 3.68
+    },
+    {
+      "text": "that they're gonna they're going to be",
+      "start": 266.68,
+      "duration": 4.48
+    },
+    {
+      "text": "healthier totally yeah and I guess it's",
+      "start": 267.84,
+      "duration": 5.52
+    },
+    {
+      "text": "not always things that you might have",
+      "start": 271.16,
+      "duration": 4.92
+    },
+    {
+      "text": "done wrong it might just be that things",
+      "start": 273.36,
+      "duration": 5.24
+    },
+    {
+      "text": "could be done in a I was going to say",
+      "start": 276.08,
+      "duration": 3.839
+    },
+    {
+      "text": "better way but maybe not even better",
+      "start": 278.6,
+      "duration": 2.72
+    },
+    {
+      "text": "just a different way a way that would",
+      "start": 279.919,
+      "duration": 4.321
+    },
+    {
+      "text": "work better for patients or for a",
+      "start": 281.32,
+      "duration": 4.96
+    },
+    {
+      "text": "certain set of patients I guess because",
+      "start": 284.24,
+      "duration": 3.959
+    },
+    {
+      "text": "again it might not even be kind of",
+      "start": 286.28,
+      "duration": 3.96
+    },
+    {
+      "text": "everybody well a lot of times it's",
+      "start": 288.199,
+      "duration": 3.921
+    },
+    {
+      "text": "things that we're not necessarily taught",
+      "start": 290.24,
+      "duration": 5.0
+    },
+    {
+      "text": "in medical school like medical jargon uh",
+      "start": 292.12,
+      "duration": 4.84
+    },
+    {
+      "text": "you know things that come very naturally",
+      "start": 295.24,
+      "duration": 5.08
+    },
+    {
+      "text": "to us the the language that we use I'll",
+      "start": 296.96,
+      "duration": 6.679
+    },
+    {
+      "text": "give you an example I remember speaking",
+      "start": 300.32,
+      "duration": 4.719
+    },
+    {
+      "text": "with a patient in the emergency",
+      "start": 303.639,
+      "duration": 3.4
+    },
+    {
+      "text": "department and I was",
+      "start": 305.039,
+      "duration": 5.121
+    },
+    {
+      "text": "discharging him and explaining that he",
+      "start": 307.039,
+      "duration": 5.801
+    },
+    {
+      "text": "was GNA take this course of antibiotics",
+      "start": 310.16,
+      "duration": 4.24
+    },
+    {
+      "text": "and that it was important that he",
+      "start": 312.84,
+      "duration": 3.32
+    },
+    {
+      "text": "complete the full course and why that",
+      "start": 314.4,
+      "duration": 4.239
+    },
+    {
+      "text": "was important and he stopped me and",
+      "start": 316.16,
+      "duration": 4.8
+    },
+    {
+      "text": "asked what do you mean by course is",
+      "start": 318.639,
+      "duration": 4.641
+    },
+    {
+      "text": "there a class that I need to take on",
+      "start": 320.96,
+      "duration": 3.2
+    },
+    {
+      "text": "this",
+      "start": 323.28,
+      "duration": 3.16
+    },
+    {
+      "text": "antibiotic and now that had been a term",
+      "start": 324.16,
+      "duration": 4.56
+    },
+    {
+      "text": "that I had used for years and years with",
+      "start": 326.44,
+      "duration": 3.92
+    },
+    {
+      "text": "my patients you know course of",
+      "start": 328.72,
+      "duration": 4.759
+    },
+    {
+      "text": "medication and had never occurred to me",
+      "start": 330.36,
+      "duration": 5.04
+    },
+    {
+      "text": "that that was a term that we were very",
+      "start": 333.479,
+      "duration": 4.521
+    },
+    {
+      "text": "familiar as as providers with using with",
+      "start": 335.4,
+      "duration": 5.44
+    },
+    {
+      "text": "our patients but that that was the term",
+      "start": 338.0,
+      "duration": 4.68
+    },
+    {
+      "text": "that that we knew that we were",
+      "start": 340.84,
+      "duration": 4.16
+    },
+    {
+      "text": "comfortable using but but that was part",
+      "start": 342.68,
+      "duration": 5.079
+    },
+    {
+      "text": "of our Jaron a course of medications but",
+      "start": 345.0,
+      "duration": 5.16
+    },
+    {
+      "text": "that to everyone else course meant",
+      "start": 347.759,
+      "duration": 5.241
+    },
+    {
+      "text": "something else and so that's just an",
+      "start": 350.16,
+      "duration": 4.759
+    },
+    {
+      "text": "example you know something that makes a",
+      "start": 353.0,
+      "duration": 3.68
+    },
+    {
+      "text": "little bit more sense is we have",
+      "start": 354.919,
+      "duration": 3.0
+    },
+    {
+      "text": "patients that you know you tell them",
+      "start": 356.68,
+      "duration": 3.28
+    },
+    {
+      "text": "they fractured their arm and they'll say",
+      "start": 357.919,
+      "duration": 4.28
+    },
+    {
+      "text": "but is it broken we have to explain you",
+      "start": 359.96,
+      "duration": 3.92
+    },
+    {
+      "text": "know a break and a fracture of the same",
+      "start": 362.199,
+      "duration": 4.161
+    },
+    {
+      "text": "thing that's one that a lot of providers",
+      "start": 363.88,
+      "duration": 4.159
+    },
+    {
+      "text": "will say well yeah I know I need to",
+      "start": 366.36,
+      "duration": 4.279
+    },
+    {
+      "text": "explain that kind of thing but when I",
+      "start": 368.039,
+      "duration": 5.641
+    },
+    {
+      "text": "when you know I teach I teach an empathy",
+      "start": 370.639,
+      "duration": 4.801
+    },
+    {
+      "text": "course or a communication course to all",
+      "start": 373.68,
+      "duration": 3.239
+    },
+    {
+      "text": "of our new providers when they come in",
+      "start": 375.44,
+      "duration": 3.36
+    },
+    {
+      "text": "during orientation and I give that",
+      "start": 376.919,
+      "duration": 4.84
+    },
+    {
+      "text": "example about the word course and when I",
+      "start": 378.8,
+      "duration": 5.32
+    },
+    {
+      "text": "tell that I see a lot of people say like",
+      "start": 381.759,
+      "duration": 4.761
+    },
+    {
+      "text": "wow I never even thought about that but",
+      "start": 384.12,
+      "duration": 4.519
+    },
+    {
+      "text": "over the years you kind of gain this",
+      "start": 386.52,
+      "duration": 3.72
+    },
+    {
+      "text": "knowledge of different",
+      "start": 388.639,
+      "duration": 4.28
+    },
+    {
+      "text": "words that you need to you know put in",
+      "start": 390.24,
+      "duration": 4.72
+    },
+    {
+      "text": "your put in your mind of oh well I'll",
+      "start": 392.919,
+      "duration": 3.801
+    },
+    {
+      "text": "need to explain that differently next",
+      "start": 394.96,
+      "duration": 3.88
+    },
+    {
+      "text": "time and you just gain these different",
+      "start": 396.72,
+      "duration": 4.96
+    },
+    {
+      "text": "communication skills so yeah a lot of is",
+      "start": 398.84,
+      "duration": 4.56
+    },
+    {
+      "text": "just the way that we speak the way that",
+      "start": 401.68,
+      "duration": 2.959
+    },
+    {
+      "text": "we speak to each other the way that",
+      "start": 403.4,
+      "duration": 3.48
+    },
+    {
+      "text": "we're taught to speak the way that we're",
+      "start": 404.639,
+      "duration": 4.801
+    },
+    {
+      "text": "taught to communicate is a different way",
+      "start": 406.88,
+      "duration": 4.28
+    },
+    {
+      "text": "than we should be communicating with our",
+      "start": 409.44,
+      "duration": 4.4
+    },
+    {
+      "text": "patients yeah that's amazing isn't it",
+      "start": 411.16,
+      "duration": 4.599
+    },
+    {
+      "text": "and like you say it's probably things",
+      "start": 413.84,
+      "duration": 4.44
+    },
+    {
+      "text": "that you wouldn't I mean iose the most",
+      "start": 415.759,
+      "duration": 4.321
+    },
+    {
+      "text": "important things probably would be the",
+      "start": 418.28,
+      "duration": 3.8
+    },
+    {
+      "text": "things that you wouldn't think about",
+      "start": 420.08,
+      "duration": 3.32
+    },
+    {
+      "text": "because if it was something that was",
+      "start": 422.08,
+      "duration": 3.2
+    },
+    {
+      "text": "really really really complicated then",
+      "start": 423.4,
+      "duration": 3.479
+    },
+    {
+      "text": "you would feel the need to break it down",
+      "start": 425.28,
+      "duration": 4.359
+    },
+    {
+      "text": "to somebody who wasn't also a doctor and",
+      "start": 426.879,
+      "duration": 5.04
+    },
+    {
+      "text": "then some of the things that are really",
+      "start": 429.639,
+      "duration": 4.721
+    },
+    {
+      "text": "complicated they become so complicated",
+      "start": 431.919,
+      "duration": 4.521
+    },
+    {
+      "text": "that we can sometimes forget to break it",
+      "start": 434.36,
+      "duration": 4.44
+    },
+    {
+      "text": "down I'll frequently see these patient",
+      "start": 436.44,
+      "duration": 5.68
+    },
+    {
+      "text": "complaints or grievances where they will",
+      "start": 438.8,
+      "duration": 4.88
+    },
+    {
+      "text": "they'll write in a letter and they'll",
+      "start": 442.12,
+      "duration": 3.32
+    },
+    {
+      "text": "say you know my mother was in the",
+      "start": 443.68,
+      "duration": 3.799
+    },
+    {
+      "text": "hospital for 10 days and they did",
+      "start": 445.44,
+      "duration": 4.199
+    },
+    {
+      "text": "nothing for her and I'll look in the",
+      "start": 447.479,
+      "duration": 4.601
+    },
+    {
+      "text": "medical record and I'll say gosh this",
+      "start": 449.639,
+      "duration": 5.12
+    },
+    {
+      "text": "woman was was so sick and look at all",
+      "start": 452.08,
+      "duration": 5.08
+    },
+    {
+      "text": "the things that they did for her like",
+      "start": 454.759,
+      "duration": 4.921
+    },
+    {
+      "text": "you know they saved her life but because",
+      "start": 457.16,
+      "duration": 6.039
+    },
+    {
+      "text": "nobody sat down with the family and",
+      "start": 459.68,
+      "duration": 6.32
+    },
+    {
+      "text": "said this is all we're doing for her",
+      "start": 463.199,
+      "duration": 4.521
+    },
+    {
+      "text": "this is you know we're having the",
+      "start": 466.0,
+      "duration": 5.759
+    },
+    {
+      "text": "cardiologist see her because her cardiac",
+      "start": 467.72,
+      "duration": 6.4
+    },
+    {
+      "text": "enzymes are elevated or we're giving her",
+      "start": 471.759,
+      "duration": 5.201
+    },
+    {
+      "text": "this antibiotic because she has this",
+      "start": 474.12,
+      "duration": 4.6
+    },
+    {
+      "text": "infection in her bloodstream because",
+      "start": 476.96,
+      "duration": 4.519
+    },
+    {
+      "text": "they're not sitting down with the family",
+      "start": 478.72,
+      "duration": 6.24
+    },
+    {
+      "text": "and explaining exactly why they're doing",
+      "start": 481.479,
+      "duration": 5.72
+    },
+    {
+      "text": "everything that they're doing the",
+      "start": 484.96,
+      "duration": 4.359
+    },
+    {
+      "text": "family's perception is that they're",
+      "start": 487.199,
+      "duration": 5.56
+    },
+    {
+      "text": "doing nothing and so it's all about the",
+      "start": 489.319,
+      "duration": 5.72
+    },
+    {
+      "text": "family or the patient's perception of",
+      "start": 492.759,
+      "duration": 4.88
+    },
+    {
+      "text": "their care that that becomes their",
+      "start": 495.039,
+      "duration": 6.201
+    },
+    {
+      "text": "reality and it's our duty to communicate",
+      "start": 497.639,
+      "duration": 6.761
+    },
+    {
+      "text": "that with them yeah so interesting isn't",
+      "start": 501.24,
+      "duration": 7.48
+    },
+    {
+      "text": "it so the patient experienc professional",
+      "start": 504.4,
+      "duration": 5.72
+    },
+    {
+      "text": "you've talked about said you were taking",
+      "start": 508.72,
+      "duration": 3.039
+    },
+    {
+      "text": "some courses and all sorts of things",
+      "start": 510.12,
+      "duration": 3.12
+    },
+    {
+      "text": "that's all underneath that kind of",
+      "start": 511.759,
+      "duration": 4.52
+    },
+    {
+      "text": "umbrella is it yes so there's the",
+      "start": 513.24,
+      "duration": 5.08
+    },
+    {
+      "text": "patient experience Institute which is",
+      "start": 516.279,
+      "duration": 4.481
+    },
+    {
+      "text": "affiliated with the barrel Institute",
+      "start": 518.32,
+      "duration": 4.92
+    },
+    {
+      "text": "which sponsors this certification uh",
+      "start": 520.76,
+      "duration": 3.84
+    },
+    {
+      "text": "certified patient experience",
+      "start": 523.24,
+      "duration": 3.64
+    },
+    {
+      "text": "professional it's um it's just like any",
+      "start": 524.6,
+      "duration": 4.44
+    },
+    {
+      "text": "certification that you're required to do",
+      "start": 526.88,
+      "duration": 4.44
+    },
+    {
+      "text": "continuing education credits every three",
+      "start": 529.04,
+      "duration": 5.479
+    },
+    {
+      "text": "years and I just recertified for it and",
+      "start": 531.32,
+      "duration": 5.72
+    },
+    {
+      "text": "what does your role kind of involve then",
+      "start": 534.519,
+      "duration": 4.56
+    },
+    {
+      "text": "can you give a bit of an overview so I'm",
+      "start": 537.04,
+      "duration": 3.84
+    },
+    {
+      "text": "the medical IAL director for our patient",
+      "start": 539.079,
+      "duration": 4.241
+    },
+    {
+      "text": "and provider advocacy for the um",
+      "start": 540.88,
+      "duration": 4.84
+    },
+    {
+      "text": "hospital system which is reviewing the",
+      "start": 543.32,
+      "duration": 4.8
+    },
+    {
+      "text": "patient grievances for the clinical",
+      "start": 545.72,
+      "duration": 5.559
+    },
+    {
+      "text": "information and um empathy and that sort",
+      "start": 548.12,
+      "duration": 7.32
+    },
+    {
+      "text": "of thing um I'm also involved in the",
+      "start": 551.279,
+      "duration": 6.481
+    },
+    {
+      "text": "orientation of our new providers and",
+      "start": 555.44,
+      "duration": 5.44
+    },
+    {
+      "text": "teaching them empathy teaching them",
+      "start": 557.76,
+      "duration": 7.079
+    },
+    {
+      "text": "communication as well as doing a",
+      "start": 560.88,
+      "duration": 7.079
+    },
+    {
+      "text": "intensive communication course for other",
+      "start": 564.839,
+      "duration": 5.56
+    },
+    {
+      "text": "providers which is a longer Force that's",
+      "start": 567.959,
+      "duration": 5.081
+    },
+    {
+      "text": "given throughout the year um and then",
+      "start": 570.399,
+      "duration": 3.44
+    },
+    {
+      "text": "other",
+      "start": 573.04,
+      "duration": 3.2
+    },
+    {
+      "text": "communication teachings for other",
+      "start": 573.839,
+      "duration": 4.721
+    },
+    {
+      "text": "providers throughout the year yeah",
+      "start": 576.24,
+      "duration": 5.599
+    },
+    {
+      "text": "that's amazing um and you just mentioned",
+      "start": 578.56,
+      "duration": 8.719
+    },
+    {
+      "text": "empathy and I think it's not a word that",
+      "start": 581.839,
+      "duration": 8.881
+    },
+    {
+      "text": "I had really thought too hard about",
+      "start": 587.279,
+      "duration": 6.721
+    },
+    {
+      "text": "until I got ill with lco and have been",
+      "start": 590.72,
+      "duration": 6.119
+    },
+    {
+      "text": "speaking to so many people both with",
+      "start": 594.0,
+      "duration": 6.04
+    },
+    {
+      "text": "long covid and helping people with on Co",
+      "start": 596.839,
+      "duration": 5.24
+    },
+    {
+      "text": "and in the sort of wider chronic illness",
+      "start": 600.04,
+      "duration": 5.88
+    },
+    {
+      "text": "kind of world and I would never have",
+      "start": 602.079,
+      "duration": 5.561
+    },
+    {
+      "text": "kind of thought that a doctor wouldn't",
+      "start": 605.92,
+      "duration": 5.159
+    },
+    {
+      "text": "have that but it's not until I had",
+      "start": 607.64,
+      "duration": 6.96
+    },
+    {
+      "text": "experienced this myself and had heard",
+      "start": 611.079,
+      "duration": 5.44
+    },
+    {
+      "text": "other people talking about things like",
+      "start": 614.6,
+      "duration": 4.2
+    },
+    {
+      "text": "gaslighting that I'd never even heard of",
+      "start": 616.519,
+      "duration": 5.121
+    },
+    {
+      "text": "before that I kind of realized that",
+      "start": 618.8,
+      "duration": 6.68
+    },
+    {
+      "text": "actually how important empathy can be",
+      "start": 621.64,
+      "duration": 6.759
+    },
+    {
+      "text": "and maybe sort of humility as well you",
+      "start": 625.48,
+      "duration": 4.32
+    },
+    {
+      "text": "know in the sort of in a Medical",
+      "start": 628.399,
+      "duration": 3.201
+    },
+    {
+      "text": "Professional who maybe doesn't",
+      "start": 629.8,
+      "duration": 4.24
+    },
+    {
+      "text": "understand completely what is going on",
+      "start": 631.6,
+      "duration": 5.479
+    },
+    {
+      "text": "with a patient that the very least that",
+      "start": 634.04,
+      "duration": 6.32
+    },
+    {
+      "text": "they should be showing is some empathy",
+      "start": 637.079,
+      "duration": 4.921
+    },
+    {
+      "text": "but that isn't always the case I think",
+      "start": 640.36,
+      "duration": 4.2
+    },
+    {
+      "text": "for a lot of people yeah my definition",
+      "start": 642.0,
+      "duration": 5.6
+    },
+    {
+      "text": "of empathy has changed since I got sick",
+      "start": 644.56,
+      "duration": 5.88
+    },
+    {
+      "text": "with long covid I used to define it as",
+      "start": 647.6,
+      "duration": 5.4
+    },
+    {
+      "text": "putting yourself in someone else's shoes",
+      "start": 650.44,
+      "duration": 5.36
+    },
+    {
+      "text": "but now I realize that's impossible",
+      "start": 653.0,
+      "duration": 4.839
+    },
+    {
+      "text": "unless you've been in someone else's",
+      "start": 655.8,
+      "duration": 4.24
+    },
+    {
+      "text": "shoes and you can't you know you can't",
+      "start": 657.839,
+      "duration": 4.12
+    },
+    {
+      "text": "always put yourself in someone else's",
+      "start": 660.04,
+      "duration": 6.2
+    },
+    {
+      "text": "shoes so there was no way for me to put",
+      "start": 661.959,
+      "duration": 7.081
+    },
+    {
+      "text": "myself in someone's shoes with a chronic",
+      "start": 666.24,
+      "duration": 5.839
+    },
+    {
+      "text": "illness until now someone with an",
+      "start": 669.04,
+      "duration": 6.08
+    },
+    {
+      "text": "invisible disability until",
+      "start": 672.079,
+      "duration": 8.32
+    },
+    {
+      "text": "now someone with chronic pain until now",
+      "start": 675.12,
+      "duration": 8.64
+    },
+    {
+      "text": "so now I describe it",
+      "start": 680.399,
+      "duration": 6.641
+    },
+    {
+      "text": "as the ability to",
+      "start": 683.76,
+      "duration": 7.04
+    },
+    {
+      "text": "imagine what someone might be",
+      "start": 687.04,
+      "duration": 6.16
+    },
+    {
+      "text": "thinking and",
+      "start": 690.8,
+      "duration": 4.44
+    },
+    {
+      "text": "believing how they're",
+      "start": 693.2,
+      "duration": 4.6
+    },
+    {
+      "text": "feeling I think it's you know that part",
+      "start": 695.24,
+      "duration": 5.76
+    },
+    {
+      "text": "of believing what they're feeling is is",
+      "start": 697.8,
+      "duration": 5.68
+    },
+    {
+      "text": "important and that's a lot of times",
+      "start": 701.0,
+      "duration": 4.2
+    },
+    {
+      "text": "what's",
+      "start": 703.48,
+      "duration": 5.12
+    },
+    {
+      "text": "missing and empathy is is a big part of",
+      "start": 705.2,
+      "duration": 7.439
+    },
+    {
+      "text": "what I teach when I teach these courses",
+      "start": 708.6,
+      "duration": 7.0
+    },
+    {
+      "text": "and believe it or not empathy can be",
+      "start": 712.639,
+      "duration": 5.76
+    },
+    {
+      "text": "taught um and it's something that has",
+      "start": 715.6,
+      "duration": 5.56
+    },
+    {
+      "text": "been studied in medical",
+      "start": 718.399,
+      "duration": 5.321
+    },
+    {
+      "text": "professionals and when they've studied",
+      "start": 721.16,
+      "duration": 5.72
+    },
+    {
+      "text": "it they see that it's something that is",
+      "start": 723.72,
+      "duration": 7.72
+    },
+    {
+      "text": "lost in medical students that a lot of",
+      "start": 726.88,
+      "duration": 6.199
+    },
+    {
+      "text": "medical students will come in and",
+      "start": 731.44,
+      "duration": 4.28
+    },
+    {
+      "text": "there's a a score an empathy score that",
+      "start": 733.079,
+      "duration": 5.681
+    },
+    {
+      "text": "they measure when they come into medical",
+      "start": 735.72,
+      "duration": 5.28
+    },
+    {
+      "text": "school and then when they start to go",
+      "start": 738.76,
+      "duration": 5.319
+    },
+    {
+      "text": "into their clinical year and in the US",
+      "start": 741.0,
+      "duration": 4.279
+    },
+    {
+      "text": "in medical",
+      "start": 744.079,
+      "duration": 4.481
+    },
+    {
+      "text": "school usually the first two years are",
+      "start": 745.279,
+      "duration": 5.68
+    },
+    {
+      "text": "in the class room and then in the third",
+      "start": 748.56,
+      "duration": 5.12
+    },
+    {
+      "text": "year they go into the clinical",
+      "start": 750.959,
+      "duration": 5.281
+    },
+    {
+      "text": "rotations and it's in that third year",
+      "start": 753.68,
+      "duration": 4.839
+    },
+    {
+      "text": "when they start to get clinical that",
+      "start": 756.24,
+      "duration": 5.76
+    },
+    {
+      "text": "their empathy scores start to go down in",
+      "start": 758.519,
+      "duration": 5.241
+    },
+    {
+      "text": "their fourth year there's a little bit",
+      "start": 762.0,
+      "duration": 5.079
+    },
+    {
+      "text": "of an uptick in the empathy scores but",
+      "start": 763.76,
+      "duration": 6.079
+    },
+    {
+      "text": "it doesn't go up to where they were in",
+      "start": 767.079,
+      "duration": 4.601
+    },
+    {
+      "text": "those first and second",
+      "start": 769.839,
+      "duration": 4.68
+    },
+    {
+      "text": "years and in their residency when they",
+      "start": 771.68,
+      "duration": 5.48
+    },
+    {
+      "text": "continue to be all",
+      "start": 774.519,
+      "duration": 5.161
+    },
+    {
+      "text": "clinical it continues to",
+      "start": 777.16,
+      "duration": 3.72
+    },
+    {
+      "text": "a",
+      "start": 779.68,
+      "duration": 4.08
+    },
+    {
+      "text": "road and they think this is for a number",
+      "start": 780.88,
+      "duration": 4.6
+    },
+    {
+      "text": "of",
+      "start": 783.76,
+      "duration": 6.04
+    },
+    {
+      "text": "reasons there's a lot of pressure on the",
+      "start": 785.48,
+      "duration": 7.0
+    },
+    {
+      "text": "medical students the long",
+      "start": 789.8,
+      "duration": 6.56
+    },
+    {
+      "text": "hours the pressures of",
+      "start": 792.48,
+      "duration": 6.359
+    },
+    {
+      "text": "school the long hours that the residents",
+      "start": 796.36,
+      "duration": 6.8
+    },
+    {
+      "text": "work the isolation from family and",
+      "start": 798.839,
+      "duration": 6.881
+    },
+    {
+      "text": "friends but they also believe that it's",
+      "start": 803.16,
+      "duration": 4.84
+    },
+    {
+      "text": "because when the medical students go",
+      "start": 805.72,
+      "duration": 4.96
+    },
+    {
+      "text": "into their third year here they're going",
+      "start": 808.0,
+      "duration": 4.079
+    },
+    {
+      "text": "in with this",
+      "start": 810.68,
+      "duration": 5.8
+    },
+    {
+      "text": "idealism that they can cure everybody",
+      "start": 812.079,
+      "duration": 6.681
+    },
+    {
+      "text": "that they can treat everyone's",
+      "start": 816.48,
+      "duration": 5.12
+    },
+    {
+      "text": "pain and when they realize that that's",
+      "start": 818.76,
+      "duration": 4.36
+    },
+    {
+      "text": "not",
+      "start": 821.6,
+      "duration": 6.239
+    },
+    {
+      "text": "true they lose a little bit of that hope",
+      "start": 823.12,
+      "duration": 6.48
+    },
+    {
+      "text": "and as a result they lose a little bit",
+      "start": 827.839,
+      "duration": 4.041
+    },
+    {
+      "text": "of that",
+      "start": 829.6,
+      "duration": 5.359
+    },
+    {
+      "text": "empathy so it's",
+      "start": 831.88,
+      "duration": 6.16
+    },
+    {
+      "text": "sad um but it needs to be addressed it",
+      "start": 834.959,
+      "duration": 6.761
+    },
+    {
+      "text": "needs to be worked on and I think that",
+      "start": 838.04,
+      "duration": 6.799
+    },
+    {
+      "text": "you know as Physicians go on in their",
+      "start": 841.72,
+      "duration": 5.76
+    },
+    {
+      "text": "career and I haven't seen studies on",
+      "start": 844.839,
+      "duration": 3.92
+    },
+    {
+      "text": "this I'm not saying they're not out",
+      "start": 847.48,
+      "duration": 2.76
+    },
+    {
+      "text": "there they may be out there I just have",
+      "start": 848.759,
+      "duration": 5.44
+    },
+    {
+      "text": "not seen them but just in my in my own",
+      "start": 850.24,
+      "duration": 5.839
+    },
+    {
+      "text": "career what I've seen is that as",
+      "start": 854.199,
+      "duration": 4.76
+    },
+    {
+      "text": "Physicians go on in their career if",
+      "start": 856.079,
+      "duration": 5.361
+    },
+    {
+      "text": "they're not significantly burned out",
+      "start": 858.959,
+      "duration": 5.401
+    },
+    {
+      "text": "which is a whole another",
+      "start": 861.44,
+      "duration": 7.04
+    },
+    {
+      "text": "podcast their empathy tends to go up but",
+      "start": 864.36,
+      "duration": 6.24
+    },
+    {
+      "text": "one of the things things that does make",
+      "start": 868.48,
+      "duration": 5.0
+    },
+    {
+      "text": "empathy go up is clinical",
+      "start": 870.6,
+      "duration": 5.4
+    },
+    {
+      "text": "experience so that could be one of the",
+      "start": 873.48,
+      "duration": 6.2
+    },
+    {
+      "text": "reasons why we see",
+      "start": 876.0,
+      "duration": 3.68
+    },
+    {
+      "text": "that we'll be right",
+      "start": 880.0,
+      "duration": 5.32
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 883.04,
+      "duration": 4.32
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 885.32,
+      "duration": 4.36
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 887.36,
+      "duration": 3.76
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 889.68,
+      "duration": 3.519
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 891.12,
+      "duration": 4.12
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 893.199,
+      "duration": 3.88
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 895.24,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with lung Co we've worked",
+      "start": 897.079,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 899.72,
+      "duration": 3.239
+    },
+    {
+      "text": "specifically tailored to those with L",
+      "start": 901.199,
+      "duration": 4.08
+    },
+    {
+      "text": "covid it's a six- we course with 12",
+      "start": 902.959,
+      "duration": 4.8
+    },
+    {
+      "text": "sessions all delivered online the",
+      "start": 905.279,
+      "duration": 3.8
+    },
+    {
+      "text": "community feel and learning that we're",
+      "start": 907.759,
+      "duration": 3.52
+    },
+    {
+      "text": "all sharing is such a joy to find out",
+      "start": 909.079,
+      "duration": 3.721
+    },
+    {
+      "text": "more information and to sign up for our",
+      "start": 911.279,
+      "duration": 3.12
+    },
+    {
+      "text": "courses workshops and other shorter",
+      "start": 912.8,
+      "duration": 4.0
+    },
+    {
+      "text": "sessions please check out the link below",
+      "start": 914.399,
+      "duration": 5.961
+    },
+    {
+      "text": "lco breathing.com or email lco breathing",
+      "start": 916.8,
+      "duration": 5.36
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 920.36,
+      "duration": 2.43
+    },
+    {
+      "text": "Journey with",
+      "start": 922.16,
+      "duration": 4.24
+    },
+    {
+      "text": "[Music]",
+      "start": 922.79,
+      "duration": 3.61
+    },
+    {
+      "text": "us wow that's amazing and that you can",
+      "start": 927.48,
+      "duration": 5.159
+    },
+    {
+      "text": "measure it as well that's really",
+      "start": 930.0,
+      "duration": 4.8
+    },
+    {
+      "text": "fascinating yeah I started looking at",
+      "start": 932.639,
+      "duration": 4.801
+    },
+    {
+      "text": "that because I was curious about how",
+      "start": 934.8,
+      "duration": 6.2
+    },
+    {
+      "text": "this illness was affecting me and my own",
+      "start": 937.44,
+      "duration": 6.72
+    },
+    {
+      "text": "empathy and I was curious if there were",
+      "start": 941.0,
+      "duration": 7.04
+    },
+    {
+      "text": "studies out there about whether or not",
+      "start": 944.16,
+      "duration": 6.479
+    },
+    {
+      "text": "having an illness made you a more",
+      "start": 948.04,
+      "duration": 3.719
+    },
+    {
+      "text": "empathetic",
+      "start": 950.639,
+      "duration": 3.56
+    },
+    {
+      "text": "physician and I found that there was",
+      "start": 951.759,
+      "duration": 5.281
+    },
+    {
+      "text": "evidence that said that that that having",
+      "start": 954.199,
+      "duration": 5.2
+    },
+    {
+      "text": "an illness or having a family member",
+      "start": 957.04,
+      "duration": 3.799
+    },
+    {
+      "text": "with an illness made you a more",
+      "start": 959.399,
+      "duration": 3.321
+    },
+    {
+      "text": "empathetic physician which it makes",
+      "start": 960.839,
+      "duration": 3.92
+    },
+    {
+      "text": "sense you know that it",
+      "start": 962.72,
+      "duration": 4.359
+    },
+    {
+      "text": "does and I'm sure you know any",
+      "start": 964.759,
+      "duration": 4.121
+    },
+    {
+      "text": "Physicians that are listening to this",
+      "start": 967.079,
+      "duration": 4.281
+    },
+    {
+      "text": "podcast know that when you've you know",
+      "start": 968.88,
+      "duration": 4.56
+    },
+    {
+      "text": "if you've had if you you yourself has",
+      "start": 971.36,
+      "duration": 3.32
+    },
+    {
+      "text": "been in the hospital if you've had a",
+      "start": 973.44,
+      "duration": 3.56
+    },
+    {
+      "text": "child in the hospital a parent in the",
+      "start": 974.68,
+      "duration": 5.519
+    },
+    {
+      "text": "hospital it's different when you're you",
+      "start": 977.0,
+      "duration": 5.399
+    },
+    {
+      "text": "yourself are hospitalized and then",
+      "start": 980.199,
+      "duration": 5.241
+    },
+    {
+      "text": "you're taking care of someone else your",
+      "start": 982.399,
+      "duration": 7.36
+    },
+    {
+      "text": "age or a child your child's age or",
+      "start": 985.44,
+      "duration": 8.0
+    },
+    {
+      "text": "elderly patient your parents age so it",
+      "start": 989.759,
+      "duration": 6.08
+    },
+    {
+      "text": "makes sense yeah it's like it brings it",
+      "start": 993.44,
+      "duration": 5.16
+    },
+    {
+      "text": "closer to home almost and I'm not sure",
+      "start": 995.839,
+      "duration": 4.44
+    },
+    {
+      "text": "why that would make you more empathetic",
+      "start": 998.6,
+      "duration": 3.919
+    },
+    {
+      "text": "to other people but I think you're right",
+      "start": 1000.279,
+      "duration": 4.601
+    },
+    {
+      "text": "that it does yeah it's interesting what",
+      "start": 1002.519,
+      "duration": 5.201
+    },
+    {
+      "text": "you were saying about it being very",
+      "start": 1004.88,
+      "duration": 5.16
+    },
+    {
+      "text": "difficult to understand what someone's",
+      "start": 1007.72,
+      "duration": 3.559
+    },
+    {
+      "text": "going through until you've gone through",
+      "start": 1010.04,
+      "duration": 2.84
+    },
+    {
+      "text": "it yourself because I mean I've",
+      "start": 1011.279,
+      "duration": 3.521
+    },
+    {
+      "text": "definitely noticed that with my own",
+      "start": 1012.88,
+      "duration": 3.92
+    },
+    {
+      "text": "experiences I do have a couple of",
+      "start": 1014.8,
+      "duration": 5.08
+    },
+    {
+      "text": "friends who I've known before I got ill",
+      "start": 1016.8,
+      "duration": 5.92
+    },
+    {
+      "text": "who had you know various chronic",
+      "start": 1019.88,
+      "duration": 4.439
+    },
+    {
+      "text": "conditions",
+      "start": 1022.72,
+      "duration": 4.52
+    },
+    {
+      "text": "and I sort of have",
+      "start": 1024.319,
+      "duration": 6.0
+    },
+    {
+      "text": "realized since becoming ill that I",
+      "start": 1027.24,
+      "duration": 5.839
+    },
+    {
+      "text": "didn't understand their condition at all",
+      "start": 1030.319,
+      "duration": 4.561
+    },
+    {
+      "text": "I would like to think that I was never",
+      "start": 1033.079,
+      "duration": 4.161
+    },
+    {
+      "text": "not empathetic towards them and that I",
+      "start": 1034.88,
+      "duration": 4.079
+    },
+    {
+      "text": "you know would never disbelieve anything",
+      "start": 1037.24,
+      "duration": 3.199
+    },
+    {
+      "text": "they would say because I don't think I",
+      "start": 1038.959,
+      "duration": 2.921
+    },
+    {
+      "text": "did but I",
+      "start": 1040.439,
+      "duration": 5.281
+    },
+    {
+      "text": "certainly I didn't understand how",
+      "start": 1041.88,
+      "duration": 5.679
+    },
+    {
+      "text": "completely it can take over your entire",
+      "start": 1045.72,
+      "duration": 4.68
+    },
+    {
+      "text": "life and every single part you and the",
+      "start": 1047.559,
+      "duration": 5.36
+    },
+    {
+      "text": "things around you you know your your",
+      "start": 1050.4,
+      "duration": 4.92
+    },
+    {
+      "text": "family your friends your you know",
+      "start": 1052.919,
+      "duration": 6.12
+    },
+    {
+      "text": "everything so I suppose yeah when you're",
+      "start": 1055.32,
+      "duration": 6.239
+    },
+    {
+      "text": "then thinking about a doctor for example",
+      "start": 1059.039,
+      "duration": 5.361
+    },
+    {
+      "text": "when you go to see your GP or whatever",
+      "start": 1061.559,
+      "duration": 4.601
+    },
+    {
+      "text": "the equivalent to your GP is you know",
+      "start": 1064.4,
+      "duration": 3.8
+    },
+    {
+      "text": "you're talking to the the doctor about",
+      "start": 1066.16,
+      "duration": 5.04
+    },
+    {
+      "text": "your condition that they probably don't",
+      "start": 1068.2,
+      "duration": 5.16
+    },
+    {
+      "text": "have um they may have experience of it",
+      "start": 1071.2,
+      "duration": 3.68
+    },
+    {
+      "text": "from other patients but they probably",
+      "start": 1073.36,
+      "duration": 3.0
+    },
+    {
+      "text": "haven't physically experienced it",
+      "start": 1074.88,
+      "duration": 4.44
+    },
+    {
+      "text": "themselves and this idea of them being",
+      "start": 1076.36,
+      "duration": 6.84
+    },
+    {
+      "text": "able to maybe not understand because",
+      "start": 1079.32,
+      "duration": 6.599
+    },
+    {
+      "text": "they haven't experienced it but",
+      "start": 1083.2,
+      "duration": 6.16
+    },
+    {
+      "text": "definitely believe what you're saying",
+      "start": 1085.919,
+      "duration": 5.88
+    },
+    {
+      "text": "they're obviously very very connected um",
+      "start": 1089.36,
+      "duration": 3.64
+    },
+    {
+      "text": "but I'm not sure if they're quite the",
+      "start": 1091.799,
+      "duration": 3.561
+    },
+    {
+      "text": "same thing the sort of empathy and the",
+      "start": 1093.0,
+      "duration": 5.679
+    },
+    {
+      "text": "believing your patient because not being",
+      "start": 1095.36,
+      "duration": 6.04
+    },
+    {
+      "text": "believed that's dismissive isn't it",
+      "start": 1098.679,
+      "duration": 4.601
+    },
+    {
+      "text": "that's you know that I like that is like",
+      "start": 1101.4,
+      "duration": 3.279
+    },
+    {
+      "text": "the worst possible thing you could",
+      "start": 1103.28,
+      "duration": 2.759
+    },
+    {
+      "text": "imagine walking into your doctor's",
+      "start": 1104.679,
+      "duration": 3.48
+    },
+    {
+      "text": "surgery and being told that you know not",
+      "start": 1106.039,
+      "duration": 3.88
+    },
+    {
+      "text": "only you feeling terrible but actually",
+      "start": 1108.159,
+      "duration": 3.841
+    },
+    {
+      "text": "that you're making up yeah I've I've",
+      "start": 1109.919,
+      "duration": 6.281
+    },
+    {
+      "text": "been trying to speak to Physicians",
+      "start": 1112.0,
+      "duration": 6.84
+    },
+    {
+      "text": "whenever I can about my own",
+      "start": 1116.2,
+      "duration": 6.24
+    },
+    {
+      "text": "experience um I just recently spoke last",
+      "start": 1118.84,
+      "duration": 6.24
+    },
+    {
+      "text": "Thursday to a group of Emergency",
+      "start": 1122.44,
+      "duration": 5.68
+    },
+    {
+      "text": "Physicians um the Louisiana American",
+      "start": 1125.08,
+      "duration": 6.76
+    },
+    {
+      "text": "College of Emergency Physicians about uh",
+      "start": 1128.12,
+      "duration": 6.679
+    },
+    {
+      "text": "long covid and how it may present to the",
+      "start": 1131.84,
+      "duration": 5.839
+    },
+    {
+      "text": "emergency department and in there I told",
+      "start": 1134.799,
+      "duration": 7.321
+    },
+    {
+      "text": "them my own story so I finished up by",
+      "start": 1137.679,
+      "duration": 7.36
+    },
+    {
+      "text": "saying that there's not much that we",
+      "start": 1142.12,
+      "duration": 5.52
+    },
+    {
+      "text": "have to offer long covid patients right",
+      "start": 1145.039,
+      "duration": 4.88
+    },
+    {
+      "text": "now in terms of treatment we really have",
+      "start": 1147.64,
+      "duration": 4.36
+    },
+    {
+      "text": "nothing to offer long covid patients in",
+      "start": 1149.919,
+      "duration": 3.721
+    },
+    {
+      "text": "terms of treatment other than some",
+      "start": 1152.0,
+      "duration": 3.28
+    },
+    {
+      "text": "treatment for symptoms but the most",
+      "start": 1153.64,
+      "duration": 3.2
+    },
+    {
+      "text": "important thing that you can tell them",
+      "start": 1155.28,
+      "duration": 3.519
+    },
+    {
+      "text": "is that you believe them and there's",
+      "start": 1156.84,
+      "duration": 4.719
+    },
+    {
+      "text": "actually a quote from Twitter you know",
+      "start": 1158.799,
+      "duration": 4.681
+    },
+    {
+      "text": "I've looked again for this guy on",
+      "start": 1161.559,
+      "duration": 3.521
+    },
+    {
+      "text": "Twitter and I haven't been able to find",
+      "start": 1163.48,
+      "duration": 3.679
+    },
+    {
+      "text": "him I think he's not on there anymore I",
+      "start": 1165.08,
+      "duration": 4.92
+    },
+    {
+      "text": "think he's docut in Zen because I want",
+      "start": 1167.159,
+      "duration": 4.801
+    },
+    {
+      "text": "to give him credit because it's a great",
+      "start": 1170.0,
+      "duration": 4.4
+    },
+    {
+      "text": "quote he says it tookes me 25 years of",
+      "start": 1171.96,
+      "duration": 5.48
+    },
+    {
+      "text": "practice to figure out the best thing to",
+      "start": 1174.4,
+      "duration": 5.12
+    },
+    {
+      "text": "tell my patients is I don't know what's",
+      "start": 1177.44,
+      "duration": 4.2
+    },
+    {
+      "text": "wrong with you but I believe you and I",
+      "start": 1179.52,
+      "duration": 4.24
+    },
+    {
+      "text": "will work to figure this out um and so",
+      "start": 1181.64,
+      "duration": 4.519
+    },
+    {
+      "text": "that's how I finished off the talk is",
+      "start": 1183.76,
+      "duration": 3.84
+    },
+    {
+      "text": "that telling your patients that you",
+      "start": 1186.159,
+      "duration": 3.921
+    },
+    {
+      "text": "believe them even if you don't know",
+      "start": 1187.6,
+      "duration": 3.92
+    },
+    {
+      "text": "what's wrong with them and sometimes it",
+      "start": 1190.08,
+      "duration": 5.0
+    },
+    {
+      "text": "can be really difficult for Physicians",
+      "start": 1191.52,
+      "duration": 8.12
+    },
+    {
+      "text": "to admit that they don't know and that's",
+      "start": 1195.08,
+      "duration": 7.36
+    },
+    {
+      "text": "not the doctor's fault that's the way",
+      "start": 1199.64,
+      "duration": 5.24
+    },
+    {
+      "text": "that we've been taught all through our",
+      "start": 1202.44,
+      "duration": 4.239
+    },
+    {
+      "text": "schooling it's the way that we've been",
+      "start": 1204.88,
+      "duration": 5.08
+    },
+    {
+      "text": "trained because we've been trained that",
+      "start": 1206.679,
+      "duration": 7.12
+    },
+    {
+      "text": "patients come to us to be fixed they",
+      "start": 1209.96,
+      "duration": 7.48
+    },
+    {
+      "text": "come to us for help they come to us for",
+      "start": 1213.799,
+      "duration": 7.201
+    },
+    {
+      "text": "answers and our job is to fix them to",
+      "start": 1217.44,
+      "duration": 4.84
+    },
+    {
+      "text": "give them",
+      "start": 1221.0,
+      "duration": 4.159
+    },
+    {
+      "text": "answers and so when we can't do that we",
+      "start": 1222.28,
+      "duration": 4.44
+    },
+    {
+      "text": "feel like we're",
+      "start": 1225.159,
+      "duration": 5.721
+    },
+    {
+      "text": "failing and so it's really difficult for",
+      "start": 1226.72,
+      "duration": 7.199
+    },
+    {
+      "text": "us to say I don't know what's wrong with",
+      "start": 1230.88,
+      "duration": 6.159
+    },
+    {
+      "text": "you and so it sometimes takes a you know",
+      "start": 1233.919,
+      "duration": 4.961
+    },
+    {
+      "text": "years like this doctor said it took me",
+      "start": 1237.039,
+      "duration": 6.0
+    },
+    {
+      "text": "25 years of practice to realize that",
+      "start": 1238.88,
+      "duration": 5.88
+    },
+    {
+      "text": "it's okay to say I don't know what's",
+      "start": 1243.039,
+      "duration": 4.721
+    },
+    {
+      "text": "wrong with you but I'm not picking on",
+      "start": 1244.76,
+      "duration": 4.84
+    },
+    {
+      "text": "younger doctors you know there's some",
+      "start": 1247.76,
+      "duration": 3.72
+    },
+    {
+      "text": "great younger doctors who realize it's",
+      "start": 1249.6,
+      "duration": 3.6
+    },
+    {
+      "text": "okay to say that but when you're just at",
+      "start": 1251.48,
+      "duration": 4.12
+    },
+    {
+      "text": "a school I think it's even harder",
+      "start": 1253.2,
+      "duration": 4.16
+    },
+    {
+      "text": "because you know all through school",
+      "start": 1255.6,
+      "duration": 3.0
+    },
+    {
+      "text": "they're saying like what's the diet",
+      "start": 1257.36,
+      "duration": 2.72
+    },
+    {
+      "text": "diagnosis what's your differential",
+      "start": 1258.6,
+      "duration": 4.28
+    },
+    {
+      "text": "diagnosis and but I think sometimes",
+      "start": 1260.08,
+      "duration": 5.12
+    },
+    {
+      "text": "that's the most important thing and we",
+      "start": 1262.88,
+      "duration": 4.36
+    },
+    {
+      "text": "as long covid patients A lot of times we",
+      "start": 1265.2,
+      "duration": 3.64
+    },
+    {
+      "text": "don't want to hear that either we don't",
+      "start": 1267.24,
+      "duration": 3.0
+    },
+    {
+      "text": "you know we want to know what's wrong",
+      "start": 1268.84,
+      "duration": 3.92
+    },
+    {
+      "text": "with me but you know one of the other",
+      "start": 1270.24,
+      "duration": 5.439
+    },
+    {
+      "text": "things that I realize being on this side",
+      "start": 1272.76,
+      "duration": 6.279
+    },
+    {
+      "text": "of things too is unfortunately I haven't",
+      "start": 1275.679,
+      "duration": 5.681
+    },
+    {
+      "text": "been able to go back to work in the",
+      "start": 1279.039,
+      "duration": 4.88
+    },
+    {
+      "text": "emergency department since I've been",
+      "start": 1281.36,
+      "duration": 7.679
+    },
+    {
+      "text": "sick but when I do or if I ever do I'm",
+      "start": 1283.919,
+      "duration": 7.041
+    },
+    {
+      "text": "certainly going to change the way that I",
+      "start": 1289.039,
+      "duration": 6.201
+    },
+    {
+      "text": "did this because I had a practice of",
+      "start": 1290.96,
+      "duration": 5.88
+    },
+    {
+      "text": "when I would have a patient who would",
+      "start": 1295.24,
+      "duration": 4.84
+    },
+    {
+      "text": "come in with whatever chest pain",
+      "start": 1296.84,
+      "duration": 5.64
+    },
+    {
+      "text": "headache abdominal pain and we would do",
+      "start": 1300.08,
+      "duration": 4.4
+    },
+    {
+      "text": "a work up in the emergency department",
+      "start": 1302.48,
+      "duration": 6.52
+    },
+    {
+      "text": "that may have included Labs catskin EKG",
+      "start": 1304.48,
+      "duration": 6.88
+    },
+    {
+      "text": "maybe a consult with a",
+      "start": 1309.0,
+      "duration": 5.96
+    },
+    {
+      "text": "specialist and nothing would come back",
+      "start": 1311.36,
+      "duration": 6.08
+    },
+    {
+      "text": "abnormal I had a habit of going back",
+      "start": 1314.96,
+      "duration": 5.8
+    },
+    {
+      "text": "into the room and saying great",
+      "start": 1317.44,
+      "duration": 5.52
+    },
+    {
+      "text": "news everything's",
+      "start": 1320.76,
+      "duration": 4.76
+    },
+    {
+      "text": "normal and I would be frustrated when",
+      "start": 1322.96,
+      "duration": 4.64
+    },
+    {
+      "text": "the patient would look like that wasn't",
+      "start": 1325.52,
+      "duration": 5.24
+    },
+    {
+      "text": "great news and I couldn't understand",
+      "start": 1327.6,
+      "duration": 5.64
+    },
+    {
+      "text": "why and my colleagues couldn't",
+      "start": 1330.76,
+      "duration": 3.88
+    },
+    {
+      "text": "understand why and we would talk about",
+      "start": 1333.24,
+      "duration": 4.24
+    },
+    {
+      "text": "it we say like do they want to be told",
+      "start": 1334.64,
+      "duration": 5.24
+    },
+    {
+      "text": "that they have a clot on their CAT scan",
+      "start": 1337.48,
+      "duration": 3.84
+    },
+    {
+      "text": "do they want to be told they have a",
+      "start": 1339.88,
+      "duration": 3.0
+    },
+    {
+      "text": "heart attack do they want to be told",
+      "start": 1341.32,
+      "duration": 2.719
+    },
+    {
+      "text": "they're being rushed off to the",
+      "start": 1342.88,
+      "duration": 2.679
+    },
+    {
+      "text": "operating room for",
+      "start": 1344.039,
+      "duration": 4.0
+    },
+    {
+      "text": "appendicitis well it wasn't until I was",
+      "start": 1345.559,
+      "duration": 3.48
+    },
+    {
+      "text": "sick",
+      "start": 1348.039,
+      "duration": 4.481
+    },
+    {
+      "text": "and had normal test after normal test",
+      "start": 1349.039,
+      "duration": 6.401
+    },
+    {
+      "text": "after normal test feeling worse than I",
+      "start": 1352.52,
+      "duration": 4.399
+    },
+    {
+      "text": "ever",
+      "start": 1355.44,
+      "duration": 4.52
+    },
+    {
+      "text": "felt that I realized how those patients",
+      "start": 1356.919,
+      "duration": 5.36
+    },
+    {
+      "text": "felt that it no they didn't want to be",
+      "start": 1359.96,
+      "duration": 4.16
+    },
+    {
+      "text": "told they were having a heart attack no",
+      "start": 1362.279,
+      "duration": 3.201
+    },
+    {
+      "text": "they didn't want to be told they were",
+      "start": 1364.12,
+      "duration": 4.039
+    },
+    {
+      "text": "being rushed off to the operating room",
+      "start": 1365.48,
+      "duration": 6.96
+    },
+    {
+      "text": "they just wanted to be told yes you're",
+      "start": 1368.159,
+      "duration": 7.041
+    },
+    {
+      "text": "sick yes there's something",
+      "start": 1372.44,
+      "duration": 5.8
+    },
+    {
+      "text": "wrong no it's not great news that you're",
+      "start": 1375.2,
+      "duration": 5.32
+    },
+    {
+      "text": "in in the emergency",
+      "start": 1378.24,
+      "duration": 4.559
+    },
+    {
+      "text": "department okay your tests are normal",
+      "start": 1380.52,
+      "duration": 3.96
+    },
+    {
+      "text": "but yes there's still something wrong",
+      "start": 1382.799,
+      "duration": 4.441
+    },
+    {
+      "text": "with you we just haven't figured it out",
+      "start": 1384.48,
+      "duration": 5.319
+    },
+    {
+      "text": "today so there's another way to do that",
+      "start": 1387.24,
+      "duration": 5.679
+    },
+    {
+      "text": "too and I'm I'm teaching providers about",
+      "start": 1389.799,
+      "duration": 6.201
+    },
+    {
+      "text": "that now too so there's a lot of things",
+      "start": 1392.919,
+      "duration": 5.401
+    },
+    {
+      "text": "that I've learned I thought you know I",
+      "start": 1396.0,
+      "duration": 3.919
+    },
+    {
+      "text": "was certified as a patient experienced",
+      "start": 1398.32,
+      "duration": 4.479
+    },
+    {
+      "text": "professional before I got sick I thought",
+      "start": 1399.919,
+      "duration": 4.441
+    },
+    {
+      "text": "I knew it",
+      "start": 1402.799,
+      "duration": 4.201
+    },
+    {
+      "text": "all I thought I knew all there was to",
+      "start": 1404.36,
+      "duration": 4.6
+    },
+    {
+      "text": "know about patient experience",
+      "start": 1407.0,
+      "duration": 4.52
+    },
+    {
+      "text": "but this illness has taught me quite a",
+      "start": 1408.96,
+      "duration": 7.0
+    },
+    {
+      "text": "bit more yeah it's so interesting how",
+      "start": 1411.52,
+      "duration": 7.039
+    },
+    {
+      "text": "you can just see it through different",
+      "start": 1415.96,
+      "duration": 6.079
+    },
+    {
+      "text": "eyes and I find I see so many things",
+      "start": 1418.559,
+      "duration": 5.521
+    },
+    {
+      "text": "through different eyes and you know not",
+      "start": 1422.039,
+      "duration": 4.281
+    },
+    {
+      "text": "just in the medical system either you",
+      "start": 1424.08,
+      "duration": 4.76
+    },
+    {
+      "text": "know all around you know I look at",
+      "start": 1426.32,
+      "duration": 4.959
+    },
+    {
+      "text": "buildings now and think oh there's no",
+      "start": 1428.84,
+      "duration": 5.68
+    },
+    {
+      "text": "wheelchair ramp or well that event",
+      "start": 1431.279,
+      "duration": 5.28
+    },
+    {
+      "text": "doesn't have like an online option for",
+      "start": 1434.52,
+      "duration": 3.6
+    },
+    {
+      "text": "people who aren't able to physically be",
+      "start": 1436.559,
+      "duration": 3.6
+    },
+    {
+      "text": "there for whatever reason and it's just",
+      "start": 1438.12,
+      "duration": 3.6
+    },
+    {
+      "text": "all these things that you're starting to",
+      "start": 1440.159,
+      "duration": 3.88
+    },
+    {
+      "text": "see through this slightly different lens",
+      "start": 1441.72,
+      "duration": 4.839
+    },
+    {
+      "text": "from having experienced it yourself and",
+      "start": 1444.039,
+      "duration": 4.361
+    },
+    {
+      "text": "I guess that's where the kind of",
+      "start": 1446.559,
+      "duration": 4.401
+    },
+    {
+      "text": "experience thing is so important isn't",
+      "start": 1448.4,
+      "duration": 4.36
+    },
+    {
+      "text": "it that you know you you might think",
+      "start": 1450.96,
+      "duration": 4.319
+    },
+    {
+      "text": "that you have thought of everything but",
+      "start": 1452.76,
+      "duration": 4.399
+    },
+    {
+      "text": "until you've actually asked your patient",
+      "start": 1455.279,
+      "duration": 4.201
+    },
+    {
+      "text": "who is experiencing it you know they're",
+      "start": 1457.159,
+      "duration": 3.64
+    },
+    {
+      "text": "going to come up with all sorts of other",
+      "start": 1459.48,
+      "duration": 3.28
+    },
+    {
+      "text": "things that you haven't thought of just",
+      "start": 1460.799,
+      "duration": 3.961
+    },
+    {
+      "text": "because why would you you haven't",
+      "start": 1462.76,
+      "duration": 4.76
+    },
+    {
+      "text": "experienced it so I guess that is why",
+      "start": 1464.76,
+      "duration": 4.279
+    },
+    {
+      "text": "having patience in involved at all",
+      "start": 1467.52,
+      "duration": 4.039
+    },
+    {
+      "text": "levels as well isn't it um is so",
+      "start": 1469.039,
+      "duration": 4.841
+    },
+    {
+      "text": "important yeah and we have you know we",
+      "start": 1471.559,
+      "duration": 4.801
+    },
+    {
+      "text": "have a patient family Advisory board at",
+      "start": 1473.88,
+      "duration": 6.2
+    },
+    {
+      "text": "our Hospital who serves that purpose but",
+      "start": 1476.36,
+      "duration": 7.16
+    },
+    {
+      "text": "yeah having patients who are you know in",
+      "start": 1480.08,
+      "duration": 6.839
+    },
+    {
+      "text": "my role I think is is invaluable and",
+      "start": 1483.52,
+      "duration": 5.399
+    },
+    {
+      "text": "there's actually another another member",
+      "start": 1486.919,
+      "duration": 4.561
+    },
+    {
+      "text": "of the patient experience team who have",
+      "start": 1488.919,
+      "duration": 4.24
+    },
+    {
+      "text": "been in close contact with she's one of",
+      "start": 1491.48,
+      "duration": 3.84
+    },
+    {
+      "text": "our patient ambassadors which is one of",
+      "start": 1493.159,
+      "duration": 5.841
+    },
+    {
+      "text": "our patient facing patient experience",
+      "start": 1495.32,
+      "duration": 5.88
+    },
+    {
+      "text": "people she actually rounds on the",
+      "start": 1499.0,
+      "duration": 3.799
+    },
+    {
+      "text": "patients who are boarding in the",
+      "start": 1501.2,
+      "duration": 3.719
+    },
+    {
+      "text": "emergency department and that type of",
+      "start": 1502.799,
+      "duration": 4.921
+    },
+    {
+      "text": "thing and but she called me yesterday",
+      "start": 1504.919,
+      "duration": 4.921
+    },
+    {
+      "text": "about an encounter she had with a",
+      "start": 1507.72,
+      "duration": 5.4
+    },
+    {
+      "text": "physician where she said that he walked",
+      "start": 1509.84,
+      "duration": 6.079
+    },
+    {
+      "text": "into the room with her discharge papers",
+      "start": 1513.12,
+      "duration": 5.4
+    },
+    {
+      "text": "in his hand before they had even had the",
+      "start": 1515.919,
+      "duration": 5.601
+    },
+    {
+      "text": "encounter she's bound me because",
+      "start": 1518.52,
+      "duration": 4.879
+    },
+    {
+      "text": "somebody said I think you have long Co",
+      "start": 1521.52,
+      "duration": 3.44
+    },
+    {
+      "text": "which it sounds like she does but she's",
+      "start": 1523.399,
+      "duration": 4.201
+    },
+    {
+      "text": "just getting hooked up with the system",
+      "start": 1524.96,
+      "duration": 4.16
+    },
+    {
+      "text": "and she happened to be seeing a",
+      "start": 1527.6,
+      "duration": 3.959
+    },
+    {
+      "text": "cardiologist for chest pain but she",
+      "start": 1529.12,
+      "duration": 3.6
+    },
+    {
+      "text": "called me the other day and she's like",
+      "start": 1531.559,
+      "duration": 2.84
+    },
+    {
+      "text": "do you think I might have pots and I was",
+      "start": 1532.72,
+      "duration": 3.28
+    },
+    {
+      "text": "like yeah I think you do why don't you",
+      "start": 1534.399,
+      "duration": 3.681
+    },
+    {
+      "text": "mention it to your cardiologist but he",
+      "start": 1536.0,
+      "duration": 3.6
+    },
+    {
+      "text": "was planning to discharge her because",
+      "start": 1538.08,
+      "duration": 3.52
+    },
+    {
+      "text": "all of her tests came back normal for",
+      "start": 1539.6,
+      "duration": 4.12
+    },
+    {
+      "text": "chest pain so he walked in with the",
+      "start": 1541.6,
+      "duration": 5.0
+    },
+    {
+      "text": "discharge papers in his hand planning to",
+      "start": 1543.72,
+      "duration": 5.52
+    },
+    {
+      "text": "discharge her from the clinic before she",
+      "start": 1546.6,
+      "duration": 4.64
+    },
+    {
+      "text": "even had a chance to say like hey I",
+      "start": 1549.24,
+      "duration": 4.12
+    },
+    {
+      "text": "think maybe I have pots what do you",
+      "start": 1551.24,
+      "duration": 4.96
+    },
+    {
+      "text": "think about that but that was what she",
+      "start": 1553.36,
+      "duration": 5.48
+    },
+    {
+      "text": "was faced with was like I'm discharging",
+      "start": 1556.2,
+      "duration": 4.079
+    },
+    {
+      "text": "you from the clinic because all your",
+      "start": 1558.84,
+      "duration": 4.8
+    },
+    {
+      "text": "tests are normal so so yeah so she's",
+      "start": 1560.279,
+      "duration": 6.041
+    },
+    {
+      "text": "kind of sharing these encounters with me",
+      "start": 1563.64,
+      "duration": 5.56
+    },
+    {
+      "text": "too about the the patient",
+      "start": 1566.32,
+      "duration": 6.239
+    },
+    {
+      "text": "experience and it's definitely eye",
+      "start": 1569.2,
+      "duration": 6.4
+    },
+    {
+      "text": "openening and a good position for us to",
+      "start": 1572.559,
+      "duration": 6.681
+    },
+    {
+      "text": "be in to hopefully make improvements for",
+      "start": 1575.6,
+      "duration": 5.4
+    },
+    {
+      "text": "all of our patients throughout the",
+      "start": 1579.24,
+      "duration": 4.84
+    },
+    {
+      "text": "system yeah and I guess you know with",
+      "start": 1581.0,
+      "duration": 5.919
+    },
+    {
+      "text": "something like long Co you know it's",
+      "start": 1584.08,
+      "duration": 4.8
+    },
+    {
+      "text": "it's sort of I guess because it's hit so",
+      "start": 1586.919,
+      "duration": 4.041
+    },
+    {
+      "text": "many people all at once and the sheer",
+      "start": 1588.88,
+      "duration": 4.32
+    },
+    {
+      "text": "kind of number of people all suffering",
+      "start": 1590.96,
+      "duration": 4.52
+    },
+    {
+      "text": "at once and not to negate people who've",
+      "start": 1593.2,
+      "duration": 4.16
+    },
+    {
+      "text": "been suffering for decades with things",
+      "start": 1595.48,
+      "duration": 4.64
+    },
+    {
+      "text": "like mecfs and you know all sorts of",
+      "start": 1597.36,
+      "duration": 4.799
+    },
+    {
+      "text": "other thing but I think this kind of",
+      "start": 1600.12,
+      "duration": 4.559
+    },
+    {
+      "text": "long Co movement and you know the sort",
+      "start": 1602.159,
+      "duration": 5.161
+    },
+    {
+      "text": "of people you know there seem to be huge",
+      "start": 1604.679,
+      "duration": 3.921
+    },
+    {
+      "text": "numbers of people in the medical",
+      "start": 1607.32,
+      "duration": 3.719
+    },
+    {
+      "text": "profession for example that do have long",
+      "start": 1608.6,
+      "duration": 4.559
+    },
+    {
+      "text": "covid like yourself and having these",
+      "start": 1611.039,
+      "duration": 3.801
+    },
+    {
+      "text": "people in these",
+      "start": 1613.159,
+      "duration": 4.361
+    },
+    {
+      "text": "positions I have to hope that that can",
+      "start": 1614.84,
+      "duration": 4.36
+    },
+    {
+      "text": "only",
+      "start": 1617.52,
+      "duration": 5.08
+    },
+    {
+      "text": "make things better for people with",
+      "start": 1619.2,
+      "duration": 5.959
+    },
+    {
+      "text": "cornic illness in the future you know",
+      "start": 1622.6,
+      "duration": 4.199
+    },
+    {
+      "text": "having these people like yourself able",
+      "start": 1625.159,
+      "duration": 4.481
+    },
+    {
+      "text": "to input in even more of a way than you",
+      "start": 1626.799,
+      "duration": 6.041
+    },
+    {
+      "text": "were before yes I would definitely think",
+      "start": 1629.64,
+      "duration": 5.68
+    },
+    {
+      "text": "so it does seem like we still have a",
+      "start": 1632.84,
+      "duration": 6.8
+    },
+    {
+      "text": "ways to go um I'm hoping now to start",
+      "start": 1635.32,
+      "duration": 7.719
+    },
+    {
+      "text": "working more with our Learners our",
+      "start": 1639.64,
+      "duration": 6.2
+    },
+    {
+      "text": "medical students and",
+      "start": 1643.039,
+      "duration": 6.561
+    },
+    {
+      "text": "residents I just had a meeting with the",
+      "start": 1645.84,
+      "duration": 5.839
+    },
+    {
+      "text": "head of the medical school and The",
+      "start": 1649.6,
+      "duration": 4.48
+    },
+    {
+      "text": "Residency program earlier this week to",
+      "start": 1651.679,
+      "duration": 5.801
+    },
+    {
+      "text": "start working with them because I think",
+      "start": 1654.08,
+      "duration": 5.719
+    },
+    {
+      "text": "that's where we need to start you know I",
+      "start": 1657.48,
+      "duration": 4.919
+    },
+    {
+      "text": "mentioned that study about the loss of",
+      "start": 1659.799,
+      "duration": 5.921
+    },
+    {
+      "text": "empathy when they become clinical and so",
+      "start": 1662.399,
+      "duration": 6.081
+    },
+    {
+      "text": "I think starting with them is of the",
+      "start": 1665.72,
+      "duration": 6.16
+    },
+    {
+      "text": "utmost importance and but yes I think",
+      "start": 1668.48,
+      "duration": 5.84
+    },
+    {
+      "text": "hopefully that we can gain momentum with",
+      "start": 1671.88,
+      "duration": 4.6
+    },
+    {
+      "text": "the long Co movement and certainly help",
+      "start": 1674.32,
+      "duration": 5.88
+    },
+    {
+      "text": "all the other chronic promises yeah and",
+      "start": 1676.48,
+      "duration": 6.919
+    },
+    {
+      "text": "it's not that everybody is awful either",
+      "start": 1680.2,
+      "duration": 5.599
+    },
+    {
+      "text": "I mean I've encountered some very good",
+      "start": 1683.399,
+      "duration": 4.12
+    },
+    {
+      "text": "doctors I mean when you were talking",
+      "start": 1685.799,
+      "duration": 4.801
+    },
+    {
+      "text": "earlier about the Doctor Who admits that",
+      "start": 1687.519,
+      "duration": 5.28
+    },
+    {
+      "text": "he doesn't know and and I had that",
+      "start": 1690.6,
+      "duration": 4.439
+    },
+    {
+      "text": "happen to me with one of my doctors you",
+      "start": 1692.799,
+      "duration": 5.0
+    },
+    {
+      "text": "know he he just said to me look I don't",
+      "start": 1695.039,
+      "duration": 4.841
+    },
+    {
+      "text": "actually know what's going on with you",
+      "start": 1697.799,
+      "duration": 4.921
+    },
+    {
+      "text": "and it was so incredibly refreshing you",
+      "start": 1699.88,
+      "duration": 4.519
+    },
+    {
+      "text": "know it was just like oh my goodness",
+      "start": 1702.72,
+      "duration": 3.36
+    },
+    {
+      "text": "I've heard about people being gastate",
+      "start": 1704.399,
+      "duration": 3.76
+    },
+    {
+      "text": "and being treated awfully and I've got",
+      "start": 1706.08,
+      "duration": 4.439
+    },
+    {
+      "text": "gone to my doctor who I'd put up on this",
+      "start": 1708.159,
+      "duration": 4.52
+    },
+    {
+      "text": "pedestal that he probably didn't deserve",
+      "start": 1710.519,
+      "duration": 3.841
+    },
+    {
+      "text": "expecting him to fix me and he' turned",
+      "start": 1712.679,
+      "duration": 3.72
+    },
+    {
+      "text": "around and said actually I don't know",
+      "start": 1714.36,
+      "duration": 5.799
+    },
+    {
+      "text": "and I'd gone wow I needed that actually",
+      "start": 1716.399,
+      "duration": 5.441
+    },
+    {
+      "text": "you know it was that kind of like breath",
+      "start": 1720.159,
+      "duration": 3.321
+    },
+    {
+      "text": "of kind of honesty that I really wasn't",
+      "start": 1721.84,
+      "duration": 3.959
+    },
+    {
+      "text": "expecting so and you know you do hear of",
+      "start": 1723.48,
+      "duration": 3.88
+    },
+    {
+      "text": "people having good experiences and there",
+      "start": 1725.799,
+      "duration": 3.521
+    },
+    {
+      "text": "are a lot of good doctors out there I",
+      "start": 1727.36,
+      "duration": 3.88
+    },
+    {
+      "text": "think medical professionals in in",
+      "start": 1729.32,
+      "duration": 4.56
+    },
+    {
+      "text": "general not just doctors yeah I think",
+      "start": 1731.24,
+      "duration": 4.84
+    },
+    {
+      "text": "it's it's not that everybody is doing",
+      "start": 1733.88,
+      "duration": 4.96
+    },
+    {
+      "text": "things wrong it's maybe more that",
+      "start": 1736.08,
+      "duration": 5.24
+    },
+    {
+      "text": "everybody can do things better yeah I",
+      "start": 1738.84,
+      "duration": 3.559
+    },
+    {
+      "text": "think you're exactly right I think",
+      "start": 1741.32,
+      "duration": 4.12
+    },
+    {
+      "text": "there's plenty of good doctors out there",
+      "start": 1742.399,
+      "duration": 4.841
+    },
+    {
+      "text": "and there's plenty of empathetic doctors",
+      "start": 1745.44,
+      "duration": 3.52
+    },
+    {
+      "text": "out there and doctors who are using",
+      "start": 1747.24,
+      "duration": 4.24
+    },
+    {
+      "text": "excellent communication skills I think",
+      "start": 1748.96,
+      "duration": 4.76
+    },
+    {
+      "text": "that we can all learn from each other",
+      "start": 1751.48,
+      "duration": 4.4
+    },
+    {
+      "text": "and when I do these courses that's",
+      "start": 1753.72,
+      "duration": 5.679
+    },
+    {
+      "text": "exactly what we do and you know it's",
+      "start": 1755.88,
+      "duration": 5.72
+    },
+    {
+      "text": "very interactive and people say like oh",
+      "start": 1759.399,
+      "duration": 5.081
+    },
+    {
+      "text": "when I have that encounter I tend to do",
+      "start": 1761.6,
+      "duration": 5.439
+    },
+    {
+      "text": "this and people share ideas that I've",
+      "start": 1764.48,
+      "duration": 4.679
+    },
+    {
+      "text": "never heard before",
+      "start": 1767.039,
+      "duration": 7.601
+    },
+    {
+      "text": "and I hear every day in my role of great",
+      "start": 1769.159,
+      "duration": 8.481
+    },
+    {
+      "text": "experiences too positive feedback from",
+      "start": 1774.64,
+      "duration": 6.2
+    },
+    {
+      "text": "patients I myself have great doctors my",
+      "start": 1777.64,
+      "duration": 6.08
+    },
+    {
+      "text": "primary care doctor every time I see her",
+      "start": 1780.84,
+      "duration": 4.64
+    },
+    {
+      "text": "I'm going to see her later today every",
+      "start": 1783.72,
+      "duration": 4.199
+    },
+    {
+      "text": "time I see her I feel like she's",
+      "start": 1785.48,
+      "duration": 4.24
+    },
+    {
+      "text": "spending too much time with me I feel",
+      "start": 1787.919,
+      "duration": 3.721
+    },
+    {
+      "text": "like I'm taking too much of her day",
+      "start": 1789.72,
+      "duration": 3.679
+    },
+    {
+      "text": "because it feels like she's not rushed",
+      "start": 1791.64,
+      "duration": 4.0
+    },
+    {
+      "text": "at all but I feel like oh my gosh",
+      "start": 1793.399,
+      "duration": 4.201
+    },
+    {
+      "text": "shouldn't you be seeing somebody else",
+      "start": 1795.64,
+      "duration": 4.36
+    },
+    {
+      "text": "like you're in here way too long with me",
+      "start": 1797.6,
+      "duration": 4.04
+    },
+    {
+      "text": "but she doesn't you know she feels like",
+      "start": 1800.0,
+      "duration": 4.039
+    },
+    {
+      "text": "she's so relaxed and just has all the",
+      "start": 1801.64,
+      "duration": 4.2
+    },
+    {
+      "text": "Time in the World to spend with me and I",
+      "start": 1804.039,
+      "duration": 3.961
+    },
+    {
+      "text": "don't know how she does that because I",
+      "start": 1805.84,
+      "duration": 3.959
+    },
+    {
+      "text": "know she's terribly busy but she gives",
+      "start": 1808.0,
+      "duration": 3.32
+    },
+    {
+      "text": "me the impression that she has all the",
+      "start": 1809.799,
+      "duration": 5.401
+    },
+    {
+      "text": "time in the world for me so yeah there",
+      "start": 1811.32,
+      "duration": 6.44
+    },
+    {
+      "text": "are some doctors that are great and we",
+      "start": 1815.2,
+      "duration": 5.44
+    },
+    {
+      "text": "love those doctors and they don't need",
+      "start": 1817.76,
+      "duration": 5.279
+    },
+    {
+      "text": "my help they don't need anybody's help",
+      "start": 1820.64,
+      "duration": 5.12
+    },
+    {
+      "text": "they're doing just",
+      "start": 1823.039,
+      "duration": 2.721
+    },
+    {
+      "text": "fine will be right",
+      "start": 1826.44,
+      "duration": 5.88
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1829.799,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1832.32,
+      "duration": 4.52
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1834.279,
+      "duration": 3.961
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1836.84,
+      "duration": 3.64
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1838.24,
+      "duration": 4.72
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1840.48,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we' be able to get",
+      "start": 1842.96,
+      "duration": 3.52
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1844.72,
+      "duration": 4.24
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1846.48,
+      "duration": 4.0
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1848.96,
+      "duration": 3.439
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1850.48,
+      "duration": 6.28
+    },
+    {
+      "text": "episode and thank you so much",
+      "start": 1852.399,
+      "duration": 4.361
+    },
+    {
+      "text": "yeah but absolutely your appointments",
+      "start": 1859.6,
+      "duration": 4.959
+    },
+    {
+      "text": "with your doctor where you don't feel",
+      "start": 1861.72,
+      "duration": 4.6
+    },
+    {
+      "text": "rushed where you don't feel like you're",
+      "start": 1864.559,
+      "duration": 3.48
+    },
+    {
+      "text": "on a timetable and it's kind of like",
+      "start": 1866.32,
+      "duration": 3.839
+    },
+    {
+      "text": "we've got to get you out of the door and",
+      "start": 1868.039,
+      "duration": 4.0
+    },
+    {
+      "text": "I'm sure every doctor is feeling that",
+      "start": 1870.159,
+      "duration": 4.12
+    },
+    {
+      "text": "pressure you know we we all know how",
+      "start": 1872.039,
+      "duration": 3.801
+    },
+    {
+      "text": "much pressure Healthcare systems are",
+      "start": 1874.279,
+      "duration": 3.561
+    },
+    {
+      "text": "under at the moment so you know every",
+      "start": 1875.84,
+      "duration": 5.0
+    },
+    {
+      "text": "doctor you go and see is going to be",
+      "start": 1877.84,
+      "duration": 4.559
+    },
+    {
+      "text": "clock watching and thinking oh my",
+      "start": 1880.84,
+      "duration": 3.439
+    },
+    {
+      "text": "goodness I've got 20 million patients to",
+      "start": 1882.399,
+      "duration": 4.561
+    },
+    {
+      "text": "see after this one but the fact that you",
+      "start": 1884.279,
+      "duration": 4.64
+    },
+    {
+      "text": "don't feel that coming coming off them I",
+      "start": 1886.96,
+      "duration": 3.839
+    },
+    {
+      "text": "think is quite important isn't it",
+      "start": 1888.919,
+      "duration": 3.961
+    },
+    {
+      "text": "because you feel valued you feel like",
+      "start": 1890.799,
+      "duration": 4.0
+    },
+    {
+      "text": "you are important in that moment and",
+      "start": 1892.88,
+      "duration": 4.72
+    },
+    {
+      "text": "that doctor is thinking about you",
+      "start": 1894.799,
+      "duration": 4.24
+    },
+    {
+      "text": "they're not thinking about the next",
+      "start": 1897.6,
+      "duration": 3.4
+    },
+    {
+      "text": "patient or the previous patient actually",
+      "start": 1899.039,
+      "duration": 3.12
+    },
+    {
+      "text": "what they're trying to do is the best",
+      "start": 1901.0,
+      "duration": 3.639
+    },
+    {
+      "text": "for you and I think again I don't know",
+      "start": 1902.159,
+      "duration": 4.12
+    },
+    {
+      "text": "if that's part of empathy but I think",
+      "start": 1904.639,
+      "duration": 5.04
+    },
+    {
+      "text": "it's a very important part of a doctor",
+      "start": 1906.279,
+      "duration": 5.841
+    },
+    {
+      "text": "and how they kind of are perceived from",
+      "start": 1909.679,
+      "duration": 4.72
+    },
+    {
+      "text": "the patients perspective yeah it's",
+      "start": 1912.12,
+      "duration": 5.159
+    },
+    {
+      "text": "certainly part of what we discuss in the",
+      "start": 1914.399,
+      "duration": 7.201
+    },
+    {
+      "text": "course is how to kind of reset your mood",
+      "start": 1917.279,
+      "duration": 8.4
+    },
+    {
+      "text": "and reset your face if you leave a a",
+      "start": 1921.6,
+      "duration": 5.88
+    },
+    {
+      "text": "difficult patient encounter maybe and",
+      "start": 1925.679,
+      "duration": 3.84
+    },
+    {
+      "text": "you're going into another because some",
+      "start": 1927.48,
+      "duration": 3.84
+    },
+    {
+      "text": "patient encounters can be really",
+      "start": 1929.519,
+      "duration": 4.921
+    },
+    {
+      "text": "difficult for Physicians too and so",
+      "start": 1931.32,
+      "duration": 5.52
+    },
+    {
+      "text": "leaving one encounter and going into",
+      "start": 1934.44,
+      "duration": 5.44
+    },
+    {
+      "text": "another you know sometimes you need to",
+      "start": 1936.84,
+      "duration": 6.319
+    },
+    {
+      "text": "take a moment and and reset and that can",
+      "start": 1939.88,
+      "duration": 5.88
+    },
+    {
+      "text": "be difficult but it's important to do",
+      "start": 1943.159,
+      "duration": 4.801
+    },
+    {
+      "text": "for the next patient who may have been",
+      "start": 1945.76,
+      "duration": 5.6
+    },
+    {
+      "text": "waiting months to come see you you maybe",
+      "start": 1947.96,
+      "duration": 5.04
+    },
+    {
+      "text": "waiting months for this appointment May",
+      "start": 1951.36,
+      "duration": 3.76
+    },
+    {
+      "text": "have a list of things that they want to",
+      "start": 1953.0,
+      "duration": 5.08
+    },
+    {
+      "text": "discuss with you this appointment May be",
+      "start": 1955.12,
+      "duration": 5.559
+    },
+    {
+      "text": "really important to them so yeah it's",
+      "start": 1958.08,
+      "duration": 3.839
+    },
+    {
+      "text": "it's definitely something that we",
+      "start": 1960.679,
+      "duration": 3.681
+    },
+    {
+      "text": "discuss but certainly yeah especially",
+      "start": 1961.919,
+      "duration": 5.921
+    },
+    {
+      "text": "primary care physicians are under a lot",
+      "start": 1964.36,
+      "duration": 7.679
+    },
+    {
+      "text": "of pressure for time these days yeah I",
+      "start": 1967.84,
+      "duration": 6.0
+    },
+    {
+      "text": "think that is probably the same kind of",
+      "start": 1972.039,
+      "duration": 4.0
+    },
+    {
+      "text": "across the world isn't it you know all",
+      "start": 1973.84,
+      "duration": 3.679
+    },
+    {
+      "text": "Healthcare is under a huge amount of",
+      "start": 1976.039,
+      "duration": 2.76
+    },
+    {
+      "text": "pressure and that is obviously going to",
+      "start": 1977.519,
+      "duration": 3.681
+    },
+    {
+      "text": "take its toll on those working in those",
+      "start": 1978.799,
+      "duration": 5.281
+    },
+    {
+      "text": "professions as well I think so yeah",
+      "start": 1981.2,
+      "duration": 4.68
+    },
+    {
+      "text": "looking after the doctors as well as the",
+      "start": 1984.08,
+      "duration": 5.88
+    },
+    {
+      "text": "patient right right I would love to talk",
+      "start": 1985.88,
+      "duration": 5.919
+    },
+    {
+      "text": "a bit about what do we want change to",
+      "start": 1989.96,
+      "duration": 5.679
+    },
+    {
+      "text": "look like in terms of kind of doctors",
+      "start": 1991.799,
+      "duration": 6.88
+    },
+    {
+      "text": "and medical professionals in general and",
+      "start": 1995.639,
+      "duration": 5.081
+    },
+    {
+      "text": "empathy and understanding and the way",
+      "start": 1998.679,
+      "duration": 4.401
+    },
+    {
+      "text": "that we treat patients and I guess what",
+      "start": 2000.72,
+      "duration": 5.0
+    },
+    {
+      "text": "can the sort of surge in long covid and",
+      "start": 2003.08,
+      "duration": 4.959
+    },
+    {
+      "text": "cornic illness patients what can we",
+      "start": 2005.72,
+      "duration": 5.839
+    },
+    {
+      "text": "teach doctors or help doctors with I",
+      "start": 2008.039,
+      "duration": 7.161
+    },
+    {
+      "text": "guess in order to do this well I",
+      "start": 2011.559,
+      "duration": 6.84
+    },
+    {
+      "text": "mentioned burnout and I think that",
+      "start": 2015.2,
+      "duration": 5.92
+    },
+    {
+      "text": "that's something important to mention",
+      "start": 2018.399,
+      "duration": 7.081
+    },
+    {
+      "text": "again at this point because I think that",
+      "start": 2021.12,
+      "duration": 8.2
+    },
+    {
+      "text": "it really should remain at the Forefront",
+      "start": 2025.48,
+      "duration": 6.799
+    },
+    {
+      "text": "of conversation when we talk about",
+      "start": 2029.32,
+      "duration": 5.239
+    },
+    {
+      "text": "patient experience because you can't",
+      "start": 2032.279,
+      "duration": 4.36
+    },
+    {
+      "text": "have happy patients without happy",
+      "start": 2034.559,
+      "duration": 5.561
+    },
+    {
+      "text": "doctors and right now across the board",
+      "start": 2036.639,
+      "duration": 7.04
+    },
+    {
+      "text": "doctors are not happy and they weren't",
+      "start": 2040.12,
+      "duration": 6.64
+    },
+    {
+      "text": "happy before the pandemic and the",
+      "start": 2043.679,
+      "duration": 7.0
+    },
+    {
+      "text": "pandemic did not help things obviously",
+      "start": 2046.76,
+      "duration": 5.399
+    },
+    {
+      "text": "for a lot of",
+      "start": 2050.679,
+      "duration": 5.72
+    },
+    {
+      "text": "reasons there's a lot of pressures on",
+      "start": 2052.159,
+      "duration": 7.2
+    },
+    {
+      "text": "Physicians physician suicide is a",
+      "start": 2056.399,
+      "duration": 6.881
+    },
+    {
+      "text": "problem mental health in our profession",
+      "start": 2059.359,
+      "duration": 7.0
+    },
+    {
+      "text": "has a stigma that it shouldn't",
+      "start": 2063.28,
+      "duration": 7.599
+    },
+    {
+      "text": "have and there's some work being done to",
+      "start": 2066.359,
+      "duration": 5.72
+    },
+    {
+      "text": "improve",
+      "start": 2070.879,
+      "duration": 3.681
+    },
+    {
+      "text": "that but there's still a lot of work",
+      "start": 2072.079,
+      "duration": 6.0
+    },
+    {
+      "text": "that needs to be done there so I think",
+      "start": 2074.56,
+      "duration": 6.16
+    },
+    {
+      "text": "that that's a big issue that needs to be",
+      "start": 2078.079,
+      "duration": 5.28
+    },
+    {
+      "text": "addressed but beyond",
+      "start": 2080.72,
+      "duration": 5.6
+    },
+    {
+      "text": "that I think that we do have a lot that",
+      "start": 2083.359,
+      "duration": 5.841
+    },
+    {
+      "text": "we can teach",
+      "start": 2086.32,
+      "duration": 6.319
+    },
+    {
+      "text": "Physicians I think that sometimes we may",
+      "start": 2089.2,
+      "duration": 6.12
+    },
+    {
+      "text": "need to be a little patient with",
+      "start": 2092.639,
+      "duration": 4.321
+    },
+    {
+      "text": "Physicians and understand that",
+      "start": 2095.32,
+      "duration": 2.84
+    },
+    {
+      "text": "especially",
+      "start": 2096.96,
+      "duration": 2.56
+    },
+    {
+      "text": "the younger",
+      "start": 2098.16,
+      "duration": 5.6
+    },
+    {
+      "text": "Physicians understand that when they are",
+      "start": 2099.52,
+      "duration": 9.04
+    },
+    {
+      "text": "trying to hdge and hole us into a",
+      "start": 2103.76,
+      "duration": 7.04
+    },
+    {
+      "text": "diagnosis that's because of how they",
+      "start": 2108.56,
+      "duration": 3.96
+    },
+    {
+      "text": "were taught that's because of how they",
+      "start": 2110.8,
+      "duration": 2.84
+    },
+    {
+      "text": "were",
+      "start": 2112.52,
+      "duration": 3.839
+    },
+    {
+      "text": "trained it's not because they're mean",
+      "start": 2113.64,
+      "duration": 5.479
+    },
+    {
+      "text": "people or you know it's not it's not",
+      "start": 2116.359,
+      "duration": 5.0
+    },
+    {
+      "text": "necessarily their",
+      "start": 2119.119,
+      "duration": 4.681
+    },
+    {
+      "text": "personality but that's their",
+      "start": 2121.359,
+      "duration": 5.321
+    },
+    {
+      "text": "education and it's okay to question",
+      "start": 2123.8,
+      "duration": 5.4
+    },
+    {
+      "text": "those things",
+      "start": 2126.68,
+      "duration": 6.399
+    },
+    {
+      "text": "in addition to improving physician",
+      "start": 2129.2,
+      "duration": 6.6
+    },
+    {
+      "text": "Wellness another change that needs to",
+      "start": 2133.079,
+      "duration": 5.04
+    },
+    {
+      "text": "occur is",
+      "start": 2135.8,
+      "duration": 5.88
+    },
+    {
+      "text": "education about illnesses like long",
+      "start": 2138.119,
+      "duration": 6.441
+    },
+    {
+      "text": "covid and",
+      "start": 2141.68,
+      "duration": 5.04
+    },
+    {
+      "text": "mecfs",
+      "start": 2144.56,
+      "duration": 5.36
+    },
+    {
+      "text": "and I think we have a long way to go",
+      "start": 2146.72,
+      "duration": 6.879
+    },
+    {
+      "text": "there as well it seems like there are",
+      "start": 2149.92,
+      "duration": 8.0
+    },
+    {
+      "text": "small factions of people doing that but",
+      "start": 2153.599,
+      "duration": 7.921
+    },
+    {
+      "text": "even when I gave this lecture last week",
+      "start": 2157.92,
+      "duration": 5.56
+    },
+    {
+      "text": "and I was talking",
+      "start": 2161.52,
+      "duration": 7.92
+    },
+    {
+      "text": "about the neurologic and cardiac postco",
+      "start": 2163.48,
+      "duration": 8.0
+    },
+    {
+      "text": "complications and some Physicians came",
+      "start": 2169.44,
+      "duration": 3.639
+    },
+    {
+      "text": "up to me afterwards and we like that's",
+      "start": 2171.48,
+      "duration": 3.72
+    },
+    {
+      "text": "so interesting I didn't know that could",
+      "start": 2173.079,
+      "duration": 5.081
+    },
+    {
+      "text": "happen so there's a lot of Education",
+      "start": 2175.2,
+      "duration": 5.2
+    },
+    {
+      "text": "that needs to happen I feel like you and",
+      "start": 2178.16,
+      "duration": 4.919
+    },
+    {
+      "text": "I and other people who are reading about",
+      "start": 2180.4,
+      "duration": 4.199
+    },
+    {
+      "text": "this stuff all the time are like oh",
+      "start": 2183.079,
+      "duration": 2.921
+    },
+    {
+      "text": "everybody knows this because we're",
+      "start": 2184.599,
+      "duration": 4.161
+    },
+    {
+      "text": "reading the Articles as they come all",
+      "start": 2186.0,
+      "duration": 3.92
+    },
+    {
+      "text": "the",
+      "start": 2188.76,
+      "duration": 3.92
+    },
+    {
+      "text": "time but other people are just they're",
+      "start": 2189.92,
+      "duration": 4.439
+    },
+    {
+      "text": "reading the articles for their specialty",
+      "start": 2192.68,
+      "duration": 4.28
+    },
+    {
+      "text": "and that are pertinent to them but not",
+      "start": 2194.359,
+      "duration": 4.921
+    },
+    {
+      "text": "necessarily these articles that are so",
+      "start": 2196.96,
+      "duration": 5.119
+    },
+    {
+      "text": "pertinent to us so there needs to be",
+      "start": 2199.28,
+      "duration": 5.28
+    },
+    {
+      "text": "more education for the",
+      "start": 2202.079,
+      "duration": 4.721
+    },
+    {
+      "text": "Physicians I know that here in New",
+      "start": 2204.56,
+      "duration": 5.0
+    },
+    {
+      "text": "Orleans tlane University Medical School",
+      "start": 2206.8,
+      "duration": 4.559
+    },
+    {
+      "text": "is having a symposium it's going to be",
+      "start": 2209.56,
+      "duration": 4.64
+    },
+    {
+      "text": "the first Symposium in New Orleans on",
+      "start": 2211.359,
+      "duration": 6.48
+    },
+    {
+      "text": "Long Co all day uh the end of April and",
+      "start": 2214.2,
+      "duration": 5.399
+    },
+    {
+      "text": "so I'm excited about that I'm going to",
+      "start": 2217.839,
+      "duration": 5.0
+    },
+    {
+      "text": "be on a panel there hopefully there's a",
+      "start": 2219.599,
+      "duration": 5.081
+    },
+    {
+      "text": "good turnout for",
+      "start": 2222.839,
+      "duration": 5.041
+    },
+    {
+      "text": "that but we'll see hopefully we'll have",
+      "start": 2224.68,
+      "duration": 6.0
+    },
+    {
+      "text": "a lot of people show up for that yeah",
+      "start": 2227.88,
+      "duration": 5.76
+    },
+    {
+      "text": "that sounds really exciting and um I",
+      "start": 2230.68,
+      "duration": 5.12
+    },
+    {
+      "text": "think you're right about education",
+      "start": 2233.64,
+      "duration": 5.64
+    },
+    {
+      "text": "because there's not like a cure for long",
+      "start": 2235.8,
+      "duration": 7.76
+    },
+    {
+      "text": "Co you know that that doesn't exist but",
+      "start": 2239.28,
+      "duration": 7.64
+    },
+    {
+      "text": "there are so many things that Physicians",
+      "start": 2243.56,
+      "duration": 4.759
+    },
+    {
+      "text": "need to understand understand like you",
+      "start": 2246.92,
+      "duration": 3.199
+    },
+    {
+      "text": "were just saying about the you know",
+      "start": 2248.319,
+      "duration": 4.52
+    },
+    {
+      "text": "heart related complications for example",
+      "start": 2250.119,
+      "duration": 4.2
+    },
+    {
+      "text": "so you know understanding that that can",
+      "start": 2252.839,
+      "duration": 4.841
+    },
+    {
+      "text": "be a thing to start with but also how",
+      "start": 2254.319,
+      "duration": 5.241
+    },
+    {
+      "text": "many things that actually can be done to",
+      "start": 2257.68,
+      "duration": 3.96
+    },
+    {
+      "text": "help different things so just because",
+      "start": 2259.56,
+      "duration": 4.84
+    },
+    {
+      "text": "there isn't a long Co cure doesn't mean",
+      "start": 2261.64,
+      "duration": 6.4
+    },
+    {
+      "text": "that somebody who has pots or dooma or",
+      "start": 2264.4,
+      "duration": 6.16
+    },
+    {
+      "text": "breathing pattern dysfunction or you",
+      "start": 2268.04,
+      "duration": 4.559
+    },
+    {
+      "text": "know any of these other things that you",
+      "start": 2270.56,
+      "duration": 3.68
+    },
+    {
+      "text": "know we know that happen to all sorts of",
+      "start": 2272.599,
+      "duration": 4.24
+    },
+    {
+      "text": "people with long covid can't be tackled",
+      "start": 2274.24,
+      "duration": 4.48
+    },
+    {
+      "text": "individually",
+      "start": 2276.839,
+      "duration": 3.921
+    },
+    {
+      "text": "and that that can hugely help the kind",
+      "start": 2278.72,
+      "duration": 4.879
+    },
+    {
+      "text": "of quality of life of a person you know",
+      "start": 2280.76,
+      "duration": 5.24
+    },
+    {
+      "text": "just because they aren't quote unquote",
+      "start": 2283.599,
+      "duration": 5.281
+    },
+    {
+      "text": "cured doesn't mean that they can't be",
+      "start": 2286.0,
+      "duration": 5.52
+    },
+    {
+      "text": "helped in many many different ways um",
+      "start": 2288.88,
+      "duration": 3.92
+    },
+    {
+      "text": "and I think that is",
+      "start": 2291.52,
+      "duration": 3.16
+    },
+    {
+      "text": "important yeah I feel like the",
+      "start": 2292.8,
+      "duration": 4.24
+    },
+    {
+      "text": "recognition I mean it can",
+      "start": 2294.68,
+      "duration": 5.8
+    },
+    {
+      "text": "happen from person to person even so you",
+      "start": 2297.04,
+      "duration": 5.6
+    },
+    {
+      "text": "know just to give you an example so this",
+      "start": 2300.48,
+      "duration": 4.839
+    },
+    {
+      "text": "woman who calls me and said do you think",
+      "start": 2302.64,
+      "duration": 5.12
+    },
+    {
+      "text": "I could have pots and I said yes think",
+      "start": 2305.319,
+      "duration": 3.561
+    },
+    {
+      "text": "you might mention it to your",
+      "start": 2307.76,
+      "duration": 2.64
+    },
+    {
+      "text": "cardiologist she mentions it to her",
+      "start": 2308.88,
+      "duration": 4.0
+    },
+    {
+      "text": "cardiologist he's referring her to an",
+      "start": 2310.4,
+      "duration": 5.84
+    },
+    {
+      "text": "autonomic specialist so you know that",
+      "start": 2312.88,
+      "duration": 5.56
+    },
+    {
+      "text": "otherwise would not have happened you",
+      "start": 2316.24,
+      "duration": 3.52
+    },
+    {
+      "text": "know she's she's not going to get",
+      "start": 2318.44,
+      "duration": 3.879
+    },
+    {
+      "text": "referred to an autonomic specialist",
+      "start": 2319.76,
+      "duration": 7.16
+    },
+    {
+      "text": "without getting education from me and",
+      "start": 2322.319,
+      "duration": 7.52
+    },
+    {
+      "text": "then to her cardiologist and then you",
+      "start": 2326.92,
+      "duration": 5.32
+    },
+    {
+      "text": "know this lecture that I gave um in",
+      "start": 2329.839,
+      "duration": 5.081
+    },
+    {
+      "text": "preparation for that I went on the body",
+      "start": 2332.24,
+      "duration": 5.599
+    },
+    {
+      "text": "politic group on slack and I made a post",
+      "start": 2334.92,
+      "duration": 5.64
+    },
+    {
+      "text": "and said if anybody would like to share",
+      "start": 2337.839,
+      "duration": 5.28
+    },
+    {
+      "text": "if they've been to the emergency",
+      "start": 2340.56,
+      "duration": 5.519
+    },
+    {
+      "text": "department or the A&E for any symptoms",
+      "start": 2343.119,
+      "duration": 6.0
+    },
+    {
+      "text": "would you share what you have been for",
+      "start": 2346.079,
+      "duration": 5.881
+    },
+    {
+      "text": "had about 21 different people share the",
+      "start": 2349.119,
+      "duration": 4.761
+    },
+    {
+      "text": "majority of the symptoms were for",
+      "start": 2351.96,
+      "duration": 5.04
+    },
+    {
+      "text": "disautonomia type symptoms and one woman",
+      "start": 2353.88,
+      "duration": 6.92
+    },
+    {
+      "text": "said um that she had an emergency",
+      "start": 2357.0,
+      "duration": 6.8
+    },
+    {
+      "text": "physician say that she believed she had",
+      "start": 2360.8,
+      "duration": 4.96
+    },
+    {
+      "text": "pots because she had seen a lot of",
+      "start": 2363.8,
+      "duration": 5.24
+    },
+    {
+      "text": "people with it and so you know I spoke",
+      "start": 2365.76,
+      "duration": 5.52
+    },
+    {
+      "text": "for a while in my talk about",
+      "start": 2369.04,
+      "duration": 4.64
+    },
+    {
+      "text": "disautonomia because I said chances are",
+      "start": 2371.28,
+      "duration": 4.2
+    },
+    {
+      "text": "every single one of you in this room and",
+      "start": 2373.68,
+      "duration": 4.52
+    },
+    {
+      "text": "there were maybe I don't know maybe 80",
+      "start": 2375.48,
+      "duration": 5.52
+    },
+    {
+      "text": "or 90 people I spoke to last Thursday I",
+      "start": 2378.2,
+      "duration": 4.56
+    },
+    {
+      "text": "said chances are every one of you in",
+      "start": 2381.0,
+      "duration": 3.28
+    },
+    {
+      "text": "this room has seen",
+      "start": 2382.76,
+      "duration": 4.559
+    },
+    {
+      "text": "somebody with autonomic dysfunction but",
+      "start": 2384.28,
+      "duration": 5.48
+    },
+    {
+      "text": "didn't recognize that that's what it was",
+      "start": 2387.319,
+      "duration": 5.321
+    },
+    {
+      "text": "because there's the symptoms are so",
+      "start": 2389.76,
+      "duration": 5.92
+    },
+    {
+      "text": "varied so if after this talk you can",
+      "start": 2392.64,
+      "duration": 5.6
+    },
+    {
+      "text": "recognize someone and say I think this",
+      "start": 2395.68,
+      "duration": 5.08
+    },
+    {
+      "text": "is what you have then they can you know",
+      "start": 2398.24,
+      "duration": 3.56
+    },
+    {
+      "text": "you're not going to be able to make the",
+      "start": 2400.76,
+      "duration": 3.16
+    },
+    {
+      "text": "diagnosis in the emergency department",
+      "start": 2401.8,
+      "duration": 4.88
+    },
+    {
+      "text": "but at least they can go out and tell",
+      "start": 2403.92,
+      "duration": 4.32
+    },
+    {
+      "text": "their doctor get a referral to a",
+      "start": 2406.68,
+      "duration": 3.24
+    },
+    {
+      "text": "Cardiologist then we can maybe get",
+      "start": 2408.24,
+      "duration": 4.359
+    },
+    {
+      "text": "somewhere so education doesn't have to",
+      "start": 2409.92,
+      "duration": 5.64
+    },
+    {
+      "text": "be a lecture it it can be through the",
+      "start": 2412.599,
+      "duration": 4.841
+    },
+    {
+      "text": "community it can be you telling your",
+      "start": 2415.56,
+      "duration": 4.759
+    },
+    {
+      "text": "friend like hey I saw this article and",
+      "start": 2417.44,
+      "duration": 5.32
+    },
+    {
+      "text": "your symptoms sound like you might have",
+      "start": 2420.319,
+      "duration": 4.641
+    },
+    {
+      "text": "you know I saw that the lady on The",
+      "start": 2422.76,
+      "duration": 5.359
+    },
+    {
+      "text": "Housewives has pots I mean my mom sent",
+      "start": 2424.96,
+      "duration": 5.56
+    },
+    {
+      "text": "me that I don't know if you saw that on",
+      "start": 2428.119,
+      "duration": 5.161
+    },
+    {
+      "text": "on Instagram lady on New Jersey",
+      "start": 2430.52,
+      "duration": 4.36
+    },
+    {
+      "text": "Housewives or New York Housewives or",
+      "start": 2433.28,
+      "duration": 3.72
+    },
+    {
+      "text": "whatever posted that she has pots from",
+      "start": 2434.88,
+      "duration": 4.64
+    },
+    {
+      "text": "long covid so that you know lots of",
+      "start": 2437.0,
+      "duration": 4.4
+    },
+    {
+      "text": "people probably saw that and so I mean",
+      "start": 2439.52,
+      "duration": 3.48
+    },
+    {
+      "text": "that's going to be education too and",
+      "start": 2441.4,
+      "duration": 3.12
+    },
+    {
+      "text": "then people go to their cardiologist and",
+      "start": 2443.0,
+      "duration": 2.96
+    },
+    {
+      "text": "maybe their cardiologist will read about",
+      "start": 2444.52,
+      "duration": 3.36
+    },
+    {
+      "text": "pot so I mean that counts as education",
+      "start": 2445.96,
+      "duration": 5.639
+    },
+    {
+      "text": "too yeah and it's everybody listening to",
+      "start": 2447.88,
+      "duration": 5.959
+    },
+    {
+      "text": "everybody as well isn't it a lot of what",
+      "start": 2451.599,
+      "duration": 4.281
+    },
+    {
+      "text": "I've kind of taken from what you've just",
+      "start": 2453.839,
+      "duration": 3.961
+    },
+    {
+      "text": "been saying is that",
+      "start": 2455.88,
+      "duration": 3.56
+    },
+    {
+      "text": "patients need to obviously listen to",
+      "start": 2457.8,
+      "duration": 4.12
+    },
+    {
+      "text": "doctors um but doctors need to really",
+      "start": 2459.44,
+      "duration": 4.36
+    },
+    {
+      "text": "really listen to patients partly you",
+      "start": 2461.92,
+      "duration": 2.88
+    },
+    {
+      "text": "know when they're describing their",
+      "start": 2463.8,
+      "duration": 2.96
+    },
+    {
+      "text": "symptoms and you know to believe them",
+      "start": 2464.8,
+      "duration": 3.12
+    },
+    {
+      "text": "and all of the things we were talking",
+      "start": 2466.76,
+      "duration": 4.12
+    },
+    {
+      "text": "about earlier but also this idea that",
+      "start": 2467.92,
+      "duration": 5.24
+    },
+    {
+      "text": "doctors can learn from patients because",
+      "start": 2470.88,
+      "duration": 4.0
+    },
+    {
+      "text": "what I have noticed over the last couple",
+      "start": 2473.16,
+      "duration": 4.84
+    },
+    {
+      "text": "of years is that I have had the time and",
+      "start": 2474.88,
+      "duration": 5.32
+    },
+    {
+      "text": "obviously a vested interest in reading",
+      "start": 2478.0,
+      "duration": 4.04
+    },
+    {
+      "text": "things like research papers and looking",
+      "start": 2480.2,
+      "duration": 3.32
+    },
+    {
+      "text": "up different doctors and different",
+      "start": 2482.04,
+      "duration": 3.12
+    },
+    {
+      "text": "Specialties and looking at my symptoms",
+      "start": 2483.52,
+      "duration": 3.48
+    },
+    {
+      "text": "and thinking right this collection of",
+      "start": 2485.16,
+      "duration": 3.48
+    },
+    {
+      "text": "symp Syms looks an awful lot like that",
+      "start": 2487.0,
+      "duration": 3.64
+    },
+    {
+      "text": "let's research that so then I've been",
+      "start": 2488.64,
+      "duration": 3.959
+    },
+    {
+      "text": "able to take that to my doctor and my",
+      "start": 2490.64,
+      "duration": 3.56
+    },
+    {
+      "text": "doctor wouldn't have the time to do that",
+      "start": 2492.599,
+      "duration": 3.601
+    },
+    {
+      "text": "because he's seeing 300 million patients",
+      "start": 2494.2,
+      "duration": 4.2
+    },
+    {
+      "text": "a day and you know then going home and",
+      "start": 2496.2,
+      "duration": 3.879
+    },
+    {
+      "text": "looking after his children or you know",
+      "start": 2498.4,
+      "duration": 3.56
+    },
+    {
+      "text": "whatever it is that he's doing so you",
+      "start": 2500.079,
+      "duration": 4.24
+    },
+    {
+      "text": "know I have that time to do that and I'm",
+      "start": 2501.96,
+      "duration": 4.2
+    },
+    {
+      "text": "obviously not a medical professional so",
+      "start": 2504.319,
+      "duration": 4.881
+    },
+    {
+      "text": "I you know can't diagnose and prescribe",
+      "start": 2506.16,
+      "duration": 4.76
+    },
+    {
+      "text": "stuff in the same way that he can but",
+      "start": 2509.2,
+      "duration": 4.119
+    },
+    {
+      "text": "you know if he's able to then say well",
+      "start": 2510.92,
+      "duration": 4.439
+    },
+    {
+      "text": "actually that's really interesting what",
+      "start": 2513.319,
+      "duration": 3.321
+    },
+    {
+      "text": "you've brought to me I'm going to look",
+      "start": 2515.359,
+      "duration": 4.0
+    },
+    {
+      "text": "at that then you know it's it's that",
+      "start": 2516.64,
+      "duration": 4.88
+    },
+    {
+      "text": "kind of sharing thing isn't it that is",
+      "start": 2519.359,
+      "duration": 4.121
+    },
+    {
+      "text": "so valuable and like you were just",
+      "start": 2521.52,
+      "duration": 4.12
+    },
+    {
+      "text": "saying you know Patient to Patient",
+      "start": 2523.48,
+      "duration": 4.52
+    },
+    {
+      "text": "patient to doctor doctor to Patient",
+      "start": 2525.64,
+      "duration": 4.76
+    },
+    {
+      "text": "everybody can learn from everybody which",
+      "start": 2528.0,
+      "duration": 3.76
+    },
+    {
+      "text": "actually takes this full circle back to",
+      "start": 2530.4,
+      "duration": 2.439
+    },
+    {
+      "text": "what we were talking about earlier",
+      "start": 2531.76,
+      "duration": 2.72
+    },
+    {
+      "text": "wasn't it and that I mean that's one of",
+      "start": 2532.839,
+      "duration": 3.201
+    },
+    {
+      "text": "the interesting things about this",
+      "start": 2534.48,
+      "duration": 3.8
+    },
+    {
+      "text": "disease right is that you know this",
+      "start": 2536.04,
+      "duration": 4.36
+    },
+    {
+      "text": "whole group on that formed on social",
+      "start": 2538.28,
+      "duration": 4.799
+    },
+    {
+      "text": "media that gave it the name and gave the",
+      "start": 2540.4,
+      "duration": 6.08
+    },
+    {
+      "text": "name long pauler um now I will say that",
+      "start": 2543.079,
+      "duration": 5.081
+    },
+    {
+      "text": "your physician may look at you funny if",
+      "start": 2546.48,
+      "duration": 4.28
+    },
+    {
+      "text": "you come in and say I think I have the",
+      "start": 2548.16,
+      "duration": 5.6
+    },
+    {
+      "text": "same disease as the Real Housewife you",
+      "start": 2550.76,
+      "duration": 5.079
+    },
+    {
+      "text": "know I'm not going to say that it's",
+      "start": 2553.76,
+      "duration": 3.92
+    },
+    {
+      "text": "going to be easy for your physician to",
+      "start": 2555.839,
+      "duration": 4.041
+    },
+    {
+      "text": "believe you right off the bat if you",
+      "start": 2557.68,
+      "duration": 4.52
+    },
+    {
+      "text": "come in with that story you might have a",
+      "start": 2559.88,
+      "duration": 4.679
+    },
+    {
+      "text": "little bit of trouble with that belief",
+      "start": 2562.2,
+      "duration": 4.44
+    },
+    {
+      "text": "and that empathy you might have to work",
+      "start": 2564.559,
+      "duration": 5.8
+    },
+    {
+      "text": "a little harder for for that one yeah",
+      "start": 2566.64,
+      "duration": 6.04
+    },
+    {
+      "text": "brilliant you know I said I learned a",
+      "start": 2570.359,
+      "duration": 3.76
+    },
+    {
+      "text": "lot",
+      "start": 2572.68,
+      "duration": 5.679
+    },
+    {
+      "text": "about patient experience being ill one",
+      "start": 2574.119,
+      "duration": 7.641
+    },
+    {
+      "text": "of the things that I did notice is the",
+      "start": 2578.359,
+      "duration": 7.96
+    },
+    {
+      "text": "people around me that have true",
+      "start": 2581.76,
+      "duration": 6.64
+    },
+    {
+      "text": "empathy because one of the things that",
+      "start": 2586.319,
+      "duration": 4.721
+    },
+    {
+      "text": "we teach in this course we teach these",
+      "start": 2588.4,
+      "duration": 4.48
+    },
+    {
+      "text": "and I don't want to give away a real",
+      "start": 2591.04,
+      "duration": 3.76
+    },
+    {
+      "text": "trick of the trade but we teach these",
+      "start": 2592.88,
+      "duration": 5.479
+    },
+    {
+      "text": "empathetic phrases for providers to",
+      "start": 2594.8,
+      "duration": 6.799
+    },
+    {
+      "text": "use we call them the must be and sounds",
+      "start": 2598.359,
+      "duration": 6.641
+    },
+    {
+      "text": "like that must be awful that sounds like",
+      "start": 2601.599,
+      "duration": 5.681
+    },
+    {
+      "text": "it's painful",
+      "start": 2605.0,
+      "duration": 5.88
+    },
+    {
+      "text": "that can you know give them a pause and",
+      "start": 2607.28,
+      "duration": 6.64
+    },
+    {
+      "text": "can really be empathetic and make make a",
+      "start": 2610.88,
+      "duration": 4.679
+    },
+    {
+      "text": "connection with the patient make them",
+      "start": 2613.92,
+      "duration": 5.28
+    },
+    {
+      "text": "pause and and show some empathy and I've",
+      "start": 2615.559,
+      "duration": 7.361
+    },
+    {
+      "text": "noticed that when my friends when my",
+      "start": 2619.2,
+      "duration": 8.359
+    },
+    {
+      "text": "family use those phrases that they are",
+      "start": 2622.92,
+      "duration": 9.199
+    },
+    {
+      "text": "truly empathetic as opposed to the",
+      "start": 2627.559,
+      "duration": 8.081
+    },
+    {
+      "text": "sympathetic phrases like oh I'm so sorry",
+      "start": 2632.119,
+      "duration": 5.44
+    },
+    {
+      "text": "which is kind of our gut",
+      "start": 2635.64,
+      "duration": 4.84
+    },
+    {
+      "text": "reaction when you hear that someone is",
+      "start": 2637.559,
+      "duration": 5.321
+    },
+    {
+      "text": "suffering or someone's going through",
+      "start": 2640.48,
+      "duration": 5.52
+    },
+    {
+      "text": "something difficult it's a lot easier",
+      "start": 2642.88,
+      "duration": 5.4
+    },
+    {
+      "text": "and it takes a lot less effort to give",
+      "start": 2646.0,
+      "duration": 4.68
+    },
+    {
+      "text": "that sympathetic phrase than it does to",
+      "start": 2648.28,
+      "duration": 4.559
+    },
+    {
+      "text": "give that empathetic phrase that it",
+      "start": 2650.68,
+      "duration": 4.159
+    },
+    {
+      "text": "takes a lot more thought and a lot more",
+      "start": 2652.839,
+      "duration": 5.041
+    },
+    {
+      "text": "effort to give that empathetic phrase so",
+      "start": 2654.839,
+      "duration": 5.121
+    },
+    {
+      "text": "that's something that I've noticed that",
+      "start": 2657.88,
+      "duration": 4.28
+    },
+    {
+      "text": "I had been teaching before I got sick",
+      "start": 2659.96,
+      "duration": 4.56
+    },
+    {
+      "text": "but I've noticed it a lot more on this",
+      "start": 2662.16,
+      "duration": 5.52
+    },
+    {
+      "text": "side yeah well I've learned a l",
+      "start": 2664.52,
+      "duration": 7.48
+    },
+    {
+      "text": "today thank you yeah well thank you so",
+      "start": 2667.68,
+      "duration": 6.399
+    },
+    {
+      "text": "much for joining me today it's been such",
+      "start": 2672.0,
+      "duration": 4.28
+    },
+    {
+      "text": "a pleasure chatting with you and um like",
+      "start": 2674.079,
+      "duration": 4.961
+    },
+    {
+      "text": "I said I have learned absolutely loads",
+      "start": 2676.28,
+      "duration": 5.24
+    },
+    {
+      "text": "so thank you so much for your time and",
+      "start": 2679.04,
+      "duration": 4.2
+    },
+    {
+      "text": "all the best with your recovery thank",
+      "start": 2681.52,
+      "duration": 4.039
+    },
+    {
+      "text": "you same to you thank you so much to all",
+      "start": 2683.24,
+      "duration": 5.319
+    },
+    {
+      "text": "of my guests and to you for listening I",
+      "start": 2685.559,
+      "duration": 4.881
+    },
+    {
+      "text": "hope you've enjoyed it or at least found",
+      "start": 2688.559,
+      "duration": 4.961
+    },
+    {
+      "text": "it useful the long Co podcast is",
+      "start": 2690.44,
+      "duration": 5.399
+    },
+    {
+      "text": "entirely self-produced and self-funded",
+      "start": 2693.52,
+      "duration": 4.92
+    },
+    {
+      "text": "I'm doing all of this myself",
+      "start": 2695.839,
+      "duration": 5.361
+    },
+    {
+      "text": "if you're able to please go to buy meac",
+      "start": 2698.44,
+      "duration": 6.44
+    },
+    {
+      "text": "coffee.com slongo pod to help me cover",
+      "start": 2701.2,
+      "duration": 5.639
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 2704.88,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2706.839,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of the one podcast it's",
+      "start": 2708.92,
+      "duration": 4.199
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2711.079,
+      "duration": 5.121
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 2713.119,
+      "duration": 6.561
+    },
+    {
+      "text": "love to hear from",
+      "start": 2716.2,
+      "duration": 3.48
+    }
+  ],
+  "metadata": {
+    "title": "81 - Dr Liza DiLeo Thomas - Patient Experience Professional & Long Hauler",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/kCZdHogSwkM/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 81,
+    "title": "81 - Dr Liza DiLeo Thomas - Patient Experience Professional & Long Hauler",
+    "videoId": "kCZdHogSwkM",
+    "lengthText": "45:25"
+  }
+}

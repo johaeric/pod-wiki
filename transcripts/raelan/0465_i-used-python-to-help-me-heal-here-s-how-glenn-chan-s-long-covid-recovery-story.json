@@ -1,0 +1,3150 @@
+{
+  "video_id": "ANYRdF_Z4Y8",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "hey guys totally unique and unusual",
+      "start": 0.199,
+      "duration": 6.68
+    },
+    {
+      "text": "video for you today a recovery interview",
+      "start": 4.04,
+      "duration": 5.8
+    },
+    {
+      "text": "like none other on this channel before",
+      "start": 6.879,
+      "duration": 5.601
+    },
+    {
+      "text": "so we're looking at can data science",
+      "start": 9.84,
+      "duration": 4.36
+    },
+    {
+      "text": "pave the way to recovery when",
+      "start": 12.48,
+      "duration": 4.08
+    },
+    {
+      "text": "traditional medicine falls short right",
+      "start": 14.2,
+      "duration": 4.2
+    },
+    {
+      "text": "now we're exploring this fascinating",
+      "start": 16.56,
+      "duration": 3.799
+    },
+    {
+      "text": "topic with a guest who didn't turn to",
+      "start": 18.4,
+      "duration": 4.0
+    },
+    {
+      "text": "any of the strategies we've discussed on",
+      "start": 20.359,
+      "duration": 4.121
+    },
+    {
+      "text": "this channel so far when navigating his",
+      "start": 22.4,
+      "duration": 5.16
+    },
+    {
+      "text": "recovery instead he used python hi",
+      "start": 24.48,
+      "duration": 5.119
+    },
+    {
+      "text": "everyone I'm raan if you're new here",
+      "start": 27.56,
+      "duration": 4.999
+    },
+    {
+      "text": "welcome if you are not welcome back good",
+      "start": 29.599,
+      "duration": 5.521
+    },
+    {
+      "text": "to see you every week we dive deep into",
+      "start": 32.559,
+      "duration": 4.081
+    },
+    {
+      "text": "recovery Journeys from chronic",
+      "start": 35.12,
+      "duration": 4.48
+    },
+    {
+      "text": "conditions like mecfs long covid and",
+      "start": 36.64,
+      "duration": 6.32
+    },
+    {
+      "text": "today vaccine injury after a severe",
+      "start": 39.6,
+      "duration": 6.76
+    },
+    {
+      "text": "reaction to a vaccine Glenn Chad from",
+      "start": 42.96,
+      "duration": 5.64
+    },
+    {
+      "text": "Ontario Canada could barely walk and",
+      "start": 46.36,
+      "duration": 5.719
+    },
+    {
+      "text": "suffered horrible brain fog having had",
+      "start": 48.6,
+      "duration": 5.799
+    },
+    {
+      "text": "not much help from the Healthcare System",
+      "start": 52.079,
+      "duration": 4.841
+    },
+    {
+      "text": "Glenn turned his programming skills into",
+      "start": 54.399,
+      "duration": 5.761
+    },
+    {
+      "text": "a powerful recovery tool using python to",
+      "start": 56.92,
+      "duration": 5.959
+    },
+    {
+      "text": "uncover patterns and advocating",
+      "start": 60.16,
+      "duration": 5.319
+    },
+    {
+      "text": "patient-led research oh my goodness we",
+      "start": 62.879,
+      "duration": 5.441
+    },
+    {
+      "text": "are going to learn so much today so",
+      "start": 65.479,
+      "duration": 6.161
+    },
+    {
+      "text": "let's welcome Glenn Glenn so amazing to",
+      "start": 68.32,
+      "duration": 4.68
+    },
+    {
+      "text": "have you here today thank you so much",
+      "start": 71.64,
+      "duration": 3.839
+    },
+    {
+      "text": "for doing this you're welcome it's nice",
+      "start": 73.0,
+      "duration": 6.0
+    },
+    {
+      "text": "to meet you too yeah so I'm really",
+      "start": 75.479,
+      "duration": 5.761
+    },
+    {
+      "text": "excited to dive into your story and hear",
+      "start": 79.0,
+      "duration": 3.84
+    },
+    {
+      "text": "all about it it's quite unique from what",
+      "start": 81.24,
+      "duration": 3.44
+    },
+    {
+      "text": "we've had on the channel so you know",
+      "start": 82.84,
+      "duration": 3.639
+    },
+    {
+      "text": "take us back how how did this start for",
+      "start": 84.68,
+      "duration": 5.24
+    },
+    {
+      "text": "you yeah so I got my second shot of um",
+      "start": 86.479,
+      "duration": 4.761
+    },
+    {
+      "text": "we'll call it the votm war cuz I don't",
+      "start": 89.92,
+      "duration": 3.64
+    },
+    {
+      "text": "want YouTube to like you know do stuff",
+      "start": 91.24,
+      "duration": 3.68
+    },
+    {
+      "text": "to your channel and I don't want to be",
+      "start": 93.56,
+      "duration": 4.599
+    },
+    {
+      "text": "rude as a guest so I got my second shot",
+      "start": 94.92,
+      "duration": 6.36
+    },
+    {
+      "text": "of the photom W in like June",
+      "start": 98.159,
+      "duration": 5.96
+    },
+    {
+      "text": "2022 and had like like my normal",
+      "start": 101.28,
+      "duration": 4.519
+    },
+    {
+      "text": "reaction to that kind of thing but and",
+      "start": 104.119,
+      "duration": 3.521
+    },
+    {
+      "text": "afterwards like I started like about a",
+      "start": 105.799,
+      "duration": 3.401
+    },
+    {
+      "text": "week after that's when my symptoms",
+      "start": 107.64,
+      "duration": 3.2
+    },
+    {
+      "text": "really started coming in so my sleep was",
+      "start": 109.2,
+      "duration": 3.04
+    },
+    {
+      "text": "all screwed up I couldn't sleep normally",
+      "start": 110.84,
+      "duration": 3.36
+    },
+    {
+      "text": "so like really bad insomnia and then",
+      "start": 112.24,
+      "duration": 3.72
+    },
+    {
+      "text": "once you get sleep the deprivation and",
+      "start": 114.2,
+      "duration": 3.08
+    },
+    {
+      "text": "like really screws up everything else",
+      "start": 115.96,
+      "duration": 3.72
+    },
+    {
+      "text": "like you know how your mind works and I",
+      "start": 117.28,
+      "duration": 4.36
+    },
+    {
+      "text": "could like I couldn't walk more than",
+      "start": 119.68,
+      "duration": 4.119
+    },
+    {
+      "text": "like five minutes without crashing and",
+      "start": 121.64,
+      "duration": 3.88
+    },
+    {
+      "text": "just needing to just go to sleep in the",
+      "start": 123.799,
+      "duration": 4.0
+    },
+    {
+      "text": "middle of the day which is so weird and",
+      "start": 125.52,
+      "duration": 4.64
+    },
+    {
+      "text": "and that was like pretty debilitating",
+      "start": 127.799,
+      "duration": 4.52
+    },
+    {
+      "text": "not being able to you know walk like a",
+      "start": 130.16,
+      "duration": 3.719
+    },
+    {
+      "text": "normal person and then the other thing",
+      "start": 132.319,
+      "duration": 3.801
+    },
+    {
+      "text": "that happened to me was um I couldn't",
+      "start": 133.879,
+      "duration": 3.64
+    },
+    {
+      "text": "walk and talk at the same time like I",
+      "start": 136.12,
+      "duration": 2.72
+    },
+    {
+      "text": "could hold a conversation and I could",
+      "start": 137.519,
+      "duration": 3.561
+    },
+    {
+      "text": "walk but it can't do both at the same",
+      "start": 138.84,
+      "duration": 3.479
+    },
+    {
+      "text": "time because that's like too much",
+      "start": 141.08,
+      "duration": 3.799
+    },
+    {
+      "text": "concentration for me so um I wasn't able",
+      "start": 142.319,
+      "duration": 5.0
+    },
+    {
+      "text": "to uh do computer programming back then",
+      "start": 144.879,
+      "duration": 4.121
+    },
+    {
+      "text": "because computer programming just takes",
+      "start": 147.319,
+      "duration": 3.521
+    },
+    {
+      "text": "all my brain power and I just wasn't",
+      "start": 149.0,
+      "duration": 4.12
+    },
+    {
+      "text": "wasn't close to to being able to do to",
+      "start": 150.84,
+      "duration": 5.56
+    },
+    {
+      "text": "do that and um fortunately for me I I",
+      "start": 153.12,
+      "duration": 5.479
+    },
+    {
+      "text": "recovered so the one thing that helped",
+      "start": 156.4,
+      "duration": 4.6
+    },
+    {
+      "text": "me the most called the eye drug but that",
+      "start": 158.599,
+      "duration": 4.601
+    },
+    {
+      "text": "helped me so much and then it was only",
+      "start": 161.0,
+      "duration": 3.72
+    },
+    {
+      "text": "about like eight months later where I",
+      "start": 163.2,
+      "duration": 3.44
+    },
+    {
+      "text": "tried something else uh blackseed oil",
+      "start": 164.72,
+      "duration": 3.599
+    },
+    {
+      "text": "and and that seemed to like really help",
+      "start": 166.64,
+      "duration": 3.76
+    },
+    {
+      "text": "me at roughly around eight eight months",
+      "start": 168.319,
+      "duration": 3.761
+    },
+    {
+      "text": "after then then I started getting a lot",
+      "start": 170.4,
+      "duration": 3.36
+    },
+    {
+      "text": "better and then since then I've being",
+      "start": 172.08,
+      "duration": 4.079
+    },
+    {
+      "text": "slowly getting more and more better so",
+      "start": 173.76,
+      "duration": 4.72
+    },
+    {
+      "text": "I'm like I consider myself mostly",
+      "start": 176.159,
+      "duration": 3.881
+    },
+    {
+      "text": "recovered now like I only have like few",
+      "start": 178.48,
+      "duration": 2.96
+    },
+    {
+      "text": "lingering symptoms that don't really",
+      "start": 180.04,
+      "duration": 3.6
+    },
+    {
+      "text": "affect my um life that much so I pretty",
+      "start": 181.44,
+      "duration": 4.84
+    },
+    {
+      "text": "much have my life back and I'm able to",
+      "start": 183.64,
+      "duration": 4.879
+    },
+    {
+      "text": "do like computer programming now and so",
+      "start": 186.28,
+      "duration": 4.56
+    },
+    {
+      "text": "I want to like kind of give back to the",
+      "start": 188.519,
+      "duration": 4.841
+    },
+    {
+      "text": "community or whatever so I've been doing",
+      "start": 190.84,
+      "duration": 4.72
+    },
+    {
+      "text": "research on um chronic illnesses like",
+      "start": 193.36,
+      "duration": 5.159
+    },
+    {
+      "text": "what I have and then long Co and mecfs",
+      "start": 195.56,
+      "duration": 5.239
+    },
+    {
+      "text": "so all my survey research is Post online",
+      "start": 198.519,
+      "duration": 4.72
+    },
+    {
+      "text": "at sick and",
+      "start": 200.799,
+      "duration": 2.44
+    },
+    {
+      "text": "abandoned.car kind of work I do now well",
+      "start": 208.76,
+      "duration": 3.44
+    },
+    {
+      "text": "you did very well at summing up",
+      "start": 210.959,
+      "duration": 3.041
+    },
+    {
+      "text": "something that I'm sure felt very long",
+      "start": 212.2,
+      "duration": 3.56
+    },
+    {
+      "text": "and intense in a very short amount of",
+      "start": 214.0,
+      "duration": 4.959
+    },
+    {
+      "text": "time and for people watching you Glenn",
+      "start": 215.76,
+      "duration": 4.44
+    },
+    {
+      "text": "and I were chatting before we did this",
+      "start": 218.959,
+      "duration": 3.441
+    },
+    {
+      "text": "interview and it sounds like there are",
+      "start": 220.2,
+      "duration": 4.88
+    },
+    {
+      "text": "some cases where YouTube is censoring",
+      "start": 222.4,
+      "duration": 4.08
+    },
+    {
+      "text": "things or taking videos down or",
+      "start": 225.08,
+      "duration": 3.4
+    },
+    {
+      "text": "punishing channels so Glenn very",
+      "start": 226.48,
+      "duration": 4.039
+    },
+    {
+      "text": "politely um very kindly is just aing on",
+      "start": 228.48,
+      "duration": 4.72
+    },
+    {
+      "text": "the side of caution about saying some",
+      "start": 230.519,
+      "duration": 4.681
+    },
+    {
+      "text": "specific words about specific brands of",
+      "start": 233.2,
+      "duration": 4.0
+    },
+    {
+      "text": "shots or medications or different things",
+      "start": 235.2,
+      "duration": 4.239
+    },
+    {
+      "text": "like that um but yeah I I do send out a",
+      "start": 237.2,
+      "duration": 4.399
+    },
+    {
+      "text": "weekly newsletter summarizing these",
+      "start": 239.439,
+      "duration": 4.72
+    },
+    {
+      "text": "interviews so anything that he he might",
+      "start": 241.599,
+      "duration": 4.881
+    },
+    {
+      "text": "be censoring um those details will be in",
+      "start": 244.159,
+      "duration": 3.72
+    },
+    {
+      "text": "that newsletter so you can get that",
+      "start": 246.48,
+      "duration": 3.28
+    },
+    {
+      "text": "those specifics if you're looking for it",
+      "start": 247.879,
+      "duration": 3.72
+    },
+    {
+      "text": "I'm wondering though because this had to",
+      "start": 249.76,
+      "duration": 3.319
+    },
+    {
+      "text": "be quite the intense experience for you",
+      "start": 251.599,
+      "duration": 4.561
+    },
+    {
+      "text": "to go through you're a younger guy it",
+      "start": 253.079,
+      "duration": 4.521
+    },
+    {
+      "text": "what what did you think was happening",
+      "start": 256.16,
+      "duration": 2.759
+    },
+    {
+      "text": "when all of a sudden you got all these",
+      "start": 257.6,
+      "duration": 2.919
+    },
+    {
+      "text": "symptoms and you couldn't even walk for",
+      "start": 258.919,
+      "duration": 3.321
+    },
+    {
+      "text": "five minutes did you immediately make",
+      "start": 260.519,
+      "duration": 3.481
+    },
+    {
+      "text": "the connection to the that you'd",
+      "start": 262.24,
+      "duration": 4.28
+    },
+    {
+      "text": "had or what were you thinking yeah well",
+      "start": 264.0,
+      "duration": 4.04
+    },
+    {
+      "text": "before I got it I thought that was like",
+      "start": 266.52,
+      "duration": 3.28
+    },
+    {
+      "text": "it a one in a million thing that like",
+      "start": 268.04,
+      "duration": 3.4
+    },
+    {
+      "text": "almost never happens like getting struck",
+      "start": 269.8,
+      "duration": 4.2
+    },
+    {
+      "text": "by lightning and then I quickly realized",
+      "start": 271.44,
+      "duration": 4.319
+    },
+    {
+      "text": "uh it's not true cuz then there's like",
+      "start": 274.0,
+      "duration": 4.16
+    },
+    {
+      "text": "other people online talking about it I",
+      "start": 275.759,
+      "duration": 3.521
+    },
+    {
+      "text": "thought they were just like crazy I",
+      "start": 278.16,
+      "duration": 2.56
+    },
+    {
+      "text": "thought it was just one million but",
+      "start": 279.28,
+      "duration": 2.759
+    },
+    {
+      "text": "turns out it's not some people in",
+      "start": 280.72,
+      "duration": 3.759
+    },
+    {
+      "text": "Germany say that it's like around one in",
+      "start": 282.039,
+      "duration": 5.961
+    },
+    {
+      "text": "5,000 from the um the German adverse",
+      "start": 284.479,
+      "duration": 5.521
+    },
+    {
+      "text": "event reporting system and so going back",
+      "start": 288.0,
+      "duration": 3.199
+    },
+    {
+      "text": "to your question like what did I think",
+      "start": 290.0,
+      "duration": 2.88
+    },
+    {
+      "text": "was going on like back then I didn't I",
+      "start": 291.199,
+      "duration": 4.121
+    },
+    {
+      "text": "didn't even realize that like what I",
+      "start": 292.88,
+      "duration": 5.48
+    },
+    {
+      "text": "have overlaps very heavily with long Co",
+      "start": 295.32,
+      "duration": 5.08
+    },
+    {
+      "text": "because all the research coming out",
+      "start": 298.36,
+      "duration": 4.0
+    },
+    {
+      "text": "like just looking at long Co versus",
+      "start": 300.4,
+      "duration": 4.0
+    },
+    {
+      "text": "mecfs like the symptoms overlap very",
+      "start": 302.36,
+      "duration": 4.8
+    },
+    {
+      "text": "heavily and right now like we can't even",
+      "start": 304.4,
+      "duration": 5.799
+    },
+    {
+      "text": "tell the two apart other than like mcfs",
+      "start": 307.16,
+      "duration": 4.52
+    },
+    {
+      "text": "obviously you have to have fatigue right",
+      "start": 310.199,
+      "duration": 3.0
+    },
+    {
+      "text": "but other than that like the two",
+      "start": 311.68,
+      "duration": 3.68
+    },
+    {
+      "text": "syndromes overlap very H and this same",
+      "start": 313.199,
+      "duration": 4.521
+    },
+    {
+      "text": "thing is true between um long coov and",
+      "start": 315.36,
+      "duration": 4.279
+    },
+    {
+      "text": "what I have based on all surveys because",
+      "start": 317.72,
+      "duration": 3.479
+    },
+    {
+      "text": "some some people survey both long coov",
+      "start": 319.639,
+      "duration": 4.4
+    },
+    {
+      "text": "and mcfs and then through my own surveys",
+      "start": 321.199,
+      "duration": 6.241
+    },
+    {
+      "text": "I survey like what I have in Long Co and",
+      "start": 324.039,
+      "duration": 4.6
+    },
+    {
+      "text": "it's it's starting to become more and",
+      "start": 327.44,
+      "duration": 2.68
+    },
+    {
+      "text": "more clear that like it's either the",
+      "start": 328.639,
+      "duration": 3.161
+    },
+    {
+      "text": "same condition or like it overlaps so",
+      "start": 330.12,
+      "duration": 3.919
+    },
+    {
+      "text": "heavily that it's like very similar yeah",
+      "start": 331.8,
+      "duration": 4.04
+    },
+    {
+      "text": "I did a video a while back about vaccine",
+      "start": 334.039,
+      "duration": 3.401
+    },
+    {
+      "text": "injuries I can link it on the screen",
+      "start": 335.84,
+      "duration": 4.16
+    },
+    {
+      "text": "here and in the video description mostly",
+      "start": 337.44,
+      "duration": 4.08
+    },
+    {
+      "text": "just to get the conversation going",
+      "start": 340.0,
+      "duration": 3.639
+    },
+    {
+      "text": "because I have realized that this is a",
+      "start": 341.52,
+      "duration": 3.6
+    },
+    {
+      "text": "group of people a community of people",
+      "start": 343.639,
+      "duration": 2.921
+    },
+    {
+      "text": "that are feeling very ignored and",
+      "start": 345.12,
+      "duration": 3.24
+    },
+    {
+      "text": "censored and people are just scared to",
+      "start": 346.56,
+      "duration": 3.96
+    },
+    {
+      "text": "talk about it and in my research and in",
+      "start": 348.36,
+      "duration": 4.16
+    },
+    {
+      "text": "talking to people I just from my",
+      "start": 350.52,
+      "duration": 4.32
+    },
+    {
+      "text": "perspective I saw what you're telling me",
+      "start": 352.52,
+      "duration": 4.2
+    },
+    {
+      "text": "it just it was virtually the same",
+      "start": 354.84,
+      "duration": 3.16
+    },
+    {
+      "text": "experience for a lot of people whether",
+      "start": 356.72,
+      "duration": 3.16
+    },
+    {
+      "text": "it was long covid or vaccine injury",
+      "start": 358.0,
+      "duration": 4.639
+    },
+    {
+      "text": "mecfs um similar symptoms similar",
+      "start": 359.88,
+      "duration": 4.96
+    },
+    {
+      "text": "treatment approaches um but yeah it's",
+      "start": 362.639,
+      "duration": 3.801
+    },
+    {
+      "text": "just it's an important topic to have and",
+      "start": 364.84,
+      "duration": 3.68
+    },
+    {
+      "text": "we can we can hold to belief",
+      "start": 366.44,
+      "duration": 3.879
+    },
+    {
+      "text": "simultaneously we can because I think",
+      "start": 368.52,
+      "duration": 3.959
+    },
+    {
+      "text": "people feel like if we say sometimes",
+      "start": 370.319,
+      "duration": 5.081
+    },
+    {
+      "text": "there potentially are some issues with",
+      "start": 372.479,
+      "duration": 5.321
+    },
+    {
+      "text": "vaccines were we somehow saying oh we're",
+      "start": 375.4,
+      "duration": 4.079
+    },
+    {
+      "text": "antiva or that they don't because we",
+      "start": 377.8,
+      "duration": 3.399
+    },
+    {
+      "text": "know they save lives we've in that video",
+      "start": 379.479,
+      "duration": 3.56
+    },
+    {
+      "text": "I share a whole bunch of statistics on",
+      "start": 381.199,
+      "duration": 3.361
+    },
+    {
+      "text": "you know where the world would be if we",
+      "start": 383.039,
+      "duration": 3.481
+    },
+    {
+      "text": "didn't have them um which is a scary",
+      "start": 384.56,
+      "duration": 3.88
+    },
+    {
+      "text": "thing but that doesn't mean um that it's",
+      "start": 386.52,
+      "duration": 3.799
+    },
+    {
+      "text": "a perfect system so it's important to",
+      "start": 388.44,
+      "duration": 3.96
+    },
+    {
+      "text": "talk about you know in cases like yours",
+      "start": 390.319,
+      "duration": 3.44
+    },
+    {
+      "text": "you know what happens and what do you do",
+      "start": 392.4,
+      "duration": 3.199
+    },
+    {
+      "text": "when you face this yeah well",
+      "start": 393.759,
+      "duration": 3.041
+    },
+    {
+      "text": "unfortunately there was lot like a lot",
+      "start": 395.599,
+      "duration": 2.481
+    },
+    {
+      "text": "of censorship going on because I",
+      "start": 396.8,
+      "duration": 2.839
+    },
+    {
+      "text": "actually lost access to my Facebook",
+      "start": 398.08,
+      "duration": 3.76
+    },
+    {
+      "text": "account which is like weirdest and",
+      "start": 399.639,
+      "duration": 4.721
+    },
+    {
+      "text": "craziest thing because I was a moderator",
+      "start": 401.84,
+      "duration": 4.28
+    },
+    {
+      "text": "in a large support group so then I got",
+      "start": 404.36,
+      "duration": 4.72
+    },
+    {
+      "text": "put into this Facebook protect program",
+      "start": 406.12,
+      "duration": 4.799
+    },
+    {
+      "text": "and I didn't want to sign up for it so",
+      "start": 409.08,
+      "duration": 4.0
+    },
+    {
+      "text": "that's how I lost my Facebook account",
+      "start": 410.919,
+      "duration": 3.881
+    },
+    {
+      "text": "and then just like censorship going on",
+      "start": 413.08,
+      "duration": 4.04
+    },
+    {
+      "text": "on Reddit too like uh one of the",
+      "start": 414.8,
+      "duration": 5.399
+    },
+    {
+      "text": "subreddits r/ vaccine Long Haul is still",
+      "start": 417.12,
+      "duration": 5.4
+    },
+    {
+      "text": "quarantines and then yeah so Facebook",
+      "start": 420.199,
+      "duration": 4.56
+    },
+    {
+      "text": "sensorship that Google sensors too and",
+      "start": 422.52,
+      "duration": 3.959
+    },
+    {
+      "text": "then YouTube like yeah people's videos",
+      "start": 424.759,
+      "duration": 3.641
+    },
+    {
+      "text": "got deleted so that's why I don't want",
+      "start": 426.479,
+      "duration": 4.241
+    },
+    {
+      "text": "to like accidentally get your channel",
+      "start": 428.4,
+      "duration": 5.4
+    },
+    {
+      "text": "yeed off YouTube which speaks volumes",
+      "start": 430.72,
+      "duration": 5.0
+    },
+    {
+      "text": "the fact that even to talk about this",
+      "start": 433.8,
+      "duration": 3.64
+    },
+    {
+      "text": "it's almost like I'm envisioning us",
+      "start": 435.72,
+      "duration": 3.36
+    },
+    {
+      "text": "putting this video live with like your",
+      "start": 437.44,
+      "duration": 3.879
+    },
+    {
+      "text": "face distorted and your voice garbled",
+      "start": 439.08,
+      "duration": 4.48
+    },
+    {
+      "text": "and like you're in rless protection",
+      "start": 441.319,
+      "duration": 4.16
+    },
+    {
+      "text": "program or something like that how what",
+      "start": 443.56,
+      "duration": 4.359
+    },
+    {
+      "text": "does that say that I can't imagine what",
+      "start": 445.479,
+      "duration": 4.041
+    },
+    {
+      "text": "it'd be like to be someone facing this",
+      "start": 447.919,
+      "duration": 3.441
+    },
+    {
+      "text": "and everyone's so terrified to even talk",
+      "start": 449.52,
+      "duration": 4.04
+    },
+    {
+      "text": "about it or say the words out loud that",
+      "start": 451.36,
+      "duration": 4.76
+    },
+    {
+      "text": "speaks volumes yeah but it's also like",
+      "start": 453.56,
+      "duration": 5.56
+    },
+    {
+      "text": "important for long Co people and mecfs",
+      "start": 456.12,
+      "duration": 4.56
+    },
+    {
+      "text": "people to know about it because people",
+      "start": 459.12,
+      "duration": 4.199
+    },
+    {
+      "text": "have taken the um the voter Mort and",
+      "start": 460.68,
+      "duration": 5.04
+    },
+    {
+      "text": "then like very small chunk of people get",
+      "start": 463.319,
+      "duration": 4.041
+    },
+    {
+      "text": "a lot better following it and then",
+      "start": 465.72,
+      "duration": 3.08
+    },
+    {
+      "text": "there's like Mild improvement but",
+      "start": 467.36,
+      "duration": 3.0
+    },
+    {
+      "text": "there's also like a very large number of",
+      "start": 468.8,
+      "duration": 3.6
+    },
+    {
+      "text": "people who get a lot worse following it",
+      "start": 470.36,
+      "duration": 4.2
+    },
+    {
+      "text": "so you really want to know what you're",
+      "start": 472.4,
+      "duration": 4.479
+    },
+    {
+      "text": "getting yourself into if you get it so",
+      "start": 474.56,
+      "duration": 3.759
+    },
+    {
+      "text": "I'm really interested to hear about",
+      "start": 476.879,
+      "duration": 3.28
+    },
+    {
+      "text": "because you you were unique background",
+      "start": 478.319,
+      "duration": 4.761
+    },
+    {
+      "text": "prepared you to approach this in a way",
+      "start": 480.159,
+      "duration": 4.121
+    },
+    {
+      "text": "that most of us just don't have the",
+      "start": 483.08,
+      "duration": 3.04
+    },
+    {
+      "text": "skills to do so you went about this like",
+      "start": 484.28,
+      "duration": 3.96
+    },
+    {
+      "text": "looking at data and so tell us about",
+      "start": 486.12,
+      "duration": 3.759
+    },
+    {
+      "text": "that what was that process like and what",
+      "start": 488.24,
+      "duration": 3.959
+    },
+    {
+      "text": "did what did that reveal so basically",
+      "start": 489.879,
+      "duration": 3.641
+    },
+    {
+      "text": "yeah this is the high level like",
+      "start": 492.199,
+      "duration": 3.0
+    },
+    {
+      "text": "highlights of what this particular",
+      "start": 493.52,
+      "duration": 3.32
+    },
+    {
+      "text": "survey found the following groups of",
+      "start": 495.199,
+      "duration": 3.56
+    },
+    {
+      "text": "treatments are promising like xbot",
+      "start": 496.84,
+      "duration": 3.639
+    },
+    {
+      "text": "fasting on certain supplements and",
+      "start": 498.759,
+      "duration": 4.241
+    },
+    {
+      "text": "certain prescription drugs and then the",
+      "start": 500.479,
+      "duration": 3.84
+    },
+    {
+      "text": "other thing to watch out far is when you",
+      "start": 503.0,
+      "duration": 2.96
+    },
+    {
+      "text": "do treatment um you should probably",
+      "start": 504.319,
+      "duration": 2.961
+    },
+    {
+      "text": "discontinue treatment symptoms are",
+      "start": 505.96,
+      "duration": 2.679
+    },
+    {
+      "text": "woring because the reason for that is",
+      "start": 507.28,
+      "duration": 2.879
+    },
+    {
+      "text": "something like xbot some people would",
+      "start": 508.639,
+      "duration": 3.721
+    },
+    {
+      "text": "just respond very neg negatively to",
+      "start": 510.159,
+      "duration": 4.601
+    },
+    {
+      "text": "possibly in a like permanent or long",
+      "start": 512.36,
+      "duration": 4.239
+    },
+    {
+      "text": "lasting way so you should probably just",
+      "start": 514.76,
+      "duration": 4.12
+    },
+    {
+      "text": "earn like a caution and then you could",
+      "start": 516.599,
+      "duration": 3.721
+    },
+    {
+      "text": "also start with loow those ises before",
+      "start": 518.88,
+      "duration": 3.399
+    },
+    {
+      "text": "increasing so hbot like you could do the",
+      "start": 520.32,
+      "duration": 4.76
+    },
+    {
+      "text": "cheaper soft shell cun first and see if",
+      "start": 522.279,
+      "duration": 4.0
+    },
+    {
+      "text": "you tolerate that like a lot of people",
+      "start": 525.08,
+      "duration": 3.48
+    },
+    {
+      "text": "don't even tolerate that hyperic oxygen",
+      "start": 526.279,
+      "duration": 4.361
+    },
+    {
+      "text": "it's the eye drug so yeah that one",
+      "start": 528.56,
+      "duration": 3.56
+    },
+    {
+      "text": "unfortunately is very very expensive",
+      "start": 530.64,
+      "duration": 3.319
+    },
+    {
+      "text": "unless you live in the UK okay but",
+      "start": 532.12,
+      "duration": 4.56
+    },
+    {
+      "text": "people are finding success with it yeah",
+      "start": 533.959,
+      "duration": 4.401
+    },
+    {
+      "text": "that that's like the most proven",
+      "start": 536.68,
+      "duration": 3.719
+    },
+    {
+      "text": "treatment for long Co which you know a",
+      "start": 538.36,
+      "duration": 3.24
+    },
+    {
+      "text": "lot of people don't even know about it",
+      "start": 540.399,
+      "duration": 2.721
+    },
+    {
+      "text": "right now but that's the only one that's",
+      "start": 541.6,
+      "duration": 4.56
+    },
+    {
+      "text": "like supported supported by a randomized",
+      "start": 543.12,
+      "duration": 5.48
+    },
+    {
+      "text": "control trial I have a compilation of",
+      "start": 546.16,
+      "duration": 5.56
+    },
+    {
+      "text": "works for um long covid so here it's",
+      "start": 548.6,
+      "duration": 4.64
+    },
+    {
+      "text": "just there's like certain approaches",
+      "start": 551.72,
+      "duration": 3.04
+    },
+    {
+      "text": "that were um tested and randomized",
+      "start": 553.24,
+      "duration": 3.92
+    },
+    {
+      "text": "control trials so like xbot is one of",
+      "start": 554.76,
+      "duration": 4.199
+    },
+    {
+      "text": "them anti-h hispin and these other",
+      "start": 557.16,
+      "duration": 4.799
+    },
+    {
+      "text": "things um but only the xbot in like in",
+      "start": 558.959,
+      "duration": 5.56
+    },
+    {
+      "text": "my opinion only this trial is like",
+      "start": 561.959,
+      "duration": 5.44
+    },
+    {
+      "text": "reliable because like say this trial on",
+      "start": 564.519,
+      "duration": 5.841
+    },
+    {
+      "text": "FAL V is this like supplement cap thing",
+      "start": 567.399,
+      "duration": 5.321
+    },
+    {
+      "text": "um one of the authors actually has a",
+      "start": 570.36,
+      "duration": 4.32
+    },
+    {
+      "text": "financial in financial ties to the",
+      "start": 572.72,
+      "duration": 3.239
+    },
+    {
+      "text": "manufacturer like if you go to the",
+      "start": 574.68,
+      "duration": 3.12
+    },
+    {
+      "text": "manufacturer's website you'll see his",
+      "start": 575.959,
+      "duration": 3.041
+    },
+    {
+      "text": "name on there and they're promoting his",
+      "start": 577.8,
+      "duration": 2.8
+    },
+    {
+      "text": "services and stuff but in the paper he",
+      "start": 579.0,
+      "duration": 3.32
+    },
+    {
+      "text": "publishes he declares no conflicts of",
+      "start": 580.6,
+      "duration": 4.32
+    },
+    {
+      "text": "interest so that's why I I view that",
+      "start": 582.32,
+      "duration": 5.68
+    },
+    {
+      "text": "particular study as unreliable so yeah",
+      "start": 584.92,
+      "duration": 4.32
+    },
+    {
+      "text": "that's that's one of the things going on",
+      "start": 588.0,
+      "duration": 3.399
+    },
+    {
+      "text": "in the scientific literature like I I",
+      "start": 589.24,
+      "duration": 3.88
+    },
+    {
+      "text": "don't trust all of it because if you",
+      "start": 591.399,
+      "duration": 3.801
+    },
+    {
+      "text": "could actually trust off it be like oh",
+      "start": 593.12,
+      "duration": 4.04
+    },
+    {
+      "text": "all all these different things work but",
+      "start": 595.2,
+      "duration": 3.199
+    },
+    {
+      "text": "you know there's like a lot of people",
+      "start": 597.16,
+      "duration": 3.0
+    },
+    {
+      "text": "not recovering because you quickly find",
+      "start": 598.399,
+      "duration": 4.641
+    },
+    {
+      "text": "out that not everything works um the way",
+      "start": 600.16,
+      "duration": 4.919
+    },
+    {
+      "text": "that they say it works so anyways long",
+      "start": 603.04,
+      "duration": 5.479
+    },
+    {
+      "text": "story short like this one in my opinion",
+      "start": 605.079,
+      "duration": 5.361
+    },
+    {
+      "text": "um is the most proven treatment for long",
+      "start": 608.519,
+      "duration": 3.601
+    },
+    {
+      "text": "Co well this is incredible because most",
+      "start": 610.44,
+      "duration": 4.76
+    },
+    {
+      "text": "people don't have the ability the the",
+      "start": 612.12,
+      "duration": 4.6
+    },
+    {
+      "text": "knowledge that you know how to approach",
+      "start": 615.2,
+      "duration": 2.879
+    },
+    {
+      "text": "it to start digging into all of this",
+      "start": 616.72,
+      "duration": 3.16
+    },
+    {
+      "text": "research and pull out the data it's",
+      "start": 618.079,
+      "duration": 4.601
+    },
+    {
+      "text": "quite overwhelming so you also found",
+      "start": 619.88,
+      "duration": 4.92
+    },
+    {
+      "text": "fasting when you say preferably extended",
+      "start": 622.68,
+      "duration": 3.96
+    },
+    {
+      "text": "how long what does that mean yeah so",
+      "start": 624.8,
+      "duration": 3.84
+    },
+    {
+      "text": "fasting is something that came up on",
+      "start": 626.64,
+      "duration": 3.68
+    },
+    {
+      "text": "this survey and the before the treatment",
+      "start": 628.64,
+      "duration": 3.96
+    },
+    {
+      "text": "outcome survey and I also asked about",
+      "start": 630.32,
+      "duration": 3.88
+    },
+    {
+      "text": "like how long you fast because there's",
+      "start": 632.6,
+      "duration": 4.76
+    },
+    {
+      "text": "all sorts of fasting um so first like",
+      "start": 634.2,
+      "duration": 5.12
+    },
+    {
+      "text": "some people eat a little bit during the",
+      "start": 637.36,
+      "duration": 3.52
+    },
+    {
+      "text": "fast if there's like a cleanse or",
+      "start": 639.32,
+      "duration": 3.04
+    },
+    {
+      "text": "there's like juices involved they'll",
+      "start": 640.88,
+      "duration": 3.48
+    },
+    {
+      "text": "drink juices or whatever so it seems",
+      "start": 642.36,
+      "duration": 4.84
+    },
+    {
+      "text": "that um wet fasting is probably superior",
+      "start": 644.36,
+      "duration": 6.32
+    },
+    {
+      "text": "to the juices and the cleanses although",
+      "start": 647.2,
+      "duration": 5.56
+    },
+    {
+      "text": "the the EV is not like super definitive",
+      "start": 650.68,
+      "duration": 4.279
+    },
+    {
+      "text": "but that seems to be where the evidence",
+      "start": 652.76,
+      "duration": 4.48
+    },
+    {
+      "text": "of leaning towards so if you do fasting",
+      "start": 654.959,
+      "duration": 4.56
+    },
+    {
+      "text": "Pro probably try wet fasting first and",
+      "start": 657.24,
+      "duration": 4.96
+    },
+    {
+      "text": "then the time duration of fasting I",
+      "start": 659.519,
+      "duration": 4.44
+    },
+    {
+      "text": "asked whether they did like intermittent",
+      "start": 662.2,
+      "duration": 3.6
+    },
+    {
+      "text": "fasting so you could eat maybe twice",
+      "start": 663.959,
+      "duration": 3.32
+    },
+    {
+      "text": "three times a day as long as you keep it",
+      "start": 665.8,
+      "duration": 3.039
+    },
+    {
+      "text": "within the eating window and then",
+      "start": 667.279,
+      "duration": 2.841
+    },
+    {
+      "text": "there's one meal a day where you just",
+      "start": 668.839,
+      "duration": 3.841
+    },
+    {
+      "text": "eat once a day and then some people fast",
+      "start": 670.12,
+      "duration": 5.0
+    },
+    {
+      "text": "between like 24 and 48 hours and then",
+      "start": 672.68,
+      "duration": 4.56
+    },
+    {
+      "text": "some people fast like for more than 48",
+      "start": 675.12,
+      "duration": 3.719
+    },
+    {
+      "text": "hours of the people who said that they",
+      "start": 677.24,
+      "duration": 3.719
+    },
+    {
+      "text": "fasted for more than 48 hours that seems",
+      "start": 678.839,
+      "duration": 4.921
+    },
+    {
+      "text": "to work the best this is not super",
+      "start": 680.959,
+      "duration": 4.721
+    },
+    {
+      "text": "definitive but that seems to be the most",
+      "start": 683.76,
+      "duration": 3.759
+    },
+    {
+      "text": "effective form of fasting obviously you",
+      "start": 685.68,
+      "duration": 3.2
+    },
+    {
+      "text": "know it just work your way up you don't",
+      "start": 687.519,
+      "duration": 3.88
+    },
+    {
+      "text": "you shouldn't like diving right away and",
+      "start": 688.88,
+      "duration": 5.24
+    },
+    {
+      "text": "and try like really extreme fast and I",
+      "start": 691.399,
+      "duration": 4.641
+    },
+    {
+      "text": "don't think you need to go that far so",
+      "start": 694.12,
+      "duration": 3.6
+    },
+    {
+      "text": "you know use fast for like three days if",
+      "start": 696.04,
+      "duration": 3.359
+    },
+    {
+      "text": "you do that then then you've given this",
+      "start": 697.72,
+      "duration": 3.96
+    },
+    {
+      "text": "like treatment a fair shake and then the",
+      "start": 699.399,
+      "duration": 4.361
+    },
+    {
+      "text": "last thing to know about fasting is like",
+      "start": 701.68,
+      "duration": 3.399
+    },
+    {
+      "text": "whether you do dry fasting or wet",
+      "start": 703.76,
+      "duration": 4.079
+    },
+    {
+      "text": "fasting it seems like wet fasting would",
+      "start": 705.079,
+      "duration": 5.161
+    },
+    {
+      "text": "be preferable because it's safer and it",
+      "start": 707.839,
+      "duration": 4.68
+    },
+    {
+      "text": "works so I think dry fasting is",
+      "start": 710.24,
+      "duration": 5.08
+    },
+    {
+      "text": "unnecessary but again we don't have like",
+      "start": 712.519,
+      "duration": 4.32
+    },
+    {
+      "text": "you know really amazing data on this",
+      "start": 715.32,
+      "duration": 3.04
+    },
+    {
+      "text": "with like randomiz control trials so",
+      "start": 716.839,
+      "duration": 2.921
+    },
+    {
+      "text": "there's a small chance could be",
+      "start": 718.36,
+      "duration": 2.88
+    },
+    {
+      "text": "yeah I I guess like more more people",
+      "start": 719.76,
+      "duration": 3.6
+    },
+    {
+      "text": "should know about fasting because it it",
+      "start": 721.24,
+      "duration": 4.32
+    },
+    {
+      "text": "seems to be one of the top treatments uh",
+      "start": 723.36,
+      "duration": 3.719
+    },
+    {
+      "text": "it's not the safest thing in the world",
+      "start": 725.56,
+      "duration": 3.0
+    },
+    {
+      "text": "because some people have a negative",
+      "start": 727.079,
+      "duration": 2.88
+    },
+    {
+      "text": "experience with it like I had negative",
+      "start": 728.56,
+      "duration": 3.16
+    },
+    {
+      "text": "experience with it it screwed my sleep a",
+      "start": 729.959,
+      "duration": 3.601
+    },
+    {
+      "text": "little bit but it just works for some",
+      "start": 731.72,
+      "duration": 3.32
+    },
+    {
+      "text": "people and then you know you get your",
+      "start": 733.56,
+      "duration": 3.92
+    },
+    {
+      "text": "life back in then yeah it's um my",
+      "start": 735.04,
+      "duration": 4.64
+    },
+    {
+      "text": "husband and I recently did a 4-day water",
+      "start": 737.48,
+      "duration": 4.0
+    },
+    {
+      "text": "fast I can link up we did a video about",
+      "start": 739.68,
+      "duration": 3.12
+    },
+    {
+      "text": "it but yeah I've been diving into the",
+      "start": 741.48,
+      "duration": 2.76
+    },
+    {
+      "text": "research about it and there's a lot of",
+      "start": 742.8,
+      "duration": 3.599
+    },
+    {
+      "text": "promising stuff and we also had a a",
+      "start": 744.24,
+      "duration": 4.0
+    },
+    {
+      "text": "medical doctor recently on the Chanel Dr",
+      "start": 746.399,
+      "duration": 3.8
+    },
+    {
+      "text": "elanar Stein who talked about the",
+      "start": 748.24,
+      "duration": 4.88
+    },
+    {
+      "text": "benefits um of fasting and um all the",
+      "start": 750.199,
+      "duration": 5.241
+    },
+    {
+      "text": "things that come out of it so um which I",
+      "start": 753.12,
+      "duration": 3.519
+    },
+    {
+      "text": "can link as well if people want to check",
+      "start": 755.44,
+      "duration": 3.16
+    },
+    {
+      "text": "it out but yeah it's a a lot of research",
+      "start": 756.639,
+      "duration": 3.841
+    },
+    {
+      "text": "to back it and a lot of great things",
+      "start": 758.6,
+      "duration": 3.72
+    },
+    {
+      "text": "that can come from it not for everybody",
+      "start": 760.48,
+      "duration": 3.08
+    },
+    {
+      "text": "need to make sure it's medically safe",
+      "start": 762.32,
+      "duration": 4.36
+    },
+    {
+      "text": "for you um but yeah okay so what else",
+      "start": 763.56,
+      "duration": 4.6
+    },
+    {
+      "text": "those seems those were the top things",
+      "start": 766.68,
+      "duration": 3.64
+    },
+    {
+      "text": "that came from your research um looks",
+      "start": 768.16,
+      "duration": 3.56
+    },
+    {
+      "text": "like there's a few other anything else",
+      "start": 770.32,
+      "duration": 2.56
+    },
+    {
+      "text": "you want to highlight from what came",
+      "start": 771.72,
+      "duration": 3.0
+    },
+    {
+      "text": "from that uh sure I guess it starts",
+      "start": 772.88,
+      "duration": 3.44
+    },
+    {
+      "text": "getting into like a long list of all",
+      "start": 774.72,
+      "duration": 3.84
+    },
+    {
+      "text": "these different treatments so like I'm",
+      "start": 776.32,
+      "duration": 3.44
+    },
+    {
+      "text": "going to zoom out look at the big",
+      "start": 778.56,
+      "duration": 2.519
+    },
+    {
+      "text": "picture the way I think about it in my",
+      "start": 779.76,
+      "duration": 3.199
+    },
+    {
+      "text": "brain is that basically long Co is",
+      "start": 781.079,
+      "duration": 4.641
+    },
+    {
+      "text": "caused by like some kind of infection or",
+      "start": 782.959,
+      "duration": 4.281
+    },
+    {
+      "text": "just a combination of microbes in your",
+      "start": 785.72,
+      "duration": 3.96
+    },
+    {
+      "text": "body for some reason it's like um",
+      "start": 787.24,
+      "duration": 5.279
+    },
+    {
+      "text": "pathogenic for example if you have a",
+      "start": 789.68,
+      "duration": 5.12
+    },
+    {
+      "text": "it's called pneumonia like the bacteria",
+      "start": 792.519,
+      "duration": 3.721
+    },
+    {
+      "text": "that causes pneumonia they're like",
+      "start": 794.8,
+      "duration": 2.8
+    },
+    {
+      "text": "living your body all the time like",
+      "start": 796.24,
+      "duration": 3.2
+    },
+    {
+      "text": "everyone has it it's just in certain",
+      "start": 797.6,
+      "duration": 3.64
+    },
+    {
+      "text": "conditions it it's like it causes",
+      "start": 799.44,
+      "duration": 3.72
+    },
+    {
+      "text": "serious health problems it's either like",
+      "start": 801.24,
+      "duration": 3.08
+    },
+    {
+      "text": "infection you have are just like the",
+      "start": 803.16,
+      "duration": 2.679
+    },
+    {
+      "text": "combinations of things going on in your",
+      "start": 804.32,
+      "duration": 3.84
+    },
+    {
+      "text": "body um it causes the stuff living",
+      "start": 805.839,
+      "duration": 4.321
+    },
+    {
+      "text": "inside you to be pathogenic so the",
+      "start": 808.16,
+      "duration": 3.799
+    },
+    {
+      "text": "problem is right now is like you don't",
+      "start": 810.16,
+      "duration": 3.72
+    },
+    {
+      "text": "know what the problem is like you don't",
+      "start": 811.959,
+      "duration": 3.361
+    },
+    {
+      "text": "know which infection you're trying to",
+      "start": 813.88,
+      "duration": 3.04
+    },
+    {
+      "text": "fight basically you have to try like",
+      "start": 815.32,
+      "duration": 4.12
+    },
+    {
+      "text": "different antimicrobial treatments and",
+      "start": 816.92,
+      "duration": 4.279
+    },
+    {
+      "text": "and maybe that it's the right one maybe",
+      "start": 819.44,
+      "duration": 3.519
+    },
+    {
+      "text": "it's not maybe it'll make you worse and",
+      "start": 821.199,
+      "duration": 3.64
+    },
+    {
+      "text": "a lot of times it won't do anything but",
+      "start": 822.959,
+      "duration": 3.481
+    },
+    {
+      "text": "basically that's like that's how",
+      "start": 824.839,
+      "duration": 2.841
+    },
+    {
+      "text": "treatment works right now you just have",
+      "start": 826.44,
+      "duration": 3.48
+    },
+    {
+      "text": "to try things like one at a time to see",
+      "start": 827.68,
+      "duration": 3.519
+    },
+    {
+      "text": "like whe it makes you better or makes",
+      "start": 829.92,
+      "duration": 3.24
+    },
+    {
+      "text": "you worse and it's all like",
+      "start": 831.199,
+      "duration": 4.681
+    },
+    {
+      "text": "antimicrobial treatments um that like",
+      "start": 833.16,
+      "duration": 4.96
+    },
+    {
+      "text": "really really do things so like this eye",
+      "start": 835.88,
+      "duration": 5.079
+    },
+    {
+      "text": "drug um has some antiviral properties",
+      "start": 838.12,
+      "duration": 4.6
+    },
+    {
+      "text": "statins have some antimicrobial",
+      "start": 840.959,
+      "duration": 4.401
+    },
+    {
+      "text": "properties um things like that and CA is",
+      "start": 842.72,
+      "duration": 3.88
+    },
+    {
+      "text": "a natural supplement that has some",
+      "start": 845.36,
+      "duration": 3.479
+    },
+    {
+      "text": "antimicrobial properties so like of all",
+      "start": 846.6,
+      "duration": 3.679
+    },
+    {
+      "text": "the things that like really do stuff",
+      "start": 848.839,
+      "duration": 2.641
+    },
+    {
+      "text": "that make people worse and make people",
+      "start": 850.279,
+      "duration": 2.761
+    },
+    {
+      "text": "better they usually have some kind of",
+      "start": 851.48,
+      "duration": 3.919
+    },
+    {
+      "text": "antimicrobial property and that's",
+      "start": 853.04,
+      "duration": 4.56
+    },
+    {
+      "text": "pattern that I see it's is like fasting",
+      "start": 855.399,
+      "duration": 3.921
+    },
+    {
+      "text": "might be the only exception although you",
+      "start": 857.6,
+      "duration": 2.679
+    },
+    {
+      "text": "could argue that fasting has",
+      "start": 859.32,
+      "duration": 3.439
+    },
+    {
+      "text": "antimicrobial properties because um when",
+      "start": 860.279,
+      "duration": 5.12
+    },
+    {
+      "text": "you don't eat then the stuff in your gut",
+      "start": 862.759,
+      "duration": 5.32
+    },
+    {
+      "text": "it it doesn't like grow and normally it",
+      "start": 865.399,
+      "duration": 4.44
+    },
+    {
+      "text": "like gets into your body all time but if",
+      "start": 868.079,
+      "duration": 3.241
+    },
+    {
+      "text": "it's not growing then that's not going",
+      "start": 869.839,
+      "duration": 3.0
+    },
+    {
+      "text": "to happen as much and that may be why",
+      "start": 871.32,
+      "duration": 3.16
+    },
+    {
+      "text": "you're better you're not feeding things",
+      "start": 872.839,
+      "duration": 4.041
+    },
+    {
+      "text": "so they're not growing probably dying",
+      "start": 874.48,
+      "duration": 5.359
+    },
+    {
+      "text": "off yeah so so that's like the pattern",
+      "start": 876.88,
+      "duration": 4.759
+    },
+    {
+      "text": "among like Supple most of the",
+      "start": 879.839,
+      "duration": 3.601
+    },
+    {
+      "text": "supplements in the prescription drugs",
+      "start": 881.639,
+      "duration": 3.961
+    },
+    {
+      "text": "these two specifically I guess they got",
+      "start": 883.44,
+      "duration": 3.6
+    },
+    {
+      "text": "popular more recently because people",
+      "start": 885.6,
+      "duration": 3.44
+    },
+    {
+      "text": "tried all sorts of like blood thinning",
+      "start": 887.04,
+      "duration": 5.159
+    },
+    {
+      "text": "things and um I think most of them don't",
+      "start": 889.04,
+      "duration": 6.359
+    },
+    {
+      "text": "really work but uh these two come up a",
+      "start": 892.199,
+      "duration": 6.2
+    },
+    {
+      "text": "lot more often ninas and serapeptase so",
+      "start": 895.399,
+      "duration": 5.721
+    },
+    {
+      "text": "there might be something to them okay so",
+      "start": 898.399,
+      "duration": 4.24
+    },
+    {
+      "text": "I'm really intrigued because you had",
+      "start": 901.12,
+      "duration": 3.2
+    },
+    {
+      "text": "mentioned before you know we started",
+      "start": 902.639,
+      "duration": 2.961
+    },
+    {
+      "text": "this interview that there is one",
+      "start": 904.32,
+      "duration": 4.079
+    },
+    {
+      "text": "recovery secret um that you have found",
+      "start": 905.6,
+      "duration": 5.88
+    },
+    {
+      "text": "that is hiding in plain sight so tell us",
+      "start": 908.399,
+      "duration": 5.761
+    },
+    {
+      "text": "about that yeah this this is my like hot",
+      "start": 911.48,
+      "duration": 4.52
+    },
+    {
+      "text": "take or my opinion or whatever but like",
+      "start": 914.16,
+      "duration": 3.64
+    },
+    {
+      "text": "through the survey data like I collected",
+      "start": 916.0,
+      "duration": 3.759
+    },
+    {
+      "text": "data on um what people have very",
+      "start": 917.8,
+      "duration": 3.88
+    },
+    {
+      "text": "negative experiences with so there are",
+      "start": 919.759,
+      "duration": 5.32
+    },
+    {
+      "text": "like four things I guess like uh ssris",
+      "start": 921.68,
+      "duration": 6.079
+    },
+    {
+      "text": "psych drugs like gabip pentin and",
+      "start": 925.079,
+      "duration": 4.361
+    },
+    {
+      "text": "antibiotics these are things that like",
+      "start": 927.759,
+      "duration": 4.401
+    },
+    {
+      "text": "consistently um rank on the bottom ssris",
+      "start": 929.44,
+      "duration": 4.68
+    },
+    {
+      "text": "antibiotics there's no gab of Penton on",
+      "start": 932.16,
+      "duration": 3.96
+    },
+    {
+      "text": "there but it' be near the bottom here so",
+      "start": 934.12,
+      "duration": 3.56
+    },
+    {
+      "text": "these are things that like that patients",
+      "start": 936.12,
+      "duration": 3.76
+    },
+    {
+      "text": "consistently have like a higher chance",
+      "start": 937.68,
+      "duration": 4.76
+    },
+    {
+      "text": "of having a negative reaction to and",
+      "start": 939.88,
+      "duration": 3.879
+    },
+    {
+      "text": "then in the middle here there probably",
+      "start": 942.44,
+      "duration": 2.879
+    },
+    {
+      "text": "be some like drugs that don't even do",
+      "start": 943.759,
+      "duration": 3.721
+    },
+    {
+      "text": "anything I think part of recovery it's",
+      "start": 945.319,
+      "duration": 4.281
+    },
+    {
+      "text": "just avoiding things that set you back",
+      "start": 947.48,
+      "duration": 4.08
+    },
+    {
+      "text": "and even things that that work like it",
+      "start": 949.6,
+      "duration": 4.719
+    },
+    {
+      "text": "spot right some people are reporting",
+      "start": 951.56,
+      "duration": 4.36
+    },
+    {
+      "text": "that they got like worse for a long time",
+      "start": 954.319,
+      "duration": 3.721
+    },
+    {
+      "text": "after xot it just pushed them into like",
+      "start": 955.92,
+      "duration": 5.56
+    },
+    {
+      "text": "a new level severity so I think a lot of",
+      "start": 958.04,
+      "duration": 4.96
+    },
+    {
+      "text": "people just don't know that like",
+      "start": 961.48,
+      "duration": 3.4
+    },
+    {
+      "text": "treatments that work will also set you",
+      "start": 963.0,
+      "duration": 4.279
+    },
+    {
+      "text": "back and and and that's why I encourage",
+      "start": 964.88,
+      "duration": 4.199
+    },
+    {
+      "text": "people to like to be very conservative",
+      "start": 967.279,
+      "duration": 3.36
+    },
+    {
+      "text": "in their treatment approach and to like",
+      "start": 969.079,
+      "duration": 2.801
+    },
+    {
+      "text": "discontinue things that are going the",
+      "start": 970.639,
+      "duration": 3.721
+    },
+    {
+      "text": "wrong way and to start with a low dose",
+      "start": 971.88,
+      "duration": 4.439
+    },
+    {
+      "text": "in the beginning and I feel like a lot",
+      "start": 974.36,
+      "duration": 4.279
+    },
+    {
+      "text": "of like doctors don't know that or some",
+      "start": 976.319,
+      "duration": 3.721
+    },
+    {
+      "text": "some doctors even do something worse",
+      "start": 978.639,
+      "duration": 3.241
+    },
+    {
+      "text": "which is like they'll tell you that",
+      "start": 980.04,
+      "duration": 3.799
+    },
+    {
+      "text": "you're like detoxing or that you have",
+      "start": 981.88,
+      "duration": 4.399
+    },
+    {
+      "text": "like a her reaction because you have",
+      "start": 983.839,
+      "duration": 4.201
+    },
+    {
+      "text": "chronic lime so that way whenever like",
+      "start": 986.279,
+      "duration": 3.8
+    },
+    {
+      "text": "the patient has a negative experience",
+      "start": 988.04,
+      "duration": 3.239
+    },
+    {
+      "text": "they just have an excuse for it and they",
+      "start": 990.079,
+      "duration": 3.0
+    },
+    {
+      "text": "tell them to keep going and that might",
+      "start": 991.279,
+      "duration": 3.721
+    },
+    {
+      "text": "be like you know the exact opposite of",
+      "start": 993.079,
+      "duration": 3.281
+    },
+    {
+      "text": "what you should be doing and",
+      "start": 995.0,
+      "duration": 2.839
+    },
+    {
+      "text": "unfortunately we just don't have a lot",
+      "start": 996.36,
+      "duration": 3.68
+    },
+    {
+      "text": "of data on like what happens we get",
+      "start": 997.839,
+      "duration": 4.401
+    },
+    {
+      "text": "worse like why they get worse um people",
+      "start": 1000.04,
+      "duration": 4.039
+    },
+    {
+      "text": "don't like to talk about it and in like",
+      "start": 1002.24,
+      "duration": 3.32
+    },
+    {
+      "text": "Reddit or whatever it's not going to get",
+      "start": 1004.079,
+      "duration": 3.161
+    },
+    {
+      "text": "a lot of uploades so you're not going to",
+      "start": 1005.56,
+      "duration": 3.759
+    },
+    {
+      "text": "see it as much but I think it's a big",
+      "start": 1007.24,
+      "duration": 4.039
+    },
+    {
+      "text": "thing to watch out for it's just not",
+      "start": 1009.319,
+      "duration": 3.281
+    },
+    {
+      "text": "trying these treatments that set you",
+      "start": 1011.279,
+      "duration": 3.36
+    },
+    {
+      "text": "back and in some of the treatments like",
+      "start": 1012.6,
+      "duration": 4.239
+    },
+    {
+      "text": "ssris we know that in healthy people",
+      "start": 1014.639,
+      "duration": 4.601
+    },
+    {
+      "text": "there are like permanent long lasting",
+      "start": 1016.839,
+      "duration": 4.12
+    },
+    {
+      "text": "side effects that like really screw",
+      "start": 1019.24,
+      "duration": 4.24
+    },
+    {
+      "text": "people up so it's like how long Co has",
+      "start": 1020.959,
+      "duration": 4.641
+    },
+    {
+      "text": "support groups people hurt by ssris they",
+      "start": 1023.48,
+      "duration": 5.479
+    },
+    {
+      "text": "also have their own support group R pssd",
+      "start": 1025.6,
+      "duration": 5.88
+    },
+    {
+      "text": "is one of them and yeah so I think I",
+      "start": 1028.959,
+      "duration": 4.36
+    },
+    {
+      "text": "think more people need to know about",
+      "start": 1031.48,
+      "duration": 4.359
+    },
+    {
+      "text": "this that like the treatments do set you",
+      "start": 1033.319,
+      "duration": 4.281
+    },
+    {
+      "text": "back yeah you you really want to be",
+      "start": 1035.839,
+      "duration": 3.96
+    },
+    {
+      "text": "careful not to um go the wrong way in",
+      "start": 1037.6,
+      "duration": 4.319
+    },
+    {
+      "text": "your treatment approach so where are you",
+      "start": 1039.799,
+      "duration": 4.721
+    },
+    {
+      "text": "now how do you feel now like what does",
+      "start": 1041.919,
+      "duration": 4.92
+    },
+    {
+      "text": "life look like for you now yeah so now I",
+      "start": 1044.52,
+      "duration": 4.8
+    },
+    {
+      "text": "could do like almost everything except",
+      "start": 1046.839,
+      "duration": 5.161
+    },
+    {
+      "text": "for um break dancing which yeah I do",
+      "start": 1049.32,
+      "duration": 5.4
+    },
+    {
+      "text": "that too um so that I don't know I'm",
+      "start": 1052.0,
+      "duration": 3.96
+    },
+    {
+      "text": "slowly figuring out I I don't know",
+      "start": 1054.72,
+      "duration": 2.4
+    },
+    {
+      "text": "whether it's deconditioning that",
+      "start": 1055.96,
+      "duration": 2.48
+    },
+    {
+      "text": "prevents me from doing everything I",
+      "start": 1057.12,
+      "duration": 3.28
+    },
+    {
+      "text": "could do before or whether it's still",
+      "start": 1058.44,
+      "duration": 3.68
+    },
+    {
+      "text": "some lingering health problems that",
+      "start": 1060.4,
+      "duration": 4.84
+    },
+    {
+      "text": "prevent me from doing it at the fullest",
+      "start": 1062.12,
+      "duration": 4.799
+    },
+    {
+      "text": "so that's the one thing I can't quite",
+      "start": 1065.24,
+      "duration": 3.48
+    },
+    {
+      "text": "entirely do like I still go to practice",
+      "start": 1066.919,
+      "duration": 3.321
+    },
+    {
+      "text": "and still get some exercise and I just",
+      "start": 1068.72,
+      "duration": 3.199
+    },
+    {
+      "text": "can't do everything that I could do",
+      "start": 1070.24,
+      "duration": 3.36
+    },
+    {
+      "text": "before basically but aside from that",
+      "start": 1071.919,
+      "duration": 4.361
+    },
+    {
+      "text": "like I have my life back like um my",
+      "start": 1073.6,
+      "duration": 4.84
+    },
+    {
+      "text": "brain works normally I could obviously",
+      "start": 1076.28,
+      "duration": 3.84
+    },
+    {
+      "text": "see from from my research I did all this",
+      "start": 1078.44,
+      "duration": 3.239
+    },
+    {
+      "text": "computer programming that part of my",
+      "start": 1080.12,
+      "duration": 3.52
+    },
+    {
+      "text": "brain works correctly I also used to",
+      "start": 1081.679,
+      "duration": 5.281
+    },
+    {
+      "text": "have like survivors guilt because like",
+      "start": 1083.64,
+      "duration": 4.84
+    },
+    {
+      "text": "what I went through was was pretty",
+      "start": 1086.96,
+      "duration": 4.16
+    },
+    {
+      "text": "horrible I know that like other people",
+      "start": 1088.48,
+      "duration": 4.76
+    },
+    {
+      "text": "are still suffering from ncfs right like",
+      "start": 1091.12,
+      "duration": 4.6
+    },
+    {
+      "text": "usually a lot of mcfs sters they've been",
+      "start": 1093.24,
+      "duration": 4.16
+    },
+    {
+      "text": "suffering for years and years and years",
+      "start": 1095.72,
+      "duration": 3.6
+    },
+    {
+      "text": "and they just never figured out how to",
+      "start": 1097.4,
+      "duration": 5.159
+    },
+    {
+      "text": "get better and other people say like oh",
+      "start": 1099.32,
+      "duration": 5.08
+    },
+    {
+      "text": "you know you shouldn't feel surviv but",
+      "start": 1102.559,
+      "duration": 4.561
+    },
+    {
+      "text": "like you just do and so I had to deal",
+      "start": 1104.4,
+      "duration": 4.44
+    },
+    {
+      "text": "with that for a while I guess I don't",
+      "start": 1107.12,
+      "duration": 2.84
+    },
+    {
+      "text": "happen anymore because other stuff",
+      "start": 1108.84,
+      "duration": 1.959
+    },
+    {
+      "text": "happened in my life where I got",
+      "start": 1109.96,
+      "duration": 2.959
+    },
+    {
+      "text": "mistreated but we don't need to get into",
+      "start": 1110.799,
+      "duration": 3.801
+    },
+    {
+      "text": "that I just haven't seen too many people",
+      "start": 1112.919,
+      "duration": 4.041
+    },
+    {
+      "text": "talk about survivors guilt only maybe",
+      "start": 1114.6,
+      "duration": 4.28
+    },
+    {
+      "text": "like Cal Warner I I pretty much have my",
+      "start": 1116.96,
+      "duration": 4.64
+    },
+    {
+      "text": "life back so I'm I'm very very happy",
+      "start": 1118.88,
+      "duration": 4.36
+    },
+    {
+      "text": "about that you bring up a good point",
+      "start": 1121.6,
+      "duration": 3.6
+    },
+    {
+      "text": "though and I don't think anyone on my",
+      "start": 1123.24,
+      "duration": 4.08
+    },
+    {
+      "text": "channel has talked about survivors guilt",
+      "start": 1125.2,
+      "duration": 4.0
+    },
+    {
+      "text": "that feeling of I made it and still so",
+      "start": 1127.32,
+      "duration": 4.719
+    },
+    {
+      "text": "many other people are are struggling and",
+      "start": 1129.2,
+      "duration": 4.839
+    },
+    {
+      "text": "yeah probably a good problem to have but",
+      "start": 1132.039,
+      "duration": 4.081
+    },
+    {
+      "text": "still a real thing that you have to you",
+      "start": 1134.039,
+      "duration": 5.201
+    },
+    {
+      "text": "know work through so thank you thank you",
+      "start": 1136.12,
+      "duration": 4.72
+    },
+    {
+      "text": "for bringing that out you talked about",
+      "start": 1139.24,
+      "duration": 3.04
+    },
+    {
+      "text": "your survey a few times where you're",
+      "start": 1140.84,
+      "duration": 3.199
+    },
+    {
+      "text": "getting some of this this data so can",
+      "start": 1142.28,
+      "duration": 3.72
+    },
+    {
+      "text": "you tell us about that and can people",
+      "start": 1144.039,
+      "duration": 3.601
+    },
+    {
+      "text": "who are watching can they participate in",
+      "start": 1146.0,
+      "duration": 4.76
+    },
+    {
+      "text": "that yeah so uh one of the issues is",
+      "start": 1147.64,
+      "duration": 5.44
+    },
+    {
+      "text": "that the sample size is in a way are",
+      "start": 1150.76,
+      "duration": 4.84
+    },
+    {
+      "text": "small because like only about like 78%",
+      "start": 1153.08,
+      "duration": 4.56
+    },
+    {
+      "text": "of people surveyed have recovered but",
+      "start": 1155.6,
+      "duration": 3.6
+    },
+    {
+      "text": "that that means there's only like you",
+      "start": 1157.64,
+      "duration": 3.399
+    },
+    {
+      "text": "know 36 people who recovered and that's",
+      "start": 1159.2,
+      "duration": 3.76
+    },
+    {
+      "text": "not that's not a lot of data to draw",
+      "start": 1161.039,
+      "duration": 3.601
+    },
+    {
+      "text": "from and the the treatment response",
+      "start": 1162.96,
+      "duration": 3.4
+    },
+    {
+      "text": "rates are like really low probably in",
+      "start": 1164.64,
+      "duration": 4.6
+    },
+    {
+      "text": "the range of like 2 to 20% so so what",
+      "start": 1166.36,
+      "duration": 4.679
+    },
+    {
+      "text": "I'm trying to do is just to get like",
+      "start": 1169.24,
+      "duration": 5.08
+    },
+    {
+      "text": "bigger sample sizes so if you could um",
+      "start": 1171.039,
+      "duration": 4.76
+    },
+    {
+      "text": "fill out the survey that' be incredibly",
+      "start": 1174.32,
+      "duration": 3.44
+    },
+    {
+      "text": "helpful and it'll help us figure out you",
+      "start": 1175.799,
+      "duration": 4.0
+    },
+    {
+      "text": "know what's working what's not so I",
+      "start": 1177.76,
+      "duration": 3.68
+    },
+    {
+      "text": "think we might as well just put a link",
+      "start": 1179.799,
+      "duration": 3.88
+    },
+    {
+      "text": "into the video description below and I I",
+      "start": 1181.44,
+      "duration": 5.119
+    },
+    {
+      "text": "really hope we get more uh mecfs um",
+      "start": 1183.679,
+      "duration": 4.24
+    },
+    {
+      "text": "people filling out the survey because in",
+      "start": 1186.559,
+      "duration": 3.881
+    },
+    {
+      "text": "the past I've had uh a lot of difficulty",
+      "start": 1187.919,
+      "duration": 4.361
+    },
+    {
+      "text": "getting mecfs people to fill out the",
+      "start": 1190.44,
+      "duration": 4.0
+    },
+    {
+      "text": "survey oh yeah that would be great so",
+      "start": 1192.28,
+      "duration": 3.399
+    },
+    {
+      "text": "people watching if you think you have a",
+      "start": 1194.44,
+      "duration": 2.64
+    },
+    {
+      "text": "few minutes that you can manage to",
+      "start": 1195.679,
+      "duration": 3.401
+    },
+    {
+      "text": "devote to this expand the video descript",
+      "start": 1197.08,
+      "duration": 4.32
+    },
+    {
+      "text": "and the link is there because the more",
+      "start": 1199.08,
+      "duration": 4.4
+    },
+    {
+      "text": "we have we have a data analyst on this",
+      "start": 1201.4,
+      "duration": 3.56
+    },
+    {
+      "text": "let's give him some data to work with",
+      "start": 1203.48,
+      "duration": 3.559
+    },
+    {
+      "text": "he's doing really great work right well",
+      "start": 1204.96,
+      "duration": 4.68
+    },
+    {
+      "text": "Glenn I thank you so much for your",
+      "start": 1207.039,
+      "duration": 4.321
+    },
+    {
+      "text": "bravery coming here talking about this",
+      "start": 1209.64,
+      "duration": 3.84
+    },
+    {
+      "text": "controversial topic I know people will",
+      "start": 1211.36,
+      "duration": 3.96
+    },
+    {
+      "text": "very much appreciate um that we're",
+      "start": 1213.48,
+      "duration": 2.92
+    },
+    {
+      "text": "getting this or keeping this",
+      "start": 1215.32,
+      "duration": 3.68
+    },
+    {
+      "text": "conversation going um so yeah I really",
+      "start": 1216.4,
+      "duration": 4.0
+    },
+    {
+      "text": "appreciate you being here today and so",
+      "start": 1219.0,
+      "duration": 3.2
+    },
+    {
+      "text": "glad that you've had so much progress um",
+      "start": 1220.4,
+      "duration": 3.88
+    },
+    {
+      "text": "with your own recovery thank you and",
+      "start": 1222.2,
+      "duration": 4.04
+    },
+    {
+      "text": "then just thank you for like giving me I",
+      "start": 1224.28,
+      "duration": 3.84
+    },
+    {
+      "text": "don't know platform just to help me find",
+      "start": 1226.24,
+      "duration": 4.36
+    },
+    {
+      "text": "more CFS patients to like contribute to",
+      "start": 1228.12,
+      "duration": 4.919
+    },
+    {
+      "text": "the data because we yeah we kind of need",
+      "start": 1230.6,
+      "duration": 4.24
+    },
+    {
+      "text": "to figure out what's working what's not",
+      "start": 1233.039,
+      "duration": 3.841
+    },
+    {
+      "text": "working you know hopefully more more",
+      "start": 1234.84,
+      "duration": 3.52
+    },
+    {
+      "text": "people can be recovered because like",
+      "start": 1236.88,
+      "duration": 3.72
+    },
+    {
+      "text": "it's only like seven eight% of people",
+      "start": 1238.36,
+      "duration": 4.199
+    },
+    {
+      "text": "right now so hopefully you know we just",
+      "start": 1240.6,
+      "duration": 3.72
+    },
+    {
+      "text": "get the knowledge out there and get data",
+      "start": 1242.559,
+      "duration": 4.081
+    },
+    {
+      "text": "out there and and get that number like",
+      "start": 1244.32,
+      "duration": 5.4
+    },
+    {
+      "text": "much higher yeah absolutely and again",
+      "start": 1246.64,
+      "duration": 5.039
+    },
+    {
+      "text": "the link to sign up for my newsletter if",
+      "start": 1249.72,
+      "duration": 3.68
+    },
+    {
+      "text": "you haven't already is in the video",
+      "start": 1251.679,
+      "duration": 3.12
+    },
+    {
+      "text": "description and we'll share some of",
+      "start": 1253.4,
+      "duration": 3.36
+    },
+    {
+      "text": "those additional details that we left",
+      "start": 1254.799,
+      "duration": 3.161
+    },
+    {
+      "text": "out from this interview if you're",
+      "start": 1256.76,
+      "duration": 2.88
+    },
+    {
+      "text": "looking for more information and I'll",
+      "start": 1257.96,
+      "duration": 4.12
+    },
+    {
+      "text": "show the survey link there as well so",
+      "start": 1259.64,
+      "duration": 4.2
+    },
+    {
+      "text": "yeah thank you GL again Glenn thank you",
+      "start": 1262.08,
+      "duration": 3.719
+    },
+    {
+      "text": "to those of you watching what do you",
+      "start": 1263.84,
+      "duration": 4.24
+    },
+    {
+      "text": "think oh my goodness such vastly",
+      "start": 1265.799,
+      "duration": 4.161
+    },
+    {
+      "text": "different um topics than we usually talk",
+      "start": 1268.08,
+      "duration": 4.16
+    },
+    {
+      "text": "about on this channel and treatment",
+      "start": 1269.96,
+      "duration": 4.24
+    },
+    {
+      "text": "approaches and some really good insights",
+      "start": 1272.24,
+      "duration": 3.6
+    },
+    {
+      "text": "so I'd love to hear your thoughts um in",
+      "start": 1274.2,
+      "duration": 3.56
+    },
+    {
+      "text": "the comments So yeah thank you for",
+      "start": 1275.84,
+      "duration": 3.68
+    },
+    {
+      "text": "watching I hope you enjoyed this video I",
+      "start": 1277.76,
+      "duration": 3.279
+    },
+    {
+      "text": "hope you got something out of it and I",
+      "start": 1279.52,
+      "duration": 6.2
+    },
+    {
+      "text": "hope to see you in this next one",
+      "start": 1281.039,
+      "duration": 4.681
+    }
+  ],
+  "metadata": {
+    "title": "I Used PYTHON to Help Me Heal - Here's How (Glenn Chan's Long Covid Recovery Story)",
+    "author_name": "Raelan Agle",
+    "author_url": "https://www.youtube.com/@RaelanAgle",
+    "thumbnail_url": "https://i.ytimg.com/vi/ANYRdF_Z4Y8/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 465,
+    "category": "lc_recovery",
+    "title": "I Used PYTHON to Help Me Heal - Here's How (Glenn Chan's Long Covid Recovery Story)",
+    "videoId": "ANYRdF_Z4Y8",
+    "lengthText": "21:25",
+    "viewCountText": "3.9K views • 1 year ago"
+  }
+}

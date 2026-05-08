@@ -1,0 +1,6148 @@
+{
+  "video_id": "slmAKWpB-Es",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.16,
+      "duration": 5.399
+    },
+    {
+      "text": "The Long Co podcast",
+      "start": 58.68,
+      "duration": 4.48
+    },
+    {
+      "text": "I am absolutely delighted to welcome my",
+      "start": 60.559,
+      "duration": 5.6
+    },
+    {
+      "text": "guest today Dr Michael Bagnell",
+      "start": 63.16,
+      "duration": 5.68
+    },
+    {
+      "text": "functional neurologist and many other",
+      "start": 66.159,
+      "duration": 5.201
+    },
+    {
+      "text": "things as well so we're going to be",
+      "start": 68.84,
+      "duration": 4.639
+    },
+    {
+      "text": "talking about all sorts of things around",
+      "start": 71.36,
+      "duration": 5.079
+    },
+    {
+      "text": "long covid and the brain so welcome to",
+      "start": 73.479,
+      "duration": 5.68
+    },
+    {
+      "text": "the podcast thank you it's wonderful to",
+      "start": 76.439,
+      "duration": 4.441
+    },
+    {
+      "text": "be here with you get to know you a bit",
+      "start": 79.159,
+      "duration": 4.721
+    },
+    {
+      "text": "and then to share some hopefully hopeful",
+      "start": 80.88,
+      "duration": 5.599
+    },
+    {
+      "text": "and insightful things for your listeners",
+      "start": 83.88,
+      "duration": 5.36
+    },
+    {
+      "text": "that sounds absolutely wonderful um so",
+      "start": 86.479,
+      "duration": 4.801
+    },
+    {
+      "text": "to begin with would you mind just giving",
+      "start": 89.24,
+      "duration": 4.44
+    },
+    {
+      "text": "a brief introduction of yourself and",
+      "start": 91.28,
+      "duration": 4.879
+    },
+    {
+      "text": "what it is that you do yes sure I've",
+      "start": 93.68,
+      "duration": 4.719
+    },
+    {
+      "text": "been in a medical or clinical practice",
+      "start": 96.159,
+      "duration": 7.0
+    },
+    {
+      "text": "for 33 years and my beginning is in um",
+      "start": 98.399,
+      "duration": 6.521
+    },
+    {
+      "text": "Physical Medicine here in the United",
+      "start": 103.159,
+      "duration": 3.881
+    },
+    {
+      "text": "States which is considered Chiropractic",
+      "start": 104.92,
+      "duration": 4.32
+    },
+    {
+      "text": "healthare uh Chiropractic Health Care",
+      "start": 107.04,
+      "duration": 4.8
+    },
+    {
+      "text": "Services so we've been in that model for",
+      "start": 109.24,
+      "duration": 4.199
+    },
+    {
+      "text": "many years but I was always interested",
+      "start": 111.84,
+      "duration": 3.279
+    },
+    {
+      "text": "in Neuroscience in the brain of course",
+      "start": 113.439,
+      "duration": 3.521
+    },
+    {
+      "text": "33 years ago it wasn't even Neuroscience",
+      "start": 115.119,
+      "duration": 4.96
+    },
+    {
+      "text": "it was just neurology and so I began my",
+      "start": 116.96,
+      "duration": 6.72
+    },
+    {
+      "text": "postgraduate work not only in clinical",
+      "start": 120.079,
+      "duration": 6.881
+    },
+    {
+      "text": "um physical U health care but also",
+      "start": 123.68,
+      "duration": 6.12
+    },
+    {
+      "text": "working in the study of of Neurology try",
+      "start": 126.96,
+      "duration": 5.68
+    },
+    {
+      "text": "pursuing that and uh as that progressed",
+      "start": 129.8,
+      "duration": 4.6
+    },
+    {
+      "text": "it became neuroscience and clinical",
+      "start": 132.64,
+      "duration": 4.76
+    },
+    {
+      "text": "neuroscience and I moved my practical",
+      "start": 134.4,
+      "duration": 6.199
+    },
+    {
+      "text": "practice life into functional",
+      "start": 137.4,
+      "duration": 5.52
+    },
+    {
+      "text": "Neurology Now the name is considered",
+      "start": 140.599,
+      "duration": 3.801
+    },
+    {
+      "text": "clinical Neuroscience where you're",
+      "start": 142.92,
+      "duration": 3.24
+    },
+    {
+      "text": "taking",
+      "start": 144.4,
+      "duration": 4.36
+    },
+    {
+      "text": "applications or Rehabilitation you might",
+      "start": 146.16,
+      "duration": 4.64
+    },
+    {
+      "text": "think of models and using those in",
+      "start": 148.76,
+      "duration": 4.72
+    },
+    {
+      "text": "clinical practice to improve functional",
+      "start": 150.8,
+      "duration": 5.76
+    },
+    {
+      "text": "neurologic conditions so it's not quite",
+      "start": 153.48,
+      "duration": 4.759
+    },
+    {
+      "text": "the same as what some people might think",
+      "start": 156.56,
+      "duration": 4.52
+    },
+    {
+      "text": "of functional neurologic disorders",
+      "start": 158.239,
+      "duration": 5.201
+    },
+    {
+      "text": "because many times those are considered",
+      "start": 161.08,
+      "duration": 4.6
+    },
+    {
+      "text": "more where someone is having a problem",
+      "start": 163.44,
+      "duration": 4.64
+    },
+    {
+      "text": "with the nervous system that's",
+      "start": 165.68,
+      "duration": 5.52
+    },
+    {
+      "text": "functional meaning it's not a tumor it's",
+      "start": 168.08,
+      "duration": 5.0
+    },
+    {
+      "text": "not something solid in a mass in the",
+      "start": 171.2,
+      "duration": 3.759
+    },
+    {
+      "text": "brain but it's creating a change in the",
+      "start": 173.08,
+      "duration": 3.32
+    },
+    {
+      "text": "function of the brain that's affecting",
+      "start": 174.959,
+      "duration": 3.721
+    },
+    {
+      "text": "only the psychological state of the",
+      "start": 176.4,
+      "duration": 4.16
+    },
+    {
+      "text": "person so that's a a lot of explanation",
+      "start": 178.68,
+      "duration": 3.88
+    },
+    {
+      "text": "in that area we can come back to that",
+      "start": 180.56,
+      "duration": 4.08
+    },
+    {
+      "text": "but my work is in functional neurology",
+      "start": 182.56,
+      "duration": 3.8
+    },
+    {
+      "text": "or clinical neuroscience and it's",
+      "start": 184.64,
+      "duration": 3.959
+    },
+    {
+      "text": "designed to understand what's going on",
+      "start": 186.36,
+      "duration": 4.599
+    },
+    {
+      "text": "in someone's nervous system their brain",
+      "start": 188.599,
+      "duration": 5.401
+    },
+    {
+      "text": "and then how their body is then",
+      "start": 190.959,
+      "duration": 6.321
+    },
+    {
+      "text": "expressing that function their body or",
+      "start": 194.0,
+      "duration": 5.2
+    },
+    {
+      "text": "as you mentioned before their cognition",
+      "start": 197.28,
+      "duration": 5.239
+    },
+    {
+      "text": "their mind their emotional states really",
+      "start": 199.2,
+      "duration": 5.28
+    },
+    {
+      "text": "I I like to summarize it by saying our",
+      "start": 202.519,
+      "duration": 5.321
+    },
+    {
+      "text": "work is really brain-based Health Care",
+      "start": 204.48,
+      "duration": 5.839
+    },
+    {
+      "text": "brain-based Health Care and so we look",
+      "start": 207.84,
+      "duration": 4.24
+    },
+    {
+      "text": "at whatever condition presents to us",
+      "start": 210.319,
+      "duration": 4.681
+    },
+    {
+      "text": "whatever the client has uniquely and say",
+      "start": 212.08,
+      "duration": 7.079
+    },
+    {
+      "text": "is this does this have targets or a an",
+      "start": 215.0,
+      "duration": 6.12
+    },
+    {
+      "text": "area in the brain that is related to",
+      "start": 219.159,
+      "duration": 4.121
+    },
+    {
+      "text": "what they're dealing with which is a",
+      "start": 221.12,
+      "duration": 3.64
+    },
+    {
+      "text": "very different model because most",
+      "start": 223.28,
+      "duration": 3.08
+    },
+    {
+      "text": "healthc care I would say and I'm going",
+      "start": 224.76,
+      "duration": 4.24
+    },
+    {
+      "text": "to generalize a lot of things is related",
+      "start": 226.36,
+      "duration": 5.28
+    },
+    {
+      "text": "to things from the neck down so if a a",
+      "start": 229.0,
+      "duration": 5.4
+    },
+    {
+      "text": "female comes in and she has hormonal",
+      "start": 231.64,
+      "duration": 4.76
+    },
+    {
+      "text": "imbalances difficulty with her menstrual",
+      "start": 234.4,
+      "duration": 4.399
+    },
+    {
+      "text": "cycle it's only considered to be a",
+      "start": 236.4,
+      "duration": 4.88
+    },
+    {
+      "text": "hormonal issue primarily in in most",
+      "start": 238.799,
+      "duration": 5.241
+    },
+    {
+      "text": "Healthcare around the world we would say",
+      "start": 241.28,
+      "duration": 4.959
+    },
+    {
+      "text": "of course there's you know it would be",
+      "start": 244.04,
+      "duration": 4.0
+    },
+    {
+      "text": "ignorant to not think about the hormones",
+      "start": 246.239,
+      "duration": 4.321
+    },
+    {
+      "text": "and to analyze the hormones but also how",
+      "start": 248.04,
+      "duration": 4.919
+    },
+    {
+      "text": "is their brain or is their brain playing",
+      "start": 250.56,
+      "duration": 4.84
+    },
+    {
+      "text": "a role in their hormonal expression in",
+      "start": 252.959,
+      "duration": 4.8
+    },
+    {
+      "text": "their body and as we go through the",
+      "start": 255.4,
+      "duration": 3.92
+    },
+    {
+      "text": "Neuroscience of that we'd say it's",
+      "start": 257.759,
+      "duration": 2.921
+    },
+    {
+      "text": "possible then we have to have ways to",
+      "start": 259.32,
+      "duration": 3.72
+    },
+    {
+      "text": "measure it to see if there is an",
+      "start": 260.68,
+      "duration": 6.16
+    },
+    {
+      "text": "involvement that can be helped not only",
+      "start": 263.04,
+      "duration": 5.32
+    },
+    {
+      "text": "chemically with maybe some type of",
+      "start": 266.84,
+      "duration": 4.52
+    },
+    {
+      "text": "hormones or supplements naturally but a",
+      "start": 268.36,
+      "duration": 5.96
+    },
+    {
+      "text": "brain-based activity that might help to",
+      "start": 271.36,
+      "duration": 5.559
+    },
+    {
+      "text": "rebalance or bring into balance her",
+      "start": 274.32,
+      "duration": 4.56
+    },
+    {
+      "text": "hormonal system so that's that's a",
+      "start": 276.919,
+      "duration": 4.761
+    },
+    {
+      "text": "pretty big string away from what we",
+      "start": 278.88,
+      "duration": 6.2
+    },
+    {
+      "text": "consider in typical medical practices",
+      "start": 281.68,
+      "duration": 5.959
+    },
+    {
+      "text": "allopathic practices so brain-based",
+      "start": 285.08,
+      "duration": 5.28
+    },
+    {
+      "text": "Health Care is really the view we have",
+      "start": 287.639,
+      "duration": 5.56
+    },
+    {
+      "text": "using functional neurology or clinical",
+      "start": 290.36,
+      "duration": 6.04
+    },
+    {
+      "text": "Neuroscience techniques applications",
+      "start": 293.199,
+      "duration": 5.121
+    },
+    {
+      "text": "therapies you can use many many terms",
+      "start": 296.4,
+      "duration": 4.44
+    },
+    {
+      "text": "for that and that's how we look to help",
+      "start": 298.32,
+      "duration": 5.28
+    },
+    {
+      "text": "restore our clients restore people to a",
+      "start": 300.84,
+      "duration": 4.52
+    },
+    {
+      "text": "higher level of health and what does",
+      "start": 303.6,
+      "duration": 4.24
+    },
+    {
+      "text": "that mean function so if you have",
+      "start": 305.36,
+      "duration": 4.44
+    },
+    {
+      "text": "somebody who's suffering like yourself",
+      "start": 307.84,
+      "duration": 4.72
+    },
+    {
+      "text": "and so many others with long Co and the",
+      "start": 309.8,
+      "duration": 5.72
+    },
+    {
+      "text": "constellation of symptoms can we restore",
+      "start": 312.56,
+      "duration": 6.359
+    },
+    {
+      "text": "them to function whether it's working",
+      "start": 315.52,
+      "duration": 5.679
+    },
+    {
+      "text": "whether it's just walking whether it's",
+      "start": 318.919,
+      "duration": 4.241
+    },
+    {
+      "text": "exercising again whether it's carrying",
+      "start": 321.199,
+      "duration": 4.481
+    },
+    {
+      "text": "on as a a mother or a father whether",
+      "start": 323.16,
+      "duration": 4.24
+    },
+    {
+      "text": "it's getting a child to be able to go",
+      "start": 325.68,
+      "duration": 4.32
+    },
+    {
+      "text": "back to school in a normal way we to get",
+      "start": 327.4,
+      "duration": 5.2
+    },
+    {
+      "text": "their functionality back by working",
+      "start": 330.0,
+      "duration": 5.68
+    },
+    {
+      "text": "through the brain system models and we",
+      "start": 332.6,
+      "duration": 6.64
+    },
+    {
+      "text": "do address metabolic issues we address",
+      "start": 335.68,
+      "duration": 4.92
+    },
+    {
+      "text": "many other things which we'll talk about",
+      "start": 339.24,
+      "duration": 5.04
+    },
+    {
+      "text": "as we go long answer to a short question",
+      "start": 340.6,
+      "duration": 5.64
+    },
+    {
+      "text": "that's amazing so so you really are",
+      "start": 344.28,
+      "duration": 3.759
+    },
+    {
+      "text": "looking at the whole person but the",
+      "start": 346.24,
+      "duration": 4.12
+    },
+    {
+      "text": "whole person including the brain",
+      "start": 348.039,
+      "duration": 5.28
+    },
+    {
+      "text": "absolutely yeah have to let me just tag",
+      "start": 350.36,
+      "duration": 4.6
+    },
+    {
+      "text": "on this because I wrote this note down",
+      "start": 353.319,
+      "duration": 3.841
+    },
+    {
+      "text": "this morning so we'll step back from",
+      "start": 354.96,
+      "duration": 3.92
+    },
+    {
+      "text": "that for a minute and this is my",
+      "start": 357.16,
+      "duration": 3.08
+    },
+    {
+      "text": "consideration",
+      "start": 358.88,
+      "duration": 3.4
+    },
+    {
+      "text": "in medicine and Healthcare especially in",
+      "start": 360.24,
+      "duration": 4.44
+    },
+    {
+      "text": "the last two years with Co and long Co",
+      "start": 362.28,
+      "duration": 5.84
+    },
+    {
+      "text": "showing up is that I I'll use the analy",
+      "start": 364.68,
+      "duration": 7.56
+    },
+    {
+      "text": "of food we have fast food in the world",
+      "start": 368.12,
+      "duration": 6.519
+    },
+    {
+      "text": "primarily out of America that has then",
+      "start": 372.24,
+      "duration": 4.88
+    },
+    {
+      "text": "uh migrated or let's say infected other",
+      "start": 374.639,
+      "duration": 5.68
+    },
+    {
+      "text": "countries the fast food model which we",
+      "start": 377.12,
+      "duration": 5.199
+    },
+    {
+      "text": "know is not a real healthy model we know",
+      "start": 380.319,
+      "duration": 3.481
+    },
+    {
+      "text": "it's convenient but it's not a real",
+      "start": 382.319,
+      "duration": 5.6
+    },
+    {
+      "text": "Health developing model okay so I know",
+      "start": 383.8,
+      "duration": 6.959
+    },
+    {
+      "text": "that in Italy they started the slow food",
+      "start": 387.919,
+      "duration": 5.201
+    },
+    {
+      "text": "movement some years ago out of some",
+      "start": 390.759,
+      "duration": 4.481
+    },
+    {
+      "text": "areas and there's some shows on this",
+      "start": 393.12,
+      "duration": 3.479
+    },
+    {
+      "text": "perhaps I think it was with Stanley",
+      "start": 395.24,
+      "duration": 3.519
+    },
+    {
+      "text": "Tucci or with Anthony Bourdain or one of",
+      "start": 396.599,
+      "duration": 4.32
+    },
+    {
+      "text": "these wonderful people traveling there",
+      "start": 398.759,
+      "duration": 5.16
+    },
+    {
+      "text": "the slow food movement says slow it down",
+      "start": 400.919,
+      "duration": 6.0
+    },
+    {
+      "text": "farm to table so to speak let's take our",
+      "start": 403.919,
+      "duration": 5.56
+    },
+    {
+      "text": "time let's prepare proper food that",
+      "start": 406.919,
+      "duration": 4.761
+    },
+    {
+      "text": "provides a nourishment and health to the",
+      "start": 409.479,
+      "duration": 3.921
+    },
+    {
+      "text": "person okay what does that have to do",
+      "start": 411.68,
+      "duration": 4.12
+    },
+    {
+      "text": "with medicine I think we need a slow",
+      "start": 413.4,
+      "duration": 3.84
+    },
+    {
+      "text": "medicine",
+      "start": 415.8,
+      "duration": 3.799
+    },
+    {
+      "text": "movement I think medicine is just",
+      "start": 417.24,
+      "duration": 5.239
+    },
+    {
+      "text": "rolling way too fast that people walk in",
+      "start": 419.599,
+      "duration": 4.561
+    },
+    {
+      "text": "and I see this all the time on Twitter",
+      "start": 422.479,
+      "duration": 3.641
+    },
+    {
+      "text": "as a matter of fact people I've been to",
+      "start": 424.16,
+      "duration": 4.36
+    },
+    {
+      "text": "my doctor they said I'm fine five",
+      "start": 426.12,
+      "duration": 4.4
+    },
+    {
+      "text": "minutes in and out take this this",
+      "start": 428.52,
+      "duration": 4.48
+    },
+    {
+      "text": "medicine take this drug I can't help you",
+      "start": 430.52,
+      "duration": 4.84
+    },
+    {
+      "text": "you don't really have covid yada yada y",
+      "start": 433.0,
+      "duration": 6.4
+    },
+    {
+      "text": "y it's too fast we have to slow medicine",
+      "start": 435.36,
+      "duration": 7.92
+    },
+    {
+      "text": "down and then think as Physicians think",
+      "start": 439.4,
+      "duration": 6.28
+    },
+    {
+      "text": "okay what is the algorithm here what is",
+      "start": 443.28,
+      "duration": 4.44
+    },
+    {
+      "text": "this person showing up with what is",
+      "start": 445.68,
+      "duration": 3.84
+    },
+    {
+      "text": "their history of their present illness",
+      "start": 447.72,
+      "duration": 4.68
+    },
+    {
+      "text": "ESS slow down",
+      "start": 449.52,
+      "duration": 6.679
+    },
+    {
+      "text": "doctors because this this fast pace of",
+      "start": 452.4,
+      "duration": 6.639
+    },
+    {
+      "text": "medicine is really I've slowed down",
+      "start": 456.199,
+      "duration": 4.801
+    },
+    {
+      "text": "dramatically in 33 years and I don't",
+      "start": 459.039,
+      "duration": 3.921
+    },
+    {
+      "text": "mean because I'm getting older I mean",
+      "start": 461.0,
+      "duration": 5.56
+    },
+    {
+      "text": "because it's wise to slow down with with",
+      "start": 462.96,
+      "duration": 7.6
+    },
+    {
+      "text": "patients one of the great killers of",
+      "start": 466.56,
+      "duration": 8.68
+    },
+    {
+      "text": "empathy with Physicians is time when",
+      "start": 470.56,
+      "duration": 6.479
+    },
+    {
+      "text": "you're running out of time you're not",
+      "start": 475.24,
+      "duration": 3.519
+    },
+    {
+      "text": "going to be expressing a lot of empathy",
+      "start": 477.039,
+      "duration": 4.6
+    },
+    {
+      "text": "and taking care of people and I'll use",
+      "start": 478.759,
+      "duration": 6.4
+    },
+    {
+      "text": "this word in a shepherding way not just",
+      "start": 481.639,
+      "duration": 5.761
+    },
+    {
+      "text": "in a a clinical let me just kind of get",
+      "start": 485.159,
+      "duration": 3.841
+    },
+    {
+      "text": "it off my plate next one next one next",
+      "start": 487.4,
+      "duration": 4.199
+    },
+    {
+      "text": "one next one a shepherding way caring",
+      "start": 489.0,
+      "duration": 5.0
+    },
+    {
+      "text": "for them walking with them a bit more",
+      "start": 491.599,
+      "duration": 4.16
+    },
+    {
+      "text": "getting them to the other doctors even",
+      "start": 494.0,
+      "duration": 4.159
+    },
+    {
+      "text": "if you can't really help them fully can",
+      "start": 495.759,
+      "duration": 5.081
+    },
+    {
+      "text": "you provide some level of Hope to them",
+      "start": 498.159,
+      "duration": 5.081
+    },
+    {
+      "text": "some level of encouragement to them some",
+      "start": 500.84,
+      "duration": 6.56
+    },
+    {
+      "text": "level of going on slow medicine movement",
+      "start": 503.24,
+      "duration": 6.88
+    },
+    {
+      "text": "is what we're about personally and it's",
+      "start": 507.4,
+      "duration": 4.759
+    },
+    {
+      "text": "what I try to impart to colleagues and",
+      "start": 510.12,
+      "duration": 5.0
+    },
+    {
+      "text": "friends around the world slow it down",
+      "start": 512.159,
+      "duration": 4.68
+    },
+    {
+      "text": "you know it's not how many that we see",
+      "start": 515.12,
+      "duration": 3.159
+    },
+    {
+      "text": "it's like let's just take care of the",
+      "start": 516.839,
+      "duration": 4.2
+    },
+    {
+      "text": "one before us properly I love the word",
+      "start": 518.279,
+      "duration": 5.64
+    },
+    {
+      "text": "that most people in the UK use properly",
+      "start": 521.039,
+      "duration": 5.001
+    },
+    {
+      "text": "this is a wonderful word to incorporate",
+      "start": 523.919,
+      "duration": 3.881
+    },
+    {
+      "text": "into our language and Medicine are you",
+      "start": 526.04,
+      "duration": 4.16
+    },
+    {
+      "text": "caring for the patient especially with",
+      "start": 527.8,
+      "duration": 5.479
+    },
+    {
+      "text": "long covid properly now what good is",
+      "start": 530.2,
+      "duration": 5.079
+    },
+    {
+      "text": "that going to do for you as a",
+      "start": 533.279,
+      "duration": 4.401
+    },
+    {
+      "text": "patient not as much right because the",
+      "start": 535.279,
+      "duration": 3.721
+    },
+    {
+      "text": "doctors have to hear this and it has to",
+      "start": 537.68,
+      "duration": 3.08
+    },
+    {
+      "text": "really touch and sink into their heart",
+      "start": 539.0,
+      "duration": 4.079
+    },
+    {
+      "text": "and their head and then change their",
+      "start": 540.76,
+      "duration": 5.079
+    },
+    {
+      "text": "model based on their reimbursement and",
+      "start": 543.079,
+      "duration": 5.32
+    },
+    {
+      "text": "all those things but it's really",
+      "start": 545.839,
+      "duration": 4.281
+    },
+    {
+      "text": "incumbent upon us as Physicians and",
+      "start": 548.399,
+      "duration": 3.601
+    },
+    {
+      "text": "there are doctors like that there are",
+      "start": 550.12,
+      "duration": 4.0
+    },
+    {
+      "text": "right I'm sure you may have met one out",
+      "start": 552.0,
+      "duration": 5.24
+    },
+    {
+      "text": "of a string of 20 and and others but be",
+      "start": 554.12,
+      "duration": 4.6
+    },
+    {
+      "text": "encouraged there are doctors that will",
+      "start": 557.24,
+      "duration": 3.68
+    },
+    {
+      "text": "slow it down we'll think through the",
+      "start": 558.72,
+      "duration": 5.359
+    },
+    {
+      "text": "process you know we get very used to",
+      "start": 560.92,
+      "duration": 4.68
+    },
+    {
+      "text": "just relying on everything else we've",
+      "start": 564.079,
+      "duration": 3.361
+    },
+    {
+      "text": "seen and oh yes that sounds like smells",
+      "start": 565.6,
+      "duration": 3.4
+    },
+    {
+      "text": "like tastes like okay here you go that's",
+      "start": 567.44,
+      "duration": 4.72
+    },
+    {
+      "text": "it slow down doctors and and patients",
+      "start": 569.0,
+      "duration": 4.48
+    },
+    {
+      "text": "and people listening who are not",
+      "start": 572.16,
+      "duration": 4.2
+    },
+    {
+      "text": "Physicians or clinicians be encouraged",
+      "start": 573.48,
+      "duration": 4.12
+    },
+    {
+      "text": "there are people like that you're just",
+      "start": 576.36,
+      "duration": 2.4
+    },
+    {
+      "text": "going to it's going to take a while to",
+      "start": 577.6,
+      "duration": 4.479
+    },
+    {
+      "text": "find them yeah I love that idea of slow",
+      "start": 578.76,
+      "duration": 5.759
+    },
+    {
+      "text": "medicine that's fantastic I mean like we",
+      "start": 582.079,
+      "duration": 4.401
+    },
+    {
+      "text": "were saying just before we came on you",
+      "start": 584.519,
+      "duration": 3.921
+    },
+    {
+      "text": "know everyone with long covid and I'm",
+      "start": 586.48,
+      "duration": 3.72
+    },
+    {
+      "text": "sure this covers a lot of other chronic",
+      "start": 588.44,
+      "duration": 4.0
+    },
+    {
+      "text": "illnesses as well you know they have a",
+      "start": 590.2,
+      "duration": 4.48
+    },
+    {
+      "text": "lot in common but everyone is individual",
+      "start": 592.44,
+      "duration": 3.76
+    },
+    {
+      "text": "as well everybody's got their own",
+      "start": 594.68,
+      "duration": 3.159
+    },
+    {
+      "text": "personal circumstances and their own set",
+      "start": 596.2,
+      "duration": 3.639
+    },
+    {
+      "text": "of symptoms and their own you know",
+      "start": 597.839,
+      "duration": 4.281
+    },
+    {
+      "text": "everything so you know it's it's like",
+      "start": 599.839,
+      "duration": 3.961
+    },
+    {
+      "text": "you say you know you you kind of have to",
+      "start": 602.12,
+      "duration": 3.839
+    },
+    {
+      "text": "listen to each individual in a way that",
+      "start": 603.8,
+      "duration": 3.8
+    },
+    {
+      "text": "you can actually get their story before",
+      "start": 605.959,
+      "duration": 4.841
+    },
+    {
+      "text": "you can know what to do can't you yes",
+      "start": 607.6,
+      "duration": 6.4
+    },
+    {
+      "text": "absolutely it is every person that I've",
+      "start": 610.8,
+      "duration": 6.08
+    },
+    {
+      "text": "trained with that has been you know 30",
+      "start": 614.0,
+      "duration": 5.48
+    },
+    {
+      "text": "40 50 years in medicine that have been",
+      "start": 616.88,
+      "duration": 4.399
+    },
+    {
+      "text": "some of the I would say top",
+      "start": 619.48,
+      "duration": 4.68
+    },
+    {
+      "text": "Professionals in terms of healthc care",
+      "start": 621.279,
+      "duration": 4.481
+    },
+    {
+      "text": "that they all go back to and I'm just",
+      "start": 624.16,
+      "duration": 3.2
+    },
+    {
+      "text": "talking about a handful maybe four or",
+      "start": 625.76,
+      "duration": 3.68
+    },
+    {
+      "text": "five different people they all go back",
+      "start": 627.36,
+      "duration": 4.08
+    },
+    {
+      "text": "back to the most important part of your",
+      "start": 629.44,
+      "duration": 3.56
+    },
+    {
+      "text": "examination is the",
+      "start": 631.44,
+      "duration": 3.8
+    },
+    {
+      "text": "history when you talk with your patient",
+      "start": 633.0,
+      "duration": 4.36
+    },
+    {
+      "text": "you learn more about and it it you don't",
+      "start": 635.24,
+      "duration": 3.56
+    },
+    {
+      "text": "have to have a long examination",
+      "start": 637.36,
+      "duration": 3.279
+    },
+    {
+      "text": "necessarily because it starts leading",
+      "start": 638.8,
+      "duration": 4.2
+    },
+    {
+      "text": "you in the direction of what may be",
+      "start": 640.639,
+      "duration": 4.561
+    },
+    {
+      "text": "going on with the person so the history",
+      "start": 643.0,
+      "duration": 5.16
+    },
+    {
+      "text": "taking is really important and so we",
+      "start": 645.2,
+      "duration": 4.48
+    },
+    {
+      "text": "have to be good listeners we have to",
+      "start": 648.16,
+      "duration": 4.32
+    },
+    {
+      "text": "develop that I'm still developing that",
+      "start": 649.68,
+      "duration": 5.24
+    },
+    {
+      "text": "uh being a proper listener with clients",
+      "start": 652.48,
+      "duration": 4.72
+    },
+    {
+      "text": "but what kills it again is the lack of",
+      "start": 654.92,
+      "duration": 4.84
+    },
+    {
+      "text": "time when you don't have time you lose",
+      "start": 657.2,
+      "duration": 4.6
+    },
+    {
+      "text": "empathy you lose listening skills you",
+      "start": 659.76,
+      "duration": 4.36
+    },
+    {
+      "text": "lose many things so we need to move out",
+      "start": 661.8,
+      "duration": 4.24
+    },
+    {
+      "text": "of this hopefully we can move at least a",
+      "start": 664.12,
+      "duration": 4.2
+    },
+    {
+      "text": "little bit out of the well this is what",
+      "start": 666.04,
+      "duration": 4.479
+    },
+    {
+      "text": "is found in the research to work and so",
+      "start": 668.32,
+      "duration": 4.28
+    },
+    {
+      "text": "it's good for everyone uh not",
+      "start": 670.519,
+      "duration": 3.961
+    },
+    {
+      "text": "necessarily it's good that we have",
+      "start": 672.6,
+      "duration": 3.84
+    },
+    {
+      "text": "research we want to have research of",
+      "start": 674.48,
+      "duration": 5.0
+    },
+    {
+      "text": "course I read research multiple times a",
+      "start": 676.44,
+      "duration": 5.199
+    },
+    {
+      "text": "week I'm reading abstracts and studies",
+      "start": 679.48,
+      "duration": 3.4
+    },
+    {
+      "text": "that are going to help me have an",
+      "start": 681.639,
+      "duration": 2.32
+    },
+    {
+      "text": "expanded",
+      "start": 682.88,
+      "duration": 3.6
+    },
+    {
+      "text": "view but we know that everything is not",
+      "start": 683.959,
+      "duration": 4.44
+    },
+    {
+      "text": "good for everyone and long covid",
+      "start": 686.48,
+      "duration": 3.84
+    },
+    {
+      "text": "recovery and I'm going to say that",
+      "start": 688.399,
+      "duration": 5.24
+    },
+    {
+      "text": "recovery is one of those examples for",
+      "start": 690.32,
+      "duration": 6.12
+    },
+    {
+      "text": "instance vagal nerve stimulation it's",
+      "start": 693.639,
+      "duration": 4.721
+    },
+    {
+      "text": "not good for everyone it's great for",
+      "start": 696.44,
+      "duration": 3.959
+    },
+    {
+      "text": "many people but you have to have a",
+      "start": 698.36,
+      "duration": 4.479
+    },
+    {
+      "text": "proper analysis to know if it's going to",
+      "start": 700.399,
+      "duration": 5.641
+    },
+    {
+      "text": "be the best therapy so this is a",
+      "start": 702.839,
+      "duration": 5.041
+    },
+    {
+      "text": "challenging mix we need to take care of",
+      "start": 706.04,
+      "duration": 4.08
+    },
+    {
+      "text": "the everybody and slow down and try to",
+      "start": 707.88,
+      "duration": 4.44
+    },
+    {
+      "text": "figure out what's the best therapeutic",
+      "start": 710.12,
+      "duration": 4.959
+    },
+    {
+      "text": "models for them as they recover yeah",
+      "start": 712.32,
+      "duration": 5.72
+    },
+    {
+      "text": "definitely definitely so talking about",
+      "start": 715.079,
+      "duration": 6.361
+    },
+    {
+      "text": "you know long Co and and Co and this is",
+      "start": 718.04,
+      "duration": 7.599
+    },
+    {
+      "text": "probably a very wide openen question um",
+      "start": 721.44,
+      "duration": 7.72
+    },
+    {
+      "text": "what is going on with Co and long covid",
+      "start": 725.639,
+      "duration": 6.041
+    },
+    {
+      "text": "in people and I'm sure it's not the same",
+      "start": 729.16,
+      "duration": 4.88
+    },
+    {
+      "text": "for everyone as we were just saying yeah",
+      "start": 731.68,
+      "duration": 4.12
+    },
+    {
+      "text": "so there's lots of different systems",
+      "start": 734.04,
+      "duration": 5.52
+    },
+    {
+      "text": "involved it's a complex disorder it's",
+      "start": 735.8,
+      "duration": 6.479
+    },
+    {
+      "text": "mysterious to some degree we know that",
+      "start": 739.56,
+      "duration": 4.519
+    },
+    {
+      "text": "some people are going after it in",
+      "start": 742.279,
+      "duration": 4.401
+    },
+    {
+      "text": "response to their apheresis or having",
+      "start": 744.079,
+      "duration": 4.801
+    },
+    {
+      "text": "their plasma their blood removed and",
+      "start": 746.68,
+      "duration": 4.04
+    },
+    {
+      "text": "trying to bring down the antibodies in",
+      "start": 748.88,
+      "duration": 4.84
+    },
+    {
+      "text": "the blood and the the neuroinflammation",
+      "start": 750.72,
+      "duration": 4.44
+    },
+    {
+      "text": "so some people are going about it in",
+      "start": 753.72,
+      "duration": 2.88
+    },
+    {
+      "text": "that direction some people say it's a",
+      "start": 755.16,
+      "duration": 3.44
+    },
+    {
+      "text": "mitochondrial Disorder so that's why it",
+      "start": 756.6,
+      "duration": 4.32
+    },
+    {
+      "text": "looks more like chronic fatigue syndrome",
+      "start": 758.6,
+      "duration": 5.32
+    },
+    {
+      "text": "CFS and me but there's a gentleman and I",
+      "start": 760.92,
+      "duration": 4.159
+    },
+    {
+      "text": "have it here I'm going to just read it",
+      "start": 763.92,
+      "duration": 3.8
+    },
+    {
+      "text": "off my desk avendra Nath avendra Nath is",
+      "start": 765.079,
+      "duration": 6.0
+    },
+    {
+      "text": "a a leader of a study intramural study",
+      "start": 767.72,
+      "duration": 6.6
+    },
+    {
+      "text": "on me and CFS which is condition that's",
+      "start": 771.079,
+      "duration": 5.801
+    },
+    {
+      "text": "similar to what many people are",
+      "start": 774.32,
+      "duration": 5.199
+    },
+    {
+      "text": "expressing with long covid he a",
+      "start": 776.88,
+      "duration": 4.6
+    },
+    {
+      "text": "neuroscientist he works with the",
+      "start": 779.519,
+      "duration": 4.12
+    },
+    {
+      "text": "National Institute of Health in the US",
+      "start": 781.48,
+      "duration": 4.28
+    },
+    {
+      "text": "and he believes that it's a",
+      "start": 783.639,
+      "duration": 3.841
+    },
+    {
+      "text": "neuroinflammatory disease that is",
+      "start": 785.76,
+      "duration": 5.36
+    },
+    {
+      "text": "affecting primarily the brain stem so we",
+      "start": 787.48,
+      "duration": 5.88
+    },
+    {
+      "text": "get sick I got sick myself I got covid",
+      "start": 791.12,
+      "duration": 5.0
+    },
+    {
+      "text": "twice I got it one time last year and it",
+      "start": 793.36,
+      "duration": 5.52
+    },
+    {
+      "text": "was a pretty rough bout uh but not",
+      "start": 796.12,
+      "duration": 5.12
+    },
+    {
+      "text": "nearly the level of many of your",
+      "start": 798.88,
+      "duration": 4.16
+    },
+    {
+      "text": "listeners and people that are continuing",
+      "start": 801.24,
+      "duration": 4.399
+    },
+    {
+      "text": "so I was sicker for sure in that week",
+      "start": 803.04,
+      "duration": 4.12
+    },
+    {
+      "text": "than I've been my whole life so I was",
+      "start": 805.639,
+      "duration": 4.44
+    },
+    {
+      "text": "like wow this is pretty rough um but",
+      "start": 807.16,
+      "duration": 4.919
+    },
+    {
+      "text": "fortunately I was able to come through",
+      "start": 810.079,
+      "duration": 4.88
+    },
+    {
+      "text": "it with only some kidney malfunction",
+      "start": 812.079,
+      "duration": 5.401
+    },
+    {
+      "text": "which then restored I had a a bit of",
+      "start": 814.959,
+      "duration": 4.761
+    },
+    {
+      "text": "breathing on my right lung that took me",
+      "start": 817.48,
+      "duration": 4.599
+    },
+    {
+      "text": "a little while about a month and then",
+      "start": 819.72,
+      "duration": 4.2
+    },
+    {
+      "text": "kidney malfunction which also restored",
+      "start": 822.079,
+      "duration": 5.681
+    },
+    {
+      "text": "to a more normal level so my journey is",
+      "start": 823.92,
+      "duration": 6.44
+    },
+    {
+      "text": "shorter but he's saying that he",
+      "start": 827.76,
+      "duration": 4.439
+    },
+    {
+      "text": "questioned about the brain stem being",
+      "start": 830.36,
+      "duration": 3.44
+    },
+    {
+      "text": "involved because the brain stem has a",
+      "start": 832.199,
+      "duration": 4.56
+    },
+    {
+      "text": "lot of these A2 receptors and other",
+      "start": 833.8,
+      "duration": 4.8
+    },
+    {
+      "text": "areas in the brain so we have these",
+      "start": 836.759,
+      "duration": 4.64
+    },
+    {
+      "text": "receptors we get the infection we create",
+      "start": 838.6,
+      "duration": 4.44
+    },
+    {
+      "text": "inflammation all over the body and a",
+      "start": 841.399,
+      "duration": 4.041
+    },
+    {
+      "text": "very strong inflammatory reaction right",
+      "start": 843.04,
+      "duration": 4.28
+    },
+    {
+      "text": "very strong it's not like getting some",
+      "start": 845.44,
+      "duration": 4.48
+    },
+    {
+      "text": "more mild viral illness this is a very",
+      "start": 847.32,
+      "duration": 5.28
+    },
+    {
+      "text": "potent viral illness and it and it binds",
+      "start": 849.92,
+      "duration": 6.039
+    },
+    {
+      "text": "to areas of your body that have these A2",
+      "start": 852.6,
+      "duration": 5.799
+    },
+    {
+      "text": "receptors we know that for sure there's",
+      "start": 855.959,
+      "duration": 4.841
+    },
+    {
+      "text": "a high propensity of them in the brain",
+      "start": 858.399,
+      "duration": 4.161
+    },
+    {
+      "text": "stem and other areas of the brain the",
+      "start": 860.8,
+      "duration": 4.32
+    },
+    {
+      "text": "amydala the cortex but the brain",
+      "start": 862.56,
+      "duration": 6.04
+    },
+    {
+      "text": "stem is loaded with them so the brain",
+      "start": 865.12,
+      "duration": 4.68
+    },
+    {
+      "text": "stem gets",
+      "start": 868.6,
+      "duration": 5.039
+    },
+    {
+      "text": "very attacked so to speak by this and in",
+      "start": 869.8,
+      "duration": 6.36
+    },
+    {
+      "text": "some people it's much worse and some",
+      "start": 873.639,
+      "duration": 5.56
+    },
+    {
+      "text": "people it's lessened and that brain stem",
+      "start": 876.16,
+      "duration": 4.64
+    },
+    {
+      "text": "is what controls what we call the",
+      "start": 879.199,
+      "duration": 3.2
+    },
+    {
+      "text": "autonomic",
+      "start": 880.8,
+      "duration": 3.56
+    },
+    {
+      "text": "function so I'm going to pause for a",
+      "start": 882.399,
+      "duration": 4.0
+    },
+    {
+      "text": "minute and go back so people with long",
+      "start": 884.36,
+      "duration": 3.52
+    },
+    {
+      "text": "covid many people are searching out",
+      "start": 886.399,
+      "duration": 4.161
+    },
+    {
+      "text": "apheresis and that you know micr clots",
+      "start": 887.88,
+      "duration": 4.0
+    },
+    {
+      "text": "are the problem and other people are",
+      "start": 890.56,
+      "duration": 3.04
+    },
+    {
+      "text": "looking at mitochondial disfunction",
+      "start": 891.88,
+      "duration": 4.28
+    },
+    {
+      "text": "that's the problem and so other people",
+      "start": 893.6,
+      "duration": 4.679
+    },
+    {
+      "text": "are looking at disautonomia so I think",
+      "start": 896.16,
+      "duration": 4.479
+    },
+    {
+      "text": "these are probably",
+      "start": 898.279,
+      "duration": 5.041
+    },
+    {
+      "text": "the three primary and then there's other",
+      "start": 900.639,
+      "duration": 5.401
+    },
+    {
+      "text": "models of what might be going on so I",
+      "start": 903.32,
+      "duration": 4.6
+    },
+    {
+      "text": "like to step back to to the biggest",
+      "start": 906.04,
+      "duration": 4.32
+    },
+    {
+      "text": "model we'll say like a 30,000 foot view",
+      "start": 907.92,
+      "duration": 5.24
+    },
+    {
+      "text": "okay yes we may have microc clotting yes",
+      "start": 910.36,
+      "duration": 4.96
+    },
+    {
+      "text": "we may have mitochondrial dysfunction",
+      "start": 913.16,
+      "duration": 5.44
+    },
+    {
+      "text": "yes because we know immune issues knock",
+      "start": 915.32,
+      "duration": 5.079
+    },
+    {
+      "text": "down your mitochondrial function that",
+      "start": 918.6,
+      "duration": 4.039
+    },
+    {
+      "text": "happens in all kinds of immune Illness",
+      "start": 920.399,
+      "duration": 5.401
+    },
+    {
+      "text": "but more so with Co because of the",
+      "start": 922.639,
+      "duration": 5.44
+    },
+    {
+      "text": "potency of it and then we have this",
+      "start": 925.8,
+      "duration": 4.76
+    },
+    {
+      "text": "thought disorder Oma well",
+      "start": 928.079,
+      "duration": 4.961
+    },
+    {
+      "text": "disautonomia an autonomic system that's",
+      "start": 930.56,
+      "duration": 4.639
+    },
+    {
+      "text": "not working why because it's really",
+      "start": 933.04,
+      "duration": 4.08
+    },
+    {
+      "text": "housing the brain stem the brain stem is",
+      "start": 935.199,
+      "duration": 4.961
+    },
+    {
+      "text": "very much attacked so that could be if",
+      "start": 937.12,
+      "duration": 5.12
+    },
+    {
+      "text": "you listen to the symptoms of",
+      "start": 940.16,
+      "duration": 4.159
+    },
+    {
+      "text": "disautonomia which are actually listed",
+      "start": 942.24,
+      "duration": 3.36
+    },
+    {
+      "text": "on my",
+      "start": 944.319,
+      "duration": 4.32
+    },
+    {
+      "text": "website we recently put up a page",
+      "start": 945.6,
+      "duration": 4.88
+    },
+    {
+      "text": "talking about disautonomia because there",
+      "start": 948.639,
+      "duration": 4.041
+    },
+    {
+      "text": "were so many questions you think about",
+      "start": 950.48,
+      "duration": 4.039
+    },
+    {
+      "text": "wow a lot of these things are related",
+      "start": 952.68,
+      "duration": 3.959
+    },
+    {
+      "text": "and different people have different",
+      "start": 954.519,
+      "duration": 4.641
+    },
+    {
+      "text": "Expressions so an inability to stay",
+      "start": 956.639,
+      "duration": 4.88
+    },
+    {
+      "text": "upright dizziness vertigo fainting so",
+      "start": 959.16,
+      "duration": 3.72
+    },
+    {
+      "text": "when someone goes from sitting down or",
+      "start": 961.519,
+      "duration": 2.841
+    },
+    {
+      "text": "laying down to getting up they feel",
+      "start": 962.88,
+      "duration": 4.199
+    },
+    {
+      "text": "super laded their heart might race they",
+      "start": 964.36,
+      "duration": 6.719
+    },
+    {
+      "text": "might have Tachi cardia chest pain low",
+      "start": 967.079,
+      "duration": 6.521
+    },
+    {
+      "text": "blood pressure when they get up brain",
+      "start": 971.079,
+      "duration": 6.481
+    },
+    {
+      "text": "fog super common they feel blood pooling",
+      "start": 973.6,
+      "duration": 5.56
+    },
+    {
+      "text": "other people blood pooling in their legs",
+      "start": 977.56,
+      "duration": 5.12
+    },
+    {
+      "text": "or their back problems with their gut GI",
+      "start": 979.16,
+      "duration": 6.479
+    },
+    {
+      "text": "system nausea disturbances in their",
+      "start": 982.68,
+      "duration": 6.0
+    },
+    {
+      "text": "visual field weakness in their muscles",
+      "start": 985.639,
+      "duration": 5.041
+    },
+    {
+      "text": "or arms and legs usually",
+      "start": 988.68,
+      "duration": 4.8
+    },
+    {
+      "text": "extremities breathing difficulties mood",
+      "start": 990.68,
+      "duration": 4.76
+    },
+    {
+      "text": "swings so here's a paper in front of me",
+      "start": 993.48,
+      "duration": 4.799
+    },
+    {
+      "text": "on my browser mid and long-term",
+      "start": 995.44,
+      "duration": 5.199
+    },
+    {
+      "text": "neurologic and Neuropsychiatric",
+      "start": 998.279,
+      "duration": 4.441
+    },
+    {
+      "text": "manifestations of",
+      "start": 1000.639,
+      "duration": 5.481
+    },
+    {
+      "text": "postco so we have psychological changes",
+      "start": 1002.72,
+      "duration": 5.44
+    },
+    {
+      "text": "like anxiety depression then we have",
+      "start": 1006.12,
+      "duration": 4.279
+    },
+    {
+      "text": "fatigue of course intolerance to",
+      "start": 1008.16,
+      "duration": 4.919
+    },
+    {
+      "text": "exercise as we were talking headaches",
+      "start": 1010.399,
+      "duration": 5.081
+    },
+    {
+      "text": "migraines Tremors disrupted sleep",
+      "start": 1013.079,
+      "duration": 5.841
+    },
+    {
+      "text": "pattern frequent urination temperature",
+      "start": 1015.48,
+      "duration": 5.799
+    },
+    {
+      "text": "regulation problems memory and",
+      "start": 1018.92,
+      "duration": 6.159
+    },
+    {
+      "text": "concentration appetite changes sensory",
+      "start": 1021.279,
+      "duration": 7.481
+    },
+    {
+      "text": "sensitivity especially to noise and",
+      "start": 1025.079,
+      "duration": 6.681
+    },
+    {
+      "text": "light so that's a lot of different",
+      "start": 1028.76,
+      "duration": 5.88
+    },
+    {
+      "text": "symptoms so the autonomic system which",
+      "start": 1031.76,
+      "duration": 5.199
+    },
+    {
+      "text": "is housed in the brain stem which is",
+      "start": 1034.64,
+      "duration": 5.88
+    },
+    {
+      "text": "very much affected by the the Infectious",
+      "start": 1036.959,
+      "duration": 8.281
+    },
+    {
+      "text": "process of covid can be maybe in some",
+      "start": 1040.52,
+      "duration": 7.519
+    },
+    {
+      "text": "people the primary area that we have to",
+      "start": 1045.24,
+      "duration": 7.319
+    },
+    {
+      "text": "focus our neurologic recovery on it does",
+      "start": 1048.039,
+      "duration": 7.361
+    },
+    {
+      "text": "not mean that we should not address",
+      "start": 1052.559,
+      "duration": 4.36
+    },
+    {
+      "text": "metabolic conditions involved with",
+      "start": 1055.4,
+      "duration": 3.48
+    },
+    {
+      "text": "microc clotting we should if they have",
+      "start": 1056.919,
+      "duration": 5.281
+    },
+    {
+      "text": "that I like to go from low invasive",
+      "start": 1058.88,
+      "duration": 7.88
+    },
+    {
+      "text": "therapies to more invasive therapies so",
+      "start": 1062.2,
+      "duration": 6.2
+    },
+    {
+      "text": "I like to be cautious with that we don't",
+      "start": 1066.76,
+      "duration": 3.96
+    },
+    {
+      "text": "want to get into too many things we just",
+      "start": 1068.4,
+      "duration": 5.8
+    },
+    {
+      "text": "want to go slow slow and Progressive but",
+      "start": 1070.72,
+      "duration": 5.079
+    },
+    {
+      "text": "of course what's before slow and",
+      "start": 1074.2,
+      "duration": 4.08
+    },
+    {
+      "text": "Progressive what is the diagnostic",
+      "start": 1075.799,
+      "duration": 5.641
+    },
+    {
+      "text": "picture of this this person say oh okay",
+      "start": 1078.28,
+      "duration": 4.56
+    },
+    {
+      "text": "because someone might listen to this and",
+      "start": 1081.44,
+      "duration": 2.92
+    },
+    {
+      "text": "say that sounds like me I have",
+      "start": 1082.84,
+      "duration": 2.959
+    },
+    {
+      "text": "disautonomia that's what I'm going to",
+      "start": 1084.36,
+      "duration": 4.76
+    },
+    {
+      "text": "treat we need to make sure we need to",
+      "start": 1085.799,
+      "duration": 5.521
+    },
+    {
+      "text": "make sure or you need to make sure so",
+      "start": 1089.12,
+      "duration": 4.24
+    },
+    {
+      "text": "that is measured in a way of testing",
+      "start": 1091.32,
+      "duration": 4.32
+    },
+    {
+      "text": "which we'll talk about in a minute so",
+      "start": 1093.36,
+      "duration": 5.16
+    },
+    {
+      "text": "Nath AV inra Nath National Institute of",
+      "start": 1095.64,
+      "duration": 5.56
+    },
+    {
+      "text": "Health says hey this disorder looks a",
+      "start": 1098.52,
+      "duration": 5.639
+    },
+    {
+      "text": "lot like me and CFS which has a lot to",
+      "start": 1101.2,
+      "duration": 5.24
+    },
+    {
+      "text": "do with the brain stem which has a lot",
+      "start": 1104.159,
+      "duration": 4.4
+    },
+    {
+      "text": "to do with how neuroinflammation attacks",
+      "start": 1106.44,
+      "duration": 3.08
+    },
+    {
+      "text": "it",
+      "start": 1108.559,
+      "duration": 4.081
+    },
+    {
+      "text": "and that's maybe the Target and I'll use",
+      "start": 1109.52,
+      "duration": 5.8
+    },
+    {
+      "text": "my word of Rehabilitation and getting",
+      "start": 1112.64,
+      "duration": 4.039
+    },
+    {
+      "text": "people back last night I answered",
+      "start": 1115.32,
+      "duration": 2.68
+    },
+    {
+      "text": "someone on Twitter who asked me a",
+      "start": 1116.679,
+      "duration": 3.801
+    },
+    {
+      "text": "question can I get better with my brain",
+      "start": 1118.0,
+      "duration": 5.12
+    },
+    {
+      "text": "and my answer is yes there are ways for",
+      "start": 1120.48,
+      "duration": 5.0
+    },
+    {
+      "text": "you to improve and get back to normal in",
+      "start": 1123.12,
+      "duration": 4.96
+    },
+    {
+      "text": "most people there's a high probability",
+      "start": 1125.48,
+      "duration": 4.52
+    },
+    {
+      "text": "but you just have to have the right",
+      "start": 1128.08,
+      "duration": 3.92
+    },
+    {
+      "text": "applications and I told him it's going",
+      "start": 1130.0,
+      "duration": 4.32
+    },
+    {
+      "text": "to be longer it's going to be slower but",
+      "start": 1132.0,
+      "duration": 4.08
+    },
+    {
+      "text": "yes you can that's where we're going to",
+      "start": 1134.32,
+      "duration": 3.96
+    },
+    {
+      "text": "start with yes until our body proves us",
+      "start": 1136.08,
+      "duration": 4.88
+    },
+    {
+      "text": "wrong we're going to start with yes we",
+      "start": 1138.28,
+      "duration": 4.759
+    },
+    {
+      "text": "can get better even if it's been a long",
+      "start": 1140.96,
+      "duration": 4.8
+    },
+    {
+      "text": "haul right if someone has had a knee",
+      "start": 1143.039,
+      "duration": 4.921
+    },
+    {
+      "text": "injury and they play football and I'm",
+      "start": 1145.76,
+      "duration": 3.68
+    },
+    {
+      "text": "talking about football around the world",
+      "start": 1147.96,
+      "duration": 3.44
+    },
+    {
+      "text": "right so what we would call soccer had a",
+      "start": 1149.44,
+      "duration": 3.719
+    },
+    {
+      "text": "knee injury and they never really have",
+      "start": 1151.4,
+      "duration": 4.04
+    },
+    {
+      "text": "it rehabilitated they could be two three",
+      "start": 1153.159,
+      "duration": 4.481
+    },
+    {
+      "text": "five seven years suffering with that",
+      "start": 1155.44,
+      "duration": 4.16
+    },
+    {
+      "text": "knee every time they try to do something",
+      "start": 1157.64,
+      "duration": 3.76
+    },
+    {
+      "text": "but if they have the proper",
+      "start": 1159.6,
+      "duration": 3.64
+    },
+    {
+      "text": "Rehabilitation many times they can",
+      "start": 1161.4,
+      "duration": 4.56
+    },
+    {
+      "text": "recover almost to full full activity",
+      "start": 1163.24,
+      "duration": 5.679
+    },
+    {
+      "text": "again so similar model that's",
+      "start": 1165.96,
+      "duration": 5.76
+    },
+    {
+      "text": "oversimplifying it people are suffering",
+      "start": 1168.919,
+      "duration": 6.24
+    },
+    {
+      "text": "in much more Extreme Ways but yes the",
+      "start": 1171.72,
+      "duration": 5.959
+    },
+    {
+      "text": "disautonomia model is the 30,000 foot",
+      "start": 1175.159,
+      "duration": 5.321
+    },
+    {
+      "text": "model in my opinion that's my opinion",
+      "start": 1177.679,
+      "duration": 6.36
+    },
+    {
+      "text": "Based on data based on Research based on",
+      "start": 1180.48,
+      "duration": 7.52
+    },
+    {
+      "text": "other people working in brain stem and",
+      "start": 1184.039,
+      "duration": 5.601
+    },
+    {
+      "text": "neuroinflammation research they're",
+      "start": 1188.0,
+      "duration": 4.36
+    },
+    {
+      "text": "saying hey let's pay attention to this",
+      "start": 1189.64,
+      "duration": 5.48
+    },
+    {
+      "text": "so it's not the only thing it's just a",
+      "start": 1192.36,
+      "duration": 6.08
+    },
+    {
+      "text": "very focal thing for us to consider as",
+      "start": 1195.12,
+      "duration": 5.84
+    },
+    {
+      "text": "we look at the whole View and how to",
+      "start": 1198.44,
+      "duration": 6.32
+    },
+    {
+      "text": "help a person get back to function again",
+      "start": 1200.96,
+      "duration": 5.719
+    },
+    {
+      "text": "yeah I mean it's it's fascinating isn't",
+      "start": 1204.76,
+      "duration": 3.68
+    },
+    {
+      "text": "it I mean when I first heard about the",
+      "start": 1206.679,
+      "duration": 3.721
+    },
+    {
+      "text": "autonomic nervous system I think my",
+      "start": 1208.44,
+      "duration": 3.8
+    },
+    {
+      "text": "first thought was I have no idea what",
+      "start": 1210.4,
+      "duration": 3.68
+    },
+    {
+      "text": "that is um and then once I kind of",
+      "start": 1212.24,
+      "duration": 5.24
+    },
+    {
+      "text": "realized you know the massive wide range",
+      "start": 1214.08,
+      "duration": 5.719
+    },
+    {
+      "text": "of symptoms that it can cause because it",
+      "start": 1217.48,
+      "duration": 4.559
+    },
+    {
+      "text": "basically controls everything it does so",
+      "start": 1219.799,
+      "duration": 4.081
+    },
+    {
+      "text": "you know then you can contribute all of",
+      "start": 1222.039,
+      "duration": 3.401
+    },
+    {
+      "text": "these different symptoms or certainly",
+      "start": 1223.88,
+      "duration": 3.96
+    },
+    {
+      "text": "most of them you think okay so it's not",
+      "start": 1225.44,
+      "duration": 4.08
+    },
+    {
+      "text": "that I've got problems with you know",
+      "start": 1227.84,
+      "duration": 3.68
+    },
+    {
+      "text": "every single different part of my body",
+      "start": 1229.52,
+      "duration": 5.639
+    },
+    {
+      "text": "actually it comes back to that one cause",
+      "start": 1231.52,
+      "duration": 5.92
+    },
+    {
+      "text": "you know I mean fixing that is you know",
+      "start": 1235.159,
+      "duration": 4.681
+    },
+    {
+      "text": "not simple but you know it's it's kind",
+      "start": 1237.44,
+      "duration": 6.08
+    },
+    {
+      "text": "of one problem rather than hundreds",
+      "start": 1239.84,
+      "duration": 6.319
+    },
+    {
+      "text": "that's right see that's right very very",
+      "start": 1243.52,
+      "duration": 4.92
+    },
+    {
+      "text": "good statement there so I we would hope",
+      "start": 1246.159,
+      "duration": 4.241
+    },
+    {
+      "text": "that people listening to this would then",
+      "start": 1248.44,
+      "duration": 4.64
+    },
+    {
+      "text": "Google or whatever your search engine is",
+      "start": 1250.4,
+      "duration": 5.08
+    },
+    {
+      "text": "would look up autonomic nervous system",
+      "start": 1253.08,
+      "duration": 4.0
+    },
+    {
+      "text": "and then you're going to see usually in",
+      "start": 1255.48,
+      "duration": 4.16
+    },
+    {
+      "text": "images a picture of all these organs on",
+      "start": 1257.08,
+      "duration": 4.0
+    },
+    {
+      "text": "the right side and all these organs on",
+      "start": 1259.64,
+      "duration": 2.76
+    },
+    {
+      "text": "the left side and they show you like a",
+      "start": 1261.08,
+      "duration": 3.599
+    },
+    {
+      "text": "spinal column with the nerves coming out",
+      "start": 1262.4,
+      "duration": 4.36
+    },
+    {
+      "text": "so it is the system the autonomic",
+      "start": 1264.679,
+      "duration": 4.641
+    },
+    {
+      "text": "nervous system you could think of and",
+      "start": 1266.76,
+      "duration": 5.08
+    },
+    {
+      "text": "use the word automatic almost in",
+      "start": 1269.32,
+      "duration": 5.52
+    },
+    {
+      "text": "replacement it's the automatic system",
+      "start": 1271.84,
+      "duration": 5.04
+    },
+    {
+      "text": "that controls the functions that you and",
+      "start": 1274.84,
+      "duration": 5.36
+    },
+    {
+      "text": "I do not have to think about breathing",
+      "start": 1276.88,
+      "duration": 7.0
+    },
+    {
+      "text": "gut function pupil change sweating",
+      "start": 1280.2,
+      "duration": 6.959
+    },
+    {
+      "text": "swallowing your libido you're urinating",
+      "start": 1283.88,
+      "duration": 6.279
+    },
+    {
+      "text": "you're defecating eliminating digestive",
+      "start": 1287.159,
+      "duration": 5.4
+    },
+    {
+      "text": "function right all these things that are",
+      "start": 1290.159,
+      "duration": 5.4
+    },
+    {
+      "text": "going on automatically can become",
+      "start": 1292.559,
+      "duration": 5.281
+    },
+    {
+      "text": "disrupted when the autonomic system is",
+      "start": 1295.559,
+      "duration": 4.681
+    },
+    {
+      "text": "involved so you can have symptoms from",
+      "start": 1297.84,
+      "duration": 5.88
+    },
+    {
+      "text": "your head down to your toes because not",
+      "start": 1300.24,
+      "duration": 5.0
+    },
+    {
+      "text": "only does it affect all the organ",
+      "start": 1303.72,
+      "duration": 3.0
+    },
+    {
+      "text": "systems but what does it do for the",
+      "start": 1305.24,
+      "duration": 5.52
+    },
+    {
+      "text": "organ systems it allows for blood flow",
+      "start": 1306.72,
+      "duration": 6.52
+    },
+    {
+      "text": "so the autonomic systems primary very",
+      "start": 1310.76,
+      "duration": 5.24
+    },
+    {
+      "text": "simplified language job is to get blood",
+      "start": 1313.24,
+      "duration": 4.88
+    },
+    {
+      "text": "flow to the proper areas and what's the",
+      "start": 1316.0,
+      "duration": 4.88
+    },
+    {
+      "text": "most important area the brain it's got",
+      "start": 1318.12,
+      "duration": 5.919
+    },
+    {
+      "text": "to get blood flow Upstream to the brain",
+      "start": 1320.88,
+      "duration": 5.36
+    },
+    {
+      "text": "that's the primary function keeping the",
+      "start": 1324.039,
+      "duration": 5.081
+    },
+    {
+      "text": "blood pressure and heart rate in check",
+      "start": 1326.24,
+      "duration": 4.439
+    },
+    {
+      "text": "so the person can get blood flow to",
+      "start": 1329.12,
+      "duration": 4.039
+    },
+    {
+      "text": "their extremities to their gut to their",
+      "start": 1330.679,
+      "duration": 5.201
+    },
+    {
+      "text": "brain to all the things that are needed",
+      "start": 1333.159,
+      "duration": 6.041
+    },
+    {
+      "text": "when they are needed so getting blood",
+      "start": 1335.88,
+      "duration": 5.279
+    },
+    {
+      "text": "flow to my legs when I'm sleeping is not",
+      "start": 1339.2,
+      "duration": 3.56
+    },
+    {
+      "text": "as important as when I'm running in the",
+      "start": 1341.159,
+      "duration": 3.921
+    },
+    {
+      "text": "park getting blood flow to my head when",
+      "start": 1342.76,
+      "duration": 4.36
+    },
+    {
+      "text": "I'm standing up is very important it's",
+      "start": 1345.08,
+      "duration": 3.959
+    },
+    {
+      "text": "not as much of an effort when I'm laying",
+      "start": 1347.12,
+      "duration": 4.64
+    },
+    {
+      "text": "down so autonomic system is the",
+      "start": 1349.039,
+      "duration": 5.281
+    },
+    {
+      "text": "automatic nervous system so to speak",
+      "start": 1351.76,
+      "duration": 4.72
+    },
+    {
+      "text": "controlling blood flow to all the",
+      "start": 1354.32,
+      "duration": 6.68
+    },
+    {
+      "text": "systems on an as needed basis in a very",
+      "start": 1356.48,
+      "duration": 8.16
+    },
+    {
+      "text": "rapid beautifully integrated Symphony of",
+      "start": 1361.0,
+      "duration": 6.84
+    },
+    {
+      "text": "physiology and long covid affecting the",
+      "start": 1364.64,
+      "duration": 7.519
+    },
+    {
+      "text": "brain stem can cause a disruption in",
+      "start": 1367.84,
+      "duration": 8.24
+    },
+    {
+      "text": "various regions and blood flow supplies",
+      "start": 1372.159,
+      "duration": 7.64
+    },
+    {
+      "text": "to those areas but the brain stem can be",
+      "start": 1376.08,
+      "duration": 4.839
+    },
+    {
+      "text": "a target of",
+      "start": 1379.799,
+      "duration": 3.641
+    },
+    {
+      "text": "Rehabilitation just like someone who has",
+      "start": 1380.919,
+      "duration": 4.161
+    },
+    {
+      "text": "a stroke and they have Rehabilitation",
+      "start": 1383.44,
+      "duration": 3.08
+    },
+    {
+      "text": "for their let's say their arm is",
+      "start": 1385.08,
+      "duration": 3.199
+    },
+    {
+      "text": "affected or their leg they start to",
+      "start": 1386.52,
+      "duration": 3.96
+    },
+    {
+      "text": "rehabilitate the hemisphere the cortex",
+      "start": 1388.279,
+      "duration": 5.921
+    },
+    {
+      "text": "on the other side so Rehabilitation is",
+      "start": 1390.48,
+      "duration": 6.439
+    },
+    {
+      "text": "the word I think rehab rehab rehab first",
+      "start": 1394.2,
+      "duration": 4.28
+    },
+    {
+      "text": "how do we understand which part of the",
+      "start": 1396.919,
+      "duration": 4.12
+    },
+    {
+      "text": "brain stem and then how do we target",
+      "start": 1398.48,
+      "duration": 4.799
+    },
+    {
+      "text": "Rehabilitation and develop clinical",
+      "start": 1401.039,
+      "duration": 4.361
+    },
+    {
+      "text": "Neuroscience applications for that which",
+      "start": 1403.279,
+      "duration": 3.961
+    },
+    {
+      "text": "we do and many of my colleagues around",
+      "start": 1405.4,
+      "duration": 3.68
+    },
+    {
+      "text": "the world in UK",
+      "start": 1407.24,
+      "duration": 5.319
+    },
+    {
+      "text": "in Europe in Australia in New Zealand",
+      "start": 1409.08,
+      "duration": 7.199
+    },
+    {
+      "text": "all over the us a few in South America",
+      "start": 1412.559,
+      "duration": 5.161
+    },
+    {
+      "text": "they're around these people who do",
+      "start": 1416.279,
+      "duration": 3.321
+    },
+    {
+      "text": "functional neurology and have this level",
+      "start": 1417.72,
+      "duration": 4.64
+    },
+    {
+      "text": "of training I would say and expertise",
+      "start": 1419.6,
+      "duration": 5.12
+    },
+    {
+      "text": "especially now in disautonomia related",
+      "start": 1422.36,
+      "duration": 5.0
+    },
+    {
+      "text": "to long covid so Rehabilitation is the",
+      "start": 1424.72,
+      "duration": 4.559
+    },
+    {
+      "text": "key got to have the right exam then you",
+      "start": 1427.36,
+      "duration": 3.319
+    },
+    {
+      "text": "apply the right therapy so that we're",
+      "start": 1429.279,
+      "duration": 2.76
+    },
+    {
+      "text": "not just throwing things against the",
+      "start": 1430.679,
+      "duration": 3.961
+    },
+    {
+      "text": "wall seeing what will stick yeah and I",
+      "start": 1432.039,
+      "duration": 4.64
+    },
+    {
+      "text": "really want to get into what you would",
+      "start": 1434.64,
+      "duration": 4.96
+    },
+    {
+      "text": "do um but you mentioned it earlier and I",
+      "start": 1436.679,
+      "duration": 4.521
+    },
+    {
+      "text": "think we should probably touch on it",
+      "start": 1439.6,
+      "duration": 4.439
+    },
+    {
+      "text": "very briefly first is how would you test",
+      "start": 1441.2,
+      "duration": 5.479
+    },
+    {
+      "text": "for this autonomia because you know I",
+      "start": 1444.039,
+      "duration": 5.081
+    },
+    {
+      "text": "was nodding my head as you read that",
+      "start": 1446.679,
+      "duration": 3.801
+    },
+    {
+      "text": "list of symptoms because I've",
+      "start": 1449.12,
+      "duration": 3.159
+    },
+    {
+      "text": "experienced I think pretty much every",
+      "start": 1450.48,
+      "duration": 3.52
+    },
+    {
+      "text": "single one of them and I'm sure a lot of",
+      "start": 1452.279,
+      "duration": 4.561
+    },
+    {
+      "text": "people listening will have be thinking",
+      "start": 1454.0,
+      "duration": 5.36
+    },
+    {
+      "text": "exactly the same that sounds like me but",
+      "start": 1456.84,
+      "duration": 5.0
+    },
+    {
+      "text": "as you say you know Diagnostics are a",
+      "start": 1459.36,
+      "duration": 5.84
+    },
+    {
+      "text": "key kind of part of the process so how",
+      "start": 1461.84,
+      "duration": 5.04
+    },
+    {
+      "text": "would you nail down that someone",
+      "start": 1465.2,
+      "duration": 3.8
+    },
+    {
+      "text": "definitely does have",
+      "start": 1466.88,
+      "duration": 4.24
+    },
+    {
+      "text": "autonomia well one thing we can say is",
+      "start": 1469.0,
+      "duration": 4.799
+    },
+    {
+      "text": "that on our website there is a free",
+      "start": 1471.12,
+      "duration": 5.559
+    },
+    {
+      "text": "downloaded survey so you would download",
+      "start": 1473.799,
+      "duration": 4.76
+    },
+    {
+      "text": "that and do it on your own it's for you",
+      "start": 1476.679,
+      "duration": 5.561
+    },
+    {
+      "text": "it's called a compass c m p SS and it's",
+      "start": 1478.559,
+      "duration": 6.201
+    },
+    {
+      "text": "used as a an outcome assessment for",
+      "start": 1482.24,
+      "duration": 4.52
+    },
+    {
+      "text": "disautonomia so someone could go on",
+      "start": 1484.76,
+      "duration": 3.519
+    },
+    {
+      "text": "there and they could download that on",
+      "start": 1486.76,
+      "duration": 3.399
+    },
+    {
+      "text": "their own it's there's no cost we we",
+      "start": 1488.279,
+      "duration": 3.161
+    },
+    {
+      "text": "have people who are coming into the",
+      "start": 1490.159,
+      "duration": 4.0
+    },
+    {
+      "text": "office do that um but also as I consult",
+      "start": 1491.44,
+      "duration": 4.76
+    },
+    {
+      "text": "with other people in the US around the",
+      "start": 1494.159,
+      "duration": 4.76
+    },
+    {
+      "text": "US not in my local region or the world I",
+      "start": 1496.2,
+      "duration": 4.32
+    },
+    {
+      "text": "have them do that so when I do a tele",
+      "start": 1498.919,
+      "duration": 3.961
+    },
+    {
+      "text": "medicine with them I get a good index of",
+      "start": 1500.52,
+      "duration": 4.2
+    },
+    {
+      "text": "where they are so that's one thing it's",
+      "start": 1502.88,
+      "duration": 3.88
+    },
+    {
+      "text": "a paper out self-graded assessment",
+      "start": 1504.72,
+      "duration": 3.319
+    },
+    {
+      "text": "you're absolutely welcome to do that and",
+      "start": 1506.76,
+      "duration": 4.159
+    },
+    {
+      "text": "there are also brain localization",
+      "start": 1508.039,
+      "duration": 4.401
+    },
+    {
+      "text": "surveys on there that people are welcome",
+      "start": 1510.919,
+      "duration": 4.521
+    },
+    {
+      "text": "to download it's under our forms and",
+      "start": 1512.44,
+      "duration": 4.76
+    },
+    {
+      "text": "then you know would the next step they",
+      "start": 1515.44,
+      "duration": 3.599
+    },
+    {
+      "text": "say I want to get this interpreted more",
+      "start": 1517.2,
+      "duration": 3.76
+    },
+    {
+      "text": "that they just set up a a consult with",
+      "start": 1519.039,
+      "duration": 4.161
+    },
+    {
+      "text": "me so that's a simple procedure at least",
+      "start": 1520.96,
+      "duration": 4.599
+    },
+    {
+      "text": "it gives some personal attention so",
+      "start": 1523.2,
+      "duration": 4.24
+    },
+    {
+      "text": "that's one number two what could you do",
+      "start": 1525.559,
+      "duration": 3.961
+    },
+    {
+      "text": "besides that you want to understand",
+      "start": 1527.44,
+      "duration": 3.599
+    },
+    {
+      "text": "what's going on with two things your",
+      "start": 1529.52,
+      "duration": 3.72
+    },
+    {
+      "text": "heart rate and your blood pressure we",
+      "start": 1531.039,
+      "duration": 3.841
+    },
+    {
+      "text": "can say those are because you have the",
+      "start": 1533.24,
+      "duration": 3.439
+    },
+    {
+      "text": "symptoms already so gosh I think I might",
+      "start": 1534.88,
+      "duration": 3.48
+    },
+    {
+      "text": "have this so now we need to have",
+      "start": 1536.679,
+      "duration": 5.441
+    },
+    {
+      "text": "something that gives us a proxy for how",
+      "start": 1538.36,
+      "duration": 5.96
+    },
+    {
+      "text": "the autonomic nervous system is",
+      "start": 1542.12,
+      "duration": 5.2
+    },
+    {
+      "text": "working and so this is an indicator of",
+      "start": 1544.32,
+      "duration": 4.52
+    },
+    {
+      "text": "how the autonomic nervous system is",
+      "start": 1547.32,
+      "duration": 4.28
+    },
+    {
+      "text": "working so you can get a wrist blood",
+      "start": 1548.84,
+      "duration": 5.28
+    },
+    {
+      "text": "pressure cuff the very inexpensive you",
+      "start": 1551.6,
+      "duration": 4.04
+    },
+    {
+      "text": "can get a wrist blood pressure cuff an",
+      "start": 1554.12,
+      "duration": 4.4
+    },
+    {
+      "text": "automated one or one for your upper arm",
+      "start": 1555.64,
+      "duration": 6.12
+    },
+    {
+      "text": "area and you can do a test on yourself",
+      "start": 1558.52,
+      "duration": 6.56
+    },
+    {
+      "text": "you can do it in one of two ways you can",
+      "start": 1561.76,
+      "duration": 6.12
+    },
+    {
+      "text": "lay down with that RIS blood pressure",
+      "start": 1565.08,
+      "duration": 6.12
+    },
+    {
+      "text": "cuff and lay there for three minutes and",
+      "start": 1567.88,
+      "duration": 5.279
+    },
+    {
+      "text": "then take your blood pressure and heart",
+      "start": 1571.2,
+      "duration": 4.479
+    },
+    {
+      "text": "rate you got to look at the two so you",
+      "start": 1573.159,
+      "duration": 4.961
+    },
+    {
+      "text": "think about those two as kind of what we",
+      "start": 1575.679,
+      "duration": 5.48
+    },
+    {
+      "text": "would call a seesaw or a teeter totter",
+      "start": 1578.12,
+      "duration": 4.159
+    },
+    {
+      "text": "the heart",
+      "start": 1581.159,
+      "duration": 4.321
+    },
+    {
+      "text": "rate affects the blood pressure so when",
+      "start": 1582.279,
+      "duration": 5.28
+    },
+    {
+      "text": "the blood pressure drops the body says",
+      "start": 1585.48,
+      "duration": 4.199
+    },
+    {
+      "text": "uhoh through neurologic mechanisms of",
+      "start": 1587.559,
+      "duration": 3.801
+    },
+    {
+      "text": "the autonomic system heart blood",
+      "start": 1589.679,
+      "duration": 3.401
+    },
+    {
+      "text": "pressure drops heart rate's going to go",
+      "start": 1591.36,
+      "duration": 3.24
+    },
+    {
+      "text": "up and then that brings the blood",
+      "start": 1593.08,
+      "duration": 2.959
+    },
+    {
+      "text": "pressure up and it keeps the blood in",
+      "start": 1594.6,
+      "duration": 4.079
+    },
+    {
+      "text": "your head perfect but that doesn't",
+      "start": 1596.039,
+      "duration": 4.52
+    },
+    {
+      "text": "always happen with when the brain stem",
+      "start": 1598.679,
+      "duration": 4.48
+    },
+    {
+      "text": "is affected the blood pressure may drop",
+      "start": 1600.559,
+      "duration": 4.12
+    },
+    {
+      "text": "someone feels very dizzy the heart rate",
+      "start": 1603.159,
+      "duration": 3.841
+    },
+    {
+      "text": "goes up very high and it's racing and",
+      "start": 1604.679,
+      "duration": 3.921
+    },
+    {
+      "text": "they stay like oh I don't feel good and",
+      "start": 1607.0,
+      "duration": 4.32
+    },
+    {
+      "text": "it may take five seven minutes to change",
+      "start": 1608.6,
+      "duration": 4.4
+    },
+    {
+      "text": "that's too long right because you could",
+      "start": 1611.32,
+      "duration": 4.16
+    },
+    {
+      "text": "pass out in that time and then other",
+      "start": 1613.0,
+      "duration": 4.52
+    },
+    {
+      "text": "times it's in the inverse the blood",
+      "start": 1615.48,
+      "duration": 4.0
+    },
+    {
+      "text": "pressure is really high High and the the",
+      "start": 1617.52,
+      "duration": 3.039
+    },
+    {
+      "text": "heart rate's",
+      "start": 1619.48,
+      "duration": 3.799
+    },
+    {
+      "text": "low and it should come down as the heart",
+      "start": 1620.559,
+      "duration": 5.48
+    },
+    {
+      "text": "rate comes up so it's got this Push Pull",
+      "start": 1623.279,
+      "duration": 4.601
+    },
+    {
+      "text": "kind of system that's not completely",
+      "start": 1626.039,
+      "duration": 3.64
+    },
+    {
+      "text": "accurate doctors if you're listening but",
+      "start": 1627.88,
+      "duration": 4.08
+    },
+    {
+      "text": "it's helping people and so it's working",
+      "start": 1629.679,
+      "duration": 5.801
+    },
+    {
+      "text": "like that like a seesaw so we lay down",
+      "start": 1631.96,
+      "duration": 6.199
+    },
+    {
+      "text": "three minutes very calm not talking not",
+      "start": 1635.48,
+      "duration": 5.12
+    },
+    {
+      "text": "on my phone scrolling and we then we",
+      "start": 1638.159,
+      "duration": 3.4
+    },
+    {
+      "text": "check our",
+      "start": 1640.6,
+      "duration": 2.959
+    },
+    {
+      "text": "pressure and many of those little",
+      "start": 1641.559,
+      "duration": 4.36
+    },
+    {
+      "text": "devices are very inexpensive for blood",
+      "start": 1643.559,
+      "duration": 3.84
+    },
+    {
+      "text": "pressure and heart rate and you can even",
+      "start": 1645.919,
+      "duration": 5.0
+    },
+    {
+      "text": "save it okay save and then you start it",
+      "start": 1647.399,
+      "duration": 5.721
+    },
+    {
+      "text": "again and you sit up really quickly",
+      "start": 1650.919,
+      "duration": 3.76
+    },
+    {
+      "text": "while it's it's going and you hold your",
+      "start": 1653.12,
+      "duration": 3.279
+    },
+    {
+      "text": "hand in front of you perhaps it'll give",
+      "start": 1654.679,
+      "duration": 3.561
+    },
+    {
+      "text": "you instructions and you take it again",
+      "start": 1656.399,
+      "duration": 3.681
+    },
+    {
+      "text": "when you're sitting or if you're in",
+      "start": 1658.24,
+      "duration": 3.72
+    },
+    {
+      "text": "relatively good shape you stand up maybe",
+      "start": 1660.08,
+      "duration": 3.319
+    },
+    {
+      "text": "near a wall so in case you feel like",
+      "start": 1661.96,
+      "duration": 3.52
+    },
+    {
+      "text": "you're going to tip over and you take it",
+      "start": 1663.399,
+      "duration": 4.76
+    },
+    {
+      "text": "in the process of getting up and then",
+      "start": 1665.48,
+      "duration": 5.319
+    },
+    {
+      "text": "you check to see the differences there",
+      "start": 1668.159,
+      "duration": 6.201
+    },
+    {
+      "text": "so in the ly down position or a person",
+      "start": 1670.799,
+      "duration": 5.201
+    },
+    {
+      "text": "could do it seated they could sit for",
+      "start": 1674.36,
+      "duration": 3.52
+    },
+    {
+      "text": "three minutes and do it and they could",
+      "start": 1676.0,
+      "duration": 3.6
+    },
+    {
+      "text": "St stand up rapidly and do it in that",
+      "start": 1677.88,
+      "duration": 3.88
+    },
+    {
+      "text": "moment so you got a either a lay lying",
+      "start": 1679.6,
+      "duration": 5.28
+    },
+    {
+      "text": "down to sitting up or standing or a",
+      "start": 1681.76,
+      "duration": 7.32
+    },
+    {
+      "text": "sitting up to standing either or so the",
+      "start": 1684.88,
+      "duration": 6.32
+    },
+    {
+      "text": "difference in that reading between",
+      "start": 1689.08,
+      "duration": 4.28
+    },
+    {
+      "text": "laying down and standing up rapidly",
+      "start": 1691.2,
+      "duration": 5.359
+    },
+    {
+      "text": "gives you an a proxy a good marker an",
+      "start": 1693.36,
+      "duration": 7.159
+    },
+    {
+      "text": "indication of how is my autonomic system",
+      "start": 1696.559,
+      "duration": 7.6
+    },
+    {
+      "text": "responding based on a change of position",
+      "start": 1700.519,
+      "duration": 5.64
+    },
+    {
+      "text": "and that's very integrated between the",
+      "start": 1704.159,
+      "duration": 5.12
+    },
+    {
+      "text": "heart the brain stem and blood flow so",
+      "start": 1706.159,
+      "duration": 4.801
+    },
+    {
+      "text": "there's mechanisms involved with that we",
+      "start": 1709.279,
+      "duration": 3.76
+    },
+    {
+      "text": "don't need to get too deep into that but",
+      "start": 1710.96,
+      "duration": 4.64
+    },
+    {
+      "text": "let's say someone is laying down their",
+      "start": 1713.039,
+      "duration": 5.36
+    },
+    {
+      "text": "heart rate when they get up jumps up 20",
+      "start": 1715.6,
+      "duration": 5.959
+    },
+    {
+      "text": "or 30 or 40",
+      "start": 1718.399,
+      "duration": 6.12
+    },
+    {
+      "text": "beats that is a good indicator that your",
+      "start": 1721.559,
+      "duration": 4.801
+    },
+    {
+      "text": "autonomic system is not regulating so",
+      "start": 1724.519,
+      "duration": 4.441
+    },
+    {
+      "text": "when you change position your heart rate",
+      "start": 1726.36,
+      "duration": 4.039
+    },
+    {
+      "text": "when I'm laying down my heart rate may",
+      "start": 1728.96,
+      "duration": 4.439
+    },
+    {
+      "text": "be 62 or 60 when I get up it should",
+      "start": 1730.399,
+      "duration": 5.481
+    },
+    {
+      "text": "maybe go up to like 68 or",
+      "start": 1733.399,
+      "duration": 5.76
+    },
+    {
+      "text": "70 so it shouldn't go from from 62 when",
+      "start": 1735.88,
+      "duration": 7.44
+    },
+    {
+      "text": "I'm laying down or 60 to 100 that's way",
+      "start": 1739.159,
+      "duration": 6.481
+    },
+    {
+      "text": "too much of a jump so it's not able to",
+      "start": 1743.32,
+      "duration": 5.44
+    },
+    {
+      "text": "adapt in a small physiologic range and",
+      "start": 1745.64,
+      "duration": 6.44
+    },
+    {
+      "text": "that's an indicator of an autonomic",
+      "start": 1748.76,
+      "duration": 5.96
+    },
+    {
+      "text": "system that's not regulated now the",
+      "start": 1752.08,
+      "duration": 4.36
+    },
+    {
+      "text": "blood pressure may",
+      "start": 1754.72,
+      "duration": 5.559
+    },
+    {
+      "text": "drop so anything that's a big change",
+      "start": 1756.44,
+      "duration": 5.44
+    },
+    {
+      "text": "meaning especially the heart rate that's",
+      "start": 1760.279,
+      "duration": 3.24
+    },
+    {
+      "text": "kind of a really good one because easy",
+      "start": 1761.88,
+      "duration": 5.919
+    },
+    {
+      "text": "to see blood pressure may be 110 over 70",
+      "start": 1763.519,
+      "duration": 6.841
+    },
+    {
+      "text": "length down and I get up and it's 118",
+      "start": 1767.799,
+      "duration": 5.48
+    },
+    {
+      "text": "over 74 but the heart rate still shot up",
+      "start": 1770.36,
+      "duration": 4.84
+    },
+    {
+      "text": "really high and then it came back down",
+      "start": 1773.279,
+      "duration": 3.361
+    },
+    {
+      "text": "so that's a good indicator and you may",
+      "start": 1775.2,
+      "duration": 3.04
+    },
+    {
+      "text": "not feel well the person may say oh I",
+      "start": 1776.64,
+      "duration": 3.96
+    },
+    {
+      "text": "feel lousy I feel my heart is racing I",
+      "start": 1778.24,
+      "duration": 4.64
+    },
+    {
+      "text": "feel a little panicky I feel a little",
+      "start": 1780.6,
+      "duration": 5.84
+    },
+    {
+      "text": "lightheaded so the medical definition",
+      "start": 1782.88,
+      "duration": 6.279
+    },
+    {
+      "text": "says You must change by 30 beats per",
+      "start": 1786.44,
+      "duration": 4.8
+    },
+    {
+      "text": "minute and then you're diagnosed with",
+      "start": 1789.159,
+      "duration": 4.36
+    },
+    {
+      "text": "something called pops p o",
+      "start": 1791.24,
+      "duration": 5.439
+    },
+    {
+      "text": "TS which is a form of disautonomia",
+      "start": 1793.519,
+      "duration": 5.201
+    },
+    {
+      "text": "postural orthostatic meaning your",
+      "start": 1796.679,
+      "duration": 4.281
+    },
+    {
+      "text": "posture changed to upright position",
+      "start": 1798.72,
+      "duration": 4.199
+    },
+    {
+      "text": "tacky cardic your heart is racing",
+      "start": 1800.96,
+      "duration": 4.24
+    },
+    {
+      "text": "Syndrome again there's a diagram of all",
+      "start": 1802.919,
+      "duration": 3.88
+    },
+    {
+      "text": "this on my website on that page so you",
+      "start": 1805.2,
+      "duration": 4.04
+    },
+    {
+      "text": "can kind of look at that and get an idea",
+      "start": 1806.799,
+      "duration": 4.0
+    },
+    {
+      "text": "but this is a good indicator and how",
+      "start": 1809.24,
+      "duration": 3.76
+    },
+    {
+      "text": "does that sound that's great it's doable",
+      "start": 1810.799,
+      "duration": 4.201
+    },
+    {
+      "text": "right it's doable yeah and then people",
+      "start": 1813.0,
+      "duration": 4.399
+    },
+    {
+      "text": "say okay great I got it what do I",
+      "start": 1815.0,
+      "duration": 4.799
+    },
+    {
+      "text": "do well exactly that's the next question",
+      "start": 1817.399,
+      "duration": 4.16
+    },
+    {
+      "text": "isn't it you know you think right well I",
+      "start": 1819.799,
+      "duration": 3.76
+    },
+    {
+      "text": "I have dis lonomia I'm pretty sure about",
+      "start": 1821.559,
+      "duration": 5.521
+    },
+    {
+      "text": "that what do I do now okay so if I need",
+      "start": 1823.559,
+      "duration": 4.96
+    },
+    {
+      "text": "brain surgery",
+      "start": 1827.08,
+      "duration": 2.959
+    },
+    {
+      "text": "I'm not going to be able to hack that at",
+      "start": 1828.519,
+      "duration": 4.16
+    },
+    {
+      "text": "home so I'm being factious of course I'm",
+      "start": 1830.039,
+      "duration": 4.601
+    },
+    {
+      "text": "being silly and I'm talking about being",
+      "start": 1832.679,
+      "duration": 3.6
+    },
+    {
+      "text": "empathetic but I like to help patients",
+      "start": 1834.64,
+      "duration": 4.72
+    },
+    {
+      "text": "laugh too right so what can we do people",
+      "start": 1836.279,
+      "duration": 5.0
+    },
+    {
+      "text": "always want to know even doctors how do",
+      "start": 1839.36,
+      "duration": 3.36
+    },
+    {
+      "text": "I fix this in my office I okay you're",
+      "start": 1841.279,
+      "duration": 3.601
+    },
+    {
+      "text": "GNA need some training doctor okay",
+      "start": 1842.72,
+      "duration": 3.36
+    },
+    {
+      "text": "you're not GNA be able to fix this",
+      "start": 1844.88,
+      "duration": 3.44
+    },
+    {
+      "text": "because I tell you this ABC it's we're",
+      "start": 1846.08,
+      "duration": 5.8
+    },
+    {
+      "text": "looking at non cookbook",
+      "start": 1848.32,
+      "duration": 5.719
+    },
+    {
+      "text": "approaches I've heard it said this way",
+      "start": 1851.88,
+      "duration": 4.399
+    },
+    {
+      "text": "that medicine and its approach is very",
+      "start": 1854.039,
+      "duration": 4.48
+    },
+    {
+      "text": "linear a",
+      "start": 1856.279,
+      "duration": 5.561
+    },
+    {
+      "text": "One symptom One Drug one pill one thing",
+      "start": 1858.519,
+      "duration": 6.4
+    },
+    {
+      "text": "when you look at Neuroscience models for",
+      "start": 1861.84,
+      "duration": 6.88
+    },
+    {
+      "text": "brain function they are not linear at",
+      "start": 1864.919,
+      "duration": 7.041
+    },
+    {
+      "text": "all so you can have an area in the brain",
+      "start": 1868.72,
+      "duration": 6.88
+    },
+    {
+      "text": "that has 14 inputs and 37 outputs so",
+      "start": 1871.96,
+      "duration": 5.36
+    },
+    {
+      "text": "it's not like let me just pop this pill",
+      "start": 1875.6,
+      "duration": 4.319
+    },
+    {
+      "text": "in work on that one region you have to",
+      "start": 1877.32,
+      "duration": 5.959
+    },
+    {
+      "text": "be much more Mindful and consider all",
+      "start": 1879.919,
+      "duration": 6.561
+    },
+    {
+      "text": "the different um wiring strategies so",
+      "start": 1883.279,
+      "duration": 5.161
+    },
+    {
+      "text": "that may makes someone who hear this say",
+      "start": 1886.48,
+      "duration": 4.039
+    },
+    {
+      "text": "oh well it doesn't sound hopeful okay",
+      "start": 1888.44,
+      "duration": 3.599
+    },
+    {
+      "text": "I'm just giving you a thought that the",
+      "start": 1890.519,
+      "duration": 4.081
+    },
+    {
+      "text": "brain's the body's most complex organ so",
+      "start": 1892.039,
+      "duration": 4.081
+    },
+    {
+      "text": "don't think it's going to be simple and",
+      "start": 1894.6,
+      "duration": 3.679
+    },
+    {
+      "text": "you're going to do one or two things so",
+      "start": 1896.12,
+      "duration": 5.039
+    },
+    {
+      "text": "now I I step into my strong coaching hat",
+      "start": 1898.279,
+      "duration": 4.4
+    },
+    {
+      "text": "to encourage you and say okay we're",
+      "start": 1901.159,
+      "duration": 3.76
+    },
+    {
+      "text": "going to work on this but first we need",
+      "start": 1902.679,
+      "duration": 4.321
+    },
+    {
+      "text": "to find out where in your brain",
+      "start": 1904.919,
+      "duration": 4.401
+    },
+    {
+      "text": "stem what systems are effective in the",
+      "start": 1907.0,
+      "duration": 3.84
+    },
+    {
+      "text": "brain stem and we'll talk about that in",
+      "start": 1909.32,
+      "duration": 3.76
+    },
+    {
+      "text": "a moment and then what is the",
+      "start": 1910.84,
+      "duration": 4.24
+    },
+    {
+      "text": "rehabilitation strategy which I'll",
+      "start": 1913.08,
+      "duration": 4.599
+    },
+    {
+      "text": "explain to you a few of the ones I use",
+      "start": 1915.08,
+      "duration": 5.28
+    },
+    {
+      "text": "that may help the person within your",
+      "start": 1917.679,
+      "duration": 4.041
+    },
+    {
+      "text": "metabolic",
+      "start": 1920.36,
+      "duration": 4.08
+    },
+    {
+      "text": "capacity this is also not seen very much",
+      "start": 1921.72,
+      "duration": 5.4
+    },
+    {
+      "text": "right so we know when we're dealing with",
+      "start": 1924.44,
+      "duration": 5.839
+    },
+    {
+      "text": "long covid I can't do too much I can't",
+      "start": 1927.12,
+      "duration": 4.799
+    },
+    {
+      "text": "get up as early as I used to I can't",
+      "start": 1930.279,
+      "duration": 3.24
+    },
+    {
+      "text": "stay up as late as I used to I don't",
+      "start": 1931.919,
+      "duration": 4.521
+    },
+    {
+      "text": "have the capacity so we cannot push",
+      "start": 1933.519,
+      "duration": 4.561
+    },
+    {
+      "text": "people when we're rehabing their brain",
+      "start": 1936.44,
+      "duration": 4.479
+    },
+    {
+      "text": "stem we have to watch and monitor things",
+      "start": 1938.08,
+      "duration": 4.839
+    },
+    {
+      "text": "like their heart rate or their blood",
+      "start": 1940.919,
+      "duration": 3.921
+    },
+    {
+      "text": "pressure while we're taking care of them",
+      "start": 1942.919,
+      "duration": 4.081
+    },
+    {
+      "text": "because we may have this whole rehab",
+      "start": 1944.84,
+      "duration": 4.319
+    },
+    {
+      "text": "model set up that takes 45 minutes and",
+      "start": 1947.0,
+      "duration": 3.84
+    },
+    {
+      "text": "after seven minutes I say okay we have",
+      "start": 1949.159,
+      "duration": 4.201
+    },
+    {
+      "text": "to stop for 15 minutes so this is being",
+      "start": 1950.84,
+      "duration": 4.839
+    },
+    {
+      "text": "very mindful right slow medicine slow it",
+      "start": 1953.36,
+      "duration": 4.52
+    },
+    {
+      "text": "down this person can't take much 10",
+      "start": 1955.679,
+      "duration": 3.6
+    },
+    {
+      "text": "minutes they're back and ready to go",
+      "start": 1957.88,
+      "duration": 2.84
+    },
+    {
+      "text": "okay let's jump back",
+      "start": 1959.279,
+      "duration": 4.64
+    },
+    {
+      "text": "on medical models don't lend themselves",
+      "start": 1960.72,
+      "duration": 5.079
+    },
+    {
+      "text": "to that you're in with your therapist",
+      "start": 1963.919,
+      "duration": 3.401
+    },
+    {
+      "text": "maybe you're a physical therapist or",
+      "start": 1965.799,
+      "duration": 3.36
+    },
+    {
+      "text": "occupational therapist you have 45",
+      "start": 1967.32,
+      "duration": 3.44
+    },
+    {
+      "text": "minutes or an hour we have to get it all",
+      "start": 1969.159,
+      "duration": 4.12
+    },
+    {
+      "text": "done let's do it so we need to slow it",
+      "start": 1970.76,
+      "duration": 6.44
+    },
+    {
+      "text": "down coming back to that okay the brain",
+      "start": 1973.279,
+      "duration": 6.561
+    },
+    {
+      "text": "stem the brain stem is a area that",
+      "start": 1977.2,
+      "duration": 5.599
+    },
+    {
+      "text": "houses control for things like eye",
+      "start": 1979.84,
+      "duration": 5.6
+    },
+    {
+      "text": "movements so we might be able to use eye",
+      "start": 1982.799,
+      "duration": 5.401
+    },
+    {
+      "text": "movements which are relatively gentle",
+      "start": 1985.44,
+      "duration": 4.56
+    },
+    {
+      "text": "right it's not using the whole body to",
+      "start": 1988.2,
+      "duration": 3.52
+    },
+    {
+      "text": "rehabilitate the brain",
+      "start": 1990.0,
+      "duration": 4.12
+    },
+    {
+      "text": "stem eye movements eye movements that",
+      "start": 1991.72,
+      "duration": 4.6
+    },
+    {
+      "text": "are maybe horizontal ey movements that",
+      "start": 1994.12,
+      "duration": 5.2
+    },
+    {
+      "text": "are vertical ey movements that are fast",
+      "start": 1996.32,
+      "duration": 4.599
+    },
+    {
+      "text": "and ime movements that are slow so a",
+      "start": 1999.32,
+      "duration": 3.359
+    },
+    {
+      "text": "slow one would be like a Pursuit I'm",
+      "start": 2000.919,
+      "duration": 4.48
+    },
+    {
+      "text": "watching something slowly so we have to",
+      "start": 2002.679,
+      "duration": 4.24
+    },
+    {
+      "text": "understand which eye movements are",
+      "start": 2005.399,
+      "duration": 3.361
+    },
+    {
+      "text": "disrupted and that tells us about",
+      "start": 2006.919,
+      "duration": 3.76
+    },
+    {
+      "text": "certain areas in the brain stem and then",
+      "start": 2008.76,
+      "duration": 4.72
+    },
+    {
+      "text": "we work with those you see so we have to",
+      "start": 2010.679,
+      "duration": 5.761
+    },
+    {
+      "text": "understand eye movements number one some",
+      "start": 2013.48,
+      "duration": 4.0
+    },
+    {
+      "text": "people might have problems with",
+      "start": 2016.44,
+      "duration": 2.52
+    },
+    {
+      "text": "convergence like looking at something",
+      "start": 2017.48,
+      "duration": 3.4
+    },
+    {
+      "text": "they feel like o I'm dizzy my depth",
+      "start": 2018.96,
+      "duration": 4.559
+    },
+    {
+      "text": "perception's off I can't read so then",
+      "start": 2020.88,
+      "duration": 4.96
+    },
+    {
+      "text": "we'd have to work on retraining that so",
+      "start": 2023.519,
+      "duration": 4.921
+    },
+    {
+      "text": "vision therapy might be a help to",
+      "start": 2025.84,
+      "duration": 5.64
+    },
+    {
+      "text": "someone with long covid not only because",
+      "start": 2028.44,
+      "duration": 5.32
+    },
+    {
+      "text": "of their Vision because their Acuity",
+      "start": 2031.48,
+      "duration": 5.679
+    },
+    {
+      "text": "might be fine but their eye tracking so",
+      "start": 2033.76,
+      "duration": 5.279
+    },
+    {
+      "text": "wouldn't necessar be let me get my",
+      "start": 2037.159,
+      "duration": 4.281
+    },
+    {
+      "text": "better glasses it might be vision",
+      "start": 2039.039,
+      "duration": 4.88
+    },
+    {
+      "text": "therapy so that might be an",
+      "start": 2041.44,
+      "duration": 5.119
+    },
+    {
+      "text": "idea um then what else is in the brain",
+      "start": 2043.919,
+      "duration": 5.121
+    },
+    {
+      "text": "stem things that control heart rate",
+      "start": 2046.559,
+      "duration": 4.921
+    },
+    {
+      "text": "regulation and gut function and the",
+      "start": 2049.04,
+      "duration": 4.16
+    },
+    {
+      "text": "vagal nerve complex I mentioned that",
+      "start": 2051.48,
+      "duration": 5.08
+    },
+    {
+      "text": "earlier so some type of vagal activation",
+      "start": 2053.2,
+      "duration": 5.199
+    },
+    {
+      "text": "or stimulation especially if someone has",
+      "start": 2056.56,
+      "duration": 4.359
+    },
+    {
+      "text": "a heart rate that goes up real high if",
+      "start": 2058.399,
+      "duration": 4.28
+    },
+    {
+      "text": "someone has very low blood pressure see",
+      "start": 2060.919,
+      "duration": 4.881
+    },
+    {
+      "text": "we might not want to use vagal",
+      "start": 2062.679,
+      "duration": 5.561
+    },
+    {
+      "text": "stimulation so it has to be discerned by",
+      "start": 2065.8,
+      "duration": 5.279
+    },
+    {
+      "text": "the proper person to help you use the",
+      "start": 2068.24,
+      "duration": 3.76
+    },
+    {
+      "text": "proper",
+      "start": 2071.079,
+      "duration": 3.401
+    },
+    {
+      "text": "therapy so what kind of vagal",
+      "start": 2072.0,
+      "duration": 5.159
+    },
+    {
+      "text": "stimulation could someone do at home",
+      "start": 2074.48,
+      "duration": 4.199
+    },
+    {
+      "text": "they could",
+      "start": 2077.159,
+      "duration": 5.121
+    },
+    {
+      "text": "gargle but strong gargling so I did it",
+      "start": 2078.679,
+      "duration": 5.561
+    },
+    {
+      "text": "this morning I do it anyway because it's",
+      "start": 2082.28,
+      "duration": 5.24
+    },
+    {
+      "text": "good for your brain stem in the shower",
+      "start": 2084.24,
+      "duration": 5.839
+    },
+    {
+      "text": "if you have ju not too much pressure um",
+      "start": 2087.52,
+      "duration": 3.92
+    },
+    {
+      "text": "you let it hit you in the back of the",
+      "start": 2090.079,
+      "duration": 2.921
+    },
+    {
+      "text": "throat so your head is slightly up and",
+      "start": 2091.44,
+      "duration": 2.8
+    },
+    {
+      "text": "the water is hitting you a little bit in",
+      "start": 2093.0,
+      "duration": 2.52
+    },
+    {
+      "text": "the back of the throat and you're",
+      "start": 2094.24,
+      "duration": 4.28
+    },
+    {
+      "text": "gargling it out very strongly",
+      "start": 2095.52,
+      "duration": 5.28
+    },
+    {
+      "text": "that's a strong stimulus to the of",
+      "start": 2098.52,
+      "duration": 4.28
+    },
+    {
+      "text": "course to the throat which is cranial",
+      "start": 2100.8,
+      "duration": 5.76
+    },
+    {
+      "text": "nerve control from the brain stem also",
+      "start": 2102.8,
+      "duration": 5.36
+    },
+    {
+      "text": "singing",
+      "start": 2106.56,
+      "duration": 5.08
+    },
+    {
+      "text": "phonating so strong gargling strong",
+      "start": 2108.16,
+      "duration": 6.0
+    },
+    {
+      "text": "singing I recommend praising praising",
+      "start": 2111.64,
+      "duration": 5.28
+    },
+    {
+      "text": "would be a best way of singing Because",
+      "start": 2114.16,
+      "duration": 4.12
+    },
+    {
+      "text": "you know a lot of times in this",
+      "start": 2116.92,
+      "duration": 4.32
+    },
+    {
+      "text": "suffering people consider their faith",
+      "start": 2118.28,
+      "duration": 6.04
+    },
+    {
+      "text": "again and I hope they would and the",
+      "start": 2121.24,
+      "duration": 5.8
+    },
+    {
+      "text": "level of your growth in that Faith very",
+      "start": 2124.32,
+      "duration": 4.64
+    },
+    {
+      "text": "important very important because my body",
+      "start": 2127.04,
+      "duration": 4.68
+    },
+    {
+      "text": "is going to fail eventually um other",
+      "start": 2128.96,
+      "duration": 5.08
+    },
+    {
+      "text": "things in my soul might really be broken",
+      "start": 2131.72,
+      "duration": 5.359
+    },
+    {
+      "text": "and beat up but you have a spirit and so",
+      "start": 2134.04,
+      "duration": 5.079
+    },
+    {
+      "text": "I encourage people to exercise their",
+      "start": 2137.079,
+      "duration": 5.321
+    },
+    {
+      "text": "Spirit back to brain stem eye movements",
+      "start": 2139.119,
+      "duration": 6.601
+    },
+    {
+      "text": "gargling singing what else is in that",
+      "start": 2142.4,
+      "duration": 5.64
+    },
+    {
+      "text": "brain stem areas that control the",
+      "start": 2145.72,
+      "duration": 4.44
+    },
+    {
+      "text": "movement of your limbs your arms and",
+      "start": 2148.04,
+      "duration": 4.52
+    },
+    {
+      "text": "legs there's a movement now this is",
+      "start": 2150.16,
+      "duration": 4.56
+    },
+    {
+      "text": "based on fact that somebody can do some",
+      "start": 2152.56,
+      "duration": 4.799
+    },
+    {
+      "text": "movements arm and leg movements that are",
+      "start": 2154.72,
+      "duration": 4.359
+    },
+    {
+      "text": "called called cross crawl activities",
+      "start": 2157.359,
+      "duration": 3.201
+    },
+    {
+      "text": "where you're bringing the knee up to the",
+      "start": 2159.079,
+      "duration": 3.361
+    },
+    {
+      "text": "opposite hand almost like you were a",
+      "start": 2160.56,
+      "duration": 4.36
+    },
+    {
+      "text": "child and you were crawling on the floor",
+      "start": 2162.44,
+      "duration": 4.32
+    },
+    {
+      "text": "it can be done on your bed on your back",
+      "start": 2164.92,
+      "duration": 4.0
+    },
+    {
+      "text": "especially if you have a disautonomia",
+      "start": 2166.76,
+      "duration": 4.44
+    },
+    {
+      "text": "and you don't feel well standing up so",
+      "start": 2168.92,
+      "duration": 3.8
+    },
+    {
+      "text": "movements like that affect the lower",
+      "start": 2171.2,
+      "duration": 3.8
+    },
+    {
+      "text": "brain stem and that's the area that",
+      "start": 2172.72,
+      "duration": 7.24
+    },
+    {
+      "text": "controls heart gut those functions so",
+      "start": 2175.0,
+      "duration": 8.079
+    },
+    {
+      "text": "upper brain stem the very top of it is a",
+      "start": 2179.96,
+      "duration": 5.84
+    },
+    {
+      "text": "little bit more difficult to to get to",
+      "start": 2183.079,
+      "duration": 4.681
+    },
+    {
+      "text": "but that's the area at the top that",
+      "start": 2185.8,
+      "duration": 4.319
+    },
+    {
+      "text": "controls our fight ORF flight mechanism",
+      "start": 2187.76,
+      "duration": 5.88
+    },
+    {
+      "text": "our survival mode so many times we don't",
+      "start": 2190.119,
+      "duration": 5.441
+    },
+    {
+      "text": "want to activate that very much because",
+      "start": 2193.64,
+      "duration": 4.64
+    },
+    {
+      "text": "we're already in that high sympathetic",
+      "start": 2195.56,
+      "duration": 4.36
+    },
+    {
+      "text": "mode some people will know that high",
+      "start": 2198.28,
+      "duration": 4.24
+    },
+    {
+      "text": "sympathetic output and we want to we",
+      "start": 2199.92,
+      "duration": 4.28
+    },
+    {
+      "text": "want to lower the thresh we want to",
+      "start": 2202.52,
+      "duration": 3.24
+    },
+    {
+      "text": "settle the body",
+      "start": 2204.2,
+      "duration": 6.919
+    },
+    {
+      "text": "down so gargling singing eye movements",
+      "start": 2205.76,
+      "duration": 7.72
+    },
+    {
+      "text": "body movements I would recommend that",
+      "start": 2211.119,
+      "duration": 3.801
+    },
+    {
+      "text": "people look at something called",
+      "start": 2213.48,
+      "duration": 5.08
+    },
+    {
+      "text": "primitive reflexes primitive reflexes",
+      "start": 2214.92,
+      "duration": 6.76
+    },
+    {
+      "text": "Google that or primary reflexes or",
+      "start": 2218.56,
+      "duration": 6.48
+    },
+    {
+      "text": "infant reflexes these are reflexes that",
+      "start": 2221.68,
+      "duration": 4.56
+    },
+    {
+      "text": "babies",
+      "start": 2225.04,
+      "duration": 4.36
+    },
+    {
+      "text": "have newborns up to about a year a year",
+      "start": 2226.24,
+      "duration": 6.0
+    },
+    {
+      "text": "and a half two years these are reflexes",
+      "start": 2229.4,
+      "duration": 5.24
+    },
+    {
+      "text": "that we do not have any longer as adults",
+      "start": 2232.24,
+      "duration": 4.2
+    },
+    {
+      "text": "but when the brain has",
+      "start": 2234.64,
+      "duration": 4.6
+    },
+    {
+      "text": "injury or when the brain is affected by",
+      "start": 2236.44,
+      "duration": 5.399
+    },
+    {
+      "text": "long covid the brain stem and the Brain",
+      "start": 2239.24,
+      "duration": 5.44
+    },
+    {
+      "text": "some of these reflexes May reemerge",
+      "start": 2241.839,
+      "duration": 5.121
+    },
+    {
+      "text": "which means our neurologic integrity has",
+      "start": 2244.68,
+      "duration": 4.56
+    },
+    {
+      "text": "become",
+      "start": 2246.96,
+      "duration": 4.84
+    },
+    {
+      "text": "disintegrate that's not a word but has",
+      "start": 2249.24,
+      "duration": 4.96
+    },
+    {
+      "text": "lost its stability and what are some of",
+      "start": 2251.8,
+      "duration": 4.36
+    },
+    {
+      "text": "those reflexes well the simplest ones",
+      "start": 2254.2,
+      "duration": 3.08
+    },
+    {
+      "text": "that most people are familiar with have",
+      "start": 2256.16,
+      "duration": 3.28
+    },
+    {
+      "text": "you ever seen a baby you have a toddle",
+      "start": 2257.28,
+      "duration": 3.64
+    },
+    {
+      "text": "or a baby and you put your finger in",
+      "start": 2259.44,
+      "duration": 3.28
+    },
+    {
+      "text": "their hand a newborn they'll grab onto",
+      "start": 2260.92,
+      "duration": 5.08
+    },
+    {
+      "text": "your finger that's called a palar grasp",
+      "start": 2262.72,
+      "duration": 5.56
+    },
+    {
+      "text": "reflex so that one doesn't really come",
+      "start": 2266.0,
+      "duration": 3.64
+    },
+    {
+      "text": "back with so many people with brain",
+      "start": 2268.28,
+      "duration": 3.559
+    },
+    {
+      "text": "issues but some of the other ones do and",
+      "start": 2269.64,
+      "duration": 4.84
+    },
+    {
+      "text": "I would recommend looking them up like",
+      "start": 2271.839,
+      "duration": 4.201
+    },
+    {
+      "text": "there's one that's probably the most",
+      "start": 2274.48,
+      "duration": 3.839
+    },
+    {
+      "text": "critical called the moro",
+      "start": 2276.04,
+      "duration": 6.279
+    },
+    {
+      "text": "M or also known as the startle reflex so",
+      "start": 2278.319,
+      "duration": 6.601
+    },
+    {
+      "text": "when I ask people in my consultation do",
+      "start": 2282.319,
+      "duration": 5.601
+    },
+    {
+      "text": "you startle easily some people will say",
+      "start": 2284.92,
+      "duration": 5.12
+    },
+    {
+      "text": "oh my word I've always been like that or",
+      "start": 2287.92,
+      "duration": 5.159
+    },
+    {
+      "text": "it's even worse now they may have a Moro",
+      "start": 2290.04,
+      "duration": 5.36
+    },
+    {
+      "text": "reflex and that means that upper brain",
+      "start": 2293.079,
+      "duration": 5.04
+    },
+    {
+      "text": "stem was already think about this the",
+      "start": 2295.4,
+      "duration": 4.52
+    },
+    {
+      "text": "brain stem could already have been",
+      "start": 2298.119,
+      "duration": 4.561
+    },
+    {
+      "text": "weakened or not well integrated way",
+      "start": 2299.92,
+      "duration": 4.12
+    },
+    {
+      "text": "before you got",
+      "start": 2302.68,
+      "duration": 4.84
+    },
+    {
+      "text": "Co because a lot of people have br",
+      "start": 2304.04,
+      "duration": 5.6
+    },
+    {
+      "text": "brought to the I hate to use this word",
+      "start": 2307.52,
+      "duration": 4.4
+    },
+    {
+      "text": "but party have brought to the party of",
+      "start": 2309.64,
+      "duration": 4.0
+    },
+    {
+      "text": "covid this terrible",
+      "start": 2311.92,
+      "duration": 4.36
+    },
+    {
+      "text": "party pre-existing issues in their",
+      "start": 2313.64,
+      "duration": 4.84
+    },
+    {
+      "text": "nervous system they've had a concussion",
+      "start": 2316.28,
+      "duration": 3.52
+    },
+    {
+      "text": "they banged their head really hard but",
+      "start": 2318.48,
+      "duration": 2.76
+    },
+    {
+      "text": "they never got diagnosed they've played",
+      "start": 2319.8,
+      "duration": 3.799
+    },
+    {
+      "text": "different sports head impacts they have",
+      "start": 2321.24,
+      "duration": 5.079
+    },
+    {
+      "text": "ADHD they have anxiety already they were",
+      "start": 2323.599,
+      "duration": 4.681
+    },
+    {
+      "text": "dealing with a little bit of depression",
+      "start": 2326.319,
+      "duration": 3.961
+    },
+    {
+      "text": "they were dealing with a bit of OCD",
+      "start": 2328.28,
+      "duration": 5.48
+    },
+    {
+      "text": "prior to being infected which tells me",
+      "start": 2330.28,
+      "duration": 5.52
+    },
+    {
+      "text": "their brain may not have been as",
+      "start": 2333.76,
+      "duration": 4.839
+    },
+    {
+      "text": "regulated in the way it's working as it",
+      "start": 2335.8,
+      "duration": 4.92
+    },
+    {
+      "text": "could have been and so you bring that",
+      "start": 2338.599,
+      "duration": 3.76
+    },
+    {
+      "text": "then you give a strong infection on top",
+      "start": 2340.72,
+      "duration": 5.84
+    },
+    {
+      "text": "of that and all things go hey wire so it",
+      "start": 2342.359,
+      "duration": 7.521
+    },
+    {
+      "text": "may be what was going on prior to which",
+      "start": 2346.56,
+      "duration": 5.0
+    },
+    {
+      "text": "you adapted really well you were doing",
+      "start": 2349.88,
+      "duration": 3.719
+    },
+    {
+      "text": "fine so to speak on top of that but yet",
+      "start": 2351.56,
+      "duration": 4.279
+    },
+    {
+      "text": "you still had a little OCD you still had",
+      "start": 2353.599,
+      "duration": 4.0
+    },
+    {
+      "text": "a little anxiety you still had a little",
+      "start": 2355.839,
+      "duration": 3.801
+    },
+    {
+      "text": "depression and then the world blew up so",
+      "start": 2357.599,
+      "duration": 4.801
+    },
+    {
+      "text": "to speak and you got sick so these",
+      "start": 2359.64,
+      "duration": 4.64
+    },
+    {
+      "text": "things were not good combinations for a",
+      "start": 2362.4,
+      "duration": 4.6
+    },
+    {
+      "text": "lot of people but we find this a lot",
+      "start": 2364.28,
+      "duration": 4.48
+    },
+    {
+      "text": "long covid oh but I had a concussion",
+      "start": 2367.0,
+      "duration": 4.56
+    },
+    {
+      "text": "when I was in Primary School long covid",
+      "start": 2368.76,
+      "duration": 4.2
+    },
+    {
+      "text": "oh yeah I have",
+      "start": 2371.56,
+      "duration": 4.68
+    },
+    {
+      "text": "diabetes long Co oh yeah I have OCD I",
+      "start": 2372.96,
+      "duration": 5.0
+    },
+    {
+      "text": "had that so these things are not good",
+      "start": 2376.24,
+      "duration": 4.2
+    },
+    {
+      "text": "combinations for the brain to be stable",
+      "start": 2377.96,
+      "duration": 4.84
+    },
+    {
+      "text": "prior to that and that complicated their",
+      "start": 2380.44,
+      "duration": 5.6
+    },
+    {
+      "text": "recovery even more yeah so it could be",
+      "start": 2382.8,
+      "duration": 5.4
+    },
+    {
+      "text": "it could be a sort of a combination of a",
+      "start": 2386.04,
+      "duration": 5.12
+    },
+    {
+      "text": "perfect storm almost isn't it good word",
+      "start": 2388.2,
+      "duration": 4.72
+    },
+    {
+      "text": "yeah yeah I don't think I can take",
+      "start": 2391.16,
+      "duration": 3.28
+    },
+    {
+      "text": "credit for it myself I think it was",
+      "start": 2392.92,
+      "duration": 3.32
+    },
+    {
+      "text": "someone else that said that yeah and",
+      "start": 2394.44,
+      "duration": 3.28
+    },
+    {
+      "text": "that's that's what we find a lot lot of",
+      "start": 2396.24,
+      "duration": 4.32
+    },
+    {
+      "text": "times we are pretty good at adapting to",
+      "start": 2397.72,
+      "duration": 5.48
+    },
+    {
+      "text": "things and compensating the word is",
+      "start": 2400.56,
+      "duration": 4.6
+    },
+    {
+      "text": "compensating we've had different things",
+      "start": 2403.2,
+      "duration": 3.76
+    },
+    {
+      "text": "go on and we're compensated and no one",
+      "start": 2405.16,
+      "duration": 3.679
+    },
+    {
+      "text": "likes to admit any weakness I certainly",
+      "start": 2406.96,
+      "duration": 4.44
+    },
+    {
+      "text": "don't I'd be the leader of that tribe no",
+      "start": 2408.839,
+      "duration": 4.52
+    },
+    {
+      "text": "no no everything's fine no no no no I'm",
+      "start": 2411.4,
+      "duration": 4.6
+    },
+    {
+      "text": "good I just have this one thing but it's",
+      "start": 2413.359,
+      "duration": 4.081
+    },
+    {
+      "text": "so frequent that I have people with",
+      "start": 2416.0,
+      "duration": 2.76
+    },
+    {
+      "text": "dizziness and",
+      "start": 2417.44,
+      "duration": 3.639
+    },
+    {
+      "text": "vertigo and they will say no no no I",
+      "start": 2418.76,
+      "duration": 3.48
+    },
+    {
+      "text": "only have anxiety because of the",
+      "start": 2421.079,
+      "duration": 2.841
+    },
+    {
+      "text": "diziness and vertigo but when I dig down",
+      "start": 2422.24,
+      "duration": 4.68
+    },
+    {
+      "text": "into their history or I consult with",
+      "start": 2423.92,
+      "duration": 6.28
+    },
+    {
+      "text": "their SP spouse or with their parent oh",
+      "start": 2426.92,
+      "duration": 4.84
+    },
+    {
+      "text": "no I've seen that kind of behavior",
+      "start": 2430.2,
+      "duration": 5.399
+    },
+    {
+      "text": "before but not as strong so things may",
+      "start": 2431.76,
+      "duration": 5.64
+    },
+    {
+      "text": "be pre-existing on some level we're able",
+      "start": 2435.599,
+      "duration": 3.041
+    },
+    {
+      "text": "to adapt but we want to look at",
+      "start": 2437.4,
+      "duration": 2.56
+    },
+    {
+      "text": "primitive reflexes I definitely",
+      "start": 2438.64,
+      "duration": 3.28
+    },
+    {
+      "text": "encourage people one of the Premier",
+      "start": 2439.96,
+      "duration": 3.399
+    },
+    {
+      "text": "people in the",
+      "start": 2441.92,
+      "duration": 3.52
+    },
+    {
+      "text": "world with understanding primitive",
+      "start": 2443.359,
+      "duration": 4.48
+    },
+    {
+      "text": "reflexes and how how they work and how",
+      "start": 2445.44,
+      "duration": 3.72
+    },
+    {
+      "text": "primitive reflexes are your how your",
+      "start": 2447.839,
+      "duration": 2.841
+    },
+    {
+      "text": "nervous system integrates when you're a",
+      "start": 2449.16,
+      "duration": 6.08
+    },
+    {
+      "text": "baby into maturity uh she's in the UK so",
+      "start": 2450.68,
+      "duration": 7.919
+    },
+    {
+      "text": "she's fabulous person so they can Google",
+      "start": 2455.24,
+      "duration": 5.52
+    },
+    {
+      "text": "that and read a little bit about that",
+      "start": 2458.599,
+      "duration": 3.801
+    },
+    {
+      "text": "and so I'm giving you ideas right I'm",
+      "start": 2460.76,
+      "duration": 4.319
+    },
+    {
+      "text": "just opening Windows so to speak like",
+      "start": 2462.4,
+      "duration": 5.08
+    },
+    {
+      "text": "think about this think about that think",
+      "start": 2465.079,
+      "duration": 4.081
+    },
+    {
+      "text": "about this is what I do with Physicians",
+      "start": 2467.48,
+      "duration": 4.8
+    },
+    {
+      "text": "as I teach around the US is think about",
+      "start": 2469.16,
+      "duration": 5.28
+    },
+    {
+      "text": "it I'm not giving you the solution",
+      "start": 2472.28,
+      "duration": 4.039
+    },
+    {
+      "text": "because one of my mentors says I don't",
+      "start": 2474.44,
+      "duration": 5.32
+    },
+    {
+      "text": "give Solutions I give thought processes",
+      "start": 2476.319,
+      "duration": 5.641
+    },
+    {
+      "text": "you need to think doctors you need to",
+      "start": 2479.76,
+      "duration": 4.04
+    },
+    {
+      "text": "think and not rely on everything else",
+      "start": 2481.96,
+      "duration": 5.04
+    },
+    {
+      "text": "you saw experience is very valuable but",
+      "start": 2483.8,
+      "duration": 6.16
+    },
+    {
+      "text": "it's it's not like becomes the cookbook",
+      "start": 2487.0,
+      "duration": 4.52
+    },
+    {
+      "text": "we want to make sure that we're thinking",
+      "start": 2489.96,
+      "duration": 3.2
+    },
+    {
+      "text": "through what's in front of us who's in",
+      "start": 2491.52,
+      "duration": 3.599
+    },
+    {
+      "text": "front of us what are they dealing with",
+      "start": 2493.16,
+      "duration": 4.48
+    },
+    {
+      "text": "what was their pre-existing condition",
+      "start": 2495.119,
+      "duration": 4.881
+    },
+    {
+      "text": "getting your empathy out front and",
+      "start": 2497.64,
+      "duration": 3.88
+    },
+    {
+      "text": "really let's make let's work through",
+      "start": 2500.0,
+      "duration": 4.319
+    },
+    {
+      "text": "this so I sound now like I'm the most",
+      "start": 2501.52,
+      "duration": 4.839
+    },
+    {
+      "text": "empathetic physician in the world I am",
+      "start": 2504.319,
+      "duration": 4.8
+    },
+    {
+      "text": "not I'm working on okay I'm working on",
+      "start": 2506.359,
+      "duration": 6.041
+    },
+    {
+      "text": "it oh amazing so what are your thoughts",
+      "start": 2509.119,
+      "duration": 5.761
+    },
+    {
+      "text": "on vegus nerve stimulators cuz I think",
+      "start": 2512.4,
+      "duration": 4.199
+    },
+    {
+      "text": "you mentioned them earlier and you said",
+      "start": 2514.88,
+      "duration": 3.92
+    },
+    {
+      "text": "that they can be good but they might not",
+      "start": 2516.599,
+      "duration": 4.841
+    },
+    {
+      "text": "be appropriate for everybody yes so",
+      "start": 2518.8,
+      "duration": 4.24
+    },
+    {
+      "text": "vagal nerve stimulation is very",
+      "start": 2521.44,
+      "duration": 3.08
+    },
+    {
+      "text": "effective there are a number of",
+      "start": 2523.04,
+      "duration": 3.24
+    },
+    {
+      "text": "different devices some people do it on",
+      "start": 2524.52,
+      "duration": 3.88
+    },
+    {
+      "text": "the ear there's a clipon portion for the",
+      "start": 2526.28,
+      "duration": 3.48
+    },
+    {
+      "text": "ear because the the nerve comes out of",
+      "start": 2528.4,
+      "duration": 2.76
+    },
+    {
+      "text": "the brain stem and has a branch that",
+      "start": 2529.76,
+      "duration": 4.28
+    },
+    {
+      "text": "goes up to the aric area or the ear so",
+      "start": 2531.16,
+      "duration": 4.88
+    },
+    {
+      "text": "there's a clip-on inexpensive device",
+      "start": 2534.04,
+      "duration": 4.799
+    },
+    {
+      "text": "that's beneficial also the larger",
+      "start": 2536.04,
+      "duration": 5.16
+    },
+    {
+      "text": "branches in the cervical area we use the",
+      "start": 2538.839,
+      "duration": 5.561
+    },
+    {
+      "text": "left side primarily based on research",
+      "start": 2541.2,
+      "duration": 4.84
+    },
+    {
+      "text": "and there are is a device that I use in",
+      "start": 2544.4,
+      "duration": 3.56
+    },
+    {
+      "text": "the US and it's all available around the",
+      "start": 2546.04,
+      "duration": 3.88
+    },
+    {
+      "text": "world it's rentable so people can rent",
+      "start": 2547.96,
+      "duration": 4.84
+    },
+    {
+      "text": "it a doctor will consult with you uh by",
+      "start": 2549.92,
+      "duration": 5.76
+    },
+    {
+      "text": "tele medicine so if a person has I'll",
+      "start": 2552.8,
+      "duration": 4.44
+    },
+    {
+      "text": "give you a general thought so it's been",
+      "start": 2555.68,
+      "duration": 5.159
+    },
+    {
+      "text": "FDA approved for migraines and cluster",
+      "start": 2557.24,
+      "duration": 6.52
+    },
+    {
+      "text": "headaches so it absolutely is beneficial",
+      "start": 2560.839,
+      "duration": 5.641
+    },
+    {
+      "text": "to that to rehabilitating the brain stem",
+      "start": 2563.76,
+      "duration": 5.079
+    },
+    {
+      "text": "through vagal stimulus to help the brain",
+      "start": 2566.48,
+      "duration": 3.92
+    },
+    {
+      "text": "stem become stronger because many",
+      "start": 2568.839,
+      "duration": 4.561
+    },
+    {
+      "text": "migraines have a neurologic basis in the",
+      "start": 2570.4,
+      "duration": 5.8
+    },
+    {
+      "text": "brain stem right and someone might",
+      "start": 2573.4,
+      "duration": 4.679
+    },
+    {
+      "text": "listen to this and say no know it has to",
+      "start": 2576.2,
+      "duration": 4.72
+    },
+    {
+      "text": "do with these different foods I eat and",
+      "start": 2578.079,
+      "duration": 4.48
+    },
+    {
+      "text": "hormones and barometric pressure and I",
+      "start": 2580.92,
+      "duration": 3.8
+    },
+    {
+      "text": "say yes those are triggers but what is",
+      "start": 2582.559,
+      "duration": 4.76
+    },
+    {
+      "text": "the neurologic site of weakness grain",
+      "start": 2584.72,
+      "duration": 5.2
+    },
+    {
+      "text": "stem so veal stimulation could be good",
+      "start": 2587.319,
+      "duration": 5.121
+    },
+    {
+      "text": "for that it's being used for many other",
+      "start": 2589.92,
+      "duration": 5.199
+    },
+    {
+      "text": "things we know that as you stimulate the",
+      "start": 2592.44,
+      "duration": 5.399
+    },
+    {
+      "text": "vagus nerve through the neck it has",
+      "start": 2595.119,
+      "duration": 4.96
+    },
+    {
+      "text": "retrograde activity up into the cortex",
+      "start": 2597.839,
+      "duration": 3.801
+    },
+    {
+      "text": "which can help people with",
+      "start": 2600.079,
+      "duration": 3.561
+    },
+    {
+      "text": "depression so we also know that it's",
+      "start": 2601.64,
+      "duration": 3.959
+    },
+    {
+      "text": "going to go downward and I'm going down",
+      "start": 2603.64,
+      "duration": 4.04
+    },
+    {
+      "text": "from my neck and it goes down Vagas",
+      "start": 2605.599,
+      "duration": 4.921
+    },
+    {
+      "text": "nerve affects the gut dramatically so",
+      "start": 2607.68,
+      "duration": 5.36
+    },
+    {
+      "text": "people with microbiome problems and gut",
+      "start": 2610.52,
+      "duration": 5.44
+    },
+    {
+      "text": "dysfunction but you know the majority of",
+      "start": 2613.04,
+      "duration": 4.799
+    },
+    {
+      "text": "people can use vagal nerve stimulation",
+      "start": 2615.96,
+      "duration": 4.92
+    },
+    {
+      "text": "very well and tolerate it and it's very",
+      "start": 2617.839,
+      "duration": 5.561
+    },
+    {
+      "text": "proper for them but there are a small",
+      "start": 2620.88,
+      "duration": 4.199
+    },
+    {
+      "text": "subset of people that if you have a",
+      "start": 2623.4,
+      "duration": 3.56
+    },
+    {
+      "text": "pacemaker you're not going to use vagal",
+      "start": 2625.079,
+      "duration": 4.641
+    },
+    {
+      "text": "stimulation if you have a metal stint in",
+      "start": 2626.96,
+      "duration": 5.72
+    },
+    {
+      "text": "your neck from some surgical wiring or",
+      "start": 2629.72,
+      "duration": 4.359
+    },
+    {
+      "text": "something unfortunately you're not going",
+      "start": 2632.68,
+      "duration": 3.48
+    },
+    {
+      "text": "to be able to use that so what would",
+      "start": 2634.079,
+      "duration": 4.24
+    },
+    {
+      "text": "they do in that place gargling they can",
+      "start": 2636.16,
+      "duration": 4.679
+    },
+    {
+      "text": "do gargling very strong the other one I",
+      "start": 2638.319,
+      "duration": 3.961
+    },
+    {
+      "text": "didn't mention I want to go back to as I",
+      "start": 2640.839,
+      "duration": 3.441
+    },
+    {
+      "text": "said gargling is there's been a lot of",
+      "start": 2642.28,
+      "duration": 3.92
+    },
+    {
+      "text": "talk about cold water",
+      "start": 2644.28,
+      "duration": 4.319
+    },
+    {
+      "text": "immersion and breathing like with Wim",
+      "start": 2646.2,
+      "duration": 4.68
+    },
+    {
+      "text": "Hoff breathing can reregulate the",
+      "start": 2648.599,
+      "duration": 4.881
+    },
+    {
+      "text": "autonomic nervous system breathing",
+      "start": 2650.88,
+      "duration": 4.199
+    },
+    {
+      "text": "practices that are practiced for more",
+      "start": 2653.48,
+      "duration": 3.879
+    },
+    {
+      "text": "than a week so it's going to take time",
+      "start": 2655.079,
+      "duration": 5.52
+    },
+    {
+      "text": "it's going to take effort also we start",
+      "start": 2657.359,
+      "duration": 4.641
+    },
+    {
+      "text": "with cold immersion we start with just",
+      "start": 2660.599,
+      "duration": 5.281
+    },
+    {
+      "text": "the face so you get like a baby bassinet",
+      "start": 2662.0,
+      "duration": 7.92
+    },
+    {
+      "text": "bathtub and colder water in there and",
+      "start": 2665.88,
+      "duration": 5.479
+    },
+    {
+      "text": "plopping your face in there holding your",
+      "start": 2669.92,
+      "duration": 4.639
+    },
+    {
+      "text": "breath 10 20 seconds so cold water",
+      "start": 2671.359,
+      "duration": 5.161
+    },
+    {
+      "text": "immersion can begin with the face and",
+      "start": 2674.559,
+      "duration": 3.721
+    },
+    {
+      "text": "then it can be like just bringing the",
+      "start": 2676.52,
+      "duration": 3.319
+    },
+    {
+      "text": "warmth down in the shower so it's not",
+      "start": 2678.28,
+      "duration": 3.48
+    },
+    {
+      "text": "fully cold just on your whole head",
+      "start": 2679.839,
+      "duration": 3.76
+    },
+    {
+      "text": "eventually so let's say you did facial",
+      "start": 2681.76,
+      "duration": 4.04
+    },
+    {
+      "text": "immersion every day for a week seven",
+      "start": 2683.599,
+      "duration": 3.881
+    },
+    {
+      "text": "days and see am I noticing any",
+      "start": 2685.8,
+      "duration": 3.96
+    },
+    {
+      "text": "Improvement in my autonomic regulation",
+      "start": 2687.48,
+      "duration": 4.56
+    },
+    {
+      "text": "am I feeling a little more resilient am",
+      "start": 2689.76,
+      "duration": 4.559
+    },
+    {
+      "text": "I feeling a a lower threshold on my",
+      "start": 2692.04,
+      "duration": 5.64
+    },
+    {
+      "text": "symptoms possibly if not you still might",
+      "start": 2694.319,
+      "duration": 4.921
+    },
+    {
+      "text": "want to progress to now in the shower",
+      "start": 2697.68,
+      "duration": 3.2
+    },
+    {
+      "text": "just starting to bring down the warmer",
+      "start": 2699.24,
+      "duration": 3.56
+    },
+    {
+      "text": "water to a little cooler over your head",
+      "start": 2700.88,
+      "duration": 3.32
+    },
+    {
+      "text": "you stand to the side and let your head",
+      "start": 2702.8,
+      "duration": 4.36
+    },
+    {
+      "text": "get the cold water because the face the",
+      "start": 2704.2,
+      "duration": 5.56
+    },
+    {
+      "text": "inputs from the face sensory inputs the",
+      "start": 2707.16,
+      "duration": 5.48
+    },
+    {
+      "text": "tongue all these areas go into the brain",
+      "start": 2709.76,
+      "duration": 5.559
+    },
+    {
+      "text": "stem so cold water immersion I had one",
+      "start": 2712.64,
+      "duration": 5.12
+    },
+    {
+      "text": "client who's still dealing with long Co",
+      "start": 2715.319,
+      "duration": 5.441
+    },
+    {
+      "text": "and she's made great strides she said I",
+      "start": 2717.76,
+      "duration": 4.72
+    },
+    {
+      "text": "didn't really believe you about that",
+      "start": 2720.76,
+      "duration": 3.88
+    },
+    {
+      "text": "cold water in the shower thing and then",
+      "start": 2722.48,
+      "duration": 3.72
+    },
+    {
+      "text": "when I stop seeing her on a regular",
+      "start": 2724.64,
+      "duration": 3.84
+    },
+    {
+      "text": "basis weekly and seeing her monthly now",
+      "start": 2726.2,
+      "duration": 4.72
+    },
+    {
+      "text": "she said but I decided I would try it",
+      "start": 2728.48,
+      "duration": 4.2
+    },
+    {
+      "text": "and uh it made a huge difference I wish",
+      "start": 2730.92,
+      "duration": 4.56
+    },
+    {
+      "text": "I tried it earlier so believe me when I",
+      "start": 2732.68,
+      "duration": 4.439
+    },
+    {
+      "text": "say these things are worth your trial",
+      "start": 2735.48,
+      "duration": 3.839
+    },
+    {
+      "text": "and your time because they have shown",
+      "start": 2737.119,
+      "duration": 5.681
+    },
+    {
+      "text": "benefits uh in many people and there",
+      "start": 2739.319,
+      "duration": 6.401
+    },
+    {
+      "text": "certainly isn't enough research to say",
+      "start": 2742.8,
+      "duration": 4.279
+    },
+    {
+      "text": "oh this is absolutely what everyone",
+      "start": 2745.72,
+      "duration": 3.2
+    },
+    {
+      "text": "needs to do it's not it's one of those",
+      "start": 2747.079,
+      "duration": 3.881
+    },
+    {
+      "text": "things that we have to determine what to",
+      "start": 2748.92,
+      "duration": 4.36
+    },
+    {
+      "text": "do but I'm giving some thought process",
+      "start": 2750.96,
+      "duration": 3.68
+    },
+    {
+      "text": "they may want to do some trial things",
+      "start": 2753.28,
+      "duration": 4.2
+    },
+    {
+      "text": "that are low invasive not risky",
+      "start": 2754.64,
+      "duration": 4.479
+    },
+    {
+      "text": "vagal nerve stimulation they won't get",
+      "start": 2757.48,
+      "duration": 3.079
+    },
+    {
+      "text": "it they can rent it but they'll talk to",
+      "start": 2759.119,
+      "duration": 3.601
+    },
+    {
+      "text": "a doctor and those those are factors",
+      "start": 2760.559,
+      "duration": 4.76
+    },
+    {
+      "text": "they can consider sure yeah and of",
+      "start": 2762.72,
+      "duration": 5.48
+    },
+    {
+      "text": "course there are lots of kind of natural",
+      "start": 2765.319,
+      "duration": 4.881
+    },
+    {
+      "text": "things like the breathing like the the",
+      "start": 2768.2,
+      "duration": 4.04
+    },
+    {
+      "text": "gargling that a lot of people can can",
+      "start": 2770.2,
+      "duration": 5.0
+    },
+    {
+      "text": "try there's any number of vagal nerve",
+      "start": 2772.24,
+      "duration": 5.24
+    },
+    {
+      "text": "reset exercises on YouTube I think isn't",
+      "start": 2775.2,
+      "duration": 4.639
+    },
+    {
+      "text": "there yeah be careful with those but I",
+      "start": 2777.48,
+      "duration": 4.28
+    },
+    {
+      "text": "mean you you should definitely learn",
+      "start": 2779.839,
+      "duration": 3.601
+    },
+    {
+      "text": "again because we want to understand",
+      "start": 2781.76,
+      "duration": 3.28
+    },
+    {
+      "text": "things what where people get into",
+      "start": 2783.44,
+      "duration": 4.96
+    },
+    {
+      "text": "trouble I think is because they try",
+      "start": 2785.04,
+      "duration": 5.4
+    },
+    {
+      "text": "things hit or miss they try to biohack",
+      "start": 2788.4,
+      "duration": 4.0
+    },
+    {
+      "text": "now if I'm suffering I'm going to do the",
+      "start": 2790.44,
+      "duration": 5.24
+    },
+    {
+      "text": "same thing because I get it but also now",
+      "start": 2792.4,
+      "duration": 5.919
+    },
+    {
+      "text": "here's a word to the wise okay be",
+      "start": 2795.68,
+      "duration": 4.32
+    },
+    {
+      "text": "cautious because we want to understand",
+      "start": 2798.319,
+      "duration": 3.321
+    },
+    {
+      "text": "you're in a more delicate situation",
+      "start": 2800.0,
+      "duration": 3.28
+    },
+    {
+      "text": "you're not biohacking someone that's in",
+      "start": 2801.64,
+      "duration": 3.0
+    },
+    {
+      "text": "good health and they're trying to make",
+      "start": 2803.28,
+      "duration": 3.44
+    },
+    {
+      "text": "themselves better our health has taken a",
+      "start": 2804.64,
+      "duration": 4.32
+    },
+    {
+      "text": "hit and we have a deficit and it it's",
+      "start": 2806.72,
+      "duration": 3.76
+    },
+    {
+      "text": "very disrupted in our nervous system so",
+      "start": 2808.96,
+      "duration": 4.599
+    },
+    {
+      "text": "we want to go slow I'm going to send you",
+      "start": 2810.48,
+      "duration": 5.24
+    },
+    {
+      "text": "an article called persistent brain stem",
+      "start": 2813.559,
+      "duration": 5.641
+    },
+    {
+      "text": "dysfunction in Long covid a hypothesis",
+      "start": 2815.72,
+      "duration": 5.52
+    },
+    {
+      "text": "this is from a wonderful Neuroscience",
+      "start": 2819.2,
+      "duration": 4.2
+    },
+    {
+      "text": "Journal so it's scientific article but",
+      "start": 2821.24,
+      "duration": 4.359
+    },
+    {
+      "text": "it gives ideas and it gives pictures",
+      "start": 2823.4,
+      "duration": 3.88
+    },
+    {
+      "text": "images so people can kind of look at",
+      "start": 2825.599,
+      "duration": 3.76
+    },
+    {
+      "text": "that and go oh okay that's that's good",
+      "start": 2827.28,
+      "duration": 3.6
+    },
+    {
+      "text": "thank you yeah I'll make sure I drop",
+      "start": 2829.359,
+      "duration": 3.321
+    },
+    {
+      "text": "that into the show notes along with uh",
+      "start": 2830.88,
+      "duration": 3.08
+    },
+    {
+      "text": "the page on your website that you were",
+      "start": 2832.68,
+      "duration": 3.84
+    },
+    {
+      "text": "talking about earlier as well but that's",
+      "start": 2833.96,
+      "duration": 5.04
+    },
+    {
+      "text": "going back it's brain stem mediated as",
+      "start": 2836.52,
+      "duration": 4.599
+    },
+    {
+      "text": "part of the whole picture as we're",
+      "start": 2839.0,
+      "duration": 4.559
+    },
+    {
+      "text": "addressing mitochondrial Health as we're",
+      "start": 2841.119,
+      "duration": 4.321
+    },
+    {
+      "text": "addressing of course things in the",
+      "start": 2843.559,
+      "duration": 4.361
+    },
+    {
+      "text": "metabolic nutritional and gut as we're",
+      "start": 2845.44,
+      "duration": 4.639
+    },
+    {
+      "text": "addressing things maybe in the clotting",
+      "start": 2847.92,
+      "duration": 4.32
+    },
+    {
+      "text": "issues maybe we can talk about some of",
+      "start": 2850.079,
+      "duration": 3.881
+    },
+    {
+      "text": "those and some of the approaches that",
+      "start": 2852.24,
+      "duration": 3.52
+    },
+    {
+      "text": "are being used nutritionally that might",
+      "start": 2853.96,
+      "duration": 3.44
+    },
+    {
+      "text": "be a good way to help people have a few",
+      "start": 2855.76,
+      "duration": 5.0
+    },
+    {
+      "text": "more ideas yeah no thank you so so much",
+      "start": 2857.4,
+      "duration": 6.52
+    },
+    {
+      "text": "it's been uh absolutely fascinating uh",
+      "start": 2860.76,
+      "duration": 4.76
+    },
+    {
+      "text": "so thank you so much for joining me",
+      "start": 2863.92,
+      "duration": 3.96
+    },
+    {
+      "text": "today you're welcome my pleasure thank",
+      "start": 2865.52,
+      "duration": 4.559
+    },
+    {
+      "text": "you so much to all of my guests and to",
+      "start": 2867.88,
+      "duration": 4.479
+    },
+    {
+      "text": "you for listening I hope you've enjoyed",
+      "start": 2870.079,
+      "duration": 5.48
+    },
+    {
+      "text": "it or at least found it useful the long",
+      "start": 2872.359,
+      "duration": 5.48
+    },
+    {
+      "text": "Co podcast is entire irely self-produced",
+      "start": 2875.559,
+      "duration": 5.0
+    },
+    {
+      "text": "and self-funded I'm doing all of this",
+      "start": 2877.839,
+      "duration": 5.52
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2880.559,
+      "duration": 5.681
+    },
+    {
+      "text": "buy meac coffee.com",
+      "start": 2883.359,
+      "duration": 5.401
+    },
+    {
+      "text": "slod to help me cover the costs of",
+      "start": 2886.24,
+      "duration": 3.76
+    },
+    {
+      "text": "hosting the",
+      "start": 2888.76,
+      "duration": 3.28
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2890.0,
+      "duration": 4.2
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 2892.04,
+      "duration": 4.2
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2894.2,
+      "duration": 5.119
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 2896.24,
+      "duration": 6.56
+    },
+    {
+      "text": "love to hear from",
+      "start": 2899.319,
+      "duration": 3.481
+    }
+  ],
+  "metadata": {
+    "title": "63 - Dr Michael Bagnell - Long Covid & the brain",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/slmAKWpB-Es/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 63,
+    "title": "63 - Dr Michael Bagnell - Long Covid & the brain",
+    "videoId": "slmAKWpB-Es",
+    "lengthText": "48:28"
+  }
+}

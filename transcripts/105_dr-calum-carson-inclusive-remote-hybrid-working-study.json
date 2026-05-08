@@ -1,0 +1,6188 @@
+{
+  "video_id": "X2-B4k45RBI",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go welcome to this episode of The Long",
+      "start": 55.239,
+      "duration": 5.96
+    },
+    {
+      "text": "Co podcast I am am absolutely delighted",
+      "start": 58.239,
+      "duration": 5.201
+    },
+    {
+      "text": "to welcome my guest this morning Dr",
+      "start": 61.199,
+      "duration": 5.161
+    },
+    {
+      "text": "Callum Carson who is a senior research",
+      "start": 63.44,
+      "duration": 6.2
+    },
+    {
+      "text": "associate at Lancaster University and we",
+      "start": 66.36,
+      "duration": 4.84
+    },
+    {
+      "text": "are going to be talking about the",
+      "start": 69.64,
+      "duration": 3.799
+    },
+    {
+      "text": "inclusive remote and hybrid working",
+      "start": 71.2,
+      "duration": 4.32
+    },
+    {
+      "text": "study I'm sure loads of other stuff too",
+      "start": 73.439,
+      "duration": 4.921
+    },
+    {
+      "text": "because tangents uh so a very warm",
+      "start": 75.52,
+      "duration": 4.959
+    },
+    {
+      "text": "welcome to the podcast today thank you",
+      "start": 78.36,
+      "duration": 3.84
+    },
+    {
+      "text": "nice to be here it's a bit of a mouthful",
+      "start": 80.479,
+      "duration": 4.121
+    },
+    {
+      "text": "that name yeah I know I had to be quite",
+      "start": 82.2,
+      "duration": 4.279
+    },
+    {
+      "text": "careful reading that um to try and get",
+      "start": 84.6,
+      "duration": 4.96
+    },
+    {
+      "text": "it right um so maybe to start with would",
+      "start": 86.479,
+      "duration": 5.121
+    },
+    {
+      "text": "you mind mind just saying a little bit",
+      "start": 89.56,
+      "duration": 4.239
+    },
+    {
+      "text": "more about yourself and maybe what you",
+      "start": 91.6,
+      "duration": 4.799
+    },
+    {
+      "text": "do yeah sure um yeah so I'm a senior",
+      "start": 93.799,
+      "duration": 4.36
+    },
+    {
+      "text": "research associate which basically boils",
+      "start": 96.399,
+      "duration": 4.521
+    },
+    {
+      "text": "down to an academic that mainly focuses",
+      "start": 98.159,
+      "duration": 5.6
+    },
+    {
+      "text": "on Research rather than teaching and at",
+      "start": 100.92,
+      "duration": 4.64
+    },
+    {
+      "text": "the moment I'm working on this study",
+      "start": 103.759,
+      "duration": 3.32
+    },
+    {
+      "text": "which is specifically around remote and",
+      "start": 105.56,
+      "duration": 3.879
+    },
+    {
+      "text": "hybrid working exploring disabled",
+      "start": 107.079,
+      "duration": 4.801
+    },
+    {
+      "text": "workers experiences of that um I've had",
+      "start": 109.439,
+      "duration": 3.761
+    },
+    {
+      "text": "a bit of a roundabout journey and how",
+      "start": 111.88,
+      "duration": 3.519
+    },
+    {
+      "text": "I've got there I suppose I first went to",
+      "start": 113.2,
+      "duration": 4.4
+    },
+    {
+      "text": "University I was like I'm going to do a",
+      "start": 115.399,
+      "duration": 4.64
+    },
+    {
+      "text": "politics degree going to politics and",
+      "start": 117.6,
+      "duration": 3.799
+    },
+    {
+      "text": "then after three years of that I thought",
+      "start": 120.039,
+      "duration": 4.641
+    },
+    {
+      "text": "no not really and then I um I worked for",
+      "start": 121.399,
+      "duration": 5.32
+    },
+    {
+      "text": "six years just doing that odds and ends",
+      "start": 124.68,
+      "duration": 4.439
+    },
+    {
+      "text": "University admin jobs and stuff went",
+      "start": 126.719,
+      "duration": 5.721
+    },
+    {
+      "text": "back did a sociology degree and I looked",
+      "start": 129.119,
+      "duration": 5.281
+    },
+    {
+      "text": "at kind of a the stigmatization that",
+      "start": 132.44,
+      "duration": 5.12
+    },
+    {
+      "text": "disabled Social Security recipients felt",
+      "start": 134.4,
+      "duration": 4.76
+    },
+    {
+      "text": "who were claiming for benefits that",
+      "start": 137.56,
+      "duration": 3.36
+    },
+    {
+      "text": "weren't necessarily about being in work",
+      "start": 139.16,
+      "duration": 3.2
+    },
+    {
+      "text": "but they still felt that stigma around",
+      "start": 140.92,
+      "duration": 3.88
+    },
+    {
+      "text": "it um so I developed a bit of an",
+      "start": 142.36,
+      "duration": 4.0
+    },
+    {
+      "text": "interest in like looking at kind of",
+      "start": 144.8,
+      "duration": 3.64
+    },
+    {
+      "text": "disability issues and disability",
+      "start": 146.36,
+      "duration": 5.599
+    },
+    {
+      "text": "politics um then I moved on to a PhD in",
+      "start": 148.44,
+      "duration": 5.079
+    },
+    {
+      "text": "the business school on the real living",
+      "start": 151.959,
+      "duration": 3.041
+    },
+    {
+      "text": "wage you know the voluntary Higher",
+      "start": 153.519,
+      "duration": 3.0
+    },
+    {
+      "text": "Living wage about why employees decide",
+      "start": 155.0,
+      "duration": 3.959
+    },
+    {
+      "text": "to pay it in the middle of that I went",
+      "start": 156.519,
+      "duration": 4.401
+    },
+    {
+      "text": "to work at the United Nations in Geneva",
+      "start": 158.959,
+      "duration": 4.481
+    },
+    {
+      "text": "for a while um where I ended up working",
+      "start": 160.92,
+      "duration": 4.599
+    },
+    {
+      "text": "on kind of decent work and the issues",
+      "start": 163.44,
+      "duration": 4.56
+    },
+    {
+      "text": "around that and around you know what the",
+      "start": 165.519,
+      "duration": 4.161
+    },
+    {
+      "text": "everyday experience of work was like for",
+      "start": 168.0,
+      "duration": 3.239
+    },
+    {
+      "text": "individual people and that started to",
+      "start": 169.68,
+      "duration": 3.52
+    },
+    {
+      "text": "become what I really became interested",
+      "start": 171.239,
+      "duration": 5.601
+    },
+    {
+      "text": "in so then after that um I worked at",
+      "start": 173.2,
+      "duration": 6.319
+    },
+    {
+      "text": "Manchester Metropolitan University on a",
+      "start": 176.84,
+      "duration": 4.28
+    },
+    {
+      "text": "project exploring the impact of",
+      "start": 179.519,
+      "duration": 3.161
+    },
+    {
+      "text": "Universal Credit on employers and lowp",
+      "start": 181.12,
+      "duration": 4.0
+    },
+    {
+      "text": "paid workers and then from there I've",
+      "start": 182.68,
+      "duration": 4.8
+    },
+    {
+      "text": "moved on to this one at Lancaster which",
+      "start": 185.12,
+      "duration": 3.72
+    },
+    {
+      "text": "is really interesting because it's kind",
+      "start": 187.48,
+      "duration": 3.839
+    },
+    {
+      "text": "of combined my interest in decent work",
+      "start": 188.84,
+      "duration": 4.679
+    },
+    {
+      "text": "with disability politics and everyday",
+      "start": 191.319,
+      "duration": 5.84
+    },
+    {
+      "text": "worker experiences into the inclusive",
+      "start": 193.519,
+      "duration": 6.0
+    },
+    {
+      "text": "remote and hybrid working study so",
+      "start": 197.159,
+      "duration": 4.08
+    },
+    {
+      "text": "that's a bit of a roundabout way of",
+      "start": 199.519,
+      "duration": 3.521
+    },
+    {
+      "text": "putting it but that's been my kind of",
+      "start": 201.239,
+      "duration": 3.441
+    },
+    {
+      "text": "academic journey in my kind of research",
+      "start": 203.04,
+      "duration": 5.08
+    },
+    {
+      "text": "Journey over the last God since 2005",
+      "start": 204.68,
+      "duration": 5.88
+    },
+    {
+      "text": "after almost 20 years",
+      "start": 208.12,
+      "duration": 5.759
+    },
+    {
+      "text": "that's amazing and um I love like just",
+      "start": 210.56,
+      "duration": 5.2
+    },
+    {
+      "text": "as a kind of side note I suppose this",
+      "start": 213.879,
+      "duration": 4.401
+    },
+    {
+      "text": "idea that you know it's it's okay to",
+      "start": 215.76,
+      "duration": 5.08
+    },
+    {
+      "text": "like train in one thing and then train",
+      "start": 218.28,
+      "duration": 4.959
+    },
+    {
+      "text": "in another I think in my own experience",
+      "start": 220.84,
+      "duration": 3.959
+    },
+    {
+      "text": "in some ways and certainly when I've",
+      "start": 223.239,
+      "duration": 3.681
+    },
+    {
+      "text": "been working myself in education there's",
+      "start": 224.799,
+      "duration": 4.201
+    },
+    {
+      "text": "this kind of like when you're sort of",
+      "start": 226.92,
+      "duration": 3.8
+    },
+    {
+      "text": "get to the age of 15 suddenly you have",
+      "start": 229.0,
+      "duration": 3.079
+    },
+    {
+      "text": "to decide what you have to do with your",
+      "start": 230.72,
+      "duration": 2.599
+    },
+    {
+      "text": "life and you have to make all of your",
+      "start": 232.079,
+      "duration": 3.24
+    },
+    {
+      "text": "choices at the age of like 15 or 16",
+      "start": 233.319,
+      "duration": 4.361
+    },
+    {
+      "text": "which is like you know when you're that",
+      "start": 235.319,
+      "duration": 3.961
+    },
+    {
+      "text": "age it's you know some people are very",
+      "start": 237.68,
+      "duration": 2.68
+    },
+    {
+      "text": "set with what they want to do but I",
+      "start": 239.28,
+      "duration": 2.92
+    },
+    {
+      "text": "think the vast majority of people aren't",
+      "start": 240.36,
+      "duration": 4.56
+    },
+    {
+      "text": "so yeah I think that's cool but yeah I I",
+      "start": 242.2,
+      "duration": 4.8
+    },
+    {
+      "text": "love that you've kind of like managed to",
+      "start": 244.92,
+      "duration": 3.56
+    },
+    {
+      "text": "take all of the things that you've done",
+      "start": 247.0,
+      "duration": 3.239
+    },
+    {
+      "text": "and kind of like yeah as you say put",
+      "start": 248.48,
+      "duration": 3.56
+    },
+    {
+      "text": "them all into a pot together to come up",
+      "start": 250.239,
+      "duration": 3.521
+    },
+    {
+      "text": "with working with this study which is",
+      "start": 252.04,
+      "duration": 2.88
+    },
+    {
+      "text": "what I guess we're going to be largely",
+      "start": 253.76,
+      "duration": 3.439
+    },
+    {
+      "text": "talking about today yeah it used to be",
+      "start": 254.92,
+      "duration": 4.039
+    },
+    {
+      "text": "quite frowned upon in Academia from what",
+      "start": 257.199,
+      "duration": 3.32
+    },
+    {
+      "text": "I've told about like jumping around a",
+      "start": 258.959,
+      "duration": 3.321
+    },
+    {
+      "text": "lot but I think now there's a bigger",
+      "start": 260.519,
+      "duration": 3.041
+    },
+    {
+      "text": "focus on like it's put like inter",
+      "start": 262.28,
+      "duration": 3.199
+    },
+    {
+      "text": "disciplinarity and you know that kind of",
+      "start": 263.56,
+      "duration": 4.24
+    },
+    {
+      "text": "thing and these kind of departmental",
+      "start": 265.479,
+      "duration": 4.361
+    },
+    {
+      "text": "lines about what's politics or what lot",
+      "start": 267.8,
+      "duration": 3.08
+    },
+    {
+      "text": "of business school and that kind of",
+      "start": 269.84,
+      "duration": 2.199
+    },
+    {
+      "text": "thing because I remember when someone",
+      "start": 270.88,
+      "duration": 2.759
+    },
+    {
+      "text": "suggested I do a PhD at business school",
+      "start": 272.039,
+      "duration": 3.041
+    },
+    {
+      "text": "I thought that just meant people were",
+      "start": 273.639,
+      "duration": 3.201
+    },
+    {
+      "text": "obsessed with money and that kind of",
+      "start": 275.08,
+      "duration": 3.2
+    },
+    {
+      "text": "thing you know not people looking at low",
+      "start": 276.84,
+      "duration": 3.88
+    },
+    {
+      "text": "paid workers experiences and stuff",
+      "start": 278.28,
+      "duration": 4.16
+    },
+    {
+      "text": "although there is of course now I'm in a",
+      "start": 280.72,
+      "duration": 3.52
+    },
+    {
+      "text": "faculty which is like a Medical Faculty",
+      "start": 282.44,
+      "duration": 3.92
+    },
+    {
+      "text": "there is the added addition of being a",
+      "start": 284.24,
+      "duration": 4.08
+    },
+    {
+      "text": "doctor but not a real doctor and now I'm",
+      "start": 286.36,
+      "duration": 4.88
+    },
+    {
+      "text": "a fake doctor in a Medical Faculty which",
+      "start": 288.32,
+      "duration": 4.48
+    },
+    {
+      "text": "is",
+      "start": 291.24,
+      "duration": 3.6
+    },
+    {
+      "text": "hilarious I quite like that it's a good",
+      "start": 292.8,
+      "duration": 4.959
+    },
+    {
+      "text": "opening to a conference tour yeah but",
+      "start": 294.84,
+      "duration": 4.96
+    },
+    {
+      "text": "but I mean you're right you know I think",
+      "start": 297.759,
+      "duration": 3.321
+    },
+    {
+      "text": "we've been talking about this on the",
+      "start": 299.8,
+      "duration": 3.56
+    },
+    {
+      "text": "podcast on and off about how the kind of",
+      "start": 301.08,
+      "duration": 5.119
+    },
+    {
+      "text": "medical system is very siloed um so you",
+      "start": 303.36,
+      "duration": 4.96
+    },
+    {
+      "text": "know which is very useful for a lot of",
+      "start": 306.199,
+      "duration": 3.72
+    },
+    {
+      "text": "conditions but when you have something",
+      "start": 308.32,
+      "duration": 4.439
+    },
+    {
+      "text": "like long Co for example which",
+      "start": 309.919,
+      "duration": 5.921
+    },
+    {
+      "text": "encompasses so many different bits of",
+      "start": 312.759,
+      "duration": 5.321
+    },
+    {
+      "text": "you yeah actually having a very siloed",
+      "start": 315.84,
+      "duration": 3.68
+    },
+    {
+      "text": "medical system is not particularly",
+      "start": 318.08,
+      "duration": 2.88
+    },
+    {
+      "text": "helpful because there is not really",
+      "start": 319.52,
+      "duration": 3.44
+    },
+    {
+      "text": "anybody looking at the bigger picture",
+      "start": 320.96,
+      "duration": 3.32
+    },
+    {
+      "text": "and it's kind of made me think a lot",
+      "start": 322.96,
+      "duration": 6.2
+    },
+    {
+      "text": "about how actually nothing in life is on",
+      "start": 324.28,
+      "duration": 7.68
+    },
+    {
+      "text": "its own is it really you know it it's",
+      "start": 329.16,
+      "duration": 4.56
+    },
+    {
+      "text": "it's all interconnected with other",
+      "start": 331.96,
+      "duration": 4.44
+    },
+    {
+      "text": "things so that makes more sense when you",
+      "start": 333.72,
+      "duration": 4.84
+    },
+    {
+      "text": "talk about things like interdisciplinary",
+      "start": 336.4,
+      "duration": 4.28
+    },
+    {
+      "text": "research like you just mentioned but",
+      "start": 338.56,
+      "duration": 3.479
+    },
+    {
+      "text": "actually you know yes you might be",
+      "start": 340.68,
+      "duration": 3.72
+    },
+    {
+      "text": "studying one specific thing but actually",
+      "start": 342.039,
+      "duration": 3.841
+    },
+    {
+      "text": "there's all sorts of stuff that plays",
+      "start": 344.4,
+      "duration": 3.359
+    },
+    {
+      "text": "into that so it actually makes a lot of",
+      "start": 345.88,
+      "duration": 4.159
+    },
+    {
+      "text": "sense doesn't it definitely yeah and",
+      "start": 347.759,
+      "duration": 4.201
+    },
+    {
+      "text": "like if you say it long Co like the",
+      "start": 350.039,
+      "duration": 4.801
+    },
+    {
+      "text": "sheer variety of you know symptoms that",
+      "start": 351.96,
+      "duration": 5.72
+    },
+    {
+      "text": "arise from that is so massive that even",
+      "start": 354.84,
+      "duration": 5.0
+    },
+    {
+      "text": "having under this long Co umbrella has",
+      "start": 357.68,
+      "duration": 4.799
+    },
+    {
+      "text": "problems I'd imagine um so yeah I think",
+      "start": 359.84,
+      "duration": 4.079
+    },
+    {
+      "text": "one of my things has been to try and",
+      "start": 362.479,
+      "duration": 3.081
+    },
+    {
+      "text": "break down those barriers by shifting",
+      "start": 363.919,
+      "duration": 3.84
+    },
+    {
+      "text": "around a lot and talking you know this",
+      "start": 365.56,
+      "duration": 3.96
+    },
+    {
+      "text": "may interest you here this may interest",
+      "start": 367.759,
+      "duration": 4.361
+    },
+    {
+      "text": "you there I feel like that kind of thing",
+      "start": 369.52,
+      "duration": 4.2
+    },
+    {
+      "text": "it just stops those new barriers being",
+      "start": 372.12,
+      "duration": 5.24
+    },
+    {
+      "text": "built as well um so yeah that's kind of",
+      "start": 373.72,
+      "duration": 5.44
+    },
+    {
+      "text": "one of the like a permanent feature of",
+      "start": 377.36,
+      "duration": 3.839
+    },
+    {
+      "text": "my academic career I think I like that",
+      "start": 379.16,
+      "duration": 4.439
+    },
+    {
+      "text": "idea of jumping around not just staying",
+      "start": 381.199,
+      "duration": 4.481
+    },
+    {
+      "text": "in one place you know that kind of thing",
+      "start": 383.599,
+      "duration": 3.6
+    },
+    {
+      "text": "and going where the interesting research",
+      "start": 385.68,
+      "duration": 3.4
+    },
+    {
+      "text": "is and right now it's definitely here",
+      "start": 387.199,
+      "duration": 4.28
+    },
+    {
+      "text": "because this is fascinating stuff yeah",
+      "start": 389.08,
+      "duration": 5.559
+    },
+    {
+      "text": "yeah definitely and I think um again",
+      "start": 391.479,
+      "duration": 4.921
+    },
+    {
+      "text": "something that I have noticed over the",
+      "start": 394.639,
+      "duration": 5.041
+    },
+    {
+      "text": "last few years is that there can be a",
+      "start": 396.4,
+      "duration": 5.28
+    },
+    {
+      "text": "tendency to not talk about things",
+      "start": 399.68,
+      "duration": 3.959
+    },
+    {
+      "text": "because they might be perceived as",
+      "start": 401.68,
+      "duration": 4.639
+    },
+    {
+      "text": "difficult or uncomfortable or a healthy",
+      "start": 403.639,
+      "duration": 4.601
+    },
+    {
+      "text": "person not really wanting to think about",
+      "start": 406.319,
+      "duration": 4.16
+    },
+    {
+      "text": "disability because they don't really",
+      "start": 408.24,
+      "duration": 3.88
+    },
+    {
+      "text": "want to entertain the thought that that",
+      "start": 410.479,
+      "duration": 4.041
+    },
+    {
+      "text": "could happen to them and I think that",
+      "start": 412.12,
+      "duration": 4.6
+    },
+    {
+      "text": "can then contribute to people who are",
+      "start": 414.52,
+      "duration": 5.239
+    },
+    {
+      "text": "disabled who are unwell feeling more ol",
+      "start": 416.72,
+      "duration": 5.72
+    },
+    {
+      "text": "at than they are already so I think it's",
+      "start": 419.759,
+      "duration": 5.481
+    },
+    {
+      "text": "important to have conversations and to",
+      "start": 422.44,
+      "duration": 4.28
+    },
+    {
+      "text": "try to work out how we can have",
+      "start": 425.24,
+      "duration": 4.92
+    },
+    {
+      "text": "conversations in the right way yes",
+      "start": 426.72,
+      "duration": 5.919
+    },
+    {
+      "text": "definitely yeah and I feel there's also",
+      "start": 430.16,
+      "duration": 4.84
+    },
+    {
+      "text": "a sense of like after the pandemic",
+      "start": 432.639,
+      "duration": 4.881
+    },
+    {
+      "text": "there's also an additional sense of we",
+      "start": 435.0,
+      "duration": 3.879
+    },
+    {
+      "text": "all went through that we don't want to",
+      "start": 437.52,
+      "duration": 2.519
+    },
+    {
+      "text": "keep talking about it we kind of want to",
+      "start": 438.879,
+      "duration": 3.32
+    },
+    {
+      "text": "just sweep it under the rug but you know",
+      "start": 440.039,
+      "duration": 3.72
+    },
+    {
+      "text": "it's not necessarily the case for a lot",
+      "start": 442.199,
+      "duration": 3.44
+    },
+    {
+      "text": "of people that the pandemic's even over",
+      "start": 443.759,
+      "duration": 3.521
+    },
+    {
+      "text": "let alone you know that these",
+      "start": 445.639,
+      "duration": 3.481
+    },
+    {
+      "text": "conversations don't need to be had",
+      "start": 447.28,
+      "duration": 3.72
+    },
+    {
+      "text": "because one of the aspects of this study",
+      "start": 449.12,
+      "duration": 4.079
+    },
+    {
+      "text": "which we'll get on to is it's you know",
+      "start": 451.0,
+      "duration": 4.52
+    },
+    {
+      "text": "trying to pinpoint what new potential",
+      "start": 453.199,
+      "duration": 4.081
+    },
+    {
+      "text": "inequalities could be before they arise",
+      "start": 455.52,
+      "duration": 3.64
+    },
+    {
+      "text": "and kind of placing a focus on that",
+      "start": 457.28,
+      "duration": 3.52
+    },
+    {
+      "text": "rather than studying them five or 10",
+      "start": 459.16,
+      "duration": 3.4
+    },
+    {
+      "text": "years down the line when they've had",
+      "start": 460.8,
+      "duration": 3.839
+    },
+    {
+      "text": "time to get you know embedded into the",
+      "start": 462.56,
+      "duration": 6.039
+    },
+    {
+      "text": "world of work yeah definitely um",
+      "start": 464.639,
+      "duration": 7.56
+    },
+    {
+      "text": "so um maybe let's dive into the research",
+      "start": 468.599,
+      "duration": 5.081
+    },
+    {
+      "text": "study I mean this is obviously going to",
+      "start": 472.199,
+      "duration": 4.481
+    },
+    {
+      "text": "be a kind of huge topic um so part of me",
+      "start": 473.68,
+      "duration": 4.239
+    },
+    {
+      "text": "is thinking should I just kind of like",
+      "start": 476.68,
+      "duration": 2.44
+    },
+    {
+      "text": "pull you back like one of those little",
+      "start": 477.919,
+      "duration": 3.28
+    },
+    {
+      "text": "cars and let you",
+      "start": 479.12,
+      "duration": 5.24
+    },
+    {
+      "text": "go um May maybe yeah you know sort of",
+      "start": 481.199,
+      "duration": 4.761
+    },
+    {
+      "text": "let's talk a little bit about it and",
+      "start": 484.36,
+      "duration": 4.44
+    },
+    {
+      "text": "what it is yeah sure um I'll I'll kind",
+      "start": 485.96,
+      "duration": 4.76
+    },
+    {
+      "text": "of do the the headline and then I'll",
+      "start": 488.8,
+      "duration": 3.92
+    },
+    {
+      "text": "boil it down to the individual bits so",
+      "start": 490.72,
+      "duration": 3.8
+    },
+    {
+      "text": "the project itself has kind of like a",
+      "start": 492.72,
+      "duration": 4.52
+    },
+    {
+      "text": "number of Dimensions um but yeah really",
+      "start": 494.52,
+      "duration": 4.72
+    },
+    {
+      "text": "boiling it down to its core it focuses",
+      "start": 497.24,
+      "duration": 4.84
+    },
+    {
+      "text": "on disabled workers experiences of you",
+      "start": 499.24,
+      "duration": 4.519
+    },
+    {
+      "text": "know remote and hybrid working over the",
+      "start": 502.08,
+      "duration": 4.0
+    },
+    {
+      "text": "past five years hybrid working obviously",
+      "start": 503.759,
+      "duration": 3.921
+    },
+    {
+      "text": "being sometimes in the office sometimes",
+      "start": 506.08,
+      "duration": 4.36
+    },
+    {
+      "text": "at home and then ENT applying this new",
+      "start": 507.68,
+      "duration": 4.56
+    },
+    {
+      "text": "level of understanding that we'll get",
+      "start": 510.44,
+      "duration": 4.479
+    },
+    {
+      "text": "from exploring these issues to um",
+      "start": 512.24,
+      "duration": 4.799
+    },
+    {
+      "text": "learning how to make kind of remote and",
+      "start": 514.919,
+      "duration": 4.321
+    },
+    {
+      "text": "hybrid working more inclusive in the",
+      "start": 517.039,
+      "duration": 4.8
+    },
+    {
+      "text": "future for their needs um so that when",
+      "start": 519.24,
+      "duration": 5.0
+    },
+    {
+      "text": "employers Implement these kind of new",
+      "start": 521.839,
+      "duration": 5.081
+    },
+    {
+      "text": "forms of working they're not assuming a",
+      "start": 524.24,
+      "duration": 4.56
+    },
+    {
+      "text": "non-disabled worker you know they're",
+      "start": 526.92,
+      "duration": 3.64
+    },
+    {
+      "text": "actually assuming some people could have",
+      "start": 528.8,
+      "duration": 2.92
+    },
+    {
+      "text": "different needs some people could have",
+      "start": 530.56,
+      "duration": 2.92
+    },
+    {
+      "text": "fluctuating conditions and make sure",
+      "start": 531.72,
+      "duration": 4.679
+    },
+    {
+      "text": "that it works for everyone um so that's",
+      "start": 533.48,
+      "duration": 5.64
+    },
+    {
+      "text": "the kind of the headline idea for the",
+      "start": 536.399,
+      "duration": 4.0
+    },
+    {
+      "text": "project",
+      "start": 539.12,
+      "duration": 3.2
+    },
+    {
+      "text": "um so that's the employer level we're",
+      "start": 540.399,
+      "duration": 3.721
+    },
+    {
+      "text": "looking at how employers can make these",
+      "start": 542.32,
+      "duration": 3.959
+    },
+    {
+      "text": "things more inclusive we're currently in",
+      "start": 544.12,
+      "duration": 3.8
+    },
+    {
+      "text": "the first round of the project which is",
+      "start": 546.279,
+      "duration": 3.68
+    },
+    {
+      "text": "an online survey that we're currently",
+      "start": 547.92,
+      "duration": 4.76
+    },
+    {
+      "text": "asking anybody anyone in the UK who's",
+      "start": 549.959,
+      "duration": 4.32
+    },
+    {
+      "text": "had experience of remote hybrid working",
+      "start": 552.68,
+      "duration": 3.839
+    },
+    {
+      "text": "anytime over the past five years doesn't",
+      "start": 554.279,
+      "duration": 3.521
+    },
+    {
+      "text": "have to be at the moment don't have to",
+      "start": 556.519,
+      "duration": 3.281
+    },
+    {
+      "text": "be in employment at the moment who",
+      "start": 557.8,
+      "duration": 3.8
+    },
+    {
+      "text": "considers themselves either disabled or",
+      "start": 559.8,
+      "duration": 3.159
+    },
+    {
+      "text": "has a long-term physical or mental",
+      "start": 561.6,
+      "duration": 3.479
+    },
+    {
+      "text": "health condition just to fill out the",
+      "start": 562.959,
+      "duration": 4.56
+    },
+    {
+      "text": "survey and have their voice heard um",
+      "start": 565.079,
+      "duration": 4.44
+    },
+    {
+      "text": "about hybrid and remote working how",
+      "start": 567.519,
+      "duration": 3.56
+    },
+    {
+      "text": "works for them what they like about it",
+      "start": 569.519,
+      "duration": 3.241
+    },
+    {
+      "text": "what they don't like what they feel",
+      "start": 571.079,
+      "duration": 3.641
+    },
+    {
+      "text": "could be improved upon you know what",
+      "start": 572.76,
+      "duration": 4.4
+    },
+    {
+      "text": "isn't taken into consideration by their",
+      "start": 574.72,
+      "duration": 4.76
+    },
+    {
+      "text": "current employer or their past employer",
+      "start": 577.16,
+      "duration": 3.679
+    },
+    {
+      "text": "so that's the current Str we're talking",
+      "start": 579.48,
+      "duration": 4.08
+    },
+    {
+      "text": "about the survey after the survey I'm",
+      "start": 580.839,
+      "duration": 5.401
+    },
+    {
+      "text": "going to be interviewing about 50 people",
+      "start": 583.56,
+      "duration": 4.24
+    },
+    {
+      "text": "who have done the survey and have",
+      "start": 586.24,
+      "duration": 3.32
+    },
+    {
+      "text": "indicated they'd like to be interviewed",
+      "start": 587.8,
+      "duration": 2.64
+    },
+    {
+      "text": "and then we're going to be really",
+      "start": 589.56,
+      "duration": 2.399
+    },
+    {
+      "text": "drilling down into their individual",
+      "start": 590.44,
+      "duration": 3.8
+    },
+    {
+      "text": "experiences so then we've got we've got",
+      "start": 591.959,
+      "duration": 4.241
+    },
+    {
+      "text": "a top level survey data and then",
+      "start": 594.24,
+      "duration": 4.48
+    },
+    {
+      "text": "individual Indie data as well of their",
+      "start": 596.2,
+      "duration": 4.04
+    },
+    {
+      "text": "experiences",
+      "start": 598.72,
+      "duration": 3.28
+    },
+    {
+      "text": "um and then after that I'll then be",
+      "start": 600.24,
+      "duration": 4.0
+    },
+    {
+      "text": "talking to employers about their using",
+      "start": 602.0,
+      "duration": 4.56
+    },
+    {
+      "text": "them as case studies to see from their",
+      "start": 604.24,
+      "duration": 3.48
+    },
+    {
+      "text": "perspective what they feel the",
+      "start": 606.56,
+      "duration": 4.04
+    },
+    {
+      "text": "challenges have been in you know helping",
+      "start": 607.72,
+      "duration": 4.679
+    },
+    {
+      "text": "people adjust to a remote and hybrid",
+      "start": 610.6,
+      "duration": 3.359
+    },
+    {
+      "text": "working which over the last five years",
+      "start": 612.399,
+      "duration": 4.44
+    },
+    {
+      "text": "basically all of us have had to do um",
+      "start": 613.959,
+      "duration": 4.201
+    },
+    {
+      "text": "you know whether they've taken much",
+      "start": 616.839,
+      "duration": 3.761
+    },
+    {
+      "text": "consideration into their disabled",
+      "start": 618.16,
+      "duration": 5.44
+    },
+    {
+      "text": "Workforce in doing so how they feel you",
+      "start": 620.6,
+      "duration": 4.919
+    },
+    {
+      "text": "know these changes affect the world of",
+      "start": 623.6,
+      "duration": 3.479
+    },
+    {
+      "text": "work and how they work obviously it'll",
+      "start": 625.519,
+      "duration": 4.841
+    },
+    {
+      "text": "be different in each sector um and then",
+      "start": 627.079,
+      "duration": 5.481
+    },
+    {
+      "text": "after that we'll be talking to policy",
+      "start": 630.36,
+      "duration": 4.84
+    },
+    {
+      "text": "makers at the local and National level",
+      "start": 632.56,
+      "duration": 4.839
+    },
+    {
+      "text": "about how they feel about how these",
+      "start": 635.2,
+      "duration": 4.52
+    },
+    {
+      "text": "issues are change in the world of work",
+      "start": 637.399,
+      "duration": 4.641
+    },
+    {
+      "text": "do they feel that any new guidance needs",
+      "start": 639.72,
+      "duration": 4.16
+    },
+    {
+      "text": "to be given to employers to make sure",
+      "start": 642.04,
+      "duration": 3.76
+    },
+    {
+      "text": "that you know hybrid and remote work and",
+      "start": 643.88,
+      "duration": 4.68
+    },
+    {
+      "text": "works for everyone um and then finally",
+      "start": 645.8,
+      "duration": 5.0
+    },
+    {
+      "text": "at the end most excitingly um I'm",
+      "start": 648.56,
+      "duration": 3.68
+    },
+    {
+      "text": "commissioning a production company to",
+      "start": 650.8,
+      "duration": 3.64
+    },
+    {
+      "text": "create a short film highlighting some of",
+      "start": 652.24,
+      "duration": 4.56
+    },
+    {
+      "text": "these experiences so we'll be like be",
+      "start": 654.44,
+      "duration": 3.48
+    },
+    {
+      "text": "people have interview people from the",
+      "start": 656.8,
+      "duration": 2.08
+    },
+    {
+      "text": "server who would think have' got",
+      "start": 657.92,
+      "duration": 3.28
+    },
+    {
+      "text": "interesting stories um you know we'll be",
+      "start": 658.88,
+      "duration": 4.6
+    },
+    {
+      "text": "filming them hopefully one or two of",
+      "start": 661.2,
+      "duration": 3.96
+    },
+    {
+      "text": "them in their homes to highlight really",
+      "start": 663.48,
+      "duration": 5.96
+    },
+    {
+      "text": "visually how this works for them um and",
+      "start": 665.16,
+      "duration": 6.08
+    },
+    {
+      "text": "in in another way to just essentially",
+      "start": 669.44,
+      "duration": 3.28
+    },
+    {
+      "text": "provide a visual way of communicating",
+      "start": 671.24,
+      "duration": 3.12
+    },
+    {
+      "text": "our research findings that doesn't",
+      "start": 672.72,
+      "duration": 3.2
+    },
+    {
+      "text": "involve reading a massive report written",
+      "start": 674.36,
+      "duration": 2.52
+    },
+    {
+      "text": "by",
+      "start": 675.92,
+      "duration": 4.159
+    },
+    {
+      "text": "academics so that will be up until",
+      "start": 676.88,
+      "duration": 6.48
+    },
+    {
+      "text": "December 2024 and um we'll be releasing",
+      "start": 680.079,
+      "duration": 6.0
+    },
+    {
+      "text": "the film and like a big report probably",
+      "start": 683.36,
+      "duration": 4.52
+    },
+    {
+      "text": "next October November at a big launch",
+      "start": 686.079,
+      "duration": 4.241
+    },
+    {
+      "text": "event so yeah it's all in flux at the",
+      "start": 687.88,
+      "duration": 4.24
+    },
+    {
+      "text": "moment and it's a busy schedule but it's",
+      "start": 690.32,
+      "duration": 4.44
+    },
+    {
+      "text": "exciting yeah it does sound exciting and",
+      "start": 692.12,
+      "duration": 7.2
+    },
+    {
+      "text": "I think I mean I I love the idea of like",
+      "start": 694.76,
+      "duration": 7.56
+    },
+    {
+      "text": "research being more accessible I mean",
+      "start": 699.32,
+      "duration": 4.48
+    },
+    {
+      "text": "you said you know it's it's going to be",
+      "start": 702.32,
+      "duration": 5.199
+    },
+    {
+      "text": "a film well like you know to me anyway",
+      "start": 703.8,
+      "duration": 7.0
+    },
+    {
+      "text": "that would seem more accessible to a non",
+      "start": 707.519,
+      "duration": 6.401
+    },
+    {
+      "text": "researcher a non-scientist a non- doctor",
+      "start": 710.8,
+      "duration": 6.52
+    },
+    {
+      "text": "than you know paper that's as sort of",
+      "start": 713.92,
+      "duration": 5.56
+    },
+    {
+      "text": "thick as a tree trunk kind of thing yeah",
+      "start": 717.32,
+      "duration": 5.6
+    },
+    {
+      "text": "and written in go exactly you know like",
+      "start": 719.48,
+      "duration": 5.24
+    },
+    {
+      "text": "realistically who's going to read that",
+      "start": 722.92,
+      "duration": 3.479
+    },
+    {
+      "text": "like I'm sure plenty of people will in",
+      "start": 724.72,
+      "duration": 3.559
+    },
+    {
+      "text": "Academia but you know the sort of the",
+      "start": 726.399,
+      "duration": 4.68
+    },
+    {
+      "text": "people that the study is kind of",
+      "start": 728.279,
+      "duration": 5.481
+    },
+    {
+      "text": "speaking to and and everything probably",
+      "start": 731.079,
+      "duration": 5.681
+    },
+    {
+      "text": "aren't even able bodied people without",
+      "start": 733.76,
+      "duration": 5.199
+    },
+    {
+      "text": "disability without health conditions",
+      "start": 736.76,
+      "duration": 4.84
+    },
+    {
+      "text": "would probably struggle with that um and",
+      "start": 738.959,
+      "duration": 4.44
+    },
+    {
+      "text": "I just I I think this is a really great",
+      "start": 741.6,
+      "duration": 3.28
+    },
+    {
+      "text": "step forward I interviewed somebody",
+      "start": 743.399,
+      "duration": 4.481
+    },
+    {
+      "text": "quite recently who is doing their",
+      "start": 744.88,
+      "duration": 6.319
+    },
+    {
+      "text": "research output as a podcast for kind of",
+      "start": 747.88,
+      "duration": 5.28
+    },
+    {
+      "text": "similar reasons and I think as well you",
+      "start": 751.199,
+      "duration": 3.241
+    },
+    {
+      "text": "know when you think of the subject",
+      "start": 753.16,
+      "duration": 4.08
+    },
+    {
+      "text": "matter it's even more appropriate and",
+      "start": 754.44,
+      "duration": 4.04
+    },
+    {
+      "text": "you know I really hope that that might",
+      "start": 757.24,
+      "duration": 2.8
+    },
+    {
+      "text": "be something that you know is taken",
+      "start": 758.48,
+      "duration": 3.88
+    },
+    {
+      "text": "forward by more people in the future",
+      "start": 760.04,
+      "duration": 4.919
+    },
+    {
+      "text": "because you know it just makes a lot of",
+      "start": 762.36,
+      "duration": 7.08
+    },
+    {
+      "text": "sense to me yeah I think so I think like",
+      "start": 764.959,
+      "duration": 6.841
+    },
+    {
+      "text": "the core of this project is you know",
+      "start": 769.44,
+      "duration": 4.44
+    },
+    {
+      "text": "giving disabled workers experiences",
+      "start": 771.8,
+      "duration": 4.64
+    },
+    {
+      "text": "remote hybrid working a bigger voice and",
+      "start": 773.88,
+      "duration": 5.519
+    },
+    {
+      "text": "if that bigger voice is then taken by",
+      "start": 776.44,
+      "duration": 5.92
+    },
+    {
+      "text": "academic and turned into very overly",
+      "start": 779.399,
+      "duration": 4.8
+    },
+    {
+      "text": "complicated language you you're almost",
+      "start": 782.36,
+      "duration": 3.8
+    },
+    {
+      "text": "losing their voice in its own way and",
+      "start": 784.199,
+      "duration": 4.76
+    },
+    {
+      "text": "it's very the idea of doing academic",
+      "start": 786.16,
+      "duration": 4.44
+    },
+    {
+      "text": "research to then only talk to other",
+      "start": 788.959,
+      "duration": 4.44
+    },
+    {
+      "text": "academics seem very pointless to me you",
+      "start": 790.6,
+      "duration": 4.84
+    },
+    {
+      "text": "know unless you're doing like some very",
+      "start": 793.399,
+      "duration": 4.401
+    },
+    {
+      "text": "theoretical or philosophical thing like",
+      "start": 795.44,
+      "duration": 3.759
+    },
+    {
+      "text": "the whole point of the research I like",
+      "start": 797.8,
+      "duration": 3.52
+    },
+    {
+      "text": "to do is exploring real world",
+      "start": 799.199,
+      "duration": 4.401
+    },
+    {
+      "text": "experiences and then applying that new",
+      "start": 801.32,
+      "duration": 3.8
+    },
+    {
+      "text": "level of understanding to making things",
+      "start": 803.6,
+      "duration": 3.32
+    },
+    {
+      "text": "a bit better and you can't do that if",
+      "start": 805.12,
+      "duration": 2.92
+    },
+    {
+      "text": "you're already talking to other",
+      "start": 806.92,
+      "duration": 5.32
+    },
+    {
+      "text": "academics um so you know a film can help",
+      "start": 808.04,
+      "duration": 6.32
+    },
+    {
+      "text": "cartoon you know animations like stick",
+      "start": 812.24,
+      "duration": 3.599
+    },
+    {
+      "text": "one three minute one on YouTube I saw",
+      "start": 814.36,
+      "duration": 3.479
+    },
+    {
+      "text": "someone did that recently that kind of",
+      "start": 815.839,
+      "duration": 3.961
+    },
+    {
+      "text": "thing anything that kind of helps",
+      "start": 817.839,
+      "duration": 3.841
+    },
+    {
+      "text": "communicate findings to a wider audience",
+      "start": 819.8,
+      "duration": 4.52
+    },
+    {
+      "text": "I think helps and if we get to do a film",
+      "start": 821.68,
+      "duration": 4.08
+    },
+    {
+      "text": "I get to potentially films from dogs and",
+      "start": 824.32,
+      "duration": 5.28
+    },
+    {
+      "text": "cats always nice works very well yeah",
+      "start": 825.76,
+      "duration": 5.96
+    },
+    {
+      "text": "amazing um but yeah you know it's it's",
+      "start": 829.6,
+      "duration": 3.679
+    },
+    {
+      "text": "this whole idea that research doesn't",
+      "start": 831.72,
+      "duration": 3.559
+    },
+    {
+      "text": "have to just be for academics it doesn't",
+      "start": 833.279,
+      "duration": 3.601
+    },
+    {
+      "text": "just have to be for those quote unquote",
+      "start": 835.279,
+      "duration": 3.521
+    },
+    {
+      "text": "clever people it is for everybody and",
+      "start": 836.88,
+      "duration": 3.6
+    },
+    {
+      "text": "it's relevant to everybody or it",
+      "start": 838.8,
+      "duration": 4.36
+    },
+    {
+      "text": "certainly can be um definitely I mean I",
+      "start": 840.48,
+      "duration": 4.799
+    },
+    {
+      "text": "think the the idea of remote and hybrid",
+      "start": 843.16,
+      "duration": 5.72
+    },
+    {
+      "text": "working is something that everybody or",
+      "start": 845.279,
+      "duration": 5.521
+    },
+    {
+      "text": "not everybody but the vast majority of",
+      "start": 848.88,
+      "duration": 3.959
+    },
+    {
+      "text": "people were kind of like forced into",
+      "start": 850.8,
+      "duration": 5.479
+    },
+    {
+      "text": "three and a half years ago and um it's",
+      "start": 852.839,
+      "duration": 5.12
+    },
+    {
+      "text": "something that I guess I was less aware",
+      "start": 856.279,
+      "duration": 4.041
+    },
+    {
+      "text": "of because the sector I was working in",
+      "start": 857.959,
+      "duration": 4.601
+    },
+    {
+      "text": "was one of the less adaptable ones I",
+      "start": 860.32,
+      "duration": 3.92
+    },
+    {
+      "text": "think it could have been more adaptable",
+      "start": 862.56,
+      "duration": 3.32
+    },
+    {
+      "text": "but you know",
+      "start": 864.24,
+      "duration": 5.32
+    },
+    {
+      "text": "education is probably less so than",
+      "start": 865.88,
+      "duration": 7.56
+    },
+    {
+      "text": "office work for example um but um I I",
+      "start": 869.56,
+      "duration": 5.92
+    },
+    {
+      "text": "think it was then once I started",
+      "start": 873.44,
+      "duration": 4.24
+    },
+    {
+      "text": "experiencing long covid and speaking to",
+      "start": 875.48,
+      "duration": 3.88
+    },
+    {
+      "text": "other people with lung covid and with",
+      "start": 877.68,
+      "duration": 4.8
+    },
+    {
+      "text": "other chronic conditions I was kind of",
+      "start": 879.36,
+      "duration": 5.32
+    },
+    {
+      "text": "realizing this whole thing where people",
+      "start": 882.48,
+      "duration": 4.96
+    },
+    {
+      "text": "were saying we've been asking for home",
+      "start": 884.68,
+      "duration": 7.599
+    },
+    {
+      "text": "workking for 20 years because I have me",
+      "start": 887.44,
+      "duration": 7.199
+    },
+    {
+      "text": "and I struggle to travel or because I",
+      "start": 892.279,
+      "duration": 4.321
+    },
+    {
+      "text": "have you know whatever other health",
+      "start": 894.639,
+      "duration": 3.56
+    },
+    {
+      "text": "condition because it would be better for",
+      "start": 896.6,
+      "duration": 3.72
+    },
+    {
+      "text": "them and and you know I think there was",
+      "start": 898.199,
+      "duration": 3.281
+    },
+    {
+      "text": "this kind",
+      "start": 900.32,
+      "duration": 3.8
+    },
+    {
+      "text": "of sort of collective frustration but",
+      "start": 901.48,
+      "duration": 4.599
+    },
+    {
+      "text": "also like oh my goodness is this finally",
+      "start": 904.12,
+      "duration": 3.959
+    },
+    {
+      "text": "going to change you know we can all now",
+      "start": 906.079,
+      "duration": 4.521
+    },
+    {
+      "text": "work from home this is great this makes",
+      "start": 908.079,
+      "duration": 4.2
+    },
+    {
+      "text": "things more flexible we have things like",
+      "start": 910.6,
+      "duration": 4.599
+    },
+    {
+      "text": "hybrid events now so if you were like",
+      "start": 912.279,
+      "duration": 5.56
+    },
+    {
+      "text": "not able to leave your house actually",
+      "start": 915.199,
+      "duration": 5.08
+    },
+    {
+      "text": "you could go to concerts from your sofa",
+      "start": 917.839,
+      "duration": 4.12
+    },
+    {
+      "text": "and um you know this was something that",
+      "start": 920.279,
+      "duration": 3.401
+    },
+    {
+      "text": "I I thought was great because I was",
+      "start": 921.959,
+      "duration": 3.281
+    },
+    {
+      "text": "unwell at the time and I could sit on my",
+      "start": 923.68,
+      "duration": 3.24
+    },
+    {
+      "text": "sofa and watch like hetic connections",
+      "start": 925.24,
+      "duration": 3.44
+    },
+    {
+      "text": "and it's incredible and actually like",
+      "start": 926.92,
+      "duration": 3.76
+    },
+    {
+      "text": "now I could go to Celtic connections if",
+      "start": 928.68,
+      "duration": 3.279
+    },
+    {
+      "text": "I wanted to but actually I think I would",
+      "start": 930.68,
+      "duration": 3.32
+    },
+    {
+      "text": "still rather watch it from Mya um but",
+      "start": 931.959,
+      "duration": 3.68
+    },
+    {
+      "text": "unfortunately a lot of these things seem",
+      "start": 934.0,
+      "duration": 4.36
+    },
+    {
+      "text": "to have taken a bit of a step backwards",
+      "start": 935.639,
+      "duration": 4.32
+    },
+    {
+      "text": "because everybody seems to want to go",
+      "start": 938.36,
+      "duration": 3.839
+    },
+    {
+      "text": "back to this quote unquote normal um so",
+      "start": 939.959,
+      "duration": 5.0
+    },
+    {
+      "text": "I think um it's this kind of like really",
+      "start": 942.199,
+      "duration": 4.721
+    },
+    {
+      "text": "weird kind of space where we've proved",
+      "start": 944.959,
+      "duration": 4.24
+    },
+    {
+      "text": "it's possible for a lot of people I mean",
+      "start": 946.92,
+      "duration": 3.44
+    },
+    {
+      "text": "you know there's always going to be some",
+      "start": 949.199,
+      "duration": 2.481
+    },
+    {
+      "text": "jobs that can't be done if you're were",
+      "start": 950.36,
+      "duration": 2.959
+    },
+    {
+      "text": "like a consultant in a hospital you're",
+      "start": 951.68,
+      "duration": 2.92
+    },
+    {
+      "text": "probably going to struggle to do that",
+      "start": 953.319,
+      "duration": 4.08
+    },
+    {
+      "text": "from home um but um you know there's",
+      "start": 954.6,
+      "duration": 4.919
+    },
+    {
+      "text": "there's so much more flexib",
+      "start": 957.399,
+      "duration": 5.721
+    },
+    {
+      "text": "in so many jobs and there could be more",
+      "start": 959.519,
+      "duration": 5.68
+    },
+    {
+      "text": "with more creative thinking with more",
+      "start": 963.12,
+      "duration": 4.48
+    },
+    {
+      "text": "sort of I don't know I think we put a",
+      "start": 965.199,
+      "duration": 4.961
+    },
+    {
+      "text": "lot of this on bosses because you know",
+      "start": 967.6,
+      "duration": 5.039
+    },
+    {
+      "text": "they're the people at the top maybe some",
+      "start": 970.16,
+      "duration": 4.08
+    },
+    {
+      "text": "of that is Justified but I think in a",
+      "start": 972.639,
+      "duration": 4.601
+    },
+    {
+      "text": "lot of ways maybe it's more education um",
+      "start": 974.24,
+      "duration": 5.44
+    },
+    {
+      "text": "and working together so working with the",
+      "start": 977.24,
+      "duration": 4.48
+    },
+    {
+      "text": "people who would like to be working from",
+      "start": 979.68,
+      "duration": 3.76
+    },
+    {
+      "text": "home because it works better for them",
+      "start": 981.72,
+      "duration": 3.76
+    },
+    {
+      "text": "working with the people who have the",
+      "start": 983.44,
+      "duration": 4.72
+    },
+    {
+      "text": "ability to allow them to to come up with",
+      "start": 985.48,
+      "duration": 4.24
+    },
+    {
+      "text": "things and it's not going to be the same",
+      "start": 988.16,
+      "duration": 3.44
+    },
+    {
+      "text": "for everybody is it because everybody is",
+      "start": 989.72,
+      "duration": 4.16
+    },
+    {
+      "text": "different which is both beautiful and I",
+      "start": 991.6,
+      "duration": 4.52
+    },
+    {
+      "text": "guess frustrating I'd imagine it's",
+      "start": 993.88,
+      "duration": 3.519
+    },
+    {
+      "text": "frustrating from a managerial",
+      "start": 996.12,
+      "duration": 3.04
+    },
+    {
+      "text": "perspective when you want to put form",
+      "start": 997.399,
+      "duration": 4.161
+    },
+    {
+      "text": "more processes in but that's quite a",
+      "start": 999.16,
+      "duration": 3.919
+    },
+    {
+      "text": "tricky thing to do when people have you",
+      "start": 1001.56,
+      "duration": 4.0
+    },
+    {
+      "text": "know fluctuating conditions that could",
+      "start": 1003.079,
+      "duration": 3.801
+    },
+    {
+      "text": "flare up at any moment and they don't",
+      "start": 1005.56,
+      "duration": 3.04
+    },
+    {
+      "text": "know that's going to happen yeah",
+      "start": 1006.88,
+      "duration": 3.48
+    },
+    {
+      "text": "definitely and it's it's trying to make",
+      "start": 1008.6,
+      "duration": 5.159
+    },
+    {
+      "text": "things work and just because it might be",
+      "start": 1010.36,
+      "duration": 5.68
+    },
+    {
+      "text": "slightly more difficult doesn't mean",
+      "start": 1013.759,
+      "duration": 4.161
+    },
+    {
+      "text": "it's not the right thing to do",
+      "start": 1016.04,
+      "duration": 3.479
+    },
+    {
+      "text": "absolutely I think that's quite an",
+      "start": 1017.92,
+      "duration": 5.24
+    },
+    {
+      "text": "important thing if it allows somebody to",
+      "start": 1019.519,
+      "duration": 5.361
+    },
+    {
+      "text": "work a bit more flexibly which means",
+      "start": 1023.16,
+      "duration": 3.48
+    },
+    {
+      "text": "they then can work probably the best",
+      "start": 1024.88,
+      "duration": 3.52
+    },
+    {
+      "text": "part A fulltime they just need to maybe",
+      "start": 1026.64,
+      "duration": 5.399
+    },
+    {
+      "text": "do it a bit more flexibly then that has",
+      "start": 1028.4,
+      "duration": 5.559
+    },
+    {
+      "text": "to be worth the effort for everyone's",
+      "start": 1032.039,
+      "duration": 4.28
+    },
+    {
+      "text": "sake yeah because there's an element to",
+      "start": 1033.959,
+      "duration": 4.521
+    },
+    {
+      "text": "this as well which is it's not just",
+      "start": 1036.319,
+      "duration": 4.48
+    },
+    {
+      "text": "about how does these things work for",
+      "start": 1038.48,
+      "duration": 3.839
+    },
+    {
+      "text": "them in their everyday work but also",
+      "start": 1040.799,
+      "duration": 3.76
+    },
+    {
+      "text": "like how you know for for people with",
+      "start": 1042.319,
+      "duration": 3.88
+    },
+    {
+      "text": "quite severe conditions how would this",
+      "start": 1044.559,
+      "duration": 3.321
+    },
+    {
+      "text": "allow them to stay in the labor market",
+      "start": 1046.199,
+      "duration": 3.241
+    },
+    {
+      "text": "to stay within their current job you",
+      "start": 1047.88,
+      "duration": 3.76
+    },
+    {
+      "text": "know I feel like the moment we're really",
+      "start": 1049.44,
+      "duration": 5.68
+    },
+    {
+      "text": "at this kind of critical juncture of you",
+      "start": 1051.64,
+      "duration": 5.24
+    },
+    {
+      "text": "know this public debate amongst",
+      "start": 1055.12,
+      "duration": 3.72
+    },
+    {
+      "text": "employers policy makers workers everyone",
+      "start": 1056.88,
+      "duration": 4.08
+    },
+    {
+      "text": "about you know are we just going to",
+      "start": 1058.84,
+      "duration": 3.76
+    },
+    {
+      "text": "return to forced office working after",
+      "start": 1060.96,
+      "duration": 4.68
+    },
+    {
+      "text": "this or is this a real Watershed um and",
+      "start": 1062.6,
+      "duration": 4.04
+    },
+    {
+      "text": "it feels like there's a real kind of",
+      "start": 1065.64,
+      "duration": 2.36
+    },
+    {
+      "text": "binary divide at the moment in the",
+      "start": 1066.64,
+      "duration": 3.88
+    },
+    {
+      "text": "papers of like it's either forced office",
+      "start": 1068.0,
+      "duration": 4.36
+    },
+    {
+      "text": "working or it's fully remote like so",
+      "start": 1070.52,
+      "duration": 3.519
+    },
+    {
+      "text": "like instantly the other day there was",
+      "start": 1072.36,
+      "duration": 3.6
+    },
+    {
+      "text": "you know the big thing about Zoom",
+      "start": 1074.039,
+      "duration": 3.321
+    },
+    {
+      "text": "forcing people to go in the office two",
+      "start": 1075.96,
+      "duration": 3.64
+    },
+    {
+      "text": "days a week but I also read a piece that",
+      "start": 1077.36,
+      "duration": 4.199
+    },
+    {
+      "text": "someone said well also yes they're",
+      "start": 1079.6,
+      "duration": 3.48
+    },
+    {
+      "text": "forcing them to go two days in the week",
+      "start": 1081.559,
+      "duration": 2.761
+    },
+    {
+      "text": "but if you look at that from the other",
+      "start": 1083.08,
+      "duration": 3.12
+    },
+    {
+      "text": "perspective it's formalizing a three",
+      "start": 1084.32,
+      "duration": 3.88
+    },
+    {
+      "text": "days at home hybrid working arrangement",
+      "start": 1086.2,
+      "duration": 3.959
+    },
+    {
+      "text": "you know so there are two sides to these",
+      "start": 1088.2,
+      "duration": 4.2
+    },
+    {
+      "text": "things and the idea that we went through",
+      "start": 1090.159,
+      "duration": 4.041
+    },
+    {
+      "text": "all that and then we just go back to",
+      "start": 1092.4,
+      "duration": 4.24
+    },
+    {
+      "text": "what didn't work before seems incredibly",
+      "start": 1094.2,
+      "duration": 4.8
+    },
+    {
+      "text": "absurd to me um and part of this",
+      "start": 1096.64,
+      "duration": 5.08
+    },
+    {
+      "text": "research is kind of showing how you know",
+      "start": 1099.0,
+      "duration": 4.32
+    },
+    {
+      "text": "this worked for people as well and it's",
+      "start": 1101.72,
+      "duration": 3.8
+    },
+    {
+      "text": "not just we can work from home now",
+      "start": 1103.32,
+      "duration": 4.92
+    },
+    {
+      "text": "that's all we want to do it's we get to",
+      "start": 1105.52,
+      "duration": 5.08
+    },
+    {
+      "text": "work a bit more flexibly as you say and",
+      "start": 1108.24,
+      "duration": 3.679
+    },
+    {
+      "text": "this is how this helps us it doesn't",
+      "start": 1110.6,
+      "duration": 2.92
+    },
+    {
+      "text": "mean we never want to come in the office",
+      "start": 1111.919,
+      "duration": 4.521
+    },
+    {
+      "text": "because that's not it either um but you",
+      "start": 1113.52,
+      "duration": 4.56
+    },
+    {
+      "text": "know just a bit more understanding a bit",
+      "start": 1116.44,
+      "duration": 4.0
+    },
+    {
+      "text": "more flexibility I think is what people",
+      "start": 1118.08,
+      "duration": 5.12
+    },
+    {
+      "text": "want and it's not just at the employer",
+      "start": 1120.44,
+      "duration": 4.479
+    },
+    {
+      "text": "level on a you know a mass",
+      "start": 1123.2,
+      "duration": 4.2
+    },
+    {
+      "text": "organizational thing it's also giving",
+      "start": 1124.919,
+      "duration": 4.801
+    },
+    {
+      "text": "managers down the line down the command",
+      "start": 1127.4,
+      "duration": 5.159
+    },
+    {
+      "text": "structure a level of understanding of",
+      "start": 1129.72,
+      "duration": 5.199
+    },
+    {
+      "text": "people's needs to make sure that those",
+      "start": 1132.559,
+      "duration": 3.761
+    },
+    {
+      "text": "organizational strategies do get",
+      "start": 1134.919,
+      "duration": 4.401
+    },
+    {
+      "text": "implemented for individual people so",
+      "start": 1136.32,
+      "duration": 4.4
+    },
+    {
+      "text": "that's that's all part of it really it's",
+      "start": 1139.32,
+      "duration": 2.719
+    },
+    {
+      "text": "a very ambitious project now I think",
+      "start": 1140.72,
+      "duration": 3.959
+    },
+    {
+      "text": "about it yeah but I think it's an",
+      "start": 1142.039,
+      "duration": 5.241
+    },
+    {
+      "text": "important one and um you know having",
+      "start": 1144.679,
+      "duration": 4.441
+    },
+    {
+      "text": "been through my own experience in the",
+      "start": 1147.28,
+      "duration": 3.84
+    },
+    {
+      "text": "last you know three and three and a bit",
+      "start": 1149.12,
+      "duration": 4.84
+    },
+    {
+      "text": "years I think I have much more awareness",
+      "start": 1151.12,
+      "duration": 5.64
+    },
+    {
+      "text": "myself of why it's important you know I",
+      "start": 1153.96,
+      "duration": 4.719
+    },
+    {
+      "text": "think before I got ill I was working a",
+      "start": 1156.76,
+      "duration": 4.08
+    },
+    {
+      "text": "job that you know would would have",
+      "start": 1158.679,
+      "duration": 4.641
+    },
+    {
+      "text": "struggled and and did struggle to to go",
+      "start": 1160.84,
+      "duration": 5.92
+    },
+    {
+      "text": "on to um on an online way but you know",
+      "start": 1163.32,
+      "duration": 5.08
+    },
+    {
+      "text": "was that because the job doesn't work",
+      "start": 1166.76,
+      "duration": 3.919
+    },
+    {
+      "text": "online or was that because actually it",
+      "start": 1168.4,
+      "duration": 3.759
+    },
+    {
+      "text": "just needed a little bit more thinking",
+      "start": 1170.679,
+      "duration": 3.401
+    },
+    {
+      "text": "around it and I'm sure that that will be",
+      "start": 1172.159,
+      "duration": 3.841
+    },
+    {
+      "text": "different for everybody but just you",
+      "start": 1174.08,
+      "duration": 4.04
+    },
+    {
+      "text": "know really it's the difference between",
+      "start": 1176.0,
+      "duration": 4.08
+    },
+    {
+      "text": "somebody being able to work being able",
+      "start": 1178.12,
+      "duration": 4.0
+    },
+    {
+      "text": "to feel like they're contributing being",
+      "start": 1180.08,
+      "duration": 4.92
+    },
+    {
+      "text": "able to be financially independent being",
+      "start": 1182.12,
+      "duration": 5.96
+    },
+    {
+      "text": "able to support their family and not um",
+      "start": 1185.0,
+      "duration": 5.039
+    },
+    {
+      "text": "and and I think you know I mean we're",
+      "start": 1188.08,
+      "duration": 3.16
+    },
+    {
+      "text": "talking about disability in the",
+      "start": 1190.039,
+      "duration": 2.721
+    },
+    {
+      "text": "workforce here which again you know is",
+      "start": 1191.24,
+      "duration": 3.84
+    },
+    {
+      "text": "is is the important conversation but I",
+      "start": 1192.76,
+      "duration": 4.6
+    },
+    {
+      "text": "think if you think about it more widely",
+      "start": 1195.08,
+      "duration": 5.0
+    },
+    {
+      "text": "being able to work in hybrid or a more",
+      "start": 1197.36,
+      "duration": 5.0
+    },
+    {
+      "text": "flexible way actually could help a lot",
+      "start": 1200.08,
+      "duration": 4.28
+    },
+    {
+      "text": "of other people as well you know a",
+      "start": 1202.36,
+      "duration": 3.72
+    },
+    {
+      "text": "single parent who is struggling for",
+      "start": 1204.36,
+      "duration": 3.88
+    },
+    {
+      "text": "child care for example if they were able",
+      "start": 1206.08,
+      "duration": 4.0
+    },
+    {
+      "text": "to work a bit more flexibly then they",
+      "start": 1208.24,
+      "duration": 3.24
+    },
+    {
+      "text": "would be able to maybe get their kids",
+      "start": 1210.08,
+      "duration": 3.12
+    },
+    {
+      "text": "from school and then work into the",
+      "start": 1211.48,
+      "duration": 3.96
+    },
+    {
+      "text": "evening or you know people who are",
+      "start": 1213.2,
+      "duration": 4.2
+    },
+    {
+      "text": "carers for example you know if you",
+      "start": 1215.44,
+      "duration": 5.239
+    },
+    {
+      "text": "actually had a disabled spouse for",
+      "start": 1217.4,
+      "duration": 5.92
+    },
+    {
+      "text": "example who needed a lot of care if you",
+      "start": 1220.679,
+      "duration": 5.161
+    },
+    {
+      "text": "were able to work from home then you'd",
+      "start": 1223.32,
+      "duration": 4.839
+    },
+    {
+      "text": "be able to provide that care while also",
+      "start": 1225.84,
+      "duration": 4.24
+    },
+    {
+      "text": "being able to to work um so there's",
+      "start": 1228.159,
+      "duration": 4.4
+    },
+    {
+      "text": "there's so many different angles to this",
+      "start": 1230.08,
+      "duration": 4.52
+    },
+    {
+      "text": "I think isn't there and I don't know",
+      "start": 1232.559,
+      "duration": 5.0
+    },
+    {
+      "text": "maybe it isn't maybe it is more people",
+      "start": 1234.6,
+      "duration": 5.12
+    },
+    {
+      "text": "with disability and and health",
+      "start": 1237.559,
+      "duration": 5.401
+    },
+    {
+      "text": "challenges that it will affect but I I",
+      "start": 1239.72,
+      "duration": 7.8
+    },
+    {
+      "text": "think it's not just that",
+      "start": 1242.96,
+      "duration": 4.56
+    },
+    {
+      "text": "group we'll be right",
+      "start": 1247.84,
+      "duration": 5.319
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1250.919,
+      "duration": 4.321
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1253.159,
+      "duration": 4.4
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1255.24,
+      "duration": 3.72
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1257.559,
+      "duration": 3.48
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1258.96,
+      "duration": 4.16
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1261.039,
+      "duration": 3.921
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1263.12,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with lco we've worked",
+      "start": 1264.96,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1267.6,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with lung",
+      "start": 1269.08,
+      "duration": 4.599
+    },
+    {
+      "text": "covid it's a 6-e course with 12 sessions",
+      "start": 1270.84,
+      "duration": 5.439
+    },
+    {
+      "text": "all delivered online the community feel",
+      "start": 1273.679,
+      "duration": 3.961
+    },
+    {
+      "text": "and learning that we're all sharing is",
+      "start": 1276.279,
+      "duration": 3.52
+    },
+    {
+      "text": "such a joy to find out more information",
+      "start": 1277.64,
+      "duration": 3.919
+    },
+    {
+      "text": "and to sign up for our courses workshops",
+      "start": 1279.799,
+      "duration": 3.681
+    },
+    {
+      "text": "and other shorter sessions please check",
+      "start": 1281.559,
+      "duration": 5.281
+    },
+    {
+      "text": "out the link below lco breathing.com or",
+      "start": 1283.48,
+      "duration": 5.64
+    },
+    {
+      "text": "email lco breathing Gmail",
+      "start": 1286.84,
+      "duration": 3.86
+    },
+    {
+      "text": "to start your breathing Journey with",
+      "start": 1289.12,
+      "duration": 5.189
+    },
+    {
+      "text": "[Music]",
+      "start": 1290.7,
+      "duration": 3.609
+    },
+    {
+      "text": "us no absolutely not yeah there's so",
+      "start": 1295.679,
+      "duration": 4.201
+    },
+    {
+      "text": "many elements to it and I think a lot of",
+      "start": 1298.039,
+      "duration": 4.041
+    },
+    {
+      "text": "these elements get lost in the debate",
+      "start": 1299.88,
+      "duration": 4.52
+    },
+    {
+      "text": "which often just comes back to like",
+      "start": 1302.08,
+      "duration": 4.32
+    },
+    {
+      "text": "productivity and how productive it makes",
+      "start": 1304.4,
+      "duration": 3.92
+    },
+    {
+      "text": "workers rather than thinking about those",
+      "start": 1306.4,
+      "duration": 3.36
+    },
+    {
+      "text": "longer term issues and that kind of",
+      "start": 1308.32,
+      "duration": 3.4
+    },
+    {
+      "text": "thing like um not to go on too off a",
+      "start": 1309.76,
+      "duration": 4.039
+    },
+    {
+      "text": "tangent but when I interviewed workers",
+      "start": 1311.72,
+      "duration": 4.28
+    },
+    {
+      "text": "being paid the living wage during my",
+      "start": 1313.799,
+      "duration": 4.161
+    },
+    {
+      "text": "PhD they were happy to be paid the",
+      "start": 1316.0,
+      "duration": 4.36
+    },
+    {
+      "text": "living wage but they also talked so much",
+      "start": 1317.96,
+      "duration": 3.36
+    },
+    {
+      "text": "about the importance of having a",
+      "start": 1320.36,
+      "duration": 2.679
+    },
+    {
+      "text": "flexible manager who would let them you",
+      "start": 1321.32,
+      "duration": 3.16
+    },
+    {
+      "text": "know go get their kid from school if",
+      "start": 1323.039,
+      "duration": 3.281
+    },
+    {
+      "text": "their kid was Z and that kind of stuff",
+      "start": 1324.48,
+      "duration": 4.679
+    },
+    {
+      "text": "and that that kind of like everyday",
+      "start": 1326.32,
+      "duration": 5.16
+    },
+    {
+      "text": "flexibility I think is what's so",
+      "start": 1329.159,
+      "duration": 5.12
+    },
+    {
+      "text": "important so like having a remote",
+      "start": 1331.48,
+      "duration": 4.24
+    },
+    {
+      "text": "working strategy or a hybrid working",
+      "start": 1334.279,
+      "duration": 2.841
+    },
+    {
+      "text": "strategy but then saying you have to be",
+      "start": 1335.72,
+      "duration": 3.559
+    },
+    {
+      "text": "in the office every Monday and Friday",
+      "start": 1337.12,
+      "duration": 5.24
+    },
+    {
+      "text": "that doesn't necessarily give you you",
+      "start": 1339.279,
+      "duration": 5.0
+    },
+    {
+      "text": "know more flexibility if you have to",
+      "start": 1342.36,
+      "duration": 3.4
+    },
+    {
+      "text": "always be there on a Monday and Friday",
+      "start": 1344.279,
+      "duration": 3.76
+    },
+    {
+      "text": "than you would possibly need and this is",
+      "start": 1345.76,
+      "duration": 4.039
+    },
+    {
+      "text": "the kind of thing thing that we want to",
+      "start": 1348.039,
+      "duration": 3.921
+    },
+    {
+      "text": "get out there really to show that people",
+      "start": 1349.799,
+      "duration": 3.841
+    },
+    {
+      "text": "have fluctuating needs sometimes you can",
+      "start": 1351.96,
+      "duration": 3.8
+    },
+    {
+      "text": "wake up and you've had a flare up and",
+      "start": 1353.64,
+      "duration": 3.2
+    },
+    {
+      "text": "you didn't know it was going to happen",
+      "start": 1355.76,
+      "duration": 3.2
+    },
+    {
+      "text": "so you could have plann for it so maybe",
+      "start": 1356.84,
+      "duration": 4.319
+    },
+    {
+      "text": "you can't go in on your for Friday in",
+      "start": 1358.96,
+      "duration": 5.36
+    },
+    {
+      "text": "the office that kind of thing um so yeah",
+      "start": 1361.159,
+      "duration": 5.321
+    },
+    {
+      "text": "it's just about finding those areas",
+      "start": 1364.32,
+      "duration": 3.88
+    },
+    {
+      "text": "where we can show employeers and we can",
+      "start": 1366.48,
+      "duration": 4.64
+    },
+    {
+      "text": "show specific managers that flexibility",
+      "start": 1368.2,
+      "duration": 4.64
+    },
+    {
+      "text": "here is important you know it's not just",
+      "start": 1371.12,
+      "duration": 4.0
+    },
+    {
+      "text": "one way or the other it has to be",
+      "start": 1372.84,
+      "duration": 5.0
+    },
+    {
+      "text": "fluctuation essentially um and like",
+      "start": 1375.12,
+      "duration": 4.799
+    },
+    {
+      "text": "speaking from a personal perspective",
+      "start": 1377.84,
+      "duration": 4.52
+    },
+    {
+      "text": "during my PhD I developed quite bad back",
+      "start": 1379.919,
+      "duration": 4.401
+    },
+    {
+      "text": "issues which is now considered",
+      "start": 1382.36,
+      "duration": 4.16
+    },
+    {
+      "text": "degenerative dis disease which is a",
+      "start": 1384.32,
+      "duration": 6.359
+    },
+    {
+      "text": "lovely phrase um and I spent 2017 to",
+      "start": 1386.52,
+      "duration": 6.44
+    },
+    {
+      "text": "2020 when I finished my PhD at the end",
+      "start": 1390.679,
+      "duration": 6.12
+    },
+    {
+      "text": "of it thinking well I'm a researcher I",
+      "start": 1392.96,
+      "duration": 5.56
+    },
+    {
+      "text": "have to be in the office every day but",
+      "start": 1396.799,
+      "duration": 4.081
+    },
+    {
+      "text": "my back wouldn't let me do that you know",
+      "start": 1398.52,
+      "duration": 3.399
+    },
+    {
+      "text": "and then you catastrophize and you're",
+      "start": 1400.88,
+      "duration": 2.24
+    },
+    {
+      "text": "like I'm never going to get a job after",
+      "start": 1401.919,
+      "duration": 4.041
+    },
+    {
+      "text": "this PhD and then a pandemic happens and",
+      "start": 1403.12,
+      "duration": 5.159
+    },
+    {
+      "text": "I can suddenly work from home and stuff",
+      "start": 1405.96,
+      "duration": 4.28
+    },
+    {
+      "text": "and now you see the debate going back",
+      "start": 1408.279,
+      "duration": 3.961
+    },
+    {
+      "text": "towards you know maybe people need to be",
+      "start": 1410.24,
+      "duration": 3.12
+    },
+    {
+      "text": "in the office more and it's really",
+      "start": 1412.24,
+      "duration": 2.96
+    },
+    {
+      "text": "interesting to see how kind of my",
+      "start": 1413.36,
+      "duration": 4.28
+    },
+    {
+      "text": "research side and my personal side of",
+      "start": 1415.2,
+      "duration": 5.959
+    },
+    {
+      "text": "intersected there um it's been so useful",
+      "start": 1417.64,
+      "duration": 5.36
+    },
+    {
+      "text": "for me and I often reflect on the FEA",
+      "start": 1421.159,
+      "duration": 4.161
+    },
+    {
+      "text": "when I was 18 I almost went to Chef",
+      "start": 1423.0,
+      "duration": 4.32
+    },
+    {
+      "text": "college and became a chef and if I'd",
+      "start": 1425.32,
+      "duration": 3.68
+    },
+    {
+      "text": "done that and then my back had gone bad",
+      "start": 1427.32,
+      "duration": 3.8
+    },
+    {
+      "text": "I my training would have been obsolete",
+      "start": 1429.0,
+      "duration": 4.36
+    },
+    {
+      "text": "essentially so I'm very lucky that I",
+      "start": 1431.12,
+      "duration": 4.52
+    },
+    {
+      "text": "took a career where I can work from home",
+      "start": 1433.36,
+      "duration": 4.439
+    },
+    {
+      "text": "and having that flexibility has allowed",
+      "start": 1435.64,
+      "duration": 3.919
+    },
+    {
+      "text": "me to keep doing academic research and",
+      "start": 1437.799,
+      "duration": 4.601
+    },
+    {
+      "text": "keep me in the labor market so you know",
+      "start": 1439.559,
+      "duration": 4.72
+    },
+    {
+      "text": "if we can find ways to keep other people",
+      "start": 1442.4,
+      "duration": 3.279
+    },
+    {
+      "text": "in the labor market and make employers",
+      "start": 1444.279,
+      "duration": 2.88
+    },
+    {
+      "text": "more understanding of people's different",
+      "start": 1445.679,
+      "duration": 3.12
+    },
+    {
+      "text": "needs and conditions especially when",
+      "start": 1447.159,
+      "duration": 4.281
+    },
+    {
+      "text": "they fluctuate a lot unexpectedly you",
+      "start": 1448.799,
+      "duration": 3.801
+    },
+    {
+      "text": "know that's the kind of research I want",
+      "start": 1451.44,
+      "duration": 4.2
+    },
+    {
+      "text": "to be doing and again I think I quoted",
+      "start": 1452.6,
+      "duration": 4.24
+    },
+    {
+      "text": "this quite recently and I should have",
+      "start": 1455.64,
+      "duration": 2.639
+    },
+    {
+      "text": "looked it up um because now I'm going to",
+      "start": 1456.84,
+      "duration": 3.56
+    },
+    {
+      "text": "look like an idiot again um but um",
+      "start": 1458.279,
+      "duration": 4.321
+    },
+    {
+      "text": "whoever it was that quoted something",
+      "start": 1460.4,
+      "duration": 4.08
+    },
+    {
+      "text": "like you know about learning from your",
+      "start": 1462.6,
+      "duration": 5.84
+    },
+    {
+      "text": "history um and you know understandably",
+      "start": 1464.48,
+      "duration": 5.559
+    },
+    {
+      "text": "the last three and a half years have",
+      "start": 1468.44,
+      "duration": 5.0
+    },
+    {
+      "text": "been traumatic for people and you know",
+      "start": 1470.039,
+      "duration": 4.681
+    },
+    {
+      "text": "the level of trauma is probably",
+      "start": 1473.44,
+      "duration": 3.2
+    },
+    {
+      "text": "different for different people and you",
+      "start": 1474.72,
+      "duration": 4.24
+    },
+    {
+      "text": "know as you said the pandemic isn't",
+      "start": 1476.64,
+      "duration": 4.24
+    },
+    {
+      "text": "really over certainly for a lot of",
+      "start": 1478.96,
+      "duration": 4.56
+    },
+    {
+      "text": "people you know they're still suffering",
+      "start": 1480.88,
+      "duration": 4.799
+    },
+    {
+      "text": "the after effects of it in in lots of",
+      "start": 1483.52,
+      "duration": 5.48
+    },
+    {
+      "text": "different ways so you know I can",
+      "start": 1485.679,
+      "duration": 5.0
+    },
+    {
+      "text": "understand that people might want to",
+      "start": 1489.0,
+      "duration": 3.0
+    },
+    {
+      "text": "pretend that the last three and a half",
+      "start": 1490.679,
+      "duration": 3.841
+    },
+    {
+      "text": "years didn't happen but I think there's",
+      "start": 1492.0,
+      "duration": 4.44
+    },
+    {
+      "text": "a lot of learning that we need to do",
+      "start": 1494.52,
+      "duration": 4.039
+    },
+    {
+      "text": "from that you know in terms of well you",
+      "start": 1496.44,
+      "duration": 4.32
+    },
+    {
+      "text": "know things like air quality and people",
+      "start": 1498.559,
+      "duration": 3.441
+    },
+    {
+      "text": "not going into the office when they're",
+      "start": 1500.76,
+      "duration": 3.519
+    },
+    {
+      "text": "sick um but also you know in terms of",
+      "start": 1502.0,
+      "duration": 4.799
+    },
+    {
+      "text": "the fact that actually there is the",
+      "start": 1504.279,
+      "duration": 6.481
+    },
+    {
+      "text": "ability when people work together for",
+      "start": 1506.799,
+      "duration": 6.24
+    },
+    {
+      "text": "flexibility for working remotely for",
+      "start": 1510.76,
+      "duration": 4.72
+    },
+    {
+      "text": "working in a hybrid manner for a lot of",
+      "start": 1513.039,
+      "duration": 4.88
+    },
+    {
+      "text": "these jobs to be done in a way that",
+      "start": 1515.48,
+      "duration": 4.679
+    },
+    {
+      "text": "actually works for",
+      "start": 1517.919,
+      "duration": 4.201
+    },
+    {
+      "text": "people and I suppose you know the",
+      "start": 1520.159,
+      "duration": 4.161
+    },
+    {
+      "text": "flexibility maybe needs to go both ways",
+      "start": 1522.12,
+      "duration": 4.039
+    },
+    {
+      "text": "because you also find that there are",
+      "start": 1524.32,
+      "duration": 3.76
+    },
+    {
+      "text": "some people who just cannot focus at",
+      "start": 1526.159,
+      "duration": 3.841
+    },
+    {
+      "text": "home and they need to be in an office",
+      "start": 1528.08,
+      "duration": 4.28
+    },
+    {
+      "text": "and they want to be in an office and",
+      "start": 1530.0,
+      "duration": 5.52
+    },
+    {
+      "text": "like that's that's fine but if you've",
+      "start": 1532.36,
+      "duration": 4.72
+    },
+    {
+      "text": "got that side you've also got to then",
+      "start": 1535.52,
+      "duration": 3.2
+    },
+    {
+      "text": "look at the side of people who are",
+      "start": 1537.08,
+      "duration": 4.52
+    },
+    {
+      "text": "actually like I can't work in an office",
+      "start": 1538.72,
+      "duration": 4.92
+    },
+    {
+      "text": "I need to be working from home and their",
+      "start": 1541.6,
+      "duration": 4.04
+    },
+    {
+      "text": "Viewpoint is no less valid than the",
+      "start": 1543.64,
+      "duration": 3.84
+    },
+    {
+      "text": "people that want to be in the office",
+      "start": 1545.64,
+      "duration": 4.88
+    },
+    {
+      "text": "it's just a different need I suppose",
+      "start": 1547.48,
+      "duration": 4.559
+    },
+    {
+      "text": "isn't it there different requirements",
+      "start": 1550.52,
+      "duration": 3.6
+    },
+    {
+      "text": "for them to be able to do their job",
+      "start": 1552.039,
+      "duration": 3.961
+    },
+    {
+      "text": "definitely yeah there was a smaller",
+      "start": 1554.12,
+      "duration": 3.36
+    },
+    {
+      "text": "research project which actually led to",
+      "start": 1556.0,
+      "duration": 3.44
+    },
+    {
+      "text": "this project which was exploring these",
+      "start": 1557.48,
+      "duration": 4.12
+    },
+    {
+      "text": "issues on like you know a less big",
+      "start": 1559.44,
+      "duration": 4.839
+    },
+    {
+      "text": "sample siiz basis and that found that",
+      "start": 1561.6,
+      "duration": 4.439
+    },
+    {
+      "text": "you know disabled workers they they did",
+      "start": 1564.279,
+      "duration": 3.201
+    },
+    {
+      "text": "highlight kind clear benefits from",
+      "start": 1566.039,
+      "duration": 3.52
+    },
+    {
+      "text": "working from home more autonomy control",
+      "start": 1567.48,
+      "duration": 3.52
+    },
+    {
+      "text": "over when and how they work which",
+      "start": 1569.559,
+      "duration": 2.961
+    },
+    {
+      "text": "allowed them to work better because they",
+      "start": 1571.0,
+      "duration": 2.84
+    },
+    {
+      "text": "manage their health and wellbeing a bit",
+      "start": 1572.52,
+      "duration": 3.399
+    },
+    {
+      "text": "better um but they did also value the",
+      "start": 1573.84,
+      "duration": 3.319
+    },
+    {
+      "text": "kind of freedom and the opportunity to",
+      "start": 1575.919,
+      "duration": 3.401
+    },
+    {
+      "text": "work from the office when they wanted to",
+      "start": 1577.159,
+      "duration": 3.721
+    },
+    {
+      "text": "and there's also a flip side of that",
+      "start": 1579.32,
+      "duration": 2.8
+    },
+    {
+      "text": "some of them worried that they'd miss",
+      "start": 1580.88,
+      "duration": 2.56
+    },
+    {
+      "text": "out promotion opportunities if they",
+      "start": 1582.12,
+      "duration": 2.559
+    },
+    {
+      "text": "didn't get to speak to their bosses a",
+      "start": 1583.44,
+      "duration": 2.8
+    },
+    {
+      "text": "lot and that you know have the kind of",
+      "start": 1584.679,
+      "duration": 4.521
+    },
+    {
+      "text": "social side of office life um",
+      "start": 1586.24,
+      "duration": 5.08
+    },
+    {
+      "text": "so I do just feel very worried that",
+      "start": 1589.2,
+      "duration": 3.56
+    },
+    {
+      "text": "there is this binary divide between",
+      "start": 1591.32,
+      "duration": 2.359
+    },
+    {
+      "text": "people who want to work from home and",
+      "start": 1592.76,
+      "duration": 2.039
+    },
+    {
+      "text": "people who want to work from the office",
+      "start": 1593.679,
+      "duration": 3.36
+    },
+    {
+      "text": "is the debate rather than sometimes",
+      "start": 1594.799,
+      "duration": 3.48
+    },
+    {
+      "text": "people want to do both and maybe they",
+      "start": 1597.039,
+      "duration": 3.76
+    },
+    {
+      "text": "want to do it a bit flexibly so yeah so",
+      "start": 1598.279,
+      "duration": 3.841
+    },
+    {
+      "text": "but I'll um I'll link you up with that",
+      "start": 1600.799,
+      "duration": 3.201
+    },
+    {
+      "text": "report because it's really interesting",
+      "start": 1602.12,
+      "duration": 3.24
+    },
+    {
+      "text": "yeah that would be really useful I'll",
+      "start": 1604.0,
+      "duration": 4.159
+    },
+    {
+      "text": "I'll drop that into the show notes um I",
+      "start": 1605.36,
+      "duration": 4.4
+    },
+    {
+      "text": "mean you know we we came on to this",
+      "start": 1608.159,
+      "duration": 3.601
+    },
+    {
+      "text": "because we connected through long covid",
+      "start": 1609.76,
+      "duration": 3.24
+    },
+    {
+      "text": "but you know we're not talking",
+      "start": 1611.76,
+      "duration": 2.799
+    },
+    {
+      "text": "specifically about long Co here we're",
+      "start": 1613.0,
+      "duration": 4.2
+    },
+    {
+      "text": "talking about um did you say disability",
+      "start": 1614.559,
+      "duration": 5.281
+    },
+    {
+      "text": "and long-term health conditions yeah I",
+      "start": 1617.2,
+      "duration": 6.04
+    },
+    {
+      "text": "started on this project in March um the",
+      "start": 1619.84,
+      "duration": 4.8
+    },
+    {
+      "text": "the project leader is someone called Dr",
+      "start": 1623.24,
+      "duration": 3.48
+    },
+    {
+      "text": "Paula Holland at Lancaster University",
+      "start": 1624.64,
+      "duration": 5.32
+    },
+    {
+      "text": "who um did the previous project as well",
+      "start": 1626.72,
+      "duration": 5.12
+    },
+    {
+      "text": "um so we've got like a big project team",
+      "start": 1629.96,
+      "duration": 3.319
+    },
+    {
+      "text": "we've got her we've got the Work",
+      "start": 1631.84,
+      "duration": 2.76
+    },
+    {
+      "text": "Foundation which are kind of like our",
+      "start": 1633.279,
+      "duration": 3.64
+    },
+    {
+      "text": "in-house Think Tank uh we've got project",
+      "start": 1634.6,
+      "duration": 4.84
+    },
+    {
+      "text": "Partners at Manchester Metropolitan and",
+      "start": 1636.919,
+      "duration": 3.88
+    },
+    {
+      "text": "then a charity called Universal",
+      "start": 1639.44,
+      "duration": 3.92
+    },
+    {
+      "text": "inclusion so we've got that angle um but",
+      "start": 1640.799,
+      "duration": 4.24
+    },
+    {
+      "text": "we really debated long and hard about",
+      "start": 1643.36,
+      "duration": 4.12
+    },
+    {
+      "text": "how we defined kind of disability really",
+      "start": 1645.039,
+      "duration": 4.921
+    },
+    {
+      "text": "because we didn't want people to feel",
+      "start": 1647.48,
+      "duration": 5.24
+    },
+    {
+      "text": "that their voices were not like valid to",
+      "start": 1649.96,
+      "duration": 5.28
+    },
+    {
+      "text": "be represented in the survey you know",
+      "start": 1652.72,
+      "duration": 4.76
+    },
+    {
+      "text": "so we'd spent a lot of time debating",
+      "start": 1655.24,
+      "duration": 4.319
+    },
+    {
+      "text": "like the exact description of disability",
+      "start": 1657.48,
+      "duration": 3.96
+    },
+    {
+      "text": "Andor long-term health condition to make",
+      "start": 1659.559,
+      "duration": 3.401
+    },
+    {
+      "text": "sure that people didn't feel left out",
+      "start": 1661.44,
+      "duration": 4.52
+    },
+    {
+      "text": "you know we're defining that very widely",
+      "start": 1662.96,
+      "duration": 5.319
+    },
+    {
+      "text": "um and so we included a few examples in",
+      "start": 1665.96,
+      "duration": 3.839
+    },
+    {
+      "text": "there that people may not automatically",
+      "start": 1668.279,
+      "duration": 4.041
+    },
+    {
+      "text": "consider or Andor personally Define as a",
+      "start": 1669.799,
+      "duration": 4.801
+    },
+    {
+      "text": "disability you know such as attempting",
+      "start": 1672.32,
+      "duration": 4.12
+    },
+    {
+      "text": "to balance working life with long-term",
+      "start": 1674.6,
+      "duration": 4.319
+    },
+    {
+      "text": "depression um obviously Divergent",
+      "start": 1676.44,
+      "duration": 4.68
+    },
+    {
+      "text": "condition like autism or ADHD things",
+      "start": 1678.919,
+      "duration": 3.841
+    },
+    {
+      "text": "like recovering from cancer while it's",
+      "start": 1681.12,
+      "duration": 3.799
+    },
+    {
+      "text": "in work you know um there's so many",
+      "start": 1682.76,
+      "duration": 4.279
+    },
+    {
+      "text": "physical mental behavioral and cognitive",
+      "start": 1684.919,
+      "duration": 4.441
+    },
+    {
+      "text": "conditions that come under that umbrella",
+      "start": 1687.039,
+      "duration": 5.24
+    },
+    {
+      "text": "of is something a disability or is it a",
+      "start": 1689.36,
+      "duration": 5.24
+    },
+    {
+      "text": "long-term condition and what we're",
+      "start": 1692.279,
+      "duration": 3.721
+    },
+    {
+      "text": "saying for our research is that it",
+      "start": 1694.6,
+      "duration": 3.0
+    },
+    {
+      "text": "doesn't really matter if something's",
+      "start": 1696.0,
+      "duration": 4.64
+    },
+    {
+      "text": "affecting your work in a long-term way",
+      "start": 1697.6,
+      "duration": 4.559
+    },
+    {
+      "text": "it doesn't matter if it's legally",
+      "start": 1700.64,
+      "duration": 2.919
+    },
+    {
+      "text": "defined as a disability it doesn't",
+      "start": 1702.159,
+      "duration": 4.561
+    },
+    {
+      "text": "matter that there may not be yet a legal",
+      "start": 1703.559,
+      "duration": 5.72
+    },
+    {
+      "text": "definition of long covid it's it's AFF",
+      "start": 1706.72,
+      "duration": 3.92
+    },
+    {
+      "text": "in your working life so we are",
+      "start": 1709.279,
+      "duration": 2.76
+    },
+    {
+      "text": "interested in making sure your voice is",
+      "start": 1710.64,
+      "duration": 4.2
+    },
+    {
+      "text": "heard um and that's a kind of in",
+      "start": 1712.039,
+      "duration": 4.721
+    },
+    {
+      "text": "Academia that could often be considered",
+      "start": 1714.84,
+      "duration": 4.4
+    },
+    {
+      "text": "like a like a copout in a way you know",
+      "start": 1716.76,
+      "duration": 4.519
+    },
+    {
+      "text": "you're not sticking to a particular camp",
+      "start": 1719.24,
+      "duration": 3.439
+    },
+    {
+      "text": "but this again is about breaking down",
+      "start": 1721.279,
+      "duration": 3.201
+    },
+    {
+      "text": "those barriers of not just talking to",
+      "start": 1722.679,
+      "duration": 3.84
+    },
+    {
+      "text": "other academics you know it's making",
+      "start": 1724.48,
+      "duration": 4.48
+    },
+    {
+      "text": "sure as many diverse voices are heard",
+      "start": 1726.519,
+      "duration": 4.081
+    },
+    {
+      "text": "because so many people have diverse",
+      "start": 1728.96,
+      "duration": 4.199
+    },
+    {
+      "text": "needs and um in the workplace and it's",
+      "start": 1730.6,
+      "duration": 4.04
+    },
+    {
+      "text": "making sure that employeers understand",
+      "start": 1733.159,
+      "duration": 3.88
+    },
+    {
+      "text": "that you know and it will be frustrating",
+      "start": 1734.64,
+      "duration": 3.639
+    },
+    {
+      "text": "when we go to employeers and say well",
+      "start": 1737.039,
+      "duration": 2.921
+    },
+    {
+      "text": "the answer is not that simple you know",
+      "start": 1738.279,
+      "duration": 4.601
+    },
+    {
+      "text": "but maybe the point is to get into their",
+      "start": 1739.96,
+      "duration": 5.839
+    },
+    {
+      "text": "heads that it's not simple it's complex",
+      "start": 1742.88,
+      "duration": 4.84
+    },
+    {
+      "text": "and the more they understand these",
+      "start": 1745.799,
+      "duration": 4.841
+    },
+    {
+      "text": "things the better really and long covid",
+      "start": 1747.72,
+      "duration": 7.88
+    },
+    {
+      "text": "is so new so misunderstood you know and",
+      "start": 1750.64,
+      "duration": 6.8
+    },
+    {
+      "text": "so there's so little institutional",
+      "start": 1755.6,
+      "duration": 3.52
+    },
+    {
+      "text": "support for it at both the employer",
+      "start": 1757.44,
+      "duration": 3.68
+    },
+    {
+      "text": "level policy maker level institutional",
+      "start": 1759.12,
+      "duration": 5.24
+    },
+    {
+      "text": "level every level um that if we can you",
+      "start": 1761.12,
+      "duration": 5.919
+    },
+    {
+      "text": "know reach out to people who have long",
+      "start": 1764.36,
+      "duration": 5.28
+    },
+    {
+      "text": "covid or or have had it and make sure",
+      "start": 1767.039,
+      "duration": 4.12
+    },
+    {
+      "text": "that their experiences are understood a",
+      "start": 1769.64,
+      "duration": 3.6
+    },
+    {
+      "text": "bit better by employers you know I think",
+      "start": 1771.159,
+      "duration": 4.52
+    },
+    {
+      "text": "that's important as well rather than",
+      "start": 1773.24,
+      "duration": 6.24
+    },
+    {
+      "text": "just having like a subsection of people",
+      "start": 1775.679,
+      "duration": 5.441
+    },
+    {
+      "text": "with a disability or long-term condition",
+      "start": 1779.48,
+      "duration": 2.88
+    },
+    {
+      "text": "represented we want to make sure",
+      "start": 1781.12,
+      "duration": 4.2
+    },
+    {
+      "text": "everyone's as represented as possible",
+      "start": 1782.36,
+      "duration": 5.319
+    },
+    {
+      "text": "yeah yeah definitely I I think that is",
+      "start": 1785.32,
+      "duration": 5.239
+    },
+    {
+      "text": "important I think as as well I've",
+      "start": 1787.679,
+      "duration": 5.681
+    },
+    {
+      "text": "noticed that some people like to",
+      "start": 1790.559,
+      "duration": 4.921
+    },
+    {
+      "text": "identify themselves as disabled and some",
+      "start": 1793.36,
+      "duration": 4.88
+    },
+    {
+      "text": "people don't and it's not necessarily on",
+      "start": 1795.48,
+      "duration": 5.319
+    },
+    {
+      "text": "the severity of the condition it's I",
+      "start": 1798.24,
+      "duration": 3.96
+    },
+    {
+      "text": "think I think is it may be a personal",
+      "start": 1800.799,
+      "duration": 3.921
+    },
+    {
+      "text": "choice or it certainly can be so I think",
+      "start": 1802.2,
+      "duration": 5.68
+    },
+    {
+      "text": "by making it clear that the word",
+      "start": 1804.72,
+      "duration": 5.16
+    },
+    {
+      "text": "disability isn't necessarily the",
+      "start": 1807.88,
+      "duration": 4.039
+    },
+    {
+      "text": "important one here it's the being",
+      "start": 1809.88,
+      "duration": 4.2
+    },
+    {
+      "text": "affected by something long term is the",
+      "start": 1811.919,
+      "duration": 4.64
+    },
+    {
+      "text": "important thing here I I think you know",
+      "start": 1814.08,
+      "duration": 4.56
+    },
+    {
+      "text": "you're you're in itself being more",
+      "start": 1816.559,
+      "duration": 4.84
+    },
+    {
+      "text": "inclusive and going to get more useful",
+      "start": 1818.64,
+      "duration": 5.56
+    },
+    {
+      "text": "stuff there's a word for that data yes",
+      "start": 1821.399,
+      "duration": 5.801
+    },
+    {
+      "text": "data yeah exactly yeah I mean and I've",
+      "start": 1824.2,
+      "duration": 4.56
+    },
+    {
+      "text": "been through that as well like debated",
+      "start": 1827.2,
+      "duration": 3.56
+    },
+    {
+      "text": "and deliberated with myself whether what",
+      "start": 1828.76,
+      "duration": 4.759
+    },
+    {
+      "text": "my condition is is a disability or not",
+      "start": 1830.76,
+      "duration": 4.12
+    },
+    {
+      "text": "and then you look at the legal",
+      "start": 1833.519,
+      "duration": 2.88
+    },
+    {
+      "text": "definition of disability and you know",
+      "start": 1834.88,
+      "duration": 2.919
+    },
+    {
+      "text": "it's something affecting your life over",
+      "start": 1836.399,
+      "duration": 3.441
+    },
+    {
+      "text": "12 months or whatever and this has",
+      "start": 1837.799,
+      "duration": 4.0
+    },
+    {
+      "text": "affected my life for going on seven",
+      "start": 1839.84,
+      "duration": 4.12
+    },
+    {
+      "text": "years now but then you feel that if you",
+      "start": 1841.799,
+      "duration": 3.641
+    },
+    {
+      "text": "consider yourself disabled does that",
+      "start": 1843.96,
+      "duration": 3.88
+    },
+    {
+      "text": "take away from people with more severe",
+      "start": 1845.44,
+      "duration": 4.079
+    },
+    {
+      "text": "conditions you know so there's all that",
+      "start": 1847.84,
+      "duration": 3.24
+    },
+    {
+      "text": "kind of internal politics and that kind",
+      "start": 1849.519,
+      "duration": 3.76
+    },
+    {
+      "text": "of thing which is why we put disabled",
+      "start": 1851.08,
+      "duration": 4.559
+    },
+    {
+      "text": "Andor a long-term physical or mental",
+      "start": 1853.279,
+      "duration": 5.24
+    },
+    {
+      "text": "health condition um because yeah it's",
+      "start": 1855.639,
+      "duration": 4.721
+    },
+    {
+      "text": "it's about self definition at the end of",
+      "start": 1858.519,
+      "duration": 5.12
+    },
+    {
+      "text": "the day and it's not about what the law",
+      "start": 1860.36,
+      "duration": 5.0
+    },
+    {
+      "text": "says it's about what is happening in the",
+      "start": 1863.639,
+      "duration": 4.601
+    },
+    {
+      "text": "everyday day-to-day life really yeah",
+      "start": 1865.36,
+      "duration": 4.679
+    },
+    {
+      "text": "exactly yeah people's people's",
+      "start": 1868.24,
+      "duration": 5.84
+    },
+    {
+      "text": "experiences isn't it yeah um yeah so I",
+      "start": 1870.039,
+      "duration": 6.76
+    },
+    {
+      "text": "mean should we dive a little bit deeper",
+      "start": 1874.08,
+      "duration": 4.439
+    },
+    {
+      "text": "into I mean we've covered quite a lot of",
+      "start": 1876.799,
+      "duration": 4.081
+    },
+    {
+      "text": "this already actually I think but um",
+      "start": 1878.519,
+      "duration": 3.961
+    },
+    {
+      "text": "yeah may maybe a little bit deeper into",
+      "start": 1880.88,
+      "duration": 4.88
+    },
+    {
+      "text": "kind of like how it",
+      "start": 1882.48,
+      "duration": 3.28
+    },
+    {
+      "text": "works will be right",
+      "start": 1886.36,
+      "duration": 5.96
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1889.799,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1892.32,
+      "duration": 4.479
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1894.279,
+      "duration": 3.921
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1896.799,
+      "duration": 3.641
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1898.2,
+      "duration": 4.719
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1900.44,
+      "duration": 4.239
+    },
+    {
+      "text": "to share just once we' be able to get",
+      "start": 1902.919,
+      "duration": 3.561
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1904.679,
+      "duration": 4.281
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1906.48,
+      "duration": 4.0
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1908.96,
+      "duration": 3.439
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1910.48,
+      "duration": 6.28
+    },
+    {
+      "text": "episode and thank you so much",
+      "start": 1912.399,
+      "duration": 4.361
+    },
+    {
+      "text": "yeah so at the moment we're doing the",
+      "start": 1920.0,
+      "duration": 4.6
+    },
+    {
+      "text": "survey so once the survey is complete",
+      "start": 1922.32,
+      "duration": 4.239
+    },
+    {
+      "text": "we're hoping for around 1,500",
+      "start": 1924.6,
+      "duration": 5.36
+    },
+    {
+      "text": "participants um we're around 759 at the",
+      "start": 1926.559,
+      "duration": 5.641
+    },
+    {
+      "text": "moment um which is good we want yeah",
+      "start": 1929.96,
+      "duration": 3.599
+    },
+    {
+      "text": "around a, to",
+      "start": 1932.2,
+      "duration": 4.4
+    },
+    {
+      "text": "1500 um after that we'll start to kind",
+      "start": 1933.559,
+      "duration": 5.441
+    },
+    {
+      "text": "of we'll dig into that data to see you",
+      "start": 1936.6,
+      "duration": 5.36
+    },
+    {
+      "text": "know like how many people work in a",
+      "start": 1939.0,
+      "duration": 4.36
+    },
+    {
+      "text": "particular sector that answered that",
+      "start": 1941.96,
+      "duration": 3.439
+    },
+    {
+      "text": "kind of thing whether there are more uh",
+      "start": 1943.36,
+      "duration": 4.0
+    },
+    {
+      "text": "women answering than men answering that",
+      "start": 1945.399,
+      "duration": 4.64
+    },
+    {
+      "text": "kind of thing and then what we'll look",
+      "start": 1947.36,
+      "duration": 4.679
+    },
+    {
+      "text": "from that is if there are people",
+      "start": 1950.039,
+      "duration": 3.64
+    },
+    {
+      "text": "particularly under represented in the",
+      "start": 1952.039,
+      "duration": 5.48
+    },
+    {
+      "text": "survey data so typically women are a lot",
+      "start": 1953.679,
+      "duration": 5.84
+    },
+    {
+      "text": "better at finishing a survey than men",
+      "start": 1957.519,
+      "duration": 3.52
+    },
+    {
+      "text": "who start a lot of surveys and then get",
+      "start": 1959.519,
+      "duration": 4.081
+    },
+    {
+      "text": "distracted by a million things which I",
+      "start": 1961.039,
+      "duration": 4.561
+    },
+    {
+      "text": "can vure as well on a personal",
+      "start": 1963.6,
+      "duration": 4.76
+    },
+    {
+      "text": "level so then we'll be like well maybe",
+      "start": 1965.6,
+      "duration": 5.16
+    },
+    {
+      "text": "we'll do some interviews with men you",
+      "start": 1968.36,
+      "duration": 4.319
+    },
+    {
+      "text": "know from the survey data to make sure",
+      "start": 1970.76,
+      "duration": 4.84
+    },
+    {
+      "text": "that that representation comes up um",
+      "start": 1972.679,
+      "duration": 5.321
+    },
+    {
+      "text": "we'll dive into specific answers",
+      "start": 1975.6,
+      "duration": 4.319
+    },
+    {
+      "text": "specific questions so one of the things",
+      "start": 1978.0,
+      "duration": 3.399
+    },
+    {
+      "text": "we're really interested in is about",
+      "start": 1979.919,
+      "duration": 3.88
+    },
+    {
+      "text": "reasonable adjustments in the workplace",
+      "start": 1981.399,
+      "duration": 4.0
+    },
+    {
+      "text": "um and access to work and that kind of",
+      "start": 1983.799,
+      "duration": 3.521
+    },
+    {
+      "text": "thing so what I was saying about you",
+      "start": 1985.399,
+      "duration": 3.961
+    },
+    {
+      "text": "know new inequalities coming in we don't",
+      "start": 1987.32,
+      "duration": 4.359
+    },
+    {
+      "text": "want a situation where employers say",
+      "start": 1989.36,
+      "duration": 3.84
+    },
+    {
+      "text": "well you've now got more flexibility to",
+      "start": 1991.679,
+      "duration": 3.681
+    },
+    {
+      "text": "work from home we don't need to then",
+      "start": 1993.2,
+      "duration": 4.079
+    },
+    {
+      "text": "provide as many reasonable adjustments",
+      "start": 1995.36,
+      "duration": 3.439
+    },
+    {
+      "text": "for you in the office or you know we",
+      "start": 1997.279,
+      "duration": 3.321
+    },
+    {
+      "text": "don't you don't need to come in as much",
+      "start": 1998.799,
+      "duration": 2.681
+    },
+    {
+      "text": "because you can work from home more",
+      "start": 2000.6,
+      "duration": 3.039
+    },
+    {
+      "text": "comfortably now and that kind of takes",
+      "start": 2001.48,
+      "duration": 3.6
+    },
+    {
+      "text": "the freedom away from people to be like",
+      "start": 2003.639,
+      "duration": 2.561
+    },
+    {
+      "text": "well maybe I want to come in the office",
+      "start": 2005.08,
+      "duration": 2.719
+    },
+    {
+      "text": "more you know maybe I want to go to",
+      "start": 2006.2,
+      "duration": 3.04
+    },
+    {
+      "text": "Thursday drinks or that kind of thing",
+      "start": 2007.799,
+      "duration": 4.561
+    },
+    {
+      "text": "after after work um so we we'll be very",
+      "start": 2009.24,
+      "duration": 5.0
+    },
+    {
+      "text": "interested in that kind of thing about",
+      "start": 2012.36,
+      "duration": 3.199
+    },
+    {
+      "text": "whether people feel it's easier to work",
+      "start": 2014.24,
+      "duration": 2.84
+    },
+    {
+      "text": "from home but then is it harder to work",
+      "start": 2015.559,
+      "duration": 4.681
+    },
+    {
+      "text": "in the office or are employers doing",
+      "start": 2017.08,
+      "duration": 4.52
+    },
+    {
+      "text": "very well at giving them reasonable",
+      "start": 2020.24,
+      "duration": 4.64
+    },
+    {
+      "text": "adjustments in both and then from there",
+      "start": 2021.6,
+      "duration": 5.76
+    },
+    {
+      "text": "from those answers we can then we've",
+      "start": 2024.88,
+      "duration": 5.039
+    },
+    {
+      "text": "then got new ways like if say I look at",
+      "start": 2027.36,
+      "duration": 5.799
+    },
+    {
+      "text": "the data and there's very few people who",
+      "start": 2029.919,
+      "duration": 4.401
+    },
+    {
+      "text": "are getting reasonable adjustments in",
+      "start": 2033.159,
+      "duration": 3.48
+    },
+    {
+      "text": "the office we can then in the interviews",
+      "start": 2034.32,
+      "duration": 4.8
+    },
+    {
+      "text": "write some questions out about why is",
+      "start": 2036.639,
+      "duration": 4.04
+    },
+    {
+      "text": "this or like what do you feel you do",
+      "start": 2039.12,
+      "duration": 2.559
+    },
+    {
+      "text": "need in the office that you don't",
+      "start": 2040.679,
+      "duration": 3.761
+    },
+    {
+      "text": "currently have um and then from those",
+      "start": 2041.679,
+      "duration": 4.161
+    },
+    {
+      "text": "findings we can then take those to",
+      "start": 2044.44,
+      "duration": 4.159
+    },
+    {
+      "text": "Employers in the spring and say Here's",
+      "start": 2045.84,
+      "duration": 4.999
+    },
+    {
+      "text": "what workers have said you know what is",
+      "start": 2048.599,
+      "duration": 4.721
+    },
+    {
+      "text": "this like from your perspective um",
+      "start": 2050.839,
+      "duration": 4.481
+    },
+    {
+      "text": "because talking to employers makes you",
+      "start": 2053.32,
+      "duration": 5.0
+    },
+    {
+      "text": "feel and just saying it like that it's",
+      "start": 2055.32,
+      "duration": 4.4
+    },
+    {
+      "text": "almost like talking to the bad guy in a",
+      "start": 2058.32,
+      "duration": 2.96
+    },
+    {
+      "text": "way you know but when you start to talk",
+      "start": 2059.72,
+      "duration": 2.48
+    },
+    {
+      "text": "to employers you're talking to",
+      "start": 2061.28,
+      "duration": 2.48
+    },
+    {
+      "text": "individual HR managers and that kind of",
+      "start": 2062.2,
+      "duration": 2.719
+    },
+    {
+      "text": "thing they're all just humans at the end",
+      "start": 2063.76,
+      "duration": 3.0
+    },
+    {
+      "text": "of they trying to do their best for in",
+      "start": 2064.919,
+      "duration": 3.601
+    },
+    {
+      "text": "the situation in the organization",
+      "start": 2066.76,
+      "duration": 4.839
+    },
+    {
+      "text": "they're in um and with this they're",
+      "start": 2068.52,
+      "duration": 5.0
+    },
+    {
+      "text": "learning as much as you are you know",
+      "start": 2071.599,
+      "duration": 4.56
+    },
+    {
+      "text": "we're all taking this step by step in a",
+      "start": 2073.52,
+      "duration": 4.2
+    },
+    {
+      "text": "you know quote unquote post-pandemic",
+      "start": 2076.159,
+      "duration": 4.72
+    },
+    {
+      "text": "landscape which we're not really in um",
+      "start": 2077.72,
+      "duration": 5.359
+    },
+    {
+      "text": "so we'll survey data will lead on to the",
+      "start": 2080.879,
+      "duration": 4.96
+    },
+    {
+      "text": "interview data the interview data and",
+      "start": 2083.079,
+      "duration": 4.241
+    },
+    {
+      "text": "the St data will then lead on to the",
+      "start": 2085.839,
+      "duration": 3.641
+    },
+    {
+      "text": "questions for employers and then we'll",
+      "start": 2087.32,
+      "duration": 4.72
+    },
+    {
+      "text": "take all of that together present it to",
+      "start": 2089.48,
+      "duration": 5.76
+    },
+    {
+      "text": "uh policy makers and say from your",
+      "start": 2092.04,
+      "duration": 5.799
+    },
+    {
+      "text": "perspective how do you feel you know the",
+      "start": 2095.24,
+      "duration": 4.32
+    },
+    {
+      "text": "current official guidance say the",
+      "start": 2097.839,
+      "duration": 4.961
+    },
+    {
+      "text": "official like not just guidance but also",
+      "start": 2099.56,
+      "duration": 4.72
+    },
+    {
+      "text": "like the case law around it and the",
+      "start": 2102.8,
+      "duration": 3.08
+    },
+    {
+      "text": "actual law around these kind of things",
+      "start": 2104.28,
+      "duration": 3.88
+    },
+    {
+      "text": "you know um how do you feel like does",
+      "start": 2105.88,
+      "duration": 3.52
+    },
+    {
+      "text": "any of this need to be changed does any",
+      "start": 2108.16,
+      "duration": 2.76
+    },
+    {
+      "text": "of this need to be updated does anything",
+      "start": 2109.4,
+      "duration": 4.32
+    },
+    {
+      "text": "need to be more formally defined and",
+      "start": 2110.92,
+      "duration": 6.08
+    },
+    {
+      "text": "then after that we'll be spend about six",
+      "start": 2113.72,
+      "duration": 5.28
+    },
+    {
+      "text": "months diving into all that data there's",
+      "start": 2117.0,
+      "duration": 3.76
+    },
+    {
+      "text": "always too much data to put into one",
+      "start": 2119.0,
+      "duration": 3.56
+    },
+    {
+      "text": "project which is just one of the sad",
+      "start": 2120.76,
+      "duration": 4.28
+    },
+    {
+      "text": "things about Academia um and then we'll",
+      "start": 2122.56,
+      "duration": 5.84
+    },
+    {
+      "text": "be doing the report which will launch in",
+      "start": 2125.04,
+      "duration": 5.16
+    },
+    {
+      "text": "yeah October November next year at a big",
+      "start": 2128.4,
+      "duration": 5.52
+    },
+    {
+      "text": "event um and which will that will be",
+      "start": 2130.2,
+      "duration": 6.96
+    },
+    {
+      "text": "like it won't be a report for academics",
+      "start": 2133.92,
+      "duration": 4.88
+    },
+    {
+      "text": "it would be you know publicly accessible",
+      "start": 2137.16,
+      "duration": 3.08
+    },
+    {
+      "text": "report you have to pay for it it's going",
+      "start": 2138.8,
+      "duration": 3.039
+    },
+    {
+      "text": "be on our website it's not going to be a",
+      "start": 2140.24,
+      "duration": 4.8
+    },
+    {
+      "text": "academic academic language um and",
+      "start": 2141.839,
+      "duration": 4.481
+    },
+    {
+      "text": "then we'll be doing the film of course",
+      "start": 2145.04,
+      "duration": 3.24
+    },
+    {
+      "text": "as well which will'll take maybe four or",
+      "start": 2146.32,
+      "duration": 4.519
+    },
+    {
+      "text": "five people who I interview to see what",
+      "start": 2148.28,
+      "duration": 3.88
+    },
+    {
+      "text": "their stories are see if they're happy",
+      "start": 2150.839,
+      "duration": 3.48
+    },
+    {
+      "text": "to be interviewed um and then to make",
+      "start": 2152.16,
+      "duration": 3.919
+    },
+    {
+      "text": "sure we really get their kind of voices",
+      "start": 2154.319,
+      "duration": 3.961
+    },
+    {
+      "text": "across as a representation of the",
+      "start": 2156.079,
+      "duration": 4.401
+    },
+    {
+      "text": "findings in general and then we'll be",
+      "start": 2158.28,
+      "duration": 4.48
+    },
+    {
+      "text": "launching those at the same time and",
+      "start": 2160.48,
+      "duration": 4.04
+    },
+    {
+      "text": "then following on from that you know",
+      "start": 2162.76,
+      "duration": 3.359
+    },
+    {
+      "text": "we'll be writing a few academic papers",
+      "start": 2164.52,
+      "duration": 3.52
+    },
+    {
+      "text": "that kind of thing but also pushing it",
+      "start": 2166.119,
+      "duration": 4.681
+    },
+    {
+      "text": "out to disability organizations doing",
+      "start": 2168.04,
+      "duration": 4.96
+    },
+    {
+      "text": "presentations for anyone who wants who",
+      "start": 2170.8,
+      "duration": 4.559
+    },
+    {
+      "text": "is interested in the research um and",
+      "start": 2173.0,
+      "duration": 4.28
+    },
+    {
+      "text": "then following on from there really so",
+      "start": 2175.359,
+      "duration": 2.921
+    },
+    {
+      "text": "yeah there's quite a few different",
+      "start": 2177.28,
+      "duration": 3.28
+    },
+    {
+      "text": "avenues for it but that's the kind of",
+      "start": 2178.28,
+      "duration": 5.039
+    },
+    {
+      "text": "structure of it really I you said that",
+      "start": 2180.56,
+      "duration": 4.44
+    },
+    {
+      "text": "you would be looking at sort of a a",
+      "start": 2183.319,
+      "duration": 4.601
+    },
+    {
+      "text": "spread of different sort of people and I",
+      "start": 2185.0,
+      "duration": 4.119
+    },
+    {
+      "text": "think you mentioned gender that you",
+      "start": 2187.92,
+      "duration": 3.04
+    },
+    {
+      "text": "would be breaking down are you going to",
+      "start": 2189.119,
+      "duration": 4.121
+    },
+    {
+      "text": "be able to look at kind of like",
+      "start": 2190.96,
+      "duration": 4.48
+    },
+    {
+      "text": "different occupations as well because I",
+      "start": 2193.24,
+      "duration": 5.32
+    },
+    {
+      "text": "mean certainly for long Co and I can't",
+      "start": 2195.44,
+      "duration": 5.28
+    },
+    {
+      "text": "speak for other chronic conditions but",
+      "start": 2198.56,
+      "duration": 5.12
+    },
+    {
+      "text": "um in Long Co certainly it seems that",
+      "start": 2200.72,
+      "duration": 5.92
+    },
+    {
+      "text": "for example healthc care and education",
+      "start": 2203.68,
+      "duration": 5.08
+    },
+    {
+      "text": "seem to be two of the worst hit",
+      "start": 2206.64,
+      "duration": 3.56
+    },
+    {
+      "text": "professions you know not that there's",
+      "start": 2208.76,
+      "duration": 3.079
+    },
+    {
+      "text": "not plenty of other people and others",
+      "start": 2210.2,
+      "duration": 5.04
+    },
+    {
+      "text": "but they do seem to come up tops and I",
+      "start": 2211.839,
+      "duration": 6.041
+    },
+    {
+      "text": "guess in some ways they may be to of the",
+      "start": 2215.24,
+      "duration": 5.16
+    },
+    {
+      "text": "least adaptable to remote hybrid",
+      "start": 2217.88,
+      "duration": 5.64
+    },
+    {
+      "text": "flexible kind of working options so is",
+      "start": 2220.4,
+      "duration": 4.88
+    },
+    {
+      "text": "that something you're able to dive into",
+      "start": 2223.52,
+      "duration": 4.44
+    },
+    {
+      "text": "a bit more specifically yeah we've got a",
+      "start": 2225.28,
+      "duration": 4.28
+    },
+    {
+      "text": "question in there about which sector",
+      "start": 2227.96,
+      "duration": 4.04
+    },
+    {
+      "text": "people are in and it's it's very diverse",
+      "start": 2229.56,
+      "duration": 3.44
+    },
+    {
+      "text": "and I think there things like",
+      "start": 2232.0,
+      "duration": 3.0
+    },
+    {
+      "text": "Agriculture and Forestry things like",
+      "start": 2233.0,
+      "duration": 3.52
+    },
+    {
+      "text": "that that's probably not adaptable",
+      "start": 2235.0,
+      "duration": 3.64
+    },
+    {
+      "text": "either very easily no exactly no or even",
+      "start": 2236.52,
+      "duration": 4.16
+    },
+    {
+      "text": "just retail Hospitality things like that",
+      "start": 2238.64,
+      "duration": 4.32
+    },
+    {
+      "text": "you know and and it's always the kind of",
+      "start": 2240.68,
+      "duration": 4.639
+    },
+    {
+      "text": "Bane of Academia that there are so many",
+      "start": 2242.96,
+      "duration": 3.6
+    },
+    {
+      "text": "different ways this would work in so",
+      "start": 2245.319,
+      "duration": 3.441
+    },
+    {
+      "text": "many different sectors and you want to",
+      "start": 2246.56,
+      "duration": 3.44
+    },
+    {
+      "text": "understand every single one but there's",
+      "start": 2248.76,
+      "duration": 3.76
+    },
+    {
+      "text": "just not enough time um so drilling down",
+      "start": 2250.0,
+      "duration": 5.0
+    },
+    {
+      "text": "into who's answering the survey you know",
+      "start": 2252.52,
+      "duration": 4.0
+    },
+    {
+      "text": "are there lots of people in educational",
+      "start": 2255.0,
+      "duration": 4.04
+    },
+    {
+      "text": "Health Care answering it for example and",
+      "start": 2256.52,
+      "duration": 4.16
+    },
+    {
+      "text": "what are their particular challenges",
+      "start": 2259.04,
+      "duration": 4.079
+    },
+    {
+      "text": "that gives us then a window into",
+      "start": 2260.68,
+      "duration": 4.32
+    },
+    {
+      "text": "focusing on those kind of sectors a bit",
+      "start": 2263.119,
+      "duration": 3.521
+    },
+    {
+      "text": "more because like you say there are more",
+      "start": 2265.0,
+      "duration": 4.48
+    },
+    {
+      "text": "inherent challenges within setting up",
+      "start": 2266.64,
+      "duration": 4.52
+    },
+    {
+      "text": "remote and hybrid working there in a",
+      "start": 2269.48,
+      "duration": 4.68
+    },
+    {
+      "text": "kind of functional way um so it gives us",
+      "start": 2271.16,
+      "duration": 4.48
+    },
+    {
+      "text": "yeah a bit of a window into who's doing",
+      "start": 2274.16,
+      "duration": 2.4
+    },
+    {
+      "text": "it and then it gives us a bit of a",
+      "start": 2275.64,
+      "duration": 3.0
+    },
+    {
+      "text": "window into different sectors without",
+      "start": 2276.56,
+      "duration": 3.799
+    },
+    {
+      "text": "spending two years on each which we'd",
+      "start": 2278.64,
+      "duration": 4.12
+    },
+    {
+      "text": "love to do but you know yeah but that's",
+      "start": 2280.359,
+      "duration": 4.48
+    },
+    {
+      "text": "great because you can get all of this",
+      "start": 2282.76,
+      "duration": 4.96
+    },
+    {
+      "text": "data from the survey and then you kind",
+      "start": 2284.839,
+      "duration": 5.881
+    },
+    {
+      "text": "of can see you pick pick your areas a",
+      "start": 2287.72,
+      "duration": 5.599
+    },
+    {
+      "text": "bit can't you um so you can maybe see",
+      "start": 2290.72,
+      "duration": 5.28
+    },
+    {
+      "text": "from that where the places to go that",
+      "start": 2293.319,
+      "duration": 4.161
+    },
+    {
+      "text": "would be the most useful or the most",
+      "start": 2296.0,
+      "duration": 3.52
+    },
+    {
+      "text": "interesting might be is is that is that",
+      "start": 2297.48,
+      "duration": 4.08
+    },
+    {
+      "text": "right yeah definitely and you can see",
+      "start": 2299.52,
+      "duration": 3.92
+    },
+    {
+      "text": "where you know maybe oh it' be",
+      "start": 2301.56,
+      "duration": 3.4
+    },
+    {
+      "text": "interesting to talk about this a bit",
+      "start": 2303.44,
+      "duration": 3.8
+    },
+    {
+      "text": "more in an interview of someone you know",
+      "start": 2304.96,
+      "duration": 3.56
+    },
+    {
+      "text": "like I said if a lot of people are",
+      "start": 2307.24,
+      "duration": 2.76
+    },
+    {
+      "text": "saying they want to work in the office",
+      "start": 2308.52,
+      "duration": 3.12
+    },
+    {
+      "text": "more but managers aren't being very",
+      "start": 2310.0,
+      "duration": 4.599
+    },
+    {
+      "text": "flexible with it that gives us a good",
+      "start": 2311.64,
+      "duration": 5.439
+    },
+    {
+      "text": "opening window into talking to Employers",
+      "start": 2314.599,
+      "duration": 5.52
+    },
+    {
+      "text": "in the interviews and employees um or",
+      "start": 2317.079,
+      "duration": 4.76
+    },
+    {
+      "text": "you know are there particular sectors",
+      "start": 2320.119,
+      "duration": 3.401
+    },
+    {
+      "text": "where we're finding that people are very",
+      "start": 2321.839,
+      "duration": 4.24
+    },
+    {
+      "text": "resistant to allowing people to continue",
+      "start": 2323.52,
+      "duration": 4.12
+    },
+    {
+      "text": "working from home you know or in a",
+      "start": 2326.079,
+      "duration": 3.721
+    },
+    {
+      "text": "hybrid fashion after the pandemic you",
+      "start": 2327.64,
+      "duration": 4.8
+    },
+    {
+      "text": "know and why is that are there more kind",
+      "start": 2329.8,
+      "duration": 4.4
+    },
+    {
+      "text": "of traditionalists in those sectors that",
+      "start": 2332.44,
+      "duration": 3.0
+    },
+    {
+      "text": "just want to get back to the way things",
+      "start": 2334.2,
+      "duration": 3.28
+    },
+    {
+      "text": "were and you know that kind of thing and",
+      "start": 2335.44,
+      "duration": 3.6
+    },
+    {
+      "text": "so that's that's really interesting as",
+      "start": 2337.48,
+      "duration": 4.04
+    },
+    {
+      "text": "well just to see it from a sectoral",
+      "start": 2339.04,
+      "duration": 5.4
+    },
+    {
+      "text": "perspective um and just just kind of a",
+      "start": 2341.52,
+      "duration": 4.4
+    },
+    {
+      "text": "cultural one as well because I'd imagine",
+      "start": 2344.44,
+      "duration": 3.6
+    },
+    {
+      "text": "there's a lot of managers who they don't",
+      "start": 2345.92,
+      "duration": 3.64
+    },
+    {
+      "text": "feel like work is getting done unless",
+      "start": 2348.04,
+      "duration": 3.039
+    },
+    {
+      "text": "they can see the people doing the work",
+      "start": 2349.56,
+      "duration": 3.32
+    },
+    {
+      "text": "and that's not necessarily how things",
+      "start": 2351.079,
+      "duration": 4.04
+    },
+    {
+      "text": "work in the 21st century anymore but",
+      "start": 2352.88,
+      "duration": 3.4
+    },
+    {
+      "text": "there are a few people out there who",
+      "start": 2355.119,
+      "duration": 3.441
+    },
+    {
+      "text": "would still like to have it that way",
+      "start": 2356.28,
+      "duration": 4.24
+    },
+    {
+      "text": "which isn't very understanding of",
+      "start": 2358.56,
+      "duration": 5.24
+    },
+    {
+      "text": "people's you know needs um so yeah it'll",
+      "start": 2360.52,
+      "duration": 6.88
+    },
+    {
+      "text": "give us a window in like a broad way",
+      "start": 2363.8,
+      "duration": 4.92
+    },
+    {
+      "text": "into some of the challenges and issues",
+      "start": 2367.4,
+      "duration": 3.52
+    },
+    {
+      "text": "in different sectors in the uh",
+      "start": 2368.72,
+      "duration": 4.399
+    },
+    {
+      "text": "particular data we've got and then the",
+      "start": 2370.92,
+      "duration": 3.52
+    },
+    {
+      "text": "interviews will kind of really drill",
+      "start": 2373.119,
+      "duration": 3.801
+    },
+    {
+      "text": "down into the individual experiences of",
+      "start": 2374.44,
+      "duration": 4.48
+    },
+    {
+      "text": "them and then it's kind of broadening it",
+      "start": 2376.92,
+      "duration": 3.6
+    },
+    {
+      "text": "out again to employers and policy makers",
+      "start": 2378.92,
+      "duration": 2.8
+    },
+    {
+      "text": "and then bringing it all together at the",
+      "start": 2380.52,
+      "duration": 6.319
+    },
+    {
+      "text": "end with a film yeah I and um I think",
+      "start": 2381.72,
+      "duration": 7.56
+    },
+    {
+      "text": "you know we we tend to focus on the",
+      "start": 2386.839,
+      "duration": 5.52
+    },
+    {
+      "text": "horror stories don't we where employers",
+      "start": 2389.28,
+      "duration": 5.4
+    },
+    {
+      "text": "have not been sympathetic they've not",
+      "start": 2392.359,
+      "duration": 4.641
+    },
+    {
+      "text": "offered reasonable adjustments they've",
+      "start": 2394.68,
+      "duration": 4.639
+    },
+    {
+      "text": "been you know not able or willing or",
+      "start": 2397.0,
+      "duration": 4.359
+    },
+    {
+      "text": "even you know thinking about you know",
+      "start": 2399.319,
+      "duration": 3.721
+    },
+    {
+      "text": "remote working hybrid working all of",
+      "start": 2401.359,
+      "duration": 3.521
+    },
+    {
+      "text": "these things and you know they're",
+      "start": 2403.04,
+      "duration": 4.48
+    },
+    {
+      "text": "absolutely are plenty of cases of that",
+      "start": 2404.88,
+      "duration": 4.76
+    },
+    {
+      "text": "but I think what we hear less of are the",
+      "start": 2407.52,
+      "duration": 4.36
+    },
+    {
+      "text": "good news stories where actually people",
+      "start": 2409.64,
+      "duration": 4.959
+    },
+    {
+      "text": "have been involved in the process where",
+      "start": 2411.88,
+      "duration": 4.56
+    },
+    {
+      "text": "the employers have you know tried to",
+      "start": 2414.599,
+      "duration": 3.881
+    },
+    {
+      "text": "work with the person and to make it work",
+      "start": 2416.44,
+      "duration": 4.919
+    },
+    {
+      "text": "for both of them and I think you know",
+      "start": 2418.48,
+      "duration": 5.0
+    },
+    {
+      "text": "hopefully your survey will pick up both",
+      "start": 2421.359,
+      "duration": 3.401
+    },
+    {
+      "text": "you know the things that aren't working",
+      "start": 2423.48,
+      "duration": 3.119
+    },
+    {
+      "text": "and the things that are so you can then",
+      "start": 2424.76,
+      "duration": 4.0
+    },
+    {
+      "text": "kind of hopefully include that in your",
+      "start": 2426.599,
+      "duration": 3.961
+    },
+    {
+      "text": "in your output so it's not just a kind",
+      "start": 2428.76,
+      "duration": 3.52
+    },
+    {
+      "text": "of like slating of employers it's",
+      "start": 2430.56,
+      "duration": 3.279
+    },
+    {
+      "text": "actually these are things that don't",
+      "start": 2432.28,
+      "duration": 4.0
+    },
+    {
+      "text": "work and these are things that do can we",
+      "start": 2433.839,
+      "duration": 5.0
+    },
+    {
+      "text": "you know work on this kind of thing well",
+      "start": 2436.28,
+      "duration": 3.96
+    },
+    {
+      "text": "one of the things we're also going to",
+      "start": 2438.839,
+      "duration": 3.28
+    },
+    {
+      "text": "produce is a kind of best practice guide",
+      "start": 2440.24,
+      "duration": 4.359
+    },
+    {
+      "text": "for employers so it will be highlighting",
+      "start": 2442.119,
+      "duration": 4.441
+    },
+    {
+      "text": "those positive examples of when it has",
+      "start": 2444.599,
+      "duration": 3.24
+    },
+    {
+      "text": "worked you know that we'll get from the",
+      "start": 2446.56,
+      "duration": 3.519
+    },
+    {
+      "text": "survey data and the interview data and",
+      "start": 2447.839,
+      "duration": 4.76
+    },
+    {
+      "text": "from employers themselves and you know",
+      "start": 2450.079,
+      "duration": 4.52
+    },
+    {
+      "text": "we'll be producing a report that is like",
+      "start": 2452.599,
+      "duration": 3.641
+    },
+    {
+      "text": "this is some guidance for employers",
+      "start": 2454.599,
+      "duration": 4.121
+    },
+    {
+      "text": "about it's not just we as academics",
+      "start": 2456.24,
+      "duration": 3.879
+    },
+    {
+      "text": "think this will work it's like this is",
+      "start": 2458.72,
+      "duration": 3.0
+    },
+    {
+      "text": "what other employers and workers have",
+      "start": 2460.119,
+      "duration": 3.801
+    },
+    {
+      "text": "said actually works because they have",
+      "start": 2461.72,
+      "duration": 4.119
+    },
+    {
+      "text": "experience of it working you know so",
+      "start": 2463.92,
+      "duration": 3.679
+    },
+    {
+      "text": "maybe when you're considering",
+      "start": 2465.839,
+      "duration": 4.201
+    },
+    {
+      "text": "implementing a remote working or hybrid",
+      "start": 2467.599,
+      "duration": 4.641
+    },
+    {
+      "text": "working model you look at this best",
+      "start": 2470.04,
+      "duration": 4.0
+    },
+    {
+      "text": "practice guide you look at how this",
+      "start": 2472.24,
+      "duration": 3.879
+    },
+    {
+      "text": "shows how employers have made things",
+      "start": 2474.04,
+      "duration": 4.4
+    },
+    {
+      "text": "more inclusive for disabled workers",
+      "start": 2476.119,
+      "duration": 4.601
+    },
+    {
+      "text": "needs in the in the workplace and you",
+      "start": 2478.44,
+      "duration": 4.72
+    },
+    {
+      "text": "know you try and replicate that in some",
+      "start": 2480.72,
+      "duration": 4.2
+    },
+    {
+      "text": "way in a way that works for your",
+      "start": 2483.16,
+      "duration": 4.6
+    },
+    {
+      "text": "organization or or your sector um",
+      "start": 2484.92,
+      "duration": 4.88
+    },
+    {
+      "text": "I've never felt that there's much Merit",
+      "start": 2487.76,
+      "duration": 4.24
+    },
+    {
+      "text": "in you know just the stick approach like",
+      "start": 2489.8,
+      "duration": 4.2
+    },
+    {
+      "text": "I think as a carot stick approach and",
+      "start": 2492.0,
+      "duration": 3.4
+    },
+    {
+      "text": "there's also not much Merit in going to",
+      "start": 2494.0,
+      "duration": 3.319
+    },
+    {
+      "text": "employers and saying we as academics",
+      "start": 2495.4,
+      "duration": 4.76
+    },
+    {
+      "text": "think this it's more like going to",
+      "start": 2497.319,
+      "duration": 5.121
+    },
+    {
+      "text": "employers and saying we as academics",
+      "start": 2500.16,
+      "duration": 3.76
+    },
+    {
+      "text": "have spoken to lots of employers and",
+      "start": 2502.44,
+      "duration": 3.32
+    },
+    {
+      "text": "this is what they say you know and I",
+      "start": 2503.92,
+      "duration": 4.08
+    },
+    {
+      "text": "think that's what gets better results um",
+      "start": 2505.76,
+      "duration": 4.2
+    },
+    {
+      "text": "I certainly found that during my PhD",
+      "start": 2508.0,
+      "duration": 4.119
+    },
+    {
+      "text": "where employers would be scared to",
+      "start": 2509.96,
+      "duration": 4.159
+    },
+    {
+      "text": "voluntarily implement the living wage",
+      "start": 2512.119,
+      "duration": 3.841
+    },
+    {
+      "text": "because they didn't have to but then I",
+      "start": 2514.119,
+      "duration": 3.161
+    },
+    {
+      "text": "spoke to other employers who said well",
+      "start": 2515.96,
+      "duration": 3.399
+    },
+    {
+      "text": "we did that and people left the jobs",
+      "start": 2517.28,
+      "duration": 4.079
+    },
+    {
+      "text": "less because they shock and shock",
+      "start": 2519.359,
+      "duration": 3.601
+    },
+    {
+      "text": "weren't in poverty anymore you know and",
+      "start": 2521.359,
+      "duration": 4.081
+    },
+    {
+      "text": "they were happier at work because they",
+      "start": 2522.96,
+      "duration": 4.52
+    },
+    {
+      "text": "felt valued by the organization and",
+      "start": 2525.44,
+      "duration": 3.879
+    },
+    {
+      "text": "these sorts of other employers and they",
+      "start": 2527.48,
+      "duration": 3.52
+    },
+    {
+      "text": "they don't just see a scary higher wage",
+      "start": 2529.319,
+      "duration": 3.921
+    },
+    {
+      "text": "Bill anymore they see happier workers",
+      "start": 2531.0,
+      "duration": 4.319
+    },
+    {
+      "text": "less money on Recruitment and Retention",
+      "start": 2533.24,
+      "duration": 4.4
+    },
+    {
+      "text": "those kind of things so it's it's kind",
+      "start": 2535.319,
+      "duration": 4.121
+    },
+    {
+      "text": "of distilling what we've got all this",
+      "start": 2537.64,
+      "duration": 4.84
+    },
+    {
+      "text": "data down into manageable lessons for",
+      "start": 2539.44,
+      "duration": 5.36
+    },
+    {
+      "text": "employers who can then take decisions",
+      "start": 2542.48,
+      "duration": 4.28
+    },
+    {
+      "text": "that will hopefully help disabled",
+      "start": 2544.8,
+      "duration": 4.08
+    },
+    {
+      "text": "workers you know work in the workplace a",
+      "start": 2546.76,
+      "duration": 3.72
+    },
+    {
+      "text": "bit better and remain in the workplace",
+      "start": 2548.88,
+      "duration": 5.479
+    },
+    {
+      "text": "for longer yeah definitely cool so I",
+      "start": 2550.48,
+      "duration": 5.96
+    },
+    {
+      "text": "will put a link to the survey in the",
+      "start": 2554.359,
+      "duration": 3.841
+    },
+    {
+      "text": "show notes um you've given me that",
+      "start": 2556.44,
+      "duration": 5.0
+    },
+    {
+      "text": "already so absolutely go check that out",
+      "start": 2558.2,
+      "duration": 5.6
+    },
+    {
+      "text": "maybe would you mind just reiterating",
+      "start": 2561.44,
+      "duration": 6.36
+    },
+    {
+      "text": "the criteria for people um to take part",
+      "start": 2563.8,
+      "duration": 5.799
+    },
+    {
+      "text": "yeah sure yeah um so it's basically for",
+      "start": 2567.8,
+      "duration": 3.6
+    },
+    {
+      "text": "anybody who considers themselves",
+      "start": 2569.599,
+      "duration": 4.72
+    },
+    {
+      "text": "disabled Andor has a long-term physical",
+      "start": 2571.4,
+      "duration": 5.76
+    },
+    {
+      "text": "or mental health condition and have EXP",
+      "start": 2574.319,
+      "duration": 4.881
+    },
+    {
+      "text": "experienced remote or hybrid working at",
+      "start": 2577.16,
+      "duration": 4.28
+    },
+    {
+      "text": "any point over the past five years they",
+      "start": 2579.2,
+      "duration": 4.32
+    },
+    {
+      "text": "don't currently have to be working in",
+      "start": 2581.44,
+      "duration": 3.84
+    },
+    {
+      "text": "that way they don't currently have to be",
+      "start": 2583.52,
+      "duration": 4.64
+    },
+    {
+      "text": "employed at all we want to hear from you",
+      "start": 2585.28,
+      "duration": 6.079
+    },
+    {
+      "text": "perfect and this is UK this is UK yeah",
+      "start": 2588.16,
+      "duration": 4.6
+    },
+    {
+      "text": "yeah we have had we have had some",
+      "start": 2591.359,
+      "duration": 3.72
+    },
+    {
+      "text": "interest internationally and some",
+      "start": 2592.76,
+      "duration": 3.559
+    },
+    {
+      "text": "disappointment from people saying We",
+      "start": 2595.079,
+      "duration": 3.441
+    },
+    {
+      "text": "wish this was a global survey like we",
+      "start": 2596.319,
+      "duration": 3.881
+    },
+    {
+      "text": "all need this on a global scale but you",
+      "start": 2598.52,
+      "duration": 3.92
+    },
+    {
+      "text": "know maybe that's the next project well",
+      "start": 2600.2,
+      "duration": 4.0
+    },
+    {
+      "text": "exactly I think um this is something",
+      "start": 2602.44,
+      "duration": 3.84
+    },
+    {
+      "text": "that I've learned from speaking to",
+      "start": 2604.2,
+      "duration": 3.44
+    },
+    {
+      "text": "people like yourself who are doing",
+      "start": 2606.28,
+      "duration": 3.72
+    },
+    {
+      "text": "research is that each research study is",
+      "start": 2607.64,
+      "duration": 4.719
+    },
+    {
+      "text": "a piece of a bigger puzzle so your",
+      "start": 2610.0,
+      "duration": 3.96
+    },
+    {
+      "text": "smaller study that you mentioned already",
+      "start": 2612.359,
+      "duration": 3.681
+    },
+    {
+      "text": "has led to this and this maybe will lead",
+      "start": 2613.96,
+      "duration": 4.92
+    },
+    {
+      "text": "to something that is more Global um so",
+      "start": 2616.04,
+      "duration": 5.72
+    },
+    {
+      "text": "um so yeah that's fantastic um well",
+      "start": 2618.88,
+      "duration": 4.76
+    },
+    {
+      "text": "thank you so much for joining me today",
+      "start": 2621.76,
+      "duration": 4.599
+    },
+    {
+      "text": "it's been really fun chatting and I",
+      "start": 2623.64,
+      "duration": 5.04
+    },
+    {
+      "text": "think it's been a really good discussion",
+      "start": 2626.359,
+      "duration": 4.801
+    },
+    {
+      "text": "um as well so yeah make sure you check",
+      "start": 2628.68,
+      "duration": 4.6
+    },
+    {
+      "text": "out the link in the show notes if you",
+      "start": 2631.16,
+      "duration": 5.04
+    },
+    {
+      "text": "fit those criteria and um maybe you will",
+      "start": 2633.28,
+      "duration": 4.12
+    },
+    {
+      "text": "come back and talk to me when you have",
+      "start": 2636.2,
+      "duration": 2.879
+    },
+    {
+      "text": "your results yeah that's a great idea",
+      "start": 2637.4,
+      "duration": 3.52
+    },
+    {
+      "text": "absolutely if you have me thank you so",
+      "start": 2639.079,
+      "duration": 4.201
+    },
+    {
+      "text": "much to all of my guests and to you for",
+      "start": 2640.92,
+      "duration": 4.88
+    },
+    {
+      "text": "listening I hope you've enjoyed it or at",
+      "start": 2643.28,
+      "duration": 5.36
+    },
+    {
+      "text": "least found it useful the long Co",
+      "start": 2645.8,
+      "duration": 4.88
+    },
+    {
+      "text": "podcast is entirely self-produced and",
+      "start": 2648.64,
+      "duration": 4.6
+    },
+    {
+      "text": "self-funded I'm doing all of this",
+      "start": 2650.68,
+      "duration": 5.36
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2653.24,
+      "duration": 4.28
+    },
+    {
+      "text": "buy meac",
+      "start": 2656.04,
+      "duration": 4.68
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2657.52,
+      "duration": 5.16
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 2660.72,
+      "duration": 4.04
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2662.68,
+      "duration": 4.96
+    },
+    {
+      "text": "episode of The Long podcast it's able on",
+      "start": 2664.76,
+      "duration": 6.16
+    },
+    {
+      "text": "all the usual podcast hosting things and",
+      "start": 2667.64,
+      "duration": 5.04
+    },
+    {
+      "text": "you get in touch I'd love to hear from",
+      "start": 2670.92,
+      "duration": 4.76
+    },
+    {
+      "text": "you",
+      "start": 2672.68,
+      "duration": 3.0
+    }
+  ],
+  "metadata": {
+    "title": "105 - Dr Calum Carson - Inclusive Remote & Hybrid Working Study",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/X2-B4k45RBI/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 105,
+    "title": "105 - Dr Calum Carson - Inclusive Remote & Hybrid Working Study",
+    "videoId": "X2-B4k45RBI",
+    "lengthText": "44:41"
+  }
+}

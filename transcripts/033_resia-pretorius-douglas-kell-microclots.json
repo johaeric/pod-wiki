@@ -1,0 +1,5348 @@
+{
+  "video_id": "urY1r0sOs28",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.199,
+      "duration": 5.88
+    },
+    {
+      "text": "The Long Co podcast I am absolutely",
+      "start": 58.199,
+      "duration": 4.921
+    },
+    {
+      "text": "delighted to be joined today by",
+      "start": 61.079,
+      "duration": 4.761
+    },
+    {
+      "text": "professors Risha pretorius and Douglas",
+      "start": 63.12,
+      "duration": 5.44
+    },
+    {
+      "text": "Kell who have been working together into",
+      "start": 65.84,
+      "duration": 6.8
+    },
+    {
+      "text": "researching micr clots and long covid so",
+      "start": 68.56,
+      "duration": 5.76
+    },
+    {
+      "text": "welcome both of you to the",
+      "start": 72.64,
+      "duration": 5.96
+    },
+    {
+      "text": "podcast thank you thank you so to start",
+      "start": 74.32,
+      "duration": 6.96
+    },
+    {
+      "text": "with would you mind both briefly",
+      "start": 78.6,
+      "duration": 5.0
+    },
+    {
+      "text": "introducing yourselves and just what it",
+      "start": 81.28,
+      "duration": 5.519
+    },
+    {
+      "text": "is that you do I'm Risha ruus I'm from",
+      "start": 83.6,
+      "duration": 7.24
+    },
+    {
+      "text": "stellos University uh I do who work on",
+      "start": 86.799,
+      "duration": 6.161
+    },
+    {
+      "text": "Long Co and all of the other types of",
+      "start": 90.84,
+      "duration": 4.8
+    },
+    {
+      "text": "inflammatory conditions where we have",
+      "start": 92.96,
+      "duration": 4.68
+    },
+    {
+      "text": "been looking at clotting pathologies",
+      "start": 95.64,
+      "duration": 4.92
+    },
+    {
+      "text": "platelets and microclot formation for a",
+      "start": 97.64,
+      "duration": 5.08
+    },
+    {
+      "text": "very long time and Doug has been my",
+      "start": 100.56,
+      "duration": 5.04
+    },
+    {
+      "text": "collaborator for the past uh just over",
+      "start": 102.72,
+      "duration": 5.8
+    },
+    {
+      "text": "10 years I think and we have looked at",
+      "start": 105.6,
+      "duration": 4.879
+    },
+    {
+      "text": "various conditions from diabetes to",
+      "start": 108.52,
+      "duration": 4.4
+    },
+    {
+      "text": "Parkinson's to alzheimer's to rumor thid",
+      "start": 110.479,
+      "duration": 6.24
+    },
+    {
+      "text": "arthritis and lately long Co and AC co",
+      "start": 112.92,
+      "duration": 5.68
+    },
+    {
+      "text": "uh I'm Doug Kell I'm currently at the",
+      "start": 116.719,
+      "duration": 3.841
+    },
+    {
+      "text": "University of Liverpool",
+      "start": 118.6,
+      "duration": 4.28
+    },
+    {
+      "text": "uh and as Rea says we've been working",
+      "start": 120.56,
+      "duration": 4.44
+    },
+    {
+      "text": "together on a variety of things starting",
+      "start": 122.88,
+      "duration": 3.919
+    },
+    {
+      "text": "with iron metabolism actually which we",
+      "start": 125.0,
+      "duration": 5.319
+    },
+    {
+      "text": "may come to but uh fell into the",
+      "start": 126.799,
+      "duration": 5.721
+    },
+    {
+      "text": "discovery of ameloid microclots which",
+      "start": 130.319,
+      "duration": 4.121
+    },
+    {
+      "text": "turn out to be very important in long",
+      "start": 132.52,
+      "duration": 4.799
+    },
+    {
+      "text": "covid and quite a few other chronic",
+      "start": 134.44,
+      "duration": 6.36
+    },
+    {
+      "text": "inflammatory diseases fantastic so how",
+      "start": 137.319,
+      "duration": 6.081
+    },
+    {
+      "text": "did you guys actually kind of meet and",
+      "start": 140.8,
+      "duration": 4.84
+    },
+    {
+      "text": "start working together I'll start by",
+      "start": 143.4,
+      "duration": 3.8
+    },
+    {
+      "text": "asking that because it was it was",
+      "start": 145.64,
+      "duration": 3.48
+    },
+    {
+      "text": "through me being slightly cheeky having",
+      "start": 147.2,
+      "duration": 3.24
+    },
+    {
+      "text": "read one of",
+      "start": 149.12,
+      "duration": 4.0
+    },
+    {
+      "text": "papers about iron metabolism which",
+      "start": 150.44,
+      "duration": 6.0
+    },
+    {
+      "text": "didn't site my big review so I took the",
+      "start": 153.12,
+      "duration": 6.839
+    },
+    {
+      "text": "opportunity to draw re's attention to",
+      "start": 156.44,
+      "duration": 5.32
+    },
+    {
+      "text": "this review which does have two and a",
+      "start": 159.959,
+      "duration": 4.521
+    },
+    {
+      "text": "half thousand references in it uh uh",
+      "start": 161.76,
+      "duration": 4.64
+    },
+    {
+      "text": "unlike most people who just ignore",
+      "start": 164.48,
+      "duration": 4.56
+    },
+    {
+      "text": "snotty emails like that Risha was very",
+      "start": 166.4,
+      "duration": 4.64
+    },
+    {
+      "text": "friendly and said oh my goodness this is",
+      "start": 169.04,
+      "duration": 3.72
+    },
+    {
+      "text": "really good stuff let's work together",
+      "start": 171.04,
+      "duration": 3.36
+    },
+    {
+      "text": "all words to that effect and I'll now",
+      "start": 172.76,
+      "duration": 5.24
+    },
+    {
+      "text": "let Risha give her version of the same",
+      "start": 174.4,
+      "duration": 7.32
+    },
+    {
+      "text": "story yes d um emailed me and he said",
+      "start": 178.0,
+      "duration": 6.239
+    },
+    {
+      "text": "shall we Skype and I thought well who is",
+      "start": 181.72,
+      "duration": 3.96
+    },
+    {
+      "text": "this",
+      "start": 184.239,
+      "duration": 4.521
+    },
+    {
+      "text": "person and then I read the paper and",
+      "start": 185.68,
+      "duration": 5.76
+    },
+    {
+      "text": "then I thought well let me um not ignore",
+      "start": 188.76,
+      "duration": 5.36
+    },
+    {
+      "text": "him and let us have a Skype at that",
+      "start": 191.44,
+      "duration": 6.0
+    },
+    {
+      "text": "stage we were still using Skype and then",
+      "start": 194.12,
+      "duration": 6.039
+    },
+    {
+      "text": "uh well I think immediately we we just",
+      "start": 197.44,
+      "duration": 4.92
+    },
+    {
+      "text": "thought that we we have got some things",
+      "start": 200.159,
+      "duration": 6.36
+    },
+    {
+      "text": "to share and in common and I have um at",
+      "start": 202.36,
+      "duration": 8.36
+    },
+    {
+      "text": "the lab and uh Doug s suggested a few",
+      "start": 206.519,
+      "duration": 6.881
+    },
+    {
+      "text": "experiments and that is how it started",
+      "start": 210.72,
+      "duration": 5.48
+    },
+    {
+      "text": "and it just uh snowballed from there we",
+      "start": 213.4,
+      "duration": 4.72
+    },
+    {
+      "text": "just never stopped working together",
+      "start": 216.2,
+      "duration": 3.56
+    },
+    {
+      "text": "that's so awesome and the thing that",
+      "start": 218.12,
+      "duration": 3.8
+    },
+    {
+      "text": "makes such collaborations work is a",
+      "start": 219.76,
+      "duration": 3.92
+    },
+    {
+      "text": "obviously getting on with each other but",
+      "start": 221.92,
+      "duration": 4.76
+    },
+    {
+      "text": "B complimentary skills and they very",
+      "start": 223.68,
+      "duration": 5.559
+    },
+    {
+      "text": "much are the case what Risha does I'm",
+      "start": 226.68,
+      "duration": 5.72
+    },
+    {
+      "text": "never going to do and uh to a lesser",
+      "start": 229.239,
+      "duration": 5.0
+    },
+    {
+      "text": "extent but to some extent the converse",
+      "start": 232.4,
+      "duration": 4.36
+    },
+    {
+      "text": "is true very",
+      "start": 234.239,
+      "duration": 6.601
+    },
+    {
+      "text": "true dou is obviously the the biochemist",
+      "start": 236.76,
+      "duration": 5.88
+    },
+    {
+      "text": "mind and the",
+      "start": 240.84,
+      "duration": 4.319
+    },
+    {
+      "text": "mathematician all in one and the systems",
+      "start": 242.64,
+      "duration": 5.2
+    },
+    {
+      "text": "biologist so he keeps me in check and",
+      "start": 245.159,
+      "duration": 4.521
+    },
+    {
+      "text": "checks all the stuff that we",
+      "start": 247.84,
+      "duration": 6.679
+    },
+    {
+      "text": "do oh fantastic so let's talk about micr",
+      "start": 249.68,
+      "duration": 7.64
+    },
+    {
+      "text": "cluts um we've been hearing about these",
+      "start": 254.519,
+      "duration": 6.161
+    },
+    {
+      "text": "micr cluts for a wee bit now so what are",
+      "start": 257.32,
+      "duration": 5.84
+    },
+    {
+      "text": "they and I guess how did you discover",
+      "start": 260.68,
+      "duration": 5.0
+    },
+    {
+      "text": "them cuz so many of us with long Co",
+      "start": 263.16,
+      "duration": 5.2
+    },
+    {
+      "text": "we've had our tests come back clear",
+      "start": 265.68,
+      "duration": 4.64
+    },
+    {
+      "text": "every blood test every test oh you're",
+      "start": 268.36,
+      "duration": 5.2
+    },
+    {
+      "text": "fine so what led you to run the specific",
+      "start": 270.32,
+      "duration": 5.36
+    },
+    {
+      "text": "test that actually found them well",
+      "start": 273.56,
+      "duration": 6.56
+    },
+    {
+      "text": "perhaps I can start D and fill in uh in",
+      "start": 275.68,
+      "duration": 7.72
+    },
+    {
+      "text": "2020 quite early on in the disease uh",
+      "start": 280.12,
+      "duration": 5.76
+    },
+    {
+      "text": "progression and when we first discovered",
+      "start": 283.4,
+      "duration": 5.48
+    },
+    {
+      "text": "Co I was contacted by one of my clinical",
+      "start": 285.88,
+      "duration": 5.039
+    },
+    {
+      "text": "collaborators that we have been working",
+      "start": 288.88,
+      "duration": 5.96
+    },
+    {
+      "text": "together with him uh Dr yakop for quite",
+      "start": 290.919,
+      "duration": 7.441
+    },
+    {
+      "text": "a long time on diabetes and he he was",
+      "start": 294.84,
+      "duration": 5.48
+    },
+    {
+      "text": "basically looking at patients with acute",
+      "start": 298.36,
+      "duration": 4.6
+    },
+    {
+      "text": "Co and he said he noted clotting",
+      "start": 300.32,
+      "duration": 5.319
+    },
+    {
+      "text": "pathologies in his patient sample but",
+      "start": 302.96,
+      "duration": 5.56
+    },
+    {
+      "text": "obviously not just you know not on a a",
+      "start": 305.639,
+      "duration": 6.28
+    },
+    {
+      "text": "research basis but just the clinical uh",
+      "start": 308.52,
+      "duration": 5.76
+    },
+    {
+      "text": "presentation of the patients so we",
+      "start": 311.919,
+      "duration": 4.881
+    },
+    {
+      "text": "immediately thought that well we have",
+      "start": 314.28,
+      "duration": 4.28
+    },
+    {
+      "text": "been focused on clotting for for a while",
+      "start": 316.8,
+      "duration": 4.6
+    },
+    {
+      "text": "now for many years now let us look at",
+      "start": 318.56,
+      "duration": 5.72
+    },
+    {
+      "text": "the patient sample so we got ethical",
+      "start": 321.4,
+      "duration": 6.76
+    },
+    {
+      "text": "clearance to work with him and with the",
+      "start": 324.28,
+      "duration": 6.44
+    },
+    {
+      "text": "hospital group that he actually works",
+      "start": 328.16,
+      "duration": 6.2
+    },
+    {
+      "text": "with and where his practice is and we",
+      "start": 330.72,
+      "duration": 5.96
+    },
+    {
+      "text": "quite soon after we received the first",
+      "start": 334.36,
+      "duration": 4.88
+    },
+    {
+      "text": "blood samples we realized that there are",
+      "start": 336.68,
+      "duration": 5.799
+    },
+    {
+      "text": "a significant microclot presence and",
+      "start": 339.24,
+      "duration": 5.88
+    },
+    {
+      "text": "also platelet hyperactivation in the",
+      "start": 342.479,
+      "duration": 5.601
+    },
+    {
+      "text": "sample and we were just doing what we do",
+      "start": 345.12,
+      "duration": 5.44
+    },
+    {
+      "text": "uh it's not no we weren't looking for it",
+      "start": 348.08,
+      "duration": 4.48
+    },
+    {
+      "text": "we were just simply doing what we have",
+      "start": 350.56,
+      "duration": 4.919
+    },
+    {
+      "text": "been doing for 10 years or longer and uh",
+      "start": 352.56,
+      "duration": 6.359
+    },
+    {
+      "text": "that was in the acute sample and uh it",
+      "start": 355.479,
+      "duration": 5.641
+    },
+    {
+      "text": "probably",
+      "start": 358.919,
+      "duration": 5.161
+    },
+    {
+      "text": "December of yeah 2020 the January of",
+      "start": 361.12,
+      "duration": 6.76
+    },
+    {
+      "text": "last year we started getting reports of",
+      "start": 364.08,
+      "duration": 7.36
+    },
+    {
+      "text": "patients with long Co but not Dr yakop",
+      "start": 367.88,
+      "duration": 6.719
+    },
+    {
+      "text": "patients he treated clotting pathologies",
+      "start": 371.44,
+      "duration": 6.68
+    },
+    {
+      "text": "in the in his acute group of patients",
+      "start": 374.599,
+      "duration": 5.961
+    },
+    {
+      "text": "and they didn't seem to go into long",
+      "start": 378.12,
+      "duration": 5.32
+    },
+    {
+      "text": "covid so uh I got hold of some of the",
+      "start": 380.56,
+      "duration": 5.28
+    },
+    {
+      "text": "patient samples deal with ethics and",
+      "start": 383.44,
+      "duration": 4.44
+    },
+    {
+      "text": "then we realized that the P persistent",
+      "start": 385.84,
+      "duration": 3.84
+    },
+    {
+      "text": "symptoms that these patients are",
+      "start": 387.88,
+      "duration": 3.8
+    },
+    {
+      "text": "complaining about might be linked to",
+      "start": 389.68,
+      "duration": 4.519
+    },
+    {
+      "text": "persistent clots that were present in",
+      "start": 391.68,
+      "duration": 5.6
+    },
+    {
+      "text": "the sample and that's how we basically",
+      "start": 394.199,
+      "duration": 5.56
+    },
+    {
+      "text": "discovered it and before we published I",
+      "start": 397.28,
+      "duration": 4.8
+    },
+    {
+      "text": "thought well this might be a nice",
+      "start": 399.759,
+      "duration": 5.121
+    },
+    {
+      "text": "Diagnostic and uh we filed a provisional",
+      "start": 402.08,
+      "duration": 6.0
+    },
+    {
+      "text": "patent to use it as a diagnostic",
+      "start": 404.88,
+      "duration": 5.84
+    },
+    {
+      "text": "hindsight perhaps that you know was a",
+      "start": 408.08,
+      "duration": 6.0
+    },
+    {
+      "text": "good or sometimes one could argue not so",
+      "start": 410.72,
+      "duration": 4.96
+    },
+    {
+      "text": "good thing because you would like to",
+      "start": 414.08,
+      "duration": 4.48
+    },
+    {
+      "text": "make a the discovery available for for",
+      "start": 415.68,
+      "duration": 4.799
+    },
+    {
+      "text": "many people but hopefully we will be",
+      "start": 418.56,
+      "duration": 5.479
+    },
+    {
+      "text": "able to do that via various licensing",
+      "start": 420.479,
+      "duration": 7.12
+    },
+    {
+      "text": "agreements and then we also looked at uh",
+      "start": 424.039,
+      "duration": 7.241
+    },
+    {
+      "text": "the content of the micr clots I thought",
+      "start": 427.599,
+      "duration": 6.561
+    },
+    {
+      "text": "last year February I thought let's do",
+      "start": 431.28,
+      "duration": 6.28
+    },
+    {
+      "text": "proteomics and we had some funding but",
+      "start": 434.16,
+      "duration": 5.879
+    },
+    {
+      "text": "to our surprise we could not digest the",
+      "start": 437.56,
+      "duration": 4.68
+    },
+    {
+      "text": "micr clots and there it all started we",
+      "start": 440.039,
+      "duration": 6.081
+    },
+    {
+      "text": "had a double digestion step we uh",
+      "start": 442.24,
+      "duration": 5.72
+    },
+    {
+      "text": "couldn't digest the samples with just a",
+      "start": 446.12,
+      "duration": 4.28
+    },
+    {
+      "text": "single one and then we did we we found",
+      "start": 447.96,
+      "duration": 4.84
+    },
+    {
+      "text": "all of these trapped inflammatory",
+      "start": 450.4,
+      "duration": 5.32
+    },
+    {
+      "text": "molecules inside the the microc clots",
+      "start": 452.8,
+      "duration": 4.959
+    },
+    {
+      "text": "and perhaps D can then perhaps just fill",
+      "start": 455.72,
+      "duration": 5.599
+    },
+    {
+      "text": "in uh about the fibin and the ameloid",
+      "start": 457.759,
+      "duration": 6.521
+    },
+    {
+      "text": "nature of these cloths so uh the",
+      "start": 461.319,
+      "duration": 5.56
+    },
+    {
+      "text": "backstory going back quite some time to",
+      "start": 464.28,
+      "duration": 4.4
+    },
+    {
+      "text": "to when Risha and I first started",
+      "start": 466.879,
+      "duration": 3.88
+    },
+    {
+      "text": "corresponding and working together is is",
+      "start": 468.68,
+      "duration": 4.639
+    },
+    {
+      "text": "that she had discovered that under a",
+      "start": 470.759,
+      "duration": 4.241
+    },
+    {
+      "text": "variety of conditions looking in an",
+      "start": 473.319,
+      "duration": 3.681
+    },
+    {
+      "text": "electron microscope not Optical",
+      "start": 475.0,
+      "duration": 4.879
+    },
+    {
+      "text": "microscope the fibrinogen",
+      "start": 477.0,
+      "duration": 5.0
+    },
+    {
+      "text": "when it clots into fibrin would clot",
+      "start": 479.879,
+      "duration": 4.28
+    },
+    {
+      "text": "into what were then called dense matted",
+      "start": 482.0,
+      "duration": 4.56
+    },
+    {
+      "text": "deposits I just a sort of scruffy",
+      "start": 484.159,
+      "duration": 3.921
+    },
+    {
+      "text": "looking mass of",
+      "start": 486.56,
+      "duration": 4.44
+    },
+    {
+      "text": "crap and we didn't really quite know",
+      "start": 488.08,
+      "duration": 4.92
+    },
+    {
+      "text": "what this was although we then studied",
+      "start": 491.0,
+      "duration": 3.96
+    },
+    {
+      "text": "it and found that it was the case uh and",
+      "start": 493.0,
+      "duration": 3.639
+    },
+    {
+      "text": "could be induced by various things such",
+      "start": 494.96,
+      "duration": 3.56
+    },
+    {
+      "text": "as the iron metabolism where we started",
+      "start": 496.639,
+      "duration": 3.601
+    },
+    {
+      "text": "off actually including estrogen which",
+      "start": 498.52,
+      "duration": 4.359
+    },
+    {
+      "text": "may be relevant to the large fraction of",
+      "start": 500.24,
+      "duration": 6.0
+    },
+    {
+      "text": "females who have long covid and then",
+      "start": 502.879,
+      "duration": 5.801
+    },
+    {
+      "text": "that that it occurred in in rheumatoid",
+      "start": 506.24,
+      "duration": 5.0
+    },
+    {
+      "text": "Alzheimer's type two diabetes and",
+      "start": 508.68,
+      "duration": 4.0
+    },
+    {
+      "text": "Parkinson's all which are chronic",
+      "start": 511.24,
+      "duration": 5.039
+    },
+    {
+      "text": "inflammatory diseases and then we had",
+      "start": 512.68,
+      "duration": 6.56
+    },
+    {
+      "text": "long recognized that the probable cause",
+      "start": 516.279,
+      "duration": 5.24
+    },
+    {
+      "text": "of all of these things are bacterial",
+      "start": 519.24,
+      "duration": 4.32
+    },
+    {
+      "text": "infections which leave",
+      "start": 521.519,
+      "duration": 5.0
+    },
+    {
+      "text": "behind dormant cells and other things",
+      "start": 523.56,
+      "duration": 5.64
+    },
+    {
+      "text": "which don't show up by conventional",
+      "start": 526.519,
+      "duration": 4.721
+    },
+    {
+      "text": "microbiology but things like",
+      "start": 529.2,
+      "duration": 3.8
+    },
+    {
+      "text": "lipopolysaccharide which is a bacterial",
+      "start": 531.24,
+      "duration": 3.92
+    },
+    {
+      "text": "cell wall component of gram negatives",
+      "start": 533.0,
+      "duration": 4.839
+    },
+    {
+      "text": "are highly inflammogenic nobody doubts",
+      "start": 535.16,
+      "duration": 4.32
+    },
+    {
+      "text": "that once you accept that there's that",
+      "start": 537.839,
+      "duration": 3.24
+    },
+    {
+      "text": "that's around everybody will accept that",
+      "start": 539.48,
+      "duration": 2.799
+    },
+    {
+      "text": "it's",
+      "start": 541.079,
+      "duration": 3.641
+    },
+    {
+      "text": "inflammogenic and we decided that this",
+      "start": 542.279,
+      "duration": 4.641
+    },
+    {
+      "text": "must be involved in this anomalous",
+      "start": 544.72,
+      "duration": 5.359
+    },
+    {
+      "text": "clotting so we tested it just by adding",
+      "start": 546.92,
+      "duration": 5.12
+    },
+    {
+      "text": "small amounts and it really was small",
+      "start": 550.079,
+      "duration": 5.88
+    },
+    {
+      "text": "amounts one molecule of LPS per 100",
+      "start": 552.04,
+      "duration": 6.56
+    },
+    {
+      "text": "million fibrinogen molecules and we",
+      "start": 555.959,
+      "duration": 4.961
+    },
+    {
+      "text": "found indeed it would form anomalous",
+      "start": 558.6,
+      "duration": 5.0
+    },
+    {
+      "text": "clots and by some means that I don't",
+      "start": 560.92,
+      "duration": 4.96
+    },
+    {
+      "text": "recollect as through our discussions who",
+      "start": 563.6,
+      "duration": 4.2
+    },
+    {
+      "text": "actually came up with it we just",
+      "start": 565.88,
+      "duration": 3.68
+    },
+    {
+      "text": "wondered whether it might be to an",
+      "start": 567.8,
+      "duration": 4.0
+    },
+    {
+      "text": "ameloid form uh and there's a very",
+      "start": 569.56,
+      "duration": 3.76
+    },
+    {
+      "text": "wellknown stain for that called fire",
+      "start": 571.8,
+      "duration": 3.4
+    },
+    {
+      "text": "flaming tea and lo and behold the things",
+      "start": 573.32,
+      "duration": 4.759
+    },
+    {
+      "text": "lit up like Roman candles when you",
+      "start": 575.2,
+      "duration": 5.68
+    },
+    {
+      "text": "tested this ability to clot in vitro in",
+      "start": 578.079,
+      "duration": 5.921
+    },
+    {
+      "text": "these conditions and adding LPS and",
+      "start": 580.88,
+      "duration": 5.519
+    },
+    {
+      "text": "indeed subsequently we found lipoic acid",
+      "start": 584.0,
+      "duration": 4.12
+    },
+    {
+      "text": "which is a gr positive bacterial",
+      "start": 586.399,
+      "duration": 5.841
+    },
+    {
+      "text": "equivalent would do this so uh as the",
+      "start": 588.12,
+      "duration": 6.0
+    },
+    {
+      "text": "famous saying goes Chance favors the",
+      "start": 592.24,
+      "duration": 3.92
+    },
+    {
+      "text": "prepared mind but our minds were fully",
+      "start": 594.12,
+      "duration": 5.88
+    },
+    {
+      "text": "prepared for seeing amalo clots because",
+      "start": 596.16,
+      "duration": 6.239
+    },
+    {
+      "text": "we had seen them uh in all these other",
+      "start": 600.0,
+      "duration": 4.079
+    },
+    {
+      "text": "diseases and we could stain them with",
+      "start": 602.399,
+      "duration": 3.641
+    },
+    {
+      "text": "other stains a set of stains also called",
+      "start": 604.079,
+      "duration": 5.281
+    },
+    {
+      "text": "Amit trer that also stain them very well",
+      "start": 606.04,
+      "duration": 5.52
+    },
+    {
+      "text": "and in the case of the covid when like",
+      "start": 609.36,
+      "duration": 4.159
+    },
+    {
+      "text": "many other scientists we said well can",
+      "start": 611.56,
+      "duration": 4.32
+    },
+    {
+      "text": "we help with the covid problem although",
+      "start": 613.519,
+      "duration": 4.601
+    },
+    {
+      "text": "obviously we're not virologists first of",
+      "start": 615.88,
+      "duration": 4.0
+    },
+    {
+      "text": "all we looked at the literature because",
+      "start": 618.12,
+      "duration": 5.24
+    },
+    {
+      "text": "it was this Oddity that uh acute people",
+      "start": 619.88,
+      "duration": 4.84
+    },
+    {
+      "text": "were",
+      "start": 623.36,
+      "duration": 3.64
+    },
+    {
+      "text": "hypercoagulable and indeed uh dripping",
+      "start": 624.72,
+      "duration": 3.96
+    },
+    {
+      "text": "with clots the So-Cal ground glass",
+      "start": 627.0,
+      "duration": 4.8
+    },
+    {
+      "text": "phenomenon in their lungs and yet some",
+      "start": 628.68,
+      "duration": 4.64
+    },
+    {
+      "text": "of them later were dying because of",
+      "start": 631.8,
+      "duration": 3.4
+    },
+    {
+      "text": "bleeding and so it wasn't immediately",
+      "start": 633.32,
+      "duration": 4.519
+    },
+    {
+      "text": "obvious how you reconcile these",
+      "start": 635.2,
+      "duration": 4.879
+    },
+    {
+      "text": "apparently paradoxical observations",
+      "start": 637.839,
+      "duration": 3.881
+    },
+    {
+      "text": "until we worked out that they were",
+      "start": 640.079,
+      "duration": 4.521
+    },
+    {
+      "text": "separated in time and what was going on",
+      "start": 641.72,
+      "duration": 6.2
+    },
+    {
+      "text": "was that the extensive hypercoagulation",
+      "start": 644.6,
+      "duration": 6.2
+    },
+    {
+      "text": "at the beginning had caused all of the",
+      "start": 647.92,
+      "duration": 4.599
+    },
+    {
+      "text": "Von willbrand factor and some other",
+      "start": 650.8,
+      "duration": 4.32
+    },
+    {
+      "text": "factors to be used up so you couldn't",
+      "start": 652.519,
+      "duration": 5.401
+    },
+    {
+      "text": "then clot so that that explained that",
+      "start": 655.12,
+      "duration": 5.399
+    },
+    {
+      "text": "and then we real realized that we could",
+      "start": 657.92,
+      "duration": 4.32
+    },
+    {
+      "text": "see these clots even without adding any",
+      "start": 660.519,
+      "duration": 3.44
+    },
+    {
+      "text": "throm in in vitro because they were just",
+      "start": 662.24,
+      "duration": 4.2
+    },
+    {
+      "text": "so prevalent and then as Rea says we we",
+      "start": 663.959,
+      "duration": 5.12
+    },
+    {
+      "text": "move from acute to long covid when we",
+      "start": 666.44,
+      "duration": 4.839
+    },
+    {
+      "text": "started seeing people who weren't",
+      "start": 669.079,
+      "duration": 4.481
+    },
+    {
+      "text": "treated in in the first place so none of",
+      "start": 671.279,
+      "duration": 4.201
+    },
+    {
+      "text": "whom not just a small fraction of whom",
+      "start": 673.56,
+      "duration": 4.279
+    },
+    {
+      "text": "didn't none of whom had gone on to get",
+      "start": 675.48,
+      "duration": 6.32
+    },
+    {
+      "text": "long covid so yako Loa had recognized",
+      "start": 677.839,
+      "duration": 5.641
+    },
+    {
+      "text": "this and there's a video on on the web",
+      "start": 681.8,
+      "duration": 4.32
+    },
+    {
+      "text": "page I put up link to that in already",
+      "start": 683.48,
+      "duration": 4.68
+    },
+    {
+      "text": "June 2020 saying this is a vascular",
+      "start": 686.12,
+      "duration": 4.56
+    },
+    {
+      "text": "disease not a respiratory disase then",
+      "start": 688.16,
+      "duration": 4.2
+    },
+    {
+      "text": "the activated platelets came up that's",
+      "start": 690.68,
+      "duration": 3.159
+    },
+    {
+      "text": "really re's",
+      "start": 692.36,
+      "duration": 4.32
+    },
+    {
+      "text": "territory yes absolutely so the the",
+      "start": 693.839,
+      "duration": 4.401
+    },
+    {
+      "text": "hyperactivated platelets and the",
+      "start": 696.68,
+      "duration": 6.12
+    },
+    {
+      "text": "microclots go hand in hand where both is",
+      "start": 698.24,
+      "duration": 7.96
+    },
+    {
+      "text": "usually seen together in in patients",
+      "start": 702.8,
+      "duration": 7.68
+    },
+    {
+      "text": "with both acute covid and long covid and",
+      "start": 706.2,
+      "duration": 8.879
+    },
+    {
+      "text": "they drive or are driven by so it's a",
+      "start": 710.48,
+      "duration": 8.28
+    },
+    {
+      "text": "circular process by endothelial",
+      "start": 715.079,
+      "duration": 4.921
+    },
+    {
+      "text": "inflammation",
+      "start": 718.76,
+      "duration": 6.4
+    },
+    {
+      "text": "widespread ucal inflammation or um a",
+      "start": 720.0,
+      "duration": 8.76
+    },
+    {
+      "text": "significant inflammatory inflamed inside",
+      "start": 725.16,
+      "duration": 6.28
+    },
+    {
+      "text": "layers of your blood vessels so we think",
+      "start": 728.76,
+      "duration": 5.759
+    },
+    {
+      "text": "that is the the reason for the the",
+      "start": 731.44,
+      "duration": 5.68
+    },
+    {
+      "text": "development of the persistent symptoms",
+      "start": 734.519,
+      "duration": 5.281
+    },
+    {
+      "text": "in long covid both the microclots and",
+      "start": 737.12,
+      "duration": 5.399
+    },
+    {
+      "text": "the platelets and the endothelial damage",
+      "start": 739.8,
+      "duration": 6.24
+    },
+    {
+      "text": "or endothelitis they also call it where",
+      "start": 742.519,
+      "duration": 6.68
+    },
+    {
+      "text": "the the whole blood vasculature is in",
+      "start": 746.04,
+      "duration": 6.08
+    },
+    {
+      "text": "inflamed so if one takes that into",
+      "start": 749.199,
+      "duration": 5.0
+    },
+    {
+      "text": "consideration and you note that the",
+      "start": 752.12,
+      "duration": 6.2
+    },
+    {
+      "text": "vasculature is also inside the brain and",
+      "start": 754.199,
+      "duration": 7.281
+    },
+    {
+      "text": "the blood brain barrier and goes right",
+      "start": 758.32,
+      "duration": 7.519
+    },
+    {
+      "text": "into the muscles one can imagine that if",
+      "start": 761.48,
+      "duration": 7.919
+    },
+    {
+      "text": "all of these inflammatory layers of your",
+      "start": 765.839,
+      "duration": 6.641
+    },
+    {
+      "text": "vasculature are present and you can then",
+      "start": 769.399,
+      "duration": 5.161
+    },
+    {
+      "text": "have these microclots in circulation",
+      "start": 772.48,
+      "duration": 4.28
+    },
+    {
+      "text": "together with a hyperactivated platelets",
+      "start": 774.56,
+      "duration": 5.36
+    },
+    {
+      "text": "that it can drive a cellular widespread",
+      "start": 776.76,
+      "duration": 6.879
+    },
+    {
+      "text": "systemic hypoxia where the the muscles",
+      "start": 779.92,
+      "duration": 6.76
+    },
+    {
+      "text": "the brain the tissue simply do not get",
+      "start": 783.639,
+      "duration": 6.56
+    },
+    {
+      "text": "enough oxygen to them due to this",
+      "start": 786.68,
+      "duration": 5.959
+    },
+    {
+      "text": "inflamed vasculature and the presence of",
+      "start": 790.199,
+      "duration": 4.32
+    },
+    {
+      "text": "the microclots and the platelets that",
+      "start": 792.639,
+      "duration": 4.76
+    },
+    {
+      "text": "might be in trapped in the small little",
+      "start": 794.519,
+      "duration": 6.841
+    },
+    {
+      "text": "uh fibers of the the muscle and inside",
+      "start": 797.399,
+      "duration": 6.88
+    },
+    {
+      "text": "the small vasculature and if you take",
+      "start": 801.36,
+      "duration": 5.4
+    },
+    {
+      "text": "into account that the finest smallest",
+      "start": 804.279,
+      "duration": 5.841
+    },
+    {
+      "text": "little blood vessels the capillar is the",
+      "start": 806.76,
+      "duration": 6.04
+    },
+    {
+      "text": "smallest diameter is around about 24",
+      "start": 810.12,
+      "duration": 5.88
+    },
+    {
+      "text": "micrometers in diameter it's very small",
+      "start": 812.8,
+      "duration": 5.479
+    },
+    {
+      "text": "and some of these microclots are",
+      "start": 816.0,
+      "duration": 4.8
+    },
+    {
+      "text": "significantly larger although they are",
+      "start": 818.279,
+      "duration": 4.68
+    },
+    {
+      "text": "porous and like a little sponge and they",
+      "start": 820.8,
+      "duration": 4.8
+    },
+    {
+      "text": "can also squeeze through through the the",
+      "start": 822.959,
+      "duration": 5.481
+    },
+    {
+      "text": "the vasculature we believe uh then it",
+      "start": 825.6,
+      "duration": 5.4
+    },
+    {
+      "text": "makes sense that they might be entrapped",
+      "start": 828.44,
+      "duration": 5.16
+    },
+    {
+      "text": "inside the the small capillaries and",
+      "start": 831.0,
+      "duration": 5.759
+    },
+    {
+      "text": "they might lead to oxygen deprivation or",
+      "start": 833.6,
+      "duration": 6.799
+    },
+    {
+      "text": "widespread hypoxia",
+      "start": 836.759,
+      "duration": 3.64
+    },
+    {
+      "text": "we'll be right",
+      "start": 841.759,
+      "duration": 4.32
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 843.839,
+      "duration": 4.321
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 846.079,
+      "duration": 4.361
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 848.16,
+      "duration": 3.72
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 850.44,
+      "duration": 3.48
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 851.88,
+      "duration": 4.16
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 853.92,
+      "duration": 3.96
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 856.04,
+      "duration": 4.479
+    },
+    {
+      "text": "that can be with L Co we've worked",
+      "start": 857.88,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 860.519,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with L",
+      "start": 862.0,
+      "duration": 4.6
+    },
+    {
+      "text": "covid it's a 6-e course with 12 sessions",
+      "start": 863.759,
+      "duration": 5.64
+    },
+    {
+      "text": "all delivered online the community and",
+      "start": 866.6,
+      "duration": 4.159
+    },
+    {
+      "text": "learning that we're all sharing is such",
+      "start": 869.399,
+      "duration": 3.44
+    },
+    {
+      "text": "a joy to find out more information and",
+      "start": 870.759,
+      "duration": 3.88
+    },
+    {
+      "text": "to sign up for our courses workshops and",
+      "start": 872.839,
+      "duration": 3.721
+    },
+    {
+      "text": "other shorter sessions please check out",
+      "start": 874.639,
+      "duration": 5.12
+    },
+    {
+      "text": "the link below lco breathing.com or",
+      "start": 876.56,
+      "duration": 5.839
+    },
+    {
+      "text": "email lco breathing gmail.com to start",
+      "start": 879.759,
+      "duration": 3.821
+    },
+    {
+      "text": "your breathing Journey with",
+      "start": 882.399,
+      "duration": 4.791
+    },
+    {
+      "text": "[Music]",
+      "start": 883.58,
+      "duration": 3.61
+    },
+    {
+      "text": "us yeah so they're basically in very lay",
+      "start": 888.92,
+      "duration": 5.64
+    },
+    {
+      "text": "man's terms kind of clogging up the",
+      "start": 892.32,
+      "duration": 4.68
+    },
+    {
+      "text": "system that's that's the thinking that",
+      "start": 894.56,
+      "duration": 4.48
+    },
+    {
+      "text": "essentially they go and uh block up the",
+      "start": 897.0,
+      "duration": 3.8
+    },
+    {
+      "text": "the capillaries which normally would be",
+      "start": 899.04,
+      "duration": 4.479
+    },
+    {
+      "text": "the source of blood cells and oxygen to",
+      "start": 900.8,
+      "duration": 5.44
+    },
+    {
+      "text": "whichever tissues they're close by to uh",
+      "start": 903.519,
+      "duration": 4.921
+    },
+    {
+      "text": "and that therefore essentially causes",
+      "start": 906.24,
+      "duration": 3.719
+    },
+    {
+      "text": "anoxia or",
+      "start": 908.44,
+      "duration": 4.319
+    },
+    {
+      "text": "lemia yeah and of course because yeah",
+      "start": 909.959,
+      "duration": 5.081
+    },
+    {
+      "text": "they travel around the entire body like",
+      "start": 912.759,
+      "duration": 5.32
+    },
+    {
+      "text": "you just said that can explain the",
+      "start": 915.04,
+      "duration": 5.599
+    },
+    {
+      "text": "massive variation of symptoms in",
+      "start": 918.079,
+      "duration": 6.44
+    },
+    {
+      "text": "different people um so you know you've",
+      "start": 920.639,
+      "duration": 6.12
+    },
+    {
+      "text": "tested lots of blood I think haven't you",
+      "start": 924.519,
+      "duration": 4.521
+    },
+    {
+      "text": "for for the clots and I think you said",
+      "start": 926.759,
+      "duration": 4.601
+    },
+    {
+      "text": "said that there are no clots present in",
+      "start": 929.04,
+      "duration": 5.32
+    },
+    {
+      "text": "people without long coed but are the",
+      "start": 931.36,
+      "duration": 5.719
+    },
+    {
+      "text": "clots present in everybody that does",
+      "start": 934.36,
+      "duration": 6.24
+    },
+    {
+      "text": "have long Co so perhaps I could just uh",
+      "start": 937.079,
+      "duration": 6.841
+    },
+    {
+      "text": "qualify that if you look at a healthy",
+      "start": 940.6,
+      "duration": 5.88
+    },
+    {
+      "text": "individual whether you are very young or",
+      "start": 943.92,
+      "duration": 5.32
+    },
+    {
+      "text": "you are healthy an 80-year-old",
+      "start": 946.48,
+      "duration": 6.88
+    },
+    {
+      "text": "individual um if you have low levels of",
+      "start": 949.24,
+      "duration": 6.68
+    },
+    {
+      "text": "inflammation you will be relatively",
+      "start": 953.36,
+      "duration": 5.64
+    },
+    {
+      "text": "microclot free but you will always have",
+      "start": 955.92,
+      "duration": 6.599
+    },
+    {
+      "text": "small areas in your blood plasma that",
+      "start": 959.0,
+      "duration": 5.68
+    },
+    {
+      "text": "might be misfolded so you will have",
+      "start": 962.519,
+      "duration": 5.041
+    },
+    {
+      "text": "little bit of signal whether you 24 year",
+      "start": 964.68,
+      "duration": 6.24
+    },
+    {
+      "text": "old that's healthy or a or a 90y old",
+      "start": 967.56,
+      "duration": 6.16
+    },
+    {
+      "text": "that that is a healthy individual you",
+      "start": 970.92,
+      "duration": 4.919
+    },
+    {
+      "text": "would not be able to distinguish between",
+      "start": 973.72,
+      "duration": 4.52
+    },
+    {
+      "text": "a healthy Young And a healthy old person",
+      "start": 975.839,
+      "duration": 5.8
+    },
+    {
+      "text": "if the person is relatively inflammation",
+      "start": 978.24,
+      "duration": 7.2
+    },
+    {
+      "text": "free so if you now look at someone with",
+      "start": 981.639,
+      "duration": 5.68
+    },
+    {
+      "text": "diabetes or any of the other",
+      "start": 985.44,
+      "duration": 4.0
+    },
+    {
+      "text": "inflammatory conditions or rumor",
+      "start": 987.319,
+      "duration": 3.721
+    },
+    {
+      "text": "arthritis",
+      "start": 989.44,
+      "duration": 4.8
+    },
+    {
+      "text": "psoriasis those uh cardiovascular type",
+      "start": 991.04,
+      "duration": 6.44
+    },
+    {
+      "text": "diseases as well you will see a increase",
+      "start": 994.24,
+      "duration": 5.959
+    },
+    {
+      "text": "in the clot ability of the blood so you",
+      "start": 997.48,
+      "duration": 5.24
+    },
+    {
+      "text": "will have more clots in those",
+      "start": 1000.199,
+      "duration": 4.041
+    },
+    {
+      "text": "individuals and you will have a",
+      "start": 1002.72,
+      "duration": 4.28
+    },
+    {
+      "text": "significant difference when you compare",
+      "start": 1004.24,
+      "duration": 5.76
+    },
+    {
+      "text": "the clots in these individuals however",
+      "start": 1007.0,
+      "duration": 6.639
+    },
+    {
+      "text": "in acute Co and long Co the amount and",
+      "start": 1010.0,
+      "duration": 7.48
+    },
+    {
+      "text": "the size of the clots are just",
+      "start": 1013.639,
+      "duration": 5.801
+    },
+    {
+      "text": "significantly more",
+      "start": 1017.48,
+      "duration": 4.479
+    },
+    {
+      "text": "increased than I have ever seen",
+      "start": 1019.44,
+      "duration": 5.2
+    },
+    {
+      "text": "previously so if you have a blood sample",
+      "start": 1021.959,
+      "duration": 4.921
+    },
+    {
+      "text": "of a person with inflammatory disease",
+      "start": 1024.64,
+      "duration": 4.48
+    },
+    {
+      "text": "diabetes or cardiovascular disease next",
+      "start": 1026.88,
+      "duration": 5.52
+    },
+    {
+      "text": "to someone with long Co or acute Co",
+      "start": 1029.12,
+      "duration": 7.36
+    },
+    {
+      "text": "there's a visual difference in the the",
+      "start": 1032.4,
+      "duration": 6.88
+    },
+    {
+      "text": "size and the she number of clots that",
+      "start": 1036.48,
+      "duration": 6.04
+    },
+    {
+      "text": "you will see so definitely inflammation",
+      "start": 1039.28,
+      "duration": 6.6
+    },
+    {
+      "text": "cause clotting but long Co and Co in",
+      "start": 1042.52,
+      "duration": 6.72
+    },
+    {
+      "text": "those individuals that's in overdrive",
+      "start": 1045.88,
+      "duration": 5.08
+    },
+    {
+      "text": "and the other thing that can cause",
+      "start": 1049.24,
+      "duration": 4.64
+    },
+    {
+      "text": "clotting in normal plasma is adding the",
+      "start": 1050.96,
+      "duration": 6.24
+    },
+    {
+      "text": "spike protein recombinant from a bottle",
+      "start": 1053.88,
+      "duration": 6.32
+    },
+    {
+      "text": "to the normal plasma and what we've also",
+      "start": 1057.2,
+      "duration": 6.32
+    },
+    {
+      "text": "found as yet anecdotally is that if you",
+      "start": 1060.2,
+      "duration": 6.52
+    },
+    {
+      "text": "buy commercial plasma now it's got more",
+      "start": 1063.52,
+      "duration": 6.0
+    },
+    {
+      "text": "microclots in it than the old stuff used",
+      "start": 1066.72,
+      "duration": 5.88
+    },
+    {
+      "text": "to from quote normal people because of",
+      "start": 1069.52,
+      "duration": 5.44
+    },
+    {
+      "text": "course lots of people have had covid and",
+      "start": 1072.6,
+      "duration": 5.76
+    },
+    {
+      "text": "been vaccinated with Spike protein so",
+      "start": 1074.96,
+      "duration": 5.839
+    },
+    {
+      "text": "the back ground is not quite as pristine",
+      "start": 1078.36,
+      "duration": 4.16
+    },
+    {
+      "text": "as it used to be when we first started",
+      "start": 1080.799,
+      "duration": 4.321
+    },
+    {
+      "text": "publishing in this space but certainly",
+      "start": 1082.52,
+      "duration": 4.8
+    },
+    {
+      "text": "we've no doubt at all that light adding",
+      "start": 1085.12,
+      "duration": 4.2
+    },
+    {
+      "text": "small amounts of lipopolysaccharide from",
+      "start": 1087.32,
+      "duration": 5.4
+    },
+    {
+      "text": "the bacteria small amounts of Spike",
+      "start": 1089.32,
+      "duration": 6.04
+    },
+    {
+      "text": "protein from long covid at least the",
+      "start": 1092.72,
+      "duration": 5.64
+    },
+    {
+      "text": "earlier variants uh are highly able to",
+      "start": 1095.36,
+      "duration": 6.84
+    },
+    {
+      "text": "induce this ameloid form of fibrin that",
+      "start": 1098.36,
+      "duration": 7.72
+    },
+    {
+      "text": "is known to be resistant to proteolysis",
+      "start": 1102.2,
+      "duration": 6.959
+    },
+    {
+      "text": "and indeed is resistant to proteolysis",
+      "start": 1106.08,
+      "duration": 6.68
+    },
+    {
+      "text": "much as prons actually in a similar way",
+      "start": 1109.159,
+      "duration": 7.121
+    },
+    {
+      "text": "and in just to add to that what we then",
+      "start": 1112.76,
+      "duration": 6.84
+    },
+    {
+      "text": "believe is happening is that there are",
+      "start": 1116.28,
+      "duration": 6.16
+    },
+    {
+      "text": "protein protein interactions so the",
+      "start": 1119.6,
+      "duration": 6.439
+    },
+    {
+      "text": "spike protein interacting with a plasma",
+      "start": 1122.44,
+      "duration": 7.08
+    },
+    {
+      "text": "protein so uh typically if you have",
+      "start": 1126.039,
+      "duration": 6.161
+    },
+    {
+      "text": "cells involved the the spike protein",
+      "start": 1129.52,
+      "duration": 5.399
+    },
+    {
+      "text": "will enter the cell via a",
+      "start": 1132.2,
+      "duration": 6.04
+    },
+    {
+      "text": "receptor but obviously on fibrinogen or",
+      "start": 1134.919,
+      "duration": 6.521
+    },
+    {
+      "text": "a prot prot the plasma proteins there",
+      "start": 1138.24,
+      "duration": 7.12
+    },
+    {
+      "text": "are no receptors as on a cell membrane",
+      "start": 1141.44,
+      "duration": 6.599
+    },
+    {
+      "text": "so instead of entering the cell via a",
+      "start": 1145.36,
+      "duration": 5.439
+    },
+    {
+      "text": "receptor and that typical pathway the",
+      "start": 1148.039,
+      "duration": 5.12
+    },
+    {
+      "text": "ace receptor as we now all know about",
+      "start": 1150.799,
+      "duration": 4.921
+    },
+    {
+      "text": "that already from various",
+      "start": 1153.159,
+      "duration": 4.921
+    },
+    {
+      "text": "Publications that is not the case it is",
+      "start": 1155.72,
+      "duration": 5.4
+    },
+    {
+      "text": "a direct protein protein interaction",
+      "start": 1158.08,
+      "duration": 7.04
+    },
+    {
+      "text": "which makes it more difficult also to to",
+      "start": 1161.12,
+      "duration": 6.24
+    },
+    {
+      "text": "resolve because it's just you know",
+      "start": 1165.12,
+      "duration": 4.24
+    },
+    {
+      "text": "there's no receptor to block",
+      "start": 1167.36,
+      "duration": 3.64
+    },
+    {
+      "text": "right so it's the fact that they're",
+      "start": 1169.36,
+      "duration": 3.679
+    },
+    {
+      "text": "interacting without the receptor that's",
+      "start": 1171.0,
+      "duration": 3.039
+    },
+    {
+      "text": "making the",
+      "start": 1173.039,
+      "duration": 4.64
+    },
+    {
+      "text": "difference so so how fibrinogen",
+      "start": 1174.039,
+      "duration": 6.12
+    },
+    {
+      "text": "polymerizes so so if you imagine",
+      "start": 1177.679,
+      "duration": 5.0
+    },
+    {
+      "text": "something like my index finger the",
+      "start": 1180.159,
+      "duration": 5.0
+    },
+    {
+      "text": "fibrinogen molecule is about 5",
+      "start": 1182.679,
+      "duration": 5.681
+    },
+    {
+      "text": "nanometers by 45 so it's sort of shape",
+      "start": 1185.159,
+      "duration": 5.801
+    },
+    {
+      "text": "of my index finger and what happens is",
+      "start": 1188.36,
+      "duration": 4.92
+    },
+    {
+      "text": "that thrombin nips out two little bits",
+      "start": 1190.96,
+      "duration": 4.32
+    },
+    {
+      "text": "of those proteins two peptides called",
+      "start": 1193.28,
+      "duration": 4.759
+    },
+    {
+      "text": "fibrinopeptides and that causes them to",
+      "start": 1195.28,
+      "duration": 6.36
+    },
+    {
+      "text": "self mble into these much more massive",
+      "start": 1198.039,
+      "duration": 6.921
+    },
+    {
+      "text": "fibers which are typically about 280 per",
+      "start": 1201.64,
+      "duration": 7.56
+    },
+    {
+      "text": "unit length diameter uh as you go along",
+      "start": 1204.96,
+      "duration": 6.16
+    },
+    {
+      "text": "so that the the diameter of the",
+      "start": 1209.2,
+      "duration": 3.88
+    },
+    {
+      "text": "fibrinogen fiber is something of the",
+      "start": 1211.12,
+      "duration": 4.799
+    },
+    {
+      "text": "order of 50 to 100 microns depending",
+      "start": 1213.08,
+      "duration": 5.12
+    },
+    {
+      "text": "upon where where you are nanometers",
+      "start": 1215.919,
+      "duration": 4.281
+    },
+    {
+      "text": "excuse me whereas the individual",
+      "start": 1218.2,
+      "duration": 5.76
+    },
+    {
+      "text": "molecule is is five nanometers so",
+      "start": 1220.2,
+      "duration": 5.8
+    },
+    {
+      "text": "there's no thermodynamic problem the",
+      "start": 1223.96,
+      "duration": 4.24
+    },
+    {
+      "text": "clotting is going to happen anyway the",
+      "start": 1226.0,
+      "duration": 4.039
+    },
+    {
+      "text": "the free energy has been given to you by",
+      "start": 1228.2,
+      "duration": 4.04
+    },
+    {
+      "text": "the thrombin doing its reaction and the",
+      "start": 1230.039,
+      "duration": 4.681
+    },
+    {
+      "text": "fibrinopeptides coming out the only",
+      "start": 1232.24,
+      "duration": 4.439
+    },
+    {
+      "text": "question is do you turn left or right",
+      "start": 1234.72,
+      "duration": 4.24
+    },
+    {
+      "text": "you make the ameloid form or the normal",
+      "start": 1236.679,
+      "duration": 7.0
+    },
+    {
+      "text": "form and what determines that is is what",
+      "start": 1238.96,
+      "duration": 8.839
+    },
+    {
+      "text": "is bound to you and if LPS or uh Spike",
+      "start": 1243.679,
+      "duration": 5.641
+    },
+    {
+      "text": "protein is bound to you then you're",
+      "start": 1247.799,
+      "duration": 3.281
+    },
+    {
+      "text": "going to be able to turn right and if",
+      "start": 1249.32,
+      "duration": 3.56
+    },
+    {
+      "text": "you start going amalo then your next",
+      "start": 1251.08,
+      "duration": 4.079
+    },
+    {
+      "text": "door neighbors got to as well in order",
+      "start": 1252.88,
+      "duration": 4.32
+    },
+    {
+      "text": "to pack into the fiber in the in the",
+      "start": 1255.159,
+      "duration": 4.601
+    },
+    {
+      "text": "appropriate way so so you only need a",
+      "start": 1257.2,
+      "duration": 6.2
+    },
+    {
+      "text": "tiny fraction of the fibrinogen",
+      "start": 1259.76,
+      "duration": 5.799
+    },
+    {
+      "text": "molecules to have something that will",
+      "start": 1263.4,
+      "duration": 5.04
+    },
+    {
+      "text": "cause this to happen to be bound for it",
+      "start": 1265.559,
+      "duration": 6.881
+    },
+    {
+      "text": "to happen so that's a gives a good",
+      "start": 1268.44,
+      "duration": 6.28
+    },
+    {
+      "text": "explanation of what seems to be a",
+      "start": 1272.44,
+      "duration": 3.52
+    },
+    {
+      "text": "massive",
+      "start": 1274.72,
+      "duration": 3.88
+    },
+    {
+      "text": "amplification of a relatively small",
+      "start": 1275.96,
+      "duration": 4.719
+    },
+    {
+      "text": "amount of virus or virus protein that",
+      "start": 1278.6,
+      "duration": 5.48
+    },
+    {
+      "text": "may be lurking and we believe probably",
+      "start": 1280.679,
+      "duration": 6.841
+    },
+    {
+      "text": "is persisting in Long haulers sure so",
+      "start": 1284.08,
+      "duration": 5.36
+    },
+    {
+      "text": "it's causing a sort of snow B effect",
+      "start": 1287.52,
+      "duration": 5.0
+    },
+    {
+      "text": "basically yeah wow but the good news is",
+      "start": 1289.44,
+      "duration": 5.96
+    },
+    {
+      "text": "although the microclots are resistant",
+      "start": 1292.52,
+      "duration": 4.88
+    },
+    {
+      "text": "they're not infinitely resistant they",
+      "start": 1295.4,
+      "duration": 4.6
+    },
+    {
+      "text": "still are degraded just at a lower rate",
+      "start": 1297.4,
+      "duration": 5.04
+    },
+    {
+      "text": "and that's why you see them but the the",
+      "start": 1300.0,
+      "duration": 4.12
+    },
+    {
+      "text": "triple treatment which we may or may not",
+      "start": 1302.44,
+      "duration": 5.08
+    },
+    {
+      "text": "get onto in the in the podcast doesn't",
+      "start": 1304.12,
+      "duration": 6.96
+    },
+    {
+      "text": "remove existing ones the body naturally",
+      "start": 1307.52,
+      "duration": 5.399
+    },
+    {
+      "text": "removes them it just stops new ones from",
+      "start": 1311.08,
+      "duration": 4.64
+    },
+    {
+      "text": "forming sure so we were talking about",
+      "start": 1312.919,
+      "duration": 6.161
+    },
+    {
+      "text": "earlier the the inflammation and am I",
+      "start": 1315.72,
+      "duration": 5.4
+    },
+    {
+      "text": "right in thinking that that is kind of",
+      "start": 1319.08,
+      "duration": 5.0
+    },
+    {
+      "text": "what's causing the microclots is that",
+      "start": 1321.12,
+      "duration": 5.439
+    },
+    {
+      "text": "correct both directions I mean whenever",
+      "start": 1324.08,
+      "duration": 4.599
+    },
+    {
+      "text": "you get a big effect in biology it's",
+      "start": 1326.559,
+      "duration": 4.041
+    },
+    {
+      "text": "it's due to something called positive",
+      "start": 1328.679,
+      "duration": 3.761
+    },
+    {
+      "text": "feedback which sounds positive but it's",
+      "start": 1330.6,
+      "duration": 4.559
+    },
+    {
+      "text": "not positive it's negative thing but it",
+      "start": 1332.44,
+      "duration": 5.52
+    },
+    {
+      "text": "uh uh so if a causes B and B causes a",
+      "start": 1335.159,
+      "duration": 5.12
+    },
+    {
+      "text": "you can therefore get this strong",
+      "start": 1337.96,
+      "duration": 4.68
+    },
+    {
+      "text": "amplification and if a is inflammation",
+      "start": 1340.279,
+      "duration": 4.841
+    },
+    {
+      "text": "and B is microclots or a is inflammation",
+      "start": 1342.64,
+      "duration": 6.0
+    },
+    {
+      "text": "and B is endothelial damage uh they feed",
+      "start": 1345.12,
+      "duration": 5.159
+    },
+    {
+      "text": "back upon each other actually all in",
+      "start": 1348.64,
+      "duration": 4.32
+    },
+    {
+      "text": "that triangle feeds feeds upon itself",
+      "start": 1350.279,
+      "duration": 4.481
+    },
+    {
+      "text": "and so we're pretty sure although that's",
+      "start": 1352.96,
+      "duration": 3.88
+    },
+    {
+      "text": "a qualitative statement that that's the",
+      "start": 1354.76,
+      "duration": 4.36
+    },
+    {
+      "text": "sort of thing that's going on again the",
+      "start": 1356.84,
+      "duration": 4.36
+    },
+    {
+      "text": "good news is that if you can manage to",
+      "start": 1359.12,
+      "duration": 4.52
+    },
+    {
+      "text": "break any part of that cycle you will",
+      "start": 1361.2,
+      "duration": 5.4
+    },
+    {
+      "text": "help",
+      "start": 1363.64,
+      "duration": 2.96
+    },
+    {
+      "text": "sure we'll be right",
+      "start": 1367.039,
+      "duration": 5.921
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1370.48,
+      "duration": 4.439
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1372.96,
+      "duration": 4.48
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1374.919,
+      "duration": 4.0
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1377.44,
+      "duration": 3.68
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1378.919,
+      "duration": 4.681
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1381.12,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we'd be able to get",
+      "start": 1383.6,
+      "duration": 3.559
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1385.36,
+      "duration": 4.28
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 1387.159,
+      "duration": 3.961
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 1389.64,
+      "duration": 3.44
+    },
+    {
+      "text": "possibly can I hope you enjoy the",
+      "start": 1391.12,
+      "duration": 5.2
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 1393.08,
+      "duration": 3.24
+    },
+    {
+      "text": "much um why do clots seem to affect some",
+      "start": 1399.64,
+      "duration": 5.6
+    },
+    {
+      "text": "people more than others well we don't we",
+      "start": 1402.76,
+      "duration": 5.08
+    },
+    {
+      "text": "don't know why some people are more",
+      "start": 1405.24,
+      "duration": 4.919
+    },
+    {
+      "text": "resistant clots have them but don't have",
+      "start": 1407.84,
+      "duration": 4.079
+    },
+    {
+      "text": "the symptoms of long covid whereas",
+      "start": 1410.159,
+      "duration": 4.0
+    },
+    {
+      "text": "others are extremely sensitive we",
+      "start": 1411.919,
+      "duration": 4.401
+    },
+    {
+      "text": "believe in general terms you may say",
+      "start": 1414.159,
+      "duration": 4.321
+    },
+    {
+      "text": "this is slightly hand waving that when",
+      "start": 1416.32,
+      "duration": 4.8
+    },
+    {
+      "text": "you have a potentially 200 different",
+      "start": 1418.48,
+      "duration": 5.799
+    },
+    {
+      "text": "symptoms of long covid and individuals",
+      "start": 1421.12,
+      "duration": 5.679
+    },
+    {
+      "text": "have a subset of them which is not",
+      "start": 1424.279,
+      "duration": 4.921
+    },
+    {
+      "text": "random is deterministic but uh not",
+      "start": 1426.799,
+      "duration": 4.36
+    },
+    {
+      "text": "predictable in general terms the",
+      "start": 1429.2,
+      "duration": 4.28
+    },
+    {
+      "text": "microclots can explain it because you",
+      "start": 1431.159,
+      "duration": 3.601
+    },
+    {
+      "text": "just say well that's where they've gone",
+      "start": 1433.48,
+      "duration": 3.36
+    },
+    {
+      "text": "and blocked up the capillaries and",
+      "start": 1434.76,
+      "duration": 5.44
+    },
+    {
+      "text": "caused the inflammation but any level of",
+      "start": 1436.84,
+      "duration": 5.56
+    },
+    {
+      "text": "detail these sorts of measurements have",
+      "start": 1440.2,
+      "duration": 6.28
+    },
+    {
+      "text": "not been done at all yeah and and one",
+      "start": 1442.4,
+      "duration": 8.279
+    },
+    {
+      "text": "must remember that there are theories of",
+      "start": 1446.48,
+      "duration": 5.439
+    },
+    {
+      "text": "genetic",
+      "start": 1450.679,
+      "duration": 3.721
+    },
+    {
+      "text": "predisposition environmental",
+      "start": 1451.919,
+      "duration": 6.681
+    },
+    {
+      "text": "predisposition your uh weight your",
+      "start": 1454.4,
+      "duration": 7.68
+    },
+    {
+      "text": "previous disease State how inflammatory",
+      "start": 1458.6,
+      "duration": 6.799
+    },
+    {
+      "text": "you have been before you developed acute",
+      "start": 1462.08,
+      "duration": 6.959
+    },
+    {
+      "text": "Co so all of those information",
+      "start": 1465.399,
+      "duration": 7.041
+    },
+    {
+      "text": "that one can uh gather about a patient",
+      "start": 1469.039,
+      "duration": 5.961
+    },
+    {
+      "text": "is obviously of importance whether you",
+      "start": 1472.44,
+      "duration": 5.56
+    },
+    {
+      "text": "had high blood pressure whether you've",
+      "start": 1475.0,
+      "duration": 7.679
+    },
+    {
+      "text": "had various cholesterol issues or too",
+      "start": 1478.0,
+      "duration": 7.44
+    },
+    {
+      "text": "much sugar in your diet all of that can",
+      "start": 1482.679,
+      "duration": 6.041
+    },
+    {
+      "text": "play into how inflammatory you have been",
+      "start": 1485.44,
+      "duration": 6.28
+    },
+    {
+      "text": "and it's just like then the acute Co",
+      "start": 1488.72,
+      "duration": 5.24
+    },
+    {
+      "text": "with all of these additional",
+      "start": 1491.72,
+      "duration": 4.8
+    },
+    {
+      "text": "inflammagen like Doug said the",
+      "start": 1493.96,
+      "duration": 4.92
+    },
+    {
+      "text": "protein perhaps other molecules in",
+      "start": 1496.52,
+      "duration": 5.44
+    },
+    {
+      "text": "circulation just pushes the person into",
+      "start": 1498.88,
+      "duration": 8.399
+    },
+    {
+      "text": "a time or a situation where the whole",
+      "start": 1501.96,
+      "duration": 8.599
+    },
+    {
+      "text": "body just cannot cope anymore and these",
+      "start": 1507.279,
+      "duration": 7.201
+    },
+    {
+      "text": "persistent clots and indial inflammation",
+      "start": 1510.559,
+      "duration": 7.881
+    },
+    {
+      "text": "just then is perpetuated and one must",
+      "start": 1514.48,
+      "duration": 6.88
+    },
+    {
+      "text": "also remember any cardiovascular",
+      "start": 1518.44,
+      "duration": 6.64
+    },
+    {
+      "text": "disease if you look at diabetes uh high",
+      "start": 1521.36,
+      "duration": 6.439
+    },
+    {
+      "text": "blood pressure people with too much",
+      "start": 1525.08,
+      "duration": 3.8
+    },
+    {
+      "text": "cholesterol",
+      "start": 1527.799,
+      "duration": 5.0
+    },
+    {
+      "text": "they anyway have low grade endothelial",
+      "start": 1528.88,
+      "duration": 6.76
+    },
+    {
+      "text": "inflammation in any case so their",
+      "start": 1532.799,
+      "duration": 5.561
+    },
+    {
+      "text": "endothelial layers are not healthy to",
+      "start": 1535.64,
+      "duration": 5.279
+    },
+    {
+      "text": "start off with so if you have this",
+      "start": 1538.36,
+      "duration": 7.72
+    },
+    {
+      "text": "additional load of a new onslaught of",
+      "start": 1540.919,
+      "duration": 7.921
+    },
+    {
+      "text": "molecules coming from the virus it just",
+      "start": 1546.08,
+      "duration": 5.28
+    },
+    {
+      "text": "triggers this positive feedback loop",
+      "start": 1548.84,
+      "duration": 5.48
+    },
+    {
+      "text": "that do just explained of course and",
+      "start": 1551.36,
+      "duration": 4.679
+    },
+    {
+      "text": "then once you get into that loop it's",
+      "start": 1554.32,
+      "duration": 4.64
+    },
+    {
+      "text": "sort of self-perpetuating",
+      "start": 1556.039,
+      "duration": 5.801
+    },
+    {
+      "text": "exactly and there's a general or I would",
+      "start": 1558.96,
+      "duration": 4.959
+    },
+    {
+      "text": "say increasing recognition that to a",
+      "start": 1561.84,
+      "duration": 4.6
+    },
+    {
+      "text": "significant degree people with myalgic",
+      "start": 1563.919,
+      "duration": 5.64
+    },
+    {
+      "text": "and copath SL chronic FR syndrome",
+      "start": 1566.44,
+      "duration": 6.119
+    },
+    {
+      "text": "mecfs are broadly suffering the same",
+      "start": 1569.559,
+      "duration": 5.441
+    },
+    {
+      "text": "kinds of things as L haulers are not",
+      "start": 1572.559,
+      "duration": 4.801
+    },
+    {
+      "text": "exactly the same but but many many",
+      "start": 1575.0,
+      "duration": 5.96
+    },
+    {
+      "text": "overlaps and in almost all cases mecfs",
+      "start": 1577.36,
+      "duration": 6.199
+    },
+    {
+      "text": "is a post viral disease as well yeah",
+      "start": 1580.96,
+      "duration": 4.4
+    },
+    {
+      "text": "that actually brings me very neatly on",
+      "start": 1583.559,
+      "duration": 4.48
+    },
+    {
+      "text": "to my next question because am I right",
+      "start": 1585.36,
+      "duration": 4.439
+    },
+    {
+      "text": "in thinking you have been looking at the",
+      "start": 1588.039,
+      "duration": 4.161
+    },
+    {
+      "text": "blood of people with Emy yes we are",
+      "start": 1589.799,
+      "duration": 4.161
+    },
+    {
+      "text": "currently busy with the study so we're",
+      "start": 1592.2,
+      "duration": 3.599
+    },
+    {
+      "text": "not going to say too much because we",
+      "start": 1593.96,
+      "duration": 4.719
+    },
+    {
+      "text": "still analizing the samples uh but we",
+      "start": 1595.799,
+      "duration": 6.76
+    },
+    {
+      "text": "have looked at 25 patients already that",
+      "start": 1598.679,
+      "duration": 6.841
+    },
+    {
+      "text": "is obviously not a a huge number of",
+      "start": 1602.559,
+      "duration": 5.681
+    },
+    {
+      "text": "patients but it is a start so we have",
+      "start": 1605.52,
+      "duration": 4.8
+    },
+    {
+      "text": "been looking at their clotting and the",
+      "start": 1608.24,
+      "duration": 6.6
+    },
+    {
+      "text": "platelets and also uh using techniques",
+      "start": 1610.32,
+      "duration": 6.8
+    },
+    {
+      "text": "that we discussed previously the",
+      "start": 1614.84,
+      "duration": 4.76
+    },
+    {
+      "text": "fluoresence microsc scope as well as the",
+      "start": 1617.12,
+      "duration": 5.72
+    },
+    {
+      "text": "clotting profiles point of care the",
+      "start": 1619.6,
+      "duration": 5.199
+    },
+    {
+      "text": "thromboelastograph and we've been",
+      "start": 1622.84,
+      "duration": 5.0
+    },
+    {
+      "text": "studying uh the blood samples before and",
+      "start": 1624.799,
+      "duration": 5.841
+    },
+    {
+      "text": "after edition of thrombin that Doug also",
+      "start": 1627.84,
+      "duration": 5.4
+    },
+    {
+      "text": "mentioned and we hope to have some",
+      "start": 1630.64,
+      "duration": 5.88
+    },
+    {
+      "text": "results available within the next few",
+      "start": 1633.24,
+      "duration": 6.6
+    },
+    {
+      "text": "weeks but as always with these things we",
+      "start": 1636.52,
+      "duration": 6.68
+    },
+    {
+      "text": "we do the analysis and then we we say to",
+      "start": 1639.84,
+      "duration": 5.8
+    },
+    {
+      "text": "each other let's do one more experiment",
+      "start": 1643.2,
+      "duration": 5.0
+    },
+    {
+      "text": "so instead of saying that we will have",
+      "start": 1645.64,
+      "duration": 5.0
+    },
+    {
+      "text": "data available in X number of weeks we'd",
+      "start": 1648.2,
+      "duration": 5.04
+    },
+    {
+      "text": "just rather not say anything and when we",
+      "start": 1650.64,
+      "duration": 4.68
+    },
+    {
+      "text": "have when we're ready we will be able to",
+      "start": 1653.24,
+      "duration": 4.76
+    },
+    {
+      "text": "to share with with everyone and I do",
+      "start": 1655.32,
+      "duration": 5.52
+    },
+    {
+      "text": "understand that the the ncfs community",
+      "start": 1658.0,
+      "duration": 6.32
+    },
+    {
+      "text": "are sitting on on the edge of their",
+      "start": 1660.84,
+      "duration": 6.679
+    },
+    {
+      "text": "chairs because they want information and",
+      "start": 1664.32,
+      "duration": 5.32
+    },
+    {
+      "text": "we would want to share it with them",
+      "start": 1667.519,
+      "duration": 4.241
+    },
+    {
+      "text": "however we'd rather make sure that we've",
+      "start": 1669.64,
+      "duration": 5.44
+    },
+    {
+      "text": "got enough data and not just you know",
+      "start": 1671.76,
+      "duration": 5.12
+    },
+    {
+      "text": "say something and later it's it's",
+      "start": 1675.08,
+      "duration": 4.12
+    },
+    {
+      "text": "disproved of course no I totally",
+      "start": 1676.88,
+      "duration": 4.159
+    },
+    {
+      "text": "understand maybe you can come back and",
+      "start": 1679.2,
+      "duration": 3.079
+    },
+    {
+      "text": "talk to me when you have your results",
+      "start": 1681.039,
+      "duration": 5.24
+    },
+    {
+      "text": "for that absolutely we l so um we've",
+      "start": 1682.279,
+      "duration": 5.64
+    },
+    {
+      "text": "talked quite a lot about the clots",
+      "start": 1686.279,
+      "duration": 4.041
+    },
+    {
+      "text": "themselves and what's causing them and",
+      "start": 1687.919,
+      "duration": 5.681
+    },
+    {
+      "text": "and around that but what possible",
+      "start": 1690.32,
+      "duration": 6.28
+    },
+    {
+      "text": "treatments might there be um I think you",
+      "start": 1693.6,
+      "duration": 4.88
+    },
+    {
+      "text": "touched on it earlier Doug but what",
+      "start": 1696.6,
+      "duration": 5.319
+    },
+    {
+      "text": "options might there be to resolve it so",
+      "start": 1698.48,
+      "duration": 6.559
+    },
+    {
+      "text": "I think before we talk about the types",
+      "start": 1701.919,
+      "duration": 6.041
+    },
+    {
+      "text": "of interventions that one can do one",
+      "start": 1705.039,
+      "duration": 6.081
+    },
+    {
+      "text": "must must be very careful to to say that",
+      "start": 1707.96,
+      "duration": 6.4
+    },
+    {
+      "text": "these interventions should be based on",
+      "start": 1711.12,
+      "duration": 6.919
+    },
+    {
+      "text": "an informed process where you looked at",
+      "start": 1714.36,
+      "duration": 8.48
+    },
+    {
+      "text": "what the origins of the disease is so",
+      "start": 1718.039,
+      "duration": 6.281
+    },
+    {
+      "text": "you need to determine where the",
+      "start": 1722.84,
+      "duration": 4.319
+    },
+    {
+      "text": "platelets are hyperactivated you need to",
+      "start": 1724.32,
+      "duration": 6.92
+    },
+    {
+      "text": "determine the presence of microclots so",
+      "start": 1727.159,
+      "duration": 6.76
+    },
+    {
+      "text": "Diagnostics will be the key for",
+      "start": 1731.24,
+      "duration": 5.279
+    },
+    {
+      "text": "treatment because you cannot go along",
+      "start": 1733.919,
+      "duration": 4.921
+    },
+    {
+      "text": "and just start treating indiv idual",
+      "start": 1736.519,
+      "duration": 6.4
+    },
+    {
+      "text": "without the informed decision on what is",
+      "start": 1738.84,
+      "duration": 6.12
+    },
+    {
+      "text": "happening with these individuals now not",
+      "start": 1742.919,
+      "duration": 5.48
+    },
+    {
+      "text": "myself or Doug we not clinicians so so",
+      "start": 1744.96,
+      "duration": 5.48
+    },
+    {
+      "text": "we are working with clinicians that do",
+      "start": 1748.399,
+      "duration": 4.28
+    },
+    {
+      "text": "treat individuals but just to keep in",
+      "start": 1750.44,
+      "duration": 4.719
+    },
+    {
+      "text": "mind that we cannot say much about the",
+      "start": 1752.679,
+      "duration": 4.321
+    },
+    {
+      "text": "treatment regimes except what our",
+      "start": 1755.159,
+      "duration": 4.36
+    },
+    {
+      "text": "clinical collaborators have been doing",
+      "start": 1757.0,
+      "duration": 4.159
+    },
+    {
+      "text": "so on that note our clinical",
+      "start": 1759.519,
+      "duration": 4.601
+    },
+    {
+      "text": "collaborator Dr yak and other clinicians",
+      "start": 1761.159,
+      "duration": 6.161
+    },
+    {
+      "text": "that we work with have been identifying",
+      "start": 1764.12,
+      "duration": 6.72
+    },
+    {
+      "text": "long Co patients based on their best",
+      "start": 1767.32,
+      "duration": 6.44
+    },
+    {
+      "text": "clinical practice and identifying the",
+      "start": 1770.84,
+      "duration": 5.36
+    },
+    {
+      "text": "patients as having covid and then long",
+      "start": 1773.76,
+      "duration": 5.0
+    },
+    {
+      "text": "Co and then we have uh had the",
+      "start": 1776.2,
+      "duration": 4.68
+    },
+    {
+      "text": "opportunity to look at some of these",
+      "start": 1778.76,
+      "duration": 4.32
+    },
+    {
+      "text": "individuals blood samples before and",
+      "start": 1780.88,
+      "duration": 5.399
+    },
+    {
+      "text": "after they they treatment and it seems",
+      "start": 1783.08,
+      "duration": 5.88
+    },
+    {
+      "text": "that it is a that the patients are",
+      "start": 1786.279,
+      "duration": 5.481
+    },
+    {
+      "text": "getting better after a triple therapy",
+      "start": 1788.96,
+      "duration": 5.319
+    },
+    {
+      "text": "treatment where the patients are treated",
+      "start": 1791.76,
+      "duration": 4.399
+    },
+    {
+      "text": "with something to calm down the",
+      "start": 1794.279,
+      "duration": 4.561
+    },
+    {
+      "text": "platelets and to prevent the microclots",
+      "start": 1796.159,
+      "duration": 6.24
+    },
+    {
+      "text": "from forming however this is not an",
+      "start": 1798.84,
+      "duration": 7.24
+    },
+    {
+      "text": "accepted treatment regime in any country",
+      "start": 1802.399,
+      "duration": 6.481
+    },
+    {
+      "text": "because currently there are none so we",
+      "start": 1806.08,
+      "duration": 6.599
+    },
+    {
+      "text": "have been very carefully writing about",
+      "start": 1808.88,
+      "duration": 6.24
+    },
+    {
+      "text": "this myself and Doug and our clinical",
+      "start": 1812.679,
+      "duration": 6.441
+    },
+    {
+      "text": "collaborators but we must say that the",
+      "start": 1815.12,
+      "duration": 7.039
+    },
+    {
+      "text": "most important next thing to happen is",
+      "start": 1819.12,
+      "duration": 5.96
+    },
+    {
+      "text": "that we need desperately need clinical",
+      "start": 1822.159,
+      "duration": 6.561
+    },
+    {
+      "text": "trials to both use a diagnostic me it",
+      "start": 1825.08,
+      "duration": 6.12
+    },
+    {
+      "text": "but also to sort out treatment because",
+      "start": 1828.72,
+      "duration": 5.64
+    },
+    {
+      "text": "obviously there are many thoughts in the",
+      "start": 1831.2,
+      "duration": 5.28
+    },
+    {
+      "text": "medical fraternity and amongst",
+      "start": 1834.36,
+      "duration": 4.679
+    },
+    {
+      "text": "clinicians on what you should and should",
+      "start": 1836.48,
+      "duration": 5.319
+    },
+    {
+      "text": "not treat people with and the issue with",
+      "start": 1839.039,
+      "duration": 5.401
+    },
+    {
+      "text": "uh with anti-coagulation is there are",
+      "start": 1841.799,
+      "duration": 5.76
+    },
+    {
+      "text": "always the chance of bleeding if you do",
+      "start": 1844.44,
+      "duration": 6.599
+    },
+    {
+      "text": "not identify the patients that need the",
+      "start": 1847.559,
+      "duration": 6.081
+    },
+    {
+      "text": "actual uh treatment due to the presence",
+      "start": 1851.039,
+      "duration": 5.0
+    },
+    {
+      "text": "of microclots and plant hyperactivation",
+      "start": 1853.64,
+      "duration": 5.519
+    },
+    {
+      "text": "of course and so so I when research says",
+      "start": 1856.039,
+      "duration": 4.721
+    },
+    {
+      "text": "this isn't an accepted treatment that",
+      "start": 1859.159,
+      "duration": 3.52
+    },
+    {
+      "text": "means this isn't an accepted treatment",
+      "start": 1860.76,
+      "duration": 3.919
+    },
+    {
+      "text": "in long covid but then nothing else is",
+      "start": 1862.679,
+      "duration": 4.201
+    },
+    {
+      "text": "either it's a perfectly well accepted",
+      "start": 1864.679,
+      "duration": 4.401
+    },
+    {
+      "text": "treatment in various kinds of",
+      "start": 1866.88,
+      "duration": 4.399
+    },
+    {
+      "text": "cardiovascular problems and people with",
+      "start": 1869.08,
+      "duration": 4.12
+    },
+    {
+      "text": "with atrial fibrillation and stroke and",
+      "start": 1871.279,
+      "duration": 4.12
+    },
+    {
+      "text": "so forth so it's not like it's a totally",
+      "start": 1873.2,
+      "duration": 4.68
+    },
+    {
+      "text": "unknown out of the blue treatment it's a",
+      "start": 1875.399,
+      "duration": 4.0
+    },
+    {
+      "text": "perfectly wellestablished thing but it",
+      "start": 1877.88,
+      "duration": 5.279
+    },
+    {
+      "text": "does have well established issues uh uh",
+      "start": 1879.399,
+      "duration": 5.801
+    },
+    {
+      "text": "connected with ensuring that the patient",
+      "start": 1883.159,
+      "duration": 5.76
+    },
+    {
+      "text": "doesn't go into bleeding hypoc potion",
+      "start": 1885.2,
+      "duration": 5.959
+    },
+    {
+      "text": "but this this is doable it's the",
+      "start": 1888.919,
+      "duration": 4.0
+    },
+    {
+      "text": "interesting thing is it seems to be that",
+      "start": 1891.159,
+      "duration": 3.681
+    },
+    {
+      "text": "because the medical profession is so",
+      "start": 1892.919,
+      "duration": 5.081
+    },
+    {
+      "text": "siloed uh who do you go to for your long",
+      "start": 1894.84,
+      "duration": 5.28
+    },
+    {
+      "text": "covid do you go to a respiratory",
+      "start": 1898.0,
+      "duration": 4.159
+    },
+    {
+      "text": "physiologist a hematologist a",
+      "start": 1900.12,
+      "duration": 4.48
+    },
+    {
+      "text": "cardiovascular person your GP of course",
+      "start": 1902.159,
+      "duration": 5.12
+    },
+    {
+      "text": "isn't any of those things they're a GP",
+      "start": 1904.6,
+      "duration": 4.919
+    },
+    {
+      "text": "and by and large most people don't know",
+      "start": 1907.279,
+      "duration": 4.601
+    },
+    {
+      "text": "of the existence of this kind of",
+      "start": 1909.519,
+      "duration": 4.721
+    },
+    {
+      "text": "strategy and leave alone that uh",
+      "start": 1911.88,
+      "duration": 4.24
+    },
+    {
+      "text": "accepting that the microclots are a",
+      "start": 1914.24,
+      "duration": 5.08
+    },
+    {
+      "text": "thing so if you follow as as many people",
+      "start": 1916.12,
+      "duration": 6.12
+    },
+    {
+      "text": "who listen to this probably do the hash",
+      "start": 1919.32,
+      "duration": 5.64
+    },
+    {
+      "text": "team clots on Twitter you will see much",
+      "start": 1922.24,
+      "duration": 4.76
+    },
+    {
+      "text": "discussion of people telling us about",
+      "start": 1924.96,
+      "duration": 4.0
+    },
+    {
+      "text": "how they went to their GP and the GP",
+      "start": 1927.0,
+      "duration": 3.48
+    },
+    {
+      "text": "said never heard of it I'm not doing",
+      "start": 1928.96,
+      "duration": 4.36
+    },
+    {
+      "text": "anything like that so so some things",
+      "start": 1930.48,
+      "duration": 5.12
+    },
+    {
+      "text": "need to change because the the biggest",
+      "start": 1933.32,
+      "duration": 4.68
+    },
+    {
+      "text": "problem is in part and and again this is",
+      "start": 1935.6,
+      "duration": 4.559
+    },
+    {
+      "text": "discussed in the Twitter the longer you",
+      "start": 1938.0,
+      "duration": 5.2
+    },
+    {
+      "text": "wait the harder it is to reverse some of",
+      "start": 1940.159,
+      "duration": 5.601
+    },
+    {
+      "text": "these things and so we don't want to",
+      "start": 1943.2,
+      "duration": 4.88
+    },
+    {
+      "text": "have people waiting on and on and on for",
+      "start": 1945.76,
+      "duration": 4.159
+    },
+    {
+      "text": "a clinical trial if it's then going to",
+      "start": 1948.08,
+      "duration": 3.68
+    },
+    {
+      "text": "make it much harder to reverse these",
+      "start": 1949.919,
+      "duration": 4.321
+    },
+    {
+      "text": "things but equally we're perfectly well",
+      "start": 1951.76,
+      "duration": 4.0
+    },
+    {
+      "text": "aware that you can't just have people",
+      "start": 1954.24,
+      "duration": 3.48
+    },
+    {
+      "text": "going around selling snake oil without a",
+      "start": 1955.76,
+      "duration": 4.879
+    },
+    {
+      "text": "randomized control trial although in",
+      "start": 1957.72,
+      "duration": 6.199
+    },
+    {
+      "text": "this case that we think uh the basis is",
+      "start": 1960.639,
+      "duration": 5.16
+    },
+    {
+      "text": "well established but unfortunately it's",
+      "start": 1963.919,
+      "duration": 3.401
+    },
+    {
+      "text": "like driving test the fact that it was",
+      "start": 1965.799,
+      "duration": 3.401
+    },
+    {
+      "text": "shown in South Africa doesn't mean that",
+      "start": 1967.32,
+      "duration": 3.8
+    },
+    {
+      "text": "anyone in the UK pays any attention to",
+      "start": 1969.2,
+      "duration": 3.56
+    },
+    {
+      "text": "it so we have to repeat all of this",
+      "start": 1971.12,
+      "duration": 3.84
+    },
+    {
+      "text": "stuff in the UK which we are currently",
+      "start": 1972.76,
+      "duration": 4.48
+    },
+    {
+      "text": "trying to do yeah oh that's so",
+      "start": 1974.96,
+      "duration": 5.719
+    },
+    {
+      "text": "frustrating isn't it um",
+      "start": 1977.24,
+      "duration": 5.96
+    },
+    {
+      "text": "yes and then there obviously other",
+      "start": 1980.679,
+      "duration": 4.6
+    },
+    {
+      "text": "treatments as well so there are a whole",
+      "start": 1983.2,
+      "duration": 5.0
+    },
+    {
+      "text": "group of researchers and clinicians uh",
+      "start": 1985.279,
+      "duration": 7.441
+    },
+    {
+      "text": "using help Peres not only in Europe in",
+      "start": 1988.2,
+      "duration": 7.959
+    },
+    {
+      "text": "mulheim and in Germany Dr Bea is doing",
+      "start": 1992.72,
+      "duration": 6.439
+    },
+    {
+      "text": "that but also in various Hospital",
+      "start": 1996.159,
+      "duration": 7.0
+    },
+    {
+      "text": "settings in America and and the the idea",
+      "start": 1999.159,
+      "duration": 7.041
+    },
+    {
+      "text": "of that is then to remove the clot load",
+      "start": 2003.159,
+      "duration": 6.48
+    },
+    {
+      "text": "via a process that is help aares that",
+      "start": 2006.2,
+      "duration": 7.12
+    },
+    {
+      "text": "filters out the clots but then obviously",
+      "start": 2009.639,
+      "duration": 7.64
+    },
+    {
+      "text": "that also needs to be looked in and also",
+      "start": 2013.32,
+      "duration": 6.68
+    },
+    {
+      "text": "um studied further and perhaps the a",
+      "start": 2017.279,
+      "duration": 5.201
+    },
+    {
+      "text": "good idea would be to have a joint",
+      "start": 2020.0,
+      "duration": 4.44
+    },
+    {
+      "text": "protocol where you filter out the clots",
+      "start": 2022.48,
+      "duration": 4.079
+    },
+    {
+      "text": "and then follow up with some some sort",
+      "start": 2024.44,
+      "duration": 4.56
+    },
+    {
+      "text": "of treatment we do know that that some",
+      "start": 2026.559,
+      "duration": 6.0
+    },
+    {
+      "text": "clinicians also suggest a treatment of a",
+      "start": 2029.0,
+      "duration": 6.799
+    },
+    {
+      "text": "set of molecules that that they give",
+      "start": 2032.559,
+      "duration": 4.681
+    },
+    {
+      "text": "patients or pills that they give",
+      "start": 2035.799,
+      "duration": 4.561
+    },
+    {
+      "text": "patients VAR is um statins that treat",
+      "start": 2037.24,
+      "duration": 5.84
+    },
+    {
+      "text": "cholesterol and that has also been noted",
+      "start": 2040.36,
+      "duration": 5.64
+    },
+    {
+      "text": "to actually calm down the the endothia",
+      "start": 2043.08,
+      "duration": 6.24
+    },
+    {
+      "text": "layers the inflammatory nature of the in",
+      "start": 2046.0,
+      "duration": 5.44
+    },
+    {
+      "text": "layers statins work because they're",
+      "start": 2049.32,
+      "duration": 3.88
+    },
+    {
+      "text": "anti-inflammatory it's a myth that they",
+      "start": 2051.44,
+      "duration": 3.32
+    },
+    {
+      "text": "work to have anything to do with",
+      "start": 2053.2,
+      "duration": 3.08
+    },
+    {
+      "text": "cholesterol which is not a risk factor",
+      "start": 2054.76,
+      "duration": 3.76
+    },
+    {
+      "text": "in the normal range but they are good",
+      "start": 2056.28,
+      "duration": 3.399
+    },
+    {
+      "text": "for you but the reason is because",
+      "start": 2058.52,
+      "duration": 2.8
+    },
+    {
+      "text": "they're anti-inflammatory yeah so so",
+      "start": 2059.679,
+      "duration": 3.281
+    },
+    {
+      "text": "many people have seen good results with",
+      "start": 2061.32,
+      "duration": 4.96
+    },
+    {
+      "text": "that and also uh sometimes other",
+      "start": 2062.96,
+      "duration": 6.439
+    },
+    {
+      "text": "medications are are used so there's a",
+      "start": 2066.28,
+      "duration": 5.76
+    },
+    {
+      "text": "real real need to to put all of these",
+      "start": 2069.399,
+      "duration": 5.401
+    },
+    {
+      "text": "bits and pieces together of the various",
+      "start": 2072.04,
+      "duration": 5.559
+    },
+    {
+      "text": "researches and to see which are the",
+      "start": 2074.8,
+      "duration": 5.879
+    },
+    {
+      "text": "correct dosage which work together which",
+      "start": 2077.599,
+      "duration": 5.201
+    },
+    {
+      "text": "should not be used together um",
+      "start": 2080.679,
+      "duration": 4.801
+    },
+    {
+      "text": "antihistamines is for example been one",
+      "start": 2082.8,
+      "duration": 5.48
+    },
+    {
+      "text": "of the the molecules or P medications",
+      "start": 2085.48,
+      "duration": 5.04
+    },
+    {
+      "text": "that that some people use and and I",
+      "start": 2088.28,
+      "duration": 5.319
+    },
+    {
+      "text": "think Professor Dan Elman from from the",
+      "start": 2090.52,
+      "duration": 6.2
+    },
+    {
+      "text": "UK have been looking into that so there",
+      "start": 2093.599,
+      "duration": 4.76
+    },
+    {
+      "text": "are there are lots of",
+      "start": 2096.72,
+      "duration": 4.28
+    },
+    {
+      "text": "various pockets of",
+      "start": 2098.359,
+      "duration": 5.72
+    },
+    {
+      "text": "information and obviously we we need to",
+      "start": 2101.0,
+      "duration": 6.52
+    },
+    {
+      "text": "be in a hurry but unfortunately science",
+      "start": 2104.079,
+      "duration": 6.161
+    },
+    {
+      "text": "do not work that way and it takes a very",
+      "start": 2107.52,
+      "duration": 5.0
+    },
+    {
+      "text": "long time to filter down from a basic",
+      "start": 2110.24,
+      "duration": 4.359
+    },
+    {
+      "text": "science perspective as what we are",
+      "start": 2112.52,
+      "duration": 5.36
+    },
+    {
+      "text": "working in into an actual treatment",
+      "start": 2114.599,
+      "duration": 6.721
+    },
+    {
+      "text": "regime that is well accepted and widely",
+      "start": 2117.88,
+      "duration": 6.4
+    },
+    {
+      "text": "available of course um and you're still",
+      "start": 2121.32,
+      "duration": 5.2
+    },
+    {
+      "text": "going to need both the Diagnostics and",
+      "start": 2124.28,
+      "duration": 3.68
+    },
+    {
+      "text": "the treatment to kind of work in",
+      "start": 2126.52,
+      "duration": 3.24
+    },
+    {
+      "text": "parallel aren't you cuz like you say you",
+      "start": 2127.96,
+      "duration": 3.52
+    },
+    {
+      "text": "can't just start treating everybody with",
+      "start": 2129.76,
+      "duration": 3.48
+    },
+    {
+      "text": "something without knowing that they have",
+      "start": 2131.48,
+      "duration": 5.32
+    },
+    {
+      "text": "the cluts precisely but nobody's well I",
+      "start": 2133.24,
+      "duration": 5.52
+    },
+    {
+      "text": "don't know about nobody but um there",
+      "start": 2136.8,
+      "duration": 3.6
+    },
+    {
+      "text": "doesn't seem to be a lot of willingness",
+      "start": 2138.76,
+      "duration": 4.839
+    },
+    {
+      "text": "to test for the micr cluts and anywhere",
+      "start": 2140.4,
+      "duration": 5.84
+    },
+    {
+      "text": "that I've seen anyway yeah I think there",
+      "start": 2143.599,
+      "duration": 5.561
+    },
+    {
+      "text": "is willingness the the equipment is the",
+      "start": 2146.24,
+      "duration": 6.64
+    },
+    {
+      "text": "problem so there are Doug can can talk",
+      "start": 2149.16,
+      "duration": 6.679
+    },
+    {
+      "text": "about the the UK individuals that and",
+      "start": 2152.88,
+      "duration": 4.84
+    },
+    {
+      "text": "researchers we have been working with is",
+      "start": 2155.839,
+      "duration": 3.681
+    },
+    {
+      "text": "a group in Sheffield that has actually",
+      "start": 2157.72,
+      "duration": 4.72
+    },
+    {
+      "text": "repeated our our results in their",
+      "start": 2159.52,
+      "duration": 6.12
+    },
+    {
+      "text": "microscopy laboratory but the issue is",
+      "start": 2162.44,
+      "duration": 6.919
+    },
+    {
+      "text": "not every Pathology Lab has got a",
+      "start": 2165.64,
+      "duration": 6.0
+    },
+    {
+      "text": "microscope so so that is the problem",
+      "start": 2169.359,
+      "duration": 4.801
+    },
+    {
+      "text": "rather than they not being willing to",
+      "start": 2171.64,
+      "duration": 5.32
+    },
+    {
+      "text": "test for it so the need is and we are",
+      "start": 2174.16,
+      "duration": 4.52
+    },
+    {
+      "text": "doing it is to build an instrument that",
+      "start": 2176.96,
+      "duration": 5.44
+    },
+    {
+      "text": "will essentially validate the laboratory",
+      "start": 2178.68,
+      "duration": 7.439
+    },
+    {
+      "text": "style fancy microscope things and make",
+      "start": 2182.4,
+      "duration": 5.28
+    },
+    {
+      "text": "it into a form in which you can",
+      "start": 2186.119,
+      "duration": 3.401
+    },
+    {
+      "text": "literally shove your sample in and press",
+      "start": 2187.68,
+      "duration": 3.52
+    },
+    {
+      "text": "the button and it'll tell you what's",
+      "start": 2189.52,
+      "duration": 5.4
+    },
+    {
+      "text": "going on so we're doing that but uh Reon",
+      "start": 2191.2,
+      "duration": 6.2
+    },
+    {
+      "text": "says it does take a little bit of",
+      "start": 2194.92,
+      "duration": 6.08
+    },
+    {
+      "text": "time yes well understandably it's all um",
+      "start": 2197.4,
+      "duration": 6.919
+    },
+    {
+      "text": "it's all quite um complex so it must it",
+      "start": 2201.0,
+      "duration": 5.92
+    },
+    {
+      "text": "must be uh must be a challenge for",
+      "start": 2204.319,
+      "duration": 4.681
+    },
+    {
+      "text": "sure I guess the other part of my",
+      "start": 2206.92,
+      "duration": 3.439
+    },
+    {
+      "text": "question was when might treatments",
+      "start": 2209.0,
+      "duration": 3.68
+    },
+    {
+      "text": "become available um and I guess the",
+      "start": 2210.359,
+      "duration": 3.561
+    },
+    {
+      "text": "answer to that is that we don't really",
+      "start": 2212.68,
+      "duration": 5.28
+    },
+    {
+      "text": "know I think widely available the answer",
+      "start": 2213.92,
+      "duration": 6.679
+    },
+    {
+      "text": "to that is after clinical trial results",
+      "start": 2217.96,
+      "duration": 6.72
+    },
+    {
+      "text": "come out and then after that it must be",
+      "start": 2220.599,
+      "duration": 5.601
+    },
+    {
+      "text": "widely",
+      "start": 2224.68,
+      "duration": 5.12
+    },
+    {
+      "text": "distributed methods in the various uh",
+      "start": 2226.2,
+      "duration": 7.399
+    },
+    {
+      "text": "Health Care fraternities and obviously",
+      "start": 2229.8,
+      "duration": 6.88
+    },
+    {
+      "text": "uh if you look at the UK it must be",
+      "start": 2233.599,
+      "duration": 6.0
+    },
+    {
+      "text": "accepted within that Health Care system",
+      "start": 2236.68,
+      "duration": 6.0
+    },
+    {
+      "text": "as one of the treatment options so",
+      "start": 2239.599,
+      "duration": 5.161
+    },
+    {
+      "text": "obviously it's it's not going to be a",
+      "start": 2242.68,
+      "duration": 5.28
+    },
+    {
+      "text": "fast process unfortunately we also so",
+      "start": 2244.76,
+      "duration": 6.079
+    },
+    {
+      "text": "think that once the microclot results",
+      "start": 2247.96,
+      "duration": 5.159
+    },
+    {
+      "text": "have been reproduced in the UK and",
+      "start": 2250.839,
+      "duration": 4.24
+    },
+    {
+      "text": "published properly in the rest of it",
+      "start": 2253.119,
+      "duration": 5.081
+    },
+    {
+      "text": "that will push a lot more doctors over",
+      "start": 2255.079,
+      "duration": 6.52
+    },
+    {
+      "text": "into the recognition that they can start",
+      "start": 2258.2,
+      "duration": 5.639
+    },
+    {
+      "text": "doing these treatments especially if",
+      "start": 2261.599,
+      "duration": 4.72
+    },
+    {
+      "text": "patients are happy to sign a disclaimer",
+      "start": 2263.839,
+      "duration": 5.28
+    },
+    {
+      "text": "saying look I really need this uh and I",
+      "start": 2266.319,
+      "duration": 5.52
+    },
+    {
+      "text": "recognize the issues and so I will sign",
+      "start": 2269.119,
+      "duration": 5.641
+    },
+    {
+      "text": "to that effect for sure is there",
+      "start": 2271.839,
+      "duration": 5.24
+    },
+    {
+      "text": "anything that us as patients can do to",
+      "start": 2274.76,
+      "duration": 5.079
+    },
+    {
+      "text": "help speed along the process at all well",
+      "start": 2277.079,
+      "duration": 4.401
+    },
+    {
+      "text": "I think you have been doing quite a lot",
+      "start": 2279.839,
+      "duration": 4.601
+    },
+    {
+      "text": "on the Twitter sphere I think uh sharing",
+      "start": 2281.48,
+      "duration": 7.359
+    },
+    {
+      "text": "just how the patient feel and what the",
+      "start": 2284.44,
+      "duration": 7.639
+    },
+    {
+      "text": "symptoms are because I think both myself",
+      "start": 2288.839,
+      "duration": 6.721
+    },
+    {
+      "text": "and Doug have have just been overwhelmed",
+      "start": 2292.079,
+      "duration": 6.76
+    },
+    {
+      "text": "by by patients that that are really very",
+      "start": 2295.56,
+      "duration": 6.279
+    },
+    {
+      "text": "sick we get emails daily from patients",
+      "start": 2298.839,
+      "duration": 5.601
+    },
+    {
+      "text": "that are desperate to find clinicians",
+      "start": 2301.839,
+      "duration": 5.76
+    },
+    {
+      "text": "that might want to look into clotting in",
+      "start": 2304.44,
+      "duration": 6.08
+    },
+    {
+      "text": "in their uh blood but what is more",
+      "start": 2307.599,
+      "duration": 6.361
+    },
+    {
+      "text": "extraordinary I think for me was how",
+      "start": 2310.52,
+      "duration": 7.44
+    },
+    {
+      "text": "many of these patients actually have",
+      "start": 2313.96,
+      "duration": 7.48
+    },
+    {
+      "text": "anecdotal complaints where they say now",
+      "start": 2317.96,
+      "duration": 6.359
+    },
+    {
+      "text": "with long Co suddenly blood doesn't you",
+      "start": 2321.44,
+      "duration": 4.56
+    },
+    {
+      "text": "know you can't draw blood they just it",
+      "start": 2324.319,
+      "duration": 4.241
+    },
+    {
+      "text": "just clots in the needle or some say",
+      "start": 2326.0,
+      "duration": 4.88
+    },
+    {
+      "text": "they they've got all of these deep vein",
+      "start": 2328.56,
+      "duration": 5.88
+    },
+    {
+      "text": "thrombosis that's happening uh clotting",
+      "start": 2330.88,
+      "duration": 6.92
+    },
+    {
+      "text": "issues that they are now recognizing",
+      "start": 2334.44,
+      "duration": 6.36
+    },
+    {
+      "text": "themselves so I think that would be an",
+      "start": 2337.8,
+      "duration": 5.96
+    },
+    {
+      "text": "important thing to to look how how you",
+      "start": 2340.8,
+      "duration": 6.2
+    },
+    {
+      "text": "are feeling and telling that and sharing",
+      "start": 2343.76,
+      "duration": 5.76
+    },
+    {
+      "text": "it with your clinician so that somehow",
+      "start": 2347.0,
+      "duration": 4.56
+    },
+    {
+      "text": "the clinicians are made aware that there",
+      "start": 2349.52,
+      "duration": 4.76
+    },
+    {
+      "text": "are plotting issues in the patients that",
+      "start": 2351.56,
+      "duration": 5.6
+    },
+    {
+      "text": "they know of themselves so I think that",
+      "start": 2354.28,
+      "duration": 7.24
+    },
+    {
+      "text": "is important and I think to just uh just",
+      "start": 2357.16,
+      "duration": 6.88
+    },
+    {
+      "text": "keep the faith because there's also a",
+      "start": 2361.52,
+      "duration": 6.0
+    },
+    {
+      "text": "lot of clinicians that do not still do",
+      "start": 2364.04,
+      "duration": 5.48
+    },
+    {
+      "text": "not believe that long Co is a real",
+      "start": 2367.52,
+      "duration": 4.68
+    },
+    {
+      "text": "disease with a real biomarkers because",
+      "start": 2369.52,
+      "duration": 5.44
+    },
+    {
+      "text": "all of the the tests that are done are",
+      "start": 2372.2,
+      "duration": 5.56
+    },
+    {
+      "text": "just basically uh showing that they are",
+      "start": 2374.96,
+      "duration": 5.119
+    },
+    {
+      "text": "healthy now perhaps I could just end off",
+      "start": 2377.76,
+      "duration": 4.4
+    },
+    {
+      "text": "with with the reason for that again to",
+      "start": 2380.079,
+      "duration": 6.081
+    },
+    {
+      "text": "to reiterate why the all the tests are",
+      "start": 2382.16,
+      "duration": 6.439
+    },
+    {
+      "text": "coming back within the normal ranges and",
+      "start": 2386.16,
+      "duration": 4.36
+    },
+    {
+      "text": "I think we were the first to show that",
+      "start": 2388.599,
+      "duration": 4.601
+    },
+    {
+      "text": "all of the the molecules that the",
+      "start": 2390.52,
+      "duration": 5.24
+    },
+    {
+      "text": "clinicians or pathology labs are testing",
+      "start": 2393.2,
+      "duration": 5.399
+    },
+    {
+      "text": "are not soluble in the soluble part of",
+      "start": 2395.76,
+      "duration": 5.48
+    },
+    {
+      "text": "the plasma that they run their tests on",
+      "start": 2398.599,
+      "duration": 4.76
+    },
+    {
+      "text": "it's actually trapped inside the clots",
+      "start": 2401.24,
+      "duration": 5.119
+    },
+    {
+      "text": "and our proteomics analy showed that so",
+      "start": 2403.359,
+      "duration": 5.041
+    },
+    {
+      "text": "I think the other issue is that because",
+      "start": 2406.359,
+      "duration": 4.641
+    },
+    {
+      "text": "all the patients blood sample and",
+      "start": 2408.4,
+      "duration": 4.959
+    },
+    {
+      "text": "Analysis come back within the healthy",
+      "start": 2411.0,
+      "duration": 5.04
+    },
+    {
+      "text": "ranges there are a group of of",
+      "start": 2413.359,
+      "duration": 5.76
+    },
+    {
+      "text": "clinicians that do believe it's all",
+      "start": 2416.04,
+      "duration": 7.48
+    },
+    {
+      "text": "psychological and that is not the case",
+      "start": 2419.119,
+      "duration": 7.601
+    },
+    {
+      "text": "obviously if you struggle for a few",
+      "start": 2423.52,
+      "duration": 5.52
+    },
+    {
+      "text": "months to some of these individuals more",
+      "start": 2426.72,
+      "duration": 6.16
+    },
+    {
+      "text": "than 24 months going into you know 36",
+      "start": 2429.04,
+      "duration": 7.44
+    },
+    {
+      "text": "months or longer you will be you know",
+      "start": 2432.88,
+      "duration": 6.959
+    },
+    {
+      "text": "struggling with with keeping your your",
+      "start": 2436.48,
+      "duration": 5.32
+    },
+    {
+      "text": "head together you will have",
+      "start": 2439.839,
+      "duration": 3.841
+    },
+    {
+      "text": "psychological issues simply because",
+      "start": 2441.8,
+      "duration": 4.48
+    },
+    {
+      "text": "nobody believes you're actually ill so",
+      "start": 2443.68,
+      "duration": 4.52
+    },
+    {
+      "text": "obviously that is a ma major issue so",
+      "start": 2446.28,
+      "duration": 5.0
+    },
+    {
+      "text": "we're not downplaying the psychological",
+      "start": 2448.2,
+      "duration": 6.36
+    },
+    {
+      "text": "part of long Co because it is there but",
+      "start": 2451.28,
+      "duration": 6.76
+    },
+    {
+      "text": "it's not because of a psychological",
+      "start": 2454.56,
+      "duration": 5.4
+    },
+    {
+      "text": "issue that the patients are suffering",
+      "start": 2458.04,
+      "duration": 4.68
+    },
+    {
+      "text": "from long Co it's it's an effect not a",
+      "start": 2459.96,
+      "duration": 7.32
+    },
+    {
+      "text": "cause exactly yes yeah that's so true",
+      "start": 2462.72,
+      "duration": 7.96
+    },
+    {
+      "text": "the mental health aspect of it is caused",
+      "start": 2467.28,
+      "duration": 6.92
+    },
+    {
+      "text": "by the symptoms not the other way around",
+      "start": 2470.68,
+      "duration": 4.8
+    },
+    {
+      "text": "yeah there was something I think it",
+      "start": 2474.2,
+      "duration": 2.639
+    },
+    {
+      "text": "might have been in an article that you",
+      "start": 2475.48,
+      "duration": 4.0
+    },
+    {
+      "text": "wrote Risa and it was um the reason that",
+      "start": 2476.839,
+      "duration": 4.441
+    },
+    {
+      "text": "the tests are coming back clear is",
+      "start": 2479.48,
+      "duration": 4.04
+    },
+    {
+      "text": "because we're not testing for the right",
+      "start": 2481.28,
+      "duration": 5.2
+    },
+    {
+      "text": "things I probably paraphrased that but",
+      "start": 2483.52,
+      "duration": 5.16
+    },
+    {
+      "text": "um no no you said it exactly right and",
+      "start": 2486.48,
+      "duration": 3.72
+    },
+    {
+      "text": "and and we're trying to point people out",
+      "start": 2488.68,
+      "duration": 3.679
+    },
+    {
+      "text": "the right things such as low Venus",
+      "start": 2490.2,
+      "duration": 4.84
+    },
+    {
+      "text": "oxygen saturation and which are not easy",
+      "start": 2492.359,
+      "duration": 4.401
+    },
+    {
+      "text": "test but uh if you want to know what's",
+      "start": 2495.04,
+      "duration": 3.16
+    },
+    {
+      "text": "going on then you do have to do the",
+      "start": 2496.76,
+      "duration": 2.8
+    },
+    {
+      "text": "right test that's the statement of the",
+      "start": 2498.2,
+      "duration": 3.919
+    },
+    {
+      "text": "obvious yeah uh obviously we think that",
+      "start": 2499.56,
+      "duration": 4.84
+    },
+    {
+      "text": "the microclots and platelets are two of",
+      "start": 2502.119,
+      "duration": 4.561
+    },
+    {
+      "text": "the right tests and there's there's a",
+      "start": 2504.4,
+      "duration": 3.8
+    },
+    {
+      "text": "lot of Mythology out there people",
+      "start": 2506.68,
+      "duration": 2.919
+    },
+    {
+      "text": "measure fertin and think it's got",
+      "start": 2508.2,
+      "duration": 2.56
+    },
+    {
+      "text": "something to do with iron it's got",
+      "start": 2509.599,
+      "duration": 3.0
+    },
+    {
+      "text": "nothing to do with iron ftin is an",
+      "start": 2510.76,
+      "duration": 3.76
+    },
+    {
+      "text": "intracellular molecule it shouldn't even",
+      "start": 2512.599,
+      "duration": 4.081
+    },
+    {
+      "text": "be in plasma it's a cell death marker",
+      "start": 2514.52,
+      "duration": 3.48
+    },
+    {
+      "text": "actually and we wrote a review on that",
+      "start": 2516.68,
+      "duration": 3.04
+    },
+    {
+      "text": "in",
+      "start": 2518.0,
+      "duration": 5.92
+    },
+    {
+      "text": "2014 so I guess my I think final",
+      "start": 2519.72,
+      "duration": 6.599
+    },
+    {
+      "text": "question is is probably a little bit",
+      "start": 2523.92,
+      "duration": 4.08
+    },
+    {
+      "text": "cheeky and maybe not one that you can",
+      "start": 2526.319,
+      "duration": 4.081
+    },
+    {
+      "text": "answer but you know we've acknowledged",
+      "start": 2528.0,
+      "duration": 4.48
+    },
+    {
+      "text": "that treatments are are going to take a",
+      "start": 2530.4,
+      "duration": 4.24
+    },
+    {
+      "text": "bit of time we need trials and you know",
+      "start": 2532.48,
+      "duration": 4.24
+    },
+    {
+      "text": "the whole thing is going to take time",
+      "start": 2534.64,
+      "duration": 3.76
+    },
+    {
+      "text": "and given you know the sheer number of",
+      "start": 2536.72,
+      "duration": 3.96
+    },
+    {
+      "text": "people with long covid even if once",
+      "start": 2538.4,
+      "duration": 3.84
+    },
+    {
+      "text": "treatments do become available it's",
+      "start": 2540.68,
+      "duration": 3.679
+    },
+    {
+      "text": "going to take a bit of time to help",
+      "start": 2542.24,
+      "duration": 5.24
+    },
+    {
+      "text": "everybody um so you know is is there",
+      "start": 2544.359,
+      "duration": 5.921
+    },
+    {
+      "text": "anything that people can do reasonably",
+      "start": 2547.48,
+      "duration": 5.68
+    },
+    {
+      "text": "safely themselves to try to help in the",
+      "start": 2550.28,
+      "duration": 5.48
+    },
+    {
+      "text": "meantime I think said for us it's very",
+      "start": 2553.16,
+      "duration": 4.32
+    },
+    {
+      "text": "difficult to answer because not myself",
+      "start": 2555.76,
+      "duration": 5.92
+    },
+    {
+      "text": "or Doug are clinicians so to try to to",
+      "start": 2557.48,
+      "duration": 6.639
+    },
+    {
+      "text": "um hypothesize or suggest anything would",
+      "start": 2561.68,
+      "duration": 6.0
+    },
+    {
+      "text": "be not ethical for us to do however",
+      "start": 2564.119,
+      "duration": 8.0
+    },
+    {
+      "text": "there are wide reports of various um",
+      "start": 2567.68,
+      "duration": 7.08
+    },
+    {
+      "text": "neutraceuticals that might be helpful to",
+      "start": 2572.119,
+      "duration": 6.48
+    },
+    {
+      "text": "support the endothelial fun F so I think",
+      "start": 2574.76,
+      "duration": 7.24
+    },
+    {
+      "text": "that is possibly a a route to go uh and",
+      "start": 2578.599,
+      "duration": 6.641
+    },
+    {
+      "text": "also just to simply try to to get us",
+      "start": 2582.0,
+      "duration": 5.24
+    },
+    {
+      "text": "healthy as possible with the",
+      "start": 2585.24,
+      "duration": 5.079
+    },
+    {
+      "text": "restrictions of long Co so if you are",
+      "start": 2587.24,
+      "duration": 6.76
+    },
+    {
+      "text": "overweight look at that if you do not uh",
+      "start": 2590.319,
+      "duration": 6.76
+    },
+    {
+      "text": "have a a healthy diet look at that",
+      "start": 2594.0,
+      "duration": 5.72
+    },
+    {
+      "text": "that's not to say that if you do do the",
+      "start": 2597.079,
+      "duration": 5.961
+    },
+    {
+      "text": "changes you lose weight you eat healthy",
+      "start": 2599.72,
+      "duration": 5.76
+    },
+    {
+      "text": "that your long Co will now miraculously",
+      "start": 2603.04,
+      "duration": 4.48
+    },
+    {
+      "text": "disappear that's not what's going to",
+      "start": 2605.48,
+      "duration": 5.28
+    },
+    {
+      "text": "happen but try to keep yourself or get",
+      "start": 2607.52,
+      "duration": 6.76
+    },
+    {
+      "text": "yourself as healthy as possible look at",
+      "start": 2610.76,
+      "duration": 6.559
+    },
+    {
+      "text": "your cholesterol look at your heart rate",
+      "start": 2614.28,
+      "duration": 6.2
+    },
+    {
+      "text": "look at your your U blood pressure at",
+      "start": 2617.319,
+      "duration": 7.881
+    },
+    {
+      "text": "least those are treatable and acceptable",
+      "start": 2620.48,
+      "duration": 8.079
+    },
+    {
+      "text": "treatments look at that and ask for your",
+      "start": 2625.2,
+      "duration": 5.52
+    },
+    {
+      "text": "clinician to check that out at least if",
+      "start": 2628.559,
+      "duration": 5.201
+    },
+    {
+      "text": "you try to to cover that part of your",
+      "start": 2630.72,
+      "duration": 5.92
+    },
+    {
+      "text": "treatment regime then perhaps it might",
+      "start": 2633.76,
+      "duration": 6.2
+    },
+    {
+      "text": "have effect on the indial dysfunction",
+      "start": 2636.64,
+      "duration": 5.8
+    },
+    {
+      "text": "that that we have noted yeah I certainly",
+      "start": 2639.96,
+      "duration": 4.28
+    },
+    {
+      "text": "agree about the nutriceutical I think",
+      "start": 2642.44,
+      "duration": 3.96
+    },
+    {
+      "text": "there's a lot of stuff out there from",
+      "start": 2644.24,
+      "duration": 4.92
+    },
+    {
+      "text": "reducing agents and polyphenols and the",
+      "start": 2646.4,
+      "duration": 4.84
+    },
+    {
+      "text": "sort of things you see in fruit and veg",
+      "start": 2649.16,
+      "duration": 3.679
+    },
+    {
+      "text": "but you can buy them as more",
+      "start": 2651.24,
+      "duration": 4.52
+    },
+    {
+      "text": "concentrated things uh iron cators which",
+      "start": 2652.839,
+      "duration": 5.881
+    },
+    {
+      "text": "are in green tea clot Busters such as",
+      "start": 2655.76,
+      "duration": 7.44
+    },
+    {
+      "text": "safe ones such as Natok kyes lumines and",
+      "start": 2658.72,
+      "duration": 6.76
+    },
+    {
+      "text": "aapep which at least the first of those",
+      "start": 2663.2,
+      "duration": 5.56
+    },
+    {
+      "text": "is available from from on online uh",
+      "start": 2665.48,
+      "duration": 6.4
+    },
+    {
+      "text": "purchasing places none of them is likely",
+      "start": 2668.76,
+      "duration": 6.359
+    },
+    {
+      "text": "to do anyone any harm and there is some",
+      "start": 2671.88,
+      "duration": 5.679
+    },
+    {
+      "text": "good reasons why they could help quite a",
+      "start": 2675.119,
+      "duration": 4.48
+    },
+    {
+      "text": "bit and of course they're they're not",
+      "start": 2677.559,
+      "duration": 4.201
+    },
+    {
+      "text": "Pharmaceuticals and not regulated as",
+      "start": 2679.599,
+      "duration": 6.201
+    },
+    {
+      "text": "such both of of of myself and Doug both",
+      "start": 2681.76,
+      "duration": 8.48
+    },
+    {
+      "text": "of us we uh are overwhelmed by by the",
+      "start": 2685.8,
+      "duration": 9.559
+    },
+    {
+      "text": "sheer extent of this disease and and we",
+      "start": 2690.24,
+      "duration": 7.359
+    },
+    {
+      "text": "uh we have never seen any anything like",
+      "start": 2695.359,
+      "duration": 4.24
+    },
+    {
+      "text": "that or at least I have never never seen",
+      "start": 2697.599,
+      "duration": 4.281
+    },
+    {
+      "text": "anything like that and I think the",
+      "start": 2699.599,
+      "duration": 4.161
+    },
+    {
+      "text": "message that I would want to leave your",
+      "start": 2701.88,
+      "duration": 4.479
+    },
+    {
+      "text": "listeners is please don't give up we",
+      "start": 2703.76,
+      "duration": 5.72
+    },
+    {
+      "text": "have heard numerous reports of of people",
+      "start": 2706.359,
+      "duration": 6.24
+    },
+    {
+      "text": "that do give up and we cannot lose",
+      "start": 2709.48,
+      "duration": 6.599
+    },
+    {
+      "text": "people while we are waiting for a",
+      "start": 2712.599,
+      "duration": 6.561
+    },
+    {
+      "text": "treatment so so just hang in there we",
+      "start": 2716.079,
+      "duration": 6.361
+    },
+    {
+      "text": "are really working day and night to try",
+      "start": 2719.16,
+      "duration": 7.88
+    },
+    {
+      "text": "to find Solutions we have to work with",
+      "start": 2722.44,
+      "duration": 6.919
+    },
+    {
+      "text": "lots of constraints lots of clinicians",
+      "start": 2727.04,
+      "duration": 5.519
+    },
+    {
+      "text": "not believing what we are saying we have",
+      "start": 2729.359,
+      "duration": 5.72
+    },
+    {
+      "text": "that on one side and on the other side",
+      "start": 2732.559,
+      "duration": 4.401
+    },
+    {
+      "text": "we've got disperate patients so so",
+      "start": 2735.079,
+      "duration": 4.961
+    },
+    {
+      "text": "please stand give up so the analogy I",
+      "start": 2736.96,
+      "duration": 6.28
+    },
+    {
+      "text": "often consider is uh Barry Marshall and",
+      "start": 2740.04,
+      "duration": 6.16
+    },
+    {
+      "text": "Robin Warren and the helicobactor pylor",
+      "start": 2743.24,
+      "duration": 5.44
+    },
+    {
+      "text": "ulcers where they were told it was a",
+      "start": 2746.2,
+      "duration": 4.919
+    },
+    {
+      "text": "load of rubbish and had the bacteria",
+      "start": 2748.68,
+      "duration": 4.439
+    },
+    {
+      "text": "infections had nothing to do with ulcers",
+      "start": 2751.119,
+      "duration": 3.601
+    },
+    {
+      "text": "and so forth and it was all just stress",
+      "start": 2753.119,
+      "duration": 4.321
+    },
+    {
+      "text": "and acid and so forth and anyway in the",
+      "start": 2754.72,
+      "duration": 4.839
+    },
+    {
+      "text": "event they were proved right but it did",
+      "start": 2757.44,
+      "duration": 4.2
+    },
+    {
+      "text": "take a quite unconscionable amount of",
+      "start": 2759.559,
+      "duration": 4.201
+    },
+    {
+      "text": "time and if you look at the history of",
+      "start": 2761.64,
+      "duration": 4.08
+    },
+    {
+      "text": "science there are many things that uh",
+      "start": 2763.76,
+      "duration": 3.839
+    },
+    {
+      "text": "where the true version of course was",
+      "start": 2765.72,
+      "duration": 4.52
+    },
+    {
+      "text": "controversial when it came out but uh",
+      "start": 2767.599,
+      "duration": 3.841
+    },
+    {
+      "text": "eventually",
+      "start": 2770.24,
+      "duration": 5.16
+    },
+    {
+      "text": "triumphed so yeah let hang on in",
+      "start": 2771.44,
+      "duration": 6.84
+    },
+    {
+      "text": "there well thank you both so much for",
+      "start": 2775.4,
+      "duration": 4.719
+    },
+    {
+      "text": "your time today it's been an absolute",
+      "start": 2778.28,
+      "duration": 4.279
+    },
+    {
+      "text": "pleasure to hear what you're up to and I",
+      "start": 2780.119,
+      "duration": 4.96
+    },
+    {
+      "text": "think I speak for the entire long Co",
+      "start": 2782.559,
+      "duration": 4.401
+    },
+    {
+      "text": "community in wishing you all the best",
+      "start": 2785.079,
+      "duration": 5.28
+    },
+    {
+      "text": "with uh continuing your research and",
+      "start": 2786.96,
+      "duration": 5.08
+    },
+    {
+      "text": "thanking you for all that you're doing",
+      "start": 2790.359,
+      "duration": 4.24
+    },
+    {
+      "text": "so thank you so much oh it's it's it's",
+      "start": 2792.04,
+      "duration": 4.279
+    },
+    {
+      "text": "been a great pleasure and we really hope",
+      "start": 2794.599,
+      "duration": 3.801
+    },
+    {
+      "text": "that we can make a difference thank you",
+      "start": 2796.319,
+      "duration": 4.441
+    },
+    {
+      "text": "so much for having us thank you so much",
+      "start": 2798.4,
+      "duration": 4.56
+    },
+    {
+      "text": "to all of my guests and to you for",
+      "start": 2800.76,
+      "duration": 4.72
+    },
+    {
+      "text": "listening I hope you've enjoyed it or at",
+      "start": 2802.96,
+      "duration": 5.359
+    },
+    {
+      "text": "least found it useful the long Co",
+      "start": 2805.48,
+      "duration": 4.879
+    },
+    {
+      "text": "podcast is entirely self-produced and",
+      "start": 2808.319,
+      "duration": 4.601
+    },
+    {
+      "text": "self-funded I'm doing all of this",
+      "start": 2810.359,
+      "duration": 5.361
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 2812.92,
+      "duration": 5.72
+    },
+    {
+      "text": "buy meac coffee.com",
+      "start": 2815.72,
+      "duration": 5.399
+    },
+    {
+      "text": "/od to help me cover the costs of",
+      "start": 2818.64,
+      "duration": 3.719
+    },
+    {
+      "text": "hosting the",
+      "start": 2821.119,
+      "duration": 3.321
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2822.359,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 2824.44,
+      "duration": 4.159
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2826.599,
+      "duration": 5.081
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 2828.599,
+      "duration": 6.76
+    },
+    {
+      "text": "love to hear from you",
+      "start": 2831.68,
+      "duration": 3.679
+    }
+  ],
+  "metadata": {
+    "title": "33 - Resia Pretorius & Douglas Kell - Microclots",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/urY1r0sOs28/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 33,
+    "title": "33 - Resia Pretorius & Douglas Kell - Microclots",
+    "videoId": "urY1r0sOs28",
+    "lengthText": "47:20"
+  }
+}

@@ -1,0 +1,5688 @@
+{
+  "video_id": "b1hvRDe-DMc",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long C podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.12,
+      "duration": 5.399
+    },
+    {
+      "text": "The Long Co podcast",
+      "start": 58.48,
+      "duration": 4.84
+    },
+    {
+      "text": "I am absolutely delighted to be joined",
+      "start": 60.519,
+      "duration": 5.96
+    },
+    {
+      "text": "this evening by Daniel Gomez and Ava",
+      "start": 63.32,
+      "duration": 6.28
+    },
+    {
+      "text": "belzig and we are diving down the rabbit",
+      "start": 66.479,
+      "duration": 6.161
+    },
+    {
+      "text": "hole of long covid research again today",
+      "start": 69.6,
+      "duration": 5.8
+    },
+    {
+      "text": "so a very warm welcome to the podcast",
+      "start": 72.64,
+      "duration": 4.799
+    },
+    {
+      "text": "and I'm really excited to dive into all",
+      "start": 75.4,
+      "duration": 5.6
+    },
+    {
+      "text": "of this hello nice nice to meet you",
+      "start": 77.439,
+      "duration": 5.761
+    },
+    {
+      "text": "thanks for having me thank you so much",
+      "start": 81.0,
+      "duration": 5.079
+    },
+    {
+      "text": "for joining me so to start with would",
+      "start": 83.2,
+      "duration": 5.959
+    },
+    {
+      "text": "you mind just saying a little bit about",
+      "start": 86.079,
+      "duration": 6.36
+    },
+    {
+      "text": "yourselves and what you do um before we",
+      "start": 89.159,
+      "duration": 5.721
+    },
+    {
+      "text": "dive into the actual research part of",
+      "start": 92.439,
+      "duration": 6.561
+    },
+    {
+      "text": "it so I am a postdoctoral fellow at the",
+      "start": 94.88,
+      "duration": 7.0
+    },
+    {
+      "text": "Massachusetts General Hospital in Boston",
+      "start": 99.0,
+      "duration": 5.92
+    },
+    {
+      "text": "and by formation during my studies in my",
+      "start": 101.88,
+      "duration": 6.76
+    },
+    {
+      "text": "PhD I'm an engineer and I work with Mr",
+      "start": 104.92,
+      "duration": 6.36
+    },
+    {
+      "text": "Imaging what this means is a magnetic",
+      "start": 108.64,
+      "duration": 4.439
+    },
+    {
+      "text": "resonance where we generate images of",
+      "start": 111.28,
+      "duration": 5.36
+    },
+    {
+      "text": "the brain using strong magnets so I'm",
+      "start": 113.079,
+      "duration": 7.32
+    },
+    {
+      "text": "not a medical doctor right the the path",
+      "start": 116.64,
+      "duration": 5.479
+    },
+    {
+      "text": "that brought me to long covid research",
+      "start": 120.399,
+      "duration": 4.161
+    },
+    {
+      "text": "is a bit intricate and Curious by",
+      "start": 122.119,
+      "duration": 4.0
+    },
+    {
+      "text": "involvement in the hospital in the",
+      "start": 124.56,
+      "duration": 3.96
+    },
+    {
+      "text": "clinical setting but the research that",
+      "start": 126.119,
+      "duration": 4.041
+    },
+    {
+      "text": "I'll be talking about or that we'll be",
+      "start": 128.52,
+      "duration": 3.92
+    },
+    {
+      "text": "talking about is mostly how to use the",
+      "start": 130.16,
+      "duration": 4.719
+    },
+    {
+      "text": "techniques that we develop and apply",
+      "start": 132.44,
+      "duration": 6.12
+    },
+    {
+      "text": "those to Imaging long Co or and put",
+      "start": 134.879,
+      "duration": 5.321
+    },
+    {
+      "text": "those techniques in the context of a",
+      "start": 138.56,
+      "duration": 2.84
+    },
+    {
+      "text": "clinical",
+      "start": 140.2,
+      "duration": 5.08
+    },
+    {
+      "text": "population and uh hi I'm I'm AA a post",
+      "start": 141.4,
+      "duration": 9.36
+    },
+    {
+      "text": "do at Laura ls's Lab at M ins technology",
+      "start": 145.28,
+      "duration": 9.12
+    },
+    {
+      "text": "MIT Boston I'm a cognitive",
+      "start": 150.76,
+      "duration": 7.28
+    },
+    {
+      "text": "neuroscientist but here in Laura's lab",
+      "start": 154.4,
+      "duration": 6.52
+    },
+    {
+      "text": "I'm exploring the Sleep Neuroscience but",
+      "start": 158.04,
+      "duration": 5.64
+    },
+    {
+      "text": "I was always interested in brain",
+      "start": 160.92,
+      "duration": 6.16
+    },
+    {
+      "text": "mechanism that are behind various",
+      "start": 163.68,
+      "duration": 7.72
+    },
+    {
+      "text": "cognitive processes and I do explore",
+      "start": 167.08,
+      "duration": 7.92
+    },
+    {
+      "text": "those with either um also brain Imaging",
+      "start": 171.4,
+      "duration": 5.119
+    },
+    {
+      "text": "techniques like functional magnetic",
+      "start": 175.0,
+      "duration": 6.36
+    },
+    {
+      "text": "resonance imaging or um electrography in",
+      "start": 176.519,
+      "duration": 8.44
+    },
+    {
+      "text": "and yes and here I am helping Daniel in",
+      "start": 181.36,
+      "duration": 8.0
+    },
+    {
+      "text": "his fascinating project about the along",
+      "start": 184.959,
+      "duration": 7.961
+    },
+    {
+      "text": "Co amazing this is so exciting to hear",
+      "start": 189.36,
+      "duration": 4.599
+    },
+    {
+      "text": "because",
+      "start": 192.92,
+      "duration": 5.48
+    },
+    {
+      "text": "it's it's bringing together things isn't",
+      "start": 193.959,
+      "duration": 6.521
+    },
+    {
+      "text": "it you know it's like the technology and",
+      "start": 198.4,
+      "duration": 5.28
+    },
+    {
+      "text": "the sort of tech um almost sounds kind",
+      "start": 200.48,
+      "duration": 6.839
+    },
+    {
+      "text": "of space age to someone who's like not",
+      "start": 203.68,
+      "duration": 6.479
+    },
+    {
+      "text": "in that world at all like me and then",
+      "start": 207.319,
+      "duration": 6.12
+    },
+    {
+      "text": "the sort of yeah neuroscience and you",
+      "start": 210.159,
+      "duration": 6.08
+    },
+    {
+      "text": "know sleep is very related to L CO as",
+      "start": 213.439,
+      "duration": 4.641
+    },
+    {
+      "text": "well in a lot of ways because people",
+      "start": 216.239,
+      "duration": 3.761
+    },
+    {
+      "text": "with long Co generally don't get good",
+      "start": 218.08,
+      "duration": 6.68
+    },
+    {
+      "text": "sleep um so yeah this is super",
+      "start": 220.0,
+      "duration": 8.239
+    },
+    {
+      "text": "exciting so maybe what would be cool to",
+      "start": 224.76,
+      "duration": 6.28
+    },
+    {
+      "text": "talk about is like what brought you",
+      "start": 228.239,
+      "duration": 5.761
+    },
+    {
+      "text": "specifically into this kind of study",
+      "start": 231.04,
+      "duration": 6.399
+    },
+    {
+      "text": "like what gave you the idea to do",
+      "start": 234.0,
+      "duration": 7.159
+    },
+    {
+      "text": "this I think um for me when I started my",
+      "start": 237.439,
+      "duration": 5.961
+    },
+    {
+      "text": "postdoc position at the hospital I had",
+      "start": 241.159,
+      "duration": 4.321
+    },
+    {
+      "text": "in Minds that eventually it'll be",
+      "start": 243.4,
+      "duration": 5.24
+    },
+    {
+      "text": "interesting uh to try an image clinical",
+      "start": 245.48,
+      "duration": 4.88
+    },
+    {
+      "text": "populations as well because all the work",
+      "start": 248.64,
+      "duration": 3.92
+    },
+    {
+      "text": "that I have been done up until then have",
+      "start": 250.36,
+      "duration": 4.839
+    },
+    {
+      "text": "been in what we call Healthy control",
+      "start": 252.56,
+      "duration": 5.519
+    },
+    {
+      "text": "population right and in the labs that we",
+      "start": 255.199,
+      "duration": 5.921
+    },
+    {
+      "text": "work at so the lab of Laura Lewis that",
+      "start": 258.079,
+      "duration": 6.081
+    },
+    {
+      "text": "Eva mentioned and another Lab at the",
+      "start": 261.12,
+      "duration": 5.0
+    },
+    {
+      "text": "Massachusetts General Hospital that I am",
+      "start": 264.16,
+      "duration": 4.84
+    },
+    {
+      "text": "involved in um there's a lot of",
+      "start": 266.12,
+      "duration": 5.519
+    },
+    {
+      "text": "knowledge about about how to do Advanced",
+      "start": 269.0,
+      "duration": 5.08
+    },
+    {
+      "text": "acquisition methods to make the contrast",
+      "start": 271.639,
+      "duration": 4.84
+    },
+    {
+      "text": "of the image sensitive to different",
+      "start": 274.08,
+      "duration": 5.839
+    },
+    {
+      "text": "things such as blood oxygenation and",
+      "start": 276.479,
+      "duration": 6.921
+    },
+    {
+      "text": "blood flow and with Laura a lot of",
+      "start": 279.919,
+      "duration": 6.441
+    },
+    {
+      "text": "knowledge of sleep and arous and these",
+      "start": 283.4,
+      "duration": 4.48
+    },
+    {
+      "text": "ideas of what could be underlying the",
+      "start": 286.36,
+      "duration": 4.36
+    },
+    {
+      "text": "mechanisms of fatigue and because all of",
+      "start": 287.88,
+      "duration": 5.08
+    },
+    {
+      "text": "this started to come up quite a lot in",
+      "start": 290.72,
+      "duration": 4.88
+    },
+    {
+      "text": "the media during the beginning of covid",
+      "start": 292.96,
+      "duration": 4.92
+    },
+    {
+      "text": "and within the hospital context we get",
+      "start": 295.6,
+      "duration": 4.2
+    },
+    {
+      "text": "emails you know whoever can help",
+      "start": 297.88,
+      "duration": 3.44
+    },
+    {
+      "text": "whichever way they can help and there",
+      "start": 299.8,
+      "duration": 4.72
+    },
+    {
+      "text": "were extra funds to help this research",
+      "start": 301.32,
+      "duration": 5.68
+    },
+    {
+      "text": "we thought it would be a great idea to",
+      "start": 304.52,
+      "duration": 4.36
+    },
+    {
+      "text": "to try to help with what we know best",
+      "start": 307.0,
+      "duration": 3.52
+    },
+    {
+      "text": "which is to how to do this Imaging and",
+      "start": 308.88,
+      "duration": 3.84
+    },
+    {
+      "text": "how to analyze this data and try to",
+      "start": 310.52,
+      "duration": 4.6
+    },
+    {
+      "text": "collaborate with medical doctors and get",
+      "start": 312.72,
+      "duration": 4.479
+    },
+    {
+      "text": "their input of how to design a research",
+      "start": 315.12,
+      "duration": 5.48
+    },
+    {
+      "text": "that would be meaningful for both us and",
+      "start": 317.199,
+      "duration": 6.081
+    },
+    {
+      "text": "for potentially to the patients as",
+      "start": 320.6,
+      "duration": 5.439
+    },
+    {
+      "text": "well I have already have some experience",
+      "start": 323.28,
+      "duration": 6.16
+    },
+    {
+      "text": "with exploring the neural substrate for",
+      "start": 326.039,
+      "duration": 6.0
+    },
+    {
+      "text": "uh cognitive task like which brain",
+      "start": 329.44,
+      "duration": 6.24
+    },
+    {
+      "text": "regions are involved in um when we are",
+      "start": 332.039,
+      "duration": 6.44
+    },
+    {
+      "text": "performing and doing Optimal Performance",
+      "start": 335.68,
+      "duration": 6.76
+    },
+    {
+      "text": "of any cognitive task and just this um",
+      "start": 338.479,
+      "duration": 7.041
+    },
+    {
+      "text": "phenomenon of alone Co patient",
+      "start": 342.44,
+      "duration": 6.199
+    },
+    {
+      "text": "suffering from that from problems with",
+      "start": 345.52,
+      "duration": 7.08
+    },
+    {
+      "text": "um on continuing on good performance I",
+      "start": 348.639,
+      "duration": 7.12
+    },
+    {
+      "text": "saw finally some some knowledge of basic",
+      "start": 352.6,
+      "duration": 4.64
+    },
+    {
+      "text": "knowledge that that cognitive",
+      "start": 355.759,
+      "duration": 3.121
+    },
+    {
+      "text": "Neuroscience have could actually put",
+      "start": 357.24,
+      "duration": 2.92
+    },
+    {
+      "text": "into use",
+      "start": 358.88,
+      "duration": 4.36
+    },
+    {
+      "text": "have like some application and perhaps",
+      "start": 360.16,
+      "duration": 6.2
+    },
+    {
+      "text": "be helpful in diagnosis or developing",
+      "start": 363.24,
+      "duration": 6.079
+    },
+    {
+      "text": "your treatment so in that sense it's um",
+      "start": 366.36,
+      "duration": 6.679
+    },
+    {
+      "text": "a very rewarding where expertise can be",
+      "start": 369.319,
+      "duration": 7.681
+    },
+    {
+      "text": "useful um and so that's why I was drawn",
+      "start": 373.039,
+      "duration": 6.44
+    },
+    {
+      "text": "to to this particular",
+      "start": 377.0,
+      "duration": 5.319
+    },
+    {
+      "text": "study yeah and that's so fascinating",
+      "start": 379.479,
+      "duration": 5.321
+    },
+    {
+      "text": "about you know I I find the brain",
+      "start": 382.319,
+      "duration": 5.401
+    },
+    {
+      "text": "incredibly fascinating and I think it's",
+      "start": 384.8,
+      "duration": 5.399
+    },
+    {
+      "text": "partly because it it it to me it seems a",
+      "start": 387.72,
+      "duration": 4.84
+    },
+    {
+      "text": "bit mysterious I don't know if it's less",
+      "start": 390.199,
+      "duration": 4.12
+    },
+    {
+      "text": "mysterious to someone like yourself who",
+      "start": 392.56,
+      "duration": 5.039
+    },
+    {
+      "text": "actually understands it um but it's you",
+      "start": 394.319,
+      "duration": 5.921
+    },
+    {
+      "text": "know all of these different bits of it",
+      "start": 397.599,
+      "duration": 4.761
+    },
+    {
+      "text": "that do different things and how they",
+      "start": 400.24,
+      "duration": 4.56
+    },
+    {
+      "text": "all interact and how they interact with",
+      "start": 402.36,
+      "duration": 4.52
+    },
+    {
+      "text": "the rest of the body and then what",
+      "start": 404.8,
+      "duration": 5.48
+    },
+    {
+      "text": "happens when it's not working in the way",
+      "start": 406.88,
+      "duration": 5.56
+    },
+    {
+      "text": "that it should be and how that",
+      "start": 410.28,
+      "duration": 5.96
+    },
+    {
+      "text": "can then impact everything because like",
+      "start": 412.44,
+      "duration": 6.439
+    },
+    {
+      "text": "the brain kind of is the like control",
+      "start": 416.24,
+      "duration": 4.76
+    },
+    {
+      "text": "center isn't it basically of everything",
+      "start": 418.879,
+      "duration": 6.481
+    },
+    {
+      "text": "else um and it's just just incredibly",
+      "start": 421.0,
+      "duration": 6.96
+    },
+    {
+      "text": "cool I mean and disastrous when it goes",
+      "start": 425.36,
+      "duration": 6.08
+    },
+    {
+      "text": "wrong I suppose indeed for us brain is a",
+      "start": 427.96,
+      "duration": 7.04
+    },
+    {
+      "text": "mystery too but that's why we love our",
+      "start": 431.44,
+      "duration": 6.199
+    },
+    {
+      "text": "jobs but maybe the more we study it the",
+      "start": 435.0,
+      "duration": 6.16
+    },
+    {
+      "text": "less we know so I would say we're not",
+      "start": 437.639,
+      "duration": 6.721
+    },
+    {
+      "text": "asess Amazed by how complex a system it",
+      "start": 441.16,
+      "duration": 5.24
+    },
+    {
+      "text": "is especially what you mentioned this",
+      "start": 444.36,
+      "duration": 3.8
+    },
+    {
+      "text": "interactions with the body right which",
+      "start": 446.4,
+      "duration": 5.04
+    },
+    {
+      "text": "are paying more and more attention to um",
+      "start": 448.16,
+      "duration": 4.84
+    },
+    {
+      "text": "more so than that just the brain",
+      "start": 451.44,
+      "duration": 4.199
+    },
+    {
+      "text": "floating in vacuum but it's interactions",
+      "start": 453.0,
+      "duration": 5.0
+    },
+    {
+      "text": "with all all the physiology that makes",
+      "start": 455.639,
+      "duration": 5.721
+    },
+    {
+      "text": "it exist",
+      "start": 458.0,
+      "duration": 6.159
+    },
+    {
+      "text": "indeed yeah I I think sometimes it is",
+      "start": 461.36,
+      "duration": 5.32
+    },
+    {
+      "text": "the more you find out the more you",
+      "start": 464.159,
+      "duration": 6.201
+    },
+    {
+      "text": "realize that you don't know um and um",
+      "start": 466.68,
+      "duration": 5.6
+    },
+    {
+      "text": "it's a bit overwhelming but also",
+      "start": 470.36,
+      "duration": 4.119
+    },
+    {
+      "text": "exciting I think in some",
+      "start": 472.28,
+      "duration": 4.84
+    },
+    {
+      "text": "ways yeah I mean let's talk a bit more",
+      "start": 474.479,
+      "duration": 6.201
+    },
+    {
+      "text": "about the study itself",
+      "start": 477.12,
+      "duration": 6.32
+    },
+    {
+      "text": "and yeah what are we doing",
+      "start": 480.68,
+      "duration": 5.88
+    },
+    {
+      "text": "here that's a very very good question",
+      "start": 483.44,
+      "duration": 5.4
+    },
+    {
+      "text": "and inde very Brad question I'll try for",
+      "start": 486.56,
+      "duration": 4.12
+    },
+    {
+      "text": "those who haven't heard the study try to",
+      "start": 488.84,
+      "duration": 4.68
+    },
+    {
+      "text": "break it down or impact it as as well as",
+      "start": 490.68,
+      "duration": 6.079
+    },
+    {
+      "text": "possible so the study has multiple Parts",
+      "start": 493.52,
+      "duration": 6.359
+    },
+    {
+      "text": "in it we cannot when we talk about long",
+      "start": 496.759,
+      "duration": 5.4
+    },
+    {
+      "text": "Co and I imagine anyone is listening",
+      "start": 499.879,
+      "duration": 4.121
+    },
+    {
+      "text": "here and you know Jackie is a very",
+      "start": 502.159,
+      "duration": 4.281
+    },
+    {
+      "text": "heterogeneous uh syndrome or",
+      "start": 504.0,
+      "duration": 4.919
+    },
+    {
+      "text": "manifestation right where their patients",
+      "start": 506.44,
+      "duration": 5.36
+    },
+    {
+      "text": "have sorts of different symptoms that",
+      "start": 508.919,
+      "duration": 5.081
+    },
+    {
+      "text": "appear and some subpopulations have",
+      "start": 511.8,
+      "duration": 4.2
+    },
+    {
+      "text": "different effects and so the research",
+      "start": 514.0,
+      "duration": 4.12
+    },
+    {
+      "text": "that we're doing is not trying to",
+      "start": 516.0,
+      "duration": 5.44
+    },
+    {
+      "text": "approach the entire uh long Co Spectrum",
+      "start": 518.12,
+      "duration": 5.52
+    },
+    {
+      "text": "right so we try to focus in what we",
+      "start": 521.44,
+      "duration": 4.48
+    },
+    {
+      "text": "think we could contribute it to which is",
+      "start": 523.64,
+      "duration": 5.48
+    },
+    {
+      "text": "mostly the parcel of uh patients that",
+      "start": 525.92,
+      "duration": 6.28
+    },
+    {
+      "text": "display fatigue to symptoms of fatigue",
+      "start": 529.12,
+      "duration": 5.52
+    },
+    {
+      "text": "and we also try to control for other",
+      "start": 532.2,
+      "duration": 4.12
+    },
+    {
+      "text": "things that could influence our study",
+      "start": 534.64,
+      "duration": 5.08
+    },
+    {
+      "text": "for example if someone has um lung",
+      "start": 536.32,
+      "duration": 5.84
+    },
+    {
+      "text": "issues right that that that fatigue",
+      "start": 539.72,
+      "duration": 5.04
+    },
+    {
+      "text": "would maybe not be a fatigue that's",
+      "start": 542.16,
+      "duration": 4.679
+    },
+    {
+      "text": "mental let's say but more of a physical",
+      "start": 544.76,
+      "duration": 3.48
+    },
+    {
+      "text": "fatigue so we try to make the",
+      "start": 546.839,
+      "duration": 5.44
+    },
+    {
+      "text": "distinction first and what we're trying",
+      "start": 548.24,
+      "duration": 8.24
+    },
+    {
+      "text": "to see here is um to separate with our",
+      "start": 552.279,
+      "duration": 6.081
+    },
+    {
+      "text": "Imaging that's something that we would",
+      "start": 556.48,
+      "duration": 4.16
+    },
+    {
+      "text": "do in the context of just cognitive",
+      "start": 558.36,
+      "duration": 4.52
+    },
+    {
+      "text": "Neuroscience right when we analyze our",
+      "start": 560.64,
+      "duration": 4.72
+    },
+    {
+      "text": "images uh with the functional studies",
+      "start": 562.88,
+      "duration": 5.04
+    },
+    {
+      "text": "where we look as people rest in the",
+      "start": 565.36,
+      "duration": 5.68
+    },
+    {
+      "text": "scanner over time uh we try to identify",
+      "start": 567.92,
+      "duration": 6.28
+    },
+    {
+      "text": "traces of neuronal responses and traces",
+      "start": 571.04,
+      "duration": 6.16
+    },
+    {
+      "text": "of physiological responses so what are",
+      "start": 574.2,
+      "duration": 4.639
+    },
+    {
+      "text": "is there anything in the signal that we",
+      "start": 577.2,
+      "duration": 4.28
+    },
+    {
+      "text": "measureing themr and a listener can",
+      "start": 578.839,
+      "duration": 4.481
+    },
+    {
+      "text": "imagine that what we're doing is not",
+      "start": 581.48,
+      "duration": 3.88
+    },
+    {
+      "text": "only images but we're making videos of",
+      "start": 583.32,
+      "duration": 4.24
+    },
+    {
+      "text": "the brain as time goes by and imaging",
+      "start": 585.36,
+      "duration": 4.24
+    },
+    {
+      "text": "the blood as the blood flows through the",
+      "start": 587.56,
+      "duration": 4.6
+    },
+    {
+      "text": "brain and we're trying to see as time",
+      "start": 589.6,
+      "duration": 4.799
+    },
+    {
+      "text": "goes by whether the signal that we're",
+      "start": 592.16,
+      "duration": 4.679
+    },
+    {
+      "text": "measuring is influenced by neuron",
+      "start": 594.399,
+      "duration": 5.321
+    },
+    {
+      "text": "activity and if so how is it influen for",
+      "start": 596.839,
+      "duration": 5.201
+    },
+    {
+      "text": "neuron activity and at the same time how",
+      "start": 599.72,
+      "duration": 4.119
+    },
+    {
+      "text": "it is influenced by physiology and by",
+      "start": 602.04,
+      "duration": 5.72
+    },
+    {
+      "text": "physiology I mean by heartbeats by",
+      "start": 603.839,
+      "duration": 6.401
+    },
+    {
+      "text": "respiration uh being the main drivers of",
+      "start": 607.76,
+      "duration": 5.639
+    },
+    {
+      "text": "this right so what makes it tricky just",
+      "start": 610.24,
+      "duration": 5.279
+    },
+    {
+      "text": "in general to look at this data is that",
+      "start": 613.399,
+      "duration": 4.281
+    },
+    {
+      "text": "when we look at this signal there's a",
+      "start": 615.519,
+      "duration": 4.801
+    },
+    {
+      "text": "mixed contribution of both of these or",
+      "start": 617.68,
+      "duration": 4.68
+    },
+    {
+      "text": "all of these effects at the same time",
+      "start": 620.32,
+      "duration": 4.56
+    },
+    {
+      "text": "and it's hard to judge really what is",
+      "start": 622.36,
+      "duration": 5.0
+    },
+    {
+      "text": "contributing to what when and where and",
+      "start": 624.88,
+      "duration": 4.639
+    },
+    {
+      "text": "in every part of the brain there's a a",
+      "start": 627.36,
+      "duration": 4.56
+    },
+    {
+      "text": "delay between the time which things",
+      "start": 629.519,
+      "duration": 4.721
+    },
+    {
+      "text": "happen so the signals they come up in",
+      "start": 631.92,
+      "duration": 5.2
+    },
+    {
+      "text": "different ways um",
+      "start": 634.24,
+      "duration": 5.36
+    },
+    {
+      "text": "and that's that's the main idea of what",
+      "start": 637.12,
+      "duration": 4.839
+    },
+    {
+      "text": "we do just in general without even the",
+      "start": 639.6,
+      "duration": 6.12
+    },
+    {
+      "text": "context of the long Co research right um",
+      "start": 641.959,
+      "duration": 7.161
+    },
+    {
+      "text": "and when I talked about looking at",
+      "start": 645.72,
+      "duration": 7.08
+    },
+    {
+      "text": "neuronal signatures in this signal uh we",
+      "start": 649.12,
+      "duration": 5.56
+    },
+    {
+      "text": "can also try to manipulate",
+      "start": 652.8,
+      "duration": 4.24
+    },
+    {
+      "text": "experimentally what they would look like",
+      "start": 654.68,
+      "duration": 4.88
+    },
+    {
+      "text": "by having participants do a task for",
+      "start": 657.04,
+      "duration": 4.96
+    },
+    {
+      "text": "example so if you just flash a light",
+      "start": 659.56,
+      "duration": 4.44
+    },
+    {
+      "text": "into someone's eyes then we expect to",
+      "start": 662.0,
+      "duration": 4.04
+    },
+    {
+      "text": "see a trace of some activity in the",
+      "start": 664.0,
+      "duration": 4.44
+    },
+    {
+      "text": "visual system of the brain that's",
+      "start": 666.04,
+      "duration": 4.4
+    },
+    {
+      "text": "responding to that task that's been",
+      "start": 668.44,
+      "duration": 4.04
+    },
+    {
+      "text": "presented right or if someone does a",
+      "start": 670.44,
+      "duration": 4.48
+    },
+    {
+      "text": "more complex cognitive task which Eva",
+      "start": 672.48,
+      "duration": 5.599
+    },
+    {
+      "text": "would talk about later on uh then we'd",
+      "start": 674.92,
+      "duration": 5.32
+    },
+    {
+      "text": "expect other regions to be involved and",
+      "start": 678.079,
+      "duration": 3.841
+    },
+    {
+      "text": "these regions are not always working",
+      "start": 680.24,
+      "duration": 4.0
+    },
+    {
+      "text": "alone right they have to there's a lot",
+      "start": 681.92,
+      "duration": 4.68
+    },
+    {
+      "text": "of planning decision making so there's a",
+      "start": 684.24,
+      "duration": 4.0
+    },
+    {
+      "text": "lot of interaction and communication",
+      "start": 686.6,
+      "duration": 3.2
+    },
+    {
+      "text": "that has to happen",
+      "start": 688.24,
+      "duration": 3.56
+    },
+    {
+      "text": "some of these this tasks we know very",
+      "start": 689.8,
+      "duration": 3.88
+    },
+    {
+      "text": "well what to expect from previous",
+      "start": 691.8,
+      "duration": 4.2
+    },
+    {
+      "text": "literature so if we don't really see",
+      "start": 693.68,
+      "duration": 4.68
+    },
+    {
+      "text": "what we expect then you know it can make",
+      "start": 696.0,
+      "duration": 4.2
+    },
+    {
+      "text": "us think okay here's there something to",
+      "start": 698.36,
+      "duration": 4.12
+    },
+    {
+      "text": "be investigated why is this response not",
+      "start": 700.2,
+      "duration": 5.6
+    },
+    {
+      "text": "looking like what it's supposed to right",
+      "start": 702.48,
+      "duration": 5.159
+    },
+    {
+      "text": "and so for this Co study what we're",
+      "start": 705.8,
+      "duration": 3.76
+    },
+    {
+      "text": "doing is we're using some of these tasks",
+      "start": 707.639,
+      "duration": 3.921
+    },
+    {
+      "text": "that are very well known and that we",
+      "start": 709.56,
+      "duration": 4.56
+    },
+    {
+      "text": "know exactly what to expect and we're",
+      "start": 711.56,
+      "duration": 4.079
+    },
+    {
+      "text": "trying to bring this into a setting",
+      "start": 714.12,
+      "duration": 3.92
+    },
+    {
+      "text": "where we look at them with the highest",
+      "start": 715.639,
+      "duration": 4.2
+    },
+    {
+      "text": "quality of image possible possible so",
+      "start": 718.04,
+      "duration": 4.2
+    },
+    {
+      "text": "using the best technology that is",
+      "start": 719.839,
+      "duration": 4.68
+    },
+    {
+      "text": "available to us today and the techniques",
+      "start": 722.24,
+      "duration": 4.159
+    },
+    {
+      "text": "that we use in our group to look at",
+      "start": 724.519,
+      "duration": 5.161
+    },
+    {
+      "text": "these TX these tasks very closely both",
+      "start": 726.399,
+      "duration": 5.841
+    },
+    {
+      "text": "in a healthy control population and in",
+      "start": 729.68,
+      "duration": 5.68
+    },
+    {
+      "text": "the subset of long covid patients that",
+      "start": 732.24,
+      "duration": 5.839
+    },
+    {
+      "text": "report fatigue right so we screen them",
+      "start": 735.36,
+      "duration": 6.12
+    },
+    {
+      "text": "we see that they're um they SC certain",
+      "start": 738.079,
+      "duration": 5.161
+    },
+    {
+      "text": "value in a fatigue assessment and a",
+      "start": 741.48,
+      "duration": 4.0
+    },
+    {
+      "text": "sleep assessment and roll them and then",
+      "start": 743.24,
+      "duration": 4.279
+    },
+    {
+      "text": "we have them go through these batteries",
+      "start": 745.48,
+      "duration": 4.28
+    },
+    {
+      "text": "of tests and because there's this",
+      "start": 747.519,
+      "duration": 4.361
+    },
+    {
+      "text": "neuronal responses and physiological",
+      "start": 749.76,
+      "duration": 4.759
+    },
+    {
+      "text": "responses a big chunk of our study is",
+      "start": 751.88,
+      "duration": 4.88
+    },
+    {
+      "text": "also trying to control for the",
+      "start": 754.519,
+      "duration": 4.201
+    },
+    {
+      "text": "physiology alone so we have our",
+      "start": 756.76,
+      "duration": 4.519
+    },
+    {
+      "text": "participants to breath holds and and",
+      "start": 758.72,
+      "duration": 4.919
+    },
+    {
+      "text": "breathing exercises while we're making",
+      "start": 761.279,
+      "duration": 4.601
+    },
+    {
+      "text": "these videos of their brain to see how",
+      "start": 763.639,
+      "duration": 4.721
+    },
+    {
+      "text": "that will trigger responses because if",
+      "start": 765.88,
+      "duration": 3.48
+    },
+    {
+      "text": "there's something that is just",
+      "start": 768.36,
+      "duration": 3.039
+    },
+    {
+      "text": "physiological we want to be able to",
+      "start": 769.36,
+      "duration": 3.88
+    },
+    {
+      "text": "separate that from What's",
+      "start": 771.399,
+      "duration": 5.12
+    },
+    {
+      "text": "neuronal um a lot of what will derive",
+      "start": 773.24,
+      "duration": 5.959
+    },
+    {
+      "text": "from the study or expect to derive uh",
+      "start": 776.519,
+      "duration": 4.76
+    },
+    {
+      "text": "from the study is not necessarily",
+      "start": 779.199,
+      "duration": 4.2
+    },
+    {
+      "text": "something that's directly translatable",
+      "start": 781.279,
+      "duration": 3.12
+    },
+    {
+      "text": "for a",
+      "start": 783.399,
+      "duration": 3.841
+    },
+    {
+      "text": "diagnosis uh or even for a treatment",
+      "start": 784.399,
+      "duration": 4.921
+    },
+    {
+      "text": "it's I would say more of a basic science",
+      "start": 787.24,
+      "duration": 4.039
+    },
+    {
+      "text": "and an understanding of how these",
+      "start": 789.32,
+      "duration": 3.92
+    },
+    {
+      "text": "techniques could be even used one day in",
+      "start": 791.279,
+      "duration": 4.961
+    },
+    {
+      "text": "the clinic for this sort of",
+      "start": 793.24,
+      "duration": 5.08
+    },
+    {
+      "text": "investigation and potentially use a",
+      "start": 796.24,
+      "duration": 3.56
+    },
+    {
+      "text": "little bit of what we know in our lab",
+      "start": 798.32,
+      "duration": 3.759
+    },
+    {
+      "text": "from fatigue to try to understand where",
+      "start": 799.8,
+      "duration": 3.88
+    },
+    {
+      "text": "is it that we should be looking on and",
+      "start": 802.079,
+      "duration": 4.641
+    },
+    {
+      "text": "how do we look at it and if so uh how",
+      "start": 803.68,
+      "duration": 4.88
+    },
+    {
+      "text": "can we then in a follow-up study then",
+      "start": 806.72,
+      "duration": 4.479
+    },
+    {
+      "text": "dive even deeper and and say okay this",
+      "start": 808.56,
+      "duration": 4.8
+    },
+    {
+      "text": "is the region where really there's",
+      "start": 811.199,
+      "duration": 4.041
+    },
+    {
+      "text": "potentially something going on and that",
+      "start": 813.36,
+      "duration": 4.159
+    },
+    {
+      "text": "could be interesting within the context",
+      "start": 815.24,
+      "duration": 5.959
+    },
+    {
+      "text": "of the broader long covid research just",
+      "start": 817.519,
+      "duration": 7.0
+    },
+    {
+      "text": "to summarize would like have like three",
+      "start": 821.199,
+      "duration": 6.64
+    },
+    {
+      "text": "tasks that the that the subjects are",
+      "start": 824.519,
+      "duration": 5.76
+    },
+    {
+      "text": "conducting in the in the scanner which",
+      "start": 827.839,
+      "duration": 5.721
+    },
+    {
+      "text": "is the breath holding which targeting",
+      "start": 830.279,
+      "duration": 5.441
+    },
+    {
+      "text": "mostly this physiological response that",
+      "start": 833.56,
+      "duration": 7.279
+    },
+    {
+      "text": "I mentioned the simple visual askask to",
+      "start": 835.72,
+      "duration": 7.84
+    },
+    {
+      "text": "uh evoke as strong as possible sensory",
+      "start": 840.839,
+      "duration": 6.841
+    },
+    {
+      "text": "visual system uh response and um and",
+      "start": 843.56,
+      "duration": 7.0
+    },
+    {
+      "text": "compare the to the healthy controls to",
+      "start": 847.68,
+      "duration": 6.159
+    },
+    {
+      "text": "uh covid patients and let's call it",
+      "start": 850.56,
+      "duration": 6.0
+    },
+    {
+      "text": "color color matching task that requires",
+      "start": 853.839,
+      "duration": 5.12
+    },
+    {
+      "text": "a lot of cognitive control",
+      "start": 856.56,
+      "duration": 5.0
+    },
+    {
+      "text": "processes and with that task we we can",
+      "start": 858.959,
+      "duration": 5.361
+    },
+    {
+      "text": "control for several brain regions um",
+      "start": 861.56,
+      "duration": 4.88
+    },
+    {
+      "text": "involved in the in in this cognitive",
+      "start": 864.32,
+      "duration": 6.639
+    },
+    {
+      "text": "processes and again uh compare where and",
+      "start": 866.44,
+      "duration": 9.6
+    },
+    {
+      "text": "how and when alteration may occur and",
+      "start": 870.959,
+      "duration": 8.401
+    },
+    {
+      "text": "explore them the questions that Danel",
+      "start": 876.04,
+      "duration": 7.32
+    },
+    {
+      "text": "mentioned so these these three are like",
+      "start": 879.36,
+      "duration": 6.839
+    },
+    {
+      "text": "basic of of the",
+      "start": 883.36,
+      "duration": 5.88
+    },
+    {
+      "text": "study yeah I'm just trying to get my",
+      "start": 886.199,
+      "duration": 6.08
+    },
+    {
+      "text": "head around this almost so you're able",
+      "start": 889.24,
+      "duration": 6.68
+    },
+    {
+      "text": "to kind of see what lights up in the",
+      "start": 892.279,
+      "duration": 6.8
+    },
+    {
+      "text": "brain while someone is trying to do a",
+      "start": 895.92,
+      "duration": 7.08
+    },
+    {
+      "text": "certain task or responding to a stimulus",
+      "start": 899.079,
+      "duration": 6.841
+    },
+    {
+      "text": "and you're literally able to map that in",
+      "start": 903.0,
+      "duration": 6.12
+    },
+    {
+      "text": "real time as they're doing it that's",
+      "start": 905.92,
+      "duration": 5.479
+    },
+    {
+      "text": "very",
+      "start": 909.12,
+      "duration": 2.279
+    },
+    {
+      "text": "cool we'll be right",
+      "start": 912.68,
+      "duration": 5.32
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 915.759,
+      "duration": 4.32
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 918.0,
+      "duration": 4.36
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 920.079,
+      "duration": 3.721
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 922.36,
+      "duration": 3.52
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 923.8,
+      "duration": 4.159
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 925.88,
+      "duration": 3.319
+    },
+    {
+      "text": "the breath and how incred inedibly",
+      "start": 927.959,
+      "duration": 2.88
+    },
+    {
+      "text": "helpful that can be with",
+      "start": 929.199,
+      "duration": 4.041
+    },
+    {
+      "text": "lovit we've worked together to develop a",
+      "start": 930.839,
+      "duration": 4.201
+    },
+    {
+      "text": "course that is specifically tailored to",
+      "start": 933.24,
+      "duration": 4.399
+    },
+    {
+      "text": "those with lovit it's a 6E course with",
+      "start": 935.04,
+      "duration": 5.4
+    },
+    {
+      "text": "12 sessions all delivered online the",
+      "start": 937.639,
+      "duration": 4.161
+    },
+    {
+      "text": "community feel and learning that we're",
+      "start": 940.44,
+      "duration": 3.519
+    },
+    {
+      "text": "all sharing is such a joy to find out",
+      "start": 941.8,
+      "duration": 3.68
+    },
+    {
+      "text": "more information and to sign up for our",
+      "start": 943.959,
+      "duration": 3.12
+    },
+    {
+      "text": "courses workshops and other shorter",
+      "start": 945.48,
+      "duration": 4.0
+    },
+    {
+      "text": "sessions please check out the link below",
+      "start": 947.079,
+      "duration": 5.961
+    },
+    {
+      "text": "lco breathing.com or email lco breathing",
+      "start": 949.48,
+      "duration": 5.359
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 953.04,
+      "duration": 5.4
+    },
+    {
+      "text": "Journey with us",
+      "start": 954.839,
+      "duration": 3.601
+    },
+    {
+      "text": "some things are easier to map than",
+      "start": 962.16,
+      "duration": 4.2
+    },
+    {
+      "text": "others right so the visual task we like",
+      "start": 963.8,
+      "duration": 5.479
+    },
+    {
+      "text": "a lot because the response is just so",
+      "start": 966.36,
+      "duration": 5.52
+    },
+    {
+      "text": "incredibly strong that anyone can look",
+      "start": 969.279,
+      "duration": 4.521
+    },
+    {
+      "text": "at the images with the naked eye and as",
+      "start": 971.88,
+      "duration": 3.199
+    },
+    {
+      "text": "long as they know where the visual",
+      "start": 973.8,
+      "duration": 3.839
+    },
+    {
+      "text": "system is they will see responses in the",
+      "start": 975.079,
+      "duration": 4.24
+    },
+    {
+      "text": "intensity of the images with the naked",
+      "start": 977.639,
+      "duration": 3.12
+    },
+    {
+      "text": "eye you don't even need to do any",
+      "start": 979.319,
+      "duration": 4.08
+    },
+    {
+      "text": "analysis for that but for tasks that",
+      "start": 980.759,
+      "duration": 5.601
+    },
+    {
+      "text": "evolve more complex control like the",
+      "start": 983.399,
+      "duration": 6.56
+    },
+    {
+      "text": "cognitive task that Eva mentioned where",
+      "start": 986.36,
+      "duration": 6.039
+    },
+    {
+      "text": "uh we ask the participants to read a",
+      "start": 989.959,
+      "duration": 5.32
+    },
+    {
+      "text": "word for example blue that is written in",
+      "start": 992.399,
+      "duration": 6.281
+    },
+    {
+      "text": "red color then that caus and then to ask",
+      "start": 995.279,
+      "duration": 5.92
+    },
+    {
+      "text": "whether the ink is blue or red so that",
+      "start": 998.68,
+      "duration": 4.399
+    },
+    {
+      "text": "conflict all that processing is much",
+      "start": 1001.199,
+      "duration": 3.841
+    },
+    {
+      "text": "more difficult to map it's much more",
+      "start": 1003.079,
+      "duration": 4.921
+    },
+    {
+      "text": "distributed and these responses are not",
+      "start": 1005.04,
+      "duration": 4.799
+    },
+    {
+      "text": "something that you can just look at",
+      "start": 1008.0,
+      "duration": 4.68
+    },
+    {
+      "text": "these images and then uh extract",
+      "start": 1009.839,
+      "duration": 4.721
+    },
+    {
+      "text": "anything from",
+      "start": 1012.68,
+      "duration": 5.68
+    },
+    {
+      "text": "them yes but but focusing on the fatigue",
+      "start": 1014.56,
+      "duration": 7.32
+    },
+    {
+      "text": "aspect um that we hope to see some",
+      "start": 1018.36,
+      "duration": 5.959
+    },
+    {
+      "text": "fatigue mental fatigue in a in a",
+      "start": 1021.88,
+      "duration": 6.4
+    },
+    {
+      "text": "subjects that participated in a study um",
+      "start": 1024.319,
+      "duration": 7.64
+    },
+    {
+      "text": "first perhaps hopefully behaviorally so",
+      "start": 1028.28,
+      "duration": 6.159
+    },
+    {
+      "text": "since patient report that they're more",
+      "start": 1031.959,
+      "duration": 4.801
+    },
+    {
+      "text": "tired when they do a task we can measure",
+      "start": 1034.439,
+      "duration": 4.561
+    },
+    {
+      "text": "that with simple Behavior there's",
+      "start": 1036.76,
+      "duration": 4.76
+    },
+    {
+      "text": "they're going to respond slower or make",
+      "start": 1039.0,
+      "duration": 4.4
+    },
+    {
+      "text": "more errors that's why this color",
+      "start": 1041.52,
+      "duration": 5.76
+    },
+    {
+      "text": "matching task is a is like a good proxy",
+      "start": 1043.4,
+      "duration": 6.399
+    },
+    {
+      "text": "for hopefully for",
+      "start": 1047.28,
+      "duration": 5.759
+    },
+    {
+      "text": "effect and with that so we have a",
+      "start": 1049.799,
+      "duration": 8.521
+    },
+    {
+      "text": "behavioral outcome um um that patient um",
+      "start": 1053.039,
+      "duration": 8.64
+    },
+    {
+      "text": "differ from controls and we have now the",
+      "start": 1058.32,
+      "duration": 7.4
+    },
+    {
+      "text": "brain response while doing this task and",
+      "start": 1061.679,
+      "duration": 6.961
+    },
+    {
+      "text": "we would like to track down",
+      "start": 1065.72,
+      "duration": 6.04
+    },
+    {
+      "text": "why why there's this degeneration in",
+      "start": 1068.64,
+      "duration": 6.32
+    },
+    {
+      "text": "performance and is it one brain region",
+      "start": 1071.76,
+      "duration": 6.76
+    },
+    {
+      "text": "or is it a Global Effect um of all",
+      "start": 1074.96,
+      "duration": 4.4
+    },
+    {
+      "text": "systems",
+      "start": 1078.52,
+      "duration": 4.639
+    },
+    {
+      "text": "uh in general and that would be the goal",
+      "start": 1079.36,
+      "duration": 8.4
+    },
+    {
+      "text": "of this uh this cognitive task um and",
+      "start": 1083.159,
+      "duration": 6.161
+    },
+    {
+      "text": "Wai to Daniel tell more about the breath",
+      "start": 1087.76,
+      "duration": 3.44
+    },
+    {
+      "text": "holding task because this is um",
+      "start": 1089.32,
+      "duration": 3.599
+    },
+    {
+      "text": "particularly important in terms of",
+      "start": 1091.2,
+      "duration": 4.68
+    },
+    {
+      "text": "whether this alterations U might be",
+      "start": 1092.919,
+      "duration": 6.921
+    },
+    {
+      "text": "Global or local and physiological or",
+      "start": 1095.88,
+      "duration": 5.96
+    },
+    {
+      "text": "neural yeah I can talk a little bit",
+      "start": 1099.84,
+      "duration": 4.319
+    },
+    {
+      "text": "about that too so I mentioned right as",
+      "start": 1101.84,
+      "duration": 4.04
+    },
+    {
+      "text": "we're watching this video of the brain",
+      "start": 1104.159,
+      "duration": 3.041
+    },
+    {
+      "text": "and we're looking what things are",
+      "start": 1105.88,
+      "duration": 4.2
+    },
+    {
+      "text": "changing we can't really see the neuron",
+      "start": 1107.2,
+      "duration": 6.04
+    },
+    {
+      "text": "activity directly all we see is is a",
+      "start": 1110.08,
+      "duration": 5.4
+    },
+    {
+      "text": "complex change that happens in the blood",
+      "start": 1113.24,
+      "duration": 4.76
+    },
+    {
+      "text": "due to many processes that involve the",
+      "start": 1115.48,
+      "duration": 4.8
+    },
+    {
+      "text": "oxygenation of the blood the speed with",
+      "start": 1118.0,
+      "duration": 4.679
+    },
+    {
+      "text": "which blood is Flowing the amount of",
+      "start": 1120.28,
+      "duration": 4.24
+    },
+    {
+      "text": "blood that is available right we can",
+      "start": 1122.679,
+      "duration": 4.561
+    },
+    {
+      "text": "imagine that very small vessel has less",
+      "start": 1124.52,
+      "duration": 5.399
+    },
+    {
+      "text": "blood than a big vein so the signal end",
+      "start": 1127.24,
+      "duration": 5.2
+    },
+    {
+      "text": "up being stronger where there's blood",
+      "start": 1129.919,
+      "duration": 3.801
+    },
+    {
+      "text": "that's not necessarily where the",
+      "start": 1132.44,
+      "duration": 4.64
+    },
+    {
+      "text": "activation is happening and because",
+      "start": 1133.72,
+      "duration": 5.28
+    },
+    {
+      "text": "we're really looking at blood and trying",
+      "start": 1137.08,
+      "duration": 4.32
+    },
+    {
+      "text": "to infers something about neuron",
+      "start": 1139.0,
+      "duration": 6.32
+    },
+    {
+      "text": "activity um we try to control for how",
+      "start": 1141.4,
+      "duration": 8.399
+    },
+    {
+      "text": "blood flows just by itself without any",
+      "start": 1145.32,
+      "duration": 6.56
+    },
+    {
+      "text": "interference if I call from your own",
+      "start": 1149.799,
+      "duration": 3.76
+    },
+    {
+      "text": "activity and that's where the breath",
+      "start": 1151.88,
+      "duration": 5.279
+    },
+    {
+      "text": "comes in maybe taking a step back for",
+      "start": 1153.559,
+      "duration": 5.281
+    },
+    {
+      "text": "for the listeners as well maybe some",
+      "start": 1157.159,
+      "duration": 5.4
+    },
+    {
+      "text": "people know this some don't but um the",
+      "start": 1158.84,
+      "duration": 5.8
+    },
+    {
+      "text": "way that a blood is flowing in our brain",
+      "start": 1162.559,
+      "duration": 4.401
+    },
+    {
+      "text": "is very well regulated right I think",
+      "start": 1164.64,
+      "duration": 4.159
+    },
+    {
+      "text": "anyone would know this if they you know",
+      "start": 1166.96,
+      "duration": 3.76
+    },
+    {
+      "text": "try to run they'll see that their",
+      "start": 1168.799,
+      "duration": 4.441
+    },
+    {
+      "text": "heartbeat goes fast because oxygen has",
+      "start": 1170.72,
+      "duration": 5.56
+    },
+    {
+      "text": "to be delivered to the muscles right in",
+      "start": 1173.24,
+      "duration": 5.16
+    },
+    {
+      "text": "the brain we also have something similar",
+      "start": 1176.28,
+      "duration": 4.48
+    },
+    {
+      "text": "to that even though it's at a much finer",
+      "start": 1178.4,
+      "duration": 4.8
+    },
+    {
+      "text": "scale extremely fine scale every time",
+      "start": 1180.76,
+      "duration": 4.96
+    },
+    {
+      "text": "there's neuron activity in the region",
+      "start": 1183.2,
+      "duration": 5.16
+    },
+    {
+      "text": "the oxygen is has to be delivered to the",
+      "start": 1185.72,
+      "duration": 4.8
+    },
+    {
+      "text": "region there's an alteration in the",
+      "start": 1188.36,
+      "duration": 3.76
+    },
+    {
+      "text": "speed with which blood is flowing and",
+      "start": 1190.52,
+      "duration": 4.0
+    },
+    {
+      "text": "the oxygenation level is extremely",
+      "start": 1192.12,
+      "duration": 4.88
+    },
+    {
+      "text": "localized to the area where the activity",
+      "start": 1194.52,
+      "duration": 5.24
+    },
+    {
+      "text": "is happening right but there's also this",
+      "start": 1197.0,
+      "duration": 4.64
+    },
+    {
+      "text": "entire supply of blood that's happening",
+      "start": 1199.76,
+      "duration": 4.84
+    },
+    {
+      "text": "all the time even without any neuron",
+      "start": 1201.64,
+      "duration": 6.519
+    },
+    {
+      "text": "activity and because this blood system",
+      "start": 1204.6,
+      "duration": 6.48
+    },
+    {
+      "text": "is so well regulated we can trigger it",
+      "start": 1208.159,
+      "duration": 5.481
+    },
+    {
+      "text": "without the neuron activity by changing",
+      "start": 1211.08,
+      "duration": 5.16
+    },
+    {
+      "text": "the concentration of gases Like Oxygen",
+      "start": 1213.64,
+      "duration": 5.68
+    },
+    {
+      "text": "and CO2 that are in the system and",
+      "start": 1216.24,
+      "duration": 4.24
+    },
+    {
+      "text": "that's why the breath hold is",
+      "start": 1219.32,
+      "duration": 2.92
+    },
+    {
+      "text": "interesting right as someone holds their",
+      "start": 1220.48,
+      "duration": 4.72
+    },
+    {
+      "text": "breath there's no way for us to expel",
+      "start": 1222.24,
+      "duration": 5.96
+    },
+    {
+      "text": "all of the Carbonic gas or that waste",
+      "start": 1225.2,
+      "duration": 5.0
+    },
+    {
+      "text": "out of our system and so it stays in our",
+      "start": 1228.2,
+      "duration": 5.04
+    },
+    {
+      "text": "blood and it causes a response that then",
+      "start": 1230.2,
+      "duration": 5.08
+    },
+    {
+      "text": "leads to a change in the signal that we",
+      "start": 1233.24,
+      "duration": 4.84
+    },
+    {
+      "text": "measure and that will tell us something",
+      "start": 1235.28,
+      "duration": 4.6
+    },
+    {
+      "text": "about the vasculature that will tell us",
+      "start": 1238.08,
+      "duration": 3.12
+    },
+    {
+      "text": "something about the way that the blood",
+      "start": 1239.88,
+      "duration": 3.56
+    },
+    {
+      "text": "is being transported that will give us a",
+      "start": 1241.2,
+      "duration": 4.719
+    },
+    {
+      "text": "physiological signal and we can then try",
+      "start": 1243.44,
+      "duration": 4.84
+    },
+    {
+      "text": "to understand so that when we're looking",
+      "start": 1245.919,
+      "duration": 5.441
+    },
+    {
+      "text": "at the neuronal signal alone we can then",
+      "start": 1248.28,
+      "duration": 4.84
+    },
+    {
+      "text": "separate what we believe would be the",
+      "start": 1251.36,
+      "duration": 4.48
+    },
+    {
+      "text": "contribution for physiology alone so",
+      "start": 1253.12,
+      "duration": 6.679
+    },
+    {
+      "text": "that's the breath hood is is um a simple",
+      "start": 1255.84,
+      "duration": 6.12
+    },
+    {
+      "text": "task that anyone can do that's why we",
+      "start": 1259.799,
+      "duration": 5.0
+    },
+    {
+      "text": "choose it to it's we do a 15c breath",
+      "start": 1261.96,
+      "duration": 5.8
+    },
+    {
+      "text": "hold which assume even uh you know",
+      "start": 1264.799,
+      "duration": 5.641
+    },
+    {
+      "text": "clinical population is able to tolerate",
+      "start": 1267.76,
+      "duration": 5.159
+    },
+    {
+      "text": "very well and that already gives us a",
+      "start": 1270.44,
+      "duration": 4.56
+    },
+    {
+      "text": "sufficiently strong signal to see This",
+      "start": 1272.919,
+      "duration": 5.201
+    },
+    {
+      "text": "Global changes in the entire brain and",
+      "start": 1275.0,
+      "duration": 5.64
+    },
+    {
+      "text": "without the breath hold it's really hard",
+      "start": 1278.12,
+      "duration": 5.24
+    },
+    {
+      "text": "to compare from person to person what's",
+      "start": 1280.64,
+      "duration": 4.399
+    },
+    {
+      "text": "going on from this neuronal signal",
+      "start": 1283.36,
+      "duration": 3.72
+    },
+    {
+      "text": "because if someone just happens to have",
+      "start": 1285.039,
+      "duration": 4.12
+    },
+    {
+      "text": "more blood or higher hemat",
+      "start": 1287.08,
+      "duration": 4.52
+    },
+    {
+      "text": "count or anything else that would change",
+      "start": 1289.159,
+      "duration": 4.081
+    },
+    {
+      "text": "that signal that would be a huge",
+      "start": 1291.6,
+      "duration": 4.079
+    },
+    {
+      "text": "compound for the inferences that",
+      "start": 1293.24,
+      "duration": 5.799
+    },
+    {
+      "text": "eventually would like to make that's why",
+      "start": 1295.679,
+      "duration": 5.401
+    },
+    {
+      "text": "uh we add that as a physiological",
+      "start": 1299.039,
+      "duration": 5.961
+    },
+    {
+      "text": "control if I may call it that",
+      "start": 1301.08,
+      "duration": 7.599
+    },
+    {
+      "text": "way yeah that is very",
+      "start": 1305.0,
+      "duration": 5.919
+    },
+    {
+      "text": "interesting this fascinates me as well",
+      "start": 1308.679,
+      "duration": 4.321
+    },
+    {
+      "text": "as a as a breathing instructor um the",
+      "start": 1310.919,
+      "duration": 3.561
+    },
+    {
+      "text": "idea of breath holds and and you know",
+      "start": 1313.0,
+      "duration": 3.52
+    },
+    {
+      "text": "what it does in your body while it's",
+      "start": 1314.48,
+      "duration": 4.88
+    },
+    {
+      "text": "happening and then how that would",
+      "start": 1316.52,
+      "duration": 5.88
+    },
+    {
+      "text": "actually show up in your brain that's",
+      "start": 1319.36,
+      "duration": 5.16
+    },
+    {
+      "text": "the bit that is slightly blowing my mind",
+      "start": 1322.4,
+      "duration": 7.279
+    },
+    {
+      "text": "right now um a little bit um but um I",
+      "start": 1324.52,
+      "duration": 7.56
+    },
+    {
+      "text": "think I mean bringing this all back to",
+      "start": 1329.679,
+      "duration": 5.561
+    },
+    {
+      "text": "fatigue which was kind of where we",
+      "start": 1332.08,
+      "duration": 5.16
+    },
+    {
+      "text": "started I don't know if this is",
+      "start": 1335.24,
+      "duration": 3.48
+    },
+    {
+      "text": "something you can even answer I'm kind",
+      "start": 1337.24,
+      "duration": 4.52
+    },
+    {
+      "text": "of just spitballing here um but when we",
+      "start": 1338.72,
+      "duration": 4.64
+    },
+    {
+      "text": "know that you know there's all the",
+      "start": 1341.76,
+      "duration": 4.68
+    },
+    {
+      "text": "different kind of types of fatigue um",
+      "start": 1343.36,
+      "duration": 4.84
+    },
+    {
+      "text": "and you know you've got your physical",
+      "start": 1346.44,
+      "duration": 4.52
+    },
+    {
+      "text": "fatigue which is more obvious because",
+      "start": 1348.2,
+      "duration": 5.719
+    },
+    {
+      "text": "you know to stop that you stop moving um",
+      "start": 1350.96,
+      "duration": 5.68
+    },
+    {
+      "text": "but the cognitive fatigue and the sort",
+      "start": 1353.919,
+      "duration": 6.841
+    },
+    {
+      "text": "of mental exertion was stuff that for me",
+      "start": 1356.64,
+      "duration": 6.96
+    },
+    {
+      "text": "was much harder to understand and I",
+      "start": 1360.76,
+      "duration": 5.64
+    },
+    {
+      "text": "think it's much harder to quantify in a",
+      "start": 1363.6,
+      "duration": 6.72
+    },
+    {
+      "text": "lot of ways um and much harder to stop",
+      "start": 1366.4,
+      "duration": 5.84
+    },
+    {
+      "text": "as well because how how do you turn your",
+      "start": 1370.32,
+      "duration": 5.959
+    },
+    {
+      "text": "brain off and I feel like you know the",
+      "start": 1372.24,
+      "duration": 6.24
+    },
+    {
+      "text": "the tasks that that the AA was",
+      "start": 1376.279,
+      "duration": 4.0
+    },
+    {
+      "text": "describing with the matching the words",
+      "start": 1378.48,
+      "duration": 4.52
+    },
+    {
+      "text": "and the colors and things like to",
+      "start": 1380.279,
+      "duration": 4.601
+    },
+    {
+      "text": "somebody without long Co that would seem",
+      "start": 1383.0,
+      "duration": 4.919
+    },
+    {
+      "text": "like an incredibly simple task but for",
+      "start": 1384.88,
+      "duration": 6.48
+    },
+    {
+      "text": "somebody who's got terrible fatigue",
+      "start": 1387.919,
+      "duration": 6.36
+    },
+    {
+      "text": "maybe some degree of sort of cognitive",
+      "start": 1391.36,
+      "duration": 5.799
+    },
+    {
+      "text": "impairment being able to do that",
+      "start": 1394.279,
+      "duration": 5.801
+    },
+    {
+      "text": "actually is could be quite an exhausting",
+      "start": 1397.159,
+      "duration": 6.321
+    },
+    {
+      "text": "task could be very difficult for them",
+      "start": 1400.08,
+      "duration": 5.68
+    },
+    {
+      "text": "and I feel like maybe if you are mapping",
+      "start": 1403.48,
+      "duration": 5.28
+    },
+    {
+      "text": "this in the brain with the Imaging",
+      "start": 1405.76,
+      "duration": 6.279
+    },
+    {
+      "text": "this could be a way of actually being",
+      "start": 1408.76,
+      "duration": 7.12
+    },
+    {
+      "text": "able to measure that in some sort of",
+      "start": 1412.039,
+      "duration": 7.321
+    },
+    {
+      "text": "actual quantifiable way that doesn't",
+      "start": 1415.88,
+      "duration": 6.88
+    },
+    {
+      "text": "really exist anywhere else does is is am",
+      "start": 1419.36,
+      "duration": 5.24
+    },
+    {
+      "text": "I making sense of this in the right way",
+      "start": 1422.76,
+      "duration": 4.76
+    },
+    {
+      "text": "or did I just make something up this is",
+      "start": 1424.6,
+      "duration": 6.64
+    },
+    {
+      "text": "exactly the the goal since um for for",
+      "start": 1427.52,
+      "duration": 6.84
+    },
+    {
+      "text": "our knowledge um long Co patients have",
+      "start": 1431.24,
+      "duration": 6.0
+    },
+    {
+      "text": "no alteration in anatomy of their brain",
+      "start": 1434.36,
+      "duration": 4.72
+    },
+    {
+      "text": "but they're still struggling",
+      "start": 1437.24,
+      "duration": 5.0
+    },
+    {
+      "text": "um with maintaining their their",
+      "start": 1439.08,
+      "duration": 6.479
+    },
+    {
+      "text": "attention on a task and they do a report",
+      "start": 1442.24,
+      "duration": 6.6
+    },
+    {
+      "text": "fatigue there's something there should",
+      "start": 1445.559,
+      "duration": 4.801
+    },
+    {
+      "text": "there should be something underlying",
+      "start": 1448.84,
+      "duration": 5.079
+    },
+    {
+      "text": "those problems so indeed uh with we hope",
+      "start": 1450.36,
+      "duration": 5.76
+    },
+    {
+      "text": "that it will the functional images will",
+      "start": 1453.919,
+      "duration": 7.12
+    },
+    {
+      "text": "be useful and helpful here uh so exactly",
+      "start": 1456.12,
+      "duration": 7.559
+    },
+    {
+      "text": "we we hope that that the task that we",
+      "start": 1461.039,
+      "duration": 4.921
+    },
+    {
+      "text": "picked it's actually we didn't want it",
+      "start": 1463.679,
+      "duration": 5.641
+    },
+    {
+      "text": "to be too difficult just because then it",
+      "start": 1465.96,
+      "duration": 5.88
+    },
+    {
+      "text": "would be hard to compare to controls if",
+      "start": 1469.32,
+      "duration": 4.8
+    },
+    {
+      "text": "somebody make so much errors so so we",
+      "start": 1471.84,
+      "duration": 5.88
+    },
+    {
+      "text": "stick to the rather simple task it's it",
+      "start": 1474.12,
+      "duration": 6.159
+    },
+    {
+      "text": "seems that we train every participants",
+      "start": 1477.72,
+      "duration": 5.559
+    },
+    {
+      "text": "before uh entering a scanner so that",
+      "start": 1480.279,
+      "duration": 6.961
+    },
+    {
+      "text": "they um do approximately good in a task",
+      "start": 1483.279,
+      "duration": 8.081
+    },
+    {
+      "text": "and we expect that they they might just",
+      "start": 1487.24,
+      "duration": 8.28
+    },
+    {
+      "text": "slightly decr while the task is going on",
+      "start": 1491.36,
+      "duration": 8.319
+    },
+    {
+      "text": "it's like several uh about 12 minutes of",
+      "start": 1495.52,
+      "duration": 9.039
+    },
+    {
+      "text": "task and we hypothesize that they will",
+      "start": 1499.679,
+      "duration": 8.041
+    },
+    {
+      "text": "slightly degrade over time and this is",
+      "start": 1504.559,
+      "duration": 6.881
+    },
+    {
+      "text": "where the fatigue may may may show up um",
+      "start": 1507.72,
+      "duration": 6.72
+    },
+    {
+      "text": "and with that we may see if the if any",
+      "start": 1511.44,
+      "duration": 4.959
+    },
+    {
+      "text": "of the brain regions that is involved in",
+      "start": 1514.44,
+      "duration": 2.68
+    },
+    {
+      "text": "a",
+      "start": 1516.399,
+      "duration": 4.0
+    },
+    {
+      "text": "task is is there any particular one for",
+      "start": 1517.12,
+      "duration": 5.88
+    },
+    {
+      "text": "instance the cognitive control processes",
+      "start": 1520.399,
+      "duration": 5.921
+    },
+    {
+      "text": "are mostly conducted using our frontal",
+      "start": 1523.0,
+      "duration": 6.36
+    },
+    {
+      "text": "cortex um so not the the sensory system",
+      "start": 1526.32,
+      "duration": 8.52
+    },
+    {
+      "text": "like a visual motor um brain regions so",
+      "start": 1529.36,
+      "duration": 7.6
+    },
+    {
+      "text": "for this may be one of the questions",
+      "start": 1534.84,
+      "duration": 6.719
+    },
+    {
+      "text": "like is this like lack of attention or",
+      "start": 1536.96,
+      "duration": 7.68
+    },
+    {
+      "text": "is there like not the me mechanism the",
+      "start": 1541.559,
+      "duration": 5.641
+    },
+    {
+      "text": "of the uh nutritions and oxygen that",
+      "start": 1544.64,
+      "duration": 4.6
+    },
+    {
+      "text": "Daniel mentioned that that Supply those",
+      "start": 1547.2,
+      "duration": 5.479
+    },
+    {
+      "text": "brain regions are perhaps insufficient",
+      "start": 1549.24,
+      "duration": 6.919
+    },
+    {
+      "text": "and they cause lack of focus and a",
+      "start": 1552.679,
+      "duration": 5.961
+    },
+    {
+      "text": "subjectiveness of fatigue because it's",
+      "start": 1556.159,
+      "duration": 5.841
+    },
+    {
+      "text": "really hard to study the sub subjective",
+      "start": 1558.64,
+      "duration": 6.44
+    },
+    {
+      "text": "experiences like I feel tired but we",
+      "start": 1562.0,
+      "duration": 5.44
+    },
+    {
+      "text": "need to measure that somehow so um",
+      "start": 1565.08,
+      "duration": 4.68
+    },
+    {
+      "text": "behavioral responses to a task is the",
+      "start": 1567.44,
+      "duration": 6.68
+    },
+    {
+      "text": "only only way um so the cognitive task",
+      "start": 1569.76,
+      "duration": 7.399
+    },
+    {
+      "text": "we expect to see some changes um but",
+      "start": 1574.12,
+      "duration": 6.24
+    },
+    {
+      "text": "where this is very open question since",
+      "start": 1577.159,
+      "duration": 6.041
+    },
+    {
+      "text": "there was no no previous study that",
+      "start": 1580.36,
+      "duration": 6.439
+    },
+    {
+      "text": "explored it so yes these are General",
+      "start": 1583.2,
+      "duration": 6.599
+    },
+    {
+      "text": "very very interesting and very unknown",
+      "start": 1586.799,
+      "duration": 4.561
+    },
+    {
+      "text": "uh questions that that might be",
+      "start": 1589.799,
+      "duration": 5.801
+    },
+    {
+      "text": "addressed with this uh with this",
+      "start": 1591.36,
+      "duration": 4.24
+    },
+    {
+      "text": "task we'll be right",
+      "start": 1596.76,
+      "duration": 5.919
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 1600.159,
+      "duration": 4.441
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 1602.679,
+      "duration": 4.48
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 1604.6,
+      "duration": 3.959
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 1607.159,
+      "duration": 3.64
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 1608.559,
+      "duration": 4.72
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 1610.799,
+      "duration": 4.24
+    },
+    {
+      "text": "to share just once we'd be able to get",
+      "start": 1613.279,
+      "duration": 3.561
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 1615.039,
+      "duration": 3.721
+    },
+    {
+      "text": "who really really need it",
+      "start": 1616.84,
+      "duration": 3.76
+    },
+    {
+      "text": "so please consider sharing somewhere if",
+      "start": 1618.76,
+      "duration": 4.0
+    },
+    {
+      "text": "you possibly can I hope you enjoy the",
+      "start": 1620.6,
+      "duration": 5.52
+    },
+    {
+      "text": "episode and thank you so",
+      "start": 1622.76,
+      "duration": 3.36
+    },
+    {
+      "text": "much and I just to add to this idea of",
+      "start": 1629.919,
+      "duration": 4.081
+    },
+    {
+      "text": "the difficulty of studying the",
+      "start": 1632.72,
+      "duration": 4.0
+    },
+    {
+      "text": "subjective feeling right sometimes what",
+      "start": 1634.0,
+      "duration": 6.039
+    },
+    {
+      "text": "our patients will report is not really",
+      "start": 1636.72,
+      "duration": 5.319
+    },
+    {
+      "text": "reflected in what we measure too or even",
+      "start": 1640.039,
+      "duration": 4.481
+    },
+    {
+      "text": "a healthy control so sometimes we have",
+      "start": 1642.039,
+      "duration": 4.961
+    },
+    {
+      "text": "patients that do better than healthy",
+      "start": 1644.52,
+      "duration": 5.039
+    },
+    {
+      "text": "controls right then someone that says",
+      "start": 1647.0,
+      "duration": 4.76
+    },
+    {
+      "text": "they're perfectly healthy then not",
+      "start": 1649.559,
+      "duration": 4.641
+    },
+    {
+      "text": "really responding or showing what could",
+      "start": 1651.76,
+      "duration": 5.159
+    },
+    {
+      "text": "maybe be considered signs of fatigue so",
+      "start": 1654.2,
+      "duration": 5.599
+    },
+    {
+      "text": "it also makes it it hard to pinpoint",
+      "start": 1656.919,
+      "duration": 5.521
+    },
+    {
+      "text": "exactly um what's going on because of",
+      "start": 1659.799,
+      "duration": 5.0
+    },
+    {
+      "text": "all these other compounds that's what",
+      "start": 1662.44,
+      "duration": 3.719
+    },
+    {
+      "text": "really I think the goal of this study is",
+      "start": 1664.799,
+      "duration": 3.401
+    },
+    {
+      "text": "to try and figure out how do we separate",
+      "start": 1666.159,
+      "duration": 4.161
+    },
+    {
+      "text": "all these signals and how do we",
+      "start": 1668.2,
+      "duration": 4.4
+    },
+    {
+      "text": "understand and relate them and what is",
+      "start": 1670.32,
+      "duration": 5.32
+    },
+    {
+      "text": "the best metric of behavior responses",
+      "start": 1672.6,
+      "duration": 6.36
+    },
+    {
+      "text": "how do we decide how do we judge when is",
+      "start": 1675.64,
+      "duration": 5.56
+    },
+    {
+      "text": "it that we really see an effect of",
+      "start": 1678.96,
+      "duration": 4.92
+    },
+    {
+      "text": "performance degradation over time or or",
+      "start": 1681.2,
+      "duration": 4.56
+    },
+    {
+      "text": "is it just a random fluctuation in",
+      "start": 1683.88,
+      "duration": 4.0
+    },
+    {
+      "text": "performance that happen to happen at the",
+      "start": 1685.76,
+      "duration": 5.08
+    },
+    {
+      "text": "end of the 12 minute window that we",
+      "start": 1687.88,
+      "duration": 6.56
+    },
+    {
+      "text": "have so this is things that we don't",
+      "start": 1690.84,
+      "duration": 5.439
+    },
+    {
+      "text": "have an answer for right now but we're",
+      "start": 1694.44,
+      "duration": 4.839
+    },
+    {
+      "text": "trying to to understand as we",
+      "start": 1696.279,
+      "duration": 5.601
+    },
+    {
+      "text": "go you could also Daniel mentioned the",
+      "start": 1699.279,
+      "duration": 6.801
+    },
+    {
+      "text": "underlying of um of our hypothesis uh",
+      "start": 1701.88,
+      "duration": 6.76
+    },
+    {
+      "text": "how what what actually we we might",
+      "start": 1706.08,
+      "duration": 4.4
+    },
+    {
+      "text": "expect that the virus is doing in the",
+      "start": 1708.64,
+      "duration": 5.08
+    },
+    {
+      "text": "brain Daniel has um formed this those",
+      "start": 1710.48,
+      "duration": 6.4
+    },
+    {
+      "text": "hypothesis based on um a lot of uh",
+      "start": 1713.72,
+      "duration": 4.799
+    },
+    {
+      "text": "knowledge and",
+      "start": 1716.88,
+      "duration": 3.679
+    },
+    {
+      "text": "expertise the reason why we thought",
+      "start": 1718.519,
+      "duration": 3.4
+    },
+    {
+      "text": "functional studies would be more",
+      "start": 1720.559,
+      "duration": 3.521
+    },
+    {
+      "text": "interesting than just anatomical I think",
+      "start": 1721.919,
+      "duration": 5.161
+    },
+    {
+      "text": "is from two things first that there",
+      "start": 1724.08,
+      "duration": 6.04
+    },
+    {
+      "text": "isn't as Eva said any studies up to a",
+      "start": 1727.08,
+      "duration": 5.36
+    },
+    {
+      "text": "certain very massive large population",
+      "start": 1730.12,
+      "duration": 4.12
+    },
+    {
+      "text": "studies that show minor alterations in",
+      "start": 1732.44,
+      "duration": 4.68
+    },
+    {
+      "text": "the factory B to the extent that I aware",
+      "start": 1734.24,
+      "duration": 4.52
+    },
+    {
+      "text": "of but",
+      "start": 1737.12,
+      "duration": 3.559
+    },
+    {
+      "text": "there are no studies that are showing a",
+      "start": 1738.76,
+      "duration": 4.56
+    },
+    {
+      "text": "particular degeneration any anatomical",
+      "start": 1740.679,
+      "duration": 4.761
+    },
+    {
+      "text": "change and I think there's a study that",
+      "start": 1743.32,
+      "duration": 5.88
+    },
+    {
+      "text": "I saw two years ago already I they're",
+      "start": 1745.44,
+      "duration": 6.56
+    },
+    {
+      "text": "saying that if someone has had long Co",
+      "start": 1749.2,
+      "duration": 6.04
+    },
+    {
+      "text": "and goes to get a clinical MRI scan only",
+      "start": 1752.0,
+      "duration": 5.72
+    },
+    {
+      "text": "2% of the patient population would",
+      "start": 1755.24,
+      "duration": 4.6
+    },
+    {
+      "text": "actually show any findings that could be",
+      "start": 1757.72,
+      "duration": 5.079
+    },
+    {
+      "text": "considered to be related to the disease",
+      "start": 1759.84,
+      "duration": 5.52
+    },
+    {
+      "text": "right so what's up with the other 98%",
+      "start": 1762.799,
+      "duration": 4.561
+    },
+    {
+      "text": "when the scans come out clean and",
+      "start": 1765.36,
+      "duration": 4.84
+    },
+    {
+      "text": "traditional blood tests come out clean",
+      "start": 1767.36,
+      "duration": 4.439
+    },
+    {
+      "text": "and obviously this speaks to the",
+      "start": 1770.2,
+      "duration": 3.719
+    },
+    {
+      "text": "inability of an anatomical image to tell",
+      "start": 1771.799,
+      "duration": 4.841
+    },
+    {
+      "text": "us the difference but functional images",
+      "start": 1773.919,
+      "duration": 4.36
+    },
+    {
+      "text": "are much",
+      "start": 1776.64,
+      "duration": 5.12
+    },
+    {
+      "text": "more sensitive in a way uh to any change",
+      "start": 1778.279,
+      "duration": 5.081
+    },
+    {
+      "text": "that's happening and this is a",
+      "start": 1781.76,
+      "duration": 4.48
+    },
+    {
+      "text": "double-edged sorts there's a a professor",
+      "start": 1783.36,
+      "duration": 5.64
+    },
+    {
+      "text": "actually at Oxford in the UK that said",
+      "start": 1786.24,
+      "duration": 4.48
+    },
+    {
+      "text": "this at a conference I like L that",
+      "start": 1789.0,
+      "duration": 3.76
+    },
+    {
+      "text": "mentioned that it is sensitive to",
+      "start": 1790.72,
+      "duration": 4.04
+    },
+    {
+      "text": "everything which is great but it is also",
+      "start": 1792.76,
+      "duration": 4.48
+    },
+    {
+      "text": "sensitive to everything which is bad",
+      "start": 1794.76,
+      "duration": 4.84
+    },
+    {
+      "text": "because it makes it hard then to to",
+      "start": 1797.24,
+      "duration": 5.679
+    },
+    {
+      "text": "distinguish things but uh the the idea",
+      "start": 1799.6,
+      "duration": 5.679
+    },
+    {
+      "text": "back then was that in patients that had",
+      "start": 1802.919,
+      "duration": 5.041
+    },
+    {
+      "text": "been to the is and sometimes had not",
+      "start": 1805.279,
+      "duration": 5.601
+    },
+    {
+      "text": "survived an acute case of covid in",
+      "start": 1807.96,
+      "duration": 4.719
+    },
+    {
+      "text": "postmar studies of the brain there would",
+      "start": 1810.88,
+      "duration": 3.799
+    },
+    {
+      "text": "be many lesions associated with lack of",
+      "start": 1812.679,
+      "duration": 5.0
+    },
+    {
+      "text": "oxygenation right so this is chemic",
+      "start": 1814.679,
+      "duration": 5.401
+    },
+    {
+      "text": "damage that people would call them and",
+      "start": 1817.679,
+      "duration": 4.321
+    },
+    {
+      "text": "this had seen many many times in clinics",
+      "start": 1820.08,
+      "duration": 3.56
+    },
+    {
+      "text": "of patients that have been in very",
+      "start": 1822.0,
+      "duration": 5.76
+    },
+    {
+      "text": "severe acute state of Co and this this",
+      "start": 1823.64,
+      "duration": 5.6
+    },
+    {
+      "text": "grp group is of course not the group",
+      "start": 1827.76,
+      "duration": 3.0
+    },
+    {
+      "text": "that we're studying but we thought what",
+      "start": 1829.24,
+      "duration": 4.799
+    },
+    {
+      "text": "if you know this lack of oxygenation is",
+      "start": 1830.76,
+      "duration": 4.96
+    },
+    {
+      "text": "just not pushed to the way where it",
+      "start": 1834.039,
+      "duration": 5.201
+    },
+    {
+      "text": "creates a total injury but is disrupted",
+      "start": 1835.72,
+      "duration": 5.52
+    },
+    {
+      "text": "to a certain extent where you wouldn't",
+      "start": 1839.24,
+      "duration": 3.64
+    },
+    {
+      "text": "see in the anatomy but there's a change",
+      "start": 1841.24,
+      "duration": 3.96
+    },
+    {
+      "text": "in the functional responses right and",
+      "start": 1842.88,
+      "duration": 4.639
+    },
+    {
+      "text": "this oxygenation is in the blood to an",
+      "start": 1845.2,
+      "duration": 3.599
+    },
+    {
+      "text": "extent I mean we're interested in the",
+      "start": 1847.519,
+      "duration": 3.64
+    },
+    {
+      "text": "tissue but the oxygen is carried by the",
+      "start": 1848.799,
+      "duration": 4.561
+    },
+    {
+      "text": "blood and since the techniques we have",
+      "start": 1851.159,
+      "duration": 4.201
+    },
+    {
+      "text": "image of the blood then maybe there's",
+      "start": 1853.36,
+      "duration": 4.64
+    },
+    {
+      "text": "something to be looked at in there and",
+      "start": 1855.36,
+      "duration": 4.039
+    },
+    {
+      "text": "and then at the same time there's a lot",
+      "start": 1858.0,
+      "duration": 3.48
+    },
+    {
+      "text": "of evidence coming from groups looking",
+      "start": 1859.399,
+      "duration": 5.24
+    },
+    {
+      "text": "at the blood of patients with covid as I",
+      "start": 1861.48,
+      "duration": 5.679
+    },
+    {
+      "text": "imagine uh you probably interviewed some",
+      "start": 1864.639,
+      "duration": 4.28
+    },
+    {
+      "text": "people that talked about this too about",
+      "start": 1867.159,
+      "duration": 4.48
+    },
+    {
+      "text": "the blood clots right these stable blood",
+      "start": 1868.919,
+      "duration": 5.64
+    },
+    {
+      "text": "clots that are seen and these blood",
+      "start": 1871.639,
+      "duration": 5.04
+    },
+    {
+      "text": "clots while they're in the blood right",
+      "start": 1874.559,
+      "duration": 5.921
+    },
+    {
+      "text": "the virus attacks the in the or the the",
+      "start": 1876.679,
+      "duration": 6.201
+    },
+    {
+      "text": "vasculature in a certain way and then",
+      "start": 1880.48,
+      "duration": 4.72
+    },
+    {
+      "text": "causes this we don't know if it's an",
+      "start": 1882.88,
+      "duration": 4.6
+    },
+    {
+      "text": "immune response inflammatory response",
+      "start": 1885.2,
+      "duration": 5.479
+    },
+    {
+      "text": "this is beyond my expertise at least but",
+      "start": 1887.48,
+      "duration": 5.439
+    },
+    {
+      "text": "there's something potentially in the",
+      "start": 1890.679,
+      "duration": 4.281
+    },
+    {
+      "text": "Bloods that could alter these responses",
+      "start": 1892.919,
+      "duration": 3.88
+    },
+    {
+      "text": "right if blood is not flowing the way it",
+      "start": 1894.96,
+      "duration": 4.679
+    },
+    {
+      "text": "is or if this communication within the",
+      "start": 1896.799,
+      "duration": 4.401
+    },
+    {
+      "text": "walls of the",
+      "start": 1899.639,
+      "duration": 4.241
+    },
+    {
+      "text": "vasculature if this communication as the",
+      "start": 1901.2,
+      "duration": 5.319
+    },
+    {
+      "text": "cells transmit information when to",
+      "start": 1903.88,
+      "duration": 4.84
+    },
+    {
+      "text": "dilate when to change blood flow if that",
+      "start": 1906.519,
+      "duration": 4.841
+    },
+    {
+      "text": "is impaired then we should be able to at",
+      "start": 1908.72,
+      "duration": 5.48
+    },
+    {
+      "text": "least see that with the images that are",
+      "start": 1911.36,
+      "duration": 5.4
+    },
+    {
+      "text": "sensitive to that so the hypothesis is",
+      "start": 1914.2,
+      "duration": 5.199
+    },
+    {
+      "text": "if this is clearly a disease that has",
+      "start": 1916.76,
+      "duration": 4.919
+    },
+    {
+      "text": "some contribution within the blood or",
+      "start": 1919.399,
+      "duration": 4.961
+    },
+    {
+      "text": "the cells that line up uh the vessels",
+      "start": 1921.679,
+      "duration": 5.161
+    },
+    {
+      "text": "where the blood is carried then maybe",
+      "start": 1924.36,
+      "duration": 3.96
+    },
+    {
+      "text": "techniques that are looking into blood",
+      "start": 1926.84,
+      "duration": 4.679
+    },
+    {
+      "text": "like the ones you work it would be more",
+      "start": 1928.32,
+      "duration": 5.719
+    },
+    {
+      "text": "prone to finding you know some",
+      "start": 1931.519,
+      "duration": 4.52
+    },
+    {
+      "text": "correlates of the disease whereas",
+      "start": 1934.039,
+      "duration": 4.321
+    },
+    {
+      "text": "standard anatomical image will not be",
+      "start": 1936.039,
+      "duration": 5.0
+    },
+    {
+      "text": "able to and this is where we started to",
+      "start": 1938.36,
+      "duration": 4.64
+    },
+    {
+      "text": "think okay if this is really true then",
+      "start": 1941.039,
+      "duration": 3.76
+    },
+    {
+      "text": "how do we make it as sensitive as",
+      "start": 1943.0,
+      "duration": 3.72
+    },
+    {
+      "text": "possible and how do we control for",
+      "start": 1944.799,
+      "duration": 4.24
+    },
+    {
+      "text": "everything else that is also sensitive",
+      "start": 1946.72,
+      "duration": 4.04
+    },
+    {
+      "text": "too but it's not relevant for the",
+      "start": 1949.039,
+      "duration": 3.921
+    },
+    {
+      "text": "questions that we're trying to answer",
+      "start": 1950.76,
+      "duration": 3.879
+    },
+    {
+      "text": "that's where we started to put all of",
+      "start": 1952.96,
+      "duration": 4.28
+    },
+    {
+      "text": "this together and then as if I mentioned",
+      "start": 1954.639,
+      "duration": 4.0
+    },
+    {
+      "text": "okay but then how do we control for",
+      "start": 1957.24,
+      "duration": 3.72
+    },
+    {
+      "text": "differences in Behavior you know and",
+      "start": 1958.639,
+      "duration": 4.4
+    },
+    {
+      "text": "these responses also change across age",
+      "start": 1960.96,
+      "duration": 5.719
+    },
+    {
+      "text": "groups right cross axis so we also have",
+      "start": 1963.039,
+      "duration": 5.721
+    },
+    {
+      "text": "to balance our study to make sure we row",
+      "start": 1966.679,
+      "duration": 4.161
+    },
+    {
+      "text": "patients from all different ages and as",
+      "start": 1968.76,
+      "duration": 6.12
+    },
+    {
+      "text": "you know um distribution of long Co",
+      "start": 1970.84,
+      "duration": 6.04
+    },
+    {
+      "text": "population is not completely homogeneous",
+      "start": 1974.88,
+      "duration": 3.48
+    },
+    {
+      "text": "right there's",
+      "start": 1976.88,
+      "duration": 5.399
+    },
+    {
+      "text": "um it's it's harder to find um some",
+      "start": 1978.36,
+      "duration": 7.039
+    },
+    {
+      "text": "subpopulations to enroll and so a big",
+      "start": 1982.279,
+      "duration": 5.041
+    },
+    {
+      "text": "part of our studying other people that",
+      "start": 1985.399,
+      "duration": 3.361
+    },
+    {
+      "text": "really help in the study that are not",
+      "start": 1987.32,
+      "duration": 4.16
+    },
+    {
+      "text": "here in this podcast uh are helping a",
+      "start": 1988.76,
+      "duration": 5.48
+    },
+    {
+      "text": "lot with the recruitment so so our",
+      "start": 1991.48,
+      "duration": 5.0
+    },
+    {
+      "text": "research team was really yeah really",
+      "start": 1994.24,
+      "duration": 4.039
+    },
+    {
+      "text": "trying to push to make that work too so",
+      "start": 1996.48,
+      "duration": 4.439
+    },
+    {
+      "text": "I just like to acknowledge them here as",
+      "start": 1998.279,
+      "duration": 6.921
+    },
+    {
+      "text": "well yeah and um I think one you know",
+      "start": 2000.919,
+      "duration": 5.88
+    },
+    {
+      "text": "one of the chief frustrations with",
+      "start": 2005.2,
+      "duration": 4.4
+    },
+    {
+      "text": "people when they're unwell they go to",
+      "start": 2006.799,
+      "duration": 5.681
+    },
+    {
+      "text": "the doctor and they say I have these",
+      "start": 2009.6,
+      "duration": 6.36
+    },
+    {
+      "text": "symptoms this happened that happened and",
+      "start": 2012.48,
+      "duration": 6.28
+    },
+    {
+      "text": "the doctor says okay well we'll send you",
+      "start": 2015.96,
+      "duration": 4.4
+    },
+    {
+      "text": "for this blood test we'll send you for",
+      "start": 2018.76,
+      "duration": 4.56
+    },
+    {
+      "text": "this test some people get ECGs some",
+      "start": 2020.36,
+      "duration": 5.039
+    },
+    {
+      "text": "people get you know different scans on",
+      "start": 2023.32,
+      "duration": 6.68
+    },
+    {
+      "text": "certain areas and you know like 99% of",
+      "start": 2025.399,
+      "duration": 7.561
+    },
+    {
+      "text": "these people are coming back and their",
+      "start": 2030.0,
+      "duration": 6.48
+    },
+    {
+      "text": "tests are saying everything's fine and",
+      "start": 2032.96,
+      "duration": 6.0
+    },
+    {
+      "text": "you know these people are saying",
+      "start": 2036.48,
+      "duration": 5.84
+    },
+    {
+      "text": "well what is wrong with me then you know",
+      "start": 2038.96,
+      "duration": 4.88
+    },
+    {
+      "text": "you know in some ways that's great that",
+      "start": 2042.32,
+      "duration": 4.4
+    },
+    {
+      "text": "all my tests are fine but I can tell you",
+      "start": 2043.84,
+      "duration": 4.36
+    },
+    {
+      "text": "that there's something wrong with me",
+      "start": 2046.72,
+      "duration": 3.439
+    },
+    {
+      "text": "because I'm not supposed to be feeling",
+      "start": 2048.2,
+      "duration": 6.639
+    },
+    {
+      "text": "like this and I feel like the way that",
+      "start": 2050.159,
+      "duration": 8.361
+    },
+    {
+      "text": "you're doing this because",
+      "start": 2054.839,
+      "duration": 7.641
+    },
+    {
+      "text": "you're going to be doing it over time",
+      "start": 2058.52,
+      "duration": 6.68
+    },
+    {
+      "text": "over the 12 minutes I think he said",
+      "start": 2062.48,
+      "duration": 4.52
+    },
+    {
+      "text": "you're able to see the not only the",
+      "start": 2065.2,
+      "duration": 3.6
+    },
+    {
+      "text": "changes over over time but also the",
+      "start": 2067.0,
+      "duration": 6.2
+    },
+    {
+      "text": "changes over time while they're doing a",
+      "start": 2068.8,
+      "duration": 7.279
+    },
+    {
+      "text": "thing and that as you say is much more",
+      "start": 2073.2,
+      "duration": 4.719
+    },
+    {
+      "text": "likely to actually pick up something",
+      "start": 2076.079,
+      "duration": 4.441
+    },
+    {
+      "text": "because it's how the body is or the",
+      "start": 2077.919,
+      "duration": 3.561
+    },
+    {
+      "text": "brain is",
+      "start": 2080.52,
+      "duration": 3.359
+    },
+    {
+      "text": "reacting you know while it's doing",
+      "start": 2081.48,
+      "duration": 5.0
+    },
+    {
+      "text": "something rather than while you're lying",
+      "start": 2083.879,
+      "duration": 4.04
+    },
+    {
+      "text": "down while someone takes blood out of",
+      "start": 2086.48,
+      "duration": 3.879
+    },
+    {
+      "text": "your arm for example um at that point",
+      "start": 2087.919,
+      "duration": 5.24
+    },
+    {
+      "text": "you're you're not really doing anything",
+      "start": 2090.359,
+      "duration": 4.921
+    },
+    {
+      "text": "I find it hard when people talk about",
+      "start": 2093.159,
+      "duration": 4.881
+    },
+    {
+      "text": "blood tests and the test should be only",
+      "start": 2095.28,
+      "duration": 5.16
+    },
+    {
+      "text": "used to exclude conditions that were",
+      "start": 2098.04,
+      "duration": 6.039
+    },
+    {
+      "text": "very not to identify other on right if",
+      "start": 2100.44,
+      "duration": 5.6
+    },
+    {
+      "text": "someone of course has a complaints then",
+      "start": 2104.079,
+      "duration": 3.52
+    },
+    {
+      "text": "let's first check that it's not",
+      "start": 2106.04,
+      "duration": 3.96
+    },
+    {
+      "text": "everything we know about and doesn't",
+      "start": 2107.599,
+      "duration": 4.0
+    },
+    {
+      "text": "mean that the person doesn't have a",
+      "start": 2110.0,
+      "duration": 4.28
+    },
+    {
+      "text": "symptom or this line it means okay for",
+      "start": 2111.599,
+      "duration": 5.52
+    },
+    {
+      "text": "for the things that we are familiar with",
+      "start": 2114.28,
+      "duration": 4.52
+    },
+    {
+      "text": "that's not what this person has that's",
+      "start": 2117.119,
+      "duration": 3.601
+    },
+    {
+      "text": "where the conversation should even start",
+      "start": 2118.8,
+      "duration": 6.2
+    },
+    {
+      "text": "right and so trying to identify ways uh",
+      "start": 2120.72,
+      "duration": 7.0
+    },
+    {
+      "text": "where where to look if it's not this",
+      "start": 2125.0,
+      "duration": 4.359
+    },
+    {
+      "text": "blood test if it's not that then where",
+      "start": 2127.72,
+      "duration": 3.96
+    },
+    {
+      "text": "do we look which areas do we look once",
+      "start": 2129.359,
+      "duration": 4.0
+    },
+    {
+      "text": "we know where to look then we can start",
+      "start": 2131.68,
+      "duration": 3.52
+    },
+    {
+      "text": "asking more interesting questions right",
+      "start": 2133.359,
+      "duration": 4.561
+    },
+    {
+      "text": "but first we need to know how and where",
+      "start": 2135.2,
+      "duration": 3.76
+    },
+    {
+      "text": "we",
+      "start": 2137.92,
+      "duration": 4.4
+    },
+    {
+      "text": "look exactly like and chronic fatigue or",
+      "start": 2138.96,
+      "duration": 7.2
+    },
+    {
+      "text": "like of symptoms very difficult to to",
+      "start": 2142.32,
+      "duration": 7.2
+    },
+    {
+      "text": "diagnose with something concrete for",
+      "start": 2146.16,
+      "duration": 6.88
+    },
+    {
+      "text": "from a medical point of view and the",
+      "start": 2149.52,
+      "duration": 6.28
+    },
+    {
+      "text": "variance probably between anyone who",
+      "start": 2153.04,
+      "duration": 5.16
+    },
+    {
+      "text": "experien such symptoms",
+      "start": 2155.8,
+      "duration": 6.48
+    },
+    {
+      "text": "um is also gigantic so I guess there's a",
+      "start": 2158.2,
+      "duration": 6.48
+    },
+    {
+      "text": "room to Improvement room to better",
+      "start": 2162.28,
+      "duration": 5.0
+    },
+    {
+      "text": "understand the underlying of such such",
+      "start": 2164.68,
+      "duration": 5.0
+    },
+    {
+      "text": "symptoms and this is exactly the goal of",
+      "start": 2167.28,
+      "duration": 3.2
+    },
+    {
+      "text": "this",
+      "start": 2169.68,
+      "duration": 5.399
+    },
+    {
+      "text": "study let's try to see in um while",
+      "start": 2170.48,
+      "duration": 7.72
+    },
+    {
+      "text": "people are uh conducting some particular",
+      "start": 2175.079,
+      "duration": 8.52
+    },
+    {
+      "text": "task how the brain responds um to it and",
+      "start": 2178.2,
+      "duration": 8.32
+    },
+    {
+      "text": "is and what might be underlying it is it",
+      "start": 2183.599,
+      "duration": 6.121
+    },
+    {
+      "text": "neural is it LO is it General",
+      "start": 2186.52,
+      "duration": 6.12
+    },
+    {
+      "text": "physiological vascular response that is",
+      "start": 2189.72,
+      "duration": 6.48
+    },
+    {
+      "text": "failing here and and my my may cause",
+      "start": 2192.64,
+      "duration": 7.16
+    },
+    {
+      "text": "this uh this fatigue effect like to our",
+      "start": 2196.2,
+      "duration": 6.8
+    },
+    {
+      "text": "knowledge there so little is known um",
+      "start": 2199.8,
+      "duration": 6.44
+    },
+    {
+      "text": "and since the disease is genuinely new",
+      "start": 2203.0,
+      "duration": 7.0
+    },
+    {
+      "text": "that that also adds to uh it's um bigger",
+      "start": 2206.24,
+      "duration": 7.52
+    },
+    {
+      "text": "significance of of studying such such a",
+      "start": 2210.0,
+      "duration": 6.0
+    },
+    {
+      "text": "project yeah and you you mentioned",
+      "start": 2213.76,
+      "duration": 4.8
+    },
+    {
+      "text": "chronic fatigue just then and this this",
+      "start": 2216.0,
+      "duration": 5.64
+    },
+    {
+      "text": "interests me as well because as you say",
+      "start": 2218.56,
+      "duration": 6.72
+    },
+    {
+      "text": "long Co is relatively new you know it's",
+      "start": 2221.64,
+      "duration": 6.04
+    },
+    {
+      "text": "from this new virus that has actually",
+      "start": 2225.28,
+      "duration": 5.319
+    },
+    {
+      "text": "been around for probably four years now",
+      "start": 2227.68,
+      "duration": 4.8
+    },
+    {
+      "text": "um but you know I think in in terms of",
+      "start": 2230.599,
+      "duration": 3.72
+    },
+    {
+      "text": "science and medicine four years is quite",
+      "start": 2232.48,
+      "duration": 6.879
+    },
+    {
+      "text": "new um but like chronic fatigue me",
+      "start": 2234.319,
+      "duration": 8.361
+    },
+    {
+      "text": "they've been around for a very long time",
+      "start": 2239.359,
+      "duration": 6.801
+    },
+    {
+      "text": "and is there nothing in this sort of",
+      "start": 2242.68,
+      "duration": 5.24
+    },
+    {
+      "text": "area that has been done for put either",
+      "start": 2246.16,
+      "duration": 3.48
+    },
+    {
+      "text": "of those conditions",
+      "start": 2247.92,
+      "duration": 6.199
+    },
+    {
+      "text": "either well for medical diagnosis um and",
+      "start": 2249.64,
+      "duration": 7.84
+    },
+    {
+      "text": "treatment um definitely I'm not",
+      "start": 2254.119,
+      "duration": 5.96
+    },
+    {
+      "text": "expertise enough uh to",
+      "start": 2257.48,
+      "duration": 4.119
+    },
+    {
+      "text": "say",
+      "start": 2260.079,
+      "duration": 5.681
+    },
+    {
+      "text": "but I I would say that it's there still",
+      "start": 2261.599,
+      "duration": 7.081
+    },
+    {
+      "text": "studies need to be conducted because um",
+      "start": 2265.76,
+      "duration": 4.52
+    },
+    {
+      "text": "it's not that well",
+      "start": 2268.68,
+      "duration": 5.32
+    },
+    {
+      "text": "understood yeah I think some of the some",
+      "start": 2270.28,
+      "duration": 5.96
+    },
+    {
+      "text": "of the the tasks even the color word",
+      "start": 2274.0,
+      "duration": 4.16
+    },
+    {
+      "text": "matching task I think was is in a study",
+      "start": 2276.24,
+      "duration": 4.96
+    },
+    {
+      "text": "of chronic fatigue as well I don't think",
+      "start": 2278.16,
+      "duration": 5.159
+    },
+    {
+      "text": "though that trying to put all these",
+      "start": 2281.2,
+      "duration": 3.879
+    },
+    {
+      "text": "ideas together in the way that we're",
+      "start": 2283.319,
+      "duration": 4.841
+    },
+    {
+      "text": "doing has been done before and maybe I",
+      "start": 2285.079,
+      "duration": 4.321
+    },
+    {
+      "text": "don't know if we're doing the right",
+      "start": 2288.16,
+      "duration": 3.0
+    },
+    {
+      "text": "thing or not but we're trying to",
+      "start": 2289.4,
+      "duration": 3.719
+    },
+    {
+      "text": "capitalize on the expertise we already",
+      "start": 2291.16,
+      "duration": 4.04
+    },
+    {
+      "text": "had in the labs that we're working at",
+      "start": 2293.119,
+      "duration": 4.881
+    },
+    {
+      "text": "right so some of these ideas are have",
+      "start": 2295.2,
+      "duration": 4.84
+    },
+    {
+      "text": "already been used in healthy populations",
+      "start": 2298.0,
+      "duration": 4.28
+    },
+    {
+      "text": "and developed for that and this very",
+      "start": 2300.04,
+      "duration": 4.48
+    },
+    {
+      "text": "high resolution high quality Imaging",
+      "start": 2302.28,
+      "duration": 4.96
+    },
+    {
+      "text": "with with the equipments is uh one of",
+      "start": 2304.52,
+      "duration": 5.24
+    },
+    {
+      "text": "the Labs that are working is a lab in",
+      "start": 2307.24,
+      "duration": 4.52
+    },
+    {
+      "text": "physics and instrumentation so it's",
+      "start": 2309.76,
+      "duration": 4.599
+    },
+    {
+      "text": "really trying to get the images to to",
+      "start": 2311.76,
+      "duration": 5.44
+    },
+    {
+      "text": "the best possible or make the best use",
+      "start": 2314.359,
+      "duration": 4.281
+    },
+    {
+      "text": "of the machine and the technology as we",
+      "start": 2317.2,
+      "duration": 4.32
+    },
+    {
+      "text": "know today and and so it's really",
+      "start": 2318.64,
+      "duration": 4.76
+    },
+    {
+      "text": "combining these ideas from our mentors",
+      "start": 2321.52,
+      "duration": 4.48
+    },
+    {
+      "text": "and trying to build a comprehensive",
+      "start": 2323.4,
+      "duration": 4.64
+    },
+    {
+      "text": "protocol that we would have used for",
+      "start": 2326.0,
+      "duration": 3.599
+    },
+    {
+      "text": "interesting research questions in a",
+      "start": 2328.04,
+      "duration": 4.68
+    },
+    {
+      "text": "healthy population anyway but extend",
+      "start": 2329.599,
+      "duration": 5.441
+    },
+    {
+      "text": "this to try and understand fatigue",
+      "start": 2332.72,
+      "duration": 6.76
+    },
+    {
+      "text": "arousal and and within the context of",
+      "start": 2335.04,
+      "duration": 6.6
+    },
+    {
+      "text": "you know also sleep right because",
+      "start": 2339.48,
+      "duration": 5.4
+    },
+    {
+      "text": "fatigue being related to rouso and so",
+      "start": 2341.64,
+      "duration": 5.719
+    },
+    {
+      "text": "that's why yeah our Mentor Lura is also",
+      "start": 2344.88,
+      "duration": 4.12
+    },
+    {
+      "text": "interested and extremely supportive of",
+      "start": 2347.359,
+      "duration": 4.201
+    },
+    {
+      "text": "this study for for these reasons",
+      "start": 2349.0,
+      "duration": 5.0
+    },
+    {
+      "text": "described yeah and like he said earlier",
+      "start": 2351.56,
+      "duration": 4.92
+    },
+    {
+      "text": "you know this this is a study it's kind",
+      "start": 2354.0,
+      "duration": 4.96
+    },
+    {
+      "text": "of the first and a line I suppose isn't",
+      "start": 2356.48,
+      "duration": 4.639
+    },
+    {
+      "text": "it you know you do one study and then",
+      "start": 2358.96,
+      "duration": 5.359
+    },
+    {
+      "text": "that leads you to another and another so",
+      "start": 2361.119,
+      "duration": 5.0
+    },
+    {
+      "text": "you you kind of have to start somewhere",
+      "start": 2364.319,
+      "duration": 4.641
+    },
+    {
+      "text": "don't you and some of the answers you",
+      "start": 2366.119,
+      "duration": 5.521
+    },
+    {
+      "text": "get may not be the ones that you want or",
+      "start": 2368.96,
+      "duration": 5.6
+    },
+    {
+      "text": "expect but that's still useful I think",
+      "start": 2371.64,
+      "duration": 5.88
+    },
+    {
+      "text": "isn't it because you don't know the",
+      "start": 2374.56,
+      "duration": 5.68
+    },
+    {
+      "text": "answer if you don't ask the question I",
+      "start": 2377.52,
+      "duration": 5.799
+    },
+    {
+      "text": "suppose and also as we go we try to",
+      "start": 2380.24,
+      "duration": 4.4
+    },
+    {
+      "text": "collaborate and talk to other",
+      "start": 2383.319,
+      "duration": 3.76
+    },
+    {
+      "text": "researchers in the long Co space our",
+      "start": 2384.64,
+      "duration": 4.36
+    },
+    {
+      "text": "stud is not the only one being conducted",
+      "start": 2387.079,
+      "duration": 3.881
+    },
+    {
+      "text": "at MJ at the massachusett general",
+      "start": 2389.0,
+      "duration": 4.4
+    },
+    {
+      "text": "hospital so it's try to learn from other",
+      "start": 2390.96,
+      "duration": 5.119
+    },
+    {
+      "text": "groups as well even from how they're",
+      "start": 2393.4,
+      "duration": 4.48
+    },
+    {
+      "text": "recruiting and and",
+      "start": 2396.079,
+      "duration": 5.201
+    },
+    {
+      "text": "you know scheduling and managing the",
+      "start": 2397.88,
+      "duration": 6.36
+    },
+    {
+      "text": "entire research setting but also what",
+      "start": 2401.28,
+      "duration": 4.68
+    },
+    {
+      "text": "ideas they have about what could",
+      "start": 2404.24,
+      "duration": 3.56
+    },
+    {
+      "text": "influence those images and what are they",
+      "start": 2405.96,
+      "duration": 4.0
+    },
+    {
+      "text": "trying to look at and what are the",
+      "start": 2407.8,
+      "duration": 4.279
+    },
+    {
+      "text": "things that we should keep in mind so we",
+      "start": 2409.96,
+      "duration": 4.0
+    },
+    {
+      "text": "learn a lot from from those other",
+      "start": 2412.079,
+      "duration": 5.321
+    },
+    {
+      "text": "studies too or interactions from yes",
+      "start": 2413.96,
+      "duration": 5.44
+    },
+    {
+      "text": "Boston Boston is amaz extremely",
+      "start": 2417.4,
+      "duration": 3.679
+    },
+    {
+      "text": "collaborative environment there's so",
+      "start": 2419.4,
+      "duration": 4.84
+    },
+    {
+      "text": "many universities here and amazing",
+      "start": 2421.079,
+      "duration": 7.121
+    },
+    {
+      "text": "scientists that that could contribute to",
+      "start": 2424.24,
+      "duration": 6.4
+    },
+    {
+      "text": "understanding um and this is the goal",
+      "start": 2428.2,
+      "duration": 4.08
+    },
+    {
+      "text": "like we're not competing here who will",
+      "start": 2430.64,
+      "duration": 5.24
+    },
+    {
+      "text": "be the first to discover anything we",
+      "start": 2432.28,
+      "duration": 5.68
+    },
+    {
+      "text": "really just want to understand it",
+      "start": 2435.88,
+      "duration": 5.84
+    },
+    {
+      "text": "better so are you still recruiting for",
+      "start": 2437.96,
+      "duration": 6.639
+    },
+    {
+      "text": "this study and how how do people sign up",
+      "start": 2441.72,
+      "duration": 4.92
+    },
+    {
+      "text": "is there a sort of criteria that people",
+      "start": 2444.599,
+      "duration": 5.081
+    },
+    {
+      "text": "have to fit um what's the process",
+      "start": 2446.64,
+      "duration": 5.76
+    },
+    {
+      "text": "here did you have a link for those who",
+      "start": 2449.68,
+      "duration": 6.28
+    },
+    {
+      "text": "are interested um because it's an MRI",
+      "start": 2452.4,
+      "duration": 7.24
+    },
+    {
+      "text": "study the first first um criteria for",
+      "start": 2455.96,
+      "duration": 6.08
+    },
+    {
+      "text": "enrollment is being MRI compatible as we",
+      "start": 2459.64,
+      "duration": 4.52
+    },
+    {
+      "text": "call so we cannot enroll anyone that has",
+      "start": 2462.04,
+      "duration": 5.88
+    },
+    {
+      "text": "any Metals in their body but in terms of",
+      "start": 2464.16,
+      "duration": 7.08
+    },
+    {
+      "text": "U Co itself we ask a couple of questions",
+      "start": 2467.92,
+      "duration": 6.24
+    },
+    {
+      "text": "related to fatigue to sleep",
+      "start": 2471.24,
+      "duration": 6.04
+    },
+    {
+      "text": "medication and um as long as they fit",
+      "start": 2474.16,
+      "duration": 5.439
+    },
+    {
+      "text": "this criteria we we're not enrolling",
+      "start": 2477.28,
+      "duration": 4.0
+    },
+    {
+      "text": "anyone who also has",
+      "start": 2479.599,
+      "duration": 4.201
+    },
+    {
+      "text": "substantial uh lung issues for example",
+      "start": 2481.28,
+      "duration": 3.76
+    },
+    {
+      "text": "or anything that could affect",
+      "start": 2483.8,
+      "duration": 3.6
+    },
+    {
+      "text": "respiration just because there'll be",
+      "start": 2485.04,
+      "duration": 5.48
+    },
+    {
+      "text": "really hard for us to compare but if if",
+      "start": 2487.4,
+      "duration": 6.439
+    },
+    {
+      "text": "anyone that has severe fatigue and",
+      "start": 2490.52,
+      "duration": 5.64
+    },
+    {
+      "text": "notices that this fatigue is in a way",
+      "start": 2493.839,
+      "duration": 4.52
+    },
+    {
+      "text": "mental if I can call it like that then",
+      "start": 2496.16,
+      "duration": 4.48
+    },
+    {
+      "text": "we're very interested in in having them",
+      "start": 2498.359,
+      "duration": 5.521
+    },
+    {
+      "text": "in participate in our study and with",
+      "start": 2500.64,
+      "duration": 6.36
+    },
+    {
+      "text": "that link yeah anyone within the you",
+      "start": 2503.88,
+      "duration": 5.88
+    },
+    {
+      "text": "know broader Boston area we offer",
+      "start": 2507.0,
+      "duration": 4.72
+    },
+    {
+      "text": "transportation for them to come and go",
+      "start": 2509.76,
+      "duration": 3.68
+    },
+    {
+      "text": "so we can pick them up at whatever time",
+      "start": 2511.72,
+      "duration": 4.119
+    },
+    {
+      "text": "is convenient for them and work around",
+      "start": 2513.44,
+      "duration": 4.56
+    },
+    {
+      "text": "their schedule as well",
+      "start": 2515.839,
+      "duration": 4.321
+    },
+    {
+      "text": "we are actively enrolling so if anyone",
+      "start": 2518.0,
+      "duration": 4.119
+    },
+    {
+      "text": "interested in participating you're more",
+      "start": 2520.16,
+      "duration": 4.76
+    },
+    {
+      "text": "than welcome to reach out yeah and I",
+      "start": 2522.119,
+      "duration": 4.521
+    },
+    {
+      "text": "will make sure that that link goes into",
+      "start": 2524.92,
+      "duration": 4.6
+    },
+    {
+      "text": "the show notes so if anyone is in the",
+      "start": 2526.64,
+      "duration": 5.959
+    },
+    {
+      "text": "right sort of area and interested then",
+      "start": 2529.52,
+      "duration": 4.64
+    },
+    {
+      "text": "go and check that out because this",
+      "start": 2532.599,
+      "duration": 5.201
+    },
+    {
+      "text": "sounds really interesting um and you",
+      "start": 2534.16,
+      "duration": 5.24
+    },
+    {
+      "text": "know the results from this I suppose for",
+      "start": 2537.8,
+      "duration": 4.12
+    },
+    {
+      "text": "anyone who doesn't live close enough to",
+      "start": 2539.4,
+      "duration": 5.0
+    },
+    {
+      "text": "actually participate um because I'm",
+      "start": 2541.92,
+      "duration": 3.6
+    },
+    {
+      "text": "thinking yeah that would be a little bit",
+      "start": 2544.4,
+      "duration": 3.56
+    },
+    {
+      "text": "of a trick for me um",
+      "start": 2545.52,
+      "duration": 4.16
+    },
+    {
+      "text": "then you know that's what we were saying",
+      "start": 2547.96,
+      "duration": 3.32
+    },
+    {
+      "text": "early wasn't it you know this is this is",
+      "start": 2549.68,
+      "duration": 4.8
+    },
+    {
+      "text": "the springboard for for more this the",
+      "start": 2551.28,
+      "duration": 6.6
+    },
+    {
+      "text": "the findings that you get from this will",
+      "start": 2554.48,
+      "duration": 6.639
+    },
+    {
+      "text": "be part of the wider jigsaw of long Co",
+      "start": 2557.88,
+      "duration": 6.04
+    },
+    {
+      "text": "that the world is is trying to solve I",
+      "start": 2561.119,
+      "duration": 6.48
+    },
+    {
+      "text": "suppose isn't it um and and speaking of",
+      "start": 2563.92,
+      "duration": 7.32
+    },
+    {
+      "text": "results what is your time frame for this",
+      "start": 2567.599,
+      "duration": 5.161
+    },
+    {
+      "text": "you know you said you're enrolling at",
+      "start": 2571.24,
+      "duration": 4.96
+    },
+    {
+      "text": "the moment and you know obviously need",
+      "start": 2572.76,
+      "duration": 6.2
+    },
+    {
+      "text": "to do the itself how long are you sort",
+      "start": 2576.2,
+      "duration": 5.28
+    },
+    {
+      "text": "of foreseeing that taking before you",
+      "start": 2578.96,
+      "duration": 4.76
+    },
+    {
+      "text": "know the study of is done and you you're",
+      "start": 2581.48,
+      "duration": 5.2
+    },
+    {
+      "text": "going to get results started um",
+      "start": 2583.72,
+      "duration": 6.92
+    },
+    {
+      "text": "collecting data in after piloting",
+      "start": 2586.68,
+      "duration": 7.679
+    },
+    {
+      "text": "everything around May of last year um",
+      "start": 2590.64,
+      "duration": 8.24
+    },
+    {
+      "text": "and we've scanned about 12 13 healthy",
+      "start": 2594.359,
+      "duration": 8.441
+    },
+    {
+      "text": "controls and 10 or 11 patients and we",
+      "start": 2598.88,
+      "duration": 5.76
+    },
+    {
+      "text": "want to increase that number to at least",
+      "start": 2602.8,
+      "duration": 4.88
+    },
+    {
+      "text": "30 of each and the scans the pace that",
+      "start": 2604.64,
+      "duration": 5.28
+    },
+    {
+      "text": "we can manage this SC is about once or",
+      "start": 2607.68,
+      "duration": 5.32
+    },
+    {
+      "text": "twice a week so we're looking hopefully",
+      "start": 2609.92,
+      "duration": 6.08
+    },
+    {
+      "text": "finishing the data collection by July",
+      "start": 2613.0,
+      "duration": 5.559
+    },
+    {
+      "text": "August and of course some of the results",
+      "start": 2616.0,
+      "duration": 4.88
+    },
+    {
+      "text": "come early as we look at the data but I",
+      "start": 2618.559,
+      "duration": 4.321
+    },
+    {
+      "text": "would imagine that the time frame for",
+      "start": 2620.88,
+      "duration": 4.56
+    },
+    {
+      "text": "conclusion of the study to be closing",
+      "start": 2622.88,
+      "duration": 5.6
+    },
+    {
+      "text": "mid 2025 to maybe end of",
+      "start": 2625.44,
+      "duration": 6.28
+    },
+    {
+      "text": "2025 realistically speaking that's but",
+      "start": 2628.48,
+      "duration": 5.28
+    },
+    {
+      "text": "unfortunately that's how sometimes how",
+      "start": 2631.72,
+      "duration": 5.8
+    },
+    {
+      "text": "long it takes yeah I think again I don't",
+      "start": 2633.76,
+      "duration": 5.96
+    },
+    {
+      "text": "have a research or a science background",
+      "start": 2637.52,
+      "duration": 5.16
+    },
+    {
+      "text": "and it was quite interesting for me",
+      "start": 2639.72,
+      "duration": 4.879
+    },
+    {
+      "text": "starting to speak to researchers like",
+      "start": 2642.68,
+      "duration": 5.08
+    },
+    {
+      "text": "yourself and to to understand the",
+      "start": 2644.599,
+      "duration": 6.76
+    },
+    {
+      "text": "process a bit more um and you know I was",
+      "start": 2647.76,
+      "duration": 4.88
+    },
+    {
+      "text": "actually still trying to get my head",
+      "start": 2651.359,
+      "duration": 2.72
+    },
+    {
+      "text": "around the fact that it's",
+      "start": 2652.64,
+      "duration": 3.959
+    },
+    {
+      "text": "2024 I every single time I've written",
+      "start": 2654.079,
+      "duration": 4.121
+    },
+    {
+      "text": "the date so far it's it's the 10th of",
+      "start": 2656.599,
+      "duration": 3.0
+    },
+    {
+      "text": "January I don't know when this episode",
+      "start": 2658.2,
+      "duration": 3.28
+    },
+    {
+      "text": "will air but um it's being recorded on",
+      "start": 2659.599,
+      "duration": 4.281
+    },
+    {
+      "text": "the 10th of January so for the last 10",
+      "start": 2661.48,
+      "duration": 5.24
+    },
+    {
+      "text": "days I have written 2023 every single",
+      "start": 2663.88,
+      "duration": 3.679
+    },
+    {
+      "text": "time",
+      "start": 2666.72,
+      "duration": 4.399
+    },
+    {
+      "text": "um but um a year and a half to two years",
+      "start": 2667.559,
+      "duration": 5.52
+    },
+    {
+      "text": "from now like it sounds like an awfully",
+      "start": 2671.119,
+      "duration": 5.041
+    },
+    {
+      "text": "long time but in the context of how long",
+      "start": 2673.079,
+      "duration": 5.841
+    },
+    {
+      "text": "research takes that's that's not that",
+      "start": 2676.16,
+      "duration": 5.08
+    },
+    {
+      "text": "long really is it it just you know to do",
+      "start": 2678.92,
+      "duration": 5.8
+    },
+    {
+      "text": "things correctly and to get data that is",
+      "start": 2681.24,
+      "duration": 6.16
+    },
+    {
+      "text": "useful it does take that long I think",
+      "start": 2684.72,
+      "duration": 4.76
+    },
+    {
+      "text": "doesn't it you know you would do it",
+      "start": 2687.4,
+      "duration": 3.88
+    },
+    {
+      "text": "quicker if you could",
+      "start": 2689.48,
+      "duration": 4.32
+    },
+    {
+      "text": "right I'm going try to operate as",
+      "start": 2691.28,
+      "duration": 6.319
+    },
+    {
+      "text": "accurately as we can and I I think I",
+      "start": 2693.8,
+      "duration": 5.759
+    },
+    {
+      "text": "mean we can't scan continuously because",
+      "start": 2697.599,
+      "duration": 3.641
+    },
+    {
+      "text": "there are other groups that also make",
+      "start": 2699.559,
+      "duration": 3.921
+    },
+    {
+      "text": "use of the equipment so that's one",
+      "start": 2701.24,
+      "duration": 5.68
+    },
+    {
+      "text": "limitation and the recruitment itself",
+      "start": 2703.48,
+      "duration": 5.48
+    },
+    {
+      "text": "and then the data analysis we could even",
+      "start": 2706.92,
+      "duration": 3.0
+    },
+    {
+      "text": "do it",
+      "start": 2708.96,
+      "duration": 4.08
+    },
+    {
+      "text": "quickly with an interpretation and",
+      "start": 2709.92,
+      "duration": 5.04
+    },
+    {
+      "text": "putting all these pieces together and of",
+      "start": 2713.04,
+      "duration": 4.16
+    },
+    {
+      "text": "course our time is also divided there's",
+      "start": 2714.96,
+      "duration": 3.68
+    },
+    {
+      "text": "some attention that has to be given to",
+      "start": 2717.2,
+      "duration": 3.56
+    },
+    {
+      "text": "other projects right we're in a lab",
+      "start": 2718.64,
+      "duration": 4.56
+    },
+    {
+      "text": "where we have graduate students as well",
+      "start": 2720.76,
+      "duration": 4.359
+    },
+    {
+      "text": "so there's a lot of other things that",
+      "start": 2723.2,
+      "duration": 5.72
+    },
+    {
+      "text": "take our time if we had an industry team",
+      "start": 2725.119,
+      "duration": 6.121
+    },
+    {
+      "text": "with 20 people working full time on this",
+      "start": 2728.92,
+      "duration": 3.72
+    },
+    {
+      "text": "maybe it would get answers within a",
+      "start": 2731.24,
+      "duration": 4.56
+    },
+    {
+      "text": "month or two but within the limits of",
+      "start": 2732.64,
+      "duration": 5.6
+    },
+    {
+      "text": "our let's say human resources that we",
+      "start": 2735.8,
+      "duration": 4.92
+    },
+    {
+      "text": "have to dedicate to it even if we commit",
+      "start": 2738.24,
+      "duration": 4.56
+    },
+    {
+      "text": "fulltime to it it just takes that long",
+      "start": 2740.72,
+      "duration": 5.76
+    },
+    {
+      "text": "to be able to look at all the data every",
+      "start": 2742.8,
+      "duration": 6.4
+    },
+    {
+      "text": "session we acquire not only the",
+      "start": 2746.48,
+      "duration": 4.92
+    },
+    {
+      "text": "behavioral data but there's all those",
+      "start": 2749.2,
+      "duration": 4.0
+    },
+    {
+      "text": "images that are generated so in these",
+      "start": 2751.4,
+      "duration": 3.159
+    },
+    {
+      "text": "videos we",
+      "start": 2753.2,
+      "duration": 5.68
+    },
+    {
+      "text": "generate about six 7,000 images per",
+      "start": 2754.559,
+      "duration": 6.56
+    },
+    {
+      "text": "session that we do considering all of",
+      "start": 2758.88,
+      "duration": 5.28
+    },
+    {
+      "text": "those and then we have to deal with you",
+      "start": 2761.119,
+      "duration": 5.601
+    },
+    {
+      "text": "know minor issues of motion and then",
+      "start": 2764.16,
+      "duration": 4.64
+    },
+    {
+      "text": "putting the images in place and",
+      "start": 2766.72,
+      "duration": 3.52
+    },
+    {
+      "text": "controlling that things are done",
+      "start": 2768.8,
+      "duration": 4.24
+    },
+    {
+      "text": "accurately we also monitor the",
+      "start": 2770.24,
+      "duration": 5.92
+    },
+    {
+      "text": "respiration by respiratory Bel we have a",
+      "start": 2773.04,
+      "duration": 6.079
+    },
+    {
+      "text": "post oximeter in the patient's fingers",
+      "start": 2776.16,
+      "duration": 4.88
+    },
+    {
+      "text": "we have a mask with which we monitor",
+      "start": 2779.119,
+      "duration": 4.681
+    },
+    {
+      "text": "expired CO2 and then all the data is",
+      "start": 2781.04,
+      "duration": 4.799
+    },
+    {
+      "text": "recorded in other computers so that also",
+      "start": 2783.8,
+      "duration": 4.08
+    },
+    {
+      "text": "has to be analyzed so for every session",
+      "start": 2785.839,
+      "duration": 2.801
+    },
+    {
+      "text": "we",
+      "start": 2787.88,
+      "duration": 3.08
+    },
+    {
+      "text": "collect just to give a rough estimate",
+      "start": 2788.64,
+      "duration": 6.32
+    },
+    {
+      "text": "maybe 40 to 50 gigabyt of data and so",
+      "start": 2790.96,
+      "duration": 5.399
+    },
+    {
+      "text": "when think about this Theory we're",
+      "start": 2794.96,
+      "duration": 3.04
+    },
+    {
+      "text": "dealing with terabytes of data that have",
+      "start": 2796.359,
+      "duration": 4.321
+    },
+    {
+      "text": "to be analyzed and transported and",
+      "start": 2798.0,
+      "duration": 5.16
+    },
+    {
+      "text": "cleaned and looked at one by one to make",
+      "start": 2800.68,
+      "duration": 4.8
+    },
+    {
+      "text": "sure that you know if the scanner breaks",
+      "start": 2803.16,
+      "duration": 4.679
+    },
+    {
+      "text": "down and there's something in the images",
+      "start": 2805.48,
+      "duration": 4.4
+    },
+    {
+      "text": "you know we have we cannot analyze that",
+      "start": 2807.839,
+      "duration": 4.28
+    },
+    {
+      "text": "we have to stop and look and then call",
+      "start": 2809.88,
+      "duration": 4.719
+    },
+    {
+      "text": "the team to come and figure out what's",
+      "start": 2812.119,
+      "duration": 4.401
+    },
+    {
+      "text": "going on the scanner and then the",
+      "start": 2814.599,
+      "duration": 4.841
+    },
+    {
+      "text": "scanner for a week and so there's",
+      "start": 2816.52,
+      "duration": 4.799
+    },
+    {
+      "text": "there's a lot of other little things",
+      "start": 2819.44,
+      "duration": 3.6
+    },
+    {
+      "text": "that just you know barriers in the way",
+      "start": 2821.319,
+      "duration": 5.24
+    },
+    {
+      "text": "for us to making those Jud of course as",
+      "start": 2823.04,
+      "duration": 6.76
+    },
+    {
+      "text": "we go we discover things too so some of",
+      "start": 2826.559,
+      "duration": 5.28
+    },
+    {
+      "text": "the data sets that we've collected for",
+      "start": 2829.8,
+      "duration": 4.759
+    },
+    {
+      "text": "the healthy population uh very",
+      "start": 2831.839,
+      "duration": 4.601
+    },
+    {
+      "text": "preliminary work we've already written",
+      "start": 2834.559,
+      "duration": 4.28
+    },
+    {
+      "text": "up and submitted to a conference this is",
+      "start": 2836.44,
+      "duration": 4.8
+    },
+    {
+      "text": "then unrelated to lco it's just showing",
+      "start": 2838.839,
+      "duration": 4.041
+    },
+    {
+      "text": "how we're using these methods and how",
+      "start": 2841.24,
+      "duration": 4.359
+    },
+    {
+      "text": "we're doing this assessment of neuronal",
+      "start": 2842.88,
+      "duration": 5.12
+    },
+    {
+      "text": "and physiological change",
+      "start": 2845.599,
+      "duration": 4.72
+    },
+    {
+      "text": "so some of this comes along as we go but",
+      "start": 2848.0,
+      "duration": 4.0
+    },
+    {
+      "text": "I think the complete picture including",
+      "start": 2850.319,
+      "duration": 4.121
+    },
+    {
+      "text": "the patient data I could foresee it",
+      "start": 2852.0,
+      "duration": 5.28
+    },
+    {
+      "text": "taking a little bit longer than what",
+      "start": 2854.44,
+      "duration": 5.2
+    },
+    {
+      "text": "I've liked to say",
+      "start": 2857.28,
+      "duration": 4.92
+    },
+    {
+      "text": "today well you guys are certainly going",
+      "start": 2859.64,
+      "duration": 5.12
+    },
+    {
+      "text": "to be busy over the next um couple of",
+      "start": 2862.2,
+      "duration": 5.52
+    },
+    {
+      "text": "years that's for sure and of course we",
+      "start": 2864.76,
+      "duration": 5.04
+    },
+    {
+      "text": "would love to share with you once uh we",
+      "start": 2867.72,
+      "duration": 4.399
+    },
+    {
+      "text": "will reach any results that will be",
+      "start": 2869.8,
+      "duration": 5.68
+    },
+    {
+      "text": "shown and we would love to share yeah no",
+      "start": 2872.119,
+      "duration": 5.081
+    },
+    {
+      "text": "I would absolutely love to have have you",
+      "start": 2875.48,
+      "duration": 3.76
+    },
+    {
+      "text": "guys back on um when you have things to",
+      "start": 2877.2,
+      "duration": 3.84
+    },
+    {
+      "text": "share about results and things that",
+      "start": 2879.24,
+      "duration": 5.119
+    },
+    {
+      "text": "would be awesome um well thank you so so",
+      "start": 2881.04,
+      "duration": 6.0
+    },
+    {
+      "text": "much for joining me this evening or this",
+      "start": 2884.359,
+      "duration": 5.801
+    },
+    {
+      "text": "afternoon I think for you um it's been",
+      "start": 2887.04,
+      "duration": 5.64
+    },
+    {
+      "text": "absolutely fascinating and I am so",
+      "start": 2890.16,
+      "duration": 4.919
+    },
+    {
+      "text": "excited to see what your results are",
+      "start": 2892.68,
+      "duration": 4.399
+    },
+    {
+      "text": "when you get them um so I will make sure",
+      "start": 2895.079,
+      "duration": 3.121
+    },
+    {
+      "text": "that all of the links that you've",
+      "start": 2897.079,
+      "duration": 2.881
+    },
+    {
+      "text": "mentioned go into the show notes so",
+      "start": 2898.2,
+      "duration": 4.56
+    },
+    {
+      "text": "there's a a sign up form and an email",
+      "start": 2899.96,
+      "duration": 4.76
+    },
+    {
+      "text": "address I think that if anyone wants to",
+      "start": 2902.76,
+      "duration": 5.0
+    },
+    {
+      "text": "get in touch and yeah",
+      "start": 2904.72,
+      "duration": 5.28
+    },
+    {
+      "text": "good luck with it all thank you thank",
+      "start": 2907.76,
+      "duration": 4.92
+    },
+    {
+      "text": "you so much and we like to thank of",
+      "start": 2910.0,
+      "duration": 4.599
+    },
+    {
+      "text": "course not only our team but also the",
+      "start": 2912.68,
+      "duration": 4.439
+    },
+    {
+      "text": "patients that you know volunteer their",
+      "start": 2914.599,
+      "duration": 5.401
+    },
+    {
+      "text": "time to come participate in this study",
+      "start": 2917.119,
+      "duration": 5.881
+    },
+    {
+      "text": "yeah definitely yeah thank you so much",
+      "start": 2920.0,
+      "duration": 5.2
+    },
+    {
+      "text": "to all of my guests and to you for",
+      "start": 2923.0,
+      "duration": 4.72
+    },
+    {
+      "text": "listening I hope you've enjoyed it or at",
+      "start": 2925.2,
+      "duration": 5.32
+    },
+    {
+      "text": "least found it useful the long Co",
+      "start": 2927.72,
+      "duration": 4.879
+    },
+    {
+      "text": "podcast is entirely self-produced and",
+      "start": 2930.52,
+      "duration": 5.599
+    },
+    {
+      "text": "self-funded I'm doing all of this myself",
+      "start": 2932.599,
+      "duration": 4.801
+    },
+    {
+      "text": "if you're able",
+      "start": 2936.119,
+      "duration": 3.361
+    },
+    {
+      "text": "please go to buy meac",
+      "start": 2937.4,
+      "duration": 5.28
+    },
+    {
+      "text": "coffee.com longid pod to help me cover",
+      "start": 2939.48,
+      "duration": 5.119
+    },
+    {
+      "text": "the costs of hosting the",
+      "start": 2942.68,
+      "duration": 4.0
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 2944.599,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of The Long podcast it's",
+      "start": 2946.68,
+      "duration": 4.2
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 2948.839,
+      "duration": 5.081
+    },
+    {
+      "text": "hosting things and you get in touch I'd",
+      "start": 2950.88,
+      "duration": 6.719
+    },
+    {
+      "text": "love to hear from you",
+      "start": 2953.92,
+      "duration": 3.679
+    }
+  ],
+  "metadata": {
+    "title": "119 - Daniel Gomez & Ewa Beldzik - MRI imaging study",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/b1hvRDe-DMc/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 119,
+    "title": "119 - Daniel Gomez & Ewa Beldzik - MRI imaging study",
+    "videoId": "b1hvRDe-DMc",
+    "lengthText": "49:23"
+  }
+}

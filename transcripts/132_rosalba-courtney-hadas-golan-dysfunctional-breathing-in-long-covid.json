@@ -1,0 +1,6343 @@
+{
+  "video_id": "N_BSvbZg_tE",
+  "language": "en",
+  "transcript": [
+    {
+      "text": "welcome to the long Co podcast with me",
+      "start": 0.28,
+      "duration": 3.559
+    },
+    {
+      "text": "Jackie",
+      "start": 2.96,
+      "duration": 3.52
+    },
+    {
+      "text": "Baxter I am really excited to bring you",
+      "start": 3.839,
+      "duration": 5.281
+    },
+    {
+      "text": "today's episode please do check out the",
+      "start": 6.48,
+      "duration": 4.48
+    },
+    {
+      "text": "links in the show notes where you can",
+      "start": 9.12,
+      "duration": 4.36
+    },
+    {
+      "text": "find the podcast website social media",
+      "start": 10.96,
+      "duration": 4.559
+    },
+    {
+      "text": "and support group as well as a link to",
+      "start": 13.48,
+      "duration": 4.639
+    },
+    {
+      "text": "buy me a coffee if you are able you",
+      "start": 15.519,
+      "duration": 4.121
+    },
+    {
+      "text": "should not rely on any medical",
+      "start": 18.119,
+      "duration": 3.281
+    },
+    {
+      "text": "information contained in this podcast",
+      "start": 19.64,
+      "duration": 4.12
+    },
+    {
+      "text": "and related materials in making medical",
+      "start": 21.4,
+      "duration": 5.199
+    },
+    {
+      "text": "health related or other decisions please",
+      "start": 23.76,
+      "duration": 5.0
+    },
+    {
+      "text": "do consult a doctor or other health",
+      "start": 26.599,
+      "duration": 3.721
+    },
+    {
+      "text": "professional",
+      "start": 28.76,
+      "duration": 3.76
+    },
+    {
+      "text": "I love to hear from you if you've got",
+      "start": 30.32,
+      "duration": 4.28
+    },
+    {
+      "text": "any suggestions or feedback or just want",
+      "start": 32.52,
+      "duration": 5.64
+    },
+    {
+      "text": "to say hey then please do get in touch I",
+      "start": 34.6,
+      "duration": 5.88
+    },
+    {
+      "text": "really hope you enjoy this episode so",
+      "start": 38.16,
+      "duration": 3.13
+    },
+    {
+      "text": "here we",
+      "start": 40.48,
+      "duration": 12.399
+    },
+    {
+      "text": "[Music]",
+      "start": 41.29,
+      "duration": 11.589
+    },
+    {
+      "text": "go hello and welcome to this episode of",
+      "start": 55.0,
+      "duration": 5.84
+    },
+    {
+      "text": "The Long Co podcast",
+      "start": 58.68,
+      "duration": 5.96
+    },
+    {
+      "text": "I am super excited today to be joined by",
+      "start": 60.84,
+      "duration": 8.36
+    },
+    {
+      "text": "Hadas Gan and Rosel bourney and we are",
+      "start": 64.64,
+      "duration": 7.96
+    },
+    {
+      "text": "here to talk about my favorite subject",
+      "start": 69.2,
+      "duration": 6.32
+    },
+    {
+      "text": "which is breathing um so these guys have",
+      "start": 72.6,
+      "duration": 5.6
+    },
+    {
+      "text": "just released a paper I think is that",
+      "start": 75.52,
+      "duration": 5.239
+    },
+    {
+      "text": "the correct word on basically how",
+      "start": 78.2,
+      "duration": 4.8
+    },
+    {
+      "text": "amazing breathing is um so we're going",
+      "start": 80.759,
+      "duration": 4.921
+    },
+    {
+      "text": "to talk a load about that and dive into",
+      "start": 83.0,
+      "duration": 5.2
+    },
+    {
+      "text": "all sorts of rabbit holes I'm sure um so",
+      "start": 85.68,
+      "duration": 4.96
+    },
+    {
+      "text": "a very warm welcome both of you you to",
+      "start": 88.2,
+      "duration": 3.959
+    },
+    {
+      "text": "the",
+      "start": 90.64,
+      "duration": 5.159
+    },
+    {
+      "text": "podcast thanks Jackie so to start with",
+      "start": 92.159,
+      "duration": 5.6
+    },
+    {
+      "text": "would you mind saying a little bit about",
+      "start": 95.799,
+      "duration": 4.6
+    },
+    {
+      "text": "yourselves and I guess what it is that",
+      "start": 97.759,
+      "duration": 6.72
+    },
+    {
+      "text": "you kind of do all right uh just to add",
+      "start": 100.399,
+      "duration": 6.72
+    },
+    {
+      "text": "to what you said about the paper there",
+      "start": 104.479,
+      "duration": 6.161
+    },
+    {
+      "text": "was a third author Jeremy wolfberg who",
+      "start": 107.119,
+      "duration": 6.0
+    },
+    {
+      "text": "was a graduate intern working with me at",
+      "start": 110.64,
+      "duration": 4.92
+    },
+    {
+      "text": "the time that I was doing the beginning",
+      "start": 113.119,
+      "duration": 5.04
+    },
+    {
+      "text": "of my work with long coov and so he",
+      "start": 115.56,
+      "duration": 4.519
+    },
+    {
+      "text": "helped with the measurements and the",
+      "start": 118.159,
+      "duration": 4.161
+    },
+    {
+      "text": "writing of the article and now he's",
+      "start": 120.079,
+      "duration": 5.121
+    },
+    {
+      "text": "doing other really important research as",
+      "start": 122.32,
+      "duration": 5.919
+    },
+    {
+      "text": "a PhD student at Mass General Hospital",
+      "start": 125.2,
+      "duration": 6.399
+    },
+    {
+      "text": "but not related to breathing anymore uh",
+      "start": 128.239,
+      "duration": 5.681
+    },
+    {
+      "text": "and introducing myself I'm a speech",
+      "start": 131.599,
+      "duration": 4.64
+    },
+    {
+      "text": "language pathologist or",
+      "start": 133.92,
+      "duration": 7.12
+    },
+    {
+      "text": "SLP and I specialize in Upper Airway or",
+      "start": 136.239,
+      "duration": 7.08
+    },
+    {
+      "text": "and kind of breathing and and voice",
+      "start": 141.04,
+      "duration": 6.52
+    },
+    {
+      "text": "disorders so medical slps like myself we",
+      "start": 143.319,
+      "duration": 6.241
+    },
+    {
+      "text": "treat disorders of the upper Airway",
+      "start": 147.56,
+      "duration": 5.319
+    },
+    {
+      "text": "meaning vocal chords related so you know",
+      "start": 149.56,
+      "duration": 5.08
+    },
+    {
+      "text": "horseness",
+      "start": 152.879,
+      "duration": 4.72
+    },
+    {
+      "text": "cough uh and vocal chord dysfunction",
+      "start": 154.64,
+      "duration": 5.08
+    },
+    {
+      "text": "which is a condition with many different",
+      "start": 157.599,
+      "duration": 4.801
+    },
+    {
+      "text": "names where kind of the people cannot",
+      "start": 159.72,
+      "duration": 4.599
+    },
+    {
+      "text": "breathe and the problem is in the valve",
+      "start": 162.4,
+      "duration": 3.8
+    },
+    {
+      "text": "kind of in the vocal cords they can't",
+      "start": 164.319,
+      "duration": 4.321
+    },
+    {
+      "text": "breathe in and I work in Boston",
+      "start": 166.2,
+      "duration": 4.24
+    },
+    {
+      "text": "University Medical Center in a",
+      "start": 168.64,
+      "duration": 4.16
+    },
+    {
+      "text": "department of autology or",
+      "start": 170.44,
+      "duration": 5.36
+    },
+    {
+      "text": "ENT and but my really interes in",
+      "start": 172.8,
+      "duration": 5.799
+    },
+    {
+      "text": "breathing started after my lifelong",
+      "start": 175.8,
+      "duration": 6.12
+    },
+    {
+      "text": "asthma was was healed with a Beto method",
+      "start": 178.599,
+      "duration": 5.401
+    },
+    {
+      "text": "and that was kind complete kind of",
+      "start": 181.92,
+      "duration": 5.12
+    },
+    {
+      "text": "lifechanging and after that I wanted to",
+      "start": 184.0,
+      "duration": 5.36
+    },
+    {
+      "text": "help others and spread the mission",
+      "start": 187.04,
+      "duration": 5.04
+    },
+    {
+      "text": "really spread the word uh I was so",
+      "start": 189.36,
+      "duration": 4.76
+    },
+    {
+      "text": "excited about that so I became a",
+      "start": 192.08,
+      "duration": 4.48
+    },
+    {
+      "text": "practitioner and then trainer and I",
+      "start": 194.12,
+      "duration": 5.44
+    },
+    {
+      "text": "developed courses for S Pathologists",
+      "start": 196.56,
+      "duration": 5.599
+    },
+    {
+      "text": "promoting the idea that they need to be",
+      "start": 199.56,
+      "duration": 5.12
+    },
+    {
+      "text": "trained in Dysfunctional breathing the",
+      "start": 202.159,
+      "duration": 4.8
+    },
+    {
+      "text": "whole system not only the upper Airway",
+      "start": 204.68,
+      "duration": 4.08
+    },
+    {
+      "text": "because it's common in our patients",
+      "start": 206.959,
+      "duration": 3.721
+    },
+    {
+      "text": "population",
+      "start": 208.76,
+      "duration": 4.88
+    },
+    {
+      "text": "but you know over the years as a bco",
+      "start": 210.68,
+      "duration": 4.839
+    },
+    {
+      "text": "practitioner and a clinician and a",
+      "start": 213.64,
+      "duration": 3.64
+    },
+    {
+      "text": "health professional I had some",
+      "start": 215.519,
+      "duration": 3.72
+    },
+    {
+      "text": "unanswered questions with",
+      "start": 217.28,
+      "duration": 4.92
+    },
+    {
+      "text": "bco and I felt like it's only one piece",
+      "start": 219.239,
+      "duration": 6.841
+    },
+    {
+      "text": "of the story and many patients might",
+      "start": 222.2,
+      "duration": 5.36
+    },
+    {
+      "text": "benefit from other",
+      "start": 226.08,
+      "duration": 4.28
+    },
+    {
+      "text": "approaches and when covid when the",
+      "start": 227.56,
+      "duration": 5.64
+    },
+    {
+      "text": "pandemic started I finally had the",
+      "start": 230.36,
+      "duration": 6.04
+    },
+    {
+      "text": "opportunity to get trained with r ala I",
+      "start": 233.2,
+      "duration": 6.759
+    },
+    {
+      "text": "guess that's my turn to talk now",
+      "start": 236.4,
+      "duration": 6.479
+    },
+    {
+      "text": "okay so I'm Ros Alba Courtney and my",
+      "start": 239.959,
+      "duration": 6.441
+    },
+    {
+      "text": "background is that I'm an osteopath also",
+      "start": 242.879,
+      "duration": 6.041
+    },
+    {
+      "text": "you know i' I've trained in other Allied",
+      "start": 246.4,
+      "duration": 7.28
+    },
+    {
+      "text": "Health um areas as well but when I was a",
+      "start": 248.92,
+      "duration": 6.679
+    },
+    {
+      "text": "long time ago probably more than 30",
+      "start": 253.68,
+      "duration": 4.48
+    },
+    {
+      "text": "years ago I know it was 30 years ago",
+      "start": 255.599,
+      "duration": 4.081
+    },
+    {
+      "text": "because it was when my second child was",
+      "start": 258.16,
+      "duration": 3.639
+    },
+    {
+      "text": "born and I took some time out of my",
+      "start": 259.68,
+      "duration": 4.72
+    },
+    {
+      "text": "practice and I decided to really focus",
+      "start": 261.799,
+      "duration": 5.721
+    },
+    {
+      "text": "on learning more about breathing and at",
+      "start": 264.4,
+      "duration": 5.04
+    },
+    {
+      "text": "that time the betco method had just come",
+      "start": 267.52,
+      "duration": 4.8
+    },
+    {
+      "text": "to a Australia so I got very involved",
+      "start": 269.44,
+      "duration": 5.36
+    },
+    {
+      "text": "with that and you know became",
+      "start": 272.32,
+      "duration": 4.28
+    },
+    {
+      "text": "chairperson of the association and",
+      "start": 274.8,
+      "duration": 4.28
+    },
+    {
+      "text": "traveled to Russia and met Beto and",
+      "start": 276.6,
+      "duration": 4.319
+    },
+    {
+      "text": "started training practitioners doing",
+      "start": 279.08,
+      "duration": 3.64
+    },
+    {
+      "text": "training courses with practitioners and",
+      "start": 280.919,
+      "duration": 4.081
+    },
+    {
+      "text": "working with patients but it was like",
+      "start": 282.72,
+      "duration": 4.36
+    },
+    {
+      "text": "similar to Hadas the more I learned the",
+      "start": 285.0,
+      "duration": 5.16
+    },
+    {
+      "text": "more questions I had and I ended up with",
+      "start": 287.08,
+      "duration": 5.24
+    },
+    {
+      "text": "more questions than answers so then some",
+      "start": 290.16,
+      "duration": 3.879
+    },
+    {
+      "text": "of the big questions were like how does",
+      "start": 292.32,
+      "duration": 4.159
+    },
+    {
+      "text": "breathing really heal do you know and",
+      "start": 294.039,
+      "duration": 4.561
+    },
+    {
+      "text": "what is dysfunctional breathing in the",
+      "start": 296.479,
+      "duration": 4.081
+    },
+    {
+      "text": "'90s there was a lot of controversy",
+      "start": 298.6,
+      "duration": 4.52
+    },
+    {
+      "text": "around what is hyperventilation is",
+      "start": 300.56,
+      "duration": 4.32
+    },
+    {
+      "text": "dysfunctional breathing hyperventilation",
+      "start": 303.12,
+      "duration": 4.919
+    },
+    {
+      "text": "or is it something else and um so I",
+      "start": 304.88,
+      "duration": 7.0
+    },
+    {
+      "text": "actually did a PhD which you know lasted",
+      "start": 308.039,
+      "duration": 7.281
+    },
+    {
+      "text": "for a good eight or nine years and that",
+      "start": 311.88,
+      "duration": 6.08
+    },
+    {
+      "text": "PhD was called dysfunctional breathing",
+      "start": 315.32,
+      "duration": 5.439
+    },
+    {
+      "text": "its parameters measurement and clinical",
+      "start": 317.96,
+      "duration": 5.519
+    },
+    {
+      "text": "relevance and out of that I developed",
+      "start": 320.759,
+      "duration": 4.801
+    },
+    {
+      "text": "some models for assessing and treating",
+      "start": 323.479,
+      "duration": 4.401
+    },
+    {
+      "text": "and thinking about breathing disorders",
+      "start": 325.56,
+      "duration": 4.759
+    },
+    {
+      "text": "and breathing therapy and that became",
+      "start": 327.88,
+      "duration": 6.08
+    },
+    {
+      "text": "integrative breathing therapy and so",
+      "start": 330.319,
+      "duration": 5.281
+    },
+    {
+      "text": "yeah when the pandemic came I'd been",
+      "start": 333.96,
+      "duration": 4.4
+    },
+    {
+      "text": "teaching people just where I was um in",
+      "start": 335.6,
+      "duration": 4.76
+    },
+    {
+      "text": "Australia or traveling and doing some",
+      "start": 338.36,
+      "duration": 4.32
+    },
+    {
+      "text": "courses but when the pandemic came and I",
+      "start": 340.36,
+      "duration": 4.0
+    },
+    {
+      "text": "had bit of time out of work I actually",
+      "start": 342.68,
+      "duration": 3.12
+    },
+    {
+      "text": "developed a practition in a training",
+      "start": 344.36,
+      "duration": 4.119
+    },
+    {
+      "text": "course that ran over about six months",
+      "start": 345.8,
+      "duration": 6.28
+    },
+    {
+      "text": "and hadass was um you know in that first",
+      "start": 348.479,
+      "duration": 4.881
+    },
+    {
+      "text": "cohort",
+      "start": 352.08,
+      "duration": 3.839
+    },
+    {
+      "text": "and you know she's an amazing breathing",
+      "start": 353.36,
+      "duration": 4.0
+    },
+    {
+      "text": "practitioner in her own right didn't",
+      "start": 355.919,
+      "duration": 4.161
+    },
+    {
+      "text": "really need me at all but anyway it was",
+      "start": 357.36,
+      "duration": 4.559
+    },
+    {
+      "text": "really great and you know that's where",
+      "start": 360.08,
+      "duration": 5.44
+    },
+    {
+      "text": "our collaboration started and um hadass",
+      "start": 361.919,
+      "duration": 5.961
+    },
+    {
+      "text": "has done amazing work with long covid we",
+      "start": 365.52,
+      "duration": 4.72
+    },
+    {
+      "text": "both got very interested in long covid I",
+      "start": 367.88,
+      "duration": 4.08
+    },
+    {
+      "text": "got very interested in the research and",
+      "start": 370.24,
+      "duration": 3.84
+    },
+    {
+      "text": "looking at what is disordered breathing",
+      "start": 371.96,
+      "duration": 4.799
+    },
+    {
+      "text": "in Long covid how does it affect people",
+      "start": 374.08,
+      "duration": 5.28
+    },
+    {
+      "text": "what what's likely to be you know the",
+      "start": 376.759,
+      "duration": 5.44
+    },
+    {
+      "text": "most useful approach because the whole",
+      "start": 379.36,
+      "duration": 5.6
+    },
+    {
+      "text": "um IBT model is that you know the",
+      "start": 382.199,
+      "duration": 4.56
+    },
+    {
+      "text": "treatment's never about the technique",
+      "start": 384.96,
+      "duration": 3.28
+    },
+    {
+      "text": "it's never about the technique which I'm",
+      "start": 386.759,
+      "duration": 3.761
+    },
+    {
+      "text": "sure you would agree Jackie it's really",
+      "start": 388.24,
+      "duration": 4.399
+    },
+    {
+      "text": "about you know what's going to work for",
+      "start": 390.52,
+      "duration": 5.16
+    },
+    {
+      "text": "this person how do we solve this problem",
+      "start": 392.639,
+      "duration": 6.28
+    },
+    {
+      "text": "and how you solve the problem has to do",
+      "start": 395.68,
+      "duration": 5.639
+    },
+    {
+      "text": "with understanding you know the",
+      "start": 398.919,
+      "duration": 5.361
+    },
+    {
+      "text": "pathophysiology of the condition what",
+      "start": 401.319,
+      "duration": 4.561
+    },
+    {
+      "text": "the different ways that breathing is",
+      "start": 404.28,
+      "duration": 3.84
+    },
+    {
+      "text": "impacted how potentially could you best",
+      "start": 405.88,
+      "duration": 6.159
+    },
+    {
+      "text": "work with breathing to you know impact",
+      "start": 408.12,
+      "duration": 6.04
+    },
+    {
+      "text": "that particular problem that you've got",
+      "start": 412.039,
+      "duration": 3.72
+    },
+    {
+      "text": "and how do you adapt what you're doing",
+      "start": 414.16,
+      "duration": 5.52
+    },
+    {
+      "text": "for for the patient so Hadas really took",
+      "start": 415.759,
+      "duration": 5.681
+    },
+    {
+      "text": "that into her she was seeing a lot of",
+      "start": 419.68,
+      "duration": 4.799
+    },
+    {
+      "text": "long covid patients and um she really",
+      "start": 421.44,
+      "duration": 5.08
+    },
+    {
+      "text": "took that integrative breathing therapy",
+      "start": 424.479,
+      "duration": 4.0
+    },
+    {
+      "text": "model which is a very structured",
+      "start": 426.52,
+      "duration": 4.32
+    },
+    {
+      "text": "assessment which Hadas I'm sure we'll",
+      "start": 428.479,
+      "duration": 4.16
+    },
+    {
+      "text": "talk about a bit more it's a very",
+      "start": 430.84,
+      "duration": 3.44
+    },
+    {
+      "text": "structured assessment and then there's a",
+      "start": 432.639,
+      "duration": 4.721
+    },
+    {
+      "text": "protocol that moves through the unified",
+      "start": 434.28,
+      "duration": 5.08
+    },
+    {
+      "text": "breathing system is one of the ideas you",
+      "start": 437.36,
+      "duration": 5.279
+    },
+    {
+      "text": "know that the nose the upper Airway the",
+      "start": 439.36,
+      "duration": 6.92
+    },
+    {
+      "text": "lungs they're all connected and she she",
+      "start": 442.639,
+      "duration": 5.881
+    },
+    {
+      "text": "developed a protocol or delivered the",
+      "start": 446.28,
+      "duration": 4.84
+    },
+    {
+      "text": "protocol um which moved through all the",
+      "start": 448.52,
+      "duration": 4.079
+    },
+    {
+      "text": "different systems that worked with all",
+      "start": 451.12,
+      "duration": 3.639
+    },
+    {
+      "text": "the dimensions of breathing as well",
+      "start": 452.599,
+      "duration": 3.921
+    },
+    {
+      "text": "that's the other idea in integrative",
+      "start": 454.759,
+      "duration": 4.041
+    },
+    {
+      "text": "breathing therapy that breathing is",
+      "start": 456.52,
+      "duration": 4.28
+    },
+    {
+      "text": "multi-dimensional that it's got a",
+      "start": 458.8,
+      "duration": 4.119
+    },
+    {
+      "text": "biomechanical meaning like the muscles",
+      "start": 460.8,
+      "duration": 4.399
+    },
+    {
+      "text": "and the movement and the patterns of",
+      "start": 462.919,
+      "duration": 5.201
+    },
+    {
+      "text": "breathing um and a biochemical which is",
+      "start": 465.199,
+      "duration": 5.761
+    },
+    {
+      "text": "about oxygen carbon dioxide pH and then",
+      "start": 468.12,
+      "duration": 3.56
+    },
+    {
+      "text": "a",
+      "start": 470.96,
+      "duration": 2.88
+    },
+    {
+      "text": "psychophysiological component which is",
+      "start": 471.68,
+      "duration": 4.68
+    },
+    {
+      "text": "that Mind Body aspect of breathing",
+      "start": 473.84,
+      "duration": 4.6
+    },
+    {
+      "text": "anyway so that's a very long",
+      "start": 476.36,
+      "duration": 4.119
+    },
+    {
+      "text": "introduction introducing intergr",
+      "start": 478.44,
+      "duration": 3.879
+    },
+    {
+      "text": "breathing therapy and",
+      "start": 480.479,
+      "duration": 4.761
+    },
+    {
+      "text": "myself amazing and I love what you're",
+      "start": 482.319,
+      "duration": 6.32
+    },
+    {
+      "text": "saying about it's not a one-size fits",
+      "start": 485.24,
+      "duration": 6.28
+    },
+    {
+      "text": "all and I think you know no two people",
+      "start": 488.639,
+      "duration": 5.84
+    },
+    {
+      "text": "are the same um you know nothing is ever",
+      "start": 491.52,
+      "duration": 5.56
+    },
+    {
+      "text": "a one-size fit all but certainly from",
+      "start": 494.479,
+      "duration": 4.601
+    },
+    {
+      "text": "what I've experienced with long covid",
+      "start": 497.08,
+      "duration": 4.16
+    },
+    {
+      "text": "and what I'm now seeing with the people",
+      "start": 499.08,
+      "duration": 5.72
+    },
+    {
+      "text": "that I'm working with is that you know",
+      "start": 501.24,
+      "duration": 5.44
+    },
+    {
+      "text": "people with long Co and I think this",
+      "start": 504.8,
+      "duration": 3.679
+    },
+    {
+      "text": "probably includes other chronic",
+      "start": 506.68,
+      "duration": 4.079
+    },
+    {
+      "text": "conditions such as me and and stuff that",
+      "start": 508.479,
+      "duration": 5.04
+    },
+    {
+      "text": "I have less personal experience with is",
+      "start": 510.759,
+      "duration": 4.481
+    },
+    {
+      "text": "that these these",
+      "start": 513.519,
+      "duration": 5.08
+    },
+    {
+      "text": "people they don't fit into the sort of",
+      "start": 515.24,
+      "duration": 6.919
+    },
+    {
+      "text": "traditional breathing models or if they",
+      "start": 518.599,
+      "duration": 7.041
+    },
+    {
+      "text": "do it's in a very special sort of",
+      "start": 522.159,
+      "duration": 7.081
+    },
+    {
+      "text": "careful gentle way and I think this is",
+      "start": 525.64,
+      "duration": 7.92
+    },
+    {
+      "text": "where you know the sort of adaption of",
+      "start": 529.24,
+      "duration": 8.08
+    },
+    {
+      "text": "existing stuff exercises protocols is",
+      "start": 533.56,
+      "duration": 6.12
+    },
+    {
+      "text": "important um and it's not to try and",
+      "start": 537.32,
+      "duration": 4.519
+    },
+    {
+      "text": "sort of stuff them into the asthma",
+      "start": 539.68,
+      "duration": 3.719
+    },
+    {
+      "text": "category or",
+      "start": 541.839,
+      "duration": 5.521
+    },
+    {
+      "text": "the um whatever other you know um",
+      "start": 543.399,
+      "duration": 6.44
+    },
+    {
+      "text": "conditions um that that you sort of",
+      "start": 547.36,
+      "duration": 5.24
+    },
+    {
+      "text": "traditionally see and this is really",
+      "start": 549.839,
+      "duration": 4.721
+    },
+    {
+      "text": "interesting to me as well because this",
+      "start": 552.6,
+      "duration": 4.96
+    },
+    {
+      "text": "is kind of what I've been doing maybe",
+      "start": 554.56,
+      "duration": 6.16
+    },
+    {
+      "text": "before we dive too deep into that bit we",
+      "start": 557.56,
+      "duration": 4.68
+    },
+    {
+      "text": "should do a kind",
+      "start": 560.72,
+      "duration": 4.88
+    },
+    {
+      "text": "of what is dysfunctional breathing and I",
+      "start": 562.24,
+      "duration": 4.48
+    },
+    {
+      "text": "know you know you've just kind of",
+      "start": 565.6,
+      "duration": 2.96
+    },
+    {
+      "text": "alluded to the fact that this isn't",
+      "start": 566.72,
+      "duration": 5.32
+    },
+    {
+      "text": "really just what things um but um May",
+      "start": 568.56,
+      "duration": 5.24
+    },
+    {
+      "text": "maybe a kind of overview of that would",
+      "start": 572.04,
+      "duration": 2.76
+    },
+    {
+      "text": "be really",
+      "start": 573.8,
+      "duration": 3.88
+    },
+    {
+      "text": "helpful so it's interesting because in",
+      "start": 574.8,
+      "duration": 4.44
+    },
+    {
+      "text": "recent years people have been starting",
+      "start": 577.68,
+      "duration": 4.719
+    },
+    {
+      "text": "to interchangeably use the terms",
+      "start": 579.24,
+      "duration": 5.159
+    },
+    {
+      "text": "dysfunctional breathing and breathing",
+      "start": 582.399,
+      "duration": 4.161
+    },
+    {
+      "text": "pattern disorder you might hear that",
+      "start": 584.399,
+      "duration": 4.601
+    },
+    {
+      "text": "term more in the UK they're using that",
+      "start": 586.56,
+      "duration": 5.64
+    },
+    {
+      "text": "term breathing patent disorder a lot but",
+      "start": 589.0,
+      "duration": 4.959
+    },
+    {
+      "text": "the in the literature you'll find the",
+      "start": 592.2,
+      "duration": 6.12
+    },
+    {
+      "text": "term dysfunctional breathing and so from",
+      "start": 593.959,
+      "duration": 7.401
+    },
+    {
+      "text": "a Beto perspective Ive you know",
+      "start": 598.32,
+      "duration": 4.48
+    },
+    {
+      "text": "dysfunctional breathing is always",
+      "start": 601.36,
+      "duration": 3.84
+    },
+    {
+      "text": "hyperventilation it's always you know",
+      "start": 602.8,
+      "duration": 5.12
+    },
+    {
+      "text": "breathing out more carbon dioxide then",
+      "start": 605.2,
+      "duration": 4.079
+    },
+    {
+      "text": "your body",
+      "start": 607.92,
+      "duration": 3.64
+    },
+    {
+      "text": "makes you know they're two Dimensions so",
+      "start": 609.279,
+      "duration": 3.961
+    },
+    {
+      "text": "a breathing patent disorder would be one",
+      "start": 611.56,
+      "duration": 3.88
+    },
+    {
+      "text": "dimension of dysfunctional breathing a",
+      "start": 613.24,
+      "duration": 4.64
+    },
+    {
+      "text": "hyperventilation would be another but",
+      "start": 615.44,
+      "duration": 4.0
+    },
+    {
+      "text": "then there's this other dimension of",
+      "start": 617.88,
+      "duration": 3.199
+    },
+    {
+      "text": "dysfunctional breathing which is just",
+      "start": 619.44,
+      "duration": 5.32
+    },
+    {
+      "text": "when the person is not accurately",
+      "start": 621.079,
+      "duration": 5.44
+    },
+    {
+      "text": "perceiving their breathing so they're",
+      "start": 624.76,
+      "duration": 3.56
+    },
+    {
+      "text": "over perceiving or under perceiving",
+      "start": 626.519,
+      "duration": 3.44
+    },
+    {
+      "text": "their breathing and and breathing has",
+      "start": 628.32,
+      "duration": 4.6
+    },
+    {
+      "text": "become a symptom it's become alert if",
+      "start": 629.959,
+      "duration": 5.601
+    },
+    {
+      "text": "you like symptom like pain becomes a",
+      "start": 632.92,
+      "duration": 4.76
+    },
+    {
+      "text": "symptom so there's something disordered",
+      "start": 635.56,
+      "duration": 4.04
+    },
+    {
+      "text": "in the perception so people are",
+      "start": 637.68,
+      "duration": 4.32
+    },
+    {
+      "text": "hypervigilant to breathing or they're",
+      "start": 639.6,
+      "duration": 4.6
+    },
+    {
+      "text": "just disconnected from breathing and",
+      "start": 642.0,
+      "duration": 4.519
+    },
+    {
+      "text": "their breathing is carrying messages of",
+      "start": 644.2,
+      "duration": 4.72
+    },
+    {
+      "text": "distress and unpleasantness and they",
+      "start": 646.519,
+      "duration": 5.521
+    },
+    {
+      "text": "can't access you know relaxed Pleasant",
+      "start": 648.92,
+      "duration": 5.68
+    },
+    {
+      "text": "breathing so that's kind of the three",
+      "start": 652.04,
+      "duration": 5.4
+    },
+    {
+      "text": "key Dimensions so dysfunctional",
+      "start": 654.6,
+      "duration": 5.32
+    },
+    {
+      "text": "breathing is breathing here's my",
+      "start": 657.44,
+      "duration": 4.24
+    },
+    {
+      "text": "breathing that doesn't fulfill its",
+      "start": 659.92,
+      "duration": 4.96
+    },
+    {
+      "text": "primary or secondary functions right the",
+      "start": 661.68,
+      "duration": 5.36
+    },
+    {
+      "text": "idea being that breathing has lots of",
+      "start": 664.88,
+      "duration": 3.92
+    },
+    {
+      "text": "functions in the body and those",
+      "start": 667.04,
+      "duration": 5.2
+    },
+    {
+      "text": "functions change depending on what you",
+      "start": 668.8,
+      "duration": 6.2
+    },
+    {
+      "text": "need the body to do right so you breathe",
+      "start": 672.24,
+      "duration": 4.48
+    },
+    {
+      "text": "differently if you're exercising the",
+      "start": 675.0,
+      "duration": 4.92
+    },
+    {
+      "text": "breathing pattern the CO2 the everything",
+      "start": 676.72,
+      "duration": 5.48
+    },
+    {
+      "text": "needs to change when you're exercising",
+      "start": 679.92,
+      "duration": 5.0
+    },
+    {
+      "text": "so the different functions of breathing",
+      "start": 682.2,
+      "duration": 5.68
+    },
+    {
+      "text": "are really much more than just moving",
+      "start": 684.92,
+      "duration": 5.12
+    },
+    {
+      "text": "air in and out of the lungs you know",
+      "start": 687.88,
+      "duration": 4.24
+    },
+    {
+      "text": "breathing functions as a rhythm as an",
+      "start": 690.04,
+      "duration": 4.76
+    },
+    {
+      "text": "oscillating pattern that interacts with",
+      "start": 692.12,
+      "duration": 5.68
+    },
+    {
+      "text": "lots of different systems in the body um",
+      "start": 694.8,
+      "duration": 5.24
+    },
+    {
+      "text": "breathing is talking to the heart it's",
+      "start": 697.8,
+      "duration": 4.92
+    },
+    {
+      "text": "helping to move Venus blood back to the",
+      "start": 700.04,
+      "duration": 5.239
+    },
+    {
+      "text": "heart it's you know it's very important",
+      "start": 702.72,
+      "duration": 5.84
+    },
+    {
+      "text": "for speech and vocalization it's it's",
+      "start": 705.279,
+      "duration": 7.36
+    },
+    {
+      "text": "important for a core stability and it's",
+      "start": 708.56,
+      "duration": 5.56
+    },
+    {
+      "text": "part of the movement system it's",
+      "start": 712.639,
+      "duration": 3.64
+    },
+    {
+      "text": "integrated with the movement system so",
+      "start": 714.12,
+      "duration": 4.32
+    },
+    {
+      "text": "you know it's like whenever breathing",
+      "start": 716.279,
+      "duration": 5.161
+    },
+    {
+      "text": "isn't fulfilling it functions well it's",
+      "start": 718.44,
+      "duration": 5.519
+    },
+    {
+      "text": "dysfunctional and it can show up in",
+      "start": 721.44,
+      "duration": 6.68
+    },
+    {
+      "text": "different ways so if you coming at it as",
+      "start": 723.959,
+      "duration": 6.241
+    },
+    {
+      "text": "from a clinician you know who has a",
+      "start": 728.12,
+      "duration": 4.88
+    },
+    {
+      "text": "clinical problem to solve you try to",
+      "start": 730.2,
+      "duration": 5.439
+    },
+    {
+      "text": "understand how the breathing arose from",
+      "start": 733.0,
+      "duration": 4.48
+    },
+    {
+      "text": "that condition and how it might be",
+      "start": 735.639,
+      "duration": 5.32
+    },
+    {
+      "text": "reinforcing that condition",
+      "start": 737.48,
+      "duration": 6.0
+    },
+    {
+      "text": "so dysfunctional breathing is breathing",
+      "start": 740.959,
+      "duration": 4.801
+    },
+    {
+      "text": "that doesn't have ears so it means it's",
+      "start": 743.48,
+      "duration": 5.24
+    },
+    {
+      "text": "not efficient adaptive appropriate",
+      "start": 745.76,
+      "duration": 4.28
+    },
+    {
+      "text": "response",
+      "start": 748.72,
+      "duration": 4.119
+    },
+    {
+      "text": "or supportive of body systems and I mean",
+      "start": 750.04,
+      "duration": 4.599
+    },
+    {
+      "text": "I hope that's not too complicated a",
+      "start": 752.839,
+      "duration": 3.881
+    },
+    {
+      "text": "definition but it's kind of to say it",
+      "start": 754.639,
+      "duration": 4.76
+    },
+    {
+      "text": "simply it's just breathing that isn't",
+      "start": 756.72,
+      "duration": 5.0
+    },
+    {
+      "text": "doing what breathing should do and it",
+      "start": 759.399,
+      "duration": 4.56
+    },
+    {
+      "text": "doesn't feel good you know it's leading",
+      "start": 761.72,
+      "duration": 5.2
+    },
+    {
+      "text": "to symptoms and it's reinforcing the",
+      "start": 763.959,
+      "duration": 4.401
+    },
+    {
+      "text": "person's",
+      "start": 766.92,
+      "duration": 4.279
+    },
+    {
+      "text": "condition yeah and like I think this",
+      "start": 768.36,
+      "duration": 5.88
+    },
+    {
+      "text": "this is amazing because me of four and a",
+      "start": 771.199,
+      "duration": 6.281
+    },
+    {
+      "text": "half years ago would have said breathing",
+      "start": 774.24,
+      "duration": 5.36
+    },
+    {
+      "text": "is just something you do you know",
+      "start": 777.48,
+      "duration": 4.28
+    },
+    {
+      "text": "there's no right or wrong way of",
+      "start": 779.6,
+      "duration": 5.919
+    },
+    {
+      "text": "breathing you either are or you aren't",
+      "start": 781.76,
+      "duration": 6.759
+    },
+    {
+      "text": "um and it's amazing how your perception",
+      "start": 785.519,
+      "duration": 6.801
+    },
+    {
+      "text": "of that can change as you discover it in",
+      "start": 788.519,
+      "duration": 6.12
+    },
+    {
+      "text": "whatever way that is for you for me it",
+      "start": 792.32,
+      "duration": 4.0
+    },
+    {
+      "text": "was through having experience of long",
+      "start": 794.639,
+      "duration": 3.721
+    },
+    {
+      "text": "covid and discovering that my breathing",
+      "start": 796.32,
+      "duration": 5.56
+    },
+    {
+      "text": "was dysfunctional and you know and now",
+      "start": 798.36,
+      "duration": 5.4
+    },
+    {
+      "text": "now kind of understanding that and it",
+      "start": 801.88,
+      "duration": 3.88
+    },
+    {
+      "text": "it's not just some like woo woo thing",
+      "start": 803.76,
+      "duration": 5.6
+    },
+    {
+      "text": "either it is literally everything in the",
+      "start": 805.76,
+      "duration": 6.0
+    },
+    {
+      "text": "body you know it affects every single",
+      "start": 809.36,
+      "duration": 6.12
+    },
+    {
+      "text": "part of your body it's not just anything",
+      "start": 811.76,
+      "duration": 5.519
+    },
+    {
+      "text": "um and you know it really is that kind",
+      "start": 815.48,
+      "duration": 6.64
+    },
+    {
+      "text": "of incredible power of it anyway um yeah",
+      "start": 817.279,
+      "duration": 6.721
+    },
+    {
+      "text": "I get so excited talking about breathing",
+      "start": 822.12,
+      "duration": 3.44
+    },
+    {
+      "text": "my partner always tells me to stop",
+      "start": 824.0,
+      "duration": 3.04
+    },
+    {
+      "text": "talking about breathing because it's all",
+      "start": 825.56,
+      "duration": 4.079
+    },
+    {
+      "text": "I ever talk about so um I think while",
+      "start": 827.04,
+      "duration": 4.84
+    },
+    {
+      "text": "I'm talking to you guys I can talk",
+      "start": 829.639,
+      "duration": 4.281
+    },
+    {
+      "text": "breathing right yeah you can talk about",
+      "start": 831.88,
+      "duration": 4.8
+    },
+    {
+      "text": "them for weeks so yeah you know",
+      "start": 833.92,
+      "duration": 6.52
+    },
+    {
+      "text": "dysfunctional breathing and long Co or",
+      "start": 836.68,
+      "duration": 7.0
+    },
+    {
+      "text": "you know more widely chronic illness why",
+      "start": 840.44,
+      "duration": 5.28
+    },
+    {
+      "text": "is this such a problem in chronic",
+      "start": 843.68,
+      "duration": 4.959
+    },
+    {
+      "text": "illness or is it more just that it is",
+      "start": 845.72,
+      "duration": 5.799
+    },
+    {
+      "text": "more apparent in someone with chronic",
+      "start": 848.639,
+      "duration": 5.481
+    },
+    {
+      "text": "illness yeah that's really interesting",
+      "start": 851.519,
+      "duration": 4.921
+    },
+    {
+      "text": "something trying to understand it's like",
+      "start": 854.12,
+      "duration": 5.32
+    },
+    {
+      "text": "yeah it's like people with long Co is",
+      "start": 856.44,
+      "duration": 4.8
+    },
+    {
+      "text": "primarily a respiratory illness although",
+      "start": 859.44,
+      "duration": 3.8
+    },
+    {
+      "text": "it hits the blood vessels as well and it",
+      "start": 861.24,
+      "duration": 4.2
+    },
+    {
+      "text": "can affect you know especially with long",
+      "start": 863.24,
+      "duration": 6.039
+    },
+    {
+      "text": "Co affect all organs of the body but you",
+      "start": 865.44,
+      "duration": 5.12
+    },
+    {
+      "text": "you could say it starts off in the",
+      "start": 869.279,
+      "duration": 3.641
+    },
+    {
+      "text": "respiratory system quite quickly moves",
+      "start": 870.56,
+      "duration": 4.279
+    },
+    {
+      "text": "into the vascular",
+      "start": 872.92,
+      "duration": 4.599
+    },
+    {
+      "text": "system and we know that the respiratory",
+      "start": 874.839,
+      "duration": 5.56
+    },
+    {
+      "text": "and the vascular system are quite linked",
+      "start": 877.519,
+      "duration": 5.24
+    },
+    {
+      "text": "so people who develop ongoing symptoms",
+      "start": 880.399,
+      "duration": 5.721
+    },
+    {
+      "text": "within the respiratory system they often",
+      "start": 882.759,
+      "duration": 5.801
+    },
+    {
+      "text": "show up with dysfunctional breathing so",
+      "start": 886.12,
+      "duration": 4.399
+    },
+    {
+      "text": "the breathing pattern changes and there",
+      "start": 888.56,
+      "duration": 5.32
+    },
+    {
+      "text": "can be hyperventilation and also you",
+      "start": 890.519,
+      "duration": 6.081
+    },
+    {
+      "text": "know breathing distress around",
+      "start": 893.88,
+      "duration": 7.12
+    },
+    {
+      "text": "breathing and the reason that that",
+      "start": 896.6,
+      "duration": 7.679
+    },
+    {
+      "text": "is is I think my current feeling and I'd",
+      "start": 901.0,
+      "duration": 5.079
+    },
+    {
+      "text": "like to hear what Hadas has to say but",
+      "start": 904.279,
+      "duration": 4.48
+    },
+    {
+      "text": "my current feeling is that you know it's",
+      "start": 906.079,
+      "duration": 6.12
+    },
+    {
+      "text": "it's often driven by the the bit of",
+      "start": 908.759,
+      "duration": 5.32
+    },
+    {
+      "text": "damage that's being done you know to the",
+      "start": 912.199,
+      "duration": 4.0
+    },
+    {
+      "text": "lungs and to the vascular system but",
+      "start": 914.079,
+      "duration": 3.2
+    },
+    {
+      "text": "also to the",
+      "start": 916.199,
+      "duration": 4.041
+    },
+    {
+      "text": "mitochondria because when Hadas and I",
+      "start": 917.279,
+      "duration": 4.961
+    },
+    {
+      "text": "both measure carbon dioxide in our",
+      "start": 920.24,
+      "duration": 5.0
+    },
+    {
+      "text": "patients and we do find that you know",
+      "start": 922.24,
+      "duration": 5.039
+    },
+    {
+      "text": "there's a lot of",
+      "start": 925.24,
+      "duration": 4.039
+    },
+    {
+      "text": "hyperventilation and the more the",
+      "start": 927.279,
+      "duration": 4.48
+    },
+    {
+      "text": "patient the more likely they are to have",
+      "start": 929.279,
+      "duration": 4.12
+    },
+    {
+      "text": "hyperventilation but they're not",
+      "start": 931.759,
+      "duration": 4.401
+    },
+    {
+      "text": "breathing quickly they're not like your",
+      "start": 933.399,
+      "duration": 4.12
+    },
+    {
+      "text": "classic hyper",
+      "start": 936.16,
+      "duration": 2.919
+    },
+    {
+      "text": "ventilator",
+      "start": 937.519,
+      "duration": 4.88
+    },
+    {
+      "text": "so my thought is so what's going on so",
+      "start": 939.079,
+      "duration": 7.24
+    },
+    {
+      "text": "there's more CO2 being breathed off then",
+      "start": 942.399,
+      "duration": 5.12
+    },
+    {
+      "text": "is",
+      "start": 946.319,
+      "duration": 3.44
+    },
+    {
+      "text": "produced but the breathing doesn't",
+      "start": 947.519,
+      "duration": 7.521
+    },
+    {
+      "text": "appear to be excessively Rapid or even",
+      "start": 949.759,
+      "duration": 9.241
+    },
+    {
+      "text": "deep so is it really a problem within",
+      "start": 955.04,
+      "duration": 6.2
+    },
+    {
+      "text": "internal respiration is it really a",
+      "start": 959.0,
+      "duration": 4.88
+    },
+    {
+      "text": "problem with the mitochondria do you",
+      "start": 961.24,
+      "duration": 5.279
+    },
+    {
+      "text": "know not making",
+      "start": 963.88,
+      "duration": 5.84
+    },
+    {
+      "text": "CO2 so in some ways you know the",
+      "start": 966.519,
+      "duration": 5.0
+    },
+    {
+      "text": "hyperventilation that you see in Long",
+      "start": 969.72,
+      "duration": 5.039
+    },
+    {
+      "text": "covid might be functional meaning that",
+      "start": 971.519,
+      "duration": 7.32
+    },
+    {
+      "text": "it's responding to something that's gone",
+      "start": 974.759,
+      "duration": 6.76
+    },
+    {
+      "text": "on in the body the body's still needs to",
+      "start": 978.839,
+      "duration": 5.48
+    },
+    {
+      "text": "get oxygen right so person's still",
+      "start": 981.519,
+      "duration": 5.56
+    },
+    {
+      "text": "breathing to get oxygen and if you just",
+      "start": 984.319,
+      "duration": 4.721
+    },
+    {
+      "text": "give them classic reduced volume",
+      "start": 987.079,
+      "duration": 4.56
+    },
+    {
+      "text": "breathing like one wood in poo makes",
+      "start": 989.04,
+      "duration": 5.039
+    },
+    {
+      "text": "them feel terrible you know they can't",
+      "start": 991.639,
+      "duration": 5.401
+    },
+    {
+      "text": "do it makes them feel terrible because",
+      "start": 994.079,
+      "duration": 5.041
+    },
+    {
+      "text": "they're not low in CO2 because they're",
+      "start": 997.04,
+      "duration": 4.159
+    },
+    {
+      "text": "over breathing they might be low in CO2",
+      "start": 999.12,
+      "duration": 4.68
+    },
+    {
+      "text": "because they're under producing so the",
+      "start": 1001.199,
+      "duration": 4.64
+    },
+    {
+      "text": "point being then what um they're not",
+      "start": 1003.8,
+      "duration": 4.479
+    },
+    {
+      "text": "picking up you know oxygen well and",
+      "start": 1005.839,
+      "duration": 4.841
+    },
+    {
+      "text": "they're not matching you know",
+      "start": 1008.279,
+      "duration": 5.281
+    },
+    {
+      "text": "ventilation to blood flow very well in",
+      "start": 1010.68,
+      "duration": 4.959
+    },
+    {
+      "text": "their body so there kind of there's a",
+      "start": 1013.56,
+      "duration": 4.8
+    },
+    {
+      "text": "background of pathology that's driving",
+      "start": 1015.639,
+      "duration": 3.88
+    },
+    {
+      "text": "all of this",
+      "start": 1018.36,
+      "duration": 2.52
+    },
+    {
+      "text": "and they're trying to get by the best",
+      "start": 1019.519,
+      "duration": 2.921
+    },
+    {
+      "text": "way they can so in working with",
+      "start": 1020.88,
+      "duration": 3.439
+    },
+    {
+      "text": "breathing you've got to work quite you",
+      "start": 1022.44,
+      "duration": 4.84
+    },
+    {
+      "text": "know gently but still okay so you get a",
+      "start": 1024.319,
+      "duration": 4.201
+    },
+    {
+      "text": "person who then has been",
+      "start": 1027.28,
+      "duration": 3.36
+    },
+    {
+      "text": "hyperventilating for a while what we",
+      "start": 1028.52,
+      "duration": 6.2
+    },
+    {
+      "text": "know is then that develops um a whole",
+      "start": 1030.64,
+      "duration": 6.399
+    },
+    {
+      "text": "lot of compensations in the body and",
+      "start": 1034.72,
+      "duration": 3.959
+    },
+    {
+      "text": "those compensations can become",
+      "start": 1037.039,
+      "duration": 4.081
+    },
+    {
+      "text": "problematic in themselves so that means",
+      "start": 1038.679,
+      "duration": 6.16
+    },
+    {
+      "text": "that you work very gently to correct the",
+      "start": 1041.12,
+      "duration": 5.719
+    },
+    {
+      "text": "hyperventilation taking into account",
+      "start": 1044.839,
+      "duration": 4.441
+    },
+    {
+      "text": "that that way that person person's",
+      "start": 1046.839,
+      "duration": 4.761
+    },
+    {
+      "text": "breathing is in a way functioning for",
+      "start": 1049.28,
+      "duration": 4.0
+    },
+    {
+      "text": "them so you can't just come in with all",
+      "start": 1051.6,
+      "duration": 4.439
+    },
+    {
+      "text": "guns blazing do you know to try and fix",
+      "start": 1053.28,
+      "duration": 4.68
+    },
+    {
+      "text": "that and then looking at some of the",
+      "start": 1056.039,
+      "duration": 3.321
+    },
+    {
+      "text": "other research studies that have looked",
+      "start": 1057.96,
+      "duration": 3.32
+    },
+    {
+      "text": "at the um dysfunctional breathing in",
+      "start": 1059.36,
+      "duration": 5.04
+    },
+    {
+      "text": "long coov they go ah we found diaphragm",
+      "start": 1061.28,
+      "duration": 7.12
+    },
+    {
+      "text": "dysfunction there's weak small thin",
+      "start": 1064.4,
+      "duration": 5.8
+    },
+    {
+      "text": "little diaphragms these people have not",
+      "start": 1068.4,
+      "duration": 4.04
+    },
+    {
+      "text": "been really using the diaphragm to",
+      "start": 1070.2,
+      "duration": 4.32
+    },
+    {
+      "text": "breathe and so you know a lot of the",
+      "start": 1072.44,
+      "duration": 4.0
+    },
+    {
+      "text": "treatments are around you know in",
+      "start": 1074.52,
+      "duration": 4.72
+    },
+    {
+      "text": "spiritually resistance training and you",
+      "start": 1076.44,
+      "duration": 4.4
+    },
+    {
+      "text": "know training the diaphragm to",
+      "start": 1079.24,
+      "duration": 2.76
+    },
+    {
+      "text": "strengthen the",
+      "start": 1080.84,
+      "duration": 3.68
+    },
+    {
+      "text": "diaphragm and it's really interesting",
+      "start": 1082.0,
+      "duration": 5.76
+    },
+    {
+      "text": "why is that diaphragm gone weak so it's",
+      "start": 1084.52,
+      "duration": 4.84
+    },
+    {
+      "text": "because maybe the breathing pattern has",
+      "start": 1087.76,
+      "duration": 3.08
+    },
+    {
+      "text": "changed and so they haven't used the",
+      "start": 1089.36,
+      "duration": 3.559
+    },
+    {
+      "text": "diaphragm so it becomes important to",
+      "start": 1090.84,
+      "duration": 4.4
+    },
+    {
+      "text": "train the diaphragm",
+      "start": 1092.919,
+      "duration": 5.921
+    },
+    {
+      "text": "because that diaphragm and the strong",
+      "start": 1095.24,
+      "duration": 6.16
+    },
+    {
+      "text": "good action of the diaphragm is part of",
+      "start": 1098.84,
+      "duration": 5.52
+    },
+    {
+      "text": "what's helping Venus return it's helping",
+      "start": 1101.4,
+      "duration": 5.399
+    },
+    {
+      "text": "the blood get back to the heart which",
+      "start": 1104.36,
+      "duration": 6.76
+    },
+    {
+      "text": "then becomes your stimulus for improving",
+      "start": 1106.799,
+      "duration": 7.12
+    },
+    {
+      "text": "the function of the circulatory system",
+      "start": 1111.12,
+      "duration": 4.799
+    },
+    {
+      "text": "and Venus return and the blood going",
+      "start": 1113.919,
+      "duration": 4.041
+    },
+    {
+      "text": "back to the heart it's really important",
+      "start": 1115.919,
+      "duration": 6.64
+    },
+    {
+      "text": "for beginning the um respiratory affrant",
+      "start": 1117.96,
+      "duration": 7.599
+    },
+    {
+      "text": "activation and the Barrow reflex",
+      "start": 1122.559,
+      "duration": 6.921
+    },
+    {
+      "text": "activation of the um vus so it helps",
+      "start": 1125.559,
+      "duration": 5.841
+    },
+    {
+      "text": "with the disautonomia anyway I hope that",
+      "start": 1129.48,
+      "duration": 3.92
+    },
+    {
+      "text": "wasn't too technical but so there's sort",
+      "start": 1131.4,
+      "duration": 3.159
+    },
+    {
+      "text": "of all these levels you know the",
+      "start": 1133.4,
+      "duration": 4.639
+    },
+    {
+      "text": "breathing goes wrong for a reason and",
+      "start": 1134.559,
+      "duration": 6.401
+    },
+    {
+      "text": "it's sort of serving a purpose in a way",
+      "start": 1138.039,
+      "duration": 5.76
+    },
+    {
+      "text": "but then it becomes its own problem so",
+      "start": 1140.96,
+      "duration": 4.64
+    },
+    {
+      "text": "you want to try and fix it with kind of",
+      "start": 1143.799,
+      "duration": 4.281
+    },
+    {
+      "text": "a respect and with patience and with",
+      "start": 1145.6,
+      "duration": 4.6
+    },
+    {
+      "text": "realistic expectations about how much",
+      "start": 1148.08,
+      "duration": 4.28
+    },
+    {
+      "text": "you're going to be able to",
+      "start": 1150.2,
+      "duration": 5.28
+    },
+    {
+      "text": "achieve so knowing that you know that",
+      "start": 1152.36,
+      "duration": 5.319
+    },
+    {
+      "text": "person may need help on lots of levels",
+      "start": 1155.48,
+      "duration": 3.88
+    },
+    {
+      "text": "as well and then on top of that people",
+      "start": 1157.679,
+      "duration": 3.36
+    },
+    {
+      "text": "who are unwell just become",
+      "start": 1159.36,
+      "duration": 3.799
+    },
+    {
+      "text": "psychologically distressed and they",
+      "start": 1161.039,
+      "duration": 4.0
+    },
+    {
+      "text": "don't often don't sleep well and the",
+      "start": 1163.159,
+      "duration": 3.841
+    },
+    {
+      "text": "autonomic nervous system goes into",
+      "start": 1165.039,
+      "duration": 4.321
+    },
+    {
+      "text": "disarray and sympathy sythetic nervous",
+      "start": 1167.0,
+      "duration": 4.159
+    },
+    {
+      "text": "system you know the sympathetic nervous",
+      "start": 1169.36,
+      "duration": 4.439
+    },
+    {
+      "text": "system is activated in infection so",
+      "start": 1171.159,
+      "duration": 5.52
+    },
+    {
+      "text": "often the high sympathetic arousal is",
+      "start": 1173.799,
+      "duration": 4.961
+    },
+    {
+      "text": "because the body is still trying to deal",
+      "start": 1176.679,
+      "duration": 3.681
+    },
+    {
+      "text": "with infection or the sympathetic",
+      "start": 1178.76,
+      "duration": 4.24
+    },
+    {
+      "text": "nervous system's being activated by the",
+      "start": 1180.36,
+      "duration": 5.52
+    },
+    {
+      "text": "infection so in a way even that you got",
+      "start": 1183.0,
+      "duration": 5.12
+    },
+    {
+      "text": "to have a bit of respect for it's not",
+      "start": 1185.88,
+      "duration": 3.88
+    },
+    {
+      "text": "just that a person's neurotic because",
+      "start": 1188.12,
+      "duration": 3.72
+    },
+    {
+      "text": "they're in sympathetic dominance it's",
+      "start": 1189.76,
+      "duration": 4.24
+    },
+    {
+      "text": "really that their body has responded to",
+      "start": 1191.84,
+      "duration": 5.04
+    },
+    {
+      "text": "this illness by doing this stuff so then",
+      "start": 1194.0,
+      "duration": 4.96
+    },
+    {
+      "text": "you work very gently carefully to work",
+      "start": 1196.88,
+      "duration": 3.08
+    },
+    {
+      "text": "on all of that and then of course",
+      "start": 1198.96,
+      "duration": 3.44
+    },
+    {
+      "text": "there's the nasal obstruction nitric",
+      "start": 1199.96,
+      "duration": 4.8
+    },
+    {
+      "text": "oxide the effects on the upper Airway",
+      "start": 1202.4,
+      "duration": 5.36
+    },
+    {
+      "text": "and so on that occur and that's all",
+      "start": 1204.76,
+      "duration": 4.76
+    },
+    {
+      "text": "within that protocol you know that",
+      "start": 1207.76,
+      "duration": 4.36
+    },
+    {
+      "text": "hadass and I have been using with our",
+      "start": 1209.52,
+      "duration": 5.159
+    },
+    {
+      "text": "patients where we work on all those",
+      "start": 1212.12,
+      "duration": 5.439
+    },
+    {
+      "text": "parts of the breathing system but in a",
+      "start": 1214.679,
+      "duration": 6.801
+    },
+    {
+      "text": "kind of a gentle and a respectful way",
+      "start": 1217.559,
+      "duration": 6.081
+    },
+    {
+      "text": "respectful of the body you know and its",
+      "start": 1221.48,
+      "duration": 3.679
+    },
+    {
+      "text": "intelligence if you",
+      "start": 1223.64,
+      "duration": 3.72
+    },
+    {
+      "text": "like the first thing that really",
+      "start": 1225.159,
+      "duration": 4.201
+    },
+    {
+      "text": "surprised me I was there very early",
+      "start": 1227.36,
+      "duration": 4.6
+    },
+    {
+      "text": "before the literature came out on on",
+      "start": 1229.36,
+      "duration": 5.28
+    },
+    {
+      "text": "long coov so it was really I was using",
+      "start": 1231.96,
+      "duration": 4.92
+    },
+    {
+      "text": "my own kind of I was very excited I just",
+      "start": 1234.64,
+      "duration": 4.56
+    },
+    {
+      "text": "finished R alas course and I was",
+      "start": 1236.88,
+      "duration": 4.4
+    },
+    {
+      "text": "equipped with even better understanding",
+      "start": 1239.2,
+      "duration": 4.56
+    },
+    {
+      "text": "of dysfunctional breathing and how",
+      "start": 1241.28,
+      "duration": 5.04
+    },
+    {
+      "text": "breathing interacts with and influences",
+      "start": 1243.76,
+      "duration": 6.0
+    },
+    {
+      "text": "other physiological systems and how",
+      "start": 1246.32,
+      "duration": 4.8
+    },
+    {
+      "text": "dysfunctional breathing can really",
+      "start": 1249.76,
+      "duration": 4.399
+    },
+    {
+      "text": "disrupt homeostasis kind of in these",
+      "start": 1251.12,
+      "duration": 5.08
+    },
+    {
+      "text": "systems and how you can also use",
+      "start": 1254.159,
+      "duration": 5.121
+    },
+    {
+      "text": "breathing to restore balance in these in",
+      "start": 1256.2,
+      "duration": 5.8
+    },
+    {
+      "text": "these systems so I and then long Co",
+      "start": 1259.28,
+      "duration": 4.2
+    },
+    {
+      "text": "really called my attention because I",
+      "start": 1262.0,
+      "duration": 4.2
+    },
+    {
+      "text": "said well I don't know anything about it",
+      "start": 1263.48,
+      "duration": 6.439
+    },
+    {
+      "text": "but it kind of sounded familiar like um",
+      "start": 1266.2,
+      "duration": 5.64
+    },
+    {
+      "text": "other conditions I was treating",
+      "start": 1269.919,
+      "duration": 3.88
+    },
+    {
+      "text": "including of course asthma and anxiety",
+      "start": 1271.84,
+      "duration": 3.92
+    },
+    {
+      "text": "and and the",
+      "start": 1273.799,
+      "duration": 6.76
+    },
+    {
+      "text": "mecfs um and so kind of like the complex",
+      "start": 1275.76,
+      "duration": 7.76
+    },
+    {
+      "text": "nature and the multiple physical",
+      "start": 1280.559,
+      "duration": 6.0
+    },
+    {
+      "text": "symptoms cognitive symptoms uh and like",
+      "start": 1283.52,
+      "duration": 5.56
+    },
+    {
+      "text": "it was all it sounded familiar",
+      "start": 1286.559,
+      "duration": 5.36
+    },
+    {
+      "text": "uh so I kind of reached out to the long",
+      "start": 1289.08,
+      "duration": 4.959
+    },
+    {
+      "text": "covid clinic in the hospital and I said",
+      "start": 1291.919,
+      "duration": 4.521
+    },
+    {
+      "text": "I think I can help uh and they were",
+      "start": 1294.039,
+      "duration": 4.561
+    },
+    {
+      "text": "really more than happy to send their",
+      "start": 1296.44,
+      "duration": 5.359
+    },
+    {
+      "text": "patients to me because all they did was",
+      "start": 1298.6,
+      "duration": 5.959
+    },
+    {
+      "text": "sending I I'm not dismissing that",
+      "start": 1301.799,
+      "duration": 4.521
+    },
+    {
+      "text": "sending referring people to other",
+      "start": 1304.559,
+      "duration": 4.161
+    },
+    {
+      "text": "profession to to Specialists only to",
+      "start": 1306.32,
+      "duration": 6.04
+    },
+    {
+      "text": "find very little and referring to mental",
+      "start": 1308.72,
+      "duration": 6.72
+    },
+    {
+      "text": "health professionals so really there",
+      "start": 1312.36,
+      "duration": 5.0
+    },
+    {
+      "text": "like very limited treatment options or",
+      "start": 1315.44,
+      "duration": 3.839
+    },
+    {
+      "text": "really none",
+      "start": 1317.36,
+      "duration": 4.28
+    },
+    {
+      "text": "so I started to get a lot of patience",
+      "start": 1319.279,
+      "duration": 4.681
+    },
+    {
+      "text": "and I was really doing everything by the",
+      "start": 1321.64,
+      "duration": 5.399
+    },
+    {
+      "text": "protocol I was kind of uh so it's",
+      "start": 1323.96,
+      "duration": 4.64
+    },
+    {
+      "text": "starting with a good comprehensive",
+      "start": 1327.039,
+      "duration": 3.801
+    },
+    {
+      "text": "evaluation so the first thing that",
+      "start": 1328.6,
+      "duration": 4.6
+    },
+    {
+      "text": "really called my attention was the the",
+      "start": 1330.84,
+      "duration": 5.0
+    },
+    {
+      "text": "extremely low CO2 in many of them not",
+      "start": 1333.2,
+      "duration": 6.44
+    },
+    {
+      "text": "everyone but like in the 20s like before",
+      "start": 1335.84,
+      "duration": 6.92
+    },
+    {
+      "text": "I saw it in asthma like 30 32 so it was",
+      "start": 1339.64,
+      "duration": 6.84
+    },
+    {
+      "text": "kind of not severely low so so really",
+      "start": 1342.76,
+      "duration": 7.68
+    },
+    {
+      "text": "really low and and then kind of I so I",
+      "start": 1346.48,
+      "duration": 6.88
+    },
+    {
+      "text": "asked myself why is that I didn't think",
+      "start": 1350.44,
+      "duration": 4.92
+    },
+    {
+      "text": "I I wouldn't say oh all these symptoms",
+      "start": 1353.36,
+      "duration": 4.04
+    },
+    {
+      "text": "are because you're hyperventilating no",
+      "start": 1355.36,
+      "duration": 4.6
+    },
+    {
+      "text": "it it was very obvious that these people",
+      "start": 1357.4,
+      "duration": 5.24
+    },
+    {
+      "text": "are really sick uh and and then yeah so",
+      "start": 1359.96,
+      "duration": 4.24
+    },
+    {
+      "text": "it didn't feel right to write away to",
+      "start": 1362.64,
+      "duration": 3.48
+    },
+    {
+      "text": "kind of correct their CO2 with",
+      "start": 1364.2,
+      "duration": 5.04
+    },
+    {
+      "text": "PCO so so yeah I really appreciated that",
+      "start": 1366.12,
+      "duration": 5.08
+    },
+    {
+      "text": "I had all this knowledge from the course",
+      "start": 1369.24,
+      "duration": 4.84
+    },
+    {
+      "text": "that I can start super gently and even",
+      "start": 1371.2,
+      "duration": 5.959
+    },
+    {
+      "text": "then I had to really I I learned from",
+      "start": 1374.08,
+      "duration": 5.32
+    },
+    {
+      "text": "the patients a lot",
+      "start": 1377.159,
+      "duration": 4.561
+    },
+    {
+      "text": "uh how to like very quickly I realized",
+      "start": 1379.4,
+      "duration": 5.32
+    },
+    {
+      "text": "no no no I need to really slow it down",
+      "start": 1381.72,
+      "duration": 6.92
+    },
+    {
+      "text": "and even tone my my my own energy down",
+      "start": 1384.72,
+      "duration": 7.559
+    },
+    {
+      "text": "so I'm not over stimulating them uh and",
+      "start": 1388.64,
+      "duration": 6.159
+    },
+    {
+      "text": "and really because I had like really my",
+      "start": 1392.279,
+      "duration": 6.241
+    },
+    {
+      "text": "schedule was overwhelmed so I I just",
+      "start": 1394.799,
+      "duration": 7.12
+    },
+    {
+      "text": "okay let's do Group Patient groups and",
+      "start": 1398.52,
+      "duration": 5.32
+    },
+    {
+      "text": "and that also because my session is not",
+      "start": 1401.919,
+      "duration": 3.76
+    },
+    {
+      "text": "long enough so that allowed me kind of",
+      "start": 1403.84,
+      "duration": 4.439
+    },
+    {
+      "text": "to give like explain the theory behind",
+      "start": 1405.679,
+      "duration": 5.081
+    },
+    {
+      "text": "it everything and and introduce",
+      "start": 1408.279,
+      "duration": 4.601
+    },
+    {
+      "text": "information but then really crucial was",
+      "start": 1410.76,
+      "duration": 3.84
+    },
+    {
+      "text": "that it's it was combined with",
+      "start": 1412.88,
+      "duration": 3.919
+    },
+    {
+      "text": "individual uh",
+      "start": 1414.6,
+      "duration": 5.04
+    },
+    {
+      "text": "sessions because yeah you know that's",
+      "start": 1416.799,
+      "duration": 5.281
+    },
+    {
+      "text": "all the information I gather from the",
+      "start": 1419.64,
+      "duration": 4.639
+    },
+    {
+      "text": "evaluation super",
+      "start": 1422.08,
+      "duration": 5.079
+    },
+    {
+      "text": "important um yeah and I can talk later",
+      "start": 1424.279,
+      "duration": 4.481
+    },
+    {
+      "text": "more about what exactly we were",
+      "start": 1427.159,
+      "duration": 4.52
+    },
+    {
+      "text": "measuring uh in the",
+      "start": 1428.76,
+      "duration": 6.76
+    },
+    {
+      "text": "findings yeah and I think the um the",
+      "start": 1431.679,
+      "duration": 5.48
+    },
+    {
+      "text": "community element you know the the",
+      "start": 1435.52,
+      "duration": 3.36
+    },
+    {
+      "text": "groups actually are incredible L",
+      "start": 1437.159,
+      "duration": 4.0
+    },
+    {
+      "text": "powerful um you know we we are starting",
+      "start": 1438.88,
+      "duration": 4.399
+    },
+    {
+      "text": "to understand now more about the nervous",
+      "start": 1441.159,
+      "duration": 4.681
+    },
+    {
+      "text": "system and how important that social",
+      "start": 1443.279,
+      "duration": 6.361
+    },
+    {
+      "text": "connection is for our nervous system but",
+      "start": 1445.84,
+      "duration": 6.56
+    },
+    {
+      "text": "when you have something like long Co you",
+      "start": 1449.64,
+      "duration": 5.72
+    },
+    {
+      "text": "know you are out of energy you are",
+      "start": 1452.4,
+      "duration": 5.32
+    },
+    {
+      "text": "feeling terrible all the time you may be",
+      "start": 1455.36,
+      "duration": 4.84
+    },
+    {
+      "text": "not working you're may be not able to do",
+      "start": 1457.72,
+      "duration": 4.48
+    },
+    {
+      "text": "the things that you used to do so you're",
+      "start": 1460.2,
+      "duration": 4.2
+    },
+    {
+      "text": "not seeing the people that you used to",
+      "start": 1462.2,
+      "duration": 5.12
+    },
+    {
+      "text": "see and your world gets slowly smaller",
+      "start": 1464.4,
+      "duration": 5.08
+    },
+    {
+      "text": "and smaller and smaller",
+      "start": 1467.32,
+      "duration": 5.2
+    },
+    {
+      "text": "and then bringing people together to",
+      "start": 1469.48,
+      "duration": 5.64
+    },
+    {
+      "text": "breathe together you know you're doing",
+      "start": 1472.52,
+      "duration": 4.92
+    },
+    {
+      "text": "something that is practically useful so",
+      "start": 1475.12,
+      "duration": 4.159
+    },
+    {
+      "text": "you are teaching them a skill that is",
+      "start": 1477.44,
+      "duration": 4.28
+    },
+    {
+      "text": "going to help them that they will see",
+      "start": 1479.279,
+      "duration": 5.12
+    },
+    {
+      "text": "that Improvement even if it's just 1% at",
+      "start": 1481.72,
+      "duration": 6.88
+    },
+    {
+      "text": "a time but you're also I think just as",
+      "start": 1484.399,
+      "duration": 6.201
+    },
+    {
+      "text": "importantly they're joining together",
+      "start": 1488.6,
+      "duration": 3.48
+    },
+    {
+      "text": "with other people they're getting that",
+      "start": 1490.6,
+      "duration": 4.679
+    },
+    {
+      "text": "validation they're seeing faces um",
+      "start": 1492.08,
+      "duration": 6.479
+    },
+    {
+      "text": "they're interacting with people and I I",
+      "start": 1495.279,
+      "duration": 6.681
+    },
+    {
+      "text": "think that in in some ways is is maybe",
+      "start": 1498.559,
+      "duration": 5.6
+    },
+    {
+      "text": "as powerful as the breathing itself in",
+      "start": 1501.96,
+      "duration": 3.64
+    },
+    {
+      "text": "some ways for",
+      "start": 1504.159,
+      "duration": 4.281
+    },
+    {
+      "text": "sure absolutely I think that was such a",
+      "start": 1505.6,
+      "duration": 5.92
+    },
+    {
+      "text": "great success uh you know again it was",
+      "start": 1508.44,
+      "duration": 5.2
+    },
+    {
+      "text": "very early on people didn't even know",
+      "start": 1511.52,
+      "duration": 4.399
+    },
+    {
+      "text": "that there are other people dealing with",
+      "start": 1513.64,
+      "duration": 5.36
+    },
+    {
+      "text": "similar things and I again and again",
+      "start": 1515.919,
+      "duration": 4.921
+    },
+    {
+      "text": "since the beginning and until now how",
+      "start": 1519.0,
+      "duration": 6.36
+    },
+    {
+      "text": "people feel a lot less alone or isolated",
+      "start": 1520.84,
+      "duration": 6.88
+    },
+    {
+      "text": "invalidated and it became really the",
+      "start": 1525.36,
+      "duration": 4.4
+    },
+    {
+      "text": "begin the first classes were really",
+      "start": 1527.72,
+      "duration": 4.559
+    },
+    {
+      "text": "became like support groups until when",
+      "start": 1529.76,
+      "duration": 4.399
+    },
+    {
+      "text": "they took it out of my classes because I",
+      "start": 1532.279,
+      "duration": 5.441
+    },
+    {
+      "text": "didn't have time to teach anything but",
+      "start": 1534.159,
+      "duration": 6.76
+    },
+    {
+      "text": "was so important and and then Al",
+      "start": 1537.72,
+      "duration": 4.959
+    },
+    {
+      "text": "Dynamics you know because some people",
+      "start": 1540.919,
+      "duration": 4.201
+    },
+    {
+      "text": "obviously improve better than others but",
+      "start": 1542.679,
+      "duration": 4.521
+    },
+    {
+      "text": "when someone tells about you know how",
+      "start": 1545.12,
+      "duration": 4.0
+    },
+    {
+      "text": "they're you know how it went for them",
+      "start": 1547.2,
+      "duration": 3.68
+    },
+    {
+      "text": "and what they did they really learn from",
+      "start": 1549.12,
+      "duration": 3.72
+    },
+    {
+      "text": "each other and support each other and it",
+      "start": 1550.88,
+      "duration": 5.24
+    },
+    {
+      "text": "was just awesome yes and still",
+      "start": 1552.84,
+      "duration": 6.839
+    },
+    {
+      "text": "is oh absolutely I find the same too and",
+      "start": 1556.12,
+      "duration": 6.0
+    },
+    {
+      "text": "it's a big factor is the motivation",
+      "start": 1559.679,
+      "duration": 4.761
+    },
+    {
+      "text": "Factor keeping people going because one",
+      "start": 1562.12,
+      "duration": 4.64
+    },
+    {
+      "text": "of the things when people are unwell",
+      "start": 1564.44,
+      "duration": 4.88
+    },
+    {
+      "text": "they lose motivation to do things for",
+      "start": 1566.76,
+      "duration": 5.039
+    },
+    {
+      "text": "themselves and so it's the having the",
+      "start": 1569.32,
+      "duration": 4.68
+    },
+    {
+      "text": "structure in place to keep them going",
+      "start": 1571.799,
+      "duration": 4.201
+    },
+    {
+      "text": "with a thing and hearing that other",
+      "start": 1574.0,
+      "duration": 3.52
+    },
+    {
+      "text": "people are improving or that other",
+      "start": 1576.0,
+      "duration": 3.96
+    },
+    {
+      "text": "people had a had a dip and then got",
+      "start": 1577.52,
+      "duration": 4.759
+    },
+    {
+      "text": "better do you know that just because you",
+      "start": 1579.96,
+      "duration": 3.92
+    },
+    {
+      "text": "had a backslide doesn't mean that you're",
+      "start": 1582.279,
+      "duration": 3.681
+    },
+    {
+      "text": "going to keep backsliding that you can",
+      "start": 1583.88,
+      "duration": 4.56
+    },
+    {
+      "text": "keep going forward it's that kind of",
+      "start": 1585.96,
+      "duration": 5.48
+    },
+    {
+      "text": "encouragement and motivation element as",
+      "start": 1588.44,
+      "duration": 6.839
+    },
+    {
+      "text": "well is hugely important so yeah thank",
+      "start": 1591.44,
+      "duration": 6.92
+    },
+    {
+      "text": "you zoom thank you",
+      "start": 1595.279,
+      "duration": 3.081
+    },
+    {
+      "text": "online means that people who can't leave",
+      "start": 1598.44,
+      "duration": 5.479
+    },
+    {
+      "text": "the house can actually participate you",
+      "start": 1600.76,
+      "duration": 5.56
+    },
+    {
+      "text": "know and get the benefits of group the",
+      "start": 1603.919,
+      "duration": 5.441
+    },
+    {
+      "text": "group support yeah yeah at the same time",
+      "start": 1606.32,
+      "duration": 5.76
+    },
+    {
+      "text": "I really while I really learned to work",
+      "start": 1609.36,
+      "duration": 7.28
+    },
+    {
+      "text": "and love zoom and tell Health uh I think",
+      "start": 1612.08,
+      "duration": 6.8
+    },
+    {
+      "text": "that in person and the measurement were",
+      "start": 1616.64,
+      "duration": 5.84
+    },
+    {
+      "text": "so important I miss things uh when I see",
+      "start": 1618.88,
+      "duration": 6.32
+    },
+    {
+      "text": "people on the screen and know and and",
+      "start": 1622.48,
+      "duration": 4.319
+    },
+    {
+      "text": "somehow I'm still able to help them",
+      "start": 1625.2,
+      "duration": 3.16
+    },
+    {
+      "text": "better when I actually see them with",
+      "start": 1626.799,
+      "duration": 4.521
+    },
+    {
+      "text": "their hands on and you can see more and",
+      "start": 1628.36,
+      "duration": 5.319
+    },
+    {
+      "text": "feel more and me do proper measures yeah",
+      "start": 1631.32,
+      "duration": 5.52
+    },
+    {
+      "text": "this is true absolutely so you need at",
+      "start": 1633.679,
+      "duration": 5.521
+    },
+    {
+      "text": "least that initial measure if possible",
+      "start": 1636.84,
+      "duration": 5.439
+    },
+    {
+      "text": "right that's what I find too you want",
+      "start": 1639.2,
+      "duration": 4.76
+    },
+    {
+      "text": "that initial measurement so you can see",
+      "start": 1642.279,
+      "duration": 4.041
+    },
+    {
+      "text": "how low is this CO2 what is that",
+      "start": 1643.96,
+      "duration": 4.719
+    },
+    {
+      "text": "breathing pattern doing how does there",
+      "start": 1646.32,
+      "duration": 4.04
+    },
+    {
+      "text": "upper Airway",
+      "start": 1648.679,
+      "duration": 4.801
+    },
+    {
+      "text": "look yeah and and then we did we used",
+      "start": 1650.36,
+      "duration": 5.0
+    },
+    {
+      "text": "the it's called the mar the manual",
+      "start": 1653.48,
+      "duration": 4.12
+    },
+    {
+      "text": "assessment of respir or emotion it's",
+      "start": 1655.36,
+      "duration": 4.199
+    },
+    {
+      "text": "where the clinician is sitting behind",
+      "start": 1657.6,
+      "duration": 4.48
+    },
+    {
+      "text": "the patient with the hands on their",
+      "start": 1659.559,
+      "duration": 4.801
+    },
+    {
+      "text": "posterior diaphragm and you're just",
+      "start": 1662.08,
+      "duration": 4.8
+    },
+    {
+      "text": "assessing for how balanc is the upper",
+      "start": 1664.36,
+      "duration": 5.159
+    },
+    {
+      "text": "rib cage movement to lower rib cage and",
+      "start": 1666.88,
+      "duration": 5.799
+    },
+    {
+      "text": "abdominal motion so that was also",
+      "start": 1669.519,
+      "duration": 5.681
+    },
+    {
+      "text": "interesting uh I think the most common",
+      "start": 1672.679,
+      "duration": 5.961
+    },
+    {
+      "text": "pattern was very fast and very shallow",
+      "start": 1675.2,
+      "duration": 4.92
+    },
+    {
+      "text": "to the point that I really have to stay",
+      "start": 1678.64,
+      "duration": 4.08
+    },
+    {
+      "text": "there for a while to see like what do I",
+      "start": 1680.12,
+      "duration": 6.96
+    },
+    {
+      "text": "even feel H so that was one pattern and",
+      "start": 1682.72,
+      "duration": 6.48
+    },
+    {
+      "text": "others were kind of irregular",
+      "start": 1687.08,
+      "duration": 4.8
+    },
+    {
+      "text": "intentional kind of",
+      "start": 1689.2,
+      "duration": 5.28
+    },
+    {
+      "text": "effortful yeah I I don't think I could",
+      "start": 1691.88,
+      "duration": 6.44
+    },
+    {
+      "text": "see it if I didn't put my hands on them",
+      "start": 1694.48,
+      "duration": 7.439
+    },
+    {
+      "text": "yeah and then um syt questioners if so",
+      "start": 1698.32,
+      "duration": 7.32
+    },
+    {
+      "text": "we used the N again questioner which is",
+      "start": 1701.919,
+      "duration": 5.721
+    },
+    {
+      "text": "a list of symptoms that initially",
+      "start": 1705.64,
+      "duration": 4.0
+    },
+    {
+      "text": "originally was for hyperventilation but",
+      "start": 1707.64,
+      "duration": 3.72
+    },
+    {
+      "text": "now it's dysfunctional",
+      "start": 1709.64,
+      "duration": 4.519
+    },
+    {
+      "text": "breathing and then we use the self-",
+      "start": 1711.36,
+      "duration": 4.559
+    },
+    {
+      "text": "evaluation breathing questioner which",
+      "start": 1714.159,
+      "duration": 4.041
+    },
+    {
+      "text": "also kind of asked about quality of",
+      "start": 1715.919,
+      "duration": 4.12
+    },
+    {
+      "text": "breathing quantitative and and",
+      "start": 1718.2,
+      "duration": 4.04
+    },
+    {
+      "text": "perception patient perception of",
+      "start": 1720.039,
+      "duration": 5.321
+    },
+    {
+      "text": "breathing and then there is one tool",
+      "start": 1722.24,
+      "duration": 6.439
+    },
+    {
+      "text": "that uh for upper Airway called disia",
+      "start": 1725.36,
+      "duration": 5.64
+    },
+    {
+      "text": "index which is also kind of just to",
+      "start": 1728.679,
+      "duration": 5.161
+    },
+    {
+      "text": "quantify these symptoms so initially",
+      "start": 1731.0,
+      "duration": 5.08
+    },
+    {
+      "text": "they all scored pretty high on all these",
+      "start": 1733.84,
+      "duration": 4.439
+    },
+    {
+      "text": "measurements and there was Improvement",
+      "start": 1736.08,
+      "duration": 4.599
+    },
+    {
+      "text": "after the treatment in all the sympos",
+      "start": 1738.279,
+      "duration": 5.841
+    },
+    {
+      "text": "questioners as well as the biomechanics",
+      "start": 1740.679,
+      "duration": 5.921
+    },
+    {
+      "text": "improved and the CO2 has increased as",
+      "start": 1744.12,
+      "duration": 4.84
+    },
+    {
+      "text": "well after treatment which was super",
+      "start": 1746.6,
+      "duration": 6.079
+    },
+    {
+      "text": "cool and the most exciting is that with",
+      "start": 1748.96,
+      "duration": 5.959
+    },
+    {
+      "text": "that also symptoms improved and people",
+      "start": 1752.679,
+      "duration": 3.88
+    },
+    {
+      "text": "really became more and more functional",
+      "start": 1754.919,
+      "duration": 5.921
+    },
+    {
+      "text": "which is really what we care about the",
+      "start": 1756.559,
+      "duration": 4.281
+    },
+    {
+      "text": "most we'll be right",
+      "start": 1761.84,
+      "duration": 5.319
+    },
+    {
+      "text": "back I'm interrupting myself for a",
+      "start": 1764.919,
+      "duration": 4.321
+    },
+    {
+      "text": "second to tell you about long Co",
+      "start": 1767.159,
+      "duration": 4.4
+    },
+    {
+      "text": "breathing The Fabulous Vicky Jones and I",
+      "start": 1769.24,
+      "duration": 3.76
+    },
+    {
+      "text": "have teamed up to bring you long Co",
+      "start": 1771.559,
+      "duration": 3.48
+    },
+    {
+      "text": "breathing we are both passionate about",
+      "start": 1773.0,
+      "duration": 4.12
+    },
+    {
+      "text": "sharing our expertise and experience of",
+      "start": 1775.039,
+      "duration": 3.921
+    },
+    {
+      "text": "the breath and how incredibly helpful",
+      "start": 1777.12,
+      "duration": 4.48
+    },
+    {
+      "text": "that can be with L Co we've worked",
+      "start": 1778.96,
+      "duration": 4.12
+    },
+    {
+      "text": "together to develop a course that is",
+      "start": 1781.6,
+      "duration": 3.24
+    },
+    {
+      "text": "specifically tailored to those with L",
+      "start": 1783.08,
+      "duration": 4.599
+    },
+    {
+      "text": "covid it's a 6-e course with 12 sessions",
+      "start": 1784.84,
+      "duration": 5.439
+    },
+    {
+      "text": "all delivered online the community feel",
+      "start": 1787.679,
+      "duration": 3.961
+    },
+    {
+      "text": "and learning that we're all sharing is",
+      "start": 1790.279,
+      "duration": 3.52
+    },
+    {
+      "text": "such a joy to find out more information",
+      "start": 1791.64,
+      "duration": 3.96
+    },
+    {
+      "text": "and to sign up for our courses workshops",
+      "start": 1793.799,
+      "duration": 3.681
+    },
+    {
+      "text": "and other shorter sessions please check",
+      "start": 1795.6,
+      "duration": 3.679
+    },
+    {
+      "text": "out the link below below lco",
+      "start": 1797.48,
+      "duration": 4.76
+    },
+    {
+      "text": "breathing.com or email lco breathing",
+      "start": 1799.279,
+      "duration": 4.76
+    },
+    {
+      "text": "gmail.com to start your breathing",
+      "start": 1802.24,
+      "duration": 2.42
+    },
+    {
+      "text": "Journey with",
+      "start": 1804.039,
+      "duration": 4.23
+    },
+    {
+      "text": "[Music]",
+      "start": 1804.66,
+      "duration": 3.609
+    },
+    {
+      "text": "us yeah I I think you're right you know",
+      "start": 1810.159,
+      "duration": 3.64
+    },
+    {
+      "text": "I think you know obviously for the",
+      "start": 1812.76,
+      "duration": 3.24
+    },
+    {
+      "text": "purposes of research um you know you",
+      "start": 1813.799,
+      "duration": 4.041
+    },
+    {
+      "text": "need to be measuring things because you",
+      "start": 1816.0,
+      "duration": 4.159
+    },
+    {
+      "text": "need that objective data in order to you",
+      "start": 1817.84,
+      "duration": 4.28
+    },
+    {
+      "text": "know actually be able to have your",
+      "start": 1820.159,
+      "duration": 4.561
+    },
+    {
+      "text": "results and to publish them um but",
+      "start": 1822.12,
+      "duration": 4.48
+    },
+    {
+      "text": "actually if you were to ask someone with",
+      "start": 1824.72,
+      "duration": 5.16
+    },
+    {
+      "text": "long Co do you want your CO2 to increase",
+      "start": 1826.6,
+      "duration": 5.959
+    },
+    {
+      "text": "they would really not care um what they",
+      "start": 1829.88,
+      "duration": 5.36
+    },
+    {
+      "text": "would care about was I want to feel",
+      "start": 1832.559,
+      "duration": 5.401
+    },
+    {
+      "text": "better I want to have less symptoms I",
+      "start": 1835.24,
+      "duration": 4.72
+    },
+    {
+      "text": "want to be able to do some of the things",
+      "start": 1837.96,
+      "duration": 5.079
+    },
+    {
+      "text": "that I couldn't do before so yeah you",
+      "start": 1839.96,
+      "duration": 5.319
+    },
+    {
+      "text": "know I think that is the mark of how",
+      "start": 1843.039,
+      "duration": 4.64
+    },
+    {
+      "text": "people feel um but yeah you know for",
+      "start": 1845.279,
+      "duration": 4.88
+    },
+    {
+      "text": "sure for the research um you know you do",
+      "start": 1847.679,
+      "duration": 3.961
+    },
+    {
+      "text": "need those",
+      "start": 1850.159,
+      "duration": 4.161
+    },
+    {
+      "text": "numbers and for the clinician to be",
+      "start": 1851.64,
+      "duration": 6.08
+    },
+    {
+      "text": "precise with their treatment you know",
+      "start": 1854.32,
+      "duration": 5.719
+    },
+    {
+      "text": "then you you know which techniques to",
+      "start": 1857.72,
+      "duration": 4.439
+    },
+    {
+      "text": "focus on that's what those measures give",
+      "start": 1860.039,
+      "duration": 5.441
+    },
+    {
+      "text": "you so you you pick up in that",
+      "start": 1862.159,
+      "duration": 5.041
+    },
+    {
+      "text": "assessment you know how you need to",
+      "start": 1865.48,
+      "duration": 4.64
+    },
+    {
+      "text": "tweak it for the person and then you can",
+      "start": 1867.2,
+      "duration": 5.479
+    },
+    {
+      "text": "also because you reassess and then when",
+      "start": 1870.12,
+      "duration": 4.96
+    },
+    {
+      "text": "you reassess and you go oh that really",
+      "start": 1872.679,
+      "duration": 5.401
+    },
+    {
+      "text": "improved but that didn't so let me",
+      "start": 1875.08,
+      "duration": 5.599
+    },
+    {
+      "text": "change the techniques so that they'll",
+      "start": 1878.08,
+      "duration": 5.319
+    },
+    {
+      "text": "get this to move or let me look deeper",
+      "start": 1880.679,
+      "duration": 5.681
+    },
+    {
+      "text": "into trying to understand why that",
+      "start": 1883.399,
+      "duration": 5.721
+    },
+    {
+      "text": "particular metric you know didn't",
+      "start": 1886.36,
+      "duration": 4.76
+    },
+    {
+      "text": "improve so that's where the kind of",
+      "start": 1889.12,
+      "duration": 4.72
+    },
+    {
+      "text": "precision if you like the Precision of",
+      "start": 1891.12,
+      "duration": 4.439
+    },
+    {
+      "text": "the of the stuff comes from from the",
+      "start": 1893.84,
+      "duration": 3.559
+    },
+    {
+      "text": "assessment because yeah patients just",
+      "start": 1895.559,
+      "duration": 3.24
+    },
+    {
+      "text": "want to feel better but it's sort of",
+      "start": 1897.399,
+      "duration": 5.081
+    },
+    {
+      "text": "like that's a very blunt sort of measure",
+      "start": 1898.799,
+      "duration": 6.12
+    },
+    {
+      "text": "do you know just feeling better you want",
+      "start": 1902.48,
+      "duration": 4.199
+    },
+    {
+      "text": "to know that you're going to feel better",
+      "start": 1904.919,
+      "duration": 5.6
+    },
+    {
+      "text": "that that feeling better is robust it's",
+      "start": 1906.679,
+      "duration": 6.12
+    },
+    {
+      "text": "stable it's going to last it's not going",
+      "start": 1910.519,
+      "duration": 4.52
+    },
+    {
+      "text": "to tip over you know and when you've",
+      "start": 1912.799,
+      "duration": 4.12
+    },
+    {
+      "text": "really made the body function better",
+      "start": 1915.039,
+      "duration": 4.36
+    },
+    {
+      "text": "when you've really improved D the",
+      "start": 1916.919,
+      "duration": 6.441
+    },
+    {
+      "text": "physiology then that Improvement becomes",
+      "start": 1919.399,
+      "duration": 5.4
+    },
+    {
+      "text": "you know",
+      "start": 1923.36,
+      "duration": 4.919
+    },
+    {
+      "text": "stable that's what I would say yeah",
+      "start": 1924.799,
+      "duration": 6.521
+    },
+    {
+      "text": "absolutely yeah because you know I feel",
+      "start": 1928.279,
+      "duration": 6.201
+    },
+    {
+      "text": "better is very subjective um you know",
+      "start": 1931.32,
+      "duration": 5.0
+    },
+    {
+      "text": "and and that's you know that's that's",
+      "start": 1934.48,
+      "duration": 4.72
+    },
+    {
+      "text": "great but it's not a lot of use in your",
+      "start": 1936.32,
+      "duration": 5.599
+    },
+    {
+      "text": "in your research paper and yeah I",
+      "start": 1939.2,
+      "duration": 4.479
+    },
+    {
+      "text": "suppose like you say you know you don't",
+      "start": 1941.919,
+      "duration": 3.36
+    },
+    {
+      "text": "actually understand what's going on",
+      "start": 1943.679,
+      "duration": 4.641
+    },
+    {
+      "text": "internally if someone says I feel better",
+      "start": 1945.279,
+      "duration": 5.081
+    },
+    {
+      "text": "although that that is obviously a great",
+      "start": 1948.32,
+      "duration": 4.199
+    },
+    {
+      "text": "result bottom line it's the only thing",
+      "start": 1950.36,
+      "duration": 4.52
+    },
+    {
+      "text": "that matters in the end isn't it it is",
+      "start": 1952.519,
+      "duration": 4.201
+    },
+    {
+      "text": "just yeah having that be strong and",
+      "start": 1954.88,
+      "duration": 6.12
+    },
+    {
+      "text": "stable and last is the thing yeah yeah",
+      "start": 1956.72,
+      "duration": 7.88
+    },
+    {
+      "text": "so um how did you recruit people for",
+      "start": 1961.0,
+      "duration": 6.559
+    },
+    {
+      "text": "this was there a sort of inclusion",
+      "start": 1964.6,
+      "duration": 5.199
+    },
+    {
+      "text": "criteria what did they need to have",
+      "start": 1967.559,
+      "duration": 5.48
+    },
+    {
+      "text": "breathing difficulties or was it sort of",
+      "start": 1969.799,
+      "duration": 6.84
+    },
+    {
+      "text": "anybody how how did you do that uh the",
+      "start": 1973.039,
+      "duration": 5.801
+    },
+    {
+      "text": "people who refer to me",
+      "start": 1976.639,
+      "duration": 4.801
+    },
+    {
+      "text": "uh were people with L covid and",
+      "start": 1978.84,
+      "duration": 4.0
+    },
+    {
+      "text": "dysfunctional breathing so that's kind",
+      "start": 1981.44,
+      "duration": 3.44
+    },
+    {
+      "text": "of the people I included if I diagnos",
+      "start": 1982.84,
+      "duration": 3.88
+    },
+    {
+      "text": "dysfunctional breathing which was really",
+      "start": 1984.88,
+      "duration": 5.12
+    },
+    {
+      "text": "easy everyone I assessed only later on I",
+      "start": 1986.72,
+      "duration": 5.64
+    },
+    {
+      "text": "I saw a couple people who didn't have I",
+      "start": 1990.0,
+      "duration": 4.96
+    },
+    {
+      "text": "didn't think their breathing is uh but",
+      "start": 1992.36,
+      "duration": 4.96
+    },
+    {
+      "text": "at that time yeah it was all uh",
+      "start": 1994.96,
+      "duration": 4.36
+    },
+    {
+      "text": "dysfunctional breathing and because I'm",
+      "start": 1997.32,
+      "duration": 5.359
+    },
+    {
+      "text": "working with you know third party pair",
+      "start": 1999.32,
+      "duration": 6.4
+    },
+    {
+      "text": "then they also needed to have some uh",
+      "start": 2002.679,
+      "duration": 5.321
+    },
+    {
+      "text": "upper area related or speech related",
+      "start": 2005.72,
+      "duration": 4.04
+    },
+    {
+      "text": "diagnosis so people were having either",
+      "start": 2008.0,
+      "duration": 4.2
+    },
+    {
+      "text": "horseness or cough or",
+      "start": 2009.76,
+      "duration": 4.84
+    },
+    {
+      "text": "stuttering or this vocal core",
+      "start": 2012.2,
+      "duration": 5.52
+    },
+    {
+      "text": "dysfunction that I could also but and",
+      "start": 2014.6,
+      "duration": 5.88
+    },
+    {
+      "text": "obvious they had the long covid symptoms",
+      "start": 2017.72,
+      "duration": 4.439
+    },
+    {
+      "text": "like The Chronic one like the chronic",
+      "start": 2020.48,
+      "duration": 4.72
+    },
+    {
+      "text": "fatigue and the insomnia and the brain",
+      "start": 2022.159,
+      "duration": 7.441
+    },
+    {
+      "text": "fog and anxiety Etc exercise intolerance",
+      "start": 2025.2,
+      "duration": 6.839
+    },
+    {
+      "text": "the exclusion was real pathologies like",
+      "start": 2029.6,
+      "duration": 6.559
+    },
+    {
+      "text": "cardiovascular or pulmonary pathologies",
+      "start": 2032.039,
+      "duration": 7.6
+    },
+    {
+      "text": "um and then we really picked the five",
+      "start": 2036.159,
+      "duration": 5.841
+    },
+    {
+      "text": "consecutive patients that I could",
+      "start": 2039.639,
+      "duration": 4.081
+    },
+    {
+      "text": "complete the measurements on time it was",
+      "start": 2042.0,
+      "duration": 4.679
+    },
+    {
+      "text": "a very hectic time with kind of limited",
+      "start": 2043.72,
+      "duration": 5.359
+    },
+    {
+      "text": "in person availability of me and the",
+      "start": 2046.679,
+      "duration": 4.521
+    },
+    {
+      "text": "patients you know so it was really that",
+      "start": 2049.079,
+      "duration": 4.04
+    },
+    {
+      "text": "was the challenges at that time to see",
+      "start": 2051.2,
+      "duration": 3.879
+    },
+    {
+      "text": "people for the measurements before and",
+      "start": 2053.119,
+      "duration": 4.56
+    },
+    {
+      "text": "after so it's the first first five that",
+      "start": 2055.079,
+      "duration": 5.08
+    },
+    {
+      "text": "I got the measurements which is really",
+      "start": 2057.679,
+      "duration": 4.601
+    },
+    {
+      "text": "significant in itself because it means",
+      "start": 2060.159,
+      "duration": 4.601
+    },
+    {
+      "text": "that she didn't just pick her best",
+      "start": 2062.28,
+      "duration": 4.04
+    },
+    {
+      "text": "patients you know she did five",
+      "start": 2064.76,
+      "duration": 3.599
+    },
+    {
+      "text": "consecutively which is you important for",
+      "start": 2066.32,
+      "duration": 4.12
+    },
+    {
+      "text": "research because it shows no this is a",
+      "start": 2068.359,
+      "duration": 4.401
+    },
+    {
+      "text": "thing that's consistently you know",
+      "start": 2070.44,
+      "duration": 5.04
+    },
+    {
+      "text": "working in this type of patient I",
+      "start": 2072.76,
+      "duration": 4.0
+    },
+    {
+      "text": "definitely didn't pick the ones who",
+      "start": 2075.48,
+      "duration": 5.159
+    },
+    {
+      "text": "improved the most I wish I could but uh",
+      "start": 2076.76,
+      "duration": 5.919
+    },
+    {
+      "text": "yeah but that it wasn't yeah like all of",
+      "start": 2080.639,
+      "duration": 3.361
+    },
+    {
+      "text": "them really",
+      "start": 2082.679,
+      "duration": 5.041
+    },
+    {
+      "text": "improved um some of them got really near",
+      "start": 2084.0,
+      "duration": 6.359
+    },
+    {
+      "text": "normal function and some of them not but",
+      "start": 2087.72,
+      "duration": 4.24
+    },
+    {
+      "text": "still the Improvement was very",
+      "start": 2090.359,
+      "duration": 4.161
+    },
+    {
+      "text": "impressive and and significant for",
+      "start": 2091.96,
+      "duration": 5.32
+    },
+    {
+      "text": "them lots of ups and downs too",
+      "start": 2094.52,
+      "duration": 4.44
+    },
+    {
+      "text": "absolutely",
+      "start": 2097.28,
+      "duration": 3.88
+    },
+    {
+      "text": "yes just to encourage the people with",
+      "start": 2098.96,
+      "duration": 4.24
+    },
+    {
+      "text": "long Co who might be listening lots of",
+      "start": 2101.16,
+      "duration": 4.24
+    },
+    {
+      "text": "ups and downs keep going yeah and the",
+      "start": 2103.2,
+      "duration": 5.08
+    },
+    {
+      "text": "group was a great because and I think I",
+      "start": 2105.4,
+      "duration": 5.679
+    },
+    {
+      "text": "also kind of I have this uh whenever",
+      "start": 2108.28,
+      "duration": 4.36
+    },
+    {
+      "text": "people see me they come out a little",
+      "start": 2111.079,
+      "duration": 4.881
+    },
+    {
+      "text": "more motivated I'm a good cheerleader or",
+      "start": 2112.64,
+      "duration": 4.719
+    },
+    {
+      "text": "giving hope and kind of just",
+      "start": 2115.96,
+      "duration": 4.119
+    },
+    {
+      "text": "encouragement and uh but yeah lots of",
+      "start": 2117.359,
+      "duration": 6.161
+    },
+    {
+      "text": "and people also got CID again and again",
+      "start": 2120.079,
+      "duration": 6.241
+    },
+    {
+      "text": "some of them but the cool thing was that",
+      "start": 2123.52,
+      "duration": 4.76
+    },
+    {
+      "text": "they they were saying how much",
+      "start": 2126.32,
+      "duration": 3.32
+    },
+    {
+      "text": "especially the longer they were in the",
+      "start": 2128.28,
+      "duration": 4.6
+    },
+    {
+      "text": "program with me they they were using the",
+      "start": 2129.64,
+      "duration": 5.8
+    },
+    {
+      "text": "the techniques like lots of humming and",
+      "start": 2132.88,
+      "duration": 6.04
+    },
+    {
+      "text": "and breath holds and and slow breathing",
+      "start": 2135.44,
+      "duration": 5.08
+    },
+    {
+      "text": "and they were using it and they believed",
+      "start": 2138.92,
+      "duration": 3.4
+    },
+    {
+      "text": "that that's what kept the long Co",
+      "start": 2140.52,
+      "duration": 4.839
+    },
+    {
+      "text": "symptoms from getting worse yeah because",
+      "start": 2142.32,
+      "duration": 4.92
+    },
+    {
+      "text": "I mean I I I talk about this all the",
+      "start": 2145.359,
+      "duration": 4.72
+    },
+    {
+      "text": "time you know my breathing was what it",
+      "start": 2147.24,
+      "duration": 4.879
+    },
+    {
+      "text": "was it was the first thing that I found",
+      "start": 2150.079,
+      "duration": 4.28
+    },
+    {
+      "text": "that helped me with L Co and that really",
+      "start": 2152.119,
+      "duration": 4.801
+    },
+    {
+      "text": "then put me on the trajectory to find",
+      "start": 2154.359,
+      "duration": 4.361
+    },
+    {
+      "text": "the next thing and then the next thing",
+      "start": 2156.92,
+      "duration": 4.76
+    },
+    {
+      "text": "that helped me to eventually recover but",
+      "start": 2158.72,
+      "duration": 5.16
+    },
+    {
+      "text": "I still use these breathing exercises in",
+      "start": 2161.68,
+      "duration": 5.24
+    },
+    {
+      "text": "my daily life now all the time you know",
+      "start": 2163.88,
+      "duration": 4.36
+    },
+    {
+      "text": "it's a skill that's going to help you",
+      "start": 2166.92,
+      "duration": 3.84
+    },
+    {
+      "text": "with recovery but it's also a skill for",
+      "start": 2168.24,
+      "duration": 6.16
+    },
+    {
+      "text": "life um you know because life isn't",
+      "start": 2170.76,
+      "duration": 5.96
+    },
+    {
+      "text": "perfect when you recover stress still",
+      "start": 2174.4,
+      "duration": 5.24
+    },
+    {
+      "text": "happens you still get sick um you know",
+      "start": 2176.72,
+      "duration": 5.359
+    },
+    {
+      "text": "these things do still happen and you",
+      "start": 2179.64,
+      "duration": 4.16
+    },
+    {
+      "text": "know having that Foundation of",
+      "start": 2182.079,
+      "duration": 4.52
+    },
+    {
+      "text": "functional breathing and you know being",
+      "start": 2183.8,
+      "duration": 4.44
+    },
+    {
+      "text": "able to impact your nervous system and",
+      "start": 2186.599,
+      "duration": 3.961
+    },
+    {
+      "text": "all these things like you still need",
+      "start": 2188.24,
+      "duration": 5.48
+    },
+    {
+      "text": "them that's still super super important",
+      "start": 2190.56,
+      "duration": 5.36
+    },
+    {
+      "text": "um so I yeah I talk about this all the",
+      "start": 2193.72,
+      "duration": 4.96
+    },
+    {
+      "text": "time um you know how how important that",
+      "start": 2195.92,
+      "duration": 5.96
+    },
+    {
+      "text": "is so yeah I'd love to talk a little bit",
+      "start": 2198.68,
+      "duration": 6.36
+    },
+    {
+      "text": "more about the the protocol I think that",
+      "start": 2201.88,
+      "duration": 5.04
+    },
+    {
+      "text": "is that the right word um you know we",
+      "start": 2205.04,
+      "duration": 3.799
+    },
+    {
+      "text": "sort of talked about the what it was",
+      "start": 2206.92,
+      "duration": 5.88
+    },
+    {
+      "text": "based on um so yeah it' be cool to dive",
+      "start": 2208.839,
+      "duration": 5.681
+    },
+    {
+      "text": "into a bit of",
+      "start": 2212.8,
+      "duration": 4.88
+    },
+    {
+      "text": "um you know how how long did you do this",
+      "start": 2214.52,
+      "duration": 5.16
+    },
+    {
+      "text": "for and was there any sort of",
+      "start": 2217.68,
+      "duration": 4.88
+    },
+    {
+      "text": "modifications that you made um when you",
+      "start": 2219.68,
+      "duration": 5.8
+    },
+    {
+      "text": "were working with the long covid",
+      "start": 2222.56,
+      "duration": 5.559
+    },
+    {
+      "text": "people uh so there was evaluation",
+      "start": 2225.48,
+      "duration": 4.28
+    },
+    {
+      "text": "sessions sometimes two just because",
+      "start": 2228.119,
+      "duration": 3.121
+    },
+    {
+      "text": "again my sessions are not long enough",
+      "start": 2229.76,
+      "duration": 4.4
+    },
+    {
+      "text": "and I you know hearing the full story",
+      "start": 2231.24,
+      "duration": 5.2
+    },
+    {
+      "text": "first and getting kind of this talk",
+      "start": 2234.16,
+      "duration": 3.439
+    },
+    {
+      "text": "sometimes takes the whole session and",
+      "start": 2236.44,
+      "duration": 2.52
+    },
+    {
+      "text": "then the measurement takes another",
+      "start": 2237.599,
+      "duration": 2.801
+    },
+    {
+      "text": "session but",
+      "start": 2238.96,
+      "duration": 4.52
+    },
+    {
+      "text": "evaluation then uh at that time I was",
+      "start": 2240.4,
+      "duration": 6.32
+    },
+    {
+      "text": "having six weeks kind of once a week uh",
+      "start": 2243.48,
+      "duration": 6.52
+    },
+    {
+      "text": "one hour Zoo Zoom class group class and",
+      "start": 2246.72,
+      "duration": 5.76
+    },
+    {
+      "text": "then individual sessions it all really",
+      "start": 2250.0,
+      "duration": 4.319
+    },
+    {
+      "text": "varied this is why it's not a great",
+      "start": 2252.48,
+      "duration": 3.92
+    },
+    {
+      "text": "research because again it was a",
+      "start": 2254.319,
+      "duration": 4.881
+    },
+    {
+      "text": "difficult time so the individual",
+      "start": 2256.4,
+      "duration": 5.32
+    },
+    {
+      "text": "sessions between were between one and or",
+      "start": 2259.2,
+      "duration": 5.399
+    },
+    {
+      "text": "two and four kind of individual sessions",
+      "start": 2261.72,
+      "duration": 4.879
+    },
+    {
+      "text": "and then many people again especially",
+      "start": 2264.599,
+      "duration": 3.801
+    },
+    {
+      "text": "the beginning because I was still",
+      "start": 2266.599,
+      "duration": 4.281
+    },
+    {
+      "text": "modifying and learning people really",
+      "start": 2268.4,
+      "duration": 5.12
+    },
+    {
+      "text": "benefited more when they took the class",
+      "start": 2270.88,
+      "duration": 4.439
+    },
+    {
+      "text": "again like six more weeks started from",
+      "start": 2273.52,
+      "duration": 4.2
+    },
+    {
+      "text": "the beginning and I we found that really",
+      "start": 2275.319,
+      "duration": 5.881
+    },
+    {
+      "text": "this is when they started to to notice",
+      "start": 2277.72,
+      "duration": 5.56
+    },
+    {
+      "text": "that the techniques help them before",
+      "start": 2281.2,
+      "duration": 3.879
+    },
+    {
+      "text": "that it was all kind of just exhausting",
+      "start": 2283.28,
+      "duration": 3.76
+    },
+    {
+      "text": "and and like they were seeing it through",
+      "start": 2285.079,
+      "duration": 4.681
+    },
+    {
+      "text": "the fog of everything or falling asleep",
+      "start": 2287.04,
+      "duration": 5.799
+    },
+    {
+      "text": "in the so I did record every class and",
+      "start": 2289.76,
+      "duration": 5.359
+    },
+    {
+      "text": "they they got handouts and I appreciated",
+      "start": 2292.839,
+      "duration": 4.801
+    },
+    {
+      "text": "that so and because I really kept",
+      "start": 2295.119,
+      "duration": 4.48
+    },
+    {
+      "text": "encourag them then if you don't feel",
+      "start": 2297.64,
+      "duration": 3.92
+    },
+    {
+      "text": "well you just lie down you can rest you",
+      "start": 2299.599,
+      "duration": 3.52
+    },
+    {
+      "text": "can fall asleep I really gave them",
+      "start": 2301.56,
+      "duration": 3.88
+    },
+    {
+      "text": "permission to do that after I saw how",
+      "start": 2303.119,
+      "duration": 6.401
+    },
+    {
+      "text": "bad they are so the first two sessions",
+      "start": 2305.44,
+      "duration": 5.84
+    },
+    {
+      "text": "and it was all following Ros Alva's",
+      "start": 2309.52,
+      "duration": 5.0
+    },
+    {
+      "text": "protocol just slowing it down uh was",
+      "start": 2311.28,
+      "duration": 5.4
+    },
+    {
+      "text": "improving nasal functions talking a",
+      "start": 2314.52,
+      "duration": 3.68
+    },
+    {
+      "text": "little bit about breath awareness",
+      "start": 2316.68,
+      "duration": 3.84
+    },
+    {
+      "text": "posture but nasal",
+      "start": 2318.2,
+      "duration": 5.36
+    },
+    {
+      "text": "functions uh and which really covers all",
+      "start": 2320.52,
+      "duration": 5.64
+    },
+    {
+      "text": "the three dimensions already uh which is",
+      "start": 2323.56,
+      "duration": 7.36
+    },
+    {
+      "text": "very cool stuff and after that there was",
+      "start": 2326.16,
+      "duration": 8.08
+    },
+    {
+      "text": "mindfulness and M Mind Body",
+      "start": 2330.92,
+      "duration": 5.679
+    },
+    {
+      "text": "connections uh training gentle",
+      "start": 2334.24,
+      "duration": 4.839
+    },
+    {
+      "text": "diaphragmatic breathing bre and each",
+      "start": 2336.599,
+      "duration": 4.121
+    },
+    {
+      "text": "each kind of each one is kind of two",
+      "start": 2339.079,
+      "duration": 5.641
+    },
+    {
+      "text": "sessions and then addressing",
+      "start": 2340.72,
+      "duration": 6.68
+    },
+    {
+      "text": "hyperinflation and",
+      "start": 2344.72,
+      "duration": 4.96
+    },
+    {
+      "text": "hyperventilation and then we did",
+      "start": 2347.4,
+      "duration": 4.719
+    },
+    {
+      "text": "resonant frequency breathing slow and",
+      "start": 2349.68,
+      "duration": 4.159
+    },
+    {
+      "text": "which is slow breathing I think you call",
+      "start": 2352.119,
+      "duration": 4.161
+    },
+    {
+      "text": "it can Cadence right it's kind of this",
+      "start": 2353.839,
+      "duration": 4.561
+    },
+    {
+      "text": "four in six out but building towards",
+      "start": 2356.28,
+      "duration": 4.64
+    },
+    {
+      "text": "that and then later on I thought I felt",
+      "start": 2358.4,
+      "duration": 4.28
+    },
+    {
+      "text": "that people really couldn't tolerate",
+      "start": 2360.92,
+      "duration": 3.72
+    },
+    {
+      "text": "reduced breathing so we switched the",
+      "start": 2362.68,
+      "duration": 4.399
+    },
+    {
+      "text": "order so we did slow breathing first but",
+      "start": 2364.64,
+      "duration": 4.92
+    },
+    {
+      "text": "in this studied was still we take a",
+      "start": 2367.079,
+      "duration": 4.28
+    },
+    {
+      "text": "first or reduce volume breathing first",
+      "start": 2369.56,
+      "duration": 5.16
+    },
+    {
+      "text": "before slow breathing and then we also",
+      "start": 2371.359,
+      "duration": 6.921
+    },
+    {
+      "text": "covered how to pace yourself talking and",
+      "start": 2374.72,
+      "duration": 8.16
+    },
+    {
+      "text": "breathing and and the physical uh pacing",
+      "start": 2378.28,
+      "duration": 6.76
+    },
+    {
+      "text": "I really learned that people don't",
+      "start": 2382.88,
+      "duration": 4.08
+    },
+    {
+      "text": "understand what is like they some",
+      "start": 2385.04,
+      "duration": 5.2
+    },
+    {
+      "text": "weren't um aware that they are pushing",
+      "start": 2386.96,
+      "duration": 5.44
+    },
+    {
+      "text": "themselves beyond their capacity so even",
+      "start": 2390.24,
+      "duration": 4.64
+    },
+    {
+      "text": "walking from the waiting room to my",
+      "start": 2392.4,
+      "duration": 4.56
+    },
+    {
+      "text": "office I could see that they're walking",
+      "start": 2394.88,
+      "duration": 3.88
+    },
+    {
+      "text": "way faster and then they reach my my",
+      "start": 2396.96,
+      "duration": 3.96
+    },
+    {
+      "text": "office and they're so breathless and",
+      "start": 2398.76,
+      "duration": 3.72
+    },
+    {
+      "text": "then or some people just wouldn't stop",
+      "start": 2400.92,
+      "duration": 4.28
+    },
+    {
+      "text": "talking which is also really you know so",
+      "start": 2402.48,
+      "duration": 5.0
+    },
+    {
+      "text": "if they're hooked to the capnometer and",
+      "start": 2405.2,
+      "duration": 4.08
+    },
+    {
+      "text": "and they see that after talking the",
+      "start": 2407.48,
+      "duration": 3.76
+    },
+    {
+      "text": "their CO2 goes to",
+      "start": 2409.28,
+      "duration": 4.92
+    },
+    {
+      "text": "15 that's the lesson and so I really",
+      "start": 2411.24,
+      "duration": 5.52
+    },
+    {
+      "text": "worked uh with people how to face",
+      "start": 2414.2,
+      "duration": 4.72
+    },
+    {
+      "text": "themselves uh yeah and then individual",
+      "start": 2416.76,
+      "duration": 4.079
+    },
+    {
+      "text": "sessions we just yeah reinforced",
+      "start": 2418.92,
+      "duration": 3.64
+    },
+    {
+      "text": "whatever was individual for them with",
+      "start": 2420.839,
+      "duration": 2.561
+    },
+    {
+      "text": "their",
+      "start": 2422.56,
+      "duration": 4.279
+    },
+    {
+      "text": "challenges so after at least one course",
+      "start": 2423.4,
+      "duration": 5.679
+    },
+    {
+      "text": "of six sessions some people were",
+      "start": 2426.839,
+      "duration": 4.76
+    },
+    {
+      "text": "remeasured then some people remeasured",
+      "start": 2429.079,
+      "duration": 5.441
+    },
+    {
+      "text": "and then kept going uh and took it the",
+      "start": 2431.599,
+      "duration": 5.52
+    },
+    {
+      "text": "second time so but but yeah at least six",
+      "start": 2434.52,
+      "duration": 6.24
+    },
+    {
+      "text": "after six uh weeks there was the second",
+      "start": 2437.119,
+      "duration": 6.161
+    },
+    {
+      "text": "measurement yeah and it's I think this",
+      "start": 2440.76,
+      "duration": 5.359
+    },
+    {
+      "text": "this is so awesome and you're talking",
+      "start": 2443.28,
+      "duration": 5.839
+    },
+    {
+      "text": "about sort of six week blocks and you",
+      "start": 2446.119,
+      "duration": 6.321
+    },
+    {
+      "text": "know breathing is incredible and it has",
+      "start": 2449.119,
+      "duration": 7.2
+    },
+    {
+      "text": "such an amazing impact on everything in",
+      "start": 2452.44,
+      "duration": 7.84
+    },
+    {
+      "text": "the body but it takes time you know you",
+      "start": 2456.319,
+      "duration": 6.641
+    },
+    {
+      "text": "don't start doing something that is new",
+      "start": 2460.28,
+      "duration": 5.4
+    },
+    {
+      "text": "to you and suddenly become really good",
+      "start": 2462.96,
+      "duration": 5.04
+    },
+    {
+      "text": "at it you know you have to practice as a",
+      "start": 2465.68,
+      "duration": 4.72
+    },
+    {
+      "text": "as a musician as a music teacher this is",
+      "start": 2468.0,
+      "duration": 4.16
+    },
+    {
+      "text": "something that I'm very used to kind of",
+      "start": 2470.4,
+      "duration": 3.919
+    },
+    {
+      "text": "instilling into people and that I'm used",
+      "start": 2472.16,
+      "duration": 4.76
+    },
+    {
+      "text": "to doing myself you know you don't pick",
+      "start": 2474.319,
+      "duration": 4.361
+    },
+    {
+      "text": "up a piece of music and are instantly",
+      "start": 2476.92,
+      "duration": 4.8
+    },
+    {
+      "text": "able to play it um and you don't go from",
+      "start": 2478.68,
+      "duration": 5.52
+    },
+    {
+      "text": "having a dysfunctional breathing pattern",
+      "start": 2481.72,
+      "duration": 5.2
+    },
+    {
+      "text": "to instantly your breathing being",
+      "start": 2484.2,
+      "duration": 3.96
+    },
+    {
+      "text": "perfect",
+      "start": 2486.92,
+      "duration": 2.88
+    },
+    {
+      "text": "and when you're talking about working",
+      "start": 2488.16,
+      "duration": 4.48
+    },
+    {
+      "text": "with people with lung Co for example",
+      "start": 2489.8,
+      "duration": 5.08
+    },
+    {
+      "text": "these people are severely fatigued",
+      "start": 2492.64,
+      "duration": 4.64
+    },
+    {
+      "text": "they've got cognitive challenges they've",
+      "start": 2494.88,
+      "duration": 4.64
+    },
+    {
+      "text": "got disautonomia you can't make these",
+      "start": 2497.28,
+      "duration": 4.36
+    },
+    {
+      "text": "changes fast because actually that's",
+      "start": 2499.52,
+      "duration": 4.839
+    },
+    {
+      "text": "going to make things worse um so like",
+      "start": 2501.64,
+      "duration": 4.439
+    },
+    {
+      "text": "you say you know that six week block is",
+      "start": 2504.359,
+      "duration": 3.841
+    },
+    {
+      "text": "important and then actually as you say",
+      "start": 2506.079,
+      "duration": 5.201
+    },
+    {
+      "text": "maybe maybe doing it again maybe that's",
+      "start": 2508.2,
+      "duration": 6.399
+    },
+    {
+      "text": "what they need and um did you see more",
+      "start": 2511.28,
+      "duration": 5.68
+    },
+    {
+      "text": "improvements in the people that did the",
+      "start": 2514.599,
+      "duration": 5.201
+    },
+    {
+      "text": "set second six week block or is that not",
+      "start": 2516.96,
+      "duration": 5.48
+    },
+    {
+      "text": "something that you're able to to",
+      "start": 2519.8,
+      "duration": 6.08
+    },
+    {
+      "text": "measure yeah absolutely yes and and now",
+      "start": 2522.44,
+      "duration": 5.72
+    },
+    {
+      "text": "I kept work I I still I think I saw",
+      "start": 2525.88,
+      "duration": 5.12
+    },
+    {
+      "text": "around 80 people I I counted before kind",
+      "start": 2528.16,
+      "duration": 5.919
+    },
+    {
+      "text": "of talking to you today so yeah people",
+      "start": 2531.0,
+      "duration": 4.8
+    },
+    {
+      "text": "stay again like they just first of all",
+      "start": 2534.079,
+      "duration": 4.401
+    },
+    {
+      "text": "it really helps them to stay with the",
+      "start": 2535.8,
+      "duration": 4.4
+    },
+    {
+      "text": "program I think if you if you leave",
+      "start": 2538.48,
+      "duration": 4.079
+    },
+    {
+      "text": "after six weeks I know it's very hard to",
+      "start": 2540.2,
+      "duration": 5.0
+    },
+    {
+      "text": "continue on your own so people choose",
+      "start": 2542.559,
+      "duration": 5.121
+    },
+    {
+      "text": "stay and continue and I have the",
+      "start": 2545.2,
+      "duration": 4.24
+    },
+    {
+      "text": "advantage that it they you know it's",
+      "start": 2547.68,
+      "duration": 4.56
+    },
+    {
+      "text": "buil they their insurance pays for that",
+      "start": 2549.44,
+      "duration": 4.8
+    },
+    {
+      "text": "so people can afford it to and it's at",
+      "start": 2552.24,
+      "duration": 4.96
+    },
+    {
+      "text": "home so it's easy yes absolutely I find",
+      "start": 2554.24,
+      "duration": 5.0
+    },
+    {
+      "text": "it the people who stay longer and there",
+      "start": 2557.2,
+      "duration": 3.76
+    },
+    {
+      "text": "is so much more that I don't cover in",
+      "start": 2559.24,
+      "duration": 4.56
+    },
+    {
+      "text": "the course and I can only now I offer",
+      "start": 2560.96,
+      "duration": 5.32
+    },
+    {
+      "text": "what I called Advanced breathing course",
+      "start": 2563.8,
+      "duration": 3.96
+    },
+    {
+      "text": "which doesn't mean that the people are",
+      "start": 2566.28,
+      "duration": 3.96
+    },
+    {
+      "text": "are you know with less severe long Co it",
+      "start": 2567.76,
+      "duration": 4.16
+    },
+    {
+      "text": "just means that they H me enough that",
+      "start": 2570.24,
+      "duration": 3.92
+    },
+    {
+      "text": "they you know they move to the next so",
+      "start": 2571.92,
+      "duration": 4.6
+    },
+    {
+      "text": "there is so much more that we can do and",
+      "start": 2574.16,
+      "duration": 4.199
+    },
+    {
+      "text": "definitely the people who stay longer",
+      "start": 2576.52,
+      "duration": 4.88
+    },
+    {
+      "text": "have much better",
+      "start": 2578.359,
+      "duration": 3.041
+    },
+    {
+      "text": "results we'll be right",
+      "start": 2582.599,
+      "duration": 5.921
+    },
+    {
+      "text": "back hey there I'm just jumping in for a",
+      "start": 2586.0,
+      "duration": 4.48
+    },
+    {
+      "text": "second to see if you're enjoying this",
+      "start": 2588.52,
+      "duration": 4.44
+    },
+    {
+      "text": "episode if you're finding it useful",
+      "start": 2590.48,
+      "duration": 3.92
+    },
+    {
+      "text": "maybe you would consider sharing it",
+      "start": 2592.96,
+      "duration": 3.68
+    },
+    {
+      "text": "somewhere a friend a group or even on",
+      "start": 2594.4,
+      "duration": 4.719
+    },
+    {
+      "text": "your Twitter feed if everyone was able",
+      "start": 2596.64,
+      "duration": 4.199
+    },
+    {
+      "text": "to share just once we' be able to get",
+      "start": 2599.119,
+      "duration": 3.561
+    },
+    {
+      "text": "this information out to even more people",
+      "start": 2600.839,
+      "duration": 4.321
+    },
+    {
+      "text": "who really really need it so please",
+      "start": 2602.68,
+      "duration": 3.96
+    },
+    {
+      "text": "consider sharing somewhere if you",
+      "start": 2605.16,
+      "duration": 2.6
+    },
+    {
+      "text": "possibly can",
+      "start": 2606.64,
+      "duration": 2.88
+    },
+    {
+      "text": "I hope you enjoy the episode and thank",
+      "start": 2607.76,
+      "duration": 4.2
+    },
+    {
+      "text": "you so",
+      "start": 2609.52,
+      "duration": 2.44
+    },
+    {
+      "text": "much yeah for sure I just wanted to say",
+      "start": 2615.68,
+      "duration": 5.24
+    },
+    {
+      "text": "something about the you know like",
+      "start": 2618.88,
+      "duration": 3.679
+    },
+    {
+      "text": "getting your breathing perfect and",
+      "start": 2620.92,
+      "duration": 3.399
+    },
+    {
+      "text": "breathing in the right way and learning",
+      "start": 2622.559,
+      "duration": 4.0
+    },
+    {
+      "text": "to breathe correctly one of the ideas in",
+      "start": 2624.319,
+      "duration": 5.401
+    },
+    {
+      "text": "integrative breathing therapy is that",
+      "start": 2626.559,
+      "duration": 5.681
+    },
+    {
+      "text": "having rigid ideas about perfect",
+      "start": 2629.72,
+      "duration": 5.24
+    },
+    {
+      "text": "breathing is counterproductive and that",
+      "start": 2632.24,
+      "duration": 4.28
+    },
+    {
+      "text": "it's actually really important to",
+      "start": 2634.96,
+      "duration": 2.84
+    },
+    {
+      "text": "understand that",
+      "start": 2636.52,
+      "duration": 3.2
+    },
+    {
+      "text": "how the way that you're breathing is a",
+      "start": 2637.8,
+      "duration": 3.68
+    },
+    {
+      "text": "reaction or a response to the things",
+      "start": 2639.72,
+      "duration": 5.399
+    },
+    {
+      "text": "that have happened to you and you know",
+      "start": 2641.48,
+      "duration": 6.56
+    },
+    {
+      "text": "your history which might be trauma or",
+      "start": 2645.119,
+      "duration": 6.121
+    },
+    {
+      "text": "covid or whatever and that it's a a lot",
+      "start": 2648.04,
+      "duration": 5.92
+    },
+    {
+      "text": "of it is about you know L listening to",
+      "start": 2651.24,
+      "duration": 4.319
+    },
+    {
+      "text": "and observing the breath and it's",
+      "start": 2653.96,
+      "duration": 3.68
+    },
+    {
+      "text": "actually about developing a new",
+      "start": 2655.559,
+      "duration": 5.601
+    },
+    {
+      "text": "relationship with your breath so that",
+      "start": 2657.64,
+      "duration": 6.16
+    },
+    {
+      "text": "there's a lot of time spent in you know",
+      "start": 2661.16,
+      "duration": 4.6
+    },
+    {
+      "text": "listening and observing and noticing",
+      "start": 2663.8,
+      "duration": 3.6
+    },
+    {
+      "text": "natural changes it's part of the",
+      "start": 2665.76,
+      "duration": 4.24
+    },
+    {
+      "text": "protocol too is about noticing and",
+      "start": 2667.4,
+      "duration": 6.0
+    },
+    {
+      "text": "observing natural changes in breath that",
+      "start": 2670.0,
+      "duration": 6.8
+    },
+    {
+      "text": "occur with different things and then",
+      "start": 2673.4,
+      "duration": 6.439
+    },
+    {
+      "text": "being able by observing the breath to",
+      "start": 2676.8,
+      "duration": 5.519
+    },
+    {
+      "text": "know yourself so therefore to be able to",
+      "start": 2679.839,
+      "duration": 4.841
+    },
+    {
+      "text": "you know be better at pacing or better",
+      "start": 2682.319,
+      "duration": 5.52
+    },
+    {
+      "text": "at knowing that you need withdrawal time",
+      "start": 2684.68,
+      "duration": 6.159
+    },
+    {
+      "text": "or whatever so rather than always like",
+      "start": 2687.839,
+      "duration": 4.921
+    },
+    {
+      "text": "doing something to the breath it's also",
+      "start": 2690.839,
+      "duration": 5.121
+    },
+    {
+      "text": "about noticing and feeling and",
+      "start": 2692.76,
+      "duration": 5.96
+    },
+    {
+      "text": "developing a new way of kind of relating",
+      "start": 2695.96,
+      "duration": 5.119
+    },
+    {
+      "text": "to the breath because the big difference",
+      "start": 2698.72,
+      "duration": 4.08
+    },
+    {
+      "text": "I think because Hadas and I have talked",
+      "start": 2701.079,
+      "duration": 2.601
+    },
+    {
+      "text": "about you know other breathing",
+      "start": 2702.8,
+      "duration": 2.48
+    },
+    {
+      "text": "techniques I haven't looked at your",
+      "start": 2703.68,
+      "duration": 3.879
+    },
+    {
+      "text": "program Jackie but you know other things",
+      "start": 2705.28,
+      "duration": 3.92
+    },
+    {
+      "text": "it was all much everyone's taught to do",
+      "start": 2707.559,
+      "duration": 4.121
+    },
+    {
+      "text": "the same box breathing you know or",
+      "start": 2709.2,
+      "duration": 4.6
+    },
+    {
+      "text": "they're taught to do resonance frequency",
+      "start": 2711.68,
+      "duration": 3.72
+    },
+    {
+      "text": "breathing you know in for four out for",
+      "start": 2713.8,
+      "duration": 5.319
+    },
+    {
+      "text": "six or whatever and that's all they do",
+      "start": 2715.4,
+      "duration": 6.48
+    },
+    {
+      "text": "and that's really missing big part of",
+      "start": 2719.119,
+      "duration": 5.601
+    },
+    {
+      "text": "the story because it's not just about",
+      "start": 2721.88,
+      "duration": 4.84
+    },
+    {
+      "text": "doing imposing something it's like if",
+      "start": 2724.72,
+      "duration": 4.04
+    },
+    {
+      "text": "you to a cocktail party and someone just",
+      "start": 2726.72,
+      "duration": 3.839
+    },
+    {
+      "text": "talks to you and they don't listen they",
+      "start": 2728.76,
+      "duration": 5.76
+    },
+    {
+      "text": "are so boring it's such an inefficient",
+      "start": 2730.559,
+      "duration": 6.241
+    },
+    {
+      "text": "communication segment right there",
+      "start": 2734.52,
+      "duration": 5.039
+    },
+    {
+      "text": "because there's not sufficient you know",
+      "start": 2736.8,
+      "duration": 6.559
+    },
+    {
+      "text": "listening and um kind listening and it's",
+      "start": 2739.559,
+      "duration": 7.081
+    },
+    {
+      "text": "like that kind listening is what needs",
+      "start": 2743.359,
+      "duration": 5.72
+    },
+    {
+      "text": "to happen with the breath with very sick",
+      "start": 2746.64,
+      "duration": 5.4
+    },
+    {
+      "text": "people with long Co with me CFS with",
+      "start": 2749.079,
+      "duration": 4.681
+    },
+    {
+      "text": "people that the system has lost",
+      "start": 2752.04,
+      "duration": 3.4
+    },
+    {
+      "text": "homeostasis and it's become hugely",
+      "start": 2753.76,
+      "duration": 5.0
+    },
+    {
+      "text": "disregulated you have to be really able",
+      "start": 2755.44,
+      "duration": 5.84
+    },
+    {
+      "text": "to be with what is and listen and be",
+      "start": 2758.76,
+      "duration": 6.04
+    },
+    {
+      "text": "kind listening you know yeah absolutely",
+      "start": 2761.28,
+      "duration": 5.72
+    },
+    {
+      "text": "and uh I I loved what you said about",
+      "start": 2764.8,
+      "duration": 4.16
+    },
+    {
+      "text": "perfection I mean I'm a recovering",
+      "start": 2767.0,
+      "duration": 4.0
+    },
+    {
+      "text": "perfectionist um I think you know it's",
+      "start": 2768.96,
+      "duration": 3.52
+    },
+    {
+      "text": "not everybody but I think this is quite",
+      "start": 2771.0,
+      "duration": 4.599
+    },
+    {
+      "text": "a common trait in people with long Co um",
+      "start": 2772.48,
+      "duration": 5.72
+    },
+    {
+      "text": "and um you know I I love it when people",
+      "start": 2775.599,
+      "duration": 4.48
+    },
+    {
+      "text": "who you know work are working as",
+      "start": 2778.2,
+      "duration": 3.68
+    },
+    {
+      "text": "breathing instructors are working you",
+      "start": 2780.079,
+      "duration": 4.081
+    },
+    {
+      "text": "know in that sort of world and they talk",
+      "start": 2781.88,
+      "duration": 4.56
+    },
+    {
+      "text": "about how they still practice breathing",
+      "start": 2784.16,
+      "duration": 4.24
+    },
+    {
+      "text": "and I'm like this is great because even",
+      "start": 2786.44,
+      "duration": 4.52
+    },
+    {
+      "text": "the people who are the best at it they",
+      "start": 2788.4,
+      "duration": 4.679
+    },
+    {
+      "text": "still practice you know your concert",
+      "start": 2790.96,
+      "duration": 4.0
+    },
+    {
+      "text": "soloists they still practice they",
+      "start": 2793.079,
+      "duration": 4.52
+    },
+    {
+      "text": "probably practice more than anybody else",
+      "start": 2794.96,
+      "duration": 5.119
+    },
+    {
+      "text": "nobody is perfect we can all be better",
+      "start": 2797.599,
+      "duration": 5.52
+    },
+    {
+      "text": "and we can all as you say listen into",
+      "start": 2800.079,
+      "duration": 5.681
+    },
+    {
+      "text": "our breath because it changes all the",
+      "start": 2803.119,
+      "duration": 4.641
+    },
+    {
+      "text": "time you know the way that your breath",
+      "start": 2805.76,
+      "duration": 3.599
+    },
+    {
+      "text": "is in the morning is not the same that",
+      "start": 2807.76,
+      "duration": 3.12
+    },
+    {
+      "text": "your breath is in the evening and it's",
+      "start": 2809.359,
+      "duration": 3.161
+    },
+    {
+      "text": "not the way that your breath is the next",
+      "start": 2810.88,
+      "duration": 4.959
+    },
+    {
+      "text": "day um so you know it's yeah it's such a",
+      "start": 2812.52,
+      "duration": 4.88
+    },
+    {
+      "text": "powerful tool and",
+      "start": 2815.839,
+      "duration": 3.841
+    },
+    {
+      "text": "in just so many ways isn't it it's it's",
+      "start": 2817.4,
+      "duration": 5.88
+    },
+    {
+      "text": "just yeah it's it's awesome um I think",
+      "start": 2819.68,
+      "duration": 8.28
+    },
+    {
+      "text": "this is brilliant um so what is next um",
+      "start": 2823.28,
+      "duration": 6.2
+    },
+    {
+      "text": "you know we've cracked long Co with",
+      "start": 2827.96,
+      "duration": 3.879
+    },
+    {
+      "text": "breathing I mean you know we haven't um",
+      "start": 2829.48,
+      "duration": 4.879
+    },
+    {
+      "text": "but you know you've proved that you know",
+      "start": 2831.839,
+      "duration": 4.561
+    },
+    {
+      "text": "you can see a huge amount of",
+      "start": 2834.359,
+      "duration": 5.121
+    },
+    {
+      "text": "improvement by doing better breathing",
+      "start": 2836.4,
+      "duration": 6.32
+    },
+    {
+      "text": "for one for better words um so where are",
+      "start": 2839.48,
+      "duration": 5.56
+    },
+    {
+      "text": "you going from here um and what are you",
+      "start": 2842.72,
+      "duration": 5.04
+    },
+    {
+      "text": "maybe hoping that other people might do",
+      "start": 2845.04,
+      "duration": 4.68
+    },
+    {
+      "text": "with what you've produced I suppose",
+      "start": 2847.76,
+      "duration": 4.64
+    },
+    {
+      "text": "that's a really big question isn't it",
+      "start": 2849.72,
+      "duration": 5.639
+    },
+    {
+      "text": "yeah I I know R Sala will has a lot of",
+      "start": 2852.4,
+      "duration": 5.12
+    },
+    {
+      "text": "ideas about what research should happen",
+      "start": 2855.359,
+      "duration": 4.321
+    },
+    {
+      "text": "and personally you know I'm a clinician",
+      "start": 2857.52,
+      "duration": 4.72
+    },
+    {
+      "text": "and I'm very busy like I really",
+      "start": 2859.68,
+      "duration": 5.28
+    },
+    {
+      "text": "literally spend all day seeing kind of",
+      "start": 2862.24,
+      "duration": 5.04
+    },
+    {
+      "text": "many many like patient after patient so",
+      "start": 2864.96,
+      "duration": 4.96
+    },
+    {
+      "text": "I don't have research capacity but I I",
+      "start": 2867.28,
+      "duration": 4.279
+    },
+    {
+      "text": "continue to see the patients and",
+      "start": 2869.92,
+      "duration": 3.919
+    },
+    {
+      "text": "continue to get referral new referrals",
+      "start": 2871.559,
+      "duration": 5.121
+    },
+    {
+      "text": "every week and I just collect the data",
+      "start": 2873.839,
+      "duration": 3.76
+    },
+    {
+      "text": "in",
+      "start": 2876.68,
+      "duration": 3.48
+    },
+    {
+      "text": "as best as I can hoping that one day",
+      "start": 2877.599,
+      "duration": 4.921
+    },
+    {
+      "text": "either I will again make the time or",
+      "start": 2880.16,
+      "duration": 3.8
+    },
+    {
+      "text": "someone else will get",
+      "start": 2882.52,
+      "duration": 4.599
+    },
+    {
+      "text": "interested uh to look more deeply into",
+      "start": 2883.96,
+      "duration": 5.76
+    },
+    {
+      "text": "that uh but definitely there is much",
+      "start": 2887.119,
+      "duration": 5.2
+    },
+    {
+      "text": "more interesting uh research that like",
+      "start": 2889.72,
+      "duration": 4.24
+    },
+    {
+      "text": "understanding the mechanism that R ala",
+      "start": 2892.319,
+      "duration": 2.8
+    },
+    {
+      "text": "will talk",
+      "start": 2893.96,
+      "duration": 3.639
+    },
+    {
+      "text": "about yeah I mean I'm a clinician too as",
+      "start": 2895.119,
+      "duration": 4.361
+    },
+    {
+      "text": "well as a researcher and I and I just",
+      "start": 2897.599,
+      "duration": 4.601
+    },
+    {
+      "text": "think you knowas and I both you know as",
+      "start": 2899.48,
+      "duration": 5.839
+    },
+    {
+      "text": "as clinicians what what's happening what",
+      "start": 2902.2,
+      "duration": 5.96
+    },
+    {
+      "text": "we want maybe implicitly you know which",
+      "start": 2905.319,
+      "duration": 5.561
+    },
+    {
+      "text": "I might State explicitly uh for both of",
+      "start": 2908.16,
+      "duration": 5.12
+    },
+    {
+      "text": "us is that we just want to keep learning",
+      "start": 2910.88,
+      "duration": 5.56
+    },
+    {
+      "text": "to do what we're doing better and better",
+      "start": 2913.28,
+      "duration": 5.24
+    },
+    {
+      "text": "and we do that by doing what we do in a",
+      "start": 2916.44,
+      "duration": 5.04
+    },
+    {
+      "text": "structured way you know and using kind",
+      "start": 2918.52,
+      "duration": 4.92
+    },
+    {
+      "text": "of assessment tools and then reassessing",
+      "start": 2921.48,
+      "duration": 4.119
+    },
+    {
+      "text": "and then you know so kind of what we",
+      "start": 2923.44,
+      "duration": 4.159
+    },
+    {
+      "text": "want to keep doing is talking to each",
+      "start": 2925.599,
+      "duration": 5.161
+    },
+    {
+      "text": "other and learning how to improve what",
+      "start": 2927.599,
+      "duration": 6.0
+    },
+    {
+      "text": "we do in terms of getting the word out",
+      "start": 2930.76,
+      "duration": 7.12
+    },
+    {
+      "text": "there I just can't see any more patience",
+      "start": 2933.599,
+      "duration": 7.96
+    },
+    {
+      "text": "back to the rafters and uh do you know I",
+      "start": 2937.88,
+      "duration": 6.6
+    },
+    {
+      "text": "mean we both do want to see patients but",
+      "start": 2941.559,
+      "duration": 5.201
+    },
+    {
+      "text": "it's like what we want to do is to train",
+      "start": 2944.48,
+      "duration": 5.639
+    },
+    {
+      "text": "more people really to be able to do this",
+      "start": 2946.76,
+      "duration": 6.16
+    },
+    {
+      "text": "so more training so that it can go out",
+      "start": 2950.119,
+      "duration": 5.96
+    },
+    {
+      "text": "to more people",
+      "start": 2952.92,
+      "duration": 6.0
+    },
+    {
+      "text": "and research would be",
+      "start": 2956.079,
+      "duration": 5.681
+    },
+    {
+      "text": "fantastic and the research that's",
+      "start": 2958.92,
+      "duration": 5.12
+    },
+    {
+      "text": "happened you know in breathing therapy",
+      "start": 2961.76,
+      "duration": 5.359
+    },
+    {
+      "text": "has often been quite siloed and narrow",
+      "start": 2964.04,
+      "duration": 4.88
+    },
+    {
+      "text": "you know it's just been on a particular",
+      "start": 2967.119,
+      "duration": 4.601
+    },
+    {
+      "text": "technique you know diaphragm release",
+      "start": 2968.92,
+      "duration": 5.08
+    },
+    {
+      "text": "with some inspiratory muscle training",
+      "start": 2971.72,
+      "duration": 4.599
+    },
+    {
+      "text": "inspiratory muscle training or just do",
+      "start": 2974.0,
+      "duration": 4.559
+    },
+    {
+      "text": "you know on a particular technique or",
+      "start": 2976.319,
+      "duration": 4.561
+    },
+    {
+      "text": "combined with exercise Rehabilitation I",
+      "start": 2978.559,
+      "duration": 3.961
+    },
+    {
+      "text": "did a literature review actually I think",
+      "start": 2980.88,
+      "duration": 4.64
+    },
+    {
+      "text": "I ended up with 13 studies that had used",
+      "start": 2982.52,
+      "duration": 5.52
+    },
+    {
+      "text": "breathing as an intervention but a lot",
+      "start": 2985.52,
+      "duration": 5.2
+    },
+    {
+      "text": "of them weren't terribly well structured",
+      "start": 2988.04,
+      "duration": 4.519
+    },
+    {
+      "text": "you know they it's like they hadn't",
+      "start": 2990.72,
+      "duration": 4.839
+    },
+    {
+      "text": "fully committed to really understanding",
+      "start": 2992.559,
+      "duration": 4.401
+    },
+    {
+      "text": "breathing and I think that this",
+      "start": 2995.559,
+      "duration": 5.0
+    },
+    {
+      "text": "particular protocol is unique and the",
+      "start": 2996.96,
+      "duration": 6.28
+    },
+    {
+      "text": "refinements of this protocol you know",
+      "start": 3000.559,
+      "duration": 5.52
+    },
+    {
+      "text": "really should be studied in a bigger",
+      "start": 3003.24,
+      "duration": 5.04
+    },
+    {
+      "text": "cohort you know maybe with a control",
+      "start": 3006.079,
+      "duration": 4.561
+    },
+    {
+      "text": "group usually you know with research you",
+      "start": 3008.28,
+      "duration": 4.319
+    },
+    {
+      "text": "often start off with a case study or a",
+      "start": 3010.64,
+      "duration": 4.719
+    },
+    {
+      "text": "case series like this one here you know",
+      "start": 3012.599,
+      "duration": 4.681
+    },
+    {
+      "text": "that we published and then the next is",
+      "start": 3015.359,
+      "duration": 4.401
+    },
+    {
+      "text": "to do a pilot study that's bigger or",
+      "start": 3017.28,
+      "duration": 6.799
+    },
+    {
+      "text": "then to do a controlled trial but um you",
+      "start": 3019.76,
+      "duration": 6.64
+    },
+    {
+      "text": "we' need kind of resources and help and",
+      "start": 3024.079,
+      "duration": 4.801
+    },
+    {
+      "text": "other people jumping on board you know",
+      "start": 3026.4,
+      "duration": 4.48
+    },
+    {
+      "text": "to help with that cuz we're not in the",
+      "start": 3028.88,
+      "duration": 3.959
+    },
+    {
+      "text": "position to really do that so sort of",
+      "start": 3030.88,
+      "duration": 4.36
+    },
+    {
+      "text": "reaching out for anyone who wants to",
+      "start": 3032.839,
+      "duration": 5.72
+    },
+    {
+      "text": "test this protocol in some format that",
+      "start": 3035.24,
+      "duration": 5.0
+    },
+    {
+      "text": "goes beyond the case",
+      "start": 3038.559,
+      "duration": 5.081
+    },
+    {
+      "text": "series uh and then also you know I mean",
+      "start": 3040.24,
+      "duration": 6.359
+    },
+    {
+      "text": "I do more of this integrative breathing",
+      "start": 3043.64,
+      "duration": 4.64
+    },
+    {
+      "text": "therapy practitioner training you know",
+      "start": 3046.599,
+      "duration": 4.24
+    },
+    {
+      "text": "the general training you know perhaps",
+      "start": 3048.28,
+      "duration": 4.72
+    },
+    {
+      "text": "hadass and I could do some mini",
+      "start": 3050.839,
+      "duration": 5.121
+    },
+    {
+      "text": "trainings on long covid and breathing",
+      "start": 3053.0,
+      "duration": 5.16
+    },
+    {
+      "text": "techniques we haven't spoken about that",
+      "start": 3055.96,
+      "duration": 6.04
+    },
+    {
+      "text": "that's a possibility that kind of thing",
+      "start": 3058.16,
+      "duration": 6.52
+    },
+    {
+      "text": "but also look mechanisms kind of how",
+      "start": 3062.0,
+      "duration": 4.72
+    },
+    {
+      "text": "breathing refraining will affect like",
+      "start": 3064.68,
+      "duration": 3.8
+    },
+    {
+      "text": "what will it look like look like in the",
+      "start": 3066.72,
+      "duration": 4.96
+    },
+    {
+      "text": "brain and MRI kind yes",
+      "start": 3068.48,
+      "duration": 5.96
+    },
+    {
+      "text": "exactly yeah what's really changing like",
+      "start": 3071.68,
+      "duration": 4.399
+    },
+    {
+      "text": "we know that the measures of",
+      "start": 3074.44,
+      "duration": 3.399
+    },
+    {
+      "text": "dysfunctional breathing are changing the",
+      "start": 3076.079,
+      "duration": 4.361
+    },
+    {
+      "text": "CO2 the breathing pattern the symptoms",
+      "start": 3077.839,
+      "duration": 4.561
+    },
+    {
+      "text": "that's improving but what else is",
+      "start": 3080.44,
+      "duration": 3.76
+    },
+    {
+      "text": "improving you know in the",
+      "start": 3082.4,
+      "duration": 4.6
+    },
+    {
+      "text": "pathophysiology",
+      "start": 3084.2,
+      "duration": 5.72
+    },
+    {
+      "text": "yeah oh fantastic well there's a wish",
+      "start": 3087.0,
+      "duration": 6.88
+    },
+    {
+      "text": "list um I'm in um let's let's see if we",
+      "start": 3089.92,
+      "duration": 6.159
+    },
+    {
+      "text": "can get anyone else and let's make this",
+      "start": 3093.88,
+      "duration": 6.16
+    },
+    {
+      "text": "happen um guys thank you so much for",
+      "start": 3096.079,
+      "duration": 5.961
+    },
+    {
+      "text": "giving up your precious time and energy",
+      "start": 3100.04,
+      "duration": 4.319
+    },
+    {
+      "text": "to chat to me this has been an absolute",
+      "start": 3102.04,
+      "duration": 4.4
+    },
+    {
+      "text": "pleasure um I feel like we could",
+      "start": 3104.359,
+      "duration": 6.401
+    },
+    {
+      "text": "continue all night um so um yeah thank",
+      "start": 3106.44,
+      "duration": 7.08
+    },
+    {
+      "text": "you so much and yeah all of the links",
+      "start": 3110.76,
+      "duration": 4.039
+    },
+    {
+      "text": "that you've mentioned will go into the",
+      "start": 3113.52,
+      "duration": 3.92
+    },
+    {
+      "text": "show notes if anyone wants to check out",
+      "start": 3114.799,
+      "duration": 5.641
+    },
+    {
+      "text": "any of that and uh yeah I'm excited to",
+      "start": 3117.44,
+      "duration": 5.6
+    },
+    {
+      "text": "see what happens next thank you Jackie",
+      "start": 3120.44,
+      "duration": 4.639
+    },
+    {
+      "text": "thank you so much that was wonderful it",
+      "start": 3123.04,
+      "duration": 4.44
+    },
+    {
+      "text": "was wonderful talking to you yeah thanks",
+      "start": 3125.079,
+      "duration": 4.921
+    },
+    {
+      "text": "for your great work thank you so much to",
+      "start": 3127.48,
+      "duration": 4.56
+    },
+    {
+      "text": "all of my guests and to you for",
+      "start": 3130.0,
+      "duration": 4.599
+    },
+    {
+      "text": "listening I hope you've enjoyed it or at",
+      "start": 3132.04,
+      "duration": 5.36
+    },
+    {
+      "text": "least found it useful the long Co",
+      "start": 3134.599,
+      "duration": 4.841
+    },
+    {
+      "text": "podcast is entirely self-produced and",
+      "start": 3137.4,
+      "duration": 4.6
+    },
+    {
+      "text": "self-funded I'm doing all of this",
+      "start": 3139.44,
+      "duration": 5.399
+    },
+    {
+      "text": "myself if you're able to please go to",
+      "start": 3142.0,
+      "duration": 7.04
+    },
+    {
+      "text": "buy meac coffee.com for /co pod to help",
+      "start": 3144.839,
+      "duration": 6.601
+    },
+    {
+      "text": "me cover the costs of hosting the",
+      "start": 3149.04,
+      "duration": 4.48
+    },
+    {
+      "text": "podcast please look out for the next",
+      "start": 3151.44,
+      "duration": 4.24
+    },
+    {
+      "text": "episode of the longid podcast it's",
+      "start": 3153.52,
+      "duration": 4.16
+    },
+    {
+      "text": "available on all the usual podcast",
+      "start": 3155.68,
+      "duration": 5.08
+    },
+    {
+      "text": "hosting things and do get in touch I'd",
+      "start": 3157.68,
+      "duration": 6.76
+    },
+    {
+      "text": "love to hear from you",
+      "start": 3160.76,
+      "duration": 3.68
+    }
+  ],
+  "metadata": {
+    "title": "132 - Rosalba Courtney & Hadas Golan - Dysfunctional Breathing in Long Covid",
+    "author_name": "Long Covid Podcast",
+    "author_url": "https://www.youtube.com/@longcovidpodcast",
+    "thumbnail_url": "https://i.ytimg.com/vi/N_BSvbZg_tE/hqdefault.jpg"
+  },
+  "_episode": {
+    "num": 132,
+    "title": "132 - Rosalba Courtney & Hadas Golan - Dysfunctional Breathing in Long Covid",
+    "videoId": "N_BSvbZg_tE",
+    "lengthText": "52:49"
+  }
+}
