@@ -2,8 +2,8 @@
 title: Healthcare gaslighting
 type: theme
 tags: [gaslighting, dismissal, anxiety, women, gender, race, paediatric, clinical-communication, normal-tests, vaccine-injured]
-updated: 2026-05-04
-episodes: [1, 60, 61, 62, 65, 69, 81, 84]
+updated: 2026-05-08
+episodes: ["LCP-1", "LCP-60", "LCP-61", "LCP-62", "LCP-65", "LCP-69", "LCP-81", "LCP-84", "RA-76"]
 ---
 
 # Healthcare gaslighting
@@ -29,6 +29,7 @@ The pattern of being told one's symptoms are "anxiety", "stress", or "all in you
 - (ep #69) [[fiona-lowenstein]]: **racial gaslighting at the acute-care entry point** — Black women presenting with the same Covid symptoms in NYC March 2020 were turned away as "anxiety"; some did not survive. Class/race/relationship privilege gated who got admitted.
 - (ep #81) [[liza-dileo-thomas]]: clinician-side anatomy of the dismissal pattern. Names the "great news, everything's normal" antipattern as iatrogenic for chronically-ill patients; argues empathy is measurable, teachable, and declining in third-year medical students. Counter-frame: *I don't know but I believe you* as the high-leverage clinician phrase for LC.
 - (ep #84) [[caroline-pover]]: an even harsher dismissal pattern for vaccine-injured patients — "people cross the street", "step back", and the pattern of being told to call it long covid because the support is more available there. The dismissal compounds when the diagnosis itself is socially undesirable.
+- (RA #76) [[chimere]]: Black US first-wave long-hauler in Baltimore. Repeatedly turned away from ERs because she didn't test positive (March–July 2020); explicitly frames the dismissal through the racial-bias lens. **Notable unblock pattern**: when medical channels failed she wrote *Google reviews* of dismissive doctors and *letters to Baltimore city councilmen*, several of whom intervened with the local hospital. This is the only instance in the corpus of **non-medical political-channel advocacy** as the unblock — distinct from the patient-organisation advocacy pattern that dominates LCP. Recovery-in-progress at recording.
 
 ## See also
 
@@ -41,3 +42,4 @@ The pattern of being told one's symptoms are "anxiety", "stress", or "all in you
 - [[069-fiona-lowenstein]]
 - [[081-liza-dileo-thomas-patient-experience]]
 - [[084-caroline-pover-vaccine-injuries]]
+- [[RA-0076-chimere]]

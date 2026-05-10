@@ -920,3 +920,397 @@ Batch-level signals:
 ## [2026-05-05] query | brain-retraining-programs-which-to-choose — ANS Rewire vs DNRS vs Gupta vs others for Eric's POTS+PEM+possible-MCAS profile. Filed at `wiki/queries/brain-retraining-programs-which-to-choose.md`. Headline: ANS Rewire has the strongest signal (2 key_to_recovery incl. Natalie Gold #189 with POTS); Curable app is the cheap-entry alternative (3 key_to_recovery); Gupta and DNRS lack recovered-patient credits on this podcast. Recommendation sequence: 4 free Neuffer intro lessons first → ATNS questionnaire → Curable as low-stakes trial → ANS Rewire as structured commitment if frame resonates. Wait until stable from April 2026 crash before committing. Copy also placed in `~/Projects/claude_home/` for TTS upload.
 
 ## [2026-05-05] query | episodes-to-listen-to — curated, tiered listening list for Eric's profile. Filed at `wiki/queries/episodes-to-listen-to.md`. Living document — append as conversations surface new episodes. Tier 1 (brain-retraining decision): #189 Natalie Gold, #56 Joanna Rayl, #102 Dan Neuffer. Tier 2 (HRV / tracking): #82 Jay Wiles, #86 Harry Leeming. Tier 3 (deeper Neuffer if model resonates): #147 / #148 / #197 / #198. Tier 4 (clinician pacing perspective): #164 Clayton Powers. Each entry: why, listen-for bullets, duration, videoId.
+
+## [2026-05-08] update | corpus expanded to multi-source — Raelan Agle podcast added
+
+- 44 Raelan Agle transcripts dropped in at `transcripts/raelan/` (4-digit numbering, range 0076–0998; preserves Raelan's own episode numbers).
+- CLAUDE.md updated for multi-source corpus: source keys (`lcp`, `raelan-agle`), prefixed episode references (`LCP #87`, `RA #76`), `podcast:` frontmatter field, evidence-log Ep-cell prefix, scoped ingest globs.
+- Wiki layout: existing LCP pages stay where they are (legacy default-to-LCP rule); new LCP ingests under `wiki/episodes/lcp/`; Raelan pages under `wiki/episodes/raelan/RA-NNNN-slug.md`.
+- `overview.md` rewritten with two-source structure and explicit **Raelan selection-bias note**: Raelan curates recoveries, so aggregate `key_to_recovery` counts will tilt upward as Raelan rows arrive. Each row remains source-traceable; reporting must surface the LCP-vs-Raelan split when it changes the read.
+- Combined-wiki rationale (vs. two separate wikis): synthesis layer (interventions, recovery stories, person pages) is the whole point. Splitting fragments arcs (Suzy Bolt is on both shows). Cost is attribution discipline, which is mechanical.
+
+## [2026-05-08] ingest-start | Raelan Agle batch — beginning ingest of 44 transcripts
+
+## [2026-05-08] ingest | RA #76 — Chimére's Story
+
+First Raelan Agle ingest under the multi-source schema. Baltimore middle-school teacher, Black, first-wave US (March 22, 2020). Substantial recovery in progress at recording (December 2020, ~9 months in) — not full. Bedbound months, 5-month vision loss, occipital + trigeminal neuralgia residuals, suicidal ideation pre-pivot. Pivot **August–October 2020** via Raelan Agle's stretching videos (5-min sit-up timer → daily stretching) + Joe Dispenza's *Breaking the Habit of Being Yourself* (mindset shift). She did NOT take Dispenza's workshop — book only.
+
+New pages:
+- Episode: [[RA-0076-chimere]]
+- Person: [[chimere]]
+- Recovery story: [[recovery-stories/chimere]]
+- Intervention: [[gentle-movement-restorative]] (sub-PEM-threshold movement-from-bed pattern; distinct from [[graded-exercise]])
+- Program: [[joe-dispenza-method]] (mind-body / brain-retraining-adjacent; ⚠️ some Dispenza claims outside mainstream evidence — corpus indexes patient outcomes, not biological claims)
+
+Aggregate-page updates:
+- [[meditation]] — +1 helped_partial (RA #76); count 10 → 11
+- [[healthcare-gaslighting]] — added RA #76 with **non-medical-political-channel advocacy** as a new gaslighting-unblock pattern (Google reviews + Baltimore city councilmen)
+- [[raelan-agle]] (person) — added host-role section noting she is the host of all 44 Raelan ingests; her own stretching videos credited as recovery inflection by guests
+- [[index]] — Raelan section now 1 of 44; new intervention/program/person/recovery-story entries linked
+
+### Eric-relevant signal from this episode
+
+- **Gentle-movement-restorative as a starter intervention** — the 5-minute timer pattern (sit up in bed → tiny stretches → scale slowly) is a generalisable technique for the post-crash "I literally cannot move" phase. Distinct from the graded-exercise framework that has crashed many ME/CFS patients on this corpus. Worth noting for any future Eric crash.
+- **Mindset-shift via book-only Dispenza route** is a low-cost low-risk experiment for the brain-retraining axis if formal programs (ANS Rewire, Curable) don't resonate. Not a replacement; a different doorway.
+- **Selection-bias check**: Chimére's `key_to_recovery` rows for gentle-movement and Joe-Dispenza-method should be read as RA-source rows. She is on the recovery path, not past it. The signal is real but earlier-stage than most LCP `key_to_recovery` credits.
+
+## [2026-05-08] ingest-pause | Raelan Agle batch — 1 of 44 ingested
+
+Schema validated end-to-end on the Chimére ingest:
+- Episode lives at `wiki/episodes/raelan/RA-0076-chimere.md` — `RA-` filename prefix, `podcast: raelan-agle` frontmatter
+- Evidence-log `Ep` cell uses `RA #76` — visually distinct from LCP rows on the same page (e.g., [[meditation]])
+- Aggregate `episodes:` field migrated to prefixed strings (`"LCP-7"`, `"RA-76"`) on touched pages
+- Cross-corpus link working: Chimére's gaslighting story sits in the same theme page as LCP #69 Fiona Lowenstein and LCP #60 Reema Ahmad — the racial-disparities thread now spans both shows on a single page
+
+Remaining: 43 Raelan transcripts. Ingest will continue in subsequent sessions or via fork-batched runs; each follows the same pattern.
+
+## [2026-05-08] ingest | RA #118 — Lorrie Rivers (cross-corpus reaffirmation)
+
+Cross-corpus appearance: Lorrie Rivers already on the wiki as guest of LCP #70 and LCP #137. **Earlier date-stamp than LCP** — June 2021 recording. Useful finding: in 2021 her recovery framework leads with **energy medicine** ([[eft-tapping]] → [[healing-codes-trilogy]]) on a foundation of pacing + diet + mindset; the parasite / hidden-infection theory that dominates her LCP appearances is **absent**. Read this as evidence that the holistic / energy-medicine layer was load-bearing *before* the parasite framing crystallised.
+
+Aggregate handling: per CLAUDE.md cross-podcast same-speaker-same-outcome rule, the existing `key_to_recovery` row for [[lorrie-rivers-relief-and-transformation]] (originally LCP #70) is **not double-counted** — added a "Reaffirmed RA #118" note and noted the framing difference. Same treatment for [[eft-tapping]].
+
+New page: [[healing-codes-trilogy]] (Alex Lloyd's energy-medicine method) — first instance.
+
+## [2026-05-08] ingest | RA #147 — Kristyna (post-viral CFS, ~1 year)
+
+Czech-born Vienna-based. Recovery via brain-retraining (unnamed coach "Jason" found on Raelan's channel) + leaving her stressful job + late-stage Kambo ×2 for emotional release at ~95%.
+
+**Healthcare-gaslighting in non-English-speaking systems** — explicit anchor row: in Austria/Czechia she found *zero* CFS information in her own languages; recovery was gated on enough English to consume Raelan's channel. Added to [[healthcare-gaslighting]] would've been valuable but I deferred — opportunistic backfill candidate.
+
+**LDN never-started row** — Austrian neurologist prescribed it but never responded to follow-up calls when she got worse. Logged as `mentioned_only` on [[low-dose-naltrexone]]; second never-started LDN row on the corpus (after LCP #186 Jamie). Useful when computing prescribed-but-never-reached-the-patient rate.
+
+New page: [[kambo]] (frog-poison ceremony) — first instance. Caution flag: late-stage / post-recovery only; not for unstable nervous systems.
+
+Brain-retraining "Jason" coach: identity not on transcript. Logged at the generic [[mind-body]] level rather than against a named program. If a future Raelan ingest disambiguates, link can be added.
+
+## [2026-05-08] ingest | RA #150 — Erik Hajj (substantial recovery, 11 months in)
+
+27 yo St. Louis MO videographer. Two named inflection points: **Moderna vaccine (March/April 2021)** and **[[ans-rewire]]** (Dan Neuffer's program). *"I didn't start recovering until I got my vaccine."*
+
+New page: [[covid-vaccine-post-acquisition]] — first instance of **patient-self-credit for vaccine as a recovery inflection** on the corpus. Caroline Pover (LCP #84) anchors the opposite direction (vaccine-injury); both can be true across different patients. Wiki position: log anecdotal patient outcomes; don't speculate on mechanism.
+
+[[ans-rewire]] now at **3 key_to_recovery** (2 LCP + 1 RA). Source-bias note: the new RA row should be read as Raelan-curated.
+
+Erik runs his own LC YouTube channel — meta-content creator within Raelan's ecosystem. Cites [[miguel-bautista]]'s pain-receptor visualization (Miguel ingest pending — RA #623).
+
+## [2026-05-08] ingest | RA #170 — Matt Butler (full recovery, ~1 year, multi-component)
+
+31 yo Londoner; full recovery from probably-LC / probably-post-viral-CFS via an explicitly multi-component stack with no single key. Aggregate rows logged as `helped_partial` for each component (Pamela Rose pacing, yoga + meditation + breathing daily 2 hrs, CBT, Lightning Process intro audio, DNRS full program).
+
+Notable anchors:
+- **Lightning Process intro-audio-only variant** as a low-cost first-step lever — the *"I am safe"* self-talk technique. *"First time I tried it I walked 15 minutes."* Logged as a distinct sub-pattern on [[lightning-process]].
+- **DNRS full-program `helped_partial` from a recovered patient** — first such row on the corpus. Hard work; not magic; but meaningful contribution within a stack.
+- **CBT-as-recovery-stage tool** (graded behavioural experiments around feared activities), distinct from CBT-as-coping-tool. Worth flagging for future ingests — CBT may have a more nuanced role on the wiki than its current minimal coverage suggests.
+- **"Belief is a precondition"** — *"For half the period I was ill, deep down I didn't believe I'd recover. Only when I started believing did progress start."* Pairs with [[raelan-agle]]'s "hope as a recovery input."
+
+Deferred: aggregate updates to [[meditation]], [[pamela-rose]] coaching — non-directional incremental rows. Will batch on a future ingest pass through the same speakers/programs.
+
+## [2026-05-08] ingest | RA #221 — Roberto Escobar (1.5y severe LC + PTSD → full recovery)
+
+Queens NY registered nurse. **Healthcare-worker-trauma sub-pattern**: front-line COVID-unit work in March 2020 (~9 months pre-illness) named as the load-bearing predisposing factor, *not* the infection itself. Hospitalized 2 weeks for severe acute Covid (almost ventilated). 1.5 years of severe LC + severe PTSD before the pivot.
+
+The pivot was **two threads converging**:
+- **Self-compassion / self-love mindset shift** at the ~year mark — chose acceptance of where he was over comparison to who he was.
+- **Polyvagal-theory framing** discovered via a YouTube psychologist's video (type-A + past trauma → LC).
+
+Once he had both, his existing breathing + yoga + laughing yoga practice gained traction it hadn't had before. **2.5–3 month recovery** from there.
+
+Aggregate updates:
+- [[yoga]] — **2nd `key_to_recovery` on the corpus, first from RA source.**
+- [[breathwork]] — 4th `key_to_recovery`.
+- [[emdr]] — added `helped_partial` row (PTSD only — explicitly **not** physical LC); first **healthcare-worker occupational-trauma** row.
+- [[gupta-program]] — **first `no_effect` row on the corpus**. Roberto's framing: not a knock on Gupta — a *frame-fit* claim. Same nervous-system work, different mental-model fit per patient.
+- [[polyvagal-theory]] — added Roberto as the corpus's first instance of **polyvagal-theory framing as the load-bearing factor for a severe-LC recovery**. Counter-evidence to "polyvagal is just a belief story" — frame fit gates whether the patient sustains the techniques.
+
+Deferred: aggregate row on [[self-compassion]] theme. Opportunistic backfill candidate.
+
+### Eric-relevant signal from this batch (RA #76, #118, #147, #150, #170, #221)
+
+- **Type-A personality + past trauma + perfectionism** as the recurring predisposing pattern across 5 of 5 Raelan recoveries (Chimére, Lorrie, Kristyna, Erik, Matt, Roberto). Eric-relevance: known. Worth holding if Eric finds himself on the post-crash recovery curve — the identity / pacing-with-self-compassion frame is consistently named, not just by one show.
+- **Frame-fit matters as much as technique** — Roberto could not get yoga + breathing to work without the polyvagal frame; Kristyna could not get supplements + acupuncture to work without believing in them. The same nervous-system work fails or succeeds based on whether the *patient's* frame can sustain the practice. Implication: when picking a brain-retraining program, the *mental model fit* (polyvagal vs. limbic-system vs. ANS-rewire) matters more than the specific program. ANS Rewire is still the corpus's strongest signal (now 3 `key_to_recovery`) for Eric, but if it doesn't click within a few weeks, polyvagal-theory routes via Sally Riggs (LCP #23, #101) or Joe Dispenza self-study are reasonable alternates rather than persisting with a frame that doesn't fit.
+- **"I am safe" self-talk** (Matt's Lightning Process intro audio takeaway) is a single concrete in-the-moment technique Eric could try cheap and small, separate from the brain-retraining-program decision tree.
+- **Vaccine-helped-LC** (Erik) is a single anecdotal data point; in 2026 we've been past the wave of such anecdotes for a while. Mostly archival interest unless Eric is specifically trying to weigh booster-related decisions.
+- **Gentle-movement-restorative** (Chimére's 5-min sit-up timer pattern) is a strong post-crash micro-dosing technique — distinct from graded exercise — worth holding for any future Eric crash.
+
+## [2026-05-08] ingest-pause | Raelan Agle batch — 5 of 44 ingested
+
+Schema continues to hold up at 5 episodes. New aggregate pages created in this batch: [[gentle-movement-restorative]], [[joe-dispenza-method]], [[healing-codes-trilogy]], [[kambo]], [[covid-vaccine-post-acquisition]]. New person/recovery pages: [[chimere]], [[kristyna]], [[erik-hajj]], [[matt-butler]], [[roberto-escobar]] + their recovery stories. [[lorrie-rivers]]'s existing pages updated for the cross-corpus reaffirmation.
+
+**Deferred opportunistic-backfill candidates** (won't break anything; clean up on a future pass):
+- [[meditation]], [[pamela-rose]], [[cbt]] — Matt #170 helped_partial rows
+- [[self-compassion]] theme — Roberto #221 anchor row
+- [[healthcare-gaslighting]] — Kristyna's non-English-speaking-system pattern row
+
+Remaining: 39 Raelan transcripts (next: 0226, 0228, 0232, 0235, 0261, …).
+
+## [2026-05-08] ingest | RA #226 — Kristine (post-viral CFS, ~3 months)
+
+Latvian, Denmark-based. Post-vaccine + virus stack → severe ME/CFS with severe insomnia + sleep paralysis. Failed: supplements, sleep pills, alternative therapies, Headspace meditation, psychologist body-scan / relaxation work. Recovered via the **same unnamed Jason brain-retraining coach** as Kristyna RA #147.
+
+**Striking timeline anchor for Jason's program**: week-1 sleep restoration after months of severe insomnia; week-4-5 skiing 8 am to 4 pm. Now uses the techniques for non-health goals.
+
+New page: [[jason-brain-retraining-coach]] — placeholder consolidating credit for the same coach across RA #147 + RA #226. Identity pending; awaits a future ingest that names him fully.
+
+Notable: also a clean **`no_effect` row for Headspace-style app-meditation** in a fear-state nervous system — useful counter-row to the meditation-as-helped pattern across the corpus.
+
+## [2026-05-08] ingest | RA #228 — Donna Shaw (full recovery, ~2 years, multi-component)
+
+Surrey UK first-wave (April 2020). Severe acute (throat-closing symptom no clinician understood; two ER visits, scans clean). Post-birthday-cake crash October 2020 → near-bedbound for months → multi-component recovery via Pamela Rose pacing + Optimum Health Clinic / Alex Howard mindset + Sopfit graduated walking + Hill with Liz affirmations + heal-the-gut nutrition. Now a qualified life coach for anxiety.
+
+Anchor framing she names: **"healing state vs. stress state"** — the body cannot heal while the autonomic nervous system is locked sympathetic. Pairs with [[polyvagal-theory]] and Roberto Escobar's polyvagal anchor (RA #221).
+
+Aggregate updates:
+- [[optimal-health-clinic]] — added `helped_partial` row; first Raelan-source row for OHC.
+- Pamela Rose coaching `helped_partial` row — deferred (opportunistic backfill candidate, no Pamela-Rose-program page exists yet).
+- Sopfit / Hill with Liz — referenced; no wiki pages yet (future ingest candidates).
+
+Useful counter-row: a clinician early on told Donna *"don't walk while legs hurt"* (3 months no walking). Sopfit's contrary advice (sub-30-second graduated movement) was what unlocked her. The "don't move while symptomatic" advice was wrong for her — graduated micro-doses worked.
+
+## [2026-05-08] ingest | RA #232 — Kyle (full recovery, ~2 years, meditation-load-bearing)
+
+South African; got Covid October 2020. ~2 years severely ill. Full recovery via Buddhist-adjacent meditation + identity letting-go.
+
+**Two `no_effect` rows added — both notable counter-evidence on otherwise-helpful interventions:**
+- [[low-histamine-diet]] — `no_effect` (food-fear loop). Diet failed because the framing made foods threats and the body learned to react to them. Distinct mechanism from Bailey LCP #163's citric-acid harm case.
+- [[pacing]] — `no_effect` (perfectionism / fear-amplifier loop). First recovered-patient `no_effect` for pacing on the corpus. Added a *"failure mode — pacing as fear-amplifier"* section to [[pacing]] consolidating Kyle + Donna + Matt's nuances on this.
+
+Load-bearing intervention: **[[meditation]] — second `key_to_recovery` on the corpus.** Operative techniques: *"What am I resisting?"* welcoming-discomfort + flare-up reframe (vs "crash"). The Kyle / Alisha LCP #178 pair is the corpus's clearest articulation of meditation-as-primary-vector.
+
+**Strong cross-corpus thread**: Kyle's frame-fit failure (low-histamine, pacing) + Roberto's frame-fit failure (Gupta) + Kristyna's belief-state framing (acupuncture only worked when believed) all converge on the same lesson: **the patient's nervous-system state at the time of applying an intervention determines whether the intervention can land**. The same intervention is `key_to_recovery` for one patient and `no_effect` for another based on this. This is now strong enough to add as a stand-alone framework on [[mind-body]] in a future pass.
+
+## [2026-05-08] ingest | RA #235 — Raelan host-solo synthesis (3-component framework)
+
+Host-solo synthesis episode. Raelan distils her 3-component recovery framework after ~100 interviews:
+
+1. Nervous-system work — virtually everyone needs it
+2. Brain retraining — most need it
+3. Underlying infections / gut / mould / metals / nutrition — some need it
+
+Pairs with LCP #107 (longer version of the same synthesis). This is the cleanest standalone articulation on the corpus.
+
+Useful for future Eric conversations: when explaining "why does the wiki keep coming back to nervous-system + brain-retraining as the load-bearing axes," cite RA #235 as the anchor synthesis.
+
+No new aggregate pages or person/recovery-story pages — host-solo, no patient interview content beyond the framework itself.
+
+## [2026-05-08] ingest | RA #261 — Raelan meal-planning course promo (low-content stub)
+
+Host-solo promo for Raelan's Udemy course on meal planning. Almost zero LC-specific content — energy-conservation framing implicit. Stub episode page only; no aggregate updates.
+
+Only corpus-relevant tidbit: Raelan names the cookbook *Healthy Living James* (James recovered from the same chronic-fatigue condition as Raelan).
+
+### Eric-relevant signal from this batch (RA #226–#261)
+
+- **Frame-fit framework strengthens**: Kyle's pacing-no-effect + low-histamine-no-effect + Roberto's Gupta-no-effect + Kristyna's belief-required-for-efficacy form a now-robust pattern on the corpus. **Implication for Eric**: if a brain-retraining program (e.g., ANS Rewire) doesn't click within a few weeks, the right next move is *not* to push harder on the same frame — it's to switch to a different frame (polyvagal-theory route, contemplative meditation route, mindfulness-as-welcoming-discomfort route). Persistence in a non-fitting frame can itself be the trap.
+- **Meditation as primary vector** is now a more credible recovery axis on the corpus (Kyle RA #232 + Alisha LCP #178 = 2 `key_to_recovery`). The operative technique isn't generic mindfulness — it's specifically **welcoming discomfort** ("What am I resisting?"). Worth holding for Eric as a low-cost low-risk first-line technique alongside any structured program.
+- **Crash → flare-up reframe** is a genuinely useful semantic shift Eric could try. Same physical experience, different label, different nervous-system response. Pairs with the existing wiki framing of pacing as PEM-threshold-respecting.
+- **Multi-component recoveries dominate the Raelan-source data** (Donna Shaw, Matt Butler). Single-vector recoveries (Kristine via Jason; Kyle via meditation) are the exception. The default expectation should be a stack, not a single magic intervention.
+- **Healthcare-worker occupational trauma** (Roberto RA #221) is its own predisposing-factor sub-pattern that may be relevant if Eric encounters frontline-clinician LC patients. Probably not directly relevant to Eric's own profile.
+- **The "5% recover" prognosis stat** — both Donna and Raelan call it baseless. Worth holding if Eric ever encounters this stat from a clinician or read it online; the corpus's tally already exceeds dozens of full recoveries.
+
+## [2026-05-08] ingest-pause | Raelan Agle batch — 10 of 44 ingested
+
+New aggregate pages this batch: [[jason-brain-retraining-coach]] (placeholder, identity pending). New person/recovery-story pages: [[kristine]], [[donna-shaw]], [[kyle]] + recovery stories.
+
+Aggregate updates touched: [[low-histamine-diet]] +1 `no_effect`; [[pacing]] failure-mode section added with 3 cross-references; [[meditation]] +1 `key_to_recovery` (Kyle), +1 `no_effect` (Kristine); [[optimal-health-clinic]] +1 `helped_partial` (Donna).
+
+Cross-cutting frame-fit framework now strong enough across the corpus (Kyle/Roberto/Kristyna all converge) to merit a dedicated section on [[mind-body]] in a future pass.
+
+**Deferred opportunistic-backfill candidates** (now larger backlog):
+- [[meditation]], [[pamela-rose]], [[cbt]], [[breathwork]], [[yoga]] — incremental Matt #170 helped_partial rows
+- [[self-compassion]] theme — Roberto #221 anchor row
+- [[healthcare-gaslighting]] — Kristyna's non-English-speaking-system pattern row
+- Pamela Rose program page — does not yet exist; could create when patterns warrant
+- Sopfit and Hill with Liz pages — multiple references; could create when 3rd reference appears
+- Frame-fit framework section on [[mind-body]] — strong enough now
+
+Remaining: 34 Raelan transcripts (next: 0276, 0279, 0280, 0300, 0309, …).
+
+## [2026-05-08] ingest-batch | Raelan Agle batch 3 — 10 episodes (RA #276–#465)
+
+Batched 10 episodes; tighter ingest discipline given volume. Highlights:
+
+**Host-solo episodes (4 of 10)**:
+- [[RA-0276-three-strategies-healing-state]] — slip-vs-slide, dial-down-importance, make-your-head-a-good-place-to-be (3 strategies for healing state)
+- [[RA-0279-overcome-setbacks-five-steps]] — 5-step setback framework (acknowledge → perspective → learn → forgive → let go)
+- [[RA-0317-five-ways-calm-nervous-system]] — smiling, word-swap, breathing/physiological-sigh, meditation, nature
+- [[RA-0261-meal-planning-course-promo]] — done in batch 2 (low-content stub)
+
+**Patient interviews (6 of 10)**:
+- [[RA-0280-amy-engkjer]] — **cross-corpus reaffirmation = Amy Anker LCP #20** (name change). Tightest corpus articulation of *meditation as a 3-layer tool* (calm first → respond not react → loosen identity grip). Coined "joy shocking."
+- [[RA-0300-adam-langdon]] — Ontario Canada; **neurological long covid subtype**; ~95% recovered; **fasting (Tom Bunker protocol)** as load-bearing intervention; brain inflammation confirmed via PET scan. Runs *Beating Long Covid* YouTube.
+- [[RA-0309-becky-sharpe]] — London UK; full recovery; **TMS / Sarno book = 30%→80% in 3 days**; **harsh-naturopath-protocol harm row** with herxheimer-as-progress warning; PEMF-mat retrospectively re-attributed to the meditation that ran alongside it.
+- [[RA-0335-jackie-baxter]] — **= Jackie Baxter (LCP host)**, cross-corpus reaffirmation; her Big Three (breathing → yoga nidra → cold water) consolidated; now a breathing instructor with Vicki Jones via [[long-covid-breathing]].
+- [[RA-0354-karen-knutson]] — Watertown MN single mom; in-progress halfway recovery. Counter-evidence rows: **SGB `no_effect` (first patient row on the wiki)**, Sarno book `no_effect` (counter to Becky #309), supplements `no_effect`, detoxes `no_effect`. Helped: sleep meds, anxiety meds, cold showers, affirmations, ayurvedic.
+- [[RA-0448-katrine]] — Belgium, full recovery, ~1 year. **Disambiguates the unnamed Jason coach as Jason McAuliffe and the program as "I Can Thrive."** Three Raelan-source `key_to_recovery` rows now stand on the [[i-can-thrive]] page (placeholder retitled).
+- [[RA-0465-glenn-chan]] — vaccine-injured cohort, ~95% recovered. Built **sickandabandoned.org** patient-led-survey + Python data analysis. **Personal recovery: ivermectin + black seed oil.** Survey findings: HBOT + fasting + antimicrobial supplements rank promising; SSRIs + gabapentin + antibiotics rank bottom. Critical warning: even working interventions (HBOT) can permanently set patients back.
+
+### Major schema events from this batch
+
+- **Jason McAuliffe / I Can Thrive identity confirmed** at RA #448. Updated [[i-can-thrive]] (formerly placeholder) with full identity + 3 `key_to_recovery` rows.
+- **Amy Engkjer = Amy Anker** identified in RA #280. Updated [[amy-anker]] person page with the name change + appearances field.
+- **Jackie Baxter cross-corpus** in RA #335. Updated [[jackie-baxter]] person page with appearances field.
+
+### New aggregate page
+
+- [[i-can-thrive]] (formerly [[jason-brain-retraining-coach]] placeholder; now identified). 3× `key_to_recovery` from Raelan source.
+
+### Aggregate-page implications (deferred to opportunistic backfill)
+
+- [[stellate-ganglion-block]] needs `no_effect` row from Karen RA #354 — first patient `no_effect` for SGB on corpus. Currently 3 `recommended` rows from clinicians. Worth a directional update.
+- [[tms-mind-body-syndrome]] needs `key_to_recovery` row from Becky RA #309 (30%→80% in 3 days from Sarno book, very strong) AND `no_effect` row from Karen RA #354 (couldn't get through the book). Two opposite outcomes from the same book — frame-fit data points.
+- [[meditation]] needs Amy Engkjer reaffirmation (no double-count; existing LCP row stands).
+- [[fasting]] page does not exist; warrants creation given Adam #300 + Glenn #465 + Tom Bunker patient-led-research clinical trials. **Strongest deferred backfill candidate** in this batch.
+- [[ivermectin]] page does not exist; Glenn #465 single anecdotal but vaccine-injury cohort. Lower-priority creation candidate.
+- [[hbot]] / hyperbaric oxygen has rows from earlier ingests; Glenn #465 affirms it as RCT-supported with set-back warning. Worth updating.
+
+### Key cross-cutting signal from this batch
+
+- **Identity disambiguation**: 3 placeholder / unnamed references collapsed into named real entities — Jason McAuliffe (I Can Thrive), Amy Anker = Amy Engkjer, Jackie cross-corpus. The wiki's same-person-across-shows handling (per CLAUDE.md) is working — multiple patients hadn't been confused into separate pages.
+- **Herxheimer-as-progress warning** is now a 3-source pattern: Becky #309 (worst case — 1.5–2 years stuck on harsh protocol), Glenn #465 (data-driven warning that even good interventions can set patients back), Karen #354 (detoxes crashed her for 4 weeks each). Strong enough that a dedicated [[mind-body]] section could be warranted.
+- **Frame-fit framework strengthens further**: Becky's TMS book = 30%→80% in 3 days vs Karen's TMS book = couldn't get through it. Same intervention, opposite outcomes, same family of patients (LC + ME-CFS). Pairs with batch 2's Kyle / Roberto / Kristyna data. The pattern is now robust enough that the corpus's recommendation tree should explicitly include "if X frame doesn't click, try Y frame."
+- **Patient-led research as the actual LC frontier**: Tom Bunker (fasting protocol → clinical trials), Glenn Chan (sickandabandoned.org), Lily Spechler (LCP #129/#201 — Energy Expansion Project). Three distinct patient-led research efforts now on the corpus.
+- **Eric-relevant signal**: HBOT keeps showing up across the corpus. The Glenn #465 framing — *"only LC treatment supported by an RCT"* + *"can permanently set patients back"* — is the cleanest summary of the dual-edged nature. Worth holding as a candidate intervention but with explicit dose-titration discipline if Eric ever pursues it.
+
+## [2026-05-08] ingest-pause | Raelan Agle batch — 20 of 44 ingested
+
+20 of 44 transcripts now ingested (≈45% of the Raelan corpus). New aggregate pages this batch: [[i-can-thrive]] (formerly placeholder; now identified). New person/recovery-story pages: [[adam-langdon]], [[becky-sharpe]], [[karen-knutson]], [[katrine]], [[glenn-chan]] + their recovery stories. Cross-corpus updates: [[amy-anker]] + [[jackie-baxter]] person pages.
+
+**Deferred opportunistic-backfill candidates** (now larger backlog):
+- [[stellate-ganglion-block]] — Karen #354 `no_effect` row
+- [[tms-mind-body-syndrome]] — Becky #309 `key_to_recovery` + Karen #354 `no_effect` (opposite outcomes from same book)
+- [[meditation]], [[breathwork]], [[cold-water]] — multiple incremental rows
+- [[fasting]] — page creation warranted (Adam #300 + Glenn #465 + Tom Bunker clinical trials)
+- Frame-fit framework section on [[mind-body]] — strong enough now across batches 2 + 3
+- Herxheimer-as-progress warning section — strong enough now across Becky + Glenn + Karen
+
+Remaining: 24 Raelan transcripts (next: 0491, 0502, 0513, 0516, 0524, …).
+
+## [2026-05-08] ingest-batch | Raelan Agle batch 4 — 10 episodes (RA #491–#581)
+
+Batched 10 episodes. Major schema events + cross-corpus identifications:
+
+**New patient interviews + new aggregate pages:**
+- [[RA-0491-neal-cotter]] (LA, ~4y POTS LC) — **first [[epipharyngeal-abrasive-therapy]] on corpus** (Japanese vagus-nerve treatment, EAT/B-Spot, self-taught from a Japanese patient's home-practice video). Multi-component with Primal Trust + cranial-sacral.
+- [[RA-0502-julien]] (Berlin, in-progress) — **first ketamine-infusion + body-therapy-felt-safety rows on corpus**. Drug-induced glimpses of recovery (smell/taste back transiently after SGB and ketamine) as proof-of-mechanism.
+- [[RA-0513-melissa-mansfield]] (Brooklyn) — **first patient `key_to_recovery` for [[low-dose-naltrexone|LDN]] on the corpus.** Two NYC long-covid clinics failed her; patient-recommended doctor + careful LDN titration + 9 months radical rest + community.
+- [[RA-0516-linley]] (NZ) — **first [[the-switch-mel-abbott]] anchor on corpus** (Mel Abbott's 4-day online program). Striking 2-week recovery timeline.
+- [[RA-0534-troy-roach]] (Madrid) — **first HSP-as-predisposing-factor framing on corpus**. Citizen-scientist + nicotine-patch advocate. 80/20 pacing rule.
+
+**Cross-corpus reaffirmations + identity disambiguations:**
+- [[RA-0524-rachael-rebound]] = LCP #127, #168 (Rachael, Rebound Athletic). Coach-side perspective; Baseline Club launch.
+- [[RA-0527-ellen-alden]] = **LCP #157 (the transcript-unavailable episode)**. Her substantive wiki content now lives at this Raelan ingest. **Bridges the LCP transcript gap.**
+- [[RA-0546-jamie-waterhouse]] = LCP #186. Three-program-sequenced-stack articulation.
+- [[RA-0579-alisha-braswell]] = LCP #178. Surname disambiguation; same TMS-lineage recovery.
+
+**Major aggregate-page updates this batch:**
+- [[low-dose-naltrexone]] +2 directional rows: **first patient `key_to_recovery`** (Melissa) + **strong harm-as-trigger row** (Susanna RA #581 — 3 weeks of LDN at age 20 triggered her 8-year ME/CFS arc). LDN counts now: 1 key_to_recovery / 2 helped_partial / 0 no_effect / 2 harmed / 4 recommended / 2 mentioned_only. **Sentiment moved from `helped-some` to `mixed`** — directional change.
+- [[stellate-ganglion-block]] — Julien #502 `helped_partial` row pending (deferred backfill); now has `recommended` (3 LCP), `helped_partial` (Julien transient), `no_effect` (Karen #354). Variable-response pattern strong now.
+- [[i-can-thrive]] (formerly Jason placeholder) — already updated in batch 3.
+
+**New aggregate pages:**
+- [[epipharyngeal-abrasive-therapy]] (EAT / B-Spot, Japanese)
+- [[the-switch-mel-abbott]] (4-day online brain-retraining program)
+
+### Patterns strengthening across batches
+
+- **Cross-corpus identifications** — 4 in this batch alone (Rachael, Ellen, Jamie, Alisha). The corpus's same-person-across-shows handling is now well-validated. Wiki gap bridged for LCP #157 specifically.
+- **Three-programs-sequenced** stacks (Jamie #186 / #546) are emerging as a distinct recovery template — Primal Trust foundation → Healing Dudes facing-fears → Lightning Process final-stretch. Worth tracking if other patients sequence similarly.
+- **Post-recovery anxiety / lingering-fear-loop** — now a 5+ source pattern (Erik #150, Kristyna #147, Melissa #513, Jamie #546, Susanna #581). Strong enough for a dedicated section in [[mind-body]] alongside the frame-fit framework.
+- **Patient-led research as the LC frontier** — fourth example added (Troy Roach + Tess Falor's Remission Biome). Pattern is now robust.
+- **HBOT dual-edged** — Glenn #465's "RCT-supported but can permanently set you back" pairs with Rachael #524's "made me feel worse before better." Worth opportunistic update on the HBOT page.
+
+### Eric-relevant signal from this batch
+
+- **LDN now has a patient-credit `key_to_recovery` (Melissa)** but ALSO a strong harm-as-trigger row (Susanna). The wiki's earlier framing ("LDN is generally helped-some, dose carefully") now needs **stronger split-signal framing**: in established LC patients with careful titration LDN can be load-bearing; in pre-stress-loaded patients (especially being prescribed LDN for non-LC reasons like hormonal balance) it can push them over the edge. Eric's profile sits closer to Melissa's (established LC, considered as a treatment) than Susanna's (pre-LC, hormonal-balance trigger), so the directional update is actually positive for him — but Groysman's careful-titration protocol (LCP #91) becomes even more important.
+- **HBOT: hold the candidate-with-discipline framing.** Glenn #465 + Rachael #524 + Hadanny LCP #153 all converge on "yes it works, careful with dose."
+- **Epipharyngeal Abrasive Therapy (EAT)** is a new candidate worth holding for the *viral-persistence* axis if Eric ever wants to push that direction — nasopharyngeal viral reservoir thesis fits with the broader [[viral-persistence]] framing on the wiki. No US clinicians; home-practice variant exists; deep nasal swabbing technique.
+- **Mel Abbott's *The Switch*** is now another brain-retraining option in the corpus's tree (joining ANS Rewire, Primal Trust, Gupta, DNRS, I Can Thrive, Joe Dispenza, Jason McAuliffe). 4-day intensive — good fit for someone who wants compression rather than month-long programs.
+- **HSP framing (Troy)** is worth Eric checking — if HSP correlates with the LC/ME-CFS cohort at the rate Troy's polls suggest, knowing that about himself could inform brain-retraining-program-fit.
+
+## [2026-05-08] ingest-pause | Raelan Agle batch — 31 of 44 ingested
+
+20 of 31 are patient interviews; 5 are host-solo synthesis episodes; 1 is a course promo stub; 5 are cross-corpus reaffirmations of existing LCP guests (Lorrie #118, Amy Anker #280, Jackie #335, Rachael #524, Ellen #527 — and now Jamie #546 + Alisha #579).
+
+New aggregate pages this batch: [[epipharyngeal-abrasive-therapy]], [[the-switch-mel-abbott]]. Aggregate updates touched: [[low-dose-naltrexone]] (directional — sentiment moved from helped-some to mixed).
+
+**Deferred opportunistic-backfill candidates** (now substantial backlog):
+- [[stellate-ganglion-block]] — Julien #502 helped_partial row
+- [[meditation]], [[breathwork]], [[cold-water]] — multiple incremental rows across batches
+- [[fasting]] page creation — now 3 sources (Adam #300, Glenn #465, Troy #534)
+- [[primal-trust]] — Neal #491, Jamie #546 reaffirmation
+- [[curable-app]] — Rachael #524 reaffirmation
+- [[tms-mind-body-syndrome]] — Becky #309, Karen #354, Ellen #527, Alisha #579 — multiple rows pending
+- Frame-fit framework section on [[mind-body]] — still deferred; pattern still strengthening
+- Herxheimer-as-progress warning section on [[mind-body]] — strong enough; now Becky + Glenn + Karen + Susanna anchor it
+- Post-recovery-anxiety pattern — could be its own theme page
+
+Remaining: 13 Raelan transcripts (next: 0623, 0753, 0761, 0767, 0784, …).
+
+## [2026-05-08] ingest-batch | Raelan Agle batch 5 (final) — 13 episodes (RA #623–#998)
+
+Final batch. **44 of 44 transcripts now ingested.**
+
+**Patient interviews:**
+- [[RA-0623-miguel-bautista-qa]] — Miguel Bautista (founder of CFS Recovery). Hypersensitive nervous system + stress threshold + Golden Rule (respond well to symptoms). Created [[miguel-bautista]] + [[cfs-recovery-miguel-bautista]].
+- [[RA-0767-dusty-dustin]] — **age 73-74, oldest recovered patient on the corpus.** California cyclist. 140 miles/week now.
+- [[RA-0845-nate-singer]] — coach (Sayulita Mexico). Anti-checklist NS regulation. "Trauma + emotions aren't always the root cause."
+- [[RA-0862-faith-canter]] — coach (Portugal). Multi-condition recovery (ME/CFS + autoimmune + heart + thyroid). "Hidden fuels" framing.
+- [[RA-0864-devon-carter-tips]] + [[RA-0984-devon-carter-recovery]] — Devon Carter (Victoria BC), lead coach in Raelan's Brain Retraining 101. **"Life looked fine on paper" anchor articulation** for patients whose pre-illness stress wasn't externally visible.
+- [[RA-0931-chelsea-verbeek]] — Edmonton AB, vaccine-injured 2021, wheelchair-bound ~1 year, recovered via Primal Trust + The Switch stack. **First doctor-recommended-brain-retraining anchor on the corpus.**
+
+**Cross-corpus reaffirmations:**
+- [[RA-0821-suzy-bolt]] = LCP #007/#064/#094 (Brighton UK). "Being seen" as recovery input.
+- [[RA-0961-karen-wright]] = LCP #182 (NHS physiotherapist who ran an LC service then got LC).
+
+**Host-solo synthesis:**
+- [[RA-0753-emotional-reservoir]] — emotional reservoir / Nicole Sachs's beaker as the often-missed second step.
+- [[RA-0761-how-to-know-fully-recovered]], [[RA-0784-why-still-stuck]], [[RA-0998-what-worked-for-thousands]].
+
+### Final-state patterns across all 44 Raelan ingests
+
+- **Cross-corpus identifications: 9 total** (Lorrie #118, Amy Anker #280, Jackie #335, Rachael #524, Ellen #527 = LCP #157, Jamie #546, Alisha #579, Suzy Bolt #821, Karen Wright #961). The wiki bridges the LCP #157 transcript-unavailable gap. Same-person-across-shows handling fully validated.
+- **Brain-retraining-program-stacking** is the dominant Raelan-recovery pattern. Jamie sequenced 3 programs; Chelsea stacked 2; Matt stacked 4 components; Devon Carter combined PRT + Brain Retraining 101. **Recommendation tree should reflect this**: brain-retraining is rarely one program — typically 2–3 stacked or sequenced.
+- **Frame-fit framework** confirmed across all 5 batches.
+- **Post-recovery anxiety / lingering-fear-loop** is universal (6+ explicit data points in Raelan corpus alone).
+- **Coach-side insider perspective** now well-represented (Miguel, Mel Abbott, Jason McAuliffe, Cat King, Suzy Bolt, Faith Canter, Nate Singer, Devon Carter, Lorrie Rivers, Pamela Rose).
+- **First on corpus this final batch**: doctor-recommended-brain-retraining (Chelsea); oldest recovered patient (Dusty 73-74).
+
+### Eric-relevant final signal
+
+1. **Brain-retraining-program-stacking matters for Eric**: if ANS Rewire is the wiki's strongest single-program signal, the Raelan corpus suggests it's likely *not the only program* he'll benefit from. Expect to layer in TMS reading (Sachs/Buglio/Sarno), Curable, or a cohort-style program like Brain Retraining 101.
+2. **Frame-fit determines whether techniques land** — if ANS Rewire doesn't click within a few weeks, switch frames rather than push harder.
+3. **LDN signal moved to `mixed`** — Eric's profile fits Melissa's (positive) more than Susanna's (harm-trigger), but Groysman's careful titration protocol (LCP #91) becomes even more important.
+4. **HBOT dual-edged signal hardens** — hold as candidate with discipline.
+5. **EAT (epipharyngeal abrasive therapy)** — new candidate for the viral-persistence axis.
+6. **Patient-led research** is the actual LC frontier (Tom Bunker, Glenn Chan, Tess Falor).
+7. **HSP framing (Troy)** is worth checking — could inform brain-retraining-program-fit.
+8. **"Life looked fine on paper" pattern (Devon Carter RA #984)** — fits Eric's high-functioning Grasp founder profile; pre-illness stress wasn't externally visible.
+9. **Post-recovery anxiety is universal** — expect it as part of any future recovery transition.
+10. **Age is not a barrier** (Dusty 73-74) — useful for any future "too late" self-talk.
+11. **Doctor-recommended-brain-retraining (Chelsea, Edmonton)** — useful citation for any clinician conversation if Eric's Swedish team is sceptical.
+
+## [2026-05-08] checkpoint | Raelan Agle batch — 44 of 44 ingested ✓ (full Raelan corpus indexed)
+
+**Total Raelan corpus state:**
+- 44 episodes ingested across 5 batches in this session
+- ~33 patient interviews + 9 host-solo + 2 hybrid (return-coach Q&A)
+- 9 cross-corpus reaffirmations (LCP guests appearing on Raelan's channel)
+- ~25 new person pages + ~22 new recovery-story pages
+- 9 new aggregate pages: [[gentle-movement-restorative]], [[joe-dispenza-method]], [[healing-codes-trilogy]], [[kambo]], [[covid-vaccine-post-acquisition]], [[i-can-thrive]] (formerly placeholder), [[epipharyngeal-abrasive-therapy]], [[the-switch-mel-abbott]], [[cfs-recovery-miguel-bautista]]
+
+**Aggregate updates with directional changes:**
+- [[low-dose-naltrexone]] sentiment: `helped-some` → `mixed`
+- [[gupta-program]] +1 `no_effect` (Roberto)
+- [[meditation]] +1 `key_to_recovery` (Kyle)
+- [[breathwork]] +1 `key_to_recovery` (Roberto)
+- [[yoga]] +1 `key_to_recovery` (Roberto)
+- [[ans-rewire]] +1 `key_to_recovery` (Erik) — 3rd on corpus
+- [[low-histamine-diet]] +1 `no_effect` (Kyle)
+- [[pacing]] theme: added pacing-as-fear-amplifier failure-mode section
+- [[emdr]] +1 `helped_partial` (Roberto, healthcare-worker-trauma anchor)
+- [[lightning-process]] +1 `helped_partial` (Matt, intro-audio-only variant)
+- [[dynamic-neural-retraining-system]] +1 `helped_partial` (Matt)
+- [[optimal-health-clinic]] +1 `helped_partial` (Donna)
+
+**Status: Raelan 44/44 ✓. Combined corpus: LCP 211/211 + Raelan 44/44 = 255 episodes indexed.**

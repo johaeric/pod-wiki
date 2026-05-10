@@ -1,14 +1,19 @@
 ---
 title: Jackie Baxter
 type: person
-role: host
-specialism: podcast-host, patient-advocate
-affiliation: The Long Covid Podcast
-episodes: []
+role: host, recovered patient, breathing instructor
+specialism: podcast-host, patient-advocate, breathing instruction (Long Covid Breathing co-founder)
+affiliation: The Long Covid Podcast (host); Long Covid Breathing (co-founder with Vicki Jones); Inverness, Scotland
+episodes: ["LCP-host", "RA-335"]
+appearances:
+  lcp: [host of all 211 LCP episodes; guest-style appearances on host-solo episodes 2, 64, 75, 94, 112, 123, 142, 159, 169, 175, 188, 193, 200, 209]
+  raelan-agle: [335]
 notable_claims:
-  - "Long-hauler herself; has used breathwork as a recovery tool (later co-founded Long Covid Breathing with Vicky Jones)."
-tags: [host, advocacy, breathwork]
-updated: 2026-05-04
+  - "Long-hauler herself; recovered ~3-year arc; co-founded Long Covid Breathing with Vicki Jones."
+  - "Big Three recovery components: breathwork → yoga nidra → cold water (in that order)."
+  - "Mental health is as important as physical health in chronic illness recovery; therapy at 18 months was a turning point."
+tags: [host, advocacy, breathwork, recovered, lc-coach, breathing-instructor]
+updated: 2026-05-08
 ---
 
 # Jackie Baxter

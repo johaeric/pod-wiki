@@ -1,6 +1,15 @@
-# Long Covid Podcast — Indexed Knowledge Base
+# Long-COVID Podcast Corpus — Indexed Knowledge Base
 
-A separate knowledge base over the **Long Covid Podcast** (host: Jackie Baxter) — patient recovery stories, clinician interviews, researcher conversations. The LLM maintains a structured wiki layered on top of 211 episode transcripts; Eric asks questions about treatments, what helped/didn't help, and patterns across episodes.
+A separate knowledge base over **multiple long-covid / ME-CFS podcasts** — patient recovery stories, clinician interviews, researcher conversations. The LLM maintains a single structured wiki layered on top of episode transcripts from each show; Eric asks questions about treatments, what helped/didn't help, and patterns across episodes and across shows.
+
+**Sources currently indexed:**
+
+| Source key | Show | Host | Transcripts | Notes |
+|---|---|---|---:|---|
+| `lcp` | **The Long Covid Podcast** | Jackie Baxter | 211 of 213 | Mix of patient stories, clinician interviews, researchers, advocates. Tone: warm, advocate-leaning. |
+| `raelan-agle` | **Raelan Agle** (YouTube) | Raelan Agle | 44 | **Selection-biased toward recovery stories** — channel is structured around "what worked for X." Tilts `key_to_recovery` counts upward; weight aggregates accordingly. Often features full-recovery patients and brain-retraining / nervous-system-rewiring practitioners. |
+
+The wiki is **combined**, not partitioned: intervention / symptom / program / trial / theme / people pages aggregate evidence across both shows. Episode pages live in source-specific subdirectories. Every Evidence-log row and every episode reference is source-tagged so a reader can always see which podcast a claim came from.
 
 **Why this is separate from `ercipedia/`.** Ercipedia is for peer-reviewed evidence — papers, trials, guidelines. The material here is **anecdote and clinical opinion**: individual recovery stories, practitioner experience, expert interviews not subject to peer review. Mixing the two would degrade the integrity of both. Keep them apart. Cross-reference by name when relevant (`See ercipedia: [[ldn]]`), but never copy podcast claims into ercipedia and never let podcast quotes update ercipedia's living pages (`mechanisms.md`, `definitions.md`, `overview.md`).
 
@@ -17,6 +26,8 @@ Eric has Long COVID with confirmed POTS and PEM (see `ercipedia/wiki/overview.md
 - Negative experiences — things that *didn't* help or actively harmed
 
 Whether any individual claim is **true** is downstream of the wiki. The wiki's job is to **surface and structure** the claims so Eric can examine them.
+
+**Why combine across shows.** The synthesis layer (intervention pages, recovery-story pages, person pages) is the whole point. Splitting by show fragments the synthesis: a clinician interviewed on both shows would have two pages; a recovered patient (e.g. Suzy Bolt) who appears on both would have her arc split. The cost of combining is attribution discipline — every row, frontmatter, and reference must carry a source tag — but that's strictly mechanical. See "Source attribution" below.
 
 ## The Theory (Karpathy-style LLM Wiki)
 
@@ -35,14 +46,22 @@ Sources used to inform this design:
 ```
 long-covid-podcast/
 ├── CLAUDE.md             ← you are here
-├── transcripts/          ← 211 .json + 211 .txt files (immutable; read-only)
-│                           NNN_<slug>.json — full API response with timestamps
-│                           NNN_<slug>.txt  — plain-text transcript (cheaper to read)
+├── transcripts/          ← LCP transcripts at the root (211 .json + 211 .txt; immutable, read-only)
+│   │                       NNN_<slug>.json — full API response with timestamps
+│   │                       NNN_<slug>.txt  — plain-text transcript (cheaper to read)
+│   │                       LCP .txt header: "# NN - Title", then Video ID / Length / Language
+│   └── raelan/           ← Raelan Agle transcripts (44 .json + 44 .txt; immutable, read-only)
+│                           NNNN_<slug>.txt — 4-digit episode number preserves Raelan's own numbering
+│                           Raelan .txt header adds a "Channel: Raelan Agle" line above Video ID
 ├── wiki/                 ← LLM-maintained. The LLM owns this layer entirely.
-│   ├── index.md          ← content catalog, organized by category
+│   ├── index.md          ← content catalog, organized by category (cross-source within each axis)
 │   ├── log.md            ← append-only ingest/query log
-│   ├── overview.md       ← high-level synthesis: themes, host style, evidence quality
-│   ├── episodes/         ← one short summary page per indexed episode (NNN-slug.md)
+│   ├── overview.md       ← high-level synthesis: themes, host style, evidence quality, source-bias notes
+│   ├── episodes/         ← one short summary page per indexed episode, in a source-specific subfolder
+│   │   ├── lcp/          ← LCP episode pages (NNN-slug.md). Until migration is run, LCP pages
+│   │   │                   may also live directly under wiki/episodes/ — both locations are valid
+│   │   │                   during the transition. New LCP ingests should write here.
+│   │   └── raelan/       ← Raelan Agle episode pages (RA-NNNN-slug.md)
 │   ├── interventions/    ← one page per single treatment/practice (LDN, mestinon, cold plunge…)
 │   ├── programs/         ← named multi-component recovery programs (Gupta, DNRS, ANS Rewire,
 │   │                       Visible, Curable…) — distinct from single interventions because they
@@ -60,11 +79,28 @@ long-covid-podcast/
 │   │                       NOT specific trials (→ trials/), NOT specific programs (→ programs/).
 │   └── queries/          ← filed answers to substantial questions
 └── _meta/
-    ├── episode_list.json ← canonical list of 213 episodes with videoIds
-    └── failures.json     ← episodes that couldn't be transcribed (#31, #157)
+    ├── episode_list.json ← canonical list of 213 LCP episodes with videoIds
+    └── failures.json     ← LCP episodes that couldn't be transcribed (#31, #157)
+                          (Raelan corpus has no _meta companion yet; transcripts/ is the canonical list)
 ```
 
-`transcripts/` is **immutable**. Never modify those files. Only the wiki gets written.
+`transcripts/` and `transcripts/raelan/` are **immutable**. Never modify those files. Only the wiki gets written.
+
+## Source attribution
+
+Every claim that ends up in the wiki must carry a **source key** — `lcp` or `raelan-agle` — so a reader can always trace which podcast a row came from. Mechanically:
+
+- **Inline episode references in prose**: `(LCP #87)` for The Long Covid Podcast, `(RA #76)` for Raelan Agle. Never bare `#87` for new content.
+- **Episode-page filenames**:
+  - LCP: `wiki/episodes/lcp/NNN-slug.md` (or legacy `wiki/episodes/NNN-slug.md` until migrated)
+  - Raelan: `wiki/episodes/raelan/RA-NNNN-slug.md`. The `RA-` prefix makes the source visible in wikilink autocompletion (`[[RA-0076-chimere]]`).
+- **Episode-page frontmatter**: every episode page must declare `podcast: lcp` or `podcast: raelan-agle`. Legacy LCP pages without this field are interpreted as `lcp` by default; new pages must set it explicitly.
+- **Aggregate-page frontmatter `episodes:` field**: use prefixed strings, not bare numbers. Example: `episodes: ["LCP-87", "LCP-134", "RA-76"]`. Legacy bare-integer entries are interpreted as LCP.
+- **Evidence log `Ep` cell**: `LCP #87` or `RA #76`. Existing rows without prefix are LCP — do not rewrite them as part of an unrelated ingest, but do add new rows with the prefix.
+
+### Backfill posture
+
+Do not bulk-rewrite existing LCP frontmatter, filenames, or evidence-log rows just to add the `lcp` source tag. The default-to-LCP rule above means existing pages remain correct. Only update legacy rows when you're already editing the page for another reason (e.g., appending a new Raelan row triggers a recompute of `counts:` — at that point you may also normalize the page's older rows).
 
 ## Page Conventions
 
@@ -76,7 +112,7 @@ title: Page Title
 type: episode | intervention | program | symptom | trial | recovery-story | person | theme | query | overview
 tags: [pem, autonomic, microbiome]
 updated: 2026-05-04
-episodes: [12, 87, 134]   # episode numbers this page draws from
+episodes: ["LCP-12", "LCP-87", "RA-76"]   # prefixed strings — see "Source attribution"
 ---
 ```
 
@@ -84,10 +120,11 @@ Episode pages add:
 
 ```yaml
 type: episode
-episode_number: 87
+podcast: lcp | raelan-agle    # required for new pages; missing = lcp
+episode_number: 87             # within-podcast number (3-digit for LCP, 4-digit for Raelan)
 guest: Dr Tania Dempsey
 guest_role: clinician | patient | researcher | coach | advocate | author | host-solo
-episode_date: 2024-...     # if discoverable from content
+episode_date: 2024-...         # if discoverable from content
 duration: 58:30
 videoId: tg5jABbdkS4
 interventions_mentioned: [ldn, hbot]
@@ -167,10 +204,10 @@ notable_claims: [short bullet list of positions/arguments this person makes]
 ### Formatting
 
 - Internal links: `[[page-name]]` (Obsidian wikilinks)
-- Episode references inline: `(ep #87)` — links resolve via filename `087-...md`
-- Quotes from transcripts: blockquote with `— guest, ep #N`
+- Episode references inline: `(LCP #87)` or `(RA #76)` — never bare `#87` for new content. Wikilink form: `[[087-suzy-bolt]]` for LCP, `[[RA-0076-chimere]]` for Raelan.
+- Quotes from transcripts: blockquote with `— guest, LCP #N` or `— guest, RA #N`
 - Every page ends with `## See also` listing cross-references
-- Lowercase-hyphen filenames; no spaces
+- Lowercase-hyphen filenames; no spaces. Raelan filenames carry an `RA-` prefix and a 4-digit number (e.g. `RA-0076-chimere.md`).
 
 ### Cross-referencing into ercipedia
 
@@ -196,7 +233,7 @@ Every time an intervention, program, or trial appears in an episode, the agent m
 **Rules:**
 - One episode can produce multiple entries for the same intervention if multiple speakers express different outcomes.
 - If a guest tried the same thing twice with different outcomes (e.g. "first attempt didn't work, second time it helped"), log both.
-- **Same speaker, same intervention, same outcome, different episode = one row, not two.** When a guest reaffirms a previous intervention with the same outcome in a later episode (e.g. Jackie reaffirms breathwork as `key_to_recovery` in #94 having already done so in #64), **do not add a new row and do not increment `counts`**. Update the existing row's notes to reference the later episode and capture any new framing. The episodes-list frontmatter can include the later episode for cross-reference.
+- **Same speaker, same intervention, same outcome, different episode = one row, not two.** When a guest reaffirms a previous intervention with the same outcome in a later episode (e.g. Jackie reaffirms breathwork as `key_to_recovery` in LCP #94 having already done so in LCP #64), **do not add a new row and do not increment `counts`**. Update the existing row's notes to reference the later episode and capture any new framing. The episodes-list frontmatter can include the later episode for cross-reference. **This rule applies across podcasts too:** if Suzy Bolt credits Gupta as `key_to_recovery` on LCP #007 and again on RA #821, that is one row in the Gupta evidence log — update notes to add `Reaffirmed RA #821`, do not double-count.
 - `key_to_recovery` requires the guest to have an actual recovery (full or substantial). It is not used for "I'm hoping this will work."
 - When in doubt between `helped_partial` and `mentioned_only`: if there's a specific benefit named, it's `helped_partial`; if it's a name-drop without consequence, `mentioned_only`.
 - `recommended` and `key_to_recovery` are mutually exclusive for the same speaker on the same intervention. Patient who recovered using X = `key_to_recovery`. Clinician recommending X to others = `recommended`. Both can coexist on the same page from different speakers.
@@ -210,12 +247,22 @@ Every intervention / program / symptom / trial page must include this section ne
 
 | Ep | Speaker | Role | Outcome | Indication | Notes |
 |---:|---|---|---|---|---|
-| #87 | Suzy Bolt | coach (recovered patient) | key_to_recovery | pem, fatigue, dysautonomia | "Gupta was the biggest single factor in my recovery." Combined with pacing + somatic work. |
-| #102 | Dan Neuffer | coach (recovered, founder of ANS Rewire) | recommended | autonomic-dysfunction, fatigue | Argues nervous-system retraining is upstream of most LC symptoms. |
-| #145 | Anonymous patient | patient | harmed | pem | Crashed after trying GET-style component too aggressively; had to stop. |
+| LCP #87 | Suzy Bolt | coach (recovered patient) | key_to_recovery | pem, fatigue, dysautonomia | "Gupta was the biggest single factor in my recovery." Combined with pacing + somatic work. |
+| LCP #102 | Dan Neuffer | coach (recovered, founder of ANS Rewire) | recommended | autonomic-dysfunction, fatigue | Argues nervous-system retraining is upstream of most LC symptoms. |
+| RA #170 | Matt | patient (recovered) | key_to_recovery | pem, general-lc | Credits the Gupta-style brain-retraining frame as central to his arc. |
+| LCP #145 | Anonymous patient | patient | harmed | pem | Crashed after trying GET-style component too aggressively; had to stop. |
 ```
 
-The agent updating this page on a new ingest **appends a row**, then recomputes the `counts:` block in frontmatter. Counts and rows must always agree.
+The `Ep` cell carries the source prefix (`LCP #N` or `RA #N`) so a reader can always see which podcast a row came from. The agent updating this page on a new ingest **appends a row**, then recomputes the `counts:` block in frontmatter. Counts and rows must always agree.
+
+#### Cross-source aggregation
+
+Counts in `counts:` aggregate across both podcasts — that's the whole point of having one wiki. When reporting numbers to Eric, also break down by source if it changes the picture (Raelan over-represents recoveries, so `key_to_recovery` numbers from Raelan should not be read at parity with LCP). Example phrasing:
+
+> Gupta — 11 mentions across the corpus.
+> - **key_to_recovery: 5** (3 LCP, 2 Raelan — note Raelan is a recovery-story channel)
+> - helped_partial: 3
+> - …
 
 #### `Indication` column (added 2026-05-04, batch #90–#99)
 
@@ -253,6 +300,7 @@ Always lead with `key_to_recovery` and `harmed` — those are the two buckets Er
 
 ### Ingest (one transcript)
 
+0. **Identify source**: which podcast is this transcript from? Read the `.txt` header — LCP files have `Video ID / Length / Language`; Raelan files start with `Channel: Raelan Agle` above those fields. The source key (`lcp` or `raelan-agle`) drives every subsequent decision: episode-page filename, frontmatter `podcast:`, evidence-log Ep prefix.
 1. Read the `.txt` transcript (cheaper than `.json`; only use `.json` if you need timestamps for citation precision).
 2. Identify, with explicit lists:
    - **Guest** + role (clinician / researcher / practitioner / coach / advocate / patient / author / host-solo)
@@ -262,18 +310,25 @@ Always lead with `key_to_recovery` and `harmed` — those are the two buckets Er
    - **Named clinical trials** referenced (STIMULATE-ICP, LISTEN, RECOVER, AXA1125, DecodeME, …)
    - **Themes** (cross-cutting concepts: pacing, trauma, mind-body, microbiome, viral persistence, …)
    - **Explicit "what helped"/"what didn't help"** claims, with attribution
-   - **Did the guest recover?** (full / substantial / partial / no / not-discussed) — this gates whether their named interventions can earn `key_to_recovery`.
-3. Write `wiki/episodes/NNN-slug.md` — short summary (≤300 words), structured, with quote pulls keyed to interventions/programs/symptoms/themes.
-4. For each intervention/program/symptom/trial mentioned: open or create the page, **classify the outcome for this episode** (one of six buckets — see "Outcome classification" above), append a row to its Evidence log table, recompute `counts:` in frontmatter. Counts must always equal the row totals.
+   - **Did the guest recover?** (full / substantial / partial / no / not-discussed) — this gates whether their named interventions can earn `key_to_recovery`. *Heads-up for Raelan*: nearly every guest is a recovered patient, so `key_to_recovery` rows will be common — apply the bar carefully (a top-3-things-that-mattered claim, not just "I took it during my recovery").
+3. Write the episode page in the source-specific subfolder:
+   - LCP → `wiki/episodes/lcp/NNN-slug.md` (or legacy `wiki/episodes/NNN-slug.md` until migration)
+   - Raelan → `wiki/episodes/raelan/RA-NNNN-slug.md`
+   Short summary (≤300 words), structured, with quote pulls keyed to interventions/programs/symptoms/themes. Frontmatter must include `podcast:`.
+4. For each intervention/program/symptom/trial mentioned: open or create the page, **classify the outcome for this episode** (one of six buckets — see "Outcome classification" above), append a row to its Evidence log table with the `Ep` cell prefixed `LCP #N` or `RA #N`, recompute `counts:` in frontmatter. Counts must always equal the row totals. Aggregate page `episodes:` field uses prefixed strings (`"LCP-87"`, `"RA-76"`).
 5. Update each affected `wiki/themes/<name>.md` similarly (themes don't have outcome buckets — they have prose summaries plus episode lists).
-6. Create or update `wiki/people/<slug>.md` for the guest (and any third party named substantively, e.g. when guest A discusses guest B's work). Use frontmatter `role` to distinguish.
-7. If the episode is a recovery story, create or update `wiki/recovery-stories/<name>.md` — focus on the *journey/arc* (timeline, triggers, low points, turning points). The intervention list lives on the intervention pages, not here.
+6. Create or update `wiki/people/<slug>.md` for the guest (and any third party named substantively, e.g. when guest A discusses guest B's work). Use frontmatter `role` to distinguish. **One person = one page across both shows** — if a guest appears on both, their page lists episodes from both, with a brief `appearances:` block keyed by source.
+7. If the episode is a recovery story, create or update `wiki/recovery-stories/<name>.md` — focus on the *journey/arc* (timeline, triggers, low points, turning points). The intervention list lives on the intervention pages, not here. **One story = one page across both shows** — same person on both gets one merged arc.
 8. Update `wiki/index.md`.
-9. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | #NNN — Title`.
+9. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | LCP #NNN — Title` or `## [YYYY-MM-DD] ingest | RA #NNNN — Title`.
 
 ### Bulk ingest
 
 When indexing many episodes in one run, batch the per-episode work but write to disk after each episode (so a crash mid-run doesn't lose progress). Update `index.md` at the end of the batch, not after every episode.
+
+### Ingest scope — never run the wrong indexer over the wrong corpus
+
+When the user asks "ingest the next batch", confirm which corpus they mean before starting. Do not glob `transcripts/**/*.txt` indiscriminately — that mixes Raelan transcripts into an LCP run and mis-attributes guests. Use scoped globs: `transcripts/*.txt` for LCP-only, `transcripts/raelan/*.txt` for Raelan-only.
 
 ### Query
 
@@ -281,11 +336,12 @@ When Eric asks a question:
 
 1. Read `wiki/index.md` to find the relevant intervention/theme/recovery-story pages
 2. Read those pages
-3. **Pull supporting quotes from the underlying transcripts** — never invent quotes; if a page references ep #87 say "X helped," verify by reading the transcript snippet before quoting
+3. **Pull supporting quotes from the underlying transcripts** — never invent quotes; if a page references LCP #87 or RA #76 saying "X helped," verify by reading the transcript snippet at the matching path (`transcripts/087-...txt` or `transcripts/raelan/0087-...txt`) before quoting
 4. Synthesize an answer. Required structure when reporting on an intervention:
-   - **Mention frequency**: "discussed in N of 211 episodes"
+   - **Mention frequency**: "discussed in N of M corpus episodes" — and break out by source if relevant ("3 LCP, 2 Raelan")
    - **Sentiment breakdown**: who said it helped / didn't help / harmed
    - **Who said it**: patient with similar profile, clinician, researcher
+   - **Source-bias note** when Raelan rows materially shift the picture: Raelan is selection-biased toward recovery stories.
    - **Caveats**: dose, duration, what else was happening
 5. If the answer is substantial, file it as `wiki/queries/<slug>.md`
 6. Always include this disclaimer in queries: "Based on podcast testimony — this is anecdotal evidence, not clinical proof. Cross-check against `ercipedia/` for peer-reviewed evidence before acting."
@@ -298,6 +354,7 @@ When Eric asks a question:
 - Orphan pages with no inbound links
 - Stale sentiment labels (e.g. an intervention now has 10 mentions, but the page summary still cites 3)
 - **Count integrity**: `counts:` block in frontmatter must equal row totals in the Evidence log. Sum check: `sum(counts.values()) == mention_count == len(evidence_log_rows)`. Any mismatch is a lint failure to fix immediately.
+- **Source attribution integrity**: every Evidence-log row's `Ep` cell must carry a `LCP #` or `RA #` prefix (legacy bare-number rows are tolerated but flagged for opportunistic backfill). Every episode page filename must match its `podcast:` frontmatter (`raelan/RA-NNNN-…` ↔ `podcast: raelan-agle`).
 - **Suspect `mentioned_only`**: if an intervention page is dominated by `mentioned_only`, re-read those transcripts — the agent may have under-classified. Real outcomes hide in lazy classifications.
 - **Missing `harmed` evidence**: if a popular intervention shows zero `harmed` rows, double-check — null findings are often missed. Re-scan the relevant transcripts for negative experiences.
 
@@ -342,12 +399,25 @@ Eric prefers responses read aloud via TTS. Include `<!-- TTS: "spoken summary" -
 
 ## Source Material — Quick Facts
 
+### The Long Covid Podcast (`lcp`)
+
 - **Channel**: Long Covid Podcast on YouTube (`@longcovidpodcast`)
 - **Host**: Jackie Baxter — herself a long-hauler; recovered/recovering, advocates, runs support groups
 - **Episodes covered here**: 211 of 213 (transcripts unavailable for #31 and #157 — see `_meta/failures.json`)
 - **Total runtime indexed**: ~167 hours
 - **Format**: most episodes are 30–60 min interviews; a handful are host-solo reflections
 - **Auto-captions**: transcripts are YouTube auto-generated, so expect occasional misspellings of names and medical terms (e.g. "long C podcast" instead of "Long Covid podcast"). When extracting names, sanity-check against episode titles.
+
+### Raelan Agle (`raelan-agle`)
+
+- **Channel**: Raelan Agle on YouTube (`@RaelanAgle`)
+- **Host**: Raelan Agle — recovered ME/CFS patient who interviews other recovered patients and a small number of clinicians/coaches.
+- **Episodes covered here**: 44 (Raelan numbering preserved as 4-digit; range 0076–0998).
+- **Total runtime indexed**: ~30–35 hours (estimated from transcript headers).
+- **Format**: most episodes are 30–60 min interviews. Strong "what worked for X" framing. Recovery patients dominate; brain-retraining / nervous-system rewiring approaches are over-represented compared to LCP.
+- **Selection bias**: this channel curates *recoveries*. Treat aggregate `key_to_recovery` counts from Raelan with that filter in mind. The bias does **not** make the rows wrong — it makes the *base rate* skewed. When reporting cross-corpus aggregates, surface the LCP-vs-Raelan split if it would change Eric's read.
+- **Header format**: starts with a `Channel: Raelan Agle` line above `Video ID / Length`. No `Language` line — that's a missing field, not a problem.
+- **Auto-captions**: same caveat — YouTube auto-generated. Sanity-check names against episode titles.
 
 ## Index and Log Conventions
 

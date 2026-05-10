@@ -4,7 +4,11 @@ type: person
 role: patient-advocate
 specialism: ME/CFS recovery storytelling, YouTube, author
 affiliation: independent (Canada / SE Asia); host of the *Raelan Agle* YouTube channel
-episodes: [107]
+episodes: ["LCP-107"]
+appearances:
+  lcp: [107]
+  raelan-agle: [host of all 44 Raelan Agle ingests in this corpus]
+updated: 2026-05-08
 notable_claims:
   - "Three universal themes across 100+ recovery interviews: nervous-system / fear-response work; brain-training / neural-pathway work; physical-mechanism work (only some patients need this third one)."
   - "Most recovered people had normal tests because the body was normal. The brain and nervous system had become hypersensitised."
@@ -12,16 +16,16 @@ notable_claims:
   - "Hope is a recovery input. Stay in the input stream of recovery stories. Bookmark the ones that pick you up on bad days."
   - "I wouldn't take the 10 years back. Not because illness was a gift, but because I wouldn't be this person without it."
 tags: [me-cfs-recovered, youtube, recovery-stories-channel, finding-freedom-book, gradual-exercise, plant-based-then-not, scaffolding-first, hope]
-updated: 2026-05-04
 ---
 
 # Raelan Agle
 
 Canadian recovered ME/CFS patient (10 years ill; ~4 years fully recovered at recording, ~2019 onward). Mother had CFS from when Raelan was 5; lifelong; mother died of it. Trigger: severe flu within a year of mother's death; never recovered until self-built recovery program ~2019. Lived 8 years in Southeast Asia during illness arc; lived in five countries post-recovery.
 
-## Episode
+## Appearances and host role
 
-- [[107-raelan-agle-recovery-stories]] — recovery story + meta-observations from 100+ recovery interviews + her advice to patients early in their journey.
+- **As guest on LCP**: [[107-raelan-agle-recovery-stories]] — recovery story + meta-observations from 100+ recovery interviews + her advice to patients early in their journey.
+- **As host of her own channel** (`raelan-agle` source): every Raelan ingest in this corpus is one of her interviews. Her own stretching videos and book are credited as recovery inflections by some of her guests (first instance: Chimére, [[RA-0076-chimere]]).
 
 ## Why she matters on the wiki
 

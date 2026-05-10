@@ -3,9 +3,9 @@ title: ANS Rewire
 type: program
 program_kind: brain-retraining
 official_url: https://ansrewire.com
-mention_count: 8
+mention_count: 9
 counts:
-  key_to_recovery: 2
+  key_to_recovery: 3
   helped_partial:  1
   no_effect:       0
   harmed:          0
@@ -13,8 +13,8 @@ counts:
   mentioned_only:  0
 sentiment_summary: helped-many
 tags: [autonomic-rewire, dan-neuffer, brain-retraining, somatic, neuroplasticity, mind-body, recovery-vector, somato-neurological]
-updated: 2026-05-05
-episodes: [46, 55, 56, 102, 147, 148, 167, 169, 189, 197, 198, 208]
+updated: 2026-05-08
+episodes: ["LCP-46", "LCP-55", "LCP-56", "LCP-102", "LCP-147", "LCP-148", "LCP-167", "LCP-169", "LCP-189", "LCP-197", "LCP-198", "LCP-208", "RA-150"]
 ---
 
 # ANS Rewire
@@ -73,6 +73,7 @@ Dan **discourages buying the program** until the patient has watched the four fr
 | #189 | [[natalie-gold]] | patient (recovered) | key_to_recovery | pots, brain-fog, anxiety, dysautonomia | **Second key_to_recovery for ANS Rewire on this podcast.** 2-year recovery built on the program. Credits the small daily videos, education-first approach, and Dan's encouragement to *adapt rather than follow rigidly*. Found Joanna Rayl's #56 recovery story on this podcast first, then committed to the program. Long-standing psoriatic arthritis, chronic migraine, and back/neck pain all also resolved alongside LC. |
 | #197 + #198 | [[dan-neuffer]] | coach (founder, return) | recommended | general-lc | Two-part series on belief in healing. Acceptance-vs-resignation distinction, three layers of evidence, monthly journal, identity framing, setbacks-are-productive. Same speaker, same outcome — note merged with #102 row above. Episodes list updated. |
 | #208 | [[claire-mother]] | patient-advocate (mother) | helped_partial | pem, fatigue, brain-fog, paediatric-me-cfs | Son did ANS Rewire at age 16-17 (over 8-month period). Took him from 40% functional capacity (which paediatric ME/CFS pacing care had achieved over 18 months) to **80%**, plateau-breaking. Got him through A-levels and 2 years of engineering university. Final 20% closed by Mickel Therapy at age 21. **Logged as helped_partial — 80% functional capacity is substantial, not full recovery; the program didn't close the gap.** Note: program videos were geared to adults and demanding for a teenager. |
+| RA #150 | [[erik-hajj]] | patient (substantial recovery in progress) | key_to_recovery | dyspnea, fatigue, chest-pain, brain-fog, autonomic-dysfunction | **Third key_to_recovery for ANS Rewire** (and **first from Raelan source**). 27 yo St. Louis MO videographer; 11 months in at recording. Bought Dan Neuffer's program after Moderna vaccine started his recovery curve in March 2021; ANS Rewire then drove the structural brain-retraining work. *"Worth every penny — I would buy it over and over again."* Substantial-not-full recovery at recording (October 2021). Source-bias: Raelan curates recoveries — read alongside the LCP rows. |
 
 ## See also
 

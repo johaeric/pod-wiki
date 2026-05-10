@@ -2,18 +2,18 @@
 title: Low-Histamine Diet
 type: intervention
 intervention_type: dietary
-mention_count: 7
+mention_count: 8
 counts:
   key_to_recovery: 1
   helped_partial:  1
-  no_effect:       2
+  no_effect:       3
   harmed:          1
   recommended:     2
   mentioned_only:  0
 sentiment_summary: mixed
-tags: [diet, low-histamine, mcas, mast-cell-activation, histamine, elimination-diet, sighi, citric-acid]
-updated: 2026-05-05
-episodes: [21, 23, 38, 46, 163, 182]
+tags: [diet, low-histamine, mcas, mast-cell-activation, histamine, elimination-diet, sighi, citric-acid, fear-loop-risk]
+updated: 2026-05-08
+episodes: ["LCP-21", "LCP-23", "LCP-38", "LCP-46", "LCP-163", "LCP-182", "RA-232"]
 ---
 
 # Low-Histamine Diet
@@ -48,6 +48,7 @@ Two no-effects (Sally Riggs ep #23, [[jackie-baxter]] aside in ep #21) vs two pr
 | #46 | [[gez-medinger]] | advocate (LC, not recovered) | helped_partial | mcas | "Absolutely critical to managing my symptoms" since summer 2020. Got the protocol from Tina Peers (#38) and combined with antihistamines. Less MCAS-y now but still anchored on the diet. |
 | #163 | [[carrie-bailey]] | practitioner (functional nutritionist, US) | harmed | mcas, mental-health | **Avoid-by-category critique.** Bailey says low-histamine misapplied as "no citrus / no tomatoes / no banana" cuts out healing foods when the actual culprit is often **citric acid** (GMO-corn-derived flavour enhancer hidden in jarred tomatoes / condiments / supplements / "natural flavours"). Her clinical experience: clients put on low-histamine sometimes get worse because the foods being eliminated are the antimicrobial / antiviral / detox-supporting ones, while the actual pro-histamine offender (citric acid) is missed. Logged as harm row from a category-misapplication failure mode, not from low-histamine done well. |
 | #182 | [[karen-wright]] | patient (recovered) | key_to_recovery | pots, mcas, fatigue | **First concrete intervention with felt benefit.** Within 24h of starting low-histamine, body's "revving" calmed, breathing dropped, sleep became restorative for the first time in months. The win that anchored everything else (breath, meditation, pacing) — first patient `key_to_recovery` for low-histamine on this wiki. |
+| RA #232 | [[kyle]] | patient (recovered) | no_effect | post-viral-fatigue, general-lc | Did 1+ months strictly. **No symptom reduction; created food-fear that compounded.** *"Beliefs formed that these foods were a threat — and then I got reactions to them."* Eventually abandoned — recovered without it via meditation/contemplative practice. Important counter-row: low-histamine can act as a *fear amplifier* in fear-state nervous systems where the framing of the diet itself becomes part of the threat-pattern the body is responding to. Distinct mechanism from Bailey's #163 harm case (citric-acid category misapplication). |
 
 ## See also
 

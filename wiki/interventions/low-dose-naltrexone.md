@@ -2,18 +2,18 @@
 title: Low-Dose Naltrexone (LDN)
 type: intervention
 intervention_type: drug
-mention_count: 8
+mention_count: 11
 counts:
-  key_to_recovery: 0
+  key_to_recovery: 1
   helped_partial:  2
   no_effect:       0
-  harmed:          1
+  harmed:          2
   recommended:     4
-  mentioned_only:  1
-sentiment_summary: helped-some
-tags: [drug, off-label, naltrexone, ldn, immune-modulation, neuroinflammation, me-cfs, mast-cell, pain, dosing-protocol]
-updated: 2026-05-05
-episodes: [23, 38, 55, 61, 91, 167, 183, 185, 186]
+  mentioned_only:  2
+sentiment_summary: mixed
+tags: [drug, off-label, naltrexone, ldn, immune-modulation, neuroinflammation, me-cfs, mast-cell, pain, dosing-protocol, harm-trigger-warning]
+updated: 2026-05-08
+episodes: ["LCP-23", "LCP-38", "LCP-55", "LCP-61", "LCP-91", "LCP-167", "LCP-183", "LCP-185", "LCP-186", "RA-147", "RA-513", "RA-581"]
 ---
 
 # Low-Dose Naltrexone (LDN)
@@ -53,6 +53,9 @@ The wiki's most explicit titration protocol comes from [[091-groysman-qa-pt1]]:
 | #183 | [[theresa-aristoark]] | patient (recovered) | harmed | pain, dysautonomia | Tried LDN; couldn't tolerate it. Stopped. Recovery proceeded without it. |
 | #185 | [[kendal-stewart]] | clinician | recommended | brain-fog, neuroinflammation | Uses **3 mg** (vs 100 mg for addiction) — preserves endorphin tone while turning down endorphin-induced immune over-activation. One of his four levers to turn off microglial activation. |
 | #186 | [[jamie]] | patient (recovered) | mentioned_only | pots, pem | Prescribed LDN by Clinic 19 during hospitalisation. Got better before starting it; never actually took it. |
+| RA #147 | [[kristyna]] | patient (recovered) | mentioned_only | post-viral-fatigue, fatigue | Austrian neurologist (self-claimed CFS specialist) recommended LDN at month ~5. Kristyna asked to start it via phone/email when she got worse; **doctor never responded**. She never took it. Recovery proceeded via brain-retraining route without it. Notable as a **second never-started LDN row** — useful when computing "how often does LDN get prescribed but never reach the patient." |
+| RA #513 | [[melissa-mansfield]] | patient (recovered) | key_to_recovery | fatigue, pem, general-lc | **First patient `key_to_recovery` for LDN on the corpus.** Brooklyn NY salsa dancer; ~2-year recovery. Two major NYC long-covid clinics (Mount Sinai + Maimonides) failed her; recovery happened via a patient-recommended doctor who started her on LDN under careful titration. **Hit a specific dose where she "turned the corner"** — pairs with Groysman's LCP #91 protocol (1 mg start, +0.5 mg/week, 4.5 mg target, 1–3 months minimum). LDN sat alongside 9 months radical rest + pacing + community connection + identity grief work; the LDN was the pharmacological piece she names as the inflection. |
+| RA #581 | [[susanna-johnson]] | patient (recovering, age 28 at recording) | harmed | initial-trigger-of-mecfs, hormonal-dysfunction | **Strong harm row.** Belfast NI physiotherapist; aged 20; prescribed LDN for borderline-thyroid + hormone-imbalance. **3 weeks on LDN → bedridden → 8-year ME/CFS arc.** Different harm category from Theresa LCP #183 (couldn't tolerate, stopped) — Susanna's was the *initiator* of her chronic illness. Different dosing context too (LDN given as a hormonal intervention, not as an LC / CFS treatment). Adds caution data: **LDN as a hormonal-balance intervention in pre-existing-stress-loaded patients may push them over the edge**, distinct from LDN as an attempted CFS / LC treatment in already-ill patients. |
 
 ## See also
 

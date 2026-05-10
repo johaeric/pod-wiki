@@ -2,18 +2,18 @@
 title: Breathwork
 type: intervention
 intervention_type: behavioral
-mention_count: 18
+mention_count: 20
 counts:
-  key_to_recovery: 3
-  helped_partial:  6
+  key_to_recovery: 4
+  helped_partial:  7
   no_effect:       0
   harmed:          0
   recommended:     9
   mentioned_only:  0
 sentiment_summary: helped-some
-tags: [breathwork, breathing, dysfunctional-breathing, vagal, hyperventilation, co2-tolerance, nose-breathing, buteyko, hrv-biofeedback, integrative-breathing-therapy]
-updated: 2026-05-05
-episodes: [2, 12, 17, 20, 23, 25, 29, 64, 82, 111, 114, 125, 132, 133, 174, 176, 181, 182]
+tags: [breathwork, breathing, dysfunctional-breathing, vagal, hyperventilation, co2-tolerance, nose-breathing, buteyko, hrv-biofeedback, integrative-breathing-therapy, polyvagal-frame]
+updated: 2026-05-08
+episodes: ["LCP-2", "LCP-12", "LCP-17", "LCP-20", "LCP-23", "LCP-25", "LCP-29", "LCP-64", "LCP-82", "LCP-111", "LCP-114", "LCP-125", "LCP-132", "LCP-133", "LCP-174", "LCP-176", "LCP-181", "LCP-182", "RA-170", "RA-221"]
 ---
 
 # Breathwork
@@ -65,6 +65,8 @@ Closely intertwined on the podcast with **yoga**, **somatics**, and **vagal-tone
 | #176 | [[carl-robot]] | patient (recovered) | helped_partial | breathing-pattern-disorder, dysautonomia | Started with Wim-Hof-adjacent practice (he's hazy now on which method) before shifting to gentler conscious breathing — likely box-breathing-style. Part of his daily protocol; didn't break the LC alone but contributed. *(Jackie's caveat in-episode: she warns LC patients off Wim Hof.)* |
 | #181 | [[david-putrino]] | researcher | recommended | dysautonomia, pots, anxiety | Frames breathwork as parasympathetic intervention against sympathetic overdrive (HR + adrenaline) and the "tired-but-wired" pattern. Distinguishes (1) gentle stabilising breathwork at LC start from (2) "actual work" breathwork later — the latter not for unstable symptoms but useful once stabilised. |
 | #182 | [[karen-wright]] | patient (recovered, NHS physio) | key_to_recovery | pots, pem, fatigue | Breathwork was a major form of "real rest" while severely affected — could only do it lying down. Combined with meditation and yoga nidra. Now teaches breathwork via Sage Health and Wellness. |
+| RA #170 | [[matt-butler]] | patient (recovered) | helped_partial | post-viral-fatigue, pem, anxiety | One leg of his multi-component daily 2-hour stack (yoga + meditation + breathing). Helped down-regulate symptoms over 2 months. Not the single key (he's explicit no single component owned the recovery). |
+| RA #221 | [[roberto-escobar]] | patient (recovered) | key_to_recovery | post-viral-fatigue, pem, dysautonomia, ptsd | Breathwork **with the polyvagal-theory frame** (paired with yoga + laughing yoga) was the load-bearing recovery work after his year-1 multi-modal flailing. Same techniques without the frame had not worked. **4th `key_to_recovery` for breathwork on this corpus.** Worth pairing with [[polyvagal-theory]]: the *understanding* of why slow exhalation engages the vagus is what made his existing practice click. |
 
 ## Practical first-line (consolidated)
 

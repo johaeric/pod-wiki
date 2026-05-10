@@ -1,20 +1,20 @@
 ---
 title: Index
 type: index
-updated: 2026-05-05
+updated: 2026-05-08
 ---
 
 # Index
 
-The catalog of pages. Update on every ingest (or end of batch).
+The catalog of pages across the multi-source corpus. Update on every ingest (or end of batch).
 
 ## Overview
 
-- [[overview]] — high-level synthesis: themes, host style, how to read this wiki
+- [[overview]] — high-level synthesis: sources, source-bias notes, how to read this wiki
 
-## Episodes
+## Episodes — The Long Covid Podcast (`lcp`)
 
-_211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pages are added here as they are ingested. Currently **211 of 211 episodes ingested** (all transcripts indexed; #31 and #157 remain transcript-unavailable)._
+_211 transcripts available; episodes #31 and #157 had no captions on YouTube. **211 of 211 ingested.** Filenames `NNN-slug.md` (legacy at `wiki/episodes/`; new ingests under `wiki/episodes/lcp/`)._
 
 - [[001-barbara-melville-long-covid-scotland]] — advocate · founding of [[long-covid-scotland]]; case for one-stop multidisciplinary clinics.
 - [[002-jackies-personal-story]] — host-solo · Jackie's own story; pacing learnt the hard way; first endorsement of breathwork.
@@ -228,6 +228,55 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pa
 - [[212-amy-davies-internalised-pressure]] — coach (UK embodiment + somatic, recovered chronic pain + fatigue 2018) · **internalised pressure** as second layer of NS stress in LC: perfectionism, achiever pattern, masking, inner drill sergeant. Compassionate awareness of patterns as protective mechanisms. Urgency as a stress-state signal.
 - [[213-hampton-brunschwig-east-meets-west]] — clinicians (Helios Integrated Medical, Boulder CO; 12+ year East-West collaboration) · **Shao Yin pattern** (kidney + heart channel deficiency) as dominant LC subtype; adrenaline ↔ oxytocin teeter-totter; latent virus reactivation + T-cell exhaustion subtype; cordyceps mushrooms; strong anti-vegan / pro-animal-protein blood-building stance; cooked-food rule; Korean electroacupuncture-stem-cell protocol.
 
+## Episodes — Raelan Agle (`raelan-agle`)
+
+_44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus indexed. Filenames `RA-NNNN-slug.md` under `wiki/episodes/raelan/`. **Source bias**: this channel curates recovery stories — weight aggregate `key_to_recovery` counts accordingly._
+
+- [[RA-0076-chimere]] — patient (substantial recovery in progress; Baltimore teacher, Black, US first-wave March 2020) · 5-month vision loss + neuralgias + bedbound months → pivot via Raelan's stretching videos + Joe Dispenza's *Breaking the Habit of Being Yourself*. Striking unblock pattern: Google reviews + letters to city councilmen broke through racial gaslighting in acute care.
+- [[RA-0118-lorrie-rivers]] — coach (recovered ME/CFS + LC + lifelong fibromyalgia; cross-corpus with LCP #70 and #137) · ME/CFS recovery via energy medicine + holistic approach + pacing + diet over ~10 years; **LC recovery in ~8 months following her own [[lorrie-rivers-relief-and-transformation|Relief and Transformation]] course**; **earlier date-stamp than LCP** — parasite-theory framing absent in this June 2021 recording (added later); leads with [[eft-tapping]] → [[healing-codes-trilogy]].
+- [[RA-0147-kristyna]] — patient (full recovery, ~1 year) · Czech-born Vienna-based; brain-retraining via an unnamed coach ("Jason") found on Raelan's channel; quit her stressful job; [[kambo]] ×2 at ~95% recovery for emotional release; LDN was prescribed by an Austrian neurologist but **never started** (doctor never responded to follow-up).
+- [[RA-0150-erik-hajj]] — patient (substantial recovery in progress, 11 months in) · 27 yo St. Louis MO videographer; Moderna vaccine in March 2021 named as **first recovery inflection** (*"I didn't start recovering until I got my vaccine"*) → ANS Rewire as the structural brain-retraining work. Runs his own LC YouTube channel; meta-content creator within Raelan's ecosystem.
+- [[RA-0170-matt-butler]] — patient (full recovery, ~1 year) · London UK; explicitly multi-component stack with no single key — Pamela Rose pacing → 2hrs/day yoga + meditation + breathing → CBT → Lightning Process intro audio (4hr) → DNRS full program → graduated weight training. Anchor articulation of *"belief is a precondition"* and *"change requires change."*
+- [[RA-0221-roberto-escobar]] — patient (full recovery, 1.5 years severe LC + PTSD) · Queens NY registered nurse; **front-line COVID-unit trauma March 2020 named as the load-bearing predisposing factor**, not the infection alone. Hospitalized 2 weeks (almost ventilated). 2.5–3 month recovery once polyvagal-theory framing + self-compassion mindset shift made yoga + breathing + laughing yoga finally work. EMDR resolved his PTSD layer separately. **First `no_effect` for Gupta on the corpus**.
+- [[RA-0226-kristine]] — patient (full recovery, ~3 months) · Latvian, Denmark-based; post-vaccine + virus stack triggered ME/CFS. Severe insomnia + sleep paralysis. Recovery via the **same unnamed "Jason" brain-retraining coach** as Kristyna RA #147 — week-1 sleep restoration; week-4-5 skiing 8am–4pm. Now uses the techniques for non-health goals (climbing, presentations).
+- [[RA-0228-donna-shaw]] — patient (full recovery, ~2 years) · Surrey UK first-wave (April 2020); throat-closing acute symptom; **post-birthday-cake crash** anchor for PEM illustration. Multi-component recovery: Pamela Rose pacing + Optimum Health Clinic / Alex Howard mindset + Sopfit graduated walking (30 sec → 20 min over 6 months) + Hill with Liz affirmations + heal-the-gut nutrition. Now a qualified life coach for anxiety. Anchor framing: *"your body is built to heal — but you have to be in a healing state to do that."*
+- [[RA-0232-kyle]] — patient (full recovery, ~2 years; South Africa) · Buddhist-adjacent meditation as load-bearing; *"What am I resisting?"* welcoming-discomfort practice. **First clean recovered-patient `no_effect` rows for both pacing AND low-histamine diet on the corpus** — frame-fit story; same lesson as Roberto/Gupta. **Crash → flare-up reframe** anchor.
+- [[RA-0235-three-themes-synthesis]] — host-solo synthesis · Raelan articulates her **3-component recovery framework**: nervous-system work (everyone needs it) + brain retraining (most need it) + underlying infections/gut/mould/metals (some need it). Pairs with LCP #107 — tightest articulation of her meta-framework on the corpus.
+- [[RA-0261-meal-planning-course-promo]] — host-solo course promo (Udemy meal-planning) · low LC-content; energy-conservation framing only. Only corpus-relevant tidbit: Raelan recommends *Healthy Living James* cookbook (James recovered from same chronic-fatigue condition).
+- [[RA-0276-three-strategies-healing-state]] — host-solo · 3 strategies for keeping the nervous system in healing state: don't-let-slip-become-slide, dial-down-the-importance-of-things, make-your-head-a-better-place-to-be.
+- [[RA-0279-overcome-setbacks-five-steps]] — host-solo · 5-step framework for processing recovery setbacks (paid programs that didn't work, plateaus, big disappointments).
+- [[RA-0280-amy-engkjer]] — patient (full recovery; **= Amy Anker LCP #20**, name change between recordings) · cross-corpus reaffirmation. Tightest corpus articulation of meditation-as-layered-tool. Coined "joy shocking" (cold shower + Florence + the Machine *Shake It Out* at full volume).
+- [[RA-0300-adam-langdon]] — patient (substantial recovery, ~95%, ~18 months in) · Ontario Canada; **neurological long covid subtype**; load-bearing intervention is **Tom Bunker's fasting protocol** (patient-led research → clinical trials). Brain inflammation confirmed via Toronto CMHA PET-scan study (June 2023). Runs the *Beating Long Covid* YouTube channel.
+- [[RA-0309-becky-sharpe]] — patient (full recovery) · London UK acting coach. **7 years pre-existing fatigue + ~3 years severe LC**. 1.5+ years on a **harsh naturopath protocol that made her worse** under herxheimer-as-progress framing (`harmed` row). Recovery via **Sarno's TMS book — 30%→80% in 3 days**. Final 20% via emotional-feeling work. Strong wiki warning row about herxheimer-as-progress framing and PEMF-mat-as-meditation-substitute.
+- [[RA-0317-five-ways-calm-nervous-system]] — host-solo · 5 in-the-moment techniques: smiling, word-swap-game (via Curable), calm breathing + physiological sigh (Stanford 2017), meditation, time in nature. Plus bonus: time with animals.
+- [[RA-0335-jackie-baxter]] — **= Jackie Baxter, host of LCP** · cross-corpus appearance. Reaffirmation of her recovery story (breathing → yoga nidra → cold water = Big Three) plus update on her work as a breathing instructor with Vicki Jones via [[long-covid-breathing]]. Tightest single-episode summary of her arc for non-LCP audiences.
+- [[RA-0354-karen-knutson]] — patient (in-progress, ~halfway, single mom of a 7yo) · Watertown MN. Useful **counter-evidence rows**: SGB `no_effect`, Sarno book `no_effect` (couldn't get through it — counter to Becky #309), supplements `no_effect`, detoxes `no_effect`. Helped: sleep meds, anxiety meds, cold showers, affirmations, yoga nidra, ayurvedic.
+- [[RA-0448-katrine]] — patient (full recovery, ~1 year, Belgium) · **Disambiguates the unnamed "Jason" coach as Jason McAuliffe and the program as "I Can Thrive."** Recovery via Suzy Bolt yoga + I Can Thrive program + relationship shift (cleared an emotional stressor) + Joe Dispenza audiobooks.
+- [[RA-0465-glenn-chan]] — patient-advocate (~95% recovered; vaccine-injured cohort) · Ontario Canada programmer. Built **sickandabandoned.org** — Python-driven patient-survey data analysis on treatment outcomes. Personal recovery: **ivermectin + black seed oil**. Survey findings: HBOT + fasting + antimicrobial supplements rank promising; SSRIs + gabapentin + antibiotics rank bottom. **Critical warning**: even working interventions (HBOT) can permanently set patients back; don't trust herxheimer-as-progress framing.
+- [[RA-0491-neal-cotter]] — patient (substantial recovery, ~4 years in) · LA POTS-confirmed LC. **First [[epipharyngeal-abrasive-therapy]] (Japanese vagus-nerve treatment) anchor on the corpus**. Multi-component: Primal Trust + cranial-sacral + EAT + gradual exposure micro-incrementing. *"Brain retraining is a shovel, not dynamite."*
+- [[RA-0502-julien]] — patient (in-progress, ~2 years in) · Berlin journalist with 12-year pre-existing depression. **First ketamine-infusion + first body-therapy-as-felt-safety rows on the corpus**. SGB and ketamine produced dramatic but transient relief (smell/taste returned for days). Recovery in progress.
+- [[RA-0513-melissa-mansfield]] — patient (full recovery, ~2 years) · Brooklyn NY salsa dancer. **First patient `key_to_recovery` for LDN on the corpus**. Two major NYC long-covid clinics failed her; patient-recommended doctor + careful LDN titration + 9 months radical rest + community + staged dance re-entry.
+- [[RA-0516-linley]] — patient (full recovery, 7 months → 2 weeks) · Nelson NZ. **First [[the-switch-mel-abbott]] anchor on the corpus** (Mel Abbott's 4-day online program). Striking timeline: full-time work in 2 weeks; 15–20K steps/day NYC marathon weekend within 2 months.
+- [[RA-0524-rachael-rebound]] — **= Rachael (LCP #127, #168) — Rebound Athletic founder**, cross-corpus reaffirmation. Coach-side perspective on movement-as-recovery. Launched the Baseline Club + Baseline Formula at affordable price point.
+- [[RA-0527-ellen-alden]] — patient (substantial, MBSR-certified coach) · **= guest of LCP #157 — the LCP transcript-unavailable episode**. Bridges the wiki gap. Multi-modal stack: MBSR + TMS Sarno + Long Covid Breathing + cold plunging + PRT training. Now hosts LC/CFS workshops and retreats.
+- [[RA-0534-troy-roach]] — patient-advocate (~90% recovered, citizen-scientist) · Madrid Spain. **First HSP-as-predisposing-factor framing on the corpus**. Nicotine-patch advocate. 80/20 pacing rule. 9-day fast + antibiotics inflection (40%→60%).
+- [[RA-0546-jamie-waterhouse]] — **= Jamie (LCP #186)**, cross-corpus reaffirmation · Melbourne Australia. **Three-program-stack** (Primal Trust → Healing Dudes → Lightning Process at 90%) + post-recovery anxiety articulation.
+- [[RA-0579-alisha-braswell]] — **= Alisha (LCP #178)**, cross-corpus surname disambiguation. Year of detox didn't help; TMS / Sarno + Dan Buglio + Rebecca Tolin somatic-tracking + Reiki recovered her. Now runs *Vibrant Energy Healing*.
+- [[RA-0581-susanna-johnson]] — patient (substantial, training for triathlon) · Belfast NI physiotherapist. **3 weeks of LDN at age 20 triggered her 8-year ME/CFS arc** — strong harm row added to LDN aggregate. Recovery via Alex Howard + IFS therapy + EFT-with-exercise + Pilates + Zone-2 running.
+- [[RA-0623-miguel-bautista-qa]] — coach Q&A (Miguel Bautista, founder of CFS Recovery) · cleanest single-episode articulation of his framework. Hypersensitive nervous system + stress threshold + the **Golden Rule (respond well to symptoms)**. Symptoms target what you value. Don't Google CFS.
+- [[RA-0753-emotional-reservoir]] — host-solo · 3-step framework with **emotional reservoir (Nicole Sachs's beaker)** as the often-missed second step.
+- [[RA-0761-how-to-know-fully-recovered]] — host-solo · post-recovery transition framing.
+- [[RA-0767-dusty-dustin]] — patient (full recovery) · Valley Springs CA, age 73-74 national-level cyclist. **Oldest recovered patient on the corpus.** Riding 140 miles/week now.
+- [[RA-0784-why-still-stuck]] — host-solo · plateau / frame-fit framing.
+- [[RA-0821-suzy-bolt]] — **= Suzy Bolt (LCP #007/#064/#094)**, cross-corpus reaffirmation · Brighton UK; "being seen" as recovery input; thousands now in her affordable online program.
+- [[RA-0845-nate-singer]] — coach (recovered, Sayulita Mexico) · anti-checklist nervous-system regulation; "trauma + emotions aren't always the root cause."
+- [[RA-0862-faith-canter]] — coach (recovered ME/CFS + autoimmune + heart + thyroid, Portugal) · "hidden fuels" framing — air, light, thoughts, environment, connections, joy. *"If you can have fun, that's just as healing as any protocol."*
+- [[RA-0864-devon-carter-tips]] — coach Q&A (Devon Carter, Victoria BC) · lead coach in Raelan's Brain Retraining 101; PRT-certified.
+- [[RA-0931-chelsea-verbeek]] — patient (full recovery; Edmonton AB) · vaccine-injured 2021, wheelchair-bound for ~1 year. Recovered via **Primal Trust + The Switch stack**. **First doctor-recommended-brain-retraining anchor on the corpus** (Edmonton doctor referred her).
+- [[RA-0961-karen-wright]] — **= Karen Wright (LCP #182)**, cross-corpus reaffirmation · NHS physiotherapist who had been *running an NHS long-covid service* in 2020 then got LC herself in 2021.
+- [[RA-0984-devon-carter-recovery]] — coach's own recovery story (Devon Carter) · **anchor articulation of "life looked fine on paper"** but running-hot underneath. *"Science is what eliminates fear of symptoms."*
+- [[RA-0998-what-worked-for-thousands]] — host-solo synthesis · broadest articulation of Raelan's recovery framework after 200+ interviews.
+
 ## Interventions
 
 - [[abilify-low-dose]] — drug · 1 mention · helped-some (1 recommended) · 0.25mg aripiprazole for severe near-bedbound CFS (Stanford research, Teitelbaum #55).
@@ -266,6 +315,7 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pa
 - [[fluconazole]] — drug · 1 mention · helped-some (1 recommended) · 6-week candida overgrowth protocol (Teitelbaum #55).
 - [[forest-bathing]] — behavioral · 1 mention · helped-some (1 recommended) · CDR-side lever (Newiss #44).
 - [[graded-exercise]] — rehab · 5 mentions · contested (3 harmed, 2 recommended-with-readiness-checklist) · NICE 2021 withdrew GET for ME/CFS for lack of evidence; **Cochrane re-review history** (#168 — 2020 review challenged on flawed control groups + ignored harm signals; subsequent re-analyses found GET harmful for >50% of ME/CFS participants).
+- [[gentle-movement-restorative]] — rehab · 1 mention · helped-many (1 key_to_recovery) · sub-PEM-threshold movement-from-bed pattern; Chimére RA #76 credited Raelan's stretching videos as the inflection from bedbound (5-min sit-up timer). Distinct from [[graded-exercise]] — symptom-titrated, micro-dosed.
 - [[hbot]] — device · 4 mentions · helped-some (1 helped_partial, 3 recommended) · brain + chest improvement (Mulder #48); Makeeva #96 anchor — mitochondrial-repair framing, 20-60 sessions, **MS Charity UK ~£15/session**; **Hadanny #153 anchor RCT-evidence (Aviv n≈90, 18-mo sustained gains)**; Putrino #181 frames within elite-athlete carryover cluster.
 - [[hrv-biofeedback]] — behavioral · 1 mention · helped-some (1 recommended) · paced-breathing-with-real-time-HRV-display; data is motivation only, breathing is the active ingredient (Wiles #82).
 - [[therapeutic-phlebotomy]] — device · 1 mention · n=1 (1 key_to_recovery) · controversial; vaccine-injured patient (Pover #84) reports zero→30% function from pint-of-blood removal; logged not endorsed.
@@ -406,6 +456,7 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pa
 - [[atns-symptomatic]] — community / clinical-association · 1 mention · 1 recommended · **Association for the Treatment of Neuroplastic Symptoms (David Clarke #179).** symptomatic.me — 12-item self-assessment + 7-min documentary edited by recovered film-director patient. ACE → adult-symptom-pattern framework. *Story Behind the Symptoms* podcast.
 - [[brain-hq]] — tracker-app · 1 mention · 1 recommended · Posit Science cognitive-training software, validated bottom-up processing-speed exercises. Used as the cognitive arm of the **CI Cognitive Therapy** trial (Mahncke + Uswatte #184) — 80% return-to-work in pilot. Subscription, 14 languages, free daily exercise.
 - [[primal-trust]] — brain-retraining · 1 mention · 1 key_to_recovery · Cathleen King's online brain-retraining program. **Jamie #186 foundation** of her recovery while bedbound — light-visualisation + gentle walking + self-talk reframes.
+- [[joe-dispenza-method]] — mind-body · 1 mention · helped-many (1 key_to_recovery) · Joe Dispenza's mindset/meditation/neuroplasticity-via-belief-change framework. Chimére RA #76 read *Breaking the Habit of Being Yourself* (no workshop) — catalyst for her recovery's mindset leg. ⚠️ some Dispenza-published claims (e.g., meditation-induced stem-cell activation) are outside mainstream evidence; corpus indexes patient outcomes, not biological claims.
 - [[fern-program]] — somatic · 1 mention · 1 helped_partial · Suzy Bolt's late-stage recovery program targeting fear-of-reinfection block. Jackie used it near end of her own recovery (#188).
 - [[healing-dudes]] — community · 1 mention · 1 helped_partial · Group coaching for active recovery; win-celebration culture, no symptom-talk. Jamie #186 used after Primal Trust foundation.
 - [[cfs-health-program]] — community · 1 mention · helped-many (1 key_to_recovery) · Toby Morrison's online ME/CFS + LC recovery program; multi-coach model (movement, mindset, etc.); all coaches recovered from ME/CFS. Substantial free YouTube material; paid monthly subscription. Kelly George #192 mentor.
@@ -503,6 +554,10 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pa
 - [[recovery-stories/claire-son-recovery]] — son recovered at age 21 (paediatric ME/CFS at age 13, 8-year arc) · UK; Bristol/Bath ME/CFS clinic (Crawley) → ANS Rewire (40%→80%) → Mickel Therapy (3 sessions → full) (#208). **34th full recovery (paediatric onset); first Mickel-Therapy key_to_recovery.**
 - [[recovery-stories/nora-rodden-recovery]] — recovered (3 sequential conditions: chronic back pain post-car-accident, GI, severe insomnia) · Cornell biology + Harvard MBA; PSRT clinical trial inflection for back pain; outcome-independence for insomnia; *F It Diet* for GI; founded [[nirvana-app]] (#211). **35th full recovery; first PSRT-trial-supported recovery anchor.**
 
+### Raelan Agle source
+
+- [[recovery-stories/chimere]] — substantial recovery in progress (March 2020 → December 2020 → ~9 months) · Baltimore middle-school teacher (Black; first-wave US); bedbound months + 5-month vision loss + neuralgias; pivot via Raelan's stretching videos + Joe Dispenza's *Breaking the Habit of Being Yourself* + mindset work; non-medical-political-channel-advocacy as the gaslighting unblock (RA #76). **First Raelan recovery story on the wiki; recovery-in-progress not retrospective.**
+
 ## People
 
 - [[adrian-baker]] — clinician/recovered LC · GP, North Scotland · ep #49.
@@ -522,6 +577,7 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. Pa
 - [[carrie-bailey]] — practitioner (functional nutritionist, US) · pathogen + toxin frame; gluten/dairy/eggs elimination + supplement scaffold; minority position on vitamin D + liver-fat-burden · eps #162, #163.
 - [[cass-macdonald]] — patient-advocate (nurse, multi-disabled) · ep #19.
 - [[chiara-berardelli]] — patient (former GP) · ep #3.
+- [[chimere]] — patient (Baltimore middle-school teacher; Black; first-wave US March 2020; substantial recovery in progress) · RA #76.
 - [[chris-ponting]] — researcher (Edinburgh genetics) · DecodeME PI · ep #67.
 - [[chris-white]] — advocate · LC Scotland research subgroup · ep #4.
 - [[colin-pidgeon]] — carer (father of paediatric LC patient) · author of poem *Stormy* · eps #61, #65.

@@ -12,8 +12,8 @@ counts:
   mentioned_only:  0
 sentiment_summary: recommended
 tags: [eft, meridian-tapping, emotional-freedom-technique, self-administered, amygdala, callahan-craig, mind-body, vagus, ptsd-aware]
-updated: 2026-05-05
-episodes: [137, 174]
+updated: 2026-05-08
+episodes: ["LCP-137", "LCP-174", "RA-118"]
 ---
 
 # EFT Meridian Tapping
@@ -42,7 +42,7 @@ Lorrie recommends 2× daily, daily, ideally for the duration of the work; less f
 
 | Ep | Speaker | Role | Outcome | Indication | Notes |
 |---:|---|---|---|---|---|
-| #137 | [[lorrie-rivers]] | coach (recovered ME/CFS + LC + fibromyalgia) | recommended | anxiety, ptsd, brain-fog, fatigue, mental-health | Live demo on episode (Jackie 8/9 → 5/6 in one round on concert anxiety). Lorrie has used EFT on herself and clients for 20+ years; teaches it as a foundational nervous-system tool in her LC/MECFS course. Cites MRI evidence of amygdala quieting after sessions. PTSD caution flagged. |
+| LCP #137 | [[lorrie-rivers]] | coach (recovered ME/CFS + LC + fibromyalgia) | recommended | anxiety, ptsd, brain-fog, fatigue, mental-health | Live demo on episode (Jackie 8/9 → 5/6 in one round on concert anxiety). Lorrie has used EFT on herself and clients for 20+ years; teaches it as a foundational nervous-system tool in her LC/MECFS course. Cites MRI evidence of amygdala quieting after sessions. PTSD caution flagged. *Reaffirmed RA #118 (June 2021) — credits EFT as the entry-point that gave her the first emotional-relief signal, then evolved into [[healing-codes-trilogy]] for deeper effect. Not double-counted.* |
 | #174 | [[uros-cimzar]] | patient (recovered) | helped_partial | anxiety, general-lc | Tried EFT-tapping as one of several daily-stack experiments alongside somatic tracking, expressive writing, yoga nidra. "Some things resonated, some didn't" — tapping landed for him; kept it in rotation. Not the inflection but a tolerated nervous-system tool. |
 
 ## See also

@@ -1,10 +1,13 @@
 ---
-title: Amy Anker
+title: Amy Anker (also Amy Engkjer)
 type: person
 role: patient
-specialism: stained-glass artist
-affiliation: Montana, USA; founder of positivelycovid.com
-episodes: [20]
+specialism: stained-glass artist; meditation teacher
+affiliation: Missoula, Montana, USA; founder of positivelycovid.com
+episodes: ["LCP-20", "RA-280"]
+appearances:
+  lcp: [20]
+  raelan-agle: [280]
 recovered: yes
 notable_claims:
   - "I was in a looping pattern. The acute injury healed but my nervous system kept firing. Once I saw the loop, I could break it."

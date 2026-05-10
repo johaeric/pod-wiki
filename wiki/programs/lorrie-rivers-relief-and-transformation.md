@@ -11,9 +11,9 @@ counts:
   recommended: 0
   mentioned_only: 0
 sentiment_summary: helped-many
-tags: [coaching, online-program, parasite-protocol, anti-fungal, gut-detox, controversial-claims, lorrie-rivers, hidden-infections]
-updated: 2026-05-04
-episodes: [70]
+tags: [coaching, online-program, parasite-protocol, anti-fungal, gut-detox, controversial-claims, lorrie-rivers, hidden-infections, energy-medicine]
+updated: 2026-05-08
+episodes: ["LCP-70", "RA-118"]
 ---
 
 # Lorrie Rivers — Relief and Transformation Course
@@ -37,7 +37,7 @@ A multi-month online course run by [[lorrie-rivers|Lorrie Rivers]], a recovered 
 
 | Ep | Speaker | Role | Outcome | Indication | Notes |
 |---:|---|---|---|---|---|
-| #70 | [[lorrie-rivers]] | coach (recovered ME/CFS, fibromyalgia, LC) | key_to_recovery | gi-dysfunction, fatigue, pain, general-lc | Self-credits this protocol with her own full recovery from lifelong "weather-dependent fibromyalgia" within 6 months, and reports the same for her client cohort. **Wiki position**: this is a **single-source self-attribution** with strong-claim parts (parasite causation) outside peer-reviewed evidence. Logged as `key_to_recovery` because Lorrie is a recovered patient explicitly crediting the protocol; **not endorsed**. |
+| LCP #70 | [[lorrie-rivers]] | coach (recovered ME/CFS, fibromyalgia, LC) | key_to_recovery | gi-dysfunction, fatigue, pain, general-lc | Self-credits this protocol with her own full recovery from lifelong "weather-dependent fibromyalgia" within 6 months, and reports the same for her client cohort. **Wiki position**: this is a **single-source self-attribution** with strong-claim parts (parasite causation) outside peer-reviewed evidence. Logged as `key_to_recovery` because Lorrie is a recovered patient explicitly crediting the protocol; **not endorsed**. *Reaffirmed RA #118 (June 2021) — but at that earlier date the program leads with energy-medicine + pacing + diet + mindset; the parasite framing is absent. Same `key_to_recovery` outcome, different content emphasis — not double-counted.* |
 
 > ⚠️ Wiki caution: the parasite-as-root-cause framing is a minority position. Mainstream LC clinicians (Saperstein #68, Stiles #66, Gupta #57, Boon Lim #40) do not name this mechanism. Cross-check ercipedia before any clinical action.
 

@@ -4,15 +4,18 @@ type: person
 role: coach, recovered patient
 specialism: ME/CFS recovery coaching, "hidden infection" / parasite-microbiome theory of chronic illness
 affiliation: independent (online program; relief and transformation course)
-episodes: [70, 137]
+episodes: ["LCP-70", "LCP-137", "RA-118"]
+appearances:
+  lcp: [70, 137]
+  raelan-agle: [118]
 notable_claims:
   - All chronic illness (ME/CFS, LC, fibromyalgia, MCAS, MS, cancer) shares an upstream root cause — gut dysbiosis from hidden parasites/fungi/microbes
   - Antibiotics-as-original-sin — childhood antibiotic overuse + inherited microbiome creates the dysbiotic substrate
   - Strict low-carb / sometimes carnivore eating is the foundation of every recovery she has guided
   - Patients passing visible worms within 1–2 weeks of starting the eating plan, before any anti-parasitic drug
   - Full recovery (not just management) is achievable in ~12 months of treatment
-tags: [coach, parasite-theory, hidden-infections, candida, root-cause, controversial, recovered, online-program]
-updated: 2026-05-04
+tags: [coach, parasite-theory, hidden-infections, candida, root-cause, controversial, recovered, online-program, energy-medicine, trilogy, healing-codes]
+updated: 2026-05-08
 ---
 
 # Lorrie Rivers
@@ -34,16 +37,22 @@ A 20-year ME/CFS recovery coach, herself recovered from severe ME/CFS in her 20s
 - The strict-low-carb-keto-foundation and the gut-axis attention are wiki-corroborated by other sources (see [[keto-diet]]).
 - The strong parasite-causal claim sits **outside** the trial-grade evidence space tracked in ercipedia. Cross-check before any clinical action.
 
-## Return appearance — #137 (EFT Tapping)
+## Return appearance — LCP #137 (EFT Tapping)
 
-Returned in #137 for a deep-dive on **EFT Meridian Tapping** as a self-administered nervous-system tool — distinct from her main protocol. See [[137-lorrie-rivers-eft-tapping]] and [[eft-tapping]].
+Returned in LCP #137 for a deep-dive on **EFT Meridian Tapping** as a self-administered nervous-system tool — distinct from her main protocol. See [[137-lorrie-rivers-eft-tapping]] and [[eft-tapping]].
+
+## Cross-corpus appearance — RA #118 (June 2021)
+
+Earlier-stage framing of her recovery story on Raelan Agle's channel. **Important date-stamp**: in June 2021 her recovery framework leads with **energy medicine** (EFT → [[healing-codes-trilogy|Healing Codes / Trilogy]]) on a foundation of pacing + diet + mindset. The parasite / hidden-infection theory that dominates her LCP appearances is *absent* from this episode. Read this as evidence that the holistic / energy-medicine layer was load-bearing **before** the parasite framing crystallised — the parasite layer was added later as her self-understanding evolved. See [[RA-0118-lorrie-rivers]].
 
 ## See also
 
 - [[070-lorrie-rivers]]
 - [[137-lorrie-rivers-eft-tapping]]
+- [[RA-0118-lorrie-rivers]]
 - [[lorrie-rivers-recovery]] (recovery story)
 - [[eft-tapping]]
+- [[healing-codes-trilogy]]
 - [[me-cfs-parallels]]
 - [[gut-health]]
 - [[keto-diet]]

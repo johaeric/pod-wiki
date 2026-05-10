@@ -2,18 +2,18 @@
 title: Yoga
 type: intervention
 intervention_type: behavioral
-mention_count: 6
+mention_count: 8
 counts:
-  key_to_recovery: 1
-  helped_partial:  4
+  key_to_recovery: 2
+  helped_partial:  5
   no_effect:       0
   harmed:          0
   recommended:     1
   mentioned_only:  0
 sentiment_summary: helped-some
-tags: [yoga, somatic, breathwork, gentle, pain, mind-body, yoga-therapy, trauma-informed]
-updated: 2026-05-04
-episodes: [2, 3, 53, 85, 89, 114]
+tags: [yoga, somatic, breathwork, gentle, pain, mind-body, yoga-therapy, trauma-informed, polyvagal-frame]
+updated: 2026-05-08
+episodes: ["LCP-2", "LCP-3", "LCP-53", "LCP-85", "LCP-89", "LCP-114", "RA-170", "RA-221"]
 ---
 
 # Yoga
@@ -32,6 +32,8 @@ Distinguish this from **vinyasa flow / hot yoga** which are physically demanding
 | #85 | [[fiona-agombar]] | practitioner (yoga therapist; recovered from 15y of ME) | helped_partial | fatigue, pem, mental-health | n=1 self-report — gentle remedial yoga (breath + relaxation focus) was central to her own recovery from severe ME. Now teaches the same approach to LC patients. Strong distinction: **1:1 trauma-informed yoga therapy** (yes), **hardcore physical yoga** (no). Excludes Buteyko-style breath-holds for LC patients. |
 | #89 | [[gina-short]] | patient (recovered LC, US) | key_to_recovery | pem, dysautonomia, fatigue, breathing-pattern-disorder | **Suzy Bolt's gentle 10-min supine yoga at bedtime was her first crack in the wall** when she was bed-bound with internal tremors and ~month 4-6. *"This is temporary"* — Bolt's framing in the video — gave her hope. From there she joined Bolt's Fern programme and built up. Logged separately under [[suzy-bolt-recovery]] for the program-level credit. |
 | #114 | [[sarah-lotus-path-yogi]] | patient (recovered LC) → yoga teacher | helped_partial | pots, pem, dysautonomia, fatigue | Daily 1-hour yoga as part of late-stage recovery. Critically: **the right kind of yoga only** — seated/lying, no inversions, no fast vinyasa. Sarah explicitly names **yoga ableism** — generic vinyasa classes can crash LC patients. Now teaches POTS-friendly yoga as Lotus Path Yoga; reports zero PEM in 400-500 students taught. |
+| RA #170 | [[matt-butler]] | patient (recovered) | helped_partial | post-viral-fatigue, pem | One leg of his multi-component stack — 2 hours/day for 2 months across yoga + meditation + breathing combined. Helped down-regulate the autonomic nervous system; not the single key. |
+| RA #221 | [[roberto-escobar]] | patient (recovered) | key_to_recovery | post-viral-fatigue, pem, dysautonomia, ptsd | Yoga + breathing + laughing yoga, **with the polyvagal-theory frame**, was the load-bearing recovery work. Same techniques without the frame had not worked for him in year 1. **2nd `key_to_recovery` for yoga on this corpus, first from Raelan source.** Practice was specifically polyvagal-informed (down-regulation intent, not hardcore vinyasa) — see [[polyvagal-theory]]. |
 
 ## See also
 

@@ -1,9 +1,9 @@
 ---
 title: Polyvagal theory
 type: theme
-tags: [polyvagal, porges, vagus-nerve, autonomic, immobilization, nervous-system, mind-body]
-updated: 2026-05-04
-episodes: [23, 29, 101]
+tags: [polyvagal, porges, vagus-nerve, autonomic, immobilization, nervous-system, mind-body, frame-fit]
+updated: 2026-05-08
+episodes: ["LCP-23", "LCP-29", "LCP-101", "RA-221"]
 ---
 
 # Polyvagal theory
@@ -55,3 +55,4 @@ From Sally Riggs's #101:
 - [[101-sally-riggs-nervous-system]] — Sally's return; refined LC framing + e-course launch
 - [[029-lorna-nicholson-pots-breathing]] — same framework via SIRPA vocabulary
 - [[020-amy-anker-positively-covid]] — same framework via NS-loop / neuroplasticity vocabulary
+- [[RA-0221-roberto-escobar]] — **first instance on the corpus of polyvagal-theory framing as the load-bearing factor for a recovery from severe LC + PTSD**. Patient says explicitly that the same techniques (breathing + yoga + laughing yoga) had not worked in his year-1 flailing without the framework — and worked within 2.5–3 months once the framework gave them coherence. Useful counter-evidence to "polyvagal is just a belief story" — it's a *frame fit* story; the techniques are real and the frame is what gates whether the patient can sustain them. Healthcare-worker-trauma sub-pattern.

@@ -5,9 +5,9 @@ person: Lorrie Rivers
 status: full recovery (multiple chronic illnesses)
 trigger: severe ME/CFS in early 20s; LC in May 2020; lifelong "weather-dependent fibromyalgia"
 duration_to_recovery: ~10 years (initial ME/CFS); ~8 months (LC); ~6 months (fibromyalgia after starting hidden-infection protocol)
-tags: [recovery-story, me-cfs-recovery, fibromyalgia-recovery, parasite-protocol, controversial-attribution, coach]
-updated: 2026-05-04
-episodes: [70]
+tags: [recovery-story, me-cfs-recovery, fibromyalgia-recovery, parasite-protocol, controversial-attribution, coach, cross-corpus]
+updated: 2026-05-08
+episodes: ["LCP-70", "RA-118"]
 ---
 
 # Lorrie Rivers — Recovery from ME/CFS, Long Covid, and lifelong fibromyalgia
@@ -32,6 +32,10 @@ A three-illness recovery story spanning ~25 years.
 ## Wiki position
 
 Logged. **Strong-claim parts outside peer-reviewed evidence territory**. See [[070-lorrie-rivers]] and [[lorrie-rivers]] for the full caveat.
+
+## Cross-corpus date-stamp (RA #118, June 2021)
+
+A separate recording of Lorrie's recovery story on Raelan Agle's channel from June 2021 leads with **energy medicine** (EFT → Healing Codes → Trilogy) on a pacing + diet + mindset foundation — and **does not mention the parasite / hidden-infection theory at all**. Useful for dating: the parasite layer is a later addition to her self-understanding, not the thing that recovered her from LC. See [[RA-0118-lorrie-rivers]].
 
 ## See also
 
