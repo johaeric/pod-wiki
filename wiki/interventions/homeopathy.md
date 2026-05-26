@@ -37,10 +37,11 @@ Homeopathy is a 250-year-old modality founded by Samuel Hahnemann (early 19th ce
 | Ep | Speaker | Role | Outcome | Indication | Notes |
 |---:|---|---|---|---|---|
 | #208 | Claire (mother of recovered son) | patient-advocate | helped_partial | gi-dysfunction, fatigue | First remedy tried fixed nausea/weight-loss in early ME/CFS; remained on care for ~6 visits but no further symptom resolution. Other modalities (ANS Rewire, Mickel therapy) drove the eventual full recovery. |
-| #210 | Roddy Schrock | practitioner (recovered patient) | recommended | pain, insomnia, autoimmune, general-lc | Personal recovery from chronic insomnia and migrating pain attributed primarily to long-term homeopathic care. Now in NYC private practice. Conflict-of-interest: he treats this professionally. |
+| #210 | Roddy Schrock | practitioner (recovered patient) | recommended | migraine, pain, insomnia, autoimmune, general-lc | Personal recovery from chronic insomnia and migrating pain attributed primarily to long-term homeopathic care. **Also one patient case discussed in detail**: woman in her mid-30s with "extraordinary migraine headaches" + cycle irregularity + fatigue → migraines majorly decreased in frequency and intensity, regular cycles for 3 months, more energy, after constitutional remedy every other day. N=1, COI (he treats this professionally). |
 
 ## See also
 - [[roddy-schrock]]
 - [[mind-body]]
 - [[acupuncture]]
 - [[chinese-herbal-formulas]]
+- [[headache-migraine]]

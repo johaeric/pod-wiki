@@ -324,7 +324,10 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[copper-supplementation]] — supplement · 1 mention · mentioned_only · just-started protocol after copper-deficiency test (Pover #84); toxicity risk caveats apply.
 - [[head-of-bed-elevation]] — behavioral · 1 mention · helped-some (1 recommended) · 10-15° chronic; endogenous mineralocorticoid effect.
 - [[hrg80-red-ginseng]] — supplement · 1 mention · helped-some (1 recommended) · adaptogen; commercial brand (Teitelbaum #55).
-- [[ice-packs-temperature]] — behavioral · 3 mentions · helped-some (1 helped_partial, 2 recommended) · neck/face cooling for thermal dysregulation (Reema #60); **Powers #164 PEM-crash recovery + vagal stim**; **Mooney #170 pre-emptive autonomic-calming before activity**.
+- [[ice-packs-temperature]] — behavioral · 4 mentions · helped-some (2 helped_partial, 2 recommended) · neck/face cooling for thermal dysregulation (Reema #60); **Rosie #61 paediatric — only thing that helped year-long constant migraine when nothing pharmacological worked**; **Powers #164 PEM-crash recovery + vagal stim**; **Mooney #170 pre-emptive autonomic-calming before activity**.
+- [[vitamin-b2-riboflavin]] — supplement · 1 mention · helped-many (1 recommended) · **400 mg/day × 6 weeks → 67–70% migraine-frequency reduction** per studies Teitelbaum cites (#167). Pair with [[magnesium]] + early-dose triptans + food-sensitivity management. **Anchor migraine protocol. New 2026-05-26.**
+- [[magnesium]] — supplement · 5 mentions · helped-some (1 helped_partial, 4 recommended) · base-stack supplement; uses across migraine (Teitelbaum #167), POTS (Gupta #57), mitochondrial (Myhill #118, Newiss #21), sleep (glycinate form). Whitfield #8 kept it after culling everything else. **New 2026-05-26.**
+- [[triptans-imitrex]] — drug · 3 mentions · mostly-unhelpful (1 recommended, 2 no_effect) · acute migraine abortion; **Teitelbaum #167 — take *early* before eye/ear-tenderness threshold or stomach shuts off**; Chiara #3 misdiagnosed-as-menopausal-migraine (declined); Devon Carter RA #984 — ER migraine meds applied to an LC crash, no follow-up. **New 2026-05-26.**
 - [[iv-saline]] — rehab · 2 mentions · helped-many (2 recommended) · transformative; "wheelchair in, walks out" 24-36hr effect; Gupta #57; **Powers #164 PEM-crash recovery use-case**; not NHS-available.
 - [[helapheresis]] — device · 3 mentions · helped-some (1 helped_partial, 2 recommended) · Jaeger / Mülheim; pair with triple therapy.
 - [[ivabradine]] — drug · 6 mentions · helped-many (6 recommended) · **Gupta's preferred over beta-blockers** (#57); Stiles #66 corroborates; Stiles #115 — now in NIH-funded LC POTS trials; Taylor #116 third UK-clinical voice; **Putrino #181 — POTS subtype caveat: hypertensive-supine vs hyperadrenergic POTS need different stacks**. **Eric is on this.**
@@ -475,7 +478,8 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[mcas]] — immune-mast-cell · 8 mentions · top helpers: antihistamines, low-histamine-diet, omalizumab-xolair, sodium-cromoglicate, quercetin. **Saperstein #68: H1+H2 cocktail higher-than-OTC dose twice daily; mast-cell↔sympathetic feedback loop.**
 - [[post-exertional-malaise]] — fatigue-pem · 3 mentions · top helpers: pacing, compression, supine rest, electrolytes. **Anchor episode #141 Davenport: ICC term *postexertional neuroimmune exhaustion*; 2-day CPET as gold-standard biomarker; plug-in hybrid analogy (Snell); energy envelope (Jason); crash care plan (Bateman Horne).**
 - [[sleep-disturbance]] — sleep · 1 mention · top helpers: slow-release-melatonin, sleep-hygiene, sunlight, meditation. **Anchor episode #143 Joffe: dopaminergic injury; REM behaviour disorder in young LC patients; vagal-axis disregulation; lab polygraphic study as biomarker.**
-- [[pain]] — pain · 1 mention · top helpers: yoga-nidra, mind-body, tens, cbd-cannabis (Ravindran #53).
+- [[pain]] — pain · 12 mentions · top helpers: vitamin-b2-riboflavin, brain-training, somatic-tracking, antihistamines, vagus-nerve-tens, acupuncture, pea-luteolin. **Anchor frameworks: Ravindran #53 (nociplastic) + Teitelbaum #167 (7-subtype). Backfill 2026-05-26.**
+- [[headache-migraine]] — pain · 17 mentions · top helpers: vitamin-b2-riboflavin, magnesium, antihistamines, vagus-nerve-tens (gammaCore), brain-training, ans-rewire, acupuncture. **New 2026-05-26.** Closest profile match for migraine+POTS+PEM: Natalie Gold #189 (key_to_recovery). Anchor protocol: Teitelbaum #167 B2 400 mg + magnesium + early triptans.
 - [[pots]] — autonomic-pots · 8 mentions · top helpers: ivabradine, mestinon, fludrocortisone, midodrine, iv-saline, salt-loading, antihistamines. **Stiles #66 second authoritative POTS-stack; Saperstein #68: LC-POTS may present differently. Eric-relevant.**
 - [[smell-loss-parosmia]] — smell-taste · 2 mentions · top helpers: smell-training (Kelly #50), **stellate-ganglion-block** (Groysman #76 — often-immediate response within 30s).
 - [[tinnitus]] — sensory · 3 mentions (across #71 anchor + #76) · top helpers: hearing-aids, CBT, sound-therapy. **Supplements anti-recommended** (#71).
@@ -782,7 +786,7 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 
 <!-- Format: - [[query-slug]] — the question Eric asked -->
 
-- [[headaches-and-migraine-what-helped]] — what helped (and didn't help) for severe headaches and migraine across the corpus, for Eric's friend with similar POTS/PEM profile
+- [[headaches-and-migraine-what-helped]] — what helped (and didn't help) for severe headaches and migraine across the corpus, for Eric's friend with similar POTS/PEM profile. Backed by symptom anchor [[headache-migraine]] (2026-05-26).
 
 ## Pages referenced but not yet created (placeholder targets)
 

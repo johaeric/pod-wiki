@@ -1354,3 +1354,23 @@ Final batch. **44 of 44 transcripts now ingested.**
 ## [2026-05-25] query | severe headaches/migraine — what helped for Eric's friend
 
 Filed `wiki/queries/headaches-and-migraine-what-helped.md`. Synthesised 17 episodes (15 LCP + 2 Raelan). Strongest specific protocol: B2 400 mg + magnesium daily (Teitelbaum LCP #167, cites 67–70% migraine-frequency reduction). Strongest device evidence: non-invasive vagus stimulation (Bagnell LCP #63). Strongest patient-recovery pathway: nervous-system / brain-retraining work — Natalie Gold (LCP #189), Rebecca Tolin (LCP #166), Esther (LCP #32) all resolved chronic migraine alongside LC. MCAS overlap → H1+H2 antihistamines (Peers LCP #38, Saperstein LCP #68). Negative signals: triptans when not really migraine (Chiara LCP #3), OTC painkillers (Rosie LCP #61), repeated antibiotics for assumed sinus infection (Devon Carter RA #984).
+
+## [2026-05-26] update | headache/migraine backfill — new symptom page + 3 intervention pages + pain.md expanded
+
+Diagnosed an indexing-synthesis gap raised by Eric: per-episode pages had headache/migraine content extracted, but the aggregator layer was missing — no symptom page, no specific-protocol pages, and `pain.md` had only one row.
+
+**Created**:
+- `wiki/symptoms/headache-migraine.md` — 16-row evidence log spanning 17 episodes (15 LCP + 2 Raelan). Anchored on Teitelbaum #167 (B2/magnesium/triptans), Ravindran #53 (nociplastic), Bagnell #63 (gammaCore/brain-stem), Natalie Gold #189 (key_to_recovery alongside LC recovery), Tolin #166 (key_to_recovery), Esther #32 (key_to_recovery, mind-body).
+- `wiki/interventions/vitamin-b2-riboflavin.md` — Teitelbaum 400 mg/day × 6 weeks protocol; 67–70% migraine-frequency reduction.
+- `wiki/interventions/magnesium.md` — 5-row evidence log; uses across migraine, POTS, mitochondrial, sleep.
+- `wiki/interventions/triptans-imitrex.md` — Teitelbaum's early-dose protocol + two cautionary no_effect rows (Chiara #3 misdiagnosis, Devon Carter RA #984 ER misapplication).
+
+**Expanded**:
+- `wiki/symptoms/pain.md` — evidence log went from 1 row to 12; added Teitelbaum's 7-subtype framing alongside Ravindran's nociplastic-only; counts: 3 key_to_recovery / 2 helped_partial / 6 recommended / 1 mentioned_only.
+- `wiki/interventions/ice-packs-temperature.md` — added Rosie #61 row for migraine symptom relief.
+- `wiki/interventions/vagus-nerve-tens.md` — updated Bagnell #63 row indication to include migraine + cluster-headache explicitly.
+- `wiki/interventions/homeopathy.md` — expanded Schrock #210 row with the specific migraine-patient case.
+- `wiki/interventions/acupuncture.md` — Elizabeth So #124 row updated with her pre-LC migraine self-treatment.
+- `wiki/index.md` — symptoms section + interventions section + filed-queries section updated.
+
+**Root cause of the gap**: per-episode extraction picked up headache mentions (they made it into `symptoms_discussed:` arrays), but no aggregator pages existed for headache/migraine, so the synthesis layer had nowhere to land them. Profile-bias (Eric: POTS+PEM+MCAS, not migraine) contributed but wasn't the primary cause.
