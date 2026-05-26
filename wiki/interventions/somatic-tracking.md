@@ -2,18 +2,18 @@
 title: Somatic Tracking
 type: intervention
 intervention_type: behavioral
-mention_count: 3
+mention_count: 5
 counts:
   key_to_recovery: 2
-  helped_partial:  1
+  helped_partial:  2
   no_effect:       0
   harmed:          0
-  recommended:     0
+  recommended:     1
   mentioned_only:  0
 sentiment_summary: helped-many
-tags: [somatic-tracking, mind-body, sarno-lineage, schubiner-lineage, prt, mindfulness, danger-response, daily-practice]
-updated: 2026-05-05
-episodes: [166, 174, 178]
+tags: [somatic-tracking, mind-body, sarno-lineage, schubiner-lineage, prt, mindfulness, danger-response, daily-practice, overwhelm-counter-tool]
+updated: 2026-05-21
+episodes: ["LCP-166", "LCP-174", "LCP-178", "LCP-214", "LCP-215"]
 ---
 
 # Somatic Tracking
@@ -50,6 +50,8 @@ A specific named practice in the **Sarno → Schubiner → Alan Gordon** lineage
 | #166 | [[rebecca-tolin]] | coach (recovered ME/CFS, US) | key_to_recovery | pem, brain-fog, pain, central-sensitisation, mental-health, general-lc | **Load-bearing daily practice in her 13-year ME/CFS recovery** and ongoing core practice in her coaching. After 13 years of biomedical-rabbit-hole detour, somatic tracking + inner-emotional work were the recovery-period practices that worked. Pairs with the cognitive shift that "I'm not broken" and self-compassion work. |
 | #174 | [[uros-cimzar]] | patient (recovered) | helped_partial | pem, anxiety, dysautonomia | Tried somatic tracking as one of several daily-stack experiments alongside yoga nidra, EFT-tapping, expressive writing. Resonated for him but not as the central inflection (that was breathwork + yoga nidra + self-compassion work). Kept it in the rotation. |
 | #178 | [[alisha]] | patient (recovered) | key_to_recovery | dysautonomia, anxiety, gi-dysfunction, pem | **[[rebecca-tolin]]'s daily somatic-tracking meditation became the central practice** of Alisha's recovery. Calming voice telling her she was safe in the moment was what allowed her to stop fighting the sensations. "All those moments — even 10 minutes — count. They build on each other." Strongest second data point for somatic tracking on the wiki, and crucially a different lineage (LC, not ME-CFS) from Tolin's own recovery. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | helped_partial | dysautonomia, pain, anxiety, general-lc | Built it into her body-scan + self-compassion routine — notice emotion, locate it in the body, acknowledge it ("I'm so sick of this right now"), then self-talk + breath. Distinct from the Tolin/Alisha framing in that Lalita stacks somatic tracking inside a broader nervous-system practice rather than as the central recovery move. Supportive rather than load-bearing. |
+| LCP #215 | [[jackie-baxter]] | host-solo (recovered LC) | recommended | overwhelm, anxiety, dysautonomia, general-lc | **Specifically recommended in the longer-term-what-helps section of her overwhelm episode**: *"meeting sensations with curiosity rather than fear and panic — somatic tracking or mindful practices can be really helpful here."* Logged as `recommended` (host-solo educational framing, not credited from her own recovery — that's logged separately on the breathwork page). |
 
 ## See also
 

@@ -2,18 +2,18 @@
 title: Yoga Nidra
 type: intervention
 intervention_type: behavioral
-mention_count: 8
+mention_count: 9
 counts:
   key_to_recovery: 2
-  helped_partial:  3
+  helped_partial:  4
   no_effect:       0
   harmed:          0
   recommended:     3
   mentioned_only:  0
 sentiment_summary: helped-some
 tags: [yoga-nidra, nsdr, deep-rest, sleep, vagal, meditation, pain]
-updated: 2026-05-05
-episodes: [13, 17, 53, 64, 114, 174, 176, 182]
+updated: 2026-05-19
+episodes: ["LCP-13", "LCP-17", "LCP-53", "LCP-64", "LCP-114", "LCP-174", "LCP-176", "LCP-182", "LCP-214"]
 ---
 
 # Yoga Nidra
@@ -40,6 +40,7 @@ For LC, the case is **vagal-tone / down-regulation** — explicit interruption o
 | #174 | [[uros-cimzar]] | patient (recovered) | key_to_recovery | brain-fog, anxiety, pem | "The first thing that actually made me better." Bedbound and unable to read but could listen — yoga nidra became *the* daily anchor. First experience of mental rest in 15 years. The thing he reaches for first when prescribing his own protocol back. |
 | #176 | [[carl-robot]] | patient (recovered) | helped_partial | fatigue, brain-fog | Discovered via Andrew Huberman podcast; afternoon sessions when he came home wiped from school by 4 pm. "Drift off, wake up groggy, but something has happened." Part of the daily stack alongside cold showers. |
 | #182 | [[karen-wright]] | patient (recovered, NHS physio) | helped_partial | pots, pem, fatigue | Did yoga nidra style sessions lying down through year 1+ when she couldn't tolerate upright posture. "Takes you to that lovely sort of in-between sleep and awake state." Hated stillness initially; persisted; now part of her recovery toolkit and her Sage Health and Wellness offer. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | helped_partial | dysautonomia, sleep, anxiety, general-lc | Nightly yoga nidra; additional mid-day session if a nap was needed. *"That lovely yoga nidra that just calms your spirit and your soul whilst you sleep."* Supportive rest practice inside a breath-led core protocol — not a recovery driver but a daily anchor for the parasympathetic state needed for the rest of the work to land. |
 
 ## See also
 

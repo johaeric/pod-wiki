@@ -1314,3 +1314,43 @@ Final batch. **44 of 44 transcripts now ingested.**
 - [[optimal-health-clinic]] +1 `helped_partial` (Donna)
 
 **Status: Raelan 44/44 ✓. Combined corpus: LCP 211/211 + Raelan 44/44 = 255 episodes indexed.**
+
+## [2026-05-19] ingest | LCP #214 — Out of the Long Covid Maze: How Lalita Found Her Way Back to Health
+
+- New episode page: [[214-lalita-neuroplasticity-recovery]] (under `wiki/episodes/lcp/` — first ingest in the new subfolder location)
+- New person page: [[lalita]] (neuroplasticity coach, Tasmania; Schubiner-trained)
+- New recovery-story page: [[lalita]] — full recovery in 12-14 months, second NS-led rebuild
+- New intervention pages: [[bowen-therapy]], [[bio-resonance-therapy]], [[nattokinase]] — all first-mentions on the wiki
+- [[breathwork]] +1 `key_to_recovery` (Lalita; 5th `key_to_recovery` row — strongest articulation yet of breath-as-active-NS-tool combined with self-talk inside the breath cycle)
+- [[eaet]] +1 `helped_partial` (Lalita; first patient-application row alongside Kennedy's clinical row — distinct use-case: dig-deeper for repeating symptom patterns)
+- [[eft-tapping]] +1 `helped_partial` (Lalita; stacked with breath + self-talk)
+- [[somatic-tracking]] +1 `helped_partial` (Lalita; supportive rather than load-bearing)
+- [[yoga-nidra]] +1 `helped_partial` (Lalita; nightly anchor)
+- [[antihistamines]] +1 `helped_partial` (Lalita; **specifically credited for resolving tinnitus** — novel claim for the tinnitus page)
+- [[cranial-sacral-therapy]] +1 `helped_partial` (Lalita; parasympathetic-bodywork framing)
+- [[quercetin]] +1 `mentioned_only`; [[curcumin]] +1 `mentioned_only` (Lalita's naturopath stack)
+- [[pots]] +1 row (Lalita; POTS resolved early in her NS-led recovery, no pharmacology)
+- [[tinnitus]] symptom page: **added antihistamines + NS-protocol approaches** (previous version only had hearing aids / CBT / sound therapy / SGB)
+- [[dysautonomia]] +1 anchor row (Lalita)
+- [[neuroplasticity]] theme: added #214 as second wiki recovery directly trained in Schubiner's method
+- [[self-compassion]] theme: added the "self-compassion inside the breath cycle" framing (vs separate practice)
+- [[mind-body]] theme: added #214 — breath-led variant of the Sarno/Schubiner/Gordon lineage
+- [[howard-schubiner]] person page: added Lalita as wiki appearance; added 5/7 Fs framework to notable claims
+
+**Status: LCP 212/212 ✓ (#1–#214 minus #31 & #157). Raelan 44/44 ✓. Combined corpus: 256 episodes indexed.**
+
+## [2026-05-21] ingest | LCP #215 — Jackie host-solo: Overwhelm 101: Why Your System Says "Too Much"
+
+- New episode page: [[215-jackie-overwhelm-101]] (host-solo educational, 20:21)
+- [[self-compassion]] theme: added LCP-215 as anchor — "capacity-not-character" reframe + the 7-tool list as a concrete operationalisation of self-compassion
+- [[somatic-tracking]] +1 `recommended` (Jackie host-solo, longer-term tool for meeting sensations with curiosity); mention_count 4 → 5
+- [[breathwork]] — added reaffirmation note to existing Jackie row (NOT a new row, per "same speaker, same intervention, same outcome rule"). Added LCP-215 to episodes array. Key novel framing captured: *"micro pause = one soft breath out, NOT a deep breath"* — explicit correction to the common "take a deep breath" advice that worsens overbreathing
+- Index updated; status moved to LCP 213/213
+
+**Cross-source note**: Jackie's three-state framing in this episode is the same teaching as her Advent Calendar #16 on the breathing channel (`long-covid-breathing/wiki/concepts/vagus-nerve.md`). The podcast version is more polished and condensed; both anchor the same polyvagal-applied framework.
+
+**Status: LCP 213/213 ✓ (#1–#215 minus #31 & #157). Raelan 44/44 ✓. Combined corpus: 257 episodes indexed.**
+
+## [2026-05-25] query | severe headaches/migraine — what helped for Eric's friend
+
+Filed `wiki/queries/headaches-and-migraine-what-helped.md`. Synthesised 17 episodes (15 LCP + 2 Raelan). Strongest specific protocol: B2 400 mg + magnesium daily (Teitelbaum LCP #167, cites 67–70% migraine-frequency reduction). Strongest device evidence: non-invasive vagus stimulation (Bagnell LCP #63). Strongest patient-recovery pathway: nervous-system / brain-retraining work — Natalie Gold (LCP #189), Rebecca Tolin (LCP #166), Esther (LCP #32) all resolved chronic migraine alongside LC. MCAS overlap → H1+H2 antihistamines (Peers LCP #38, Saperstein LCP #68). Negative signals: triptans when not really migraine (Chiara LCP #3), OTC painkillers (Rosie LCP #61), repeated antibiotics for assumed sinus infection (Devon Carter RA #984).

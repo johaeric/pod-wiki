@@ -1,9 +1,9 @@
 ---
 title: Neuroplasticity
 type: theme
-tags: [neuroplasticity, brain-retraining, mind-body, ans-loop, gupta, dnrs, doidge, recovery-narrative, atns, neuroplastic-symptoms, brain-hq, cognitive-rehab]
-updated: 2026-05-05
-episodes: [20, 32, 38, 178, 179, 184, 186, 189]
+tags: [neuroplasticity, brain-retraining, mind-body, ans-loop, gupta, dnrs, doidge, recovery-narrative, atns, neuroplastic-symptoms, brain-hq, cognitive-rehab, schubiner-lineage]
+updated: 2026-05-19
+episodes: ["LCP-20", "LCP-32", "LCP-38", "LCP-178", "LCP-179", "LCP-184", "LCP-186", "LCP-189", "LCP-214"]
 ---
 
 # Neuroplasticity
@@ -20,6 +20,7 @@ The shared substrate concept used by several recovery-route programs in the wiki
 - **#184 Mahncke + Uswatte** — first **RCT-evidenced** plasticity-based cognitive-rehab intervention on this wiki. CI Cognitive Therapy (Brain HQ + everyday-task training + transfer package) showed 80% return-to-work in pilot vs 0% usual care. The "diffuse damage → recruit healthy tissue via plasticity" mechanism story.
 - **#186 Jamie** — recovery built on Primal Trust + Lightning Process (the latter at 90%). The "this is just a hypersensitive nervous system" reframe, written on her hand.
 - **#189 Natalie Gold** — ANS Rewire (Dan Neuffer) over 2 years. Adds the *small-t trauma message* angle — neuroplastic dysregulation can come from "good childhood with subtle wounded messages," not only big-T trauma.
+- **#214 [[lalita]]** — **second wiki recovery directly trained in Schubiner's method** (after the early-patient route through Esther #32 and the clinician route through Becca Kennedy #146). Coach + recovered patient. Breath-led core protocol with EAET trauma-pattern work as a dig-deeper move. Distinguishes the *combined-practice* model (breath + self-talk + tapping done as one unit, 30-40× daily) from sequential-stack approaches. Full recovery in 12-14 months on her *second* rebuild using this framework (~14 years well between bouts).
 
 ## Programs in the wiki using this substrate
 

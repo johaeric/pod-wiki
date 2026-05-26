@@ -1,9 +1,9 @@
 ---
 title: Episodes Eric should listen to (curated, living list)
 type: query
-tags: [listening-list, curated, eric-profile, ans-rewire, hrv, pacing, recovery-stories]
-updated: 2026-05-05
-episodes: [56, 82, 86, 102, 147, 148, 164, 189, 197, 198]
+tags: [listening-list, curated, eric-profile, ans-rewire, hrv, pacing, recovery-stories, osteopathy]
+updated: 2026-05-25
+episodes: [56, 82, 86, 102, 133, 147, 148, 160, 161, 164, 189, 197, 198]
 ---
 
 <!-- TTS: SILENT -->
@@ -80,6 +80,39 @@ Only if Tier 1 and 2 leave you wanting more.
 
 - **#164 — Clayton Powers** — clinician (PT, US) who recommends Visible and Lumia Health to LC patients alongside Apple Watch / Garmin. First independent clinician-side recommendation of Visible on the wiki. Worth a listen if you want a non-founder perspective on wearable-pacing tools.
 
+## Tier 5 — Osteopathy / bodywork (added 2026-05-25, after Eric started seeing an osteopath)
+
+Added because Eric is now seeing an osteopath in real life. Order is "shortest + most practical first."
+
+### #161 — Dr Raymond Perrin on Pathways to Recovery, Part 2 (19 minutes, videoId `1-2GlXgLPus`)
+
+**Why**: Listen first — only 19 minutes and immediately actionable. Manchester osteopath + neuroscientist; this is the *treatment* half of the two-parter. The **jigsaw-puzzle recovery framing** (corners = rest, relaxation, meditation, pacing — always required, regardless of what else you do) is one of the cleanest recovery-architecture statements on the wiki.
+
+**Listen for**:
+- The **free self-massage routines on perrintechnique.com** — no subscription, by Perrin's design. A contained experiment you can do regardless of who your own osteopath is.
+- NHS feasibility study (n=100 LC patients on self-massage only, 79% completion rate) — high enough adherence to suggest real perceived benefit.
+- The "start with the corners of the jigsaw" framing — operationally useful as a sanity-check for your own recovery scaffolding.
+- Question to bring to your own osteopath: do they do gentle low-force work (cranial / lymphatic / soft tissue) or high-velocity manipulation? Perrin-style is explicitly the gentle end.
+
+### #160 — Dr Raymond Perrin on Lymphatic Breakthroughs, Part 1 (40 minutes, videoId `P1jAGvC_RVE`)
+
+**Why**: The mechanism half. Listen if #161 lands and you want to understand *why* the gentle bodywork is supposed to matter. The 35-year hypothesis-to-2024-validation arc on the glymphatic drainage system — Perrin proposed it in 1989 from a single ME patient; the September 2024 Oregon gadolinium-dye paper finally proved the pathway exists in humans.
+
+**Listen for**:
+- The **mid-thoracic spinal flatness** physical sign — visible / palpable; Perrin diagnoses on it. Worth knowing your own thoracic-spine state.
+- Cribriform-plate as the covid entry route (anosmia + fever both cribriform-mediated) — converges with HBOT framing (#153).
+- The 2017 BMJ paper: ~85% diagnostic accuracy from physical signs alone (vs ~44% for neurology / rheumatology consult without history).
+- Caveat: **no published RCT for the practitioner-delivered Perrin Technique in LC.** The 2017 paper was on diagnosis, not outcome. Treat it as clinician opinion + mechanism, not proven treatment.
+
+### #133 — A K Davidson recovery story (51 minutes, videoId `6HeKx7ZNGWw`)
+
+**Why**: Different angle on osteopaths. An osteopath was Davidson's recovery inflection point not via lymphatic-drainage theory but by spotting that she was **breathing only with her upper chest at rest** and manually re-opening lost expansion. Useful as a reminder that osteopaths can catch mechanical breathing dysfunction other practitioners miss.
+
+**Listen for**:
+- The "what happened to you?" moment — first practitioner to *visibly* recognise something was wrong.
+- How osteopath → breathing revelation → breathwork practice unlocked the next recovery phase.
+- Action item: ask your own osteopath to **watch how you breathe** — even if they aren't lymph-drainage-trained.
+
 ## Listening order rationale
 
 The decision tree this list supports:
@@ -108,3 +141,6 @@ The decision tree this list supports:
 - [[harry-leeming]]
 - [[natalie-gold]]
 - [[johanna-rayl]]
+- [[perrin-technique]]
+- [[raymond-perrin]]
+- [[ak-davidson]]

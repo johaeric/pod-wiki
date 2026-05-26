@@ -2,17 +2,17 @@
 title: Cranial sacral therapy
 type: intervention
 intervention_type: behavioral
-mention_count: 1
+mention_count: 2
 counts:
   key_to_recovery: 0
-  helped_partial: 1
+  helped_partial: 2
   no_effect: 0
   harmed: 0
   recommended: 0
   mentioned_only: 0
 sentiment_summary: helped-some
-updated: 2026-05-04
-episodes: [48]
+updated: 2026-05-19
+episodes: ["LCP-48", "LCP-214"]
 ---
 
 # Cranial sacral therapy
@@ -36,7 +36,8 @@ In a chronic-illness / autonomic-dysregulation context, the most defensible fram
 
 | Ep | Speaker | Role | Outcome | Indication | Notes |
 |---:|---|---|---|---|---|
-| #48 | Saskia Mulder | nurse (LC, not recovered) | helped_partial | hormonal-dysfunction, dysautonomia | Helped regulate menstrual cycle. Recommended to her by microbiome-specialist Fola Oyinlade who said it was the first thing that healed her own ME. |
+| LCP #48 | Saskia Mulder | nurse (LC, not recovered) | helped_partial | hormonal-dysfunction, dysautonomia | Helped regulate menstrual cycle. Recommended to her by microbiome-specialist Fola Oyinlade who said it was the first thing that healed her own ME. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | helped_partial | dysautonomia, pain, general-lc | Added later in her LC protocol as nervous-system support. *"Everything was coming back to let's support the nervous system."* Adjunct, not credited as primary; consistent with the parasympathetic-bodywork framing rather than a literal cranial-sacral mechanism claim. |
 
 ## See also
 

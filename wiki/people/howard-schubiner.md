@@ -9,8 +9,9 @@ notable_claims:
   - Names the framework "neuroplastic symptoms" — a successor / extension of Sarno's TMS that drops some Sarno's stricter assumptions and folds in modern neuroscience.
   - Co-developer (with Mark Lumley) of **Emotional Awareness and Expression Therapy (EAET)** — a structured therapy specifically designed to surface, allow, and express stored emotions (especially anger) that are operatively driving danger-interpretation by the unconscious survival brain.
   - "30–50% of standard primary-care visits" fall under medically-unexplained / neuroplastic symptoms (as cited by Kennedy #146).
-tags: [neuroplastic-symptoms, mind-body-syndrome, eaet, sarno-lineage, schubiner]
-updated: 2026-05-04
+  - **5 Fs / 7 Fs framework** (Fear, Focus, Frustration, etc.) — practical inventory of danger-response triggers behind each symptom flare. Used by trained practitioners as the in-session diagnostic for what's keeping the nervous system activated.
+tags: [neuroplastic-symptoms, mind-body-syndrome, eaet, sarno-lineage, schubiner, 7-fs]
+updated: 2026-05-19
 ---
 
 # Howard Schubiner
@@ -22,6 +23,7 @@ US clinician, mind-body-medicine specialist; lineage descends from John Sarno (T
 - [[146-dr-becca-kennedy]] — Kennedy was trained in his model; treats LC + chronic pain in this frame.
 - [[032-esther-recovery-story]] — Esther's TMS / mind-body-syndrome route cites Schubiner.
 - [[166-rebecca-tolin-not-broken]] — Tolin's 13-year ME/CFS recovery via the Sarno/Schubiner/Gordon lineage; she trained in this model and now coaches in it.
+- [[214-lalita-neuroplasticity-recovery]] — **second wiki coach trained directly with Schubiner and his team**; uses the 5/7 Fs framework on herself and clients. Full LC recovery (12-14 months) with EAET as the dig-deeper move for repeating symptom patterns.
 - [[mind-body]] vocabulary map.
 
 ## Why he matters on the wiki
@@ -39,3 +41,4 @@ US clinician, mind-body-medicine specialist; lineage descends from John Sarno (T
 - [[becca-kennedy]]
 - [[esther-rotterdam]]
 - [[rebecca-tolin]]
+- [[lalita]]

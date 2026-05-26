@@ -3,11 +3,11 @@ title: POTS — Postural Orthostatic Tachycardia Syndrome
 type: symptom
 symptom_cluster: autonomic-pots
 related_interventions: [beta-blockers, ivabradine, mestinon, fludrocortisone, salt-loading, compression-stockings, pacing, buteyko-breathing, pilates, nose-breathing, midodrine, diaphragmatic-breathing, head-of-bed-elevation, iv-saline, desmopressin-ddavp, clonidine, low-dose-naltrexone]
-mention_count: 12
-top_helpers: [ivabradine, mestinon, fludrocortisone, midodrine, iv-saline, salt-loading, compression-stockings, diaphragmatic-breathing, antihistamines, vagus-nerve-tens]
-tags: [pots, dysautonomia, autonomic, tachycardia, orthostatic, breathing-pattern-disorder, baroreflex, tilt-table, eric-relevant, postcovid-pots-presentation, eds-trifecta]
-updated: 2026-05-04
-episodes: [1, 5, 29, 37, 40, 57, 66, 68, 80, 114, 115, 116]
+mention_count: 13
+top_helpers: [ivabradine, mestinon, fludrocortisone, midodrine, iv-saline, salt-loading, compression-stockings, diaphragmatic-breathing, antihistamines, vagus-nerve-tens, breathwork]
+tags: [pots, dysautonomia, autonomic, tachycardia, orthostatic, breathing-pattern-disorder, baroreflex, tilt-table, eric-relevant, postcovid-pots-presentation, eds-trifecta, nervous-system-resolution]
+updated: 2026-05-19
+episodes: ["LCP-1", "LCP-5", "LCP-29", "LCP-37", "LCP-40", "LCP-57", "LCP-66", "LCP-68", "LCP-80", "LCP-114", "LCP-115", "LCP-116", "LCP-214"]
 ---
 
 # POTS — Postural Orthostatic Tachycardia Syndrome
@@ -44,6 +44,7 @@ A form of dysautonomia in which **standing produces a sustained heart-rate incre
 | #114 | [[sarah-lotus-path-yogi]] | patient (recovered LC) | **Patient-side recovery template**: tilt-test diagnosed Sept 2020 → beta blockers helped → built up via Myhill protocol + Raelan Agle scaffolding-first movement → 5+ months PEM-free → declared recovery spring 2022 (~2 years). |
 | #115 | [[lauren-stiles]] | advocate / researcher / patient (return) | Updates: NIH IVIG-for-LC-POTS trial recruiting; argenx VYVGART phase-3 expanding; Walter Reed/DoD ivabradine trial; 3 VNS trials with positive emerging results; Harvard Peter Novak IVIG trial *broader than POTS criteria*. Vanderbilt RCT now confirms low-carb pots benefit (anecdote → evidence cycle complete). |
 | #116 | [[claire-taylor]] | clinician (UK GP specialist) | **79% of LC patients have POTS** per latest study; Taylor argues "nearly everyone with LC has dysautonomia." 30bpm threshold misses many. 10-min stand test in clinic. Salt graph: 10-15bpm reduction per step-up. Diaphragm flattening + vagus nerve thickening on imaging in ~1/5 LC patients. **POTS resolves over time in most cases** — even if you're in the thick of it now. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | **POTS pattern was among the *first* symptoms to resolve** in her recovery — surprised her ("previously had POTS for years" in her pre-COVID chronic-illness era). Resolved without pharmacology, via the nervous-system protocol: breath (4-in/6-out) + self-talk + somatic tracking + yoga nidra + naturopath supplements. Adds a data point to Taylor's "POTS resolves over time in most cases" line, with a specific mechanism story (NS down-regulation via breath-led protocol). Got formal dysautonomia umbrella diagnosis along the way. |
 
 ## See also
 

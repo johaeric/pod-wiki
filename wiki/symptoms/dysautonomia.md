@@ -3,11 +3,11 @@ title: Dysautonomia
 type: symptom
 symptom_cluster: autonomic-pots
 related_interventions: [breathwork, beta-blockers, mestinon, ivabradine, fludrocortisone, salt-loading, compression, heart-rate-pacing, vagal-tone-work, walking, meditation]
-mention_count: 11
-top_helpers: [beta-blockers, breathwork, pacing, antihistamines, salt-loading, ivabradine, vagus-nerve-tens]
-tags: [dysautonomia, autonomic-dysfunction, pots, vagal, sympathetic-dominance, brain-stem, ganglia-research, vagus-nerve-thickening]
-updated: 2026-05-04
-episodes: [5, 7, 8, 12, 17, 20, 63, 66, 68, 115, 116, 119]
+mention_count: 12
+top_helpers: [beta-blockers, breathwork, pacing, antihistamines, salt-loading, ivabradine, vagus-nerve-tens, nervous-system-protocol]
+tags: [dysautonomia, autonomic-dysfunction, pots, vagal, sympathetic-dominance, brain-stem, ganglia-research, vagus-nerve-thickening, nervous-system-resolution]
+updated: 2026-05-19
+episodes: ["LCP-5", "LCP-7", "LCP-8", "LCP-12", "LCP-17", "LCP-20", "LCP-63", "LCP-66", "LCP-68", "LCP-115", "LCP-116", "LCP-119", "LCP-214"]
 ---
 
 # Dysautonomia
@@ -51,6 +51,10 @@ A strong recurring frame on the podcast: a paper (cited by Kelly Mitchell #12) s
 - **#63 [[063-michael-bagnell|Bagnell]]** — articulates the **brain-stem dysfunction** hypothesis as the single upstream substrate for the dysautonomia symptom set. Adds the [[brain-stem-dysfunction]] theme.
 - **#66 [[066-lauren-stiles|Stiles]]** — the **dysautonomia umbrella is not a diagnosis** framing; subtypes (POTS, OI, OH, hyperhidrosis, GI dysmotility, dry eyes/mouth). Patients with "dysautonomia" should ask which kind. **67%** of LC patients have moderate-to-severe dysautonomia (Stanford collaboration).
 - **#68 [[068-dr-david-saperstein|Saperstein]]** — the **trifecta** (hypermobility + dysautonomia + MCAS); LC POTS may present differently from classic POTS (HR-racing dominant, OI less so).
+
+## Subsequent anchor (#214)
+
+- **[[214-lalita-neuroplasticity-recovery|Lalita]]** — **full dysautonomia recovery via breath-led NS protocol**, in 12-14 months. Formal dysautonomia umbrella diagnosis during her LC. POTS-pattern resolved early in her arc, faster than expected. The recovery is non-pharmacological (no beta-blocker, no fludrocortisone, no mestinon) — distinct mechanism story from the Boon-Lim / Stiles / Sanjay-Gupta pharmacological-stack route. Stacks well with the [[recovery-stories/rachel-whitfield]] + [[recovery-stories/amy-anker]] autonomic-rewiring framing.
 
 ## See also
 

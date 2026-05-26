@@ -14,7 +14,7 @@ The catalog of pages across the multi-source corpus. Update on every ingest (or 
 
 ## Episodes — The Long Covid Podcast (`lcp`)
 
-_211 transcripts available; episodes #31 and #157 had no captions on YouTube. **211 of 211 ingested.** Filenames `NNN-slug.md` (legacy at `wiki/episodes/`; new ingests under `wiki/episodes/lcp/`)._
+_213 transcripts available (#1–#215 minus #31 and #157, which had no YouTube captions). **213 of 213 ingested.** Filenames `NNN-slug.md` (legacy at `wiki/episodes/`; new ingests under `wiki/episodes/lcp/`)._
 
 - [[001-barbara-melville-long-covid-scotland]] — advocate · founding of [[long-covid-scotland]]; case for one-stop multidisciplinary clinics.
 - [[002-jackies-personal-story]] — host-solo · Jackie's own story; pacing learnt the hard way; first endorsement of breathwork.
@@ -227,6 +227,8 @@ _211 transcripts available; episodes #31 and #157 had no captions on YouTube. **
 - [[211-nora-rodden-symptoms-as-signal]] — patient-advocate (Cornell biology + Harvard MBA; founder of [[nirvana-app]]) · 3 sequential conditions (chronic back pain post-car-accident, GI, severe insomnia) all resolved through neuroplastic recovery. **PSRT clinical trial** (66% pain-free vs ~10% placebo, beat mindfulness arm). **Outcome independence** for insomnia. *F It Diet* for GI. Expressive writing to bypass analytical brain.
 - [[212-amy-davies-internalised-pressure]] — coach (UK embodiment + somatic, recovered chronic pain + fatigue 2018) · **internalised pressure** as second layer of NS stress in LC: perfectionism, achiever pattern, masking, inner drill sergeant. Compassionate awareness of patterns as protective mechanisms. Urgency as a stress-state signal.
 - [[213-hampton-brunschwig-east-meets-west]] — clinicians (Helios Integrated Medical, Boulder CO; 12+ year East-West collaboration) · **Shao Yin pattern** (kidney + heart channel deficiency) as dominant LC subtype; adrenaline ↔ oxytocin teeter-totter; latent virus reactivation + T-cell exhaustion subtype; cordyceps mushrooms; strong anti-vegan / pro-animal-protein blood-building stance; cooked-food rule; Korean electroacupuncture-stem-cell protocol.
+- [[214-lalita-neuroplasticity-recovery]] — coach (neuroplasticity practitioner, Tasmania; trained directly with Howard Schubiner) · full LC recovery in 12-14 months on her **second** nervous-system-led rebuild (pre-LC: lupus + fibromyalgia + CFS + chronic pain recovery using the same framework). Breath (4-in/6-out) + self-talk + tapping as **one combined practice used 30-40× daily**. Schubiner's **5/7 Fs** framework; EAET-style dig-deeper move (traced chest-pain-when-alone panic to her father's heart-attack death). POTS resolved early; tinnitus last (antihistamines specifically credited). First wiki mentions of [[bowen-therapy]] and [[bio-resonance-therapy]].
+- [[215-jackie-overwhelm-101]] — host-solo · **Overwhelm as a nervous-system capacity issue, not a mindset failure.** Three-state polyvagal framing (regulated / fight-flight / shutdown). **7-tool in-the-moment list**: name → orient → reduce input → micro pause (one soft breath out, NOT a deep breath) → one point of contact → shrink the moment → step away from problem-solving brain. *"First we regulate, then we think."* Cross-refs Amy Davies #212. The cleanest 20-min polyvagal-applied synthesis on the wiki; directly transferable to anyone doing nervous-system retraining (ANS Rewire, Schubiner, Curable lineage).
 
 ## Episodes — Raelan Agle (`raelan-agle`)
 
@@ -779,6 +781,8 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 ## Filed Queries
 
 <!-- Format: - [[query-slug]] — the question Eric asked -->
+
+- [[headaches-and-migraine-what-helped]] — what helped (and didn't help) for severe headaches and migraine across the corpus, for Eric's friend with similar POTS/PEM profile
 
 ## Pages referenced but not yet created (placeholder targets)
 

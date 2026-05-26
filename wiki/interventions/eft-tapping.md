@@ -2,18 +2,18 @@
 title: EFT Meridian Tapping
 type: intervention
 intervention_type: behavioral
-mention_count: 2
+mention_count: 3
 counts:
   key_to_recovery: 0
-  helped_partial:  1
+  helped_partial:  2
   no_effect:       0
   harmed:          0
   recommended:     1
   mentioned_only:  0
-sentiment_summary: recommended
+sentiment_summary: helped-some
 tags: [eft, meridian-tapping, emotional-freedom-technique, self-administered, amygdala, callahan-craig, mind-body, vagus, ptsd-aware]
-updated: 2026-05-08
-episodes: ["LCP-137", "LCP-174", "RA-118"]
+updated: 2026-05-19
+episodes: ["LCP-137", "LCP-174", "LCP-214", "RA-118"]
 ---
 
 # EFT Meridian Tapping
@@ -44,6 +44,7 @@ Lorrie recommends 2× daily, daily, ideally for the duration of the work; less f
 |---:|---|---|---|---|---|
 | LCP #137 | [[lorrie-rivers]] | coach (recovered ME/CFS + LC + fibromyalgia) | recommended | anxiety, ptsd, brain-fog, fatigue, mental-health | Live demo on episode (Jackie 8/9 → 5/6 in one round on concert anxiety). Lorrie has used EFT on herself and clients for 20+ years; teaches it as a foundational nervous-system tool in her LC/MECFS course. Cites MRI evidence of amygdala quieting after sessions. PTSD caution flagged. *Reaffirmed RA #118 (June 2021) — credits EFT as the entry-point that gave her the first emotional-relief signal, then evolved into [[healing-codes-trilogy]] for deeper effect. Not double-counted.* |
 | #174 | [[uros-cimzar]] | patient (recovered) | helped_partial | anxiety, general-lc | Tried EFT-tapping as one of several daily-stack experiments alongside somatic tracking, expressive writing, yoga nidra. "Some things resonated, some didn't" — tapping landed for him; kept it in rotation. Not the inflection but a tolerated nervous-system tool. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | helped_partial | anxiety, pain, general-lc | **Stacked with breath + self-talk** as the three-way combo for high-symptom moments. Used during the more difficult/challenging waves; not the primary tool (breath was) but specifically what she reached for when symptom intensity was high. Trained in tapping before LC; reactivated the practice. |
 
 ## See also
 

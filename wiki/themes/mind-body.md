@@ -1,9 +1,9 @@
 ---
 title: Mind-Body
 type: theme
-tags: [mind-body, brain-retraining, neuroplasticity, somatic, ns-regulation, polyvagal, sirpa, convalescence, tms, mental-self-harming, somatic-tracking]
-updated: 2026-05-05
-episodes: [7, 8, 17, 20, 23, 29, 30, 32, 34, 40, 124, 126, 127, 138, 144, 145, 146, 165, 166, 169]
+tags: [mind-body, brain-retraining, neuroplasticity, somatic, ns-regulation, polyvagal, sirpa, convalescence, tms, mental-self-harming, somatic-tracking, schubiner-lineage]
+updated: 2026-05-19
+episodes: [7, 8, 17, 20, 23, 29, 30, 32, 34, 40, 124, 126, 127, 138, 144, 145, 146, 165, 166, 169, 214]
 ---
 
 # Mind-Body
@@ -36,6 +36,7 @@ This theme is present across multiple recovery stories on the podcast and is als
 - [[165-lizzie-recovery]] — recovered patient; **Jan Rothney's book** + **Curable** + **amygdala pep talk** mantra technique. Step-counting harm story (threshold-anxiety as iatrogenic).
 - [[166-rebecca-tolin-not-broken]] — recovered ME/CFS coach; **Sarno/Schubiner/Gordon lineage with somatic tracking as core practice**. 13-year detour through biomedical model before the inflection. "I'm not broken" reframe. Inner-emotional work + personality-trait awareness + self-compassion.
 - [[169-five-themes-recovery]] — Jackie's host-solo synthesis; mindset is theme #2 of her five recovery themes; brain-retraining named as common (not universal) part of recovery stacks.
+- [[214-lalita-neuroplasticity-recovery]] — recovered patient + Schubiner-trained coach; **breath-led core protocol with combined-practice unit** (breath + self-talk + tapping done together, not stacked); EAET trauma-pattern dig for repeating symptoms. Distinguishes from somatic-tracking-led (Tolin #166) and TMS-journal-led (Esther #32) routes within the same lineage by foregrounding breath as the central in-the-moment tool.
 
 ## Vocabulary map
 

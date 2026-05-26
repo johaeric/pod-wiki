@@ -2,18 +2,18 @@
 title: Antihistamines (H1 + H2)
 type: intervention
 intervention_type: drug
-mention_count: 8
+mention_count: 9
 counts:
   key_to_recovery: 0
-  helped_partial:  2
+  helped_partial:  3
   no_effect:       0
   harmed:          0
   recommended:     6
   mentioned_only:  0
 sentiment_summary: helped-some
-tags: [antihistamines, h1, h2, loratadine, cetirizine, fexofenadine, famotidine, ranitidine, mcas, mast-cell, eric-stack, stimulate-icp]
-updated: 2026-05-05
-episodes: [33, 38, 46, 66, 68, 72, 116, 171]
+tags: [antihistamines, h1, h2, loratadine, cetirizine, fexofenadine, famotidine, ranitidine, mcas, mast-cell, eric-stack, stimulate-icp, tinnitus]
+updated: 2026-05-19
+episodes: ["LCP-33", "LCP-38", "LCP-46", "LCP-66", "LCP-68", "LCP-72", "LCP-116", "LCP-171", "LCP-214"]
 ---
 
 # Antihistamines (H1 + H2)
@@ -51,6 +51,7 @@ Add **mast-cell stabilisers** (ketotifen, sodium cromoglicate) if H1+H2 insuffic
 | #72 | [[amitava-banerjee]] | researcher (CI STIMULATE-ICP) | recommended | mcas, general-lc | **H1+H2 combination (loratadine + famotidine) is one of three drug arms in the STIMULATE-ICP platform trial** — first formally trialled antihistamine hypothesis for LC in the wiki. |
 | #116 | [[claire-taylor]] | clinician (UK GP specialist) | recommended | mcas, lc | H1+H2 at higher-than-OTC doses, twice daily, as part of empirical MCAS treatment. Uses the **pragmatic MCAS consensus** (treat empirically based on symptom + response) rather than the strict consensus (urine histamine + tryptase mandate). Sixth wiki-anchor recommendation; mainstream-now. |
 | #171 | [[aaron-west-recovery]] | patient (recovered LC, US) | helped_partial | mcas, anxiety, gi-dysfunction, sleep | Daily Zyrtec + Pepcid (sometimes Claritin) as part of his 2.5-year LC pharmacological stack. Took ~1 month to streamline once started. Helped balance MCAS-pattern symptoms (GI vomiting, anxiety surges, palpitations). Continued through recovery (light-switch from Omicron reinfection Jan 5 2024). |
+| LCP #214 | [[lalita]] | coach (recovered LC) | helped_partial | tinnitus, mcas, general-lc | **Specifically credited for resolving the last lingering symptom — tinnitus** (*"I believe the antihistamines helped a lot with that"*). Audiology fully cleared structural causes first; then antihistamines as part of her naturopath-guided stack alongside quercetin, mast-cell-adjacent supplements. **First wiki row tying antihistamines specifically to tinnitus resolution** — worth pairing with [[tinnitus]] symptom page (which currently lists "supplements: anti-recommended" but didn't address H1/H2 specifically). |
 
 ## See also
 

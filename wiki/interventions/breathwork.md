@@ -2,18 +2,18 @@
 title: Breathwork
 type: intervention
 intervention_type: behavioral
-mention_count: 20
+mention_count: 21
 counts:
-  key_to_recovery: 4
+  key_to_recovery: 5
   helped_partial:  7
   no_effect:       0
   harmed:          0
   recommended:     9
   mentioned_only:  0
 sentiment_summary: helped-some
-tags: [breathwork, breathing, dysfunctional-breathing, vagal, hyperventilation, co2-tolerance, nose-breathing, buteyko, hrv-biofeedback, integrative-breathing-therapy, polyvagal-frame]
-updated: 2026-05-08
-episodes: ["LCP-2", "LCP-12", "LCP-17", "LCP-20", "LCP-23", "LCP-25", "LCP-29", "LCP-64", "LCP-82", "LCP-111", "LCP-114", "LCP-125", "LCP-132", "LCP-133", "LCP-174", "LCP-176", "LCP-181", "LCP-182", "RA-170", "RA-221"]
+tags: [breathwork, breathing, dysfunctional-breathing, vagal, hyperventilation, co2-tolerance, nose-breathing, buteyko, hrv-biofeedback, integrative-breathing-therapy, polyvagal-frame, self-talk-paired]
+updated: 2026-05-19
+episodes: ["LCP-2", "LCP-12", "LCP-17", "LCP-20", "LCP-23", "LCP-25", "LCP-29", "LCP-64", "LCP-82", "LCP-111", "LCP-114", "LCP-125", "LCP-132", "LCP-133", "LCP-174", "LCP-176", "LCP-181", "LCP-182", "LCP-214", "LCP-215", "RA-170", "RA-221"]
 ---
 
 # Breathwork
@@ -54,7 +54,7 @@ Closely intertwined on the podcast with **yoga**, **somatics**, and **vagal-tone
 | #23 | [[sally-riggs]] | psychologist / patient (substantial recovery) | recommended | dysautonomia, fatigue | Notes breathwork is one tool among many — and pacing real-world energy budget matters as much as technique choice. (Stasis-breathing tried twice + abandoned by Sally — see [[stasis-breathing]].) |
 | #25 | [[david-douglas]] / [[gareth-williams]] | vocal coach + composer | recommended | breathing-pattern-disorder | Singing as breathwork by another route. 12-week Scottish Opera Breath Cycle programme; lineage from a 2013 cystic fibrosis pilot reporting ~14 % lung-capacity uplift. See [[breath-cycle]]. |
 | #29 | [[lorna-nicholson]] | nurse / Buteyko / SIRPA | recommended | breathing-pattern-disorder, pots, dysautonomia | Buteyko-trained. Nose breathing during exercise. Slow belly breathing first; high-counting Buteyko exercises (e.g. 7-in-5-out) too hard for most LC starts — start simpler, seated. Cites breathing-pattern-disorder research as core to POTS/LC. |
-| #64 | [[jackie-baxter]] | host (recovering patient) | key_to_recovery | breathing-pattern-disorder, dysautonomia, fatigue | Lists breathing as #1 in her **self-declared top-3** of what helped most. *"Fixing my breathing pattern initially, then really understanding the power of breath."* Followed by deep-rest (yoga nidra) and cold-water swimming. Co-leads [[long-covid-breathing]] course with [[vikki-jones]]. **Reaffirmed at full recovery in [[094-jackies-recovery-story]]**, with explicit two-phase framing: (1) re-learn dysfunctional breath pattern; (2) use breath as **active autonomic-regulation tool** (slow HR / dampen palpitations on demand). She is now in breathing-instructor training. |
+| #64 | [[jackie-baxter]] | host (recovering patient) | key_to_recovery | breathing-pattern-disorder, dysautonomia, fatigue | Lists breathing as #1 in her **self-declared top-3** of what helped most. *"Fixing my breathing pattern initially, then really understanding the power of breath."* Followed by deep-rest (yoga nidra) and cold-water swimming. Co-leads [[long-covid-breathing]] course with [[vikki-jones]]. **Reaffirmed at full recovery in [[094-jackies-recovery-story]]**, with explicit two-phase framing: (1) re-learn dysfunctional breath pattern; (2) use breath as **active autonomic-regulation tool** (slow HR / dampen palpitations on demand). She is now in breathing-instructor training. **Reaffirmed again in [[215-jackie-overwhelm-101]]** (May 2026): the "micro pause = one soft breath out, NOT a deep breath" formulation — explicit correction to the common "take a deep breath" advice that worsens overbreathing in LC patients. Not double-counted; row applies. |
 | #82 | [[jay-wiles]] | practitioner (HRV biofeedback) | recommended | dysautonomia, mental-health | Frames breathwork as the **active ingredient** in [[hrv-biofeedback]] — the data is motivation only. Slow paced breathing demonstrably elevates HRV in real time. Cited as the highest-leverage emotional-health lever in his four-pillar model. |
 | #111 | [[sophie-reynolds]] | patient (recovered ME/CFS, pre-Covid) | helped_partial | mecfs-criteria, anxiety, fatigue | Breath integrated with Pilates exercise (lateral-rib breath, exhale-on-exertion) was a load-bearing part of her recovery. Pairs with the OHC STOP technique (hands-on-chest, deep breath, "stop", notice the calm). |
 | #114 | [[sarah-lotus-path-yogi]] | patient (recovered LC) | helped_partial | pem, fatigue, dysautonomia | Multi-modal breath practice — yoga-nidra, meditation, pranayama — woven through her 10-12× daily enforced rest. Now teaches breath-with-movement in her Lotus Path Yoga programme. |
@@ -67,6 +67,7 @@ Closely intertwined on the podcast with **yoga**, **somatics**, and **vagal-tone
 | #182 | [[karen-wright]] | patient (recovered, NHS physio) | key_to_recovery | pots, pem, fatigue | Breathwork was a major form of "real rest" while severely affected — could only do it lying down. Combined with meditation and yoga nidra. Now teaches breathwork via Sage Health and Wellness. |
 | RA #170 | [[matt-butler]] | patient (recovered) | helped_partial | post-viral-fatigue, pem, anxiety | One leg of his multi-component daily 2-hour stack (yoga + meditation + breathing). Helped down-regulate symptoms over 2 months. Not the single key (he's explicit no single component owned the recovery). |
 | RA #221 | [[roberto-escobar]] | patient (recovered) | key_to_recovery | post-viral-fatigue, pem, dysautonomia, ptsd | Breathwork **with the polyvagal-theory frame** (paired with yoga + laughing yoga) was the load-bearing recovery work after his year-1 multi-modal flailing. Same techniques without the frame had not worked. **4th `key_to_recovery` for breathwork on this corpus.** Worth pairing with [[polyvagal-theory]]: the *understanding* of why slow exhalation engages the vagus is what made his existing practice click. |
+| LCP #214 | [[lalita]] | coach (recovered LC, neuroplasticity practitioner) | key_to_recovery | dysautonomia, pots, tinnitus, anxiety, pain, brain-fog, general-lc | **Explicitly her #1 driver**: *"propelled my healing more than anything else."* Default pattern 4-in / 6-out (also "sniff-sniff-poo" for panic). The distinguishing feature was **30–40 uses per day** at peak symptom load, **combined inside each breath cycle** with self-talk (*"you're going to be okay, this is just your nervous system, you're not in danger"*) and tapping when needed. The combination — not the components — was the unit. Built a proof-loop: tool → symptom resolves in real time → brain registers safety → cumulative danger-signal down-regulation. **5th `key_to_recovery`.** |
 
 ## Practical first-line (consolidated)
 

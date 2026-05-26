@@ -2,12 +2,12 @@
 title: Tinnitus
 type: symptom
 symptom_cluster: sensory
-related_interventions: [hearing-aids, cbt, sound-therapy, breathwork, stellate-ganglion-block]
-mention_count: 3
-top_helpers: [hearing-aids, cbt, sound-therapy]
-tags: [tinnitus, hearing, sensory]
-updated: 2026-05-04
-episodes: [71, 76]
+related_interventions: [hearing-aids, cbt, sound-therapy, breathwork, stellate-ganglion-block, antihistamines]
+mention_count: 4
+top_helpers: [hearing-aids, cbt, sound-therapy, antihistamines]
+tags: [tinnitus, hearing, sensory, mcas-adjacent]
+updated: 2026-05-19
+episodes: ["LCP-71", "LCP-76", "LCP-214"]
 ---
 
 # Tinnitus
@@ -25,11 +25,13 @@ Symptoms can fluctuate; **spikes** typically follow change (new infection, stres
 | CBT | #71 Wray | recommended (best evidence) |
 | Stress reduction (breathwork, meditation) | #71 Wray | recommended |
 | Stellate ganglion block | #76 Groysman | small N anecdotal — one patient cleared after one block |
+| **Antihistamines (H1+H2)** | LCP #214 Lalita | anecdotal — credited with resolving her tinnitus (the last symptom to go) |
+| Nervous-system protocol (breath + self-talk) | LCP #214 Lalita | anecdotal — full resolution as part of broader NS-led recovery |
 
 ## What does **not** help
 
-- **Supplements** — explicitly anti-recommended (#71)
-- **Drugs** — no medication exists for tinnitus (#71)
+- **Supplements (in general)** — explicitly anti-recommended (#71). *Note: see [[214-lalita-neuroplasticity-recovery]] for the antihistamine-adjacent claim — Lalita's framing is mast-cell-stabilising, not "supplement," but the line is fuzzy.*
+- **Drugs (until #214)** — Wray (#71) said no medication exists for tinnitus; Lalita's antihistamine claim is a partial counterpoint, though it's plausibly an indirect mast-cell mechanism rather than direct tinnitus-targeting pharmacology.
 - **Avoiding all sound** — quiet rooms make tinnitus more intrusive (#71)
 
 ## Red flags (see clinician immediately)
@@ -47,10 +49,13 @@ Multiple plausible mechanisms in long covid: viral-trigger neuroinflammation, sy
 
 - [[071-nic-wray-tinnitus]] — anchor (general + LC tinnitus, all from Tinnitus UK perspective)
 - [[076-dr-robert-groysman-sgb]] — anecdotal SGB benefit in tinnitus
+- [[214-lalita-neuroplasticity-recovery]] — antihistamines specifically credited with resolving tinnitus; full NS-led LC recovery
 
 ## See also
 
 - [[nic-wray]]
 - [[robert-groysman]]
+- [[lalita]]
 - [[autonomic-dysfunction]]
 - [[stellate-ganglion-block]]
+- [[antihistamines]]

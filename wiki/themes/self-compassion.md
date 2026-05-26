@@ -1,9 +1,9 @@
 ---
 title: Self-Compassion
 type: theme
-tags: [self-compassion, kristin-neff, mind-body, recovery-narrative, mental-self-harming]
-updated: 2026-05-05
-episodes: [32, 34, 100, 174, 178, 180]
+tags: [self-compassion, kristin-neff, mind-body, recovery-narrative, mental-self-harming, breath-paired, capacity-framing]
+updated: 2026-05-21
+episodes: ["LCP-32", "LCP-34", "LCP-100", "LCP-174", "LCP-178", "LCP-180", "LCP-214", "LCP-215"]
 ---
 
 # Self-Compassion
@@ -18,6 +18,8 @@ The recurring observation across the recovery-story episodes is that **TMS / min
 - **#174 Uroš** — **Kristin Neff's 20-minute self-compassion guided meditation** as the catalyst that opened a 20-year backlog of suppressed emotion. Crying for the first time in years on session 3. Pair with expressive writing.
 - **#178 Alisha** — **Self-compassion as the productivity-≠-worth corrective.** Allowing herself to be lovable while doing nothing was the prerequisite for the rest of the recovery work to land. Slow reintroduction of activity *with joy*, not duty.
 - **#180 Jules Rogers** — boundaries-as-self-compassion. The internal work of not folding when the guilt of saying no surfaces. "No is a complete sentence."
+- **#214 [[lalita]]** — **self-compassion built *inside* the breath cycle, not as a separate practice.** Every breath round: 4-in / 6-out + the self-talk *"you're going to be okay, this is just your nervous system, you're not in danger."* Done 30-40× per day at peak. Lalita's instruction to clients who can't access self-compassion for themselves: imagine speaking to your child, or your best friend; build the muscle from there. Then ask friends what they love about you — externalises the kindness until the patient can find it internally.
+- **#215 [[215-jackie-overwhelm-101|Jackie host-solo]]** — **capacity-not-character reframe**: overwhelm is not a mindset failure but a nervous-system bandwidth issue. *"It's not in your head. It's not something you deliberately did wrong. It is your body trying to protect you."* The episode's 7-tool list (name → orient → reduce input → micro pause → contact → shrink moment → not-now-on-problem-solving) operationalises self-compassion as a sequence of **specific permission moves** — gentler than "be kind to yourself" because each step is concrete enough to execute when the capacity is low.
 
 ## Cross-route convergence
 
@@ -42,6 +44,11 @@ The substrate is consistent: the way the person speaks to themselves materially 
 - [[032-esther-recovery-story]]
 - [[034-sam-munslow-covid-coach]]
 - [[100-michelle-irving-emotional-empowerment]]
+- [[214-lalita-neuroplasticity-recovery]]
+- [[215-jackie-overwhelm-101]]
 - [[mind-body]]
 - [[mental-self-harming]]
 - [[acceptance]]
+- [[breathwork]]
+- [[autonomic-dysfunction]]
+- [[immobilization]]
