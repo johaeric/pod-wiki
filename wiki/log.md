@@ -1374,3 +1374,34 @@ Diagnosed an indexing-synthesis gap raised by Eric: per-episode pages had headac
 - `wiki/index.md` — symptoms section + interventions section + filed-queries section updated.
 
 **Root cause of the gap**: per-episode extraction picked up headache mentions (they made it into `symptoms_discussed:` arrays), but no aggregator pages existed for headache/migraine, so the synthesis layer had nowhere to land them. Profile-bias (Eric: POTS+PEM+MCAS, not migraine) contributed but wasn't the primary cause.
+
+## [2026-05-28] update | supplement coverage gap-fill — 10 new pages + 4 rebuilds
+
+Triggered by Eric's request to look for supplements potentially missed by the initial ingest (he's considering adding supplements to his regimen and wanted a complete picture). Sweep grepped ~130 supplement-related keywords across all 255 transcripts; report identified Tier A gaps (electrolytes, CoQ10, B12, glutathione) and materially under-counted existing pages (vitamin D 2→16, zinc 1→6, magnesium 5→11, melatonin 1→3).
+
+**New intervention pages (10)**:
+- `electrolytes.md` — 14 mentions; 2 helped_partial / 7 recommended / 5 mentioned_only. Most consistently *recommended* non-drug POTS intervention in the corpus. **Eric-relevant — actively titrating per memory.** Distinct from [[salt-loading]] and [[oral-rehydration-solution]].
+- `coq10.md` — 4 recommended. Clinician-stack anchor (Myhill, Teitelbaum, Putrino, Galland). Floor, not lever.
+- `glutathione.md` — 1 harmed (RA #546 Jamie) + 6 recommended. Cross-ref [[nac-max]] (Driscoll's product *recycles* glutathione).
+- `alpha-lipoic-acid.md` — 1 recommended (Teitelbaum #167 nerve-pain pairing with ALCAR). Thin. Filtered out LCP #33 false positive (auto-caption mangling of "lipoteichoic acid" not "lipoic acid").
+- `acetyl-l-carnitine.md` — 3 recommended. ALCAR + L-carnitine in one page; vegetarian heads-up.
+- `vitamin-b12.md` — 2 helped_partial (Sarah #114 high-dose injections + Rachel #8 4-item-cull retainer) / 2 recommended. **Strongest of the new micronutrient pages.**
+- `folate-methylfolate.md` — 1 mentioned_only (Spechler #129). Thin.
+- `thiamine-b1.md` — 2 (Myhill mito-stack + Rivers RA #118). The broader Lonsdale/Overton TTFD community signal is absent from corpus — that absence is data.
+- `iodine.md` — 2 (Myhill #118 + Littlewood #45). Outlier framing; not echoed.
+- `selenium.md` — 1 recommended / 1 no_effect (Groysman #91 for LC hair loss) / 1 mentioned_only. Thin with one explicit negative row.
+
+**Rebuilt existing pages (4)**:
+- `vitamin-d.md` — 2 → 16. All clinician-recommended (Stewart, Galland, Dempsey, Myhill, Bailey, Groysman, Krick, Taylor, Joffe, Littlewood, Gerlach). No patient `key_to_recovery`. Bailey #163 anti-megadose voice now captured. Includes Dempsey #88 MCAS excipient-not-vitamin caveat.
+- `zinc.md` — 1 → 6. Bailey #162/163 anchor (zinc sulfate 7 mg 2×/day + vit C + lysine immune trio); Jamie #186 placebo-frame helped_partial (reaffirmed RA #546); copper-balance + check-serum cautions.
+- `magnesium.md` — 5 → 11. Preserved existing 5 rows; added Joffe #143 (restless-legs/dopamine), Bailey #163 (foundational glycinate), Donna Shaw RA #228 (Epsom-salt baths, helped_partial), Kelly Mitchell #12 (electrolyte mechanism), Spechler #129 (dietary), Kristine RA #226 (mentioned_only).
+- `slow-release-melatonin.md` — 1 → 3. **Rescoped to broader "Melatonin"** (filename kept to preserve inbound links; `title:` changed). Added Teitelbaum #167 (EP120 sustained-release) and Spechler #129 (serotonin-melatonin tryptophan-pathway mechanism). Kept Joffe #143 low-dose slow-release as named subsection.
+
+**Cross-source observations**:
+- Raelan corpus is supplement-light — only 3 RA rows across all 14 pages this batch (Donna Shaw magnesium Epsom; Jamie glutathione harmed + RA #546 zinc reaffirmation; Kristine RA #226 magnesium mentioned). Reinforces the Raelan source-bias documented in CLAUDE.md: recovery narratives there are dominated by brain-retraining / nervous-system work, not supplement stacks.
+- Zero patient `key_to_recovery` rows across the entire 14-page batch. Supplements in this corpus are clinician floor, not patient lever. **The strongest patient signal in this batch is `helped_partial`** (B12 ×2, electrolytes ×2, magnesium ×2).
+- Only explicit `harmed` row: Jamie/glutathione (RA #546) — IV glutathione + vit C "didn't do anything, in fact I think made me worse" pre-Clinic-19.
+- Only explicit `no_effect` row: Groysman/selenium for LC hair loss (#91).
+- Recurring "mitochondrial stack" clinician pattern (Teitelbaum/Myhill/Galland/Putrino): Mg + CoQ10 + ALCAR + B-vitamins + D-ribose. Now properly cross-linked across pages.
+
+**Process notes**: First parallel run (4 sub-agents) crashed mid-session — only electrolytes + vitamin-d + zinc survived. Second pass ran the remaining 3 cluster-agents sequentially, which worked. All 14 pages verified for counts integrity (frontmatter `counts:` block sums to evidence-log row count).

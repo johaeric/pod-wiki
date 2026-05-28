@@ -1,7 +1,7 @@
 ---
 title: Index
 type: index
-updated: 2026-05-08
+updated: 2026-05-28
 ---
 
 # Index
@@ -326,7 +326,7 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[hrg80-red-ginseng]] — supplement · 1 mention · helped-some (1 recommended) · adaptogen; commercial brand (Teitelbaum #55).
 - [[ice-packs-temperature]] — behavioral · 4 mentions · helped-some (2 helped_partial, 2 recommended) · neck/face cooling for thermal dysregulation (Reema #60); **Rosie #61 paediatric — only thing that helped year-long constant migraine when nothing pharmacological worked**; **Powers #164 PEM-crash recovery + vagal stim**; **Mooney #170 pre-emptive autonomic-calming before activity**.
 - [[vitamin-b2-riboflavin]] — supplement · 1 mention · helped-many (1 recommended) · **400 mg/day × 6 weeks → 67–70% migraine-frequency reduction** per studies Teitelbaum cites (#167). Pair with [[magnesium]] + early-dose triptans + food-sensitivity management. **Anchor migraine protocol. New 2026-05-26.**
-- [[magnesium]] — supplement · 5 mentions · helped-some (1 helped_partial, 4 recommended) · base-stack supplement; uses across migraine (Teitelbaum #167), POTS (Gupta #57), mitochondrial (Myhill #118, Newiss #21), sleep (glycinate form). Whitfield #8 kept it after culling everything else. **New 2026-05-26.**
+- [[magnesium]] — supplement · 11 mentions · helped-some (2 helped_partial, 6 recommended, 3 mentioned_only) · base-stack supplement; migraine (Teitelbaum #167 + B2 pairing), POTS (Gupta #57), mitochondrial (Myhill #118, Newiss #21), restless-legs/dopamine (Joffe #143), foundational glycinate (Bailey #163), Epsom-salt baths (Donna Shaw RA #228 + Myhill #118). Whitfield #8 + Donna Shaw helped_partial. **Expanded 2026-05-28.**
 - [[triptans-imitrex]] — drug · 3 mentions · mostly-unhelpful (1 recommended, 2 no_effect) · acute migraine abortion; **Teitelbaum #167 — take *early* before eye/ear-tenderness threshold or stomach shuts off**; Chiara #3 misdiagnosed-as-menopausal-migraine (declined); Devon Carter RA #984 — ER migraine meds applied to an LC crash, no follow-up. **New 2026-05-26.**
 - [[iv-saline]] — rehab · 2 mentions · helped-many (2 recommended) · transformative; "wheelchair in, walks out" 24-36hr effect; Gupta #57; **Powers #164 PEM-crash recovery use-case**; not NHS-available.
 - [[helapheresis]] — device · 3 mentions · helped-some (1 helped_partial, 2 recommended) · Jaeger / Mülheim; pair with triple therapy.
@@ -370,7 +370,7 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[yoga]] — behavioral · 3 mentions · helped-some (2 helped_partial, 1 recommended).
 - [[yoga-nidra]] — behavioral · 7 mentions · helped-many (2 key_to_recovery, 2 helped_partial, 3 recommended) · **Jackie's self-declared top-3 (#64); Uroš #174 — "first thing that made me better, mentally before physically."**
 - [[2-day-cpet]] — device · 2 mentions · clinician-recommended · gold-standard objective PEM biomarker (Davenport #141 + Faghy 2-day spread #120).
-- [[slow-release-melatonin]] — drug · 1 mention · clinician-recommended · 2 mg at 7 pm (Joffe #143); resets circadian clock; bonus endothelial protection at low dose.
+- [[slow-release-melatonin]] — drug (page rescoped to "Melatonin") · 3 mentions · mostly-recommended (2 recommended, 1 mentioned_only) · Joffe #143 2 mg at 7 pm (circadian + endothelial); Teitelbaum #167 sustained-release EP120 for sleep; Spechler #129 serotonin-melatonin tryptophan-pathway mechanism. **Rescoped + expanded 2026-05-28.**
 - [[eaet]] — behavioral · 1 mention · clinician-recommended · Schubiner + Lumley Emotional Awareness and Expression Therapy (Kennedy #146).
 - [[expressive-writing]] — behavioral · 4 mentions · helped-some (1 key_to_recovery, 1 helped_partial, 2 recommended) · Pennebaker emotional-disclosure protocol; **Uroš #174 dissolved 20-year emotion backlog in 3 sessions**; Alisha #178 part of daily journaling; Clarke #179 "letters not to mail" as canonical emotional-disclosure prescription.
 - [[ifs-therapy]] — behavioral · 1 mention · helped-some (1 helped_partial) · Internal Family Systems / Dick Schwartz; Adams #145 uses post-recovery for everyday dysregulation.
@@ -394,12 +394,12 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[peptides-thymosin]] — drug · 1 mention · 1 recommended · Thymosin α-1 / β-4 — thymic peptides used by Stewart #185 to recover exhausted T-cells in chronic-spike LC. Russian sports-doping research origin (leaked 2018).
 - [[d-chiro-inositol]] — supplement · 1 mention · 1 recommended · Vitamin-B8-form inositol; Stewart #185 uses to assist insulin-mediated glucose delivery to mitochondria when autophagy is weak.
 - [[antipsychotics-olanzapine]] — drug · 1 mention · 1 helped_partial · Atypical antipsychotic — Jamie #186 emergency psychiatric medication during hospitalised mental crisis. Hard to taper. ⚠️ NOT recommended as LC treatment.
-- [[zinc]] — supplement · 1 mention · 1 helped_partial · Jamie #186 took on protocol-creator's insistence; got up to walk to toilet. Patient herself attributes to belief, not zinc. Useful illustration that "what worked" isn't always pharmacologically obvious.
+- [[zinc]] — supplement · 6 mentions · helped-some (1 helped_partial, 2 recommended, 3 mentioned_only) · Bailey #162/163 anchor — zinc sulfate 7 mg 2×/day + lysine + vit C immune trio (argues field overweights vit D); Jamie #186 placebo-frame helped_partial (reaffirmed RA #546); Newiss #21 mito-stack; copper-balance + check-serum cautions throughout. **Rebuilt 2026-05-28.**
 - [[aspirin-low-dose]] — drug · 1 mention · 1 helped_partial · Self-prescribed low-dose aspirin — Natalie Gold #189 for burning-lung sensation / microclot theory. Modest boost (placebo or real); reinvested into committing to ANS Rewire.
 - [[ab21-probiotic]] — supplement · 1 mention · 1 recommended · L. plantarum-based Spanish probiotic (London pharmacy). Galland #191 cites controlled-trial faster acute COVID recovery; uses for *F. prausnitzii* depletion pattern.
 - [[curcumin]] — supplement · 1 mention · 1 recommended · Turmeric polyphenol; Galland #191 ACE2-restoration triad component. Used from acute COVID onward; near-zero LC progression in his cohort.
 - [[resveratrol]] — supplement · 1 mention · 1 recommended · Polyphenol; Galland #191 ACE2-restoration triad component (with vitamin D + curcumin).
-- [[vitamin-d]] — supplement · 2 mentions · helped-many (2 recommended) · Stewart #185 uses as steroid lever to turn off JAK-STAT inflammation; Galland #191 part of ACE2-restoration triad.
+- [[vitamin-d]] — supplement · 16 mentions · helped-many (1 helped_partial, 11 recommended, 4 mentioned_only) · most-mentioned supplement alongside magnesium. Stewart #185 microglial lever; Galland #191 ACE2-restoration triad; Dempsey #88 MCAS foundational (excipient-not-vitamin caveat); Myhill #118 10,000 IU + magnesium pairing; Bailey #163 anti-megadose voice (≤1,000 IU + liver-dump warning). No patient key_to_recovery — clinician floor, not lever. **Rebuilt 2026-05-28.**
 - [[hydrogen-water]] — supplement · 1 mention · 1 recommended · Galland #191 lists as gentle mitochondrial support — option for the subset where HBOT/ozone are too oxidative.
 - [[ivermectin]] — drug · 1 mention · 1 recommended · Stewart #185 uses off-label as part of his older-plant-derived medicines stack. Politically loaded; UK access limited; mainstream evidence contested.
 - [[hydroxychloroquine]] — drug · 1 mention · 1 recommended · Stewart #185 uses off-label as part of older-plant-derived medicines stack. Politically loaded; mainstream evidence contested.
@@ -411,6 +411,19 @@ _44 transcripts available. **44 of 44 ingested ✓** — full Raelan corpus inde
 - [[journaling]] — behavioral · 3 mentions · helped-some (2 helped_partial, 1 recommended) · expressive writing (Nora Rodden #211: write faster than you can think to bypass analytical brain); structured monthly symptom-+-activity journal (Dan Neuffer #198); processing emotional load (Ivor Clark #194).
 - [[visualization]] — behavioral · 1 mention · helped-some (1 helped_partial) · Ashley #206 part of brain-retraining stack alongside somatic therapy.
 - [[vestibular-rehab]] — rehab · 1 mention · 1 recommended · Keiser #207 — targeted microdrill format (head-turn with eyes-closed return, watching pupil dilation as failure marker) rather than gross "don't fall over" rehab.
+
+### Supplement gap-fill batch (2026-05-28)
+
+- [[electrolytes]] — supplement · 14 mentions · helped-some (2 helped_partial, 7 recommended, 5 mentioned_only) · most consistently *recommended* non-drug POTS intervention in the corpus (Boon Lim #40, Gupta #57, Spechler #201, Davenport #141, Mooney #170, etc.). Sarah #114 + Carl #176 helped_partial. **Spechler #129/#201 caveat: not blanket advice — sodium worsens vasoconstriction-pattern POTS.** Distinct from [[salt-loading]] + [[oral-rehydration-solution]]. **Eric-relevant — actively titrating.**
+- [[coq10]] — supplement · 4 mentions · mostly-recommended (4 recommended) · clinician-stack anchor (Myhill #118 100 mg/day in mito base stack; Teitelbaum #55 SHINE protocol; Putrino #181 mitochondrial-efficiency cluster; Galland #191 ubiquinone-vs-ubiquinol ratio caveat). No patient key_to_recovery — clinician floor, not lever.
+- [[glutathione]] — supplement · 7 mentions · mixed (1 harmed, 6 recommended) · clinician stack (Teitelbaum #55, Krick #106, Myhill #118, Driscoll #173, Stewart #185, Groysman). **Jamie RA #546 harmed row — IV glutathione + vit C "didn't do anything, in fact made me worse" pre-Clinic-19.** Cross-ref [[nac-max]] (Driscoll's glutathione-recycling product).
+- [[alpha-lipoic-acid]] — supplement · 1 mention · 1 recommended · Teitelbaum #167 paired with acetyl-L-carnitine for nerve pain. Thin evidence.
+- [[acetyl-l-carnitine]] — supplement · 3 mentions · mostly-recommended (3 recommended) · Teitelbaum #55 cardiac use + #167 nerve-pain pairing with ALA; Myhill #118 1 g/day in mitochondrial base stack. ALCAR + L-carnitine variants; vegetarian heads-up.
+- [[vitamin-b12]] — supplement · 4 mentions · helped-some (2 helped_partial, 2 recommended) · strongest new page in this batch. **Sarah #114 high-dose injections via Myhill credited for peripheral-neuropathy improvement (helped_partial); Rachel #8 kept B12 in 4-item supplement cull (helped_partial).** Bailey #163 argues field overweights vit D and under-weights B12.
+- [[folate-methylfolate]] — supplement · 1 mention · 1 mentioned_only · Spechler #129 names folate as B-vitamin depleted by restrictive low-carb diets. No supplement recommendation in the corpus. Thin evidence.
+- [[thiamine-b1]] — supplement · 2 mentions · mostly-recommended (1 recommended, 1 mentioned_only) · Myhill #118 Tier-2 mitochondrial stack; Rivers RA #118 promotes "high-dose thiamine" as topic without personal credit. Lonsdale/Overton TTFD community signal absent from corpus — that absence is data. Thin evidence.
+- [[iodine]] — supplement · 2 mentions · mostly-recommended (1 recommended, 1 mentioned_only) · Myhill #118 unusual framing — daily oral antimicrobial paired with vit C ("favourite multitasking tools"); Littlewood #45 thyroid cofactor only. Outlier voice, not echoed elsewhere in the corpus. Thin evidence.
+- [[selenium]] — supplement · 3 mentions · mixed (1 recommended, 1 no_effect, 1 mentioned_only) · Newiss #21 mito-stack food-first; **Groysman #91 no_effect for LC hair loss**; Littlewood #45 thyroid cofactor. Thin evidence with one explicit negative row.
 
 ## Programs
 
